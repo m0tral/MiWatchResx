@@ -1022,7 +1022,7 @@
 [indoor_football.sport|1]: Футзал
 [indoor_skating.sport|1]: Катание на коньках
 [info.tomatotimer|1]: Подробнее
-[inhale.breath|1]: Вдохнуть
+[inhale.breath|1]: Вдох
 [inout_wirst.settings|1]: Вращение запястья
 [input.settings|1]: Вход
 [input_key.system|1]: Введите ключ
