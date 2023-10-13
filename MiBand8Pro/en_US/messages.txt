@@ -1,2055 +1,2055 @@
-[]: Project-Id-Version: MIUI Watch\nLast-Translator: Automatically generated\nLanguage-Team: English, United States\nLanguage: en_US\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n
-[%.*fcnt/min.sport]: %.*f BPM
-[%.*fgroup.sport]: %.*f set
-[%.*fkcal.sport]: %.*f kcal
-[%.*fkm.sport]: %.*f km
-[%.*fkm_distance_calibration.sport]: Distance this run: %.*f km. Calibrate?
-[%.*fkm_per_hr.sport]: %.*f km/h
-[%.*fm.sport]: %.*f m
-[%.*fnumber.sport]: %.*f jump
-[%.*ftime.sport]: %.*f stroke
-[%.*ftrip.sport]: %.*f length
-[%02d%02d_update_am_time.sleep]: Updated: %02d:%02dAM
-[%02d%02d_update_pm_time.sleep]: Updated: %02d:%02dPM
-[%02d%02d_update_time.sleep]: Updated: %02d:%02d
-[%02d:%02dAMexit_sleep_mode.reminder]: Sleep mode off at %02d:%02d AM
-[%02d:%02dPMexit_sleep_mode.reminder]: Sleep mode off at %02d:%02d PM
-[%02d:%02d_update.health]: Updated: %02d:%02d
-[%02d:%02d_update.pressure]: Updated: %02d:%02d
-[%02d:%02dexit_sleep_mode.reminder]: Sleep mode off at %02d:%02d
-[%1$s_ampm_%2$s_time_combine.common]: %1$s%2$s
-[%2d_target_hour.sleep]: Goal: %2d hr
-[%2d_target_hours.sleep]: Goal: %2d hrs
-[%d%2d_12AMend.calendar]: Ends at %1$d:%2$02d AM
-[%d%2d_12PMend.calendar]: Ends at %1$d:%2$02d PM
-[%d%2d_24end.calendar]: Ends at %1$d:%2$02d
-[%d%d%dyear_month_day.todo]: %2$d/%3$d/%1$d
-[%d%d_target_time.sleep]: Goal: %dhrs %dmins
-[%d%d_time_sec.sleep]: %dhrs %dmins
-[%d%dmonth_day.common]: %1$d月%2$d日
-[%d%dmonth_day.todo]: %1$d/%2$d
-[%d%dmonth_day_slash.common]: %1$02d/%2$02d
-[%d%dravailable.settings]: Remaining battery life: %dd %dh
-[%d%dyear_month.calendar]: %2$d/%1$d
-[%d:%d.worldclock]: %d:%d
-[%d_cnt/min_just.health]: %d BPM (just now)
-[%d_hour_sec.sleep]: %d hr
-[%d_message.notify]: %d notification
-[%d_min_before.health]: %d min ago
-[%d_min_before.notify]: %d min ago
-[%d_min_sec.sleep]: %d min
-[%d_mins_before.pressure]: %d min ago
-[%d_unread_message.notify]: %d new notification
-[%dcalories_unit.act]: kcal
-[%dcnt/min.common]: %d次/分钟
-[%dcnt/min.sport]: %d BPM
-[%dday_later.wm]: In %d day
-[%dfull_hour.common]: %d小时
-[%dfull_hour.hr]: %d hr
-[%dfull_hour.reminder]: %dhr
-[%dfull_hour.sport]: %d hr
-[%dfull_min.common]: %d分钟
-[%dfull_min.hr]: %d min
-[%dfull_min.reminder]: %dmin
-[%dfull_min.settings]: %d min
-[%dfull_min_28.settings]: %d min
-[%dhour.common]: %d时
-[%dhour.worldclock]: %dhr
-[%dintensity_unit.act]: min
-[%ditem.todo]: %d item
-[%ditem_in_category.sport]: %d item
-[%ditem_schedules.calendar]: %d event
-[%dmin.common]: %d分
-[%dmin.vitality]: %d min
-[%dmin_retry.common]: Try again in %d min
-[%dmin_training.breath]: %d-min breathing
-[%dmin_warmup.sport]: %d min
-[%dminute.sport]: %d min
-[%dpercent.common]: %d%%
-[%dsec.common]: %d秒
-[%dsec.settings]: %d sec
-[%dsec_28.settings]: %d sec
-[%dsec_course_resume.sport]: Continue (%ds)
-[%dsec_retry.common]: Try again in %ds
-[%dsec_warmup.sport]: %d sec
-[%dstand_unit.act]: hr
-[%dstep_unit.act]: step
-[%dtime/minute.health]: %d BPM
-[%dtime_num.slep]: %d time
-[%dtime_warmup.sport]: %d rep
-[%s%stime_combine.common]: %1$s%2$s
-[%s%stime_combine.reminder]: %1$s%2$s
-[+%d:%ds.worldclock]: +%d:%d
-[AQI]: AQI
-[Apr.common]: 四月
-[Apr_n.common]: 4月
-[Aug.common]: 八月
-[Aug_n.common]: 8月
-[C102_cityname.worldclock]: Baghdad
-[C102_timezone.worldclock]: 180
-[C105_cityname.worldclock]: Bangkok
-[C105_timezone.worldclock]: 420
-[C106_cityname.worldclock]: Beirut
-[C106_timezone.worldclock]: 120
-[C109_cityname.worldclock]: Dhaka
-[C109_timezone.worldclock]: 360
-[C110_cityname.worldclock]: Dubai
-[C110_timezone.worldclock]: 240
-[C114_cityname.worldclock]: Hong Kong
-[C114_timezone.worldclock]: 480
-[C115_cityname.worldclock]: Jakarta
-[C115_timezone.worldclock]: 420
-[C116_cityname.worldclock]: Jerusalem
-[C116_timezone.worldclock]: 120
-[C117_cityname.worldclock]: Kabul
-[C117_timezone.worldclock]: 240
-[C118_cityname.worldclock]: Karachi
-[C118_timezone.worldclock]: 300
-[C119_cityname.worldclock]: Kathmandu
-[C119_timezone.worldclock]: 360
-[C120_cityname.worldclock]: Kuala Lumpur
-[C120_timezone.worldclock]: 480
-[C123_cityname.worldclock]: Manila
-[C123_timezone.worldclock]: 480
-[C124_cityname.worldclock]: Muscat
-[C124_timezone.worldclock]: 240
-[C125_cityname.worldclock]: Phnom Penh
-[C125_timezone.worldclock]: 420
-[C126_cityname.worldclock]: Pyongyang
-[C126_timezone.worldclock]: 540
-[C128_cityname.worldclock]: Yangon
-[C128_timezone.worldclock]: 360
-[C129_cityname.worldclock]: Riyadh
-[C129_timezone.worldclock]: 180
-[C130_cityname.worldclock]: Seoul
-[C130_timezone.worldclock]: 540
-[C132_cityname.worldclock]: Singapore
-[C132_timezone.worldclock]: 480
-[C134_cityname.worldclock]: Tehran
-[C134_timezone.worldclock]: 180
-[C136_cityname.worldclock]: Tokyo
-[C136_timezone.worldclock]: 540
-[C143_cityname.worldclock]: Adelaide
-[C143_timezone.worldclock]: 540
-[C144_cityname.worldclock]: Brisbane
-[C144_timezone.worldclock]: 600
-[C146_cityname.worldclock]: Darwin
-[C146_timezone.worldclock]: 540
-[C149_cityname.worldclock]: Perth
-[C149_timezone.worldclock]: 480
-[C151_cityname.worldclock]: Sydney
-[C151_timezone.worldclock]: 600
-[C156_cityname.worldclock]: Amsterdam
-[C156_timezone.worldclock]: 60
-[C15_cityname.worldclock]: Harare
-[C15_timezone.worldclock]: 120
-[C161_cityname.worldclock]: Berlin
-[C161_timezone.worldclock]: 60
-[C163_cityname.worldclock]: Brussels
-[C163_timezone.worldclock]: 60
-[C164_cityname.worldclock]: Bucharest
-[C164_timezone.worldclock]: 120
-[C165_cityname.worldclock]: Budapest
-[C165_timezone.worldclock]: 60
-[C167_cityname.worldclock]: Copenhagen
-[C167_timezone.worldclock]: 60
-[C168_cityname.worldclock]: Dublin
-[C168_timezone.worldclock]: 0
-[C170_cityname.worldclock]: Helsinki
-[C170_timezone.worldclock]: 120
-[C172_cityname.worldclock]: Istanbul
-[C172_timezone.worldclock]: 180
-[C173_cityname.worldclock]: Lisbon
-[C173_timezone.worldclock]: 0
-[C174_cityname.worldclock]: London
-[C174_timezone.worldclock]: 0
-[C176_cityname.worldclock]: Madrid
-[C176_timezone.worldclock]: 60
-[C178_cityname.worldclock]: Minsk
-[C178_timezone.worldclock]: 180
-[C180_cityname.worldclock]: Moscow
-[C180_timezone.worldclock]: 180
-[C181_cityname.worldclock]: Oslo
-[C181_timezone.worldclock]: 60
-[C182_cityname.worldclock]: Paris
-[C182_timezone.worldclock]: 60
-[C183_cityname.worldclock]: Prague
-[C183_timezone.worldclock]: 60
-[C185_cityname.worldclock]: Rome
-[C185_timezone.worldclock]: 60
-[C191_cityname.worldclock]: Stockholm
-[C191_timezone.worldclock]: 60
-[C192_cityname.worldclock]: Tallinn
-[C192_timezone.worldclock]: 120
-[C194_cityname.worldclock]: Vienna
-[C194_timezone.worldclock]: 60
-[C196_cityname.worldclock]: Vilnius
-[C196_timezone.worldclock]: 120
-[C197_cityname.worldclock]: Warsaw
-[C197_timezone.worldclock]: 60
-[C202_cityname.worldclock]: Auckland
-[C202_timezone.worldclock]: 720
-[C205_cityname.worldclock]: Honolulu
-[C205_timezone.worldclock]: -600
-[C206_cityname.worldclock]: Kiritimati
-[C206_timezone.worldclock]: 0
-[C21_cityname.worldclock]: Lagos
-[C21_timezone.worldclock]: 60
-[C224_cityname.worldclock]: San Francisco
-[C224_timezone.worldclock]: -480
-[C227_cityname.worldclock]: San Salvador
-[C227_timezone.worldclock]: -360
-[C230_cityname.worldclock]: Washington D.C.
-[C230_timezone.worldclock]: -300
-[C242_cityname.worldclock]: Atlanta
-[C242_timezone.worldclock]: -300
-[C252_cityname.worldclock]: Beijing
-[C252_timezone.worldclock]: 480
-[C253_cityname.worldclock]: Mumbai
-[C253_timezone.worldclock]: 300
-[C261_cityname.worldclock]: Frankfurt
-[C261_timezone.worldclock]: 60
-[C262_cityname.worldclock]: Hanoi
-[C262_timezone.worldclock]: 420
-[C263_cityname.worldclock]: Ankara
-[C263_timezone.worldclock]: 180
-[C265_cityname.worldclock]: Brasília
-[C265_timezone.worldclock]: -180
-[C266_cityname.worldclock]: Cape Town
-[C266_timezone.worldclock]: 120
-[C267_cityname.worldclock]: Islamabad
-[C267_timezone.worldclock]: 300
-[C268_cityname.worldclock]: Rio de Janeiro
-[C268_timezone.worldclock]: -180
-[C278_cityname.worldclock]: Santiago
-[C278_timezone.worldclock]: -240
-[C284_cityname.worldclock]: Kyiv
-[C284_timezone.worldclock]: 120
-[C285_cityname.worldclock]: St. Petersburg
-[C285_timezone.worldclock]: 180
-[C291_cityname.worldclock]: San Juan
-[C291_timezone.worldclock]: -240
-[C292_cityname.worldclock]: Tegucigalpa
-[C292_timezone.worldclock]: -360
-[C295_cityname.worldclock]: Hawaii
-[C295_timezone.worldclock]: -600
-[C296_cityname.worldclock]: Alaska
-[C296_timezone.worldclock]: -540
-[C297_cityname.worldclock]: Phoenix
-[C297_timezone.worldclock]: -420
-[C299_cityname.worldclock]: Kingston
-[C299_timezone.worldclock]: -300
-[C300_cityname.worldclock]: Praia
-[C300_timezone.worldclock]: -60
-[C301_cityname.worldclock]: Reykjavik
-[C301_timezone.worldclock]: 0
-[C302_cityname.worldclock]: Geneva
-[C302_timezone.worldclock]: 60
-[C303_cityname.worldclock]: Windhoek
-[C303_timezone.worldclock]: 120
-[C304_cityname.worldclock]: Sofia
-[C304_timezone.worldclock]: 120
-[C305_cityname.worldclock]: Athens
-[C305_timezone.worldclock]: 120
-[C306_cityname.worldclock]: Kaliningrad
-[C306_timezone.worldclock]: 120
-[C307_cityname.worldclock]: Khartoum
-[C307_timezone.worldclock]: 120
-[C308_cityname.worldclock]: Nairobi
-[C308_timezone.worldclock]: 180
-[C309_cityname.worldclock]: Aden
-[C309_timezone.worldclock]: 180
-[C310_cityname.worldclock]: Antananarivo
-[C310_timezone.worldclock]: 180
-[C311_cityname.worldclock]: Kuwait
-[C311_timezone.worldclock]: 180
-[C312_cityname.worldclock]: Abu Dhabi
-[C312_timezone.worldclock]: 240
-[C313_cityname.worldclock]: Samara
-[C313_timezone.worldclock]: 240
-[C314_cityname.worldclock]: New Delhi
-[C314_timezone.worldclock]: 300
-[C315_cityname.worldclock]: Novosibirsk
-[C315_timezone.worldclock]: 420
-[C316_cityname.worldclock]: Taiwan
-[C316_timezone.worldclock]: 480
-[C317_cityname.worldclock]: Irkutsk
-[C317_timezone.worldclock]: 480
-[C318_cityname.worldclock]: Chita
-[C318_timezone.worldclock]: 540
-[C319_cityname.worldclock]: Vladivostok
-[C319_timezone.worldclock]: 600
-[C321_cityname.worldclock]: Magadan
-[C321_timezone.worldclock]: 660
-[C322_cityname.worldclock]: Kamchatka
-[C322_timezone.worldclock]: 720
-[C323_cityname.worldclock]: Suva
-[C323_timezone.worldclock]: 720
-[C325_cityname.worldclock]: Wellington
-[C325_timezone.worldclock]: 720
-[C32_cityname.worldclock]: Asunción
-[C32_timezone.worldclock]: -240
-[C36_cityname.worldclock]: Buenos Aires
-[C36_timezone.worldclock]: -180
-[C38_cityname.worldclock]: Caracas
-[C38_timezone.worldclock]: -240
-[C3_cityname.worldclock]: Addis Ababa
-[C3_timezone.worldclock]: 180
-[C40_cityname.worldclock]: Chicago
-[C40_timezone.worldclock]: -360
-[C47_cityname.worldclock]: Edmonton
-[C47_timezone.worldclock]: -420
-[C4_cityname.worldclock]: Algiers
-[C4_timezone.worldclock]: 60
-[C52_cityname.worldclock]: Guatemala
-[C52_timezone.worldclock]: -360
-[C55_cityname.worldclock]: Havana
-[C55_timezone.worldclock]: -300
-[C65_cityname.worldclock]: Nuestra Señora de La Paz
-[C65_timezone.worldclock]: -240
-[C66_cityname.worldclock]: Lima
-[C66_timezone.worldclock]: -300
-[C67_cityname.worldclock]: Los Angeles
-[C67_timezone.worldclock]: -480
-[C69_cityname.worldclock]: Managua
-[C69_timezone.worldclock]: -360
-[C72_cityname.worldclock]: Mexico City
-[C72_timezone.worldclock]: -360
-[C73_cityname.worldclock]: Monterey
-[C73_timezone.worldclock]: -360
-[C74_cityname.worldclock]: Montevideo
-[C74_timezone.worldclock]: -180
-[C76_cityname.worldclock]: Nassau
-[C76_timezone.worldclock]: -300
-[C77_cityname.worldclock]: New York
-[C77_timezone.worldclock]: -300
-[C7_cityname.worldclock]: Cairo
-[C7_timezone.worldclock]: 120
-[C8_cityname.worldclock]: Casablanca
-[C8_timezone.worldclock]: 0
-[C93_cityname.worldclock]: Toronto
-[C93_timezone.worldclock]: -300
-[C94_cityname.worldclock]: Vancouver
-[C94_timezone.worldclock]: -480
-[C95_cityname.worldclock]: Winnipeg
-[C95_timezone.worldclock]: -360
-[C98_cityname.worldclock]: Almaty
-[C98_timezone.worldclock]: 360
-[C99_cityname.worldclock]: Amman
-[C99_timezone.worldclock]: 120
-[Dec.common]: 十二月
-[Dec_n.common]: 12月
-[Feb.common]: 二月
-[Feb_n.common]: 2月
-[Fri.calendar]: Fri
-[Fri.worldclock]: Fri
-[Fri_brief.calendar]: F
-[Fri_brief.common]: 五
-[Jan.common]: 一月
-[Jan_n.common]: 1月
-[July.common]: 七月
-[July_n.common]: 7月
-[June.common]: 六月
-[June_n.common]: 6月
-[Mar.common]: 三月
-[Mar_n.common]: 3月
-[May.common]: 五月
-[May_n.common]: 5月
-[Mon.calendar]: Mon
-[Mon.worldclock]: Mon
-[Mon_brief.calendar]: M
-[Mon_brief.common]: 一
-[Nov.common]: 十一月
-[Nov_n.common]: 11月
-[Oct.common]: 十月
-[Oct_n.common]: 10月
-[Sat.calendar]: Sat
-[Sat.worldclock]: Sat
-[Sat_brief.calendar]: S
-[Sat_brief.common]: 六
-[Sept.common]: 九月
-[Sept_n.common]: 9月
-[Sports.sport]: Workout
-[Sun.calendar]: Sun
-[Sun.worldclock]: Sun
-[Sun_brief.calendar]: S
-[Sun_brief.common]: 日
-[Thu.calendar]: Thu
-[Thu.worldclock]: Thu
-[Thu_brief.calendar]: T
-[Thu_brief.common]: 四
-[Tue.calendar]: Tue
-[Tue.worldclock]: Tue
-[Tue_brief.calendar]: T
-[Tue_brief.common]: 二
-[UVI]: UVI
-[Wed.calendar]: Wed
-[Wed.worldclock]: Wed
-[Wed_brief.calendar]: W
-[Wed_brief.common]: 三
-[ability_down.training]: Declining
-[ability_dsc.training]: Athletic ability
-[ability_keep.training]: Maintaining
-[ability_up.training]: Highly improving
-[about.common]: 关于
-[about.settings]: About
-[about.setupwizard]: About
-[about_title.settings]: About
-[accel_test.check_tool]: 加速度检测(3/14)
-[accomplish.sport]: Done
-[action_preview.sport]: Preview
-[active.nfc]: Loading
-[active_fail.nfc]: Couldn't load. Try again.
-[activities.act]: Time to stand up
-[activity.sport]: Activity
-[activity.watchface]: 活动统计
-[activityIndex]: Stats
-[add_city.worldclock]: Add location
-[add_driver.setupwizard]: Open Mi Fitness and add the device:
-[add_fail.nfc]: Couldn't add
-[add_full.nfc]: Max number of cards added
-[advanced_aerobic_endurance_running.sport]: Endurance run (Advanced)
-[advanced_aerobic_endurance_running_dsc.sport]: Longer jog for endurance.
-[advanced_fat_burning_run.sport]: Fat burn run (Advanced)
-[advanced_fat_burning_run_dsc.sport]: Low-medium intensity, extended jog for fat burn.
-[advanced_interval_running.sport]: Interval run (Advanced)
-[advanced_interval_running_dsc.sport]: Longer interval training for heart and lung health.
-[advanced_run_walk.sport]: Advanced run/walk
-[advanced_run_walk_dsc.sport]: Combines walking and jogging at intervals.
-[aerobic.common]: Aerobic
-[aerobic.sport]: Aerobic
-[aerobic_interval.sport]: Aerobic
-[aerobic_training_effect.sport]: Aerobic
-[aerobic_zone.hr]: Anaerobic
-[aerobic_zone1.hr]: At 81%-90% of your maximum heart rate, lactic acid tolerance is being improved.
-[aerobics.sport]: Aerobics
-[again.find_phone]: Search again
-[again_upgrade.setupwizard]: Try starting the update again on the app
-[agree.wxpay]: Accept
-[ai_escort.sport]: AI pacer
-[aivs.appname]: Xiao Ai
-[alarm]: Alarm
-[alarm.appname]: Alarm
-[alarm_deleted.alexa]: alarm_deleted.alexa
-[alarm_title.alexa]: alarm_title.alexa
-[alexa.appname]: alexa.appname
-[alipayPaymentCode]: Alipay
-[allbreath%d.breath]: %d breath
-[allday.calendar]: All day
-[allday_m36.calendar]: All day
-[always_bright_close.ctrl]: "Wake for 5 mins" is off
-[always_bright_open.ctrl]: "Wake for 5 mins" is on
-[alwayson_info.settings]: Screen will stay on for %d min each time. This will affect battery life. Turn on anyway?
-[am.common]: 上午
-[am_t.alarm]: AM
-[am_t.calendar]: AM
-[am_t.todo]: AM
-[anaerobic.common]: Anaerobic
-[anaerobic.sport]: Anaerobic
-[anaerobic_interval.sport]: Anaerobic
-[anaerobic_zone.hr]: Aerobic
-[anaerobic_zone1.hr]: At 71%-80%, cardiopulmonary functions are strengthened.
-[anim_cxkhz.sport]: Lateral star walk
-[anim_dtncdtls.sport]: Dynamic inner thigh stretch
-[anim_fbls.sport]: Abdominal stretch
-[anim_fsdthcls.sport]: Hamstring stretch
-[anim_fsycdthcls.sport]: Right thigh backward stretch (bent over)
-[anim_fsythcls.sport]: Right leg backward stretch (bent over)
-[anim_fszcdthcls.sport]: Left thigh backward stretch (bent over)
-[anim_fszthcls.sport]: Left leg backward stretch (bent over)
-[anim_gbczt.sport]: Lunge side twist
-[anim_gtt.sport]: Leg curl jumps
-[anim_gttp.sport]: High knees running
-[anim_gzbbls.sport]: Back stretch (kneeling)
-[anim_jtcgb.sport]: Alternating lateral lunge
-[anim_jttxwz.sport]: Alternating knee lift abduction
-[anim_kht.sport]: Star jump
-[anim_kqycxbqcls.sport]: Right forearm stretch on the wall
-[anim_kqycxtls.sport]: Right calf stretch on the wall
-[anim_kqyxthcls.sport]: Right calf backward stretch on the wall
-[anim_kqzcxbqcls.sport]: Left forearm stretch on the wall
-[anim_kqzcxtls.sport]: Left calf stretch on the wall
-[anim_kqzxthcls.sport]: Left calf backward stretch on the wall
-[anim_pbzcjtts.sport]: Plank with alternate hand lift
-[anim_pbzcjttt.sport]: Plank with alternate leg lift
-[anim_qbxhjgjhr.sport]: Flex the arm backwards at the shoulder
-[anim_qbxqjgjhr.sport]: Flex the arm forward at the shoulder
-[anim_qhjcxt.sport]: Scissor jumps
-[anim_qssz.sport]: Full body stretch
-[anim_qxyxthcls.sport]: Right calf backward stretch (flexed knee)
-[anim_qxzxthcls.sport]: Left calf backward stretch (flexed knee)
-[anim_sbbls.sport]: Upper-back stretch
-[anim_tbdtls.sport]: Dynamic hip stretch
-[anim_tbgttjz.sport]: High knees and clapping
-[anim_xbbls.sport]: Lower-back stretch
-[anim_xgjrs.sport]: Knee warm-up
-[anim_ybhcls.sport]: Right arm backward stretch
-[anim_ybls.sport]: Waist stretch
-[anim_ycdtqcls.sport]: Right front thigh stretch
-[anim_ychgjhr.sport]: Rotate right ankle
-[anim_ycqyjls.sport]: Right hip flexor stretch
-[anim_ycxbls.sport]: Right chest stretch
-[anim_ydbbkp.sport]: Run in place
-[anim_ydmp.sport]: Jog in place
-[anim_zastqq.sport]: Morning stretch
-[anim_zbhcls.sport]: Left arm backward stretch
-[anim_zcdtqcls.sport]: Left front thigh stretch
-[anim_zchgjhr.sport]: Rotate left ankle
-[anim_zcqyjls.sport]: Left hip flexor stretch
-[anim_zcxbls.sport]: Left chest stretch
-[anim_zcxthcls.sport]: Calf support stretch
-[anim_zwgasjbls.sport]: Self-care shoulder stretch
-[anim_zybtxt.sport]: Side-to-side hop (legs together)
-[anim_zzjtgt.sport]: Alternating leg curls (standing)
-[anim_zzycfbls.sport]: Right ab stretch (standing)
-[anim_zzyctbls.sport]: Right hip stretch (standing)
-[anim_zzzcfbls.sport]: Left ab stretch (standing)
-[anim_zzzctbls.sport]: Left hip stretch (standing)
-[app_conn.aivs]: 请通过蓝牙连接\n手机
-[app_join.mihome]: Connect to Bluetooth in the app
-[app_name.nfc]: Cards
-[appname.act]: Vigor
-[appname.media]: Music
-[appname.status]: Training
-[appname.vitality]: Vitality
-[aquatic_sport.sport]: Water sports
-[archery.sport]: Archery
-[attention.breath]: Focus on your breathing
-[atv.sport]: ATV
-[auth_error_content.alexa]: auth_error_content.alexa
-[auth_error_title.alexa]: auth_error_title.alexa
-[auto.settings]: Auto
-[auto_pause.sport]: Auto pause
-[ave.pressure]: Average
-[ave_heartrate.sleep]: Avg HR
-[ave_oxygen.sleep]: Avg SpO₂
-[average.sport]: Avg
-[average_stride_length_cm.sport]: Avg stride (cm)
-[avg_stroke.sport]: Avg SPM
-[avg_swolf.sport]: Avg SWOLF
-[back.common]: 返回
-[back_training.sport]: Back
-[backstroke.sport]: Backstroke
-[badminton.sport]: Badminton
-[balance.nfc]: Balance: 
-[ball_sports.sport]: Ball sports
-[ballet.sport]: Ballet
-[barbell_training.sport]: Barbell
-[base.watchface]: 基础
-[baseball.sport]: Baseball
-[basic_aerobic_endurance_running.sport]: Endurance run (Basic)
-[basic_aerobic_endurance_running_dsc.sport]: Medium-length jog for endurance.
-[basic_fat_burning_run.sport]: Fat burn run (Basic)
-[basic_fat_burning_run_dsc.sport]: Shorter jog for fat burn and weight loss.
-[basic_interval_running.sport]: Interval run (Basic)
-[basic_interval_running_dsc.sport]: Shorter interval training for heart and lung health.
-[basic_jogging.sport]: Basic jog
-[basic_jogging_dsc.sport]: Low-medium intensity jog.
-[basic_run_walk.sport]: Basic run/walk
-[basic_run_walk_dsc.sport]: Shorter interval training for heart and lung health.
-[basketball.sport]: Basketball
-[battery.appname]: battery
-[battery.settings]: Battery
-[batteryLevel]: Battery
-[battery_cqr.setupwizard]: battery:
-[battery_title.settings]: Battery
-[battle_rope.sport]: Battle rope
-[beach_football.sport]: Beach soccer
-[beach_volleyball.sport]: Beach volleyball
-[beat.hr]: Irregular BPM
-[beatexp.hr]: Learn more
-[beatexp1.hr]: View details in the app
-[beatexp2.hr]: Your band will measure your pulse and record any abnormalities when you're inactive. If you feel unwell, seek medical advice.
-[before.breath]: Starting HR
-[bell.find_phone]: Your phone will ring
-[belly_dance.sport]: Belly dance
-[best.sport]: Best 
-[billiards.sport]: Billiards
-[bind.alipay]: Once added, scan the QR code on your band to pay.
-[bind_failed.setupwizard]: Couldn't pair
-[bind_success.setupwizard]: Paired
-[bl_disconnected.sport]: Bluetooth disconnected. Connect to sync workout data.
-[bl_lunar.calendar]: 白露
-[ble_con.share]: Connect via Bluetooth and try again
-[ble_dis.share]: Disconnected
-[bloodPressure]: 血压
-[blue_break.mihome]: Disconnected
-[blue_break.mute]: Disconnected
-[blue_break.nfc]: Disconnected
-[blue_know.mihome]: Got it
-[blue_know.mute]: Got it
-[blue_retry.mute]: Connect via Bluetooth and try again
-[blue_retry.nfc]: Connect via Bluetooth and try again
-[bobby_jump.sport]: Burpee
-[bocci.sport]: Bocci
-[bound_id.wxpay]: Linked Weixin ID
-[bowling.sport]: Bowling
-[boxing.sport]: Boxing
-[breakdance.sport]: Breaking
-[breaststroke.sport]: Breaststroke
-[breath.health]: Breathing
-[breath_btn.pressure]: Breathing
-[breath_sub_exp.sleep]: When this feature is on, your nighttime breathing will be monitored while you sleep. You can view the breathing score in the app.
-[breath_switch.sleep]: Breathing score
-[breath_time.breath]: Time
-[breath_title1.breath]: Breathing
-[breath_train.common]: 呼吸训练
-[brides.sport]: Bridge
-[brightness.settings]: Brightness
-[brightness_auto.settings]: Auto
-[brightness_set.settings]: Custom
-[brightness_set_28.settings]: Custom
-[brightness_title.settings]: Brightness
-[brisk_walk.sport]: Fast walk
-[brpg.sport]: Board game
-[bt_disconn.check_tool]: 蓝牙已断开连接，连接蓝牙后再继续检测
-[bt_disconn.common]: 蓝牙已断开
-[bt_disconn.find_phone]: Disconnected
-[bt_disconn.phone]: Disconnected
-[bt_disconn.remote_camera]: Disconnected
-[bt_test.check_tool]: 蓝牙检测(1/14)
-[btn_confirm.sport]: Confirm
-[buring_zone.hr]: Intensive
-[buring_zone1.hr]: 61%-70% of your maximum heart rate is perfect for burning fat.
-[butterfly.sport]: Butterfly
-[calculate_the_lead/lag_distance_according_to_the_set_pace.sport]: Calculate the distance ahead/behind based on the set pace.
-[calendar.appname]: Calendar
-[calllog.phone]: calllog.phone
-[calorie]: Calories
-[calorie.act]: Calories
-[calorie.explain]: "Calories" shows the number of active calories burned through moving around and exercising.
-[calorie_reach.act]: Calorie goal hit
-[calorie_title.explain]: Calorie
-[camera_know]: Got it
-[cancel.alipay]: cancel
-[cancel.common]: 取消
-[cancel.wxpay]: Cancel
-[cancel_mark.wm]: Cancel
-[canoeing.sport]: Kayaking
-[cardBag]: Cards
-[card_id.check_tool]: 卡ID:
-[card_know.nfc]: Got it
-[cf_lunar.calendar]: 春分
-[change_item_time.sport]: Transition
-[change_terms_for_a_while.sport]: Transition
-[change_the_term_for_two_hours.sport]: Transition
-[charge_compare.reminder]: Battery charged
-[charge_no.check_tool]: 请连接充电器
-[charge_test.check_tool]: 充电检测(12/14)
-[charge_yes.check_tool]: 已连接充电器
-[chart_content.wm]: 2. Tip
-[chart_content_notes.wm]: To make predictions more accurate, log periods and edit cycle length in the app.
-[chart_exp.wm]: 1. Colors
-[check_result.check_tool]: 检测结果
-[chesee_and_card_games.sport]: Card/board games
-[chess.sport]: Chess
-[chronograph.appname]: Stopwatch
-[chu_day_lunar.calendar]: 初
-[circulation.sport]: Sets
-[clear_all.notify]: Clear all
-[clear_message.notify]: Clear
-[climb_stairs.sport]: Stair climbing
-[climbing.sport]: Trekking
-[climbing_machine.sport]: Stair climber
-[close.settings]: Off
-[close.share]: Off
-[close.sport]: Off
-[close_28.settings]: Off
-[close_ing.mute]: Just a sec
-[close_reminder.sport]: Turn off all
-[close_ring.mute]: Turn off
-[close_sedentary.act]: Turn off today's stand-up reminders?
-[cnt.common]: 次
-[cnt/min.common]: 次/分
-[cnt/min.sport]: BPM
-[color.wf]: Color
-[compass]: 指南针
-[complete.reminder]: Stand up
-[complete_help.reminder]: Time to get moving
-[completed.todo]: Completed
-[completed32.todo]: Completed
-[confirm.common]: 确认
-[confirm_phone.setupwizard]: Confirm on your phone
-[confirm_resquest.system]: Confirm on your phone
-[conn_retry.common]: 请连接后重试
-[conn_retry.find_phone]: Connect via Bluetooth and try again
-[conn_retry.phone]: Connect via Bluetooth and try again
-[conn_retry.remote_camera]: Connect via Bluetooth and try again
-[connect_lost_content.alexa]: connect_lost_content.alexa
-[connect_lost_title.alexa]: connect_lost_title.alexa
-[connected.common]: 已连接
-[connected.sport]: Connected
-[connection_failed.common]: 连接失败
-[connection_failed.sport]: Connection fail
-[connectknow.alarm]: Got it
-[continue.common]: 继续
-[core_training.sport]: Core training
-[countdown]: Timer
-[course_introduce.sport]: Introduction
-[cricket.sport]: Cricket
-[cross_country.sport]: Trail run
-[cross_country_skiing.sport]: Cross-country skiing
-[cross_fit.sport]: Cross training
-[cs_lunar.calendar]: 处暑
-[curling.sport]: Curling
-[current.breath]: Current HR
-[current.hr]: Current HR
-[custom.alarm]: Custom
-[custom.common]: 自定义
-[custom.timer]: Custom
-[customize.sport]: Custom
-[cx_festival.calendar]: 除夕
-[cy_festival.calendar]: 重阳节
-[cycling_moto.sport]: BMX
-[dance.sport]: Dance
-[darts.sport]: Darts
-[data.wf]: Widgets
-[data_explain.act]: Learn more
-[data_record.watchface]: Widgets
-[data_title.act]: Learn more
-[date]: Date
-[day_after_tomorrow.wm]: In 2 days
-[day_oxygen.settings]: All-day SpO₂ tracking
-[day_pressure.settings]: All-day stress monitoring
-[deadlift.sport]: Deadlift
-[deep.sleep]: Deep
-[default_aod.settings]: Default theme
-[default_aod.watchface]: Default theme
-[del_all.common]: 清除全部
-[del_tip.watchface]: Delete band display?
-[delay.calendar]: Snooze
-[delay.todo]: Snooze
-[delay_10m.common]: 10分钟后提醒
-[delay_10m_agn.calendar]: Snoozed for 10 mins
-[delay_10m_agn.common]: 10分钟后再次提醒
-[delay_10m_agn.reminder]: Snoozed for 10 mins
-[delete.common]: 删除
-[destretching.sport]: Stretch
-[detail.alipay]: Read and agree to the Smart Devices Service Agreement in the Alipay app.
-[detail.calendar]: Details
-[detect_exercising.sport]: Looks like you're exercising
-[device_name.common]: 设备名称
-[device_name.settings]: Name
-[device_type.common]: 型号
-[device_type.settings]: Model
-[dh_lunar.calendar]: 大寒
-[dial.wf]: Timescale
-[disconnect.common]: 断开连接
-[disconnect.sport]: Disconnect
-[disconnect_retry.common]: 蓝牙未连接\n请连接蓝牙再试试吧
-[disp_reminder.settings]: When Always-on display is on, priority will be given to the default band display.
-[display.settings]: Display
-[display_on.sport]: Always-on
-[display_title.settings]: Display
-[distance_calibration.sport]: Calibration
-[distance_remind.sport]: Reminder
-[distance_too_short.sport]: Workout distance too short to record.
-[distance_too_short_resume.sport]: Workout distance too short to record. End?
-[disturb.settings]: DND
-[disturb_disconn.settings]: Disconnected
-[disturb_sync.settings]: Sync with phone
-[disturb_sync_info.settings]: When turned on, the band's DND status will follow that of the phone
-[disturb_title.settings]: DND
-[dodgeball.sport]: Dodgeball
-[done.hour%02d:%02d:%02d]: %02d:%02d:%02d ago
-[done.min%02d:%02d]: %02d:%02d ago
-[done.wxpay]: Done
-[dont_shake1.oxygen]: Keep still
-[double_board_skiing.sport]: Skiing
-[dragon_boat.sport]: Dragon boat
-[draughts.sport]: Checkers
-[driving.sport]: Diving
-[ds_lunar.calendar]: 大暑
-[dsc_cadence.sport]: SPM
-[dsc_cadence_avg.sport]: Avg cadence (SPM)
-[dsc_calorie.sport]: kcal
-[dsc_change_time.sport]: Transition
-[dsc_distance_backward.sport]: km behind
-[dsc_distance_backward_imp.sport]: mi behind
-[dsc_distance_lead.sport]: km ahead
-[dsc_distance_lead_imp.sport]: mi ahead
-[dsc_freq_avg.sport]: Avg JPM
-[dsc_pace_avg.sport]: Avg pace
-[dsc_speed.sport]: km/h
-[dsc_speed_avg.sport]: km/h (Avg speed)
-[dsc_step_cnt.sport]: step
-[dsc_trips.sport]: length
-[dumbbell_training.sport]: Dumbbell
-[duration_group.sport]: This set
-[dx_lunar.calendar]: 大雪
-[dy_festival.calendar]: 端午节
-[dz_lunar.calendar]: 冬至
-[easy_pregnancy.wm]: Fertile
-[easypregnancy_in%d.wm]: Fertile period day %d
-[easypregnancy_out%d.wm]: Fertile period in %dd
-[edit.common]: 编辑
-[editalarm.alarm]: Settings
-[effect_level1.sport]: Minor
-[effect_level2.sport]: Recovery
-[effect_level3.sport]: Maintaining
-[effect_level4.sport]: Improving
-[effect_level5.sport]: Highly improving
-[effect_level6.sport]: Overreaching
-[effect_of_anaerobic_training.sport]: Anaerobic
-[effectiveStand]: Standing
-[electronic_sports.sport]: Esports
-[eleven_month_lunar.calendar]: 冬月
-[elliptical_machine.sport]: Elliptical
-[empty_message.phone]: Allow message replies in the app.
-[empty_record.sport]: No data
-[empty_tips.phone]: empty_tips.phone
-[enable_again.wxpay]: Enable Again
-[enable_again_tips.wxpay]: For security reasons,scan the QR code with Weixin to enable again.
-[enable_sleep_mode.reminder]: DND is on. Raise to wake is off.
-[enabled.wxpay]: Enabled
-[enabling.wxpay]: Enabling…Finish the process on your phone.
-[end.common]: 结束
-[end.find_phone]: Completed
-[end.settings]: End
-[end.sport]: End
-[end.timer]: Timer finished
-[end_time.settings]: End
-[energy]: 能量
-[energy.sport]: Hydration
-[energy_distance.sport]: Distance
-[energy_time.sport]: Time
-[ephemeris_expired.sport]: GPS data expired
-[ephemeris_expired_tips.sport]: Connect to your phone to speed up GPS positioning.
-[equesttrian.sport]: Equestrian
-[err.aivs]: 网络不可用，请检查手机网络状态
-[estimate.settings]: Battery life
-[estimate_content.settings]: Estimated battery life is provided for reference only. Actual battery life depends on your usage.
-[every_day.alarm]: Daily
-[every_day.todo]: Daily
-[every_month.todo]: Monthly
-[every_week.todo]: Weekly
-[every_year.todo]: Yearly
-[executive_fail.mihome]: Couldn't run scenario
-[exhale.breath]: Exhale
-[exit.alipay]: Didn't finish pairing. If you exit now, you'll need to scan the code and add the device again next time.
-[exit.wxpay]: Quit
-[exit_btn.alexa]: exit_btn.alexa
-[exit_cancel.wxpay]: Don't quit
-[exit_confirm.alipay]: Exit
-[exit_sign.check_tool]: 3秒后切换到user mode
-[exit_tip.wxpay]: Weixin Pay is being opened,are you sure to quit?
-[exp.hr]: Learn more
-[exp.oxygen]: Learn more
-[exp.vitality]: Learn more
-[exp_desc1.vitality]: Vitality score measures the positive impact of physical activity on health. You're exercising at a level that will lead to significant health benefits when the cumulative Vitality score of the last 7 days reaches 100.
-[exp_desc2.vitality]: The vitality score is based on the WHO Guidelines on Physical Activity and Sedentary Behaviour, which recommend that:\nAll healthy adults engage in at least 150-300 minutes of moderate-intensity exercise or 75-150 minutes of high-intensity exercise per week; or an equivalent combination of moderate and higher-intensity exercise.\nAt the same time, a little physical exercise is better than none. Replacing sedentary time with low-intensity exercise also has health benefits.
-[exp_title.oxygen]: Learn more
-[experien.setupwizard]: Start
-[expired.todo]: Overdue
-[explain_title.settings]: Learn more
-[extreme.common]: VO₂ max
-[extreme_zone.hr]: VO₂ max
-[extreme_zone1.hr]: Exercising at 91%-100% of heart rate's maximum capacity is suitable for experienced trainers.
-[extremity.sport]: VO₂ max
-[fail_fit.health]: Tighten band strap and try again
-[fail_stay_still.health]: Keep still during measurement
-[fail_timeout.health]: Try again
-[fail_wear.health]: Tighten band strap and try again
-[failed.alipay]: Couldn't add
-[fancy_swimming.sport]: Artistic swimming
-[fast.sport]: Max 
-[fat_burning.sport]: Intensive
-[fat_burning_interval.sport]: Intensive
-[fencing.sport]: Fencing
-[fight.sport]: Combat sports
-[find_wear.reminder]: Finding device…
-[finish.breath]: Done
-[finish.common]: 完成
-[finish_course_great.sport]: You did it!
-[first_edit_tips1.watchface]: To save changes,\ntap OK or tap the band display.
-[first_mile_speed.sport]: Previous km
-[first_month_lunar.calendar]: 正月
-[fishing.sport]: Fishing
-[flashlight.appname]: Flashlight
-[flexibility_training.sport]: Flexibility
-[fly_kite.sport]: Kite flying
-[focus_time.tomatotimer]: Focus
-[focus_time_out.tomatotimer]: You did it!
-[focus_total.tomatotimer]: Focus time
-[focus_total_pause.tomatotimer]: Focus time
-[focusing.tomatotimer]: Stay focused
-[foosball.sport]: Table football
-[football.sport]: Soccer
-[forget_pwd.common]: 忘记密码？
-[forget_pwd_tips.common]: To reset PIN, go to Device > PIN in the app.
-[free_sparring.sport]: Kickboxing
-[free_stage.sport]: Freestyle
-[free_training.sport]: Freestyle
-[freestyle.sport]: Freestyle
-[frequency.breath]: BPM
-[frequency.sport]: Frequency
-[frisbee.sport]: Frisbee
-[fsn_info.check_tool]: FSN号:
-[full_hour.common]: 小时
-[full_hour.settings]: hour
-[full_hour.timer]: Hrs
-[full_min.common]: 分钟
-[full_min.settings]: minute
-[full_min.timer]: Mins
-[functional_training.sport]: Functional training
-[fw_ver.common]: 版本号
-[fw_ver.settings]: Version No.
-[gateball.sport]: Gateball
-[gesture.settings]: Quick gestures
-[gesture_course.settings]: Gesture tutorial
-[gesture_explain.settings]: Learn more
-[gesture_explain_title.settings]: Learn more
-[gesture_info.settings]: Customize gestures to perform a selected action. This feature is turned off when sleeping.
-[gesture_info_lab1.settings]: 1. Each gesture can only set one function
-[gesture_info_lab2.settings]: 2. Call/message related functions respond only on the call/message reminder page
-[gesture_info_lab3.settings]: 3. Open the application function only when the main watch face is lit up
-[gesture_info_lab4.settings]: 4. Sleep mode/Do not disturb mode/Power saving mode /AOD dial page or do not respond to gestures when sleep is detected
-[gesture_info_lab5.settings]: 5. Please avoid making similar gestures in daily activities, which may be triggered by mistake
-[gesture_open_info.settings]: In order to improve the experience, it is recommended to turn on the wrist lift screen at the same time, after turning on the device battery life will be seriously reduced, confirm to turn on the wrist lift screen and quick gesture?
-[gesture_operate.settings]: Gestures
-[gesture_select1.settings]: View notifications
-[gesture_select1_28.settings]: View notifications
-[gesture_select2.settings]: Ignore call /notification
-[gesture_select2_28.settings]: Ignore call/notification
-[gesture_select3.settings]: Reject incoming call
-[gesture_select3_28.settings]: Reject incoming call
-[gesture_select4.settings]: Weixin Pay
-[gesture_select4_28.settings]: Weixin Pay
-[gesture_select5.settings]: Alipay
-[gesture_select5_28.settings]: Alipay
-[gesture_select6.settings]: Voice assistant
-[gesture_select6_28.settings]: Voice assistant
-[gesture_select7.settings]: Weather
-[gesture_select7_28.settings]: Weather
-[gesture_set.settings]: Settings
-[gesture_title.settings]: Quick gestures
-[get_fail.mihome]: An error occurred. Try again.
-[get_information_tips.wxpay]: When Wexin Pay is enable,the watch will transmit the Bluetooth address and model ID to WeChat.
-[getting_songs.media]: Loading music…
-[getting_songs_w.media]: Loading music…
-[gnss_num.check_tool]: 卫星数量:
-[gnss_sign.check_tool]: 请在户外/室内有卫星定位环境下测试
-[gnss_snr.check_tool]: SNR值:
-[gnss_test.check_tool]: 定位检测(2/14)
-[go_to_the_app_side_to_check.sport]: View more records in the app after syncing data
-[go_turnon.common]: 去开启
-[golf.sport]: Golf
-[goto_bind.alipay]: Add
-[goto_distance_calibration.sport]: Calibrate
-[goto_miwear_app.sport]: View details in the app
-[goto_set.settings]: Go to Settings
-[goto_watchface.settings]: Opening the app function only works when the main watch face is lit, and now you can try to return to the main watch face experience by gesture
-[group_callisthenic.sport]: Mass gymnastics
-[group_number.sport]: Total sets
-[group_reset.sport]: Rest
-[gy_lunar.calendar]: 谷雨
-[gym.sport]: Indoor fitness
-[gymnastics.sport]: Gymnastics
-[gyro_test.check_tool]: 陀螺仪检测(4/14)
-[hand_info.settings]: Try to quickly turn outward 90 degrees, and then quickly turn inward to return, wait for the recognition result, need to identify twice successfully.
-[handball.sport]: Handball
-[handwrist_info1.settings]: The forearms are parallel to the chest
-[handwrist_info2.settings]: Palm down, screen up
-[handwrist_info3.settings]: Quickly turn outward 90 degrees
-[handwrist_info4.settings]: Then quickly turn inward and return
-[has_done%d.breath]: Session: %d min
-[have_high.hr]: High HR
-[have_low.hr]: Low HR
-[heartRate]: Heart rate
-[heart_health.settings]: Irregular BPM
-[heartrate_high.sport]: High HR
-[heartset.vitality]: Continuous monitoring
-[heartset_desc.vitality]: Your Vitality score is calculated using heart rate and activity data. Allow your band to measure your heart rate more often for a more accurate Vitality score.
-[heel_and_toe.sport]: Race walk
-[help.alipay]: Scan with Alipay for help
-[hgrmbox.hr]: When Continuous monitoring is on, irregular heartbeats will be recorded. This feature will affect battery life. Turn on now?
-[high.hr]: High HR
-[high_interval_training.sport]: HIIT
-[high_warning.hr]: High HR alert
-[high_warning1.hr]: Select a heart rate above which you'll receive an alert
-[highest.sport]: Max 
-[highexp.hr]: Learn more
-[highexp1.hr]: Your wearable device notifies you when your heart rate goes above a set level while you're inactive. Sometimes, it's normal for your heart rate to rise as a response to stress, caffeine intake, or a cold. However, people experiencing dizziness, shortness of breath, or palpitations should seek medical advice.
-[highexp2.hr]: Note that the high heart rate data is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition.
-[highexp3.hr]: Only the three most recent high heart rate entries are displayed on the device. Check the app for further details.
-[hightime.vitality]: High intensity
-[hihi_ball.sport]: Jai alai
-[hiking_outdoor.sport]: Hiking
-[hint.alarm]: No alarms
-[hint_text.tomatotimer]: DND is on during this session
-[hip_hop_dance.sport]: Hip hop
-[hl_lunar.calendar]: 寒露
-[hockey.sport]: Hockey
-[hold.sport]: Keep going
-[hold_it.settings]: Congratulations on mastering it!
-[holiday.alarm]: Weekends
-[holiday.common]: 节假日
-[holiday.todo]: Weekends
-[holidayprmt_main.alarm]: Connect to the app
-[holidayprmt_main.common]: 请连接APP更新节假日
-[holidayprmt_sub.alarm]: Saturday and Sunday are marked as weekends by default.
-[holidayprmt_sub.common]: 在您连接APP前，节假日将默认为星期六和星期日
-[horse_riding.sport]: Horse riding
-[hour.common]: 时
-[hour.sleep]: hr
-[hour.sport]: Hrs
-[hour_allday.sleep]: hr
-[how_get.training]: Find your VO₂ max
-[hr_current%s.sport]: Current HR (%s)
-[hr_exp.hr]: Heart rate is the number of times the heart beats per minute (BPM). \nTypically, a resting heart rate ranges from 55 to 80 BPM. However, it varies with age, gender, and other factors. \nYour device supports a range of 30–240 BPM.
-[hr_recommend%s.sport]: Target HR (%s)
-[hr_recommend.sport]: Target HR
-[hula_hoop.sport]: Hula hoop
-[humidity]: Humidity
-[hydration.sport]: Drink water
-[i_know.common]: 我知道了
-[idle_alerm.alexa]: idle_alerm.alexa
-[idle_alerm2.alexa]: idle_alerm2.alexa
-[idle_try_to_say.alexa]: idle_try_to_say.alexa
-[idle_weather.alexa]: idle_weather.alexa
-[ignore.common]: 忽略
-[ignore.health]: Dismiss
-[ignore.hr]: Dismiss
-[ignore.oxygen]: Dismiss
-[ignore.pressure]: Dismiss
-[ill_btn.oxygen]: Learn more
-[ill_btn.pressure]: Learn more
-[ill_btn.sleep]: Learn more
-[ill_title.pressure]: Learn more
-[ill_title.sleep]: Learn more
-[inacticated_content.alexa]: inacticated_content.alexa
-[inactivated_title.alexa]: inactivated_title.alexa
-[indoor_football.sport]: Futsal
-[indoor_skating.sport]: Ice skating
-[info.tomatotimer]: Learn more
-[inhale.breath]: Inhale
-[inout_wirst.settings]: Rotate wrist
-[input.settings]: Input
-[input_key.system]: Enter KEY
-[input_new_pwd.settings]: New PIN
-[input_pwd.settings]: Enter PIN
-[input_pwd_num.settings]: Enter PIN
-[inte_reach.act]: Moving goal hit
-[intel_prediction.wm]: Predictions
-[intelligence.settings]: Smart
-[intelligence_28.settings]: Smart
-[intelligent.hr]: Auto
-[intensity]: Moving
-[intensity.act]: Moving
-[intensity.explain]: "Moving" shows your time doing moderate and vigorous activity. For adults aged 18–⁠64 years, aim for at least 30 minutes per day, 5 times per week of moderate activity. Alternatively, try 75 minutes a week of intense activity. You'll see your "Moving" progress when your cadence exceeds 100 SPM or when your heart rate exceeds 65% of your max heart rate.
-[intensity_title.explain]: Moving
-[intensity_unit.common]: 分钟
-[intensive.common]: Intensive
-[inter_training_name.sport]: Interval training
-[interval_train_confirm.sport]: Turning on interval training will turn off workout goals. Turn on now?
-[interval_training.sport]: Interval training
-[interval_training_warmup.sport]: Warm up
-[introduce_reminder_distance.sport]: Get reminders at specified distance interval
-[introduce_reminder_hrzone.sport]: Get a reminder when above or below target HR zone
-[introduce_reminder_pace.sport]: Get a reminder when above or below target pace
-[introduce_reminder_speed.sport]: Get a reminder when above or below target speed
-[issue.nfc]: Just a sec…
-[jazz.sport]: Jazz dance
-[jog.sport]: Jog
-[judo.sport]: Judo
-[jujitsu.sport]: Jujitsu
-[jump.sport]: Skip
-[just.common]: 刚刚
-[just.health]: Just now
-[just_now.pressure]: Just now
-[jz_lunar.calendar]: 惊蛰
-[karate.sport]: Karate
-[kayak_rafting.sport]: Rafting
-[keep.hr]: Keep still
-[keep_on.sport]: Continue
-[keep_waiting.sport]: Wait
-[key_wrong.system]: KEYs don't match
-[kite_surfing.sport]: Kitesurfing
-[km/hr.sport]: Km/h
-[km_h.sport]: km/h
-[km_per_hr.sport]:  km/h
-[know.act]: Got it
-[know.common]: Got it
-[know.find_phone]: OK
-[know.ota]: Got it
-[know.phone]: Got it
-[know.reminder]: Got it
-[know.setupwizard]: Got it
-[know.sport]: Got it
-[know.vitality]: Got it
-[know.wm]: Got it
-[later.alarm]: Snooze
-[latin_dance.sport]: Latin dance
-[layout.settings]: Layout
-[layout_grid.settings]: Grid
-[layout_list.settings]: List
-[layout_title.settings]: Layout
-[lb_festival.calendar]: 腊八节
-[lc_lunar.calendar]: 立春
-[lcd_sign.check_tool]: 判断以下界面是否存在暗点、异色等异常并点击屏幕弹出方框
-[lcd_test.check_tool]: 屏幕检测(10/14)
-[ld_lunar.calendar]: 立冬
-[leisure_sports.sport]: Recreational sports
-[let_start.breath]: Let's go
-[level1.training]: Very poor
-[level2.training]: Poor
-[level3.training]: Fair
-[level4.training]: Normal
-[level5.training]: Good
-[level6.training]: Excellent
-[level7.training]: Outstanding
-[level_dsc.training]: Level
-[light.common]: Light
-[light.sleep]: Light
-[light_scrren.settings]: Wake screen upon notification
-[light_scrren_toast.settings]: Wake screen when receiving notifications
-[light_test.check_tool]: 光感检测(7/14)
-[light_test_sign.check_tool]: 请遮挡屏幕继续\n测试
-[light_value.check_tool]: 光感值:
-[limit_interval.sport]: VO₂ max
-[list_name.oxygen]: SpO₂
-[listening.alexa]: listening.alexa
-[load.sport]: Just a sec
-[load.training]: Training load
-[load_explain.training]: Training load is calculated based on your training impulse (TRIMP) for each workout to assess the effect of your workout on your body. You can adjust your next workout based on the suggestions.
-[load_explain_more.training]: (Learn more in Help in the app)
-[lock_over.settings]: Make sure notifications are turned on in Mi Fitness > App notifications.
-[lock_screen_notice.settings]: Notify only when phone is locked
-[lock_screen_notice_toast.settings]: When using the phone, you won't receive phone notifications on the band.
-[loding.mihome]: Just a sec
-[login_wx.wxpay]: Sign in
-[login_wx_tips.wxpay]: Weixin Pay has been upgraded to the Weixin app. Sign in to Weixin to turn on the payment feature.
-[long.sleep]: Sleep
-[long_endurance_info.settings]: Only the clock, step count, and NFC will be available when Battery saver is on. Press and hold the screen or charge to turn off. Turn on now?
-[long_press_stop.sport]: Press and hold to finish workout
-[longpress.settings]: Press and hold screen
-[longpress_lab.settings]: When turned on, press and hold Edit to edit band display.
-[low.hr]: Low HR
-[low_balance.nfc]: Low balance. Top up soon.
-[low_btn.oxygen]: Low SpO₂
-[low_exp1.oxygen]: When your oxygen saturation level is detected as below the set value three consecutive times, you'll receive an alert. 
-[low_exp2.oxygen]: Your band will display the 3 most recent records. View more in the app.
-[low_exp3.oxygen]: If you experience shortness of breath, headache, fatigue, and reduced concentration, seek medical attention. 
-[low_exp4.oxygen]: The measurement range of this device is 75-100%. This is not a medical device; all results are for your reference only and are not intended as a basis for diagnosis or treatment.
-[low_exp_title.oxygen]: Low SpO₂
-[low_remind.oxygen]: Low SpO₂
-[low_title.oxygen]: Low SpO₂
-[low_waring.oxygen]: Low SpO₂ alerts
-[low_waring1.oxygen]: Notify when SpO₂ readings are below the set level during awake time
-[low_warning.hr]: Low HR alert
-[lowbattery_10.reminder]: Battery under 10%
-[lowbattery_20.reminder]: Battery under 20%
-[lowbattery_5.reminder]: Battery under 5%
-[lowbattery_5_btn_tip.reminder]: Turn on
-[lowbattery_5_tip.reminder]: Turn on Battery saver?
-[lowbattery_title.reminder]: Low battery
-[lower_limb_training.sport]: Lower body
-[lowexp.hr]: Learn more
-[lowexp1.hr]: Your band notifies you when your heart rate goes below a set level. This is common while sleeping or in physically active people. People experiencing dizziness, shortness of breath, or palpitations should seek medical advice.\nNote that low HR data is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition.\nThe band only displays the most recent three low heart rate entries. For more information, check the app.
-[lowtime.vitality]: Low intensity
-[lq_lunar.calendar]: 立秋
-[ltd_festival.calendar]: 龙抬头
-[lx_lunar.calendar]: 立夏
-[mac.common]: 蓝牙地址
-[mac.settings]: MAC address
-[mac.system]: MAC address
-[made_in_China.settings]: Made in China
-[many_messages.notify]: many_messages.notify
-[mark_end.wm]: Period ended
-[mark_start.wm]: Period started
-[martial_arts.sport]: Martial arts
-[max_add.worldclock]: Add up to 20 locations
-[max_oxygen.training]: VO₂ max
-[maximum_oxygen_uptake.sport]: VO₂ max
-[maxofalarm.alarm]: Add up to 10 alarms
-[measure.health]: Tips
-[measure1.health]: Wear your band above your wrist bone.
-[measure2.health]: Keep your band snug and still.
-[measure3.health]: Measurements may be affected by low temperature, skin perfusion, and more.
-[measure3_1.health]: Keep the band still and facing upwards
-[measure4.health]: This feature isn't intended for medical purposes.
-[measure6.health]: This feature is not intended for medical purposes, nor to diagnose, treat, cure, or prevent any disease or condition.
-[measure_result.health]: Result
-[measuring.health]: Measuring
-[measuring.hr]: Measuring
-[measuring.oxygen]: Measuring
-[medium.pressure]: Moderate
-[medley.sport]: Medley
-[menstru1%d%dmenstru2.wm]: Next period on %1$d/%2$d
-[menstruation.wm]: Period
-[menstruation_in%d.wm]: Period day %d
-[message.settings]: Notifications
-[metronome.sport]: Metronome
-[mi_home.mihome]: Mi Home
-[micompany.settings]: Xiaomi Communications Co., Ltd.
-[middletime.vitality]: Medium intensity
-[miit_fat_burning_run.sport]: MIIT run
-[miit_fat_burning_run_dsc.sport]: Medium-high intensity interval training.
-[mild.pressure]: Mild
-[mild_zone.pressure]: Mild
-[min.common]: 分
-[min.sport]: Mins
-[min.tomatotimer]: Mins
-[min_allday.sleep]: min
-[minute%d.breath]: %d min
-[minute.breath]: Mins
-[minute.sleep]: min
-[misansw_demibold.100]: NA
-[misansw_demibold.120]: NA
-[misansw_demibold.18]: NA
-[misansw_demibold.20]: NA
-[misansw_demibold.24]: NA
-[misansw_demibold.26]: NA
-[misansw_demibold.30]: NA
-[misansw_demibold.32]: NA
-[misansw_demibold.34]: NA
-[misansw_demibold.36]: NA
-[misansw_demibold.40]: NA
-[misansw_demibold.44]: NA
-[misansw_demibold.48]: NA
-[misansw_demibold.54]: NA
-[misansw_demibold.56]: NA
-[misansw_demibold.60]: NA
-[misansw_demibold.64]: NA
-[misansw_demibold.68]: NA
-[misansw_demibold.70]: NA
-[misansw_demibold.72]: NA
-[misansw_demibold.80]: NA
-[misansw_demibold.84]: NA
-[misansw_demibold.86]: NA
-[misansw_demibold.90]: NA
-[misansw_medium.20]: NA
-[misansw_medium.24]: NA
-[misansw_medium.26]: NA
-[misansw_medium.28]: NA
-[misansw_medium.30]: NA
-[misansw_medium.32]: NA
-[misansw_medium.34]: NA
-[misansw_medium.36]: NA
-[misansw_medium.40]: NA
-[misansw_medium.44]: NA
-[misansw_medium.48]: NA
-[misansw_medium.60]: NA
-[misansw_medium.64]: NA
-[misansw_medium.70]: NA
-[misansw_regular.20]: NA
-[misansw_regular.24]: NA
-[misansw_regular.26]: NA
-[misansw_regular.28]: NA
-[misansw_regular.30]: NA
-[misansw_regular.32]: NA
-[misansw_regular.34]: NA
-[misansw_regular.36]: NA
-[misansw_regular.40]: NA
-[misansw_regular.48]: NA
-[missed.phone]: Missed call
-[miui_nodata.todo]: You can create tasks using Mi AI Voice Assistant. Make sure Bluetooth is connected and tasks are synced in the app.
-[miwatch8.common]: Xiaomi Smart Band 8 Pro
-[mixed_aerobic.sport]: Aerobic combo
-[mode_title.settings]: Battery saver
-[moderate.pressure]: Moderate
-[moderate_running.sport]: Run
-[moderate_zone.pressure]: Moderate
-[modern_dance.sport]: Modern dance
-[mon_to_fri.todo]: M-F
-[monitor.hr]: Continuous monitoring
-[monitor.oxygen]: All-day tracking
-[monitor.pressure]: All-day monitoring
-[monitor_box.oxygen]: When this feature is on, it'll keep track of your SpO₂ when you're sedentary.
-[monitor_btn.sleep]: Advanced monitoring
-[monitor_content.hr]: Track your heart rate around the clock
-[monitor_health.hr]: Irregular BPM
-[monitor_ill.pressure]: When this feature is on, it'll keep track of your stress when you're sedentary.
-[monitor_ill.sleep]: Turning on Advanced monitoring will significantly reduce battery life. Turn on anyway?
-[monitor_sub_exp.sleep]: When this feature is turned on, your device will track your REM sleep.
-[more_add.worldclock]: Add more locations\nin the app
-[more_sport.sport]: More
-[motion.settings]: Auto detect
-[motion_disturb.settings]: Can't send workout reminders when DND is on
-[motion_info.settings]: Get reminders to start a workout.\nSupported workout types include walking, jump rope, rower, cycling, elliptical, and running.
-[motion_reminder.settings]: Turning on workout reminders will affect battery life.
-[motion_sensing_game.sport]: Somatosensory game
-[motion_title.settings]: Auto detect
-[motor_sign.check_tool]: 判断振动次数:
-[motor_test.check_tool]: 振动检测(11/14)
-[motorboat.sport]: Powerboating
-[muay_thai.sport]: Muay Thai
-[multi_connect.share]: multi_connect.share
-[musicController]: Music
-[mute.appname]: Silence phone
-[mute_mode.mute]: Sound is off
-[mute_title.mute]: Silence phone
-[mute_toast.mute]: Sound is on
-[my_family.mihome]: Homes
-[mz_lunar.calendar]: 芒种
-[name.alipay]: Alipay
-[name.find_phone]: Find phone
-[name.timer]: Timer
-[name.tomatotimer]: Focus
-[name.worldclock]: World clock
-[name_calorie.sport]: Calories
-[name_distance.sport]: Distance
-[name_duration.sport]: Time
-[name_hr_avg.sport]: Avg HR
-[name_hr_max.sport]: Max HR
-[name_hr_zone.sport]: HR zone
-[name_info.tomatotimer]: Focus
-[name_main.tomatotimer]: Focus
-[name_num_cycle.sport]: Sets
-[name_number.sport]: Jumps
-[name_pace.sport]: Pace
-[name_speed.sport]: Speed
-[name_times.sport]: Strokes
-[name_title.tomatotimer]: Focus
-[name_title.worldclock]: World clock
-[name_trips.sport]: Lengths
-[national_dance.sport]: Folk dance
-[near_reader.nfc]: Hold near reader
-[network_error_content.alexa]: network_error_content.alexa
-[network_error_title.alexa]: network_error_title.alexa
-[new_record.sport]: New record!
-[newest.ota]: You're using the latest version
-[next_easypregnancy.wm]: Fertile
-[next_group.sport]: Next set
-[next_item.sport]: Transition
-[next_menstruation.wm]: Period
-[next_ovulation.wm]: Ovulation day
-[next_seg_name.sport%s]: Next: %s
-[nextday.settings]: next day %02d:%02d
-[nextstep.settings]: next
-[nfc1_test.check_tool]: NFC检测(13/14)
-[nfc2_test.check_tool]: NFC检测(14/14)
-[nfc_read.check_tool]: 靠近读空白卡
-[nfc_sign.check_tool]: 请靠近读卡器测试
-[nfc_simulate.check_tool]: 模拟卡测试
-[no_add.worldclock]: No locations added
-[no_card.nfc]: Add cards in the app
-[no_connectable_devices.sport]: Device not found
-[no_data.calendar]: No event data
-[no_data.common]: 暂无数据
-[no_data.pressure]: No data for today
-[no_data.wm]: No data
-[no_device_conn.common]: 无可连接设备
-[no_enabled.wm]: Turn on this feature in the app
-[no_message.notify]: No notifications
-[no_permission.media]: Permission not enabled
-[no_record.wm]: Turn on Period prediction in the app
-[no_record_today.wm]: No data today
-[no_remind.oxygen]: Off
-[no_reminder_today.common]: Dismiss today
-[no_setting.mihome]: No settings
-[no_target.sport]: Open goal
-[no_title.calendar]: No title
-[no_try_again.settings]: Correct gesture not recognized, please try again!
-[noai_nodata.todo]: You can add tasks in the app. Make sure Bluetooth is connected first.
-[nodata.hr]: No data for today
-[nodata.oxygen]: No data for today
-[nodata.sleep]: Wear your device to bed to generate sleep data
-[nodata.todo]: No task reminders
-[nodata.wm]: Log cycle details in the app
-[noinit_tips.calendar]: Turn on Events in the app
-[noise_reduction.share]: Noise cancellation
-[nonedata.weather]: nonedata.weather
-[noplay.share]: Not playing audio
-[noreminder.vitality]: Dismiss today
-[nosync.wm]: App data hasn't been synced
-[not_disturb_close.ctrl]: DND is off
-[not_disturb_open.ctrl]: DND is on
-[not_disturb_open.settings]: DND is on
-[not_enabled.wxpay]: Not enabled
-[not_play.media]: Not playing
-[not_remind.sport]: Dismiss
-[not_reminder.reminder]: Don't show again
-[not_shake.health]: Keep still
-[not_support.aivs]: 文字内容超出上限，小爱暂不支持该功能
-[not_support_area_content.alexa]: not_support_area_content.alexa
-[not_support_area_title.alexa]: not_support_area_title.alexa
-[not_support_playback.alexa]: not_support_playback.alexa
-[not_worn.hr]: Not wearing
-[notice.notify]: notice.notify
-[notice_message.settings]: Notifications
-[notice_text1.tomatotimer]: When using Focus, the timer is generally set for 25 mins, during which you can focus on one task.
-[notice_text2.tomatotimer]: When your device vibrates, it's time for a 5 min break.
-[notice_text3.tomatotimer]: After four 25-min sessions, take a 15-20 min break.
-[notify.notify]: Notifications
-[notopen_password.wxpay]: Not now
-[now.common]: Now
-[null.settings]: None
-[null_28.settings]: None
-[number_group.sport]: Jumps this set
-[nums_rope_all_group.sport]: Total jumps
-[nums_rope_group.sport]: This set
-[nums_rowing_all_group.sport]: Total strokes
-[nums_rowing_group.sport]: This set
-[off.sleep]: Off
-[offbody.health]: Tighten band strap and try again
-[ok.alipay]: Added
-[ok.health]: OK
-[ok.pressure]: OK
-[ok.wxpay]: OK
-[on.sleep]: On
-[once.alarm]: Once
-[once.todo]: Once
-[onemin.hr]: Every min
-[open.alipay]: Agree
-[open_1hour.ctrl]: DND is on for 1 hr
-[open_1hour.settings]: 1 hour
-[open_4hour.ctrl]: DND is on for 4 hrs
-[open_4hour.settings]: 4 hours
-[open_all_day.settings]: All day
-[open_from_phone.notify]: Open on phone
-[open_mi.mihome]: You can set commands for this scenario in the Mi Home/Xiaomi Home app.
-[open_password.wxpay]: Turn on PIN
-[open_ring.mute]: Just a sec
-[open_ring_ing.mute]: Turn on
-[open_widget.wxpay]: Enable Weixin Pay
-[open_widget_btn.wxpay]: Enable
-[opening.alipay]: Adding…
-[openswitch.alarm]: On
-[optimization.settings]: Optimization
-[optimization_content.settings]: Optimization identifies features that are using significant battery life.
-[os_ver.common]: 手环系统
-[other_nodata.todo]: You can add tasks in the app or via Mi AI Voice Assistant. Make sure Bluetooth is connected first.
-[other_sports.sport]: Other
-[others.share]: others.share
-[outdoor_skating.sport]: outdoor skating
-[outdoor_sports.sport]: Outdoor activities
-[ovula1%d%dovula2.wm]: Next ovulation day on %1$d/%2$d
-[ovulation_day.wm]: Ovulation
-[oxygen]: SpO₂
-[oxygen.common]: 血氧
-[oxygen_explain1.training]: VO₂ max represents the max volume of oxygen uptake measured during incremental exercise at maximal effort. It’s an indicator of aerobic endurance and capacity. Generally, a high VO₂ max value means you are able to exercise at a higher intensity.
-[oxygen_explain2.training]: VO₂ max is a key indicator of the body's aerobic capacity. The device will assess your athletic ability based on factors such as age, sex, and heart rate during exercise. Your VO₂ max will change as your athletic ability improves.
-[pace_for_the_first_kilometer.sport]: Previous km
-[pace_remind.sport]: Reminder
-[paddle_board.sport]: Paddleboarding
-[pair_desc.setupwizard]: Pair
-[pair_sign.setupwizard]: Get started in the「Mi fitness」on your phone
-[pairing.phone]: Sending
-[pairing.setupwizard]: Pairing…
-[paraglider.sport]: Paragliding
-[parallel_bars.sport]: Parallel bars
-[parkour.sport]: Parkour
-[partical_cal.sport]: Completed
-[partical_numbe.sport]: Completed
-[partical_times.sport]: Completed
-[past_widget.vitality]: Past
-[pause.common]: 暂停
-[pause.sport]: Pause
-[pause.tomatotimer]: Paused
-[pause_hint.sport]: Paused
-[pay.nfc]: Pay
-[pay_finish.nfc]: Done
-[pay_widget.wxpay]: Pay via Weixin Pay
-[pay_widget_btn.wxpay]: Show Code
-[paycode.alipay]: Alipay
-[per_minute.sport]: JPM
-[period1%d%dperiod2.wm]: Next fertile period starts on %1$d/%2$d
-[permission_tip.media]: Allow notifications for the app in Settings
-[phone.appname]: phone
-[phonebind.alipay]: Scan with Alipay
-[photograph]: Camera
-[physical_training.sport]: Physical training
-[pilates.sport]: Pilates
-[pingpong.sport]: Table tennis
-[play_tip.media]: Play music on your phone and allow app notifications
-[please_act.act]:  
-[plus%dhour.worldclock]: +%dhr
-[pm.common]: 下午
-[pm_t.alarm]: PM
-[pm_t.calendar]: PM
-[pm_t.todo]: PM
-[pole_dance.sport]: Pole dance
-[pool_length.sport]: Pool length
-[power_saving.settings]: Exiting Battery saver
-[power_toast_mode.settings]: Only the clock, step count, and NFC will be available when Battery saver is on. Press and hold the screen or charge to turn off.
-[ppg_result.check_tool]: PD接收器值:
-[ppg_test.check_tool]: 心率血氧检测(5/14)
-[pratical_distance.sport]: Completed
-[pratical_duration.sport]: Goal
-[pratical_trips.sport]: Completed
-[pre_menstruation_in%d.wm]: Period day %d
-[pre_menstruation_out%d.wm]: Period in %dd
-[predicta_menstruation.wm]: Estimated period
-[prefer.settings]: Preferences
-[prefer_title.settings]: Preferences
-[prepare_sleep.reminder]: Sleep well
-[pressure]: Stress
-[pressure_high.pressure]: High stress
-[procedure.sport]: Training plan
-[progress.vitality]: 7-day progress
-[projection.sport]: Cast
-[projection_no_device.sport]: Check the connection between your phone and TV
-[puck.sport]: Ice hockey
-[pwd.settings]: PIN
-[pwd_close.settings]: Turn off PIN
-[pwd_closed.settings]: PIN turned off
-[pwd_closed.system]: PIN turned off
-[pwd_err.common]: Incorrect
-[pwd_modify.settings]: Change PIN
-[pwd_open.settings]: Set PIN
-[pwd_set_again.settings]: Confirm PIN
-[pwd_set_ok.settings]: PIN set
-[pwd_title.settings]: PIN
-[pwd_wrong.settings]: PINs don't match
-[qf_lunar.calendar]: 秋分
-[qm_lunar.calendar]: 清明
-[quality_box.sleep]: Monitoring your breathing will significantly reduce battery life. Turn on anyway?
-[qx_festival.calendar]: 七夕节
-[racing_car.sport]: Auto racing
-[raise_bright_close.ctrl]: "Raise to wake" is off
-[raise_bright_open.ctrl]: "Raise to wake" is on
-[reach_1.act]: All goals hit
-[reach_2.act]: All goals hit
-[read_card.nfc]: Reading card
-[ready.ota]: Band will update automatically later tonight or when charging
-[rebind.alipay]: You won't be able to use Alipay if you remove it. Remove?
-[receiving.ota]: Receiving update
-[receiving_fail.ota]: Interrupted
-[receiving_success.ota]: Updated successfully
-[record_file.check_tool]: 录音文件
-[record_start.check_tool]: 开始录音
-[record_test.check_tool]: 音频检测(8/14)
-[recording.check_tool]: 录音中
-[recovery_dsc1.training]: You can increase training intensity.
-[recovery_dsc2.training]: Train as usual.
-[recovery_dsc3.training]: Train at a lower intensity.
-[recovery_dsc4.training]: Rest properly and pause training.
-[recovery_duration.sport]: Recovery time (hr)
-[ref_check.share]: Check the device connection
-[ref_err.share]: Couldn't cast
-[regulation.common]: 监管信息
-[regulation.settings]: Regulatory
-[regulation_title.settings]: Regulatory
-[relax.breath]: Relax
-[relax.pressure]: Relaxed
-[relax.sport]: Cool-down
-[relax_remind.pressure]: Relax reminder
-[relax_remind_ill.pressure]: This feature will prompt a breathing exercise when your stress level remains above 80 for 10 mins.
-[relax_zone.pressure]: Relaxed
-[relaxed_time.sport]:  
-[rem.sleep]: REM
-[remain_duration_group.sport]: Remaining
-[remain_duration_segment.sport]: Remaining
-[remain_number_group.sport]: Remaining
-[remain_times_group.sport]: Remaining
-[remain_trips_group.sport]: Remaining
-[remind.alarm]: Smart wake
-[remind_high.hr]: High HR
-[remind_low.hr]: Low HR
-[remind_menstruation.wm]: Upcoming period
-[remind_ovulation.wm]: Upcoming ovulation
-[remind_period.wm]: Upcoming fertile period
-[reminder.ota]: Update reminder
-[reminder.sport]: Alerts
-[reminder_deleted.alexa]: reminder_deleted.alexa
-[reminder_interval.sport]: Interval reminder
-[remindinformation.alarm]: Let your band choose within a 10-minute window before your alarm to wake you up.
-[remote_camera.appname]: Camera
-[remove.common]: 移除
-[repeate.alarm]: Repeat
-[reply.common]: 回复
-[report_cd_data.sport]: Summary
-[report_cd_freq.sport]: Frequency
-[report_cd_hr.sport]: Heart rate
-[report_cd_pace.sport]: Pace
-[report_cd_seg_pace.sport]: Pace
-[report_cd_seg_stroke_rate.sport]: Stroke rate
-[report_cd_seg_swolf.sport]: SWOLF
-[report_cd_speed.sport]: Speed
-[report_cd_target.sport]: Goal
-[reset_option.system]: Turn off PIN
-[reset_passwd.system]: Reset PIN
-[reset_settings.sport]: Reset all
-[rest.hr]: 30-day RHR
-[rest.tomatotimer]: Rest
-[rest_day.calendar]: 休
-[rest_disp.settings]: Always-on display
-[rest_disp_info.settings]: Turning on "Always-on display" may halve battery life. "Raise to wake" will be turned off. Continue?
-[rest_disp_reminder1.settings]: The time will be displayed even when the screen is locked.
-[rest_disp_reminder2.settings]: Always-on will turn off when you go to sleep or take off your band.
-[rest_disp_title.settings]: Always-on display
-[rest_time.settings]: Auto lock
-[rest_time.tomatotimer]: Rest
-[rest_time_out.tomatotimer]: Time's up
-[rest_time_title.settings]: Auto lock
-[rest_total.tomatotimer]: Rest time
-[rest_total_pause.tomatotimer]: Rest time
-[restart.breath]: Restart
-[restart.health]: Restart
-[restart.hr]: Try again
-[resting.tomatotimer]: Resting
-[resttime_info.settings]: Keeping the screen on for long periods will reduce battery life. Continue?
-[result_title.pressure]: Result
-[result_upload.check_tool]: 上传
-[resume.common]: 继续
-[resume.sport]: Resume
-[retry.ota]: Try again in the app
-[retry.setupwizard]: Try again
-[retry.sport]: Try again
-[retry_add.setupwizard]: Add the device again
-[return.sport]: Back
-[rhythm.breath]: Follow the bubble
-[ride_indoor.sport]: Indoor cycling
-[ride_outdoor.sport]: Outdoor cycling
-[riding_time.sport]: Cycling
-[ring.mute]: Sound is on
-[ring_toast.mute]: Sound is off
-[rl1%drl2%02d:%02drl3.settings]: DND is on for %dh. Ends at %02d:%02d.
-[rock_climbing.sport]: Rock climbing
-[roller_skating.sport]: Roller skating
-[rope_skipping.sport]: Jump rope
-[rowing.sport]: Rowing
-[rowing_machine.sport]: Rower
-[rugby.sport]: American football
-[run_fast.sport]: Sprint
-[run_indoor.sport]: Treadmill
-[run_month_lunar.calendar]: 闰
-[run_outdoor.sport]: Outdoor running
-[running_time.sport]: Running
-[sailboat.sport]: Sailing
-[sandbags_ball.sport]: Hacky sack
-[satellite_positioning.sport]: Locating
-[satellite_signal_weakness.sport]: GPS signal is weak. Go to an open area.
-[saturation1.oxygen]: 1. SpO₂ represents the percentage of oxygen in your blood.
-[saturation1.pressure]: Learn more
-[saturation1.sleep]: When you wear your band to bed, it will automatically record information about your sleep. The device will display the latest 3 records; you can view more detailed information in the app.
-[saturation2.oxygen]: 2. Your watch classifies SpO₂ levels as follows:- Daily activities: ≥95% is normal- During sleep: ≥90% is normal：- At any time, <90% needs attention：Note: Your watch can measure SpO₂ levels between 75-100%.
-[saturation2.pressure]: Stress is your body's reaction to challenges and demands.
-[saturation2.sleep]: Turn on Advanced monitoring in Settings to get more accurate sleep information, such as recognizing REM sleep.
-[saturation3.oxygen]: 3. There are multiple factors that might make measurements inconsistent or unreliable. They might include skin perfusion, permanent or temporary changes to your skin, motion, or pose during sleep. All of the above might result in a falsely low blood oxygen alert.
-[saturation3.pressure]: Stress is measured only during periods of rest. Stress levels are defined as follows:
-[saturation3.sleep]: When you sleep for more than 3 hours, your device will display your average heart rate. For naps under 3 hours, only the time you fall asleep and wake up will be displayed. Naps under 20 minutes won't be recorded.
-[saturation4.hr]: Measurement accuracy may be affected by how the watch is worn, changes in your skin and the environment, etc.
-[saturation4.oxygen]: Tips
-[saturation4.pressure]: Measurement accuracy may be affected by how the watch is worn, changes in your skin and the environment, etc.
-[saturation4.sleep]: Poor sleep quality and excessive movement during sleep may disrupt heart rate and SpO₂ measurements.
-[saturation5.oxygen]: 1. Wear your band above your wrist bone.
-[saturation5.pressure]: Tips
-[saturation6.oxygen]: 2. Keep your band snug and still.
-[saturation6.pressure]: Wear your band above your wrist bone.
-[saturation7.oxygen]: This feature is not intended for medical purposes, nor to diagnose, treat, cure, or prevent any disease or condition.
-[saturation7.pressure]: Keep your band snug and still.
-[saturation8.pressure]: This feature is not intended for medical purposes, nor to diagnose, treat, cure, or prevent any disease or condition.
-[saturation_mild.pressure]: Mild: 26–50
-[saturation_moderate.pressure]: Moderate: 51–80
-[saturation_relax.pressure]: Relaxed: 1–25
-[saturation_severe.pressure]: Severe: 81+
-[saving.settings]: Battery saver
-[saving_mode.settings]: Battery saver
-[saving_state_label.settings]: Good
-[saving_state_poor.settings]: poor
-[saving_state_secondary.settings]: medium
-[saving_toast.settings]: The following features will affect battery life:
-[schedule.calendar]: Events
-[screen_bright.settings]: Screen on for
-[screen_bright_title.settings]: Screen on for
-[screen_cover.settings]: Cover to sleep
-[screen_toast.settings]: Turn off to extend battery life by %d hour.
-[screen_up.health]: Keep your wrist flat and the screen facing up
-[searching.common]: 搜索中...
-[searching.sport]: Searching
-[sec.common]: 秒
-[sec.sport]: sec
-[sec.timer]: Secs
-[sec_unit.common]: s
-[select_device.share]: Device
-[send_fail.phone]: Couldn't send
-[send_sucss.phone]: Sent
-[sepak_takraw.sport]: Sepak takraw
-[set.vitality]: Settings
-[set_time.tomatotimer]: Set duration
-[setting.common]: 设置
-[setting.hr]: Settings
-[setting.settings]: Settings
-[setting_btn.oxygen]: Settings
-[setting_btn.pressure]: Settings
-[setting_btn.sleep]: Settings
-[setting_title.oxygen]: Settings
-[setting_title.pressure]: Settings
-[setting_title.sleep]: Settings
-[settings.appname]: Settings
-[sevendays.vitality]: 7-day Vitality score
-[sevendays100.vitality]: Past 7 days: 100 points
-[sevendays100_text.vitality]: You're unstoppable, keep it up!
-[sevendays30.vitality]: Past 7 days: 30 points
-[sevendays30_text.vitality]: Keep moving to see even more results!
-[sevendays60.vitality]: Past 7 days: 60 points
-[sevendays60_text.vitality]: You're on the right track!
-[sevendays_widget.vitality]: Past 7 days
-[severe.pressure]: Severe
-[severe_zone.pressure]: Severe
-[shake_info.settings]: Try to shake the horizontal direction outward quickly twice, wait for the identification result, need to identify successfully twice.
-[shake_info1.settings]: The forearms are parallel to the chest
-[shake_info2.settings]: Palm down, screen up
-[shake_info3.settings]: Shake outward horizontally twice quickly
-[shake_wirst.settings]: Shake wrist
-[share_see_device.common]: 请在手机妙享中心上查看设备状态
-[sharedevice.share]: Mi Smart Hub
-[short.sleep]: Nap
-[shuffle_ball.sport]: Shuffleboard
-[shutdown.reminder]: Band is overheated. Powering off.
-[shuttlecock.sport]: Shuttlecock
-[shuttlecock_kicking.sport]: Shuttlecock
-[single_bar.sport]: Horizontal bar
-[sit_ups.sport]: Sit-ups
-[sj_lunar.calendar]: 霜降
-[skate.sport]: Skateboarding
-[sled.sport]: Sledding
-[sleep]: Sleep
-[sleep_breathe.settings]: Breathing score
-[sleep_precision.settings]: Advanced sleep monitoring
-[sleep_times.reminder]: Sleep
-[slow_down.sport]: Slow down
-[sn.common]: 序列号
-[sn.settings]: Serial No.
-[sn.system]: Serial No.
-[snorkeling.sport]: Snorkeling
-[snow_car.sport]: Bobsleigh
-[snow_sports.sport]: Other winter sports
-[snowboarding.sport]: Snowboarding
-[snowmobile.sport]: Snowmobile
-[social_dancing.sport]: Ballroom dance
-[softball.sport]: Softball
-[software_version.check_tool]: 软件版本:
-[soinning.sport]: Spinning
-[source_info.settings]: Please place your forearms parallel to your chest with your palms down and the screen facing up.
-[speed_avg_imp.sport]: Avg speed
-[speed_imp.sport]: Speed
-[speed_remind.sport]: Reminder
-[speed_up.sport]: Speed up
-[sport]: Workout
-[sport_expression.sport]: Training effect
-[sport_health.watchface]: 运动健康
-[sports.appname]: Workout
-[sports_course.appname]: Running
-[sports_record.appname]: History
-[spring_festival.calendar]: 春节
-[square_dance.sport]: Square dancing
-[squash.sport]: Squash
-[stand]: 站立
-[stand.act]: Standing
-[stand.explain]: "Standing" shows hours in which you stand up and move around. Try to stand up and move during 12 different hours in the day.
-[stand_reach.act]: Standing goal hit
-[stand_title.explain]: Standing
-[start.breath]: Start
-[start.common]: 开始
-[start.find_phone]: Search
-[start.health]: Measure
-[start.settings]: Start
-[start.sport]: Start
-[start_sport.sport]: Start
-[start_stretch.sport]: Stretch
-[start_time.settings]: Start
-[start_warmup.sport]: Warm up
-[starting.alexa]: starting.alexa
-[state.settings]: Excellent
-[state_screen.settings]: Always-on display
-[status1.training]: Low
-[status2.training]: Good
-[status3.training]: High
-[status4.training]: Very high
-[status_dsc.training]: Past 7 days
-[stay_still.health]: Keep still
-[step]: Steps
-[step.act]: Steps
-[step.explain]: "Steps" shows a daily step count. An active person walks between 8000 and 10,000 steps a day.
-[step_minute.sport]: steps/min
-[step_reach.act]: Step goal hit
-[step_title.explain]: Step
-[step_training.sport]: Stepper
-[stepper.sport]: Stepper
-[stick_skin.health]: Keep the band touching your skin
-[stop.calendar]: Stop
-[stop.common]: 停止
-[stop.find_phone]: Stop
-[stop.reminder]: Stop
-[stop.sport]: End
-[stopwatch]: Stopwatch
-[storag_status.check_tool]: 在位状态:
-[storag_test.check_tool]: 存储检测(6/14)
-[storage_space.sport]: Not enough storage
-[storage_space_tips.sport]: Connect your phone to avoid overwriting earlier workout records.
-[street_dance.sport]: Street dance
-[strength_training.sport]: Strength
-[stretch.sport]: Stretching
-[stretch_after_jump.sport]: Post-jump rope stretch
-[stretch_after_long_run.sport]: Post-long distance run stretch
-[stretch_after_run.sport]: Post-run stretch
-[stretch_course.sport]: Stretching course
-[stretch_cycling.sport]: Post-cycling stretch
-[stretch_end.sport]: Stretching complete
-[stretch_total_body.sport]: Full-body stretch
-[stride_frequency.sport]: Cadence
-[strike.sport]: Cardio combat
-[style.wf]: Style
-[sublist.todo]: Tasks
-[summarize.sport]: Summary
-[sure.watchface]: OK
-[sure_to_close_all_reminder.sport]: Turn off all workout reminders?
-[sure_to_reset_all_setting.sport]: Reset all workout settings?
-[surfing.sport]: Water skiing
-[surfing_indoor.sport]: Flowriding
-[swim_indoor.sport]: Pool swimming
-[swim_lock_prompt.sport]: The screen will lock when you start. Swipe up, then down to unlock.
-[swim_main_style.sport]: Main style
-[swim_outdoor.sport]: Open water
-[swimming_time.sport]: Swimming
-[swing.sport]: Swinging
-[switch.share]: switch.share
-[swordsmanship.sport]: Kendo
-[sys_newphone.common]: 连接新手机
-[sys_newphone_info.common]: 连接新手机将会断开当前连接，不更换账号绑定个人数据不会丢失，是否继续？
-[sys_poweroff.common]: 关机
-[sys_poweroff.settings]: Power off
-[sys_poweroff_info.common]: 确认关机？
-[sys_poweroff_info.settings]: Power off now?
-[sys_reboot.common]: 重启
-[sys_reboot.settings]: Reboot
-[sys_reboot_info.common]: 确认重启？
-[sys_reboot_info.settings]: Reboot now?
-[sys_reset.common]: 恢复出厂
-[sys_reset.settings]: Reset
-[sys_reset_info.common]: 数据记录和设置将会被清除，确定恢复出厂？
-[sys_reset_info.settings]: A factory reset will erase all data. Continue?
-[system.settings]: System
-[system_option.setupwizard]: System
-[system_reboot.ota]: Device is about to reboot
-[system_title.settings]: System
-[taekwondo.sport]: Taekwondo
-[taichi.sport]: Tai chi
-[tail_tips.phone]: tail_tips.phone
-[target_%d_kcal.act]: Goal: %d kcal
-[target_%d_minute.act]: Goal: %d min
-[target_%d_minute.sport]: Goal: %.*f min
-[target_%d_num.act]: Goal: %d hr
-[target_%d_step.act]: Goal: %d step
-[target_accomplishment%d%%.sport]: Progress: %d%%
-[target_accomplishment.sport]: Goal completion
-[target_cal.sport]: Goal
-[target_confirm.sport]: Turning on workout goals will turn off interval training. Turn on now?
-[target_distance.sport]: Goal
-[target_duration.sport]: Completed
-[target_heartrate_zone.sport]: Target HR zone
-[target_number.sport]: Goal
-[target_range%d-%d.sport]: Target BPM: %1$d–%2$d
-[target_times.sport]: Goal
-[target_trips.sport]: Goal
-[temp_no_schedule.calendar]: No events
-[tenmin.hr]: Every 10 mins
-[tennis.sport]: Tennis
-[test_again.check_tool]: 重试
-[test_exit.check_tool]: 退出
-[test_fail.check_tool]: 失败
-[test_pass.check_tool]: 通过
-[test_stop.check_tool]: 结束
-[the_course_has_been_completed.sport]: Course complete
-[thinking.alexa]: thinking.alexa
-[thirty_btn.pressure]: Past 30 days
-[thirty_title.pressure]: Past 30 days
-[thirtymin.hr]: Every 30 mins
-[this_train_time.breath]: Session
-[time.alarm]: Time
-[time.wf]: Time
-[time/min.health]: BPM
-[time_break.sport]: Rest
-[time_break_title.sport]: Rest time
-[time_dsc.training]: Recovery time
-[time_hour.alarm]: Hour
-[time_min.alarm]: Min
-[time_on.settings]: Scheduled
-[time_on_28.settings]: Scheduled
-[time_on_title.settings]: Scheduled
-[time_rest.sport]: Rest time
-[time_rest_total.sport]: Rest time
-[time_too_short.sport]: Workout time is too short to record.
-[time_too_short_resume.sport]: Workout time too short to record. End?
-[time_total.sport]: Workout time
-[time_unit.training]: hr
-[timeout.hr]: Couldn't measure
-[timer_deleted.alexa]: timer_deleted.alexa
-[times_group.sport]: This set
-[timesetting.alarm]: Time
-[tips.alipay]: It is already unpaired on the device. Go to mobile Alipay to unpair the device to complete the process.
-[tips1.watchface]: 打开手机APP\n添加新表盘
-[tips_open.remote_camera]: Open Camera on your phone
-[tips_password.wxpay]: Set a password for your security
-[title.find_phone]: Find phone
-[title.oxygen]: SpO₂
-[title.pressure]: Stress
-[title.sleep]: Sleep
-[title.timer]: Timer
-[to_enable.wxpay]: To enable,use Weixin to scan QR code.
-[to_get1.training]: 1.Fill in your personal information in the app.
-[to_get2.training]: 2.Wear the band and run outdoors for 10+ mins to reach 75% of your max heart rate.
-[tob.alipay]: Barcode
-[today.calendar]: Today
-[today.common]: Today
-[today.todo]: Today
-[today.tomatotimer]: Today
-[today_d.common]: 今日
-[today_no_remind.act]: Dismiss today
-[today_no_title.calendar]: No events today
-[today_rest.hr]: Today
-[today_t.calendar]: Today
-[today_t.common]: 今
-[todayget%d_widget.vitality]: Today: %d
-[todayget.vitality]: Today
-[todayget80.vitality]: Today: 80 points
-[todayget80_text.vitality]: You've earned the maximum amount of points today. Take a break!
-[todo.appname]: Tasks
-[tomorrow.common]: Tmrw
-[tomorrow.todo]: Tomorrow
-[tomorrow.wm]: Tomorrow
-[tools.common]: 工具
-[toq.alipay]: QR code
-[total_nums.sport]: Total jumps
-[total_rowing_times.sport]: Total strokes
-[total_stokes.sport]: Total strokes
-[tp_sign.check_tool]: 对所有方块进行\n连接操作
-[tp_test.check_tool]: TP划线检测(9/14)
-[track_and_field.sport]: Athletics
-[train.breath]: Breathing exercises
-[train.sport]: Training
-[train_setting.sport]: Settings
-[training.sport]: Training
-[training_interrupted.breath]: Breathing was interrupted
-[training_load.sport]: Training load
-[training_result.breath]: Results
-[transport.share]: Transparency
-[triathlon.sport]: Triathlon
-[trips_group.sport]: Lengths this set
-[try_again_later.wxpay]: Try Again Later
-[tug_of_war.sport]: Tug of war
-[turning_word.weather]: turning_word.weather
-[turnoff.alarm]: Turn off
-[turnoff.common]: Off
-[turnoff.reminder]: Turn off
-[turnoff.todo]: Turn off
-[turnon.common]: On
-[twelfth_month_lunar.calendar]: 腊月
-[twenty_day_lunar.calendar]: 廿
-[unable_to_pay.wxpay]: Unable to pay
-[unbind.alipay]: Remove
-[unbinding.wxpay]: Unlink
-[unbinding_tips.wxpay]: After unlinking the device,you cannot make payments using Weixin Pay.
-[unbound.wxpay]: Unlinked
-[uncompleted.todo]: Not completed
-[uncompleted32.todo]: Not completed
-[unit_calorie.sport]: Kcal
-[unit_foot.sport]: Feet
-[unit_kilometer.sport]: Km
-[unit_meter.sport]: Meters
-[unit_mile.sport]: Miles
-[unit_minute.sport]: Mins
-[unit_mph.sport]: MPH
-[unit_num_cycle.sport]: Sets
-[unit_number.sport]: Jumps
-[unit_rope_freq.sport]: JPM
-[unit_rowing_freq.sport]: SPM
-[unit_speed.sport]: Km/h
-[unit_times.sport]: Strokes
-[unit_trips.sport]: Lengths
-[unknown_artist.media]: Unknown
-[unknown_song.media]: Unknown
-[unknown_status.media]: No music data
-[unlock_use.common]: Enter PIN to unlock
-[unopenswitch.alarm]: Off
-[unread_message.notify]: notification
-[unwanted.settings]: Good
-[up_sign.setupwizard]: Scan QR code
-[update_back.setupwizard]: Reverted to previous version
-[update_fail.setupwizard]: Couldn't update
-[update_succ.setupwizard]: Updated
-[upgrading.ota]: Preparing update
-[upload_fail.check_tool]: 上传失败
-[upload_sign.check_tool]: 上传完成后请前往App查看汇总展示
-[upload_success.check_tool]: 上传完成
-[upper_limb_training.sport]: Upper body
-[upper_limit_reminder%dtimes/minute.sport]: Threshold: %d BPM
-[use.alipay]: Confirm
-[version_info.check_tool]: 版本信息核对
-[very_good.breath]: Nice job
-[vibrate_enhance.settings]: Strong
-[vibrate_mode.settings]: Vibration
-[vibrate_mode_title.settings]: Vibration
-[vibrate_standard.settings]: Normal
-[voice_mode.share]: Sound mode
-[volleyball.sport]: Volleyball
-[waist_training.sport]: Abs
-[wait.reminder]: Snooze
-[waiting_location.sport]: Wait for GPS location to start workout.
-[wake_num.sleep]: Wake-ups
-[wake_up.reminder]: Time to wake up
-[walk_indoor.sport]: Indoor walking
-[walk_outdoor.sport]: Walking
-[walking_maching.sport]: Air walker
-[wall_ball.sport]: Wall ball
-[warm_up.sport]: Light
-[warm_up_done.sport]: Done
-[warm_up_interval.sport]: Light
-[warm_up_time.sport]:  
-[warmup_before_jump.sport]: Pre-jump rope warm-up
-[warmup_before_long_run.sport]: Pre-long distance run stretch
-[warmup_before_run.sport]: Pre-run warm-up
-[warmup_course.sport]: Warm-up course
-[warmup_cycling.sport]: Pre-cycling warm-up
-[warmup_end.sport]: Warm-up complete
-[warmup_switch.sport]: Switch
-[warmup_total_body.sport]: Full-body warm-up
-[warmup_zone.hr]: Light
-[warmup_zone1.hr]: 50%-60% of the heart rate's maximum capacity is suitable for warm-ups and cool-downs.
-[warning.flashlight]: Battery under 5%
-[warning2.flashlight]: Can't turn on Flashlight
-[watchface.settings]: Edit band display
-[watchmode.settings]: Model
-[water_polo.sport]: Water polo
-[water_sports.sport]: Other water sports
-[wear_tight.health]: Keep the band touching your skin
-[wearing_notice.settings]: Notify only when worn
-[wearing_notice_toast.settings]: Turn off notifications when band is taken off the wrist
-[weatherCondition]: Weather
-[weather_title.alexa]: weather_title.alexa
-[web_swimming.sport]: Finswimming
-[wechat.common]: Weixin
-[wechatPayment]: Weixin Pay
-[weekly.alarm]: Custom
-[weightlifting.sport]: Weightlifting
-[weiqi.sport]: Weiqi
-[widget_calorie.act]: Calories
-[widget_intensity.act]: Moving
-[widget_stand.act]: Stand
-[widget_step.act]: Steps
-[windLevel]: Wind
-[winter_sports.sport]: Winter sports
-[wm_exp.wm]: Learn more
-[womenhealth.wm]: Cycles
-[work_day.calendar]: 班
-[workday.alarm]: Workdays
-[workday.common]: 工作日
-[workday.todo]: Workdays
-[wrestling.sport]: Wrestling
-[wrist_screen.settings]: Raise to wake
-[wristlift.settings]: Raise to wake
-[wristlift_info.settings]: "Always-on display" is on. Turning on "Raise to wake" will reduce battery life. Turn on anyway?
-[wristlift_title.settings]: Raise to wake
-[wxpay.appname]: Weixin Pay
-[xh_lunar.calendar]: 小寒
-[xiaomitv.share]: TV
-[xm_lunar.calendar]: 小满
-[xn_festival.calendar]: 小年
-[xs_lunar.calendar]: 小暑
-[xx_lunar.calendar]: 小雪
-[xz_lunar.calendar]: 夏至
-[yes_try_again.settings]: Very good, please try again!
-[yesterday.common]: 昨天
-[yesterday.todo]: Yesterday
-[yoga.sport]: Yoga
-[ys_lunar.calendar]: 雨水
-[yx_festival.calendar]: 元宵节
-[zone.hr]: HR zone
-[zone.pressure]: Details
-[zoneexp.hr]: Learn more
-[zq_festival.calendar]: 中秋节
-[zumba.sport]: Zumba
-[zy_festival.calendar]: 中元节
+[|1]: Project-Id-Version: MIUI Watch\nLast-Translator: Automatically generated\nLanguage-Team: English, United States\nLanguage: en_US\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n
+[%.*fcnt/min.sport|2]: %.*f BPM|%.*f BPM
+[%.*fgroup.sport|2]: %.*f set|%.*f sets
+[%.*fkcal.sport|2]: %.*f kcal|%.*f kcal
+[%.*fkm.sport|2]: %.*f km|%.*f km
+[%.*fkm_distance_calibration.sport|2]: Distance this run: %.*f km. Calibrate?|Distance this run: %.*f km. Calibrate?
+[%.*fkm_per_hr.sport|2]: %.*f km/h|%.*f km/h
+[%.*fm.sport|2]: %.*f m|%.*f m
+[%.*fnumber.sport|2]: %.*f jump|%.*f jumps
+[%.*ftime.sport|2]: %.*f stroke|%.*f strokes
+[%.*ftrip.sport|2]: %.*f length|%.*f lengths
+[%02d%02d_update_am_time.sleep|1]: Updated: %02d:%02dAM
+[%02d%02d_update_pm_time.sleep|1]: Updated: %02d:%02dPM
+[%02d%02d_update_time.sleep|1]: Updated: %02d:%02d
+[%02d:%02dAMexit_sleep_mode.reminder|1]: Sleep mode off at %02d:%02d AM
+[%02d:%02dPMexit_sleep_mode.reminder|1]: Sleep mode off at %02d:%02d PM
+[%02d:%02d_update.health|1]: Updated: %02d:%02d
+[%02d:%02d_update.pressure|1]: Updated: %02d:%02d
+[%02d:%02dexit_sleep_mode.reminder|1]: Sleep mode off at %02d:%02d
+[%1$s_ampm_%2$s_time_combine.common|1]: %1$s%2$s
+[%2d_target_hour.sleep|2]: Goal: %2d hr|Goal: %2d hrs
+[%2d_target_hours.sleep|1]: Goal: %2d hrs
+[%d%2d_12AMend.calendar|1]: Ends at %1$d:%2$02d AM
+[%d%2d_12PMend.calendar|1]: Ends at %1$d:%2$02d PM
+[%d%2d_24end.calendar|1]: Ends at %1$d:%2$02d
+[%d%d%dyear_month_day.todo|1]: %2$d/%3$d/%1$d
+[%d%d_target_time.sleep|1]: Goal: %dhrs %dmins
+[%d%d_time_sec.sleep|1]: %dhrs %dmins
+[%d%dmonth_day.common|1]: %1$d月%2$d日
+[%d%dmonth_day.todo|1]: %1$d/%2$d
+[%d%dmonth_day_slash.common|1]: %1$02d/%2$02d
+[%d%dravailable.settings|1]: Remaining battery life: %dd %dh
+[%d%dyear_month.calendar|1]: %2$d/%1$d
+[%d:%d.worldclock|1]: %d:%d
+[%d_cnt/min_just.health|1]: %d BPM (just now)
+[%d_hour_sec.sleep|2]: %d hr|%d hrs
+[%d_message.notify|2]: %d notification|%d notifications
+[%d_min_before.health|2]: %d min ago|%d mins ago
+[%d_min_before.notify|2]: %d min ago|%d mins ago
+[%d_min_sec.sleep|2]: %d min|%d mins
+[%d_mins_before.pressure|2]: %d min ago|%d mins ago
+[%d_unread_message.notify|2]: %d new notification|%d new notifications
+[%dcalories_unit.act|2]: kcal|kcal
+[%dcnt/min.common|2]: %d次/分钟|%d次/分钟
+[%dcnt/min.sport|2]: %d BPM|%d BPM
+[%dday_later.wm|2]: In %d day|In %d days
+[%dfull_hour.common|2]: %d小时|%d小时
+[%dfull_hour.hr|1]: %d hr
+[%dfull_hour.reminder|2]: %dhr|%dhrs
+[%dfull_hour.sport|2]: %d hr|%d hrs
+[%dfull_min.common|2]: %d分钟|%d分钟
+[%dfull_min.hr|1]: %d min
+[%dfull_min.reminder|2]: %dmin|%dmins
+[%dfull_min.settings|2]: %d min|%d mins
+[%dfull_min_28.settings|2]: %d min|%d mins
+[%dhour.common|2]: %d时|%d时
+[%dhour.worldclock|2]: %dhr|%dhrs
+[%dintensity_unit.act|2]: min|mins
+[%ditem.todo|2]: %d item|%d items
+[%ditem_in_category.sport|2]: %d item|%d items
+[%ditem_schedules.calendar|2]: %d event|%d events
+[%dmin.common|2]: %d分|%d分
+[%dmin.vitality|2]: %d min|%d mins
+[%dmin_retry.common|2]: Try again in %d min|Try again in %d mins
+[%dmin_training.breath|2]: %d-min breathing|%d-min breathing
+[%dmin_warmup.sport|2]: %d min|%d mins
+[%dminute.sport|2]: %d min|%d mins
+[%dpercent.common|1]: %d%%
+[%dsec.common|2]: %d秒|%d秒
+[%dsec.settings|2]: %d sec|%d secs
+[%dsec_28.settings|2]: %d sec|%d secs
+[%dsec_course_resume.sport|2]: Continue (%ds)|Continue (%ds)
+[%dsec_retry.common|2]: Try again in %ds|Try again in %ds
+[%dsec_warmup.sport|2]: %d sec|%d secs
+[%dstand_unit.act|2]: hr|hrs
+[%dstep_unit.act|2]: step|steps
+[%dtime/minute.health|2]: %d BPM|%d BPM
+[%dtime_num.slep|2]: %d time|%d times
+[%dtime_warmup.sport|2]: %d rep|%d reps
+[%s%stime_combine.common|1]: %1$s%2$s
+[%s%stime_combine.reminder|1]: %1$s%2$s
+[+%d:%ds.worldclock|1]: +%d:%d
+[AQI|1]: AQI
+[Apr.common|1]: 四月
+[Apr_n.common|1]: 4月
+[Aug.common|1]: 八月
+[Aug_n.common|1]: 8月
+[C102_cityname.worldclock|1]: Baghdad
+[C102_timezone.worldclock|1]: 180
+[C105_cityname.worldclock|1]: Bangkok
+[C105_timezone.worldclock|1]: 420
+[C106_cityname.worldclock|1]: Beirut
+[C106_timezone.worldclock|1]: 120
+[C109_cityname.worldclock|1]: Dhaka
+[C109_timezone.worldclock|1]: 360
+[C110_cityname.worldclock|1]: Dubai
+[C110_timezone.worldclock|1]: 240
+[C114_cityname.worldclock|1]: Hong Kong
+[C114_timezone.worldclock|1]: 480
+[C115_cityname.worldclock|1]: Jakarta
+[C115_timezone.worldclock|1]: 420
+[C116_cityname.worldclock|1]: Jerusalem
+[C116_timezone.worldclock|1]: 120
+[C117_cityname.worldclock|1]: Kabul
+[C117_timezone.worldclock|1]: 240
+[C118_cityname.worldclock|1]: Karachi
+[C118_timezone.worldclock|1]: 300
+[C119_cityname.worldclock|1]: Kathmandu
+[C119_timezone.worldclock|1]: 360
+[C120_cityname.worldclock|1]: Kuala Lumpur
+[C120_timezone.worldclock|1]: 480
+[C123_cityname.worldclock|1]: Manila
+[C123_timezone.worldclock|1]: 480
+[C124_cityname.worldclock|1]: Muscat
+[C124_timezone.worldclock|1]: 240
+[C125_cityname.worldclock|1]: Phnom Penh
+[C125_timezone.worldclock|1]: 420
+[C126_cityname.worldclock|1]: Pyongyang
+[C126_timezone.worldclock|1]: 540
+[C128_cityname.worldclock|1]: Yangon
+[C128_timezone.worldclock|1]: 360
+[C129_cityname.worldclock|1]: Riyadh
+[C129_timezone.worldclock|1]: 180
+[C130_cityname.worldclock|1]: Seoul
+[C130_timezone.worldclock|1]: 540
+[C132_cityname.worldclock|1]: Singapore
+[C132_timezone.worldclock|1]: 480
+[C134_cityname.worldclock|1]: Tehran
+[C134_timezone.worldclock|1]: 180
+[C136_cityname.worldclock|1]: Tokyo
+[C136_timezone.worldclock|1]: 540
+[C143_cityname.worldclock|1]: Adelaide
+[C143_timezone.worldclock|1]: 540
+[C144_cityname.worldclock|1]: Brisbane
+[C144_timezone.worldclock|1]: 600
+[C146_cityname.worldclock|1]: Darwin
+[C146_timezone.worldclock|1]: 540
+[C149_cityname.worldclock|1]: Perth
+[C149_timezone.worldclock|1]: 480
+[C151_cityname.worldclock|1]: Sydney
+[C151_timezone.worldclock|1]: 600
+[C156_cityname.worldclock|1]: Amsterdam
+[C156_timezone.worldclock|1]: 60
+[C15_cityname.worldclock|1]: Harare
+[C15_timezone.worldclock|1]: 120
+[C161_cityname.worldclock|1]: Berlin
+[C161_timezone.worldclock|1]: 60
+[C163_cityname.worldclock|1]: Brussels
+[C163_timezone.worldclock|1]: 60
+[C164_cityname.worldclock|1]: Bucharest
+[C164_timezone.worldclock|1]: 120
+[C165_cityname.worldclock|1]: Budapest
+[C165_timezone.worldclock|1]: 60
+[C167_cityname.worldclock|1]: Copenhagen
+[C167_timezone.worldclock|1]: 60
+[C168_cityname.worldclock|1]: Dublin
+[C168_timezone.worldclock|1]: 0
+[C170_cityname.worldclock|1]: Helsinki
+[C170_timezone.worldclock|1]: 120
+[C172_cityname.worldclock|1]: Istanbul
+[C172_timezone.worldclock|1]: 180
+[C173_cityname.worldclock|1]: Lisbon
+[C173_timezone.worldclock|1]: 0
+[C174_cityname.worldclock|1]: London
+[C174_timezone.worldclock|1]: 0
+[C176_cityname.worldclock|1]: Madrid
+[C176_timezone.worldclock|1]: 60
+[C178_cityname.worldclock|1]: Minsk
+[C178_timezone.worldclock|1]: 180
+[C180_cityname.worldclock|1]: Moscow
+[C180_timezone.worldclock|1]: 180
+[C181_cityname.worldclock|1]: Oslo
+[C181_timezone.worldclock|1]: 60
+[C182_cityname.worldclock|1]: Paris
+[C182_timezone.worldclock|1]: 60
+[C183_cityname.worldclock|1]: Prague
+[C183_timezone.worldclock|1]: 60
+[C185_cityname.worldclock|1]: Rome
+[C185_timezone.worldclock|1]: 60
+[C191_cityname.worldclock|1]: Stockholm
+[C191_timezone.worldclock|1]: 60
+[C192_cityname.worldclock|1]: Tallinn
+[C192_timezone.worldclock|1]: 120
+[C194_cityname.worldclock|1]: Vienna
+[C194_timezone.worldclock|1]: 60
+[C196_cityname.worldclock|1]: Vilnius
+[C196_timezone.worldclock|1]: 120
+[C197_cityname.worldclock|1]: Warsaw
+[C197_timezone.worldclock|1]: 60
+[C202_cityname.worldclock|1]: Auckland
+[C202_timezone.worldclock|1]: 720
+[C205_cityname.worldclock|1]: Honolulu
+[C205_timezone.worldclock|1]: -600
+[C206_cityname.worldclock|1]: Kiritimati
+[C206_timezone.worldclock|1]: 0
+[C21_cityname.worldclock|1]: Lagos
+[C21_timezone.worldclock|1]: 60
+[C224_cityname.worldclock|1]: San Francisco
+[C224_timezone.worldclock|1]: -480
+[C227_cityname.worldclock|1]: San Salvador
+[C227_timezone.worldclock|1]: -360
+[C230_cityname.worldclock|1]: Washington D.C.
+[C230_timezone.worldclock|1]: -300
+[C242_cityname.worldclock|1]: Atlanta
+[C242_timezone.worldclock|1]: -300
+[C252_cityname.worldclock|1]: Beijing
+[C252_timezone.worldclock|1]: 480
+[C253_cityname.worldclock|1]: Mumbai
+[C253_timezone.worldclock|1]: 300
+[C261_cityname.worldclock|1]: Frankfurt
+[C261_timezone.worldclock|1]: 60
+[C262_cityname.worldclock|1]: Hanoi
+[C262_timezone.worldclock|1]: 420
+[C263_cityname.worldclock|1]: Ankara
+[C263_timezone.worldclock|1]: 180
+[C265_cityname.worldclock|1]: Brasília
+[C265_timezone.worldclock|1]: -180
+[C266_cityname.worldclock|1]: Cape Town
+[C266_timezone.worldclock|1]: 120
+[C267_cityname.worldclock|1]: Islamabad
+[C267_timezone.worldclock|1]: 300
+[C268_cityname.worldclock|1]: Rio de Janeiro
+[C268_timezone.worldclock|1]: -180
+[C278_cityname.worldclock|1]: Santiago
+[C278_timezone.worldclock|1]: -240
+[C284_cityname.worldclock|1]: Kyiv
+[C284_timezone.worldclock|1]: 120
+[C285_cityname.worldclock|1]: St. Petersburg
+[C285_timezone.worldclock|1]: 180
+[C291_cityname.worldclock|1]: San Juan
+[C291_timezone.worldclock|1]: -240
+[C292_cityname.worldclock|1]: Tegucigalpa
+[C292_timezone.worldclock|1]: -360
+[C295_cityname.worldclock|1]: Hawaii
+[C295_timezone.worldclock|1]: -600
+[C296_cityname.worldclock|1]: Alaska
+[C296_timezone.worldclock|1]: -540
+[C297_cityname.worldclock|1]: Phoenix
+[C297_timezone.worldclock|1]: -420
+[C299_cityname.worldclock|1]: Kingston
+[C299_timezone.worldclock|1]: -300
+[C300_cityname.worldclock|1]: Praia
+[C300_timezone.worldclock|1]: -60
+[C301_cityname.worldclock|1]: Reykjavik
+[C301_timezone.worldclock|1]: 0
+[C302_cityname.worldclock|1]: Geneva
+[C302_timezone.worldclock|1]: 60
+[C303_cityname.worldclock|1]: Windhoek
+[C303_timezone.worldclock|1]: 120
+[C304_cityname.worldclock|1]: Sofia
+[C304_timezone.worldclock|1]: 120
+[C305_cityname.worldclock|1]: Athens
+[C305_timezone.worldclock|1]: 120
+[C306_cityname.worldclock|1]: Kaliningrad
+[C306_timezone.worldclock|1]: 120
+[C307_cityname.worldclock|1]: Khartoum
+[C307_timezone.worldclock|1]: 120
+[C308_cityname.worldclock|1]: Nairobi
+[C308_timezone.worldclock|1]: 180
+[C309_cityname.worldclock|1]: Aden
+[C309_timezone.worldclock|1]: 180
+[C310_cityname.worldclock|1]: Antananarivo
+[C310_timezone.worldclock|1]: 180
+[C311_cityname.worldclock|1]: Kuwait
+[C311_timezone.worldclock|1]: 180
+[C312_cityname.worldclock|1]: Abu Dhabi
+[C312_timezone.worldclock|1]: 240
+[C313_cityname.worldclock|1]: Samara
+[C313_timezone.worldclock|1]: 240
+[C314_cityname.worldclock|1]: New Delhi
+[C314_timezone.worldclock|1]: 300
+[C315_cityname.worldclock|1]: Novosibirsk
+[C315_timezone.worldclock|1]: 420
+[C316_cityname.worldclock|1]: Taiwan
+[C316_timezone.worldclock|1]: 480
+[C317_cityname.worldclock|1]: Irkutsk
+[C317_timezone.worldclock|1]: 480
+[C318_cityname.worldclock|1]: Chita
+[C318_timezone.worldclock|1]: 540
+[C319_cityname.worldclock|1]: Vladivostok
+[C319_timezone.worldclock|1]: 600
+[C321_cityname.worldclock|1]: Magadan
+[C321_timezone.worldclock|1]: 660
+[C322_cityname.worldclock|1]: Kamchatka
+[C322_timezone.worldclock|1]: 720
+[C323_cityname.worldclock|1]: Suva
+[C323_timezone.worldclock|1]: 720
+[C325_cityname.worldclock|1]: Wellington
+[C325_timezone.worldclock|1]: 720
+[C32_cityname.worldclock|1]: Asunción
+[C32_timezone.worldclock|1]: -240
+[C36_cityname.worldclock|1]: Buenos Aires
+[C36_timezone.worldclock|1]: -180
+[C38_cityname.worldclock|1]: Caracas
+[C38_timezone.worldclock|1]: -240
+[C3_cityname.worldclock|1]: Addis Ababa
+[C3_timezone.worldclock|1]: 180
+[C40_cityname.worldclock|1]: Chicago
+[C40_timezone.worldclock|1]: -360
+[C47_cityname.worldclock|1]: Edmonton
+[C47_timezone.worldclock|1]: -420
+[C4_cityname.worldclock|1]: Algiers
+[C4_timezone.worldclock|1]: 60
+[C52_cityname.worldclock|1]: Guatemala
+[C52_timezone.worldclock|1]: -360
+[C55_cityname.worldclock|1]: Havana
+[C55_timezone.worldclock|1]: -300
+[C65_cityname.worldclock|1]: Nuestra Señora de La Paz
+[C65_timezone.worldclock|1]: -240
+[C66_cityname.worldclock|1]: Lima
+[C66_timezone.worldclock|1]: -300
+[C67_cityname.worldclock|1]: Los Angeles
+[C67_timezone.worldclock|1]: -480
+[C69_cityname.worldclock|1]: Managua
+[C69_timezone.worldclock|1]: -360
+[C72_cityname.worldclock|1]: Mexico City
+[C72_timezone.worldclock|1]: -360
+[C73_cityname.worldclock|1]: Monterey
+[C73_timezone.worldclock|1]: -360
+[C74_cityname.worldclock|1]: Montevideo
+[C74_timezone.worldclock|1]: -180
+[C76_cityname.worldclock|1]: Nassau
+[C76_timezone.worldclock|1]: -300
+[C77_cityname.worldclock|1]: New York
+[C77_timezone.worldclock|1]: -300
+[C7_cityname.worldclock|1]: Cairo
+[C7_timezone.worldclock|1]: 120
+[C8_cityname.worldclock|1]: Casablanca
+[C8_timezone.worldclock|1]: 0
+[C93_cityname.worldclock|1]: Toronto
+[C93_timezone.worldclock|1]: -300
+[C94_cityname.worldclock|1]: Vancouver
+[C94_timezone.worldclock|1]: -480
+[C95_cityname.worldclock|1]: Winnipeg
+[C95_timezone.worldclock|1]: -360
+[C98_cityname.worldclock|1]: Almaty
+[C98_timezone.worldclock|1]: 360
+[C99_cityname.worldclock|1]: Amman
+[C99_timezone.worldclock|1]: 120
+[Dec.common|1]: 十二月
+[Dec_n.common|1]: 12月
+[Feb.common|1]: 二月
+[Feb_n.common|1]: 2月
+[Fri.calendar|1]: Fri
+[Fri.worldclock|1]: Fri
+[Fri_brief.calendar|1]: F
+[Fri_brief.common|1]: 五
+[Jan.common|1]: 一月
+[Jan_n.common|1]: 1月
+[July.common|1]: 七月
+[July_n.common|1]: 7月
+[June.common|1]: 六月
+[June_n.common|1]: 6月
+[Mar.common|1]: 三月
+[Mar_n.common|1]: 3月
+[May.common|1]: 五月
+[May_n.common|1]: 5月
+[Mon.calendar|1]: Mon
+[Mon.worldclock|1]: Mon
+[Mon_brief.calendar|1]: M
+[Mon_brief.common|1]: 一
+[Nov.common|1]: 十一月
+[Nov_n.common|1]: 11月
+[Oct.common|1]: 十月
+[Oct_n.common|1]: 10月
+[Sat.calendar|1]: Sat
+[Sat.worldclock|1]: Sat
+[Sat_brief.calendar|1]: S
+[Sat_brief.common|1]: 六
+[Sept.common|1]: 九月
+[Sept_n.common|1]: 9月
+[Sports.sport|1]: Workout
+[Sun.calendar|1]: Sun
+[Sun.worldclock|1]: Sun
+[Sun_brief.calendar|1]: S
+[Sun_brief.common|1]: 日
+[Thu.calendar|1]: Thu
+[Thu.worldclock|1]: Thu
+[Thu_brief.calendar|1]: T
+[Thu_brief.common|1]: 四
+[Tue.calendar|1]: Tue
+[Tue.worldclock|1]: Tue
+[Tue_brief.calendar|1]: T
+[Tue_brief.common|1]: 二
+[UVI|1]: UVI
+[Wed.calendar|1]: Wed
+[Wed.worldclock|1]: Wed
+[Wed_brief.calendar|1]: W
+[Wed_brief.common|1]: 三
+[ability_down.training|1]: Declining
+[ability_dsc.training|1]: Athletic ability
+[ability_keep.training|1]: Maintaining
+[ability_up.training|1]: Highly improving
+[about.common|1]: 关于
+[about.settings|1]: About
+[about.setupwizard|1]: About
+[about_title.settings|1]: About
+[accel_test.check_tool|1]: 加速度检测(3/14)
+[accomplish.sport|1]: Done
+[action_preview.sport|1]: Preview
+[active.nfc|1]: Loading
+[active_fail.nfc|1]: Couldn't load. Try again.
+[activities.act|1]: Time to stand up
+[activity.sport|1]: Activity
+[activity.watchface|1]: 活动统计
+[activityIndex|1]: Stats
+[add_city.worldclock|1]: Add location
+[add_driver.setupwizard|1]: Open Mi Fitness and add the device:
+[add_fail.nfc|1]: Couldn't add
+[add_full.nfc|1]: Max number of cards added
+[advanced_aerobic_endurance_running.sport|1]: Endurance run (Advanced)
+[advanced_aerobic_endurance_running_dsc.sport|1]: Longer jog for endurance.
+[advanced_fat_burning_run.sport|1]: Fat burn run (Advanced)
+[advanced_fat_burning_run_dsc.sport|1]: Low-medium intensity, extended jog for fat burn.
+[advanced_interval_running.sport|1]: Interval run (Advanced)
+[advanced_interval_running_dsc.sport|1]: Longer interval training for heart and lung health.
+[advanced_run_walk.sport|1]: Advanced run/walk
+[advanced_run_walk_dsc.sport|1]: Combines walking and jogging at intervals.
+[aerobic.common|1]: Aerobic
+[aerobic.sport|1]: Aerobic
+[aerobic_interval.sport|1]: Aerobic
+[aerobic_training_effect.sport|1]: Aerobic
+[aerobic_zone.hr|1]: Anaerobic
+[aerobic_zone1.hr|1]: At 81%-90% of your maximum heart rate, lactic acid tolerance is being improved.
+[aerobics.sport|1]: Aerobics
+[again.find_phone|1]: Search again
+[again_upgrade.setupwizard|1]: Try starting the update again on the app
+[agree.wxpay|1]: Accept
+[ai_escort.sport|1]: AI pacer
+[aivs.appname|1]: Xiao Ai
+[alarm|1]: Alarm
+[alarm.appname|1]: Alarm
+[alarm_deleted.alexa|1]: alarm_deleted.alexa
+[alarm_title.alexa|1]: alarm_title.alexa
+[alexa.appname|1]: alexa.appname
+[alipayPaymentCode|1]: Alipay
+[allbreath%d.breath|2]: %d breath|%d breaths
+[allday.calendar|1]: All day
+[allday_m36.calendar|1]: All day
+[always_bright_close.ctrl|1]: "Wake for 5 mins" is off
+[always_bright_open.ctrl|1]: "Wake for 5 mins" is on
+[alwayson_info.settings|1]: Screen will stay on for %d min each time. This will affect battery life. Turn on anyway?
+[am.common|1]: 上午
+[am_t.alarm|1]: AM
+[am_t.calendar|1]: AM
+[am_t.todo|1]: AM
+[anaerobic.common|1]: Anaerobic
+[anaerobic.sport|1]: Anaerobic
+[anaerobic_interval.sport|1]: Anaerobic
+[anaerobic_zone.hr|1]: Aerobic
+[anaerobic_zone1.hr|1]: At 71%-80%, cardiopulmonary functions are strengthened.
+[anim_cxkhz.sport|1]: Lateral star walk
+[anim_dtncdtls.sport|1]: Dynamic inner thigh stretch
+[anim_fbls.sport|1]: Abdominal stretch
+[anim_fsdthcls.sport|1]: Hamstring stretch
+[anim_fsycdthcls.sport|1]: Right thigh backward stretch (bent over)
+[anim_fsythcls.sport|1]: Right leg backward stretch (bent over)
+[anim_fszcdthcls.sport|1]: Left thigh backward stretch (bent over)
+[anim_fszthcls.sport|1]: Left leg backward stretch (bent over)
+[anim_gbczt.sport|1]: Lunge side twist
+[anim_gtt.sport|1]: Leg curl jumps
+[anim_gttp.sport|1]: High knees running
+[anim_gzbbls.sport|1]: Back stretch (kneeling)
+[anim_jtcgb.sport|1]: Alternating lateral lunge
+[anim_jttxwz.sport|1]: Alternating knee lift abduction
+[anim_kht.sport|1]: Star jump
+[anim_kqycxbqcls.sport|1]: Right forearm stretch on the wall
+[anim_kqycxtls.sport|1]: Right calf stretch on the wall
+[anim_kqyxthcls.sport|1]: Right calf backward stretch on the wall
+[anim_kqzcxbqcls.sport|1]: Left forearm stretch on the wall
+[anim_kqzcxtls.sport|1]: Left calf stretch on the wall
+[anim_kqzxthcls.sport|1]: Left calf backward stretch on the wall
+[anim_pbzcjtts.sport|1]: Plank with alternate hand lift
+[anim_pbzcjttt.sport|1]: Plank with alternate leg lift
+[anim_qbxhjgjhr.sport|1]: Flex the arm backwards at the shoulder
+[anim_qbxqjgjhr.sport|1]: Flex the arm forward at the shoulder
+[anim_qhjcxt.sport|1]: Scissor jumps
+[anim_qssz.sport|1]: Full body stretch
+[anim_qxyxthcls.sport|1]: Right calf backward stretch (flexed knee)
+[anim_qxzxthcls.sport|1]: Left calf backward stretch (flexed knee)
+[anim_sbbls.sport|1]: Upper-back stretch
+[anim_tbdtls.sport|1]: Dynamic hip stretch
+[anim_tbgttjz.sport|1]: High knees and clapping
+[anim_xbbls.sport|1]: Lower-back stretch
+[anim_xgjrs.sport|1]: Knee warm-up
+[anim_ybhcls.sport|1]: Right arm backward stretch
+[anim_ybls.sport|1]: Waist stretch
+[anim_ycdtqcls.sport|1]: Right front thigh stretch
+[anim_ychgjhr.sport|1]: Rotate right ankle
+[anim_ycqyjls.sport|1]: Right hip flexor stretch
+[anim_ycxbls.sport|1]: Right chest stretch
+[anim_ydbbkp.sport|1]: Run in place
+[anim_ydmp.sport|1]: Jog in place
+[anim_zastqq.sport|1]: Morning stretch
+[anim_zbhcls.sport|1]: Left arm backward stretch
+[anim_zcdtqcls.sport|1]: Left front thigh stretch
+[anim_zchgjhr.sport|1]: Rotate left ankle
+[anim_zcqyjls.sport|1]: Left hip flexor stretch
+[anim_zcxbls.sport|1]: Left chest stretch
+[anim_zcxthcls.sport|1]: Calf support stretch
+[anim_zwgasjbls.sport|1]: Self-care shoulder stretch
+[anim_zybtxt.sport|1]: Side-to-side hop (legs together)
+[anim_zzjtgt.sport|1]: Alternating leg curls (standing)
+[anim_zzycfbls.sport|1]: Right ab stretch (standing)
+[anim_zzyctbls.sport|1]: Right hip stretch (standing)
+[anim_zzzcfbls.sport|1]: Left ab stretch (standing)
+[anim_zzzctbls.sport|1]: Left hip stretch (standing)
+[app_conn.aivs|1]: 请通过蓝牙连接\n手机
+[app_join.mihome|1]: Connect to Bluetooth in the app
+[app_name.nfc|1]: Cards
+[appname.act|1]: Vigor
+[appname.media|1]: Music
+[appname.status|1]: Training
+[appname.vitality|1]: Vitality
+[aquatic_sport.sport|1]: Water sports
+[archery.sport|1]: Archery
+[attention.breath|1]: Focus on your breathing
+[atv.sport|1]: ATV
+[auth_error_content.alexa|1]: auth_error_content.alexa
+[auth_error_title.alexa|1]: auth_error_title.alexa
+[auto.settings|1]: Auto
+[auto_pause.sport|1]: Auto pause
+[ave.pressure|1]: Average
+[ave_heartrate.sleep|1]: Avg HR
+[ave_oxygen.sleep|1]: Avg SpO₂
+[average.sport|1]: Avg
+[average_stride_length_cm.sport|1]: Avg stride (cm)
+[avg_stroke.sport|1]: Avg SPM
+[avg_swolf.sport|1]: Avg SWOLF
+[back.common|1]: 返回
+[back_training.sport|1]: Back
+[backstroke.sport|1]: Backstroke
+[badminton.sport|1]: Badminton
+[balance.nfc|1]: Balance: 
+[ball_sports.sport|1]: Ball sports
+[ballet.sport|1]: Ballet
+[barbell_training.sport|1]: Barbell
+[base.watchface|1]: 基础
+[baseball.sport|1]: Baseball
+[basic_aerobic_endurance_running.sport|1]: Endurance run (Basic)
+[basic_aerobic_endurance_running_dsc.sport|1]: Medium-length jog for endurance.
+[basic_fat_burning_run.sport|1]: Fat burn run (Basic)
+[basic_fat_burning_run_dsc.sport|1]: Shorter jog for fat burn and weight loss.
+[basic_interval_running.sport|1]: Interval run (Basic)
+[basic_interval_running_dsc.sport|1]: Shorter interval training for heart and lung health.
+[basic_jogging.sport|1]: Basic jog
+[basic_jogging_dsc.sport|1]: Low-medium intensity jog.
+[basic_run_walk.sport|1]: Basic run/walk
+[basic_run_walk_dsc.sport|1]: Shorter interval training for heart and lung health.
+[basketball.sport|1]: Basketball
+[battery.appname|1]: battery
+[battery.settings|1]: Battery
+[batteryLevel|1]: Battery
+[battery_cqr.setupwizard|1]: battery:
+[battery_title.settings|1]: Battery
+[battle_rope.sport|1]: Battle rope
+[beach_football.sport|1]: Beach soccer
+[beach_volleyball.sport|1]: Beach volleyball
+[beat.hr|1]: Irregular BPM
+[beatexp.hr|1]: Learn more
+[beatexp1.hr|1]: View details in the app
+[beatexp2.hr|1]: Your band will measure your pulse and record any abnormalities when you're inactive. If you feel unwell, seek medical advice.
+[before.breath|1]: Starting HR
+[bell.find_phone|1]: Your phone will ring
+[belly_dance.sport|1]: Belly dance
+[best.sport|1]: Best 
+[billiards.sport|1]: Billiards
+[bind.alipay|1]: Once added, scan the QR code on your band to pay.
+[bind_failed.setupwizard|1]: Couldn't pair
+[bind_success.setupwizard|1]: Paired
+[bl_disconnected.sport|1]: Bluetooth disconnected. Connect to sync workout data.
+[bl_lunar.calendar|1]: 白露
+[ble_con.share|1]: Connect via Bluetooth and try again
+[ble_dis.share|1]: Disconnected
+[bloodPressure|1]: 血压
+[blue_break.mihome|1]: Disconnected
+[blue_break.mute|1]: Disconnected
+[blue_break.nfc|1]: Disconnected
+[blue_know.mihome|1]: Got it
+[blue_know.mute|1]: Got it
+[blue_retry.mute|1]: Connect via Bluetooth and try again
+[blue_retry.nfc|1]: Connect via Bluetooth and try again
+[bobby_jump.sport|1]: Burpee
+[bocci.sport|1]: Bocci
+[bound_id.wxpay|1]: Linked Weixin ID
+[bowling.sport|1]: Bowling
+[boxing.sport|1]: Boxing
+[breakdance.sport|1]: Breaking
+[breaststroke.sport|1]: Breaststroke
+[breath.health|1]: Breathing
+[breath_btn.pressure|1]: Breathing
+[breath_sub_exp.sleep|1]: When this feature is on, your nighttime breathing will be monitored while you sleep. You can view the breathing score in the app.
+[breath_switch.sleep|1]: Breathing score
+[breath_time.breath|1]: Time
+[breath_title1.breath|1]: Breathing
+[breath_train.common|1]: 呼吸训练
+[brides.sport|1]: Bridge
+[brightness.settings|1]: Brightness
+[brightness_auto.settings|1]: Auto
+[brightness_set.settings|1]: Custom
+[brightness_set_28.settings|1]: Custom
+[brightness_title.settings|1]: Brightness
+[brisk_walk.sport|1]: Fast walk
+[brpg.sport|1]: Board game
+[bt_disconn.check_tool|1]: 蓝牙已断开连接，连接蓝牙后再继续检测
+[bt_disconn.common|1]: 蓝牙已断开
+[bt_disconn.find_phone|1]: Disconnected
+[bt_disconn.phone|1]: Disconnected
+[bt_disconn.remote_camera|1]: Disconnected
+[bt_test.check_tool|1]: 蓝牙检测(1/14)
+[btn_confirm.sport|1]: Confirm
+[buring_zone.hr|1]: Intensive
+[buring_zone1.hr|1]: 61%-70% of your maximum heart rate is perfect for burning fat.
+[butterfly.sport|1]: Butterfly
+[calculate_the_lead/lag_distance_according_to_the_set_pace.sport|1]: Calculate the distance ahead/behind based on the set pace.
+[calendar.appname|1]: Calendar
+[calllog.phone|1]: calllog.phone
+[calorie|1]: Calories
+[calorie.act|1]: Calories
+[calorie.explain|1]: "Calories" shows the number of active calories burned through moving around and exercising.
+[calorie_reach.act|1]: Calorie goal hit
+[calorie_title.explain|1]: Calorie
+[camera_know|1]: Got it
+[cancel.alipay|1]: cancel
+[cancel.common|1]: 取消
+[cancel.wxpay|1]: Cancel
+[cancel_mark.wm|1]: Cancel
+[canoeing.sport|1]: Kayaking
+[cardBag|1]: Cards
+[card_id.check_tool|1]: 卡ID:
+[card_know.nfc|1]: Got it
+[cf_lunar.calendar|1]: 春分
+[change_item_time.sport|1]: Transition
+[change_terms_for_a_while.sport|1]: Transition
+[change_the_term_for_two_hours.sport|1]: Transition
+[charge_compare.reminder|1]: Battery charged
+[charge_no.check_tool|1]: 请连接充电器
+[charge_test.check_tool|1]: 充电检测(12/14)
+[charge_yes.check_tool|1]: 已连接充电器
+[chart_content.wm|1]: 2. Tip
+[chart_content_notes.wm|1]: To make predictions more accurate, log periods and edit cycle length in the app.
+[chart_exp.wm|1]: 1. Colors
+[check_result.check_tool|1]: 检测结果
+[chesee_and_card_games.sport|1]: Card/board games
+[chess.sport|1]: Chess
+[chronograph.appname|1]: Stopwatch
+[chu_day_lunar.calendar|1]: 初
+[circulation.sport|1]: Sets
+[clear_all.notify|1]: Clear all
+[clear_message.notify|1]: Clear
+[climb_stairs.sport|1]: Stair climbing
+[climbing.sport|1]: Trekking
+[climbing_machine.sport|1]: Stair climber
+[close.settings|1]: Off
+[close.share|1]: Off
+[close.sport|1]: Off
+[close_28.settings|1]: Off
+[close_ing.mute|1]: Just a sec
+[close_reminder.sport|1]: Turn off all
+[close_ring.mute|1]: Turn off
+[close_sedentary.act|1]: Turn off today's stand-up reminders?
+[cnt.common|1]: 次
+[cnt/min.common|1]: 次/分
+[cnt/min.sport|1]: BPM
+[color.wf|1]: Color
+[compass|1]: 指南针
+[complete.reminder|1]: Stand up
+[complete_help.reminder|1]: Time to get moving
+[completed.todo|1]: Completed
+[completed32.todo|1]: Completed
+[confirm.common|1]: 确认
+[confirm_phone.setupwizard|1]: Confirm on your phone
+[confirm_resquest.system|1]: Confirm on your phone
+[conn_retry.common|1]: 请连接后重试
+[conn_retry.find_phone|1]: Connect via Bluetooth and try again
+[conn_retry.phone|1]: Connect via Bluetooth and try again
+[conn_retry.remote_camera|1]: Connect via Bluetooth and try again
+[connect_lost_content.alexa|1]: connect_lost_content.alexa
+[connect_lost_title.alexa|1]: connect_lost_title.alexa
+[connected.common|1]: 已连接
+[connected.sport|1]: Connected
+[connection_failed.common|1]: 连接失败
+[connection_failed.sport|1]: Connection fail
+[connectknow.alarm|1]: Got it
+[continue.common|1]: 继续
+[core_training.sport|1]: Core training
+[countdown|1]: Timer
+[course_introduce.sport|1]: Introduction
+[cricket.sport|1]: Cricket
+[cross_country.sport|1]: Trail run
+[cross_country_skiing.sport|1]: Cross-country skiing
+[cross_fit.sport|1]: Cross training
+[cs_lunar.calendar|1]: 处暑
+[curling.sport|1]: Curling
+[current.breath|1]: Current HR
+[current.hr|1]: Current HR
+[custom.alarm|1]: Custom
+[custom.common|1]: 自定义
+[custom.timer|1]: Custom
+[customize.sport|1]: Custom
+[cx_festival.calendar|1]: 除夕
+[cy_festival.calendar|1]: 重阳节
+[cycling_moto.sport|1]: BMX
+[dance.sport|1]: Dance
+[darts.sport|1]: Darts
+[data.wf|1]: Widgets
+[data_explain.act|1]: Learn more
+[data_record.watchface|1]: Widgets
+[data_title.act|1]: Learn more
+[date|1]: Date
+[day_after_tomorrow.wm|1]: In 2 days
+[day_oxygen.settings|1]: All-day SpO₂ tracking
+[day_pressure.settings|1]: All-day stress monitoring
+[deadlift.sport|1]: Deadlift
+[deep.sleep|1]: Deep
+[default_aod.settings|1]: Default theme
+[default_aod.watchface|1]: Default theme
+[del_all.common|1]: 清除全部
+[del_tip.watchface|1]: Delete band display?
+[delay.calendar|1]: Snooze
+[delay.todo|1]: Snooze
+[delay_10m.common|1]: 10分钟后提醒
+[delay_10m_agn.calendar|1]: Snoozed for 10 mins
+[delay_10m_agn.common|1]: 10分钟后再次提醒
+[delay_10m_agn.reminder|1]: Snoozed for 10 mins
+[delete.common|1]: 删除
+[destretching.sport|1]: Stretch
+[detail.alipay|1]: Read and agree to the Smart Devices Service Agreement in the Alipay app.
+[detail.calendar|1]: Details
+[detect_exercising.sport|1]: Looks like you're exercising
+[device_name.common|1]: 设备名称
+[device_name.settings|1]: Name
+[device_type.common|1]: 型号
+[device_type.settings|1]: Model
+[dh_lunar.calendar|1]: 大寒
+[dial.wf|1]: Timescale
+[disconnect.common|1]: 断开连接
+[disconnect.sport|1]: Disconnect
+[disconnect_retry.common|1]: 蓝牙未连接\n请连接蓝牙再试试吧
+[disp_reminder.settings|1]: When Always-on display is on, priority will be given to the default band display.
+[display.settings|1]: Display
+[display_on.sport|1]: Always-on
+[display_title.settings|1]: Display
+[distance_calibration.sport|1]: Calibration
+[distance_remind.sport|1]: Reminder
+[distance_too_short.sport|1]: Workout distance too short to record.
+[distance_too_short_resume.sport|1]: Workout distance too short to record. End?
+[disturb.settings|1]: DND
+[disturb_disconn.settings|1]: Disconnected
+[disturb_sync.settings|1]: Sync with phone
+[disturb_sync_info.settings|1]: When turned on, the band's DND status will follow that of the phone
+[disturb_title.settings|1]: DND
+[dodgeball.sport|1]: Dodgeball
+[done.hour%02d:%02d:%02d|1]: %02d:%02d:%02d ago
+[done.min%02d:%02d|1]: %02d:%02d ago
+[done.wxpay|1]: Done
+[dont_shake1.oxygen|1]: Keep still
+[double_board_skiing.sport|1]: Skiing
+[dragon_boat.sport|1]: Dragon boat
+[draughts.sport|1]: Checkers
+[driving.sport|1]: Diving
+[ds_lunar.calendar|1]: 大暑
+[dsc_cadence.sport|1]: SPM
+[dsc_cadence_avg.sport|1]: Avg cadence (SPM)
+[dsc_calorie.sport|1]: kcal
+[dsc_change_time.sport|1]: Transition
+[dsc_distance_backward.sport|1]: km behind
+[dsc_distance_backward_imp.sport|1]: mi behind
+[dsc_distance_lead.sport|1]: km ahead
+[dsc_distance_lead_imp.sport|1]: mi ahead
+[dsc_freq_avg.sport|1]: Avg JPM
+[dsc_pace_avg.sport|1]: Avg pace
+[dsc_speed.sport|1]: km/h
+[dsc_speed_avg.sport|1]: km/h (Avg speed)
+[dsc_step_cnt.sport|1]: step
+[dsc_trips.sport|1]: length
+[dumbbell_training.sport|1]: Dumbbell
+[duration_group.sport|1]: This set
+[dx_lunar.calendar|1]: 大雪
+[dy_festival.calendar|1]: 端午节
+[dz_lunar.calendar|1]: 冬至
+[easy_pregnancy.wm|1]: Fertile
+[easypregnancy_in%d.wm|2]: Fertile period day %d|Fertile period day %d
+[easypregnancy_out%d.wm|2]: Fertile period in %dd|Fertile period in %dd
+[edit.common|1]: 编辑
+[editalarm.alarm|1]: Settings
+[effect_level1.sport|1]: Minor
+[effect_level2.sport|1]: Recovery
+[effect_level3.sport|1]: Maintaining
+[effect_level4.sport|1]: Improving
+[effect_level5.sport|1]: Highly improving
+[effect_level6.sport|1]: Overreaching
+[effect_of_anaerobic_training.sport|1]: Anaerobic
+[effectiveStand|1]: Standing
+[electronic_sports.sport|1]: Esports
+[eleven_month_lunar.calendar|1]: 冬月
+[elliptical_machine.sport|1]: Elliptical
+[empty_message.phone|1]: Allow message replies in the app.
+[empty_record.sport|1]: No data
+[empty_tips.phone|1]: empty_tips.phone
+[enable_again.wxpay|1]: Enable Again
+[enable_again_tips.wxpay|1]: For security reasons,scan the QR code with Weixin to enable again.
+[enable_sleep_mode.reminder|1]: DND is on. Raise to wake is off.
+[enabled.wxpay|1]: Enabled
+[enabling.wxpay|1]: Enabling…Finish the process on your phone.
+[end.common|1]: 结束
+[end.find_phone|1]: Completed
+[end.settings|1]: End
+[end.sport|1]: End
+[end.timer|1]: Timer finished
+[end_time.settings|1]: End
+[energy|1]: 能量
+[energy.sport|1]: Hydration
+[energy_distance.sport|1]: Distance
+[energy_time.sport|1]: Time
+[ephemeris_expired.sport|1]: GPS data expired
+[ephemeris_expired_tips.sport|1]: Connect to your phone to speed up GPS positioning.
+[equesttrian.sport|1]: Equestrian
+[err.aivs|1]: 网络不可用，请检查手机网络状态
+[estimate.settings|1]: Battery life
+[estimate_content.settings|1]: Estimated battery life is provided for reference only. Actual battery life depends on your usage.
+[every_day.alarm|1]: Daily
+[every_day.todo|1]: Daily
+[every_month.todo|1]: Monthly
+[every_week.todo|1]: Weekly
+[every_year.todo|1]: Yearly
+[executive_fail.mihome|1]: Couldn't run scenario
+[exhale.breath|1]: Exhale
+[exit.alipay|1]: Didn't finish pairing. If you exit now, you'll need to scan the code and add the device again next time.
+[exit.wxpay|1]: Quit
+[exit_btn.alexa|1]: exit_btn.alexa
+[exit_cancel.wxpay|1]: Don't quit
+[exit_confirm.alipay|1]: Exit
+[exit_sign.check_tool|1]: 3秒后切换到user mode
+[exit_tip.wxpay|1]: Weixin Pay is being opened,are you sure to quit?
+[exp.hr|1]: Learn more
+[exp.oxygen|1]: Learn more
+[exp.vitality|1]: Learn more
+[exp_desc1.vitality|1]: Vitality score measures the positive impact of physical activity on health. You're exercising at a level that will lead to significant health benefits when the cumulative Vitality score of the last 7 days reaches 100.
+[exp_desc2.vitality|1]: The vitality score is based on the WHO Guidelines on Physical Activity and Sedentary Behaviour, which recommend that:\nAll healthy adults engage in at least 150-300 minutes of moderate-intensity exercise or 75-150 minutes of high-intensity exercise per week; or an equivalent combination of moderate and higher-intensity exercise.\nAt the same time, a little physical exercise is better than none. Replacing sedentary time with low-intensity exercise also has health benefits.
+[exp_title.oxygen|1]: Learn more
+[experien.setupwizard|1]: Start
+[expired.todo|1]: Overdue
+[explain_title.settings|1]: Learn more
+[extreme.common|1]: VO₂ max
+[extreme_zone.hr|1]: VO₂ max
+[extreme_zone1.hr|1]: Exercising at 91%-100% of heart rate's maximum capacity is suitable for experienced trainers.
+[extremity.sport|1]: VO₂ max
+[fail_fit.health|1]: Tighten band strap and try again
+[fail_stay_still.health|1]: Keep still during measurement
+[fail_timeout.health|1]: Try again
+[fail_wear.health|1]: Tighten band strap and try again
+[failed.alipay|1]: Couldn't add
+[fancy_swimming.sport|1]: Artistic swimming
+[fast.sport|1]: Max 
+[fat_burning.sport|1]: Intensive
+[fat_burning_interval.sport|1]: Intensive
+[fencing.sport|1]: Fencing
+[fight.sport|1]: Combat sports
+[find_wear.reminder|1]: Finding device…
+[finish.breath|1]: Done
+[finish.common|1]: 完成
+[finish_course_great.sport|1]: You did it!
+[first_edit_tips1.watchface|1]: To save changes,\ntap OK or tap the band display.
+[first_mile_speed.sport|1]: Previous km
+[first_month_lunar.calendar|1]: 正月
+[fishing.sport|1]: Fishing
+[flashlight.appname|1]: Flashlight
+[flexibility_training.sport|1]: Flexibility
+[fly_kite.sport|1]: Kite flying
+[focus_time.tomatotimer|1]: Focus
+[focus_time_out.tomatotimer|1]: You did it!
+[focus_total.tomatotimer|1]: Focus time
+[focus_total_pause.tomatotimer|1]: Focus time
+[focusing.tomatotimer|1]: Stay focused
+[foosball.sport|1]: Table football
+[football.sport|1]: Soccer
+[forget_pwd.common|1]: 忘记密码？
+[forget_pwd_tips.common|1]: To reset PIN, go to Device > PIN in the app.
+[free_sparring.sport|1]: Kickboxing
+[free_stage.sport|1]: Freestyle
+[free_training.sport|1]: Freestyle
+[freestyle.sport|1]: Freestyle
+[frequency.breath|1]: BPM
+[frequency.sport|1]: Frequency
+[frisbee.sport|1]: Frisbee
+[fsn_info.check_tool|1]: FSN号:
+[full_hour.common|1]: 小时
+[full_hour.settings|1]: hour
+[full_hour.timer|1]: Hrs
+[full_min.common|1]: 分钟
+[full_min.settings|1]: minute
+[full_min.timer|1]: Mins
+[functional_training.sport|1]: Functional training
+[fw_ver.common|1]: 版本号
+[fw_ver.settings|1]: Version No.
+[gateball.sport|1]: Gateball
+[gesture.settings|1]: Quick gestures
+[gesture_course.settings|1]: Gesture tutorial
+[gesture_explain.settings|1]: Learn more
+[gesture_explain_title.settings|1]: Learn more
+[gesture_info.settings|1]: Customize gestures to perform a selected action. This feature is turned off when sleeping.
+[gesture_info_lab1.settings|1]: 1. Each gesture can only set one function
+[gesture_info_lab2.settings|1]: 2. Call/message related functions respond only on the call/message reminder page
+[gesture_info_lab3.settings|1]: 3. Open the application function only when the main watch face is lit up
+[gesture_info_lab4.settings|1]: 4. Sleep mode/Do not disturb mode/Power saving mode /AOD dial page or do not respond to gestures when sleep is detected
+[gesture_info_lab5.settings|1]: 5. Please avoid making similar gestures in daily activities, which may be triggered by mistake
+[gesture_open_info.settings|1]: In order to improve the experience, it is recommended to turn on the wrist lift screen at the same time, after turning on the device battery life will be seriously reduced, confirm to turn on the wrist lift screen and quick gesture?
+[gesture_operate.settings|1]: Gestures
+[gesture_select1.settings|1]: View notifications
+[gesture_select1_28.settings|1]: View notifications
+[gesture_select2.settings|1]: Ignore call /notification
+[gesture_select2_28.settings|1]: Ignore call/notification
+[gesture_select3.settings|1]: Reject incoming call
+[gesture_select3_28.settings|1]: Reject incoming call
+[gesture_select4.settings|1]: Weixin Pay
+[gesture_select4_28.settings|1]: Weixin Pay
+[gesture_select5.settings|1]: Alipay
+[gesture_select5_28.settings|1]: Alipay
+[gesture_select6.settings|1]: Voice assistant
+[gesture_select6_28.settings|1]: Voice assistant
+[gesture_select7.settings|1]: Weather
+[gesture_select7_28.settings|1]: Weather
+[gesture_set.settings|1]: Settings
+[gesture_title.settings|1]: Quick gestures
+[get_fail.mihome|1]: An error occurred. Try again.
+[get_information_tips.wxpay|1]: When Wexin Pay is enable,the watch will transmit the Bluetooth address and model ID to WeChat.
+[getting_songs.media|1]: Loading music…
+[getting_songs_w.media|1]: Loading music…
+[gnss_num.check_tool|1]: 卫星数量:
+[gnss_sign.check_tool|1]: 请在户外/室内有卫星定位环境下测试
+[gnss_snr.check_tool|1]: SNR值:
+[gnss_test.check_tool|1]: 定位检测(2/14)
+[go_to_the_app_side_to_check.sport|1]: View more records in the app after syncing data
+[go_turnon.common|1]: 去开启
+[golf.sport|1]: Golf
+[goto_bind.alipay|1]: Add
+[goto_distance_calibration.sport|1]: Calibrate
+[goto_miwear_app.sport|1]: View details in the app
+[goto_set.settings|1]: Go to Settings
+[goto_watchface.settings|1]: Opening the app function only works when the main watch face is lit, and now you can try to return to the main watch face experience by gesture
+[group_callisthenic.sport|1]: Mass gymnastics
+[group_number.sport|1]: Total sets
+[group_reset.sport|1]: Rest
+[gy_lunar.calendar|1]: 谷雨
+[gym.sport|1]: Indoor fitness
+[gymnastics.sport|1]: Gymnastics
+[gyro_test.check_tool|1]: 陀螺仪检测(4/14)
+[hand_info.settings|1]: Try to quickly turn outward 90 degrees, and then quickly turn inward to return, wait for the recognition result, need to identify twice successfully.
+[handball.sport|1]: Handball
+[handwrist_info1.settings|1]: The forearms are parallel to the chest
+[handwrist_info2.settings|1]: Palm down, screen up
+[handwrist_info3.settings|1]: Quickly turn outward 90 degrees
+[handwrist_info4.settings|1]: Then quickly turn inward and return
+[has_done%d.breath|1]: Session: %d min
+[have_high.hr|1]: High HR
+[have_low.hr|1]: Low HR
+[heartRate|1]: Heart rate
+[heart_health.settings|1]: Irregular BPM
+[heartrate_high.sport|1]: High HR
+[heartset.vitality|1]: Continuous monitoring
+[heartset_desc.vitality|1]: Your Vitality score is calculated using heart rate and activity data. Allow your band to measure your heart rate more often for a more accurate Vitality score.
+[heel_and_toe.sport|1]: Race walk
+[help.alipay|1]: Scan with Alipay for help
+[hgrmbox.hr|1]: When Continuous monitoring is on, irregular heartbeats will be recorded. This feature will affect battery life. Turn on now?
+[high.hr|1]: High HR
+[high_interval_training.sport|1]: HIIT
+[high_warning.hr|1]: High HR alert
+[high_warning1.hr|1]: Select a heart rate above which you'll receive an alert
+[highest.sport|1]: Max 
+[highexp.hr|1]: Learn more
+[highexp1.hr|1]: Your wearable device notifies you when your heart rate goes above a set level while you're inactive. Sometimes, it's normal for your heart rate to rise as a response to stress, caffeine intake, or a cold. However, people experiencing dizziness, shortness of breath, or palpitations should seek medical advice.
+[highexp2.hr|1]: Note that the high heart rate data is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition.
+[highexp3.hr|1]: Only the three most recent high heart rate entries are displayed on the device. Check the app for further details.
+[hightime.vitality|1]: High intensity
+[hihi_ball.sport|1]: Jai alai
+[hiking_outdoor.sport|1]: Hiking
+[hint.alarm|1]: No alarms
+[hint_text.tomatotimer|1]: DND is on during this session
+[hip_hop_dance.sport|1]: Hip hop
+[hl_lunar.calendar|1]: 寒露
+[hockey.sport|1]: Hockey
+[hold.sport|1]: Keep going
+[hold_it.settings|1]: Congratulations on mastering it!
+[holiday.alarm|1]: Weekends
+[holiday.common|1]: 节假日
+[holiday.todo|1]: Weekends
+[holidayprmt_main.alarm|1]: Connect to the app
+[holidayprmt_main.common|1]: 请连接APP更新节假日
+[holidayprmt_sub.alarm|1]: Saturday and Sunday are marked as weekends by default.
+[holidayprmt_sub.common|1]: 在您连接APP前，节假日将默认为星期六和星期日
+[horse_riding.sport|1]: Horse riding
+[hour.common|1]: 时
+[hour.sleep|2]: hr|hrs
+[hour.sport|1]: Hrs
+[hour_allday.sleep|2]: hr|hrs
+[how_get.training|1]: Find your VO₂ max
+[hr_current%s.sport|1]: Current HR (%s)
+[hr_exp.hr|1]: Heart rate is the number of times the heart beats per minute (BPM). \nTypically, a resting heart rate ranges from 55 to 80 BPM. However, it varies with age, gender, and other factors. \nYour device supports a range of 30–240 BPM.
+[hr_recommend%s.sport|1]: Target HR (%s)
+[hr_recommend.sport|1]: Target HR
+[hula_hoop.sport|1]: Hula hoop
+[humidity|1]: Humidity
+[hydration.sport|1]: Drink water
+[i_know.common|1]: 我知道了
+[idle_alerm.alexa|1]: idle_alerm.alexa
+[idle_alerm2.alexa|1]: idle_alerm2.alexa
+[idle_try_to_say.alexa|1]: idle_try_to_say.alexa
+[idle_weather.alexa|1]: idle_weather.alexa
+[ignore.common|1]: 忽略
+[ignore.health|1]: Dismiss
+[ignore.hr|1]: Dismiss
+[ignore.oxygen|1]: Dismiss
+[ignore.pressure|1]: Dismiss
+[ill_btn.oxygen|1]: Learn more
+[ill_btn.pressure|1]: Learn more
+[ill_btn.sleep|1]: Learn more
+[ill_title.pressure|1]: Learn more
+[ill_title.sleep|1]: Learn more
+[inacticated_content.alexa|1]: inacticated_content.alexa
+[inactivated_title.alexa|1]: inactivated_title.alexa
+[indoor_football.sport|1]: Futsal
+[indoor_skating.sport|1]: Ice skating
+[info.tomatotimer|1]: Learn more
+[inhale.breath|1]: Inhale
+[inout_wirst.settings|1]: Rotate wrist
+[input.settings|1]: Input
+[input_key.system|1]: Enter KEY
+[input_new_pwd.settings|1]: New PIN
+[input_pwd.settings|1]: Enter PIN
+[input_pwd_num.settings|1]: Enter PIN
+[inte_reach.act|1]: Moving goal hit
+[intel_prediction.wm|1]: Predictions
+[intelligence.settings|1]: Smart
+[intelligence_28.settings|1]: Smart
+[intelligent.hr|1]: Auto
+[intensity|1]: Moving
+[intensity.act|1]: Moving
+[intensity.explain|1]: "Moving" shows your time doing moderate and vigorous activity. For adults aged 18–⁠64 years, aim for at least 30 minutes per day, 5 times per week of moderate activity. Alternatively, try 75 minutes a week of intense activity. You'll see your "Moving" progress when your cadence exceeds 100 SPM or when your heart rate exceeds 65% of your max heart rate.
+[intensity_title.explain|1]: Moving
+[intensity_unit.common|2]: 分钟|分钟
+[intensive.common|1]: Intensive
+[inter_training_name.sport|1]: Interval training
+[interval_train_confirm.sport|1]: Turning on interval training will turn off workout goals. Turn on now?
+[interval_training.sport|1]: Interval training
+[interval_training_warmup.sport|1]: Warm up
+[introduce_reminder_distance.sport|1]: Get reminders at specified distance interval
+[introduce_reminder_hrzone.sport|1]: Get a reminder when above or below target HR zone
+[introduce_reminder_pace.sport|1]: Get a reminder when above or below target pace
+[introduce_reminder_speed.sport|1]: Get a reminder when above or below target speed
+[issue.nfc|1]: Just a sec…
+[jazz.sport|1]: Jazz dance
+[jog.sport|1]: Jog
+[judo.sport|1]: Judo
+[jujitsu.sport|1]: Jujitsu
+[jump.sport|1]: Skip
+[just.common|1]: 刚刚
+[just.health|1]: Just now
+[just_now.pressure|1]: Just now
+[jz_lunar.calendar|1]: 惊蛰
+[karate.sport|1]: Karate
+[kayak_rafting.sport|1]: Rafting
+[keep.hr|1]: Keep still
+[keep_on.sport|1]: Continue
+[keep_waiting.sport|1]: Wait
+[key_wrong.system|1]: KEYs don't match
+[kite_surfing.sport|1]: Kitesurfing
+[km/hr.sport|1]: Km/h
+[km_h.sport|1]: km/h
+[km_per_hr.sport|1]:  km/h
+[know.act|1]: Got it
+[know.common|1]: Got it
+[know.find_phone|1]: OK
+[know.ota|1]: Got it
+[know.phone|1]: Got it
+[know.reminder|1]: Got it
+[know.setupwizard|1]: Got it
+[know.sport|1]: Got it
+[know.vitality|1]: Got it
+[know.wm|1]: Got it
+[later.alarm|1]: Snooze
+[latin_dance.sport|1]: Latin dance
+[layout.settings|1]: Layout
+[layout_grid.settings|1]: Grid
+[layout_list.settings|1]: List
+[layout_title.settings|1]: Layout
+[lb_festival.calendar|1]: 腊八节
+[lc_lunar.calendar|1]: 立春
+[lcd_sign.check_tool|1]: 判断以下界面是否存在暗点、异色等异常并点击屏幕弹出方框
+[lcd_test.check_tool|1]: 屏幕检测(10/14)
+[ld_lunar.calendar|1]: 立冬
+[leisure_sports.sport|1]: Recreational sports
+[let_start.breath|1]: Let's go
+[level1.training|1]: Very poor
+[level2.training|1]: Poor
+[level3.training|1]: Fair
+[level4.training|1]: Normal
+[level5.training|1]: Good
+[level6.training|1]: Excellent
+[level7.training|1]: Outstanding
+[level_dsc.training|1]: Level
+[light.common|1]: Light
+[light.sleep|1]: Light
+[light_scrren.settings|1]: Wake screen upon notification
+[light_scrren_toast.settings|1]: Wake screen when receiving notifications
+[light_test.check_tool|1]: 光感检测(7/14)
+[light_test_sign.check_tool|1]: 请遮挡屏幕继续\n测试
+[light_value.check_tool|1]: 光感值:
+[limit_interval.sport|1]: VO₂ max
+[list_name.oxygen|1]: SpO₂
+[listening.alexa|1]: listening.alexa
+[load.sport|1]: Just a sec
+[load.training|1]: Training load
+[load_explain.training|1]: Training load is calculated based on your training impulse (TRIMP) for each workout to assess the effect of your workout on your body. You can adjust your next workout based on the suggestions.
+[load_explain_more.training|1]: (Learn more in Help in the app)
+[lock_over.settings|1]: Make sure notifications are turned on in Mi Fitness > App notifications.
+[lock_screen_notice.settings|1]: Notify only when phone is locked
+[lock_screen_notice_toast.settings|1]: When using the phone, you won't receive phone notifications on the band.
+[loding.mihome|1]: Just a sec
+[login_wx.wxpay|1]: Sign in
+[login_wx_tips.wxpay|1]: Weixin Pay has been upgraded to the Weixin app. Sign in to Weixin to turn on the payment feature.
+[long.sleep|1]: Sleep
+[long_endurance_info.settings|1]: Only the clock, step count, and NFC will be available when Battery saver is on. Press and hold the screen or charge to turn off. Turn on now?
+[long_press_stop.sport|1]: Press and hold to finish workout
+[longpress.settings|1]: Press and hold screen
+[longpress_lab.settings|1]: When turned on, press and hold Edit to edit band display.
+[low.hr|1]: Low HR
+[low_balance.nfc|1]: Low balance. Top up soon.
+[low_btn.oxygen|1]: Low SpO₂
+[low_exp1.oxygen|1]: When your oxygen saturation level is detected as below the set value three consecutive times, you'll receive an alert. 
+[low_exp2.oxygen|1]: Your band will display the 3 most recent records. View more in the app.
+[low_exp3.oxygen|1]: If you experience shortness of breath, headache, fatigue, and reduced concentration, seek medical attention. 
+[low_exp4.oxygen|1]: The measurement range of this device is 75-100%. This is not a medical device; all results are for your reference only and are not intended as a basis for diagnosis or treatment.
+[low_exp_title.oxygen|1]: Low SpO₂
+[low_remind.oxygen|1]: Low SpO₂
+[low_title.oxygen|1]: Low SpO₂
+[low_waring.oxygen|1]: Low SpO₂ alerts
+[low_waring1.oxygen|1]: Notify when SpO₂ readings are below the set level during awake time
+[low_warning.hr|1]: Low HR alert
+[lowbattery_10.reminder|1]: Battery under 10%
+[lowbattery_20.reminder|1]: Battery under 20%
+[lowbattery_5.reminder|1]: Battery under 5%
+[lowbattery_5_btn_tip.reminder|1]: Turn on
+[lowbattery_5_tip.reminder|1]: Turn on Battery saver?
+[lowbattery_title.reminder|1]: Low battery
+[lower_limb_training.sport|1]: Lower body
+[lowexp.hr|1]: Learn more
+[lowexp1.hr|1]: Your band notifies you when your heart rate goes below a set level. This is common while sleeping or in physically active people. People experiencing dizziness, shortness of breath, or palpitations should seek medical advice.\nNote that low HR data is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition.\nThe band only displays the most recent three low heart rate entries. For more information, check the app.
+[lowtime.vitality|1]: Low intensity
+[lq_lunar.calendar|1]: 立秋
+[ltd_festival.calendar|1]: 龙抬头
+[lx_lunar.calendar|1]: 立夏
+[mac.common|1]: 蓝牙地址
+[mac.settings|1]: MAC address
+[mac.system|1]: MAC address
+[made_in_China.settings|1]: Made in China
+[many_messages.notify|1]: many_messages.notify
+[mark_end.wm|1]: Period ended
+[mark_start.wm|1]: Period started
+[martial_arts.sport|1]: Martial arts
+[max_add.worldclock|1]: Add up to 20 locations
+[max_oxygen.training|1]: VO₂ max
+[maximum_oxygen_uptake.sport|1]: VO₂ max
+[maxofalarm.alarm|1]: Add up to 10 alarms
+[measure.health|1]: Tips
+[measure1.health|1]: Wear your band above your wrist bone.
+[measure2.health|1]: Keep your band snug and still.
+[measure3.health|1]: Measurements may be affected by low temperature, skin perfusion, and more.
+[measure3_1.health|1]: Keep the band still and facing upwards
+[measure4.health|1]: This feature isn't intended for medical purposes.
+[measure6.health|1]: This feature is not intended for medical purposes, nor to diagnose, treat, cure, or prevent any disease or condition.
+[measure_result.health|1]: Result
+[measuring.health|1]: Measuring
+[measuring.hr|1]: Measuring
+[measuring.oxygen|1]: Measuring
+[medium.pressure|1]: Moderate
+[medley.sport|1]: Medley
+[menstru1%d%dmenstru2.wm|1]: Next period on %1$d/%2$d
+[menstruation.wm|1]: Period
+[menstruation_in%d.wm|2]: Period day %d|Period day %d
+[message.settings|1]: Notifications
+[metronome.sport|1]: Metronome
+[mi_home.mihome|1]: Mi Home
+[micompany.settings|1]: Xiaomi Communications Co., Ltd.
+[middletime.vitality|1]: Medium intensity
+[miit_fat_burning_run.sport|1]: MIIT run
+[miit_fat_burning_run_dsc.sport|1]: Medium-high intensity interval training.
+[mild.pressure|1]: Mild
+[mild_zone.pressure|1]: Mild
+[min.common|1]: 分
+[min.sport|1]: Mins
+[min.tomatotimer|1]: Mins
+[min_allday.sleep|2]: min|mins
+[minute%d.breath|1]: %d min
+[minute.breath|1]: Mins
+[minute.sleep|2]: min|mins
+[misansw_demibold.100|1]: NA
+[misansw_demibold.120|1]: NA
+[misansw_demibold.18|1]: NA
+[misansw_demibold.20|1]: NA
+[misansw_demibold.24|1]: NA
+[misansw_demibold.26|1]: NA
+[misansw_demibold.30|1]: NA
+[misansw_demibold.32|1]: NA
+[misansw_demibold.34|1]: NA
+[misansw_demibold.36|1]: NA
+[misansw_demibold.40|1]: NA
+[misansw_demibold.44|1]: NA
+[misansw_demibold.48|1]: NA
+[misansw_demibold.54|1]: NA
+[misansw_demibold.56|1]: NA
+[misansw_demibold.60|1]: NA
+[misansw_demibold.64|1]: NA
+[misansw_demibold.68|1]: NA
+[misansw_demibold.70|1]: NA
+[misansw_demibold.72|1]: NA
+[misansw_demibold.80|1]: NA
+[misansw_demibold.84|1]: NA
+[misansw_demibold.86|1]: NA
+[misansw_demibold.90|1]: NA
+[misansw_medium.20|1]: NA
+[misansw_medium.24|1]: NA
+[misansw_medium.26|1]: NA
+[misansw_medium.28|1]: NA
+[misansw_medium.30|1]: NA
+[misansw_medium.32|1]: NA
+[misansw_medium.34|1]: NA
+[misansw_medium.36|1]: NA
+[misansw_medium.40|1]: NA
+[misansw_medium.44|1]: NA
+[misansw_medium.48|1]: NA
+[misansw_medium.60|1]: NA
+[misansw_medium.64|1]: NA
+[misansw_medium.70|1]: NA
+[misansw_regular.20|1]: NA
+[misansw_regular.24|1]: NA
+[misansw_regular.26|1]: NA
+[misansw_regular.28|1]: NA
+[misansw_regular.30|1]: NA
+[misansw_regular.32|1]: NA
+[misansw_regular.34|1]: NA
+[misansw_regular.36|1]: NA
+[misansw_regular.40|1]: NA
+[misansw_regular.48|1]: NA
+[missed.phone|1]: Missed call
+[miui_nodata.todo|1]: You can create tasks using Mi AI Voice Assistant. Make sure Bluetooth is connected and tasks are synced in the app.
+[miwatch8.common|1]: Xiaomi Smart Band 8 Pro
+[mixed_aerobic.sport|1]: Aerobic combo
+[mode_title.settings|1]: Battery saver
+[moderate.pressure|1]: Moderate
+[moderate_running.sport|1]: Run
+[moderate_zone.pressure|1]: Moderate
+[modern_dance.sport|1]: Modern dance
+[mon_to_fri.todo|1]: M-F
+[monitor.hr|1]: Continuous monitoring
+[monitor.oxygen|1]: All-day tracking
+[monitor.pressure|1]: All-day monitoring
+[monitor_box.oxygen|1]: When this feature is on, it'll keep track of your SpO₂ when you're sedentary.
+[monitor_btn.sleep|1]: Advanced monitoring
+[monitor_content.hr|1]: Track your heart rate around the clock
+[monitor_health.hr|1]: Irregular BPM
+[monitor_ill.pressure|1]: When this feature is on, it'll keep track of your stress when you're sedentary.
+[monitor_ill.sleep|1]: Turning on Advanced monitoring will significantly reduce battery life. Turn on anyway?
+[monitor_sub_exp.sleep|1]: When this feature is turned on, your device will track your REM sleep.
+[more_add.worldclock|1]: Add more locations\nin the app
+[more_sport.sport|1]: More
+[motion.settings|1]: Auto detect
+[motion_disturb.settings|1]: Can't send workout reminders when DND is on
+[motion_info.settings|1]: Get reminders to start a workout.\nSupported workout types include walking, jump rope, rower, cycling, elliptical, and running.
+[motion_reminder.settings|1]: Turning on workout reminders will affect battery life.
+[motion_sensing_game.sport|1]: Somatosensory game
+[motion_title.settings|1]: Auto detect
+[motor_sign.check_tool|1]: 判断振动次数:
+[motor_test.check_tool|1]: 振动检测(11/14)
+[motorboat.sport|1]: Powerboating
+[muay_thai.sport|1]: Muay Thai
+[multi_connect.share|1]: multi_connect.share
+[musicController|1]: Music
+[mute.appname|1]: Silence phone
+[mute_mode.mute|1]: Sound is off
+[mute_title.mute|1]: Silence phone
+[mute_toast.mute|1]: Sound is on
+[my_family.mihome|1]: Homes
+[mz_lunar.calendar|1]: 芒种
+[name.alipay|1]: Alipay
+[name.find_phone|1]: Find phone
+[name.timer|1]: Timer
+[name.tomatotimer|1]: Focus
+[name.worldclock|1]: World clock
+[name_calorie.sport|1]: Calories
+[name_distance.sport|1]: Distance
+[name_duration.sport|1]: Time
+[name_hr_avg.sport|1]: Avg HR
+[name_hr_max.sport|1]: Max HR
+[name_hr_zone.sport|1]: HR zone
+[name_info.tomatotimer|1]: Focus
+[name_main.tomatotimer|1]: Focus
+[name_num_cycle.sport|1]: Sets
+[name_number.sport|1]: Jumps
+[name_pace.sport|1]: Pace
+[name_speed.sport|1]: Speed
+[name_times.sport|1]: Strokes
+[name_title.tomatotimer|1]: Focus
+[name_title.worldclock|1]: World clock
+[name_trips.sport|1]: Lengths
+[national_dance.sport|1]: Folk dance
+[near_reader.nfc|1]: Hold near reader
+[network_error_content.alexa|1]: network_error_content.alexa
+[network_error_title.alexa|1]: network_error_title.alexa
+[new_record.sport|1]: New record!
+[newest.ota|1]: You're using the latest version
+[next_easypregnancy.wm|1]: Fertile
+[next_group.sport|1]: Next set
+[next_item.sport|1]: Transition
+[next_menstruation.wm|1]: Period
+[next_ovulation.wm|1]: Ovulation day
+[next_seg_name.sport%s|1]: Next: %s
+[nextday.settings|1]: next day %02d:%02d
+[nextstep.settings|1]: next
+[nfc1_test.check_tool|1]: NFC检测(13/14)
+[nfc2_test.check_tool|1]: NFC检测(14/14)
+[nfc_read.check_tool|1]: 靠近读空白卡
+[nfc_sign.check_tool|1]: 请靠近读卡器测试
+[nfc_simulate.check_tool|1]: 模拟卡测试
+[no_add.worldclock|1]: No locations added
+[no_card.nfc|1]: Add cards in the app
+[no_connectable_devices.sport|1]: Device not found
+[no_data.calendar|1]: No event data
+[no_data.common|1]: 暂无数据
+[no_data.pressure|1]: No data for today
+[no_data.wm|1]: No data
+[no_device_conn.common|1]: 无可连接设备
+[no_enabled.wm|1]: Turn on this feature in the app
+[no_message.notify|1]: No notifications
+[no_permission.media|1]: Permission not enabled
+[no_record.wm|1]: Turn on Period prediction in the app
+[no_record_today.wm|1]: No data today
+[no_remind.oxygen|1]: Off
+[no_reminder_today.common|1]: Dismiss today
+[no_setting.mihome|1]: No settings
+[no_target.sport|1]: Open goal
+[no_title.calendar|1]: No title
+[no_try_again.settings|1]: Correct gesture not recognized, please try again!
+[noai_nodata.todo|1]: You can add tasks in the app. Make sure Bluetooth is connected first.
+[nodata.hr|1]: No data for today
+[nodata.oxygen|1]: No data for today
+[nodata.sleep|1]: Wear your device to bed to generate sleep data
+[nodata.todo|1]: No task reminders
+[nodata.wm|1]: Log cycle details in the app
+[noinit_tips.calendar|1]: Turn on Events in the app
+[noise_reduction.share|1]: Noise cancellation
+[nonedata.weather|1]: nonedata.weather
+[noplay.share|1]: Not playing audio
+[noreminder.vitality|1]: Dismiss today
+[nosync.wm|1]: App data hasn't been synced
+[not_disturb_close.ctrl|1]: DND is off
+[not_disturb_open.ctrl|1]: DND is on
+[not_disturb_open.settings|1]: DND is on
+[not_enabled.wxpay|1]: Not enabled
+[not_play.media|1]: Not playing
+[not_remind.sport|1]: Dismiss
+[not_reminder.reminder|1]: Don't show again
+[not_shake.health|1]: Keep still
+[not_support.aivs|1]: 文字内容超出上限，小爱暂不支持该功能
+[not_support_area_content.alexa|1]: not_support_area_content.alexa
+[not_support_area_title.alexa|1]: not_support_area_title.alexa
+[not_support_playback.alexa|1]: not_support_playback.alexa
+[not_worn.hr|1]: Not wearing
+[notice.notify|1]: notice.notify
+[notice_message.settings|1]: Notifications
+[notice_text1.tomatotimer|1]: When using Focus, the timer is generally set for 25 mins, during which you can focus on one task.
+[notice_text2.tomatotimer|1]: When your device vibrates, it's time for a 5 min break.
+[notice_text3.tomatotimer|1]: After four 25-min sessions, take a 15-20 min break.
+[notify.notify|1]: Notifications
+[notopen_password.wxpay|1]: Not now
+[now.common|1]: Now
+[null.settings|1]: None
+[null_28.settings|1]: None
+[number_group.sport|1]: Jumps this set
+[nums_rope_all_group.sport|1]: Total jumps
+[nums_rope_group.sport|1]: This set
+[nums_rowing_all_group.sport|1]: Total strokes
+[nums_rowing_group.sport|1]: This set
+[off.sleep|1]: Off
+[offbody.health|1]: Tighten band strap and try again
+[ok.alipay|1]: Added
+[ok.health|1]: OK
+[ok.pressure|1]: OK
+[ok.wxpay|1]: OK
+[on.sleep|1]: On
+[once.alarm|1]: Once
+[once.todo|1]: Once
+[onemin.hr|1]: Every min
+[open.alipay|1]: Agree
+[open_1hour.ctrl|1]: DND is on for 1 hr
+[open_1hour.settings|1]: 1 hour
+[open_4hour.ctrl|1]: DND is on for 4 hrs
+[open_4hour.settings|1]: 4 hours
+[open_all_day.settings|1]: All day
+[open_from_phone.notify|1]: Open on phone
+[open_mi.mihome|1]: You can set commands for this scenario in the Mi Home/Xiaomi Home app.
+[open_password.wxpay|1]: Turn on PIN
+[open_ring.mute|1]: Just a sec
+[open_ring_ing.mute|1]: Turn on
+[open_widget.wxpay|1]: Enable Weixin Pay
+[open_widget_btn.wxpay|1]: Enable
+[opening.alipay|1]: Adding…
+[openswitch.alarm|1]: On
+[optimization.settings|1]: Optimization
+[optimization_content.settings|1]: Optimization identifies features that are using significant battery life.
+[os_ver.common|1]: 手环系统
+[other_nodata.todo|1]: You can add tasks in the app or via Mi AI Voice Assistant. Make sure Bluetooth is connected first.
+[other_sports.sport|1]: Other
+[others.share|1]: others.share
+[outdoor_skating.sport|1]: outdoor skating
+[outdoor_sports.sport|1]: Outdoor activities
+[ovula1%d%dovula2.wm|1]: Next ovulation day on %1$d/%2$d
+[ovulation_day.wm|1]: Ovulation
+[oxygen|1]: SpO₂
+[oxygen.common|1]: 血氧
+[oxygen_explain1.training|1]: VO₂ max represents the max volume of oxygen uptake measured during incremental exercise at maximal effort. It’s an indicator of aerobic endurance and capacity. Generally, a high VO₂ max value means you are able to exercise at a higher intensity.
+[oxygen_explain2.training|1]: VO₂ max is a key indicator of the body's aerobic capacity. The device will assess your athletic ability based on factors such as age, sex, and heart rate during exercise. Your VO₂ max will change as your athletic ability improves.
+[pace_for_the_first_kilometer.sport|1]: Previous km
+[pace_remind.sport|1]: Reminder
+[paddle_board.sport|1]: Paddleboarding
+[pair_desc.setupwizard|1]: Pair
+[pair_sign.setupwizard|1]: Get started in the「Mi fitness」on your phone
+[pairing.phone|1]: Sending
+[pairing.setupwizard|1]: Pairing…
+[paraglider.sport|1]: Paragliding
+[parallel_bars.sport|1]: Parallel bars
+[parkour.sport|1]: Parkour
+[partical_cal.sport|1]: Completed
+[partical_numbe.sport|1]: Completed
+[partical_times.sport|1]: Completed
+[past_widget.vitality|1]: Past
+[pause.common|1]: 暂停
+[pause.sport|1]: Pause
+[pause.tomatotimer|1]: Paused
+[pause_hint.sport|1]: Paused
+[pay.nfc|1]: Pay
+[pay_finish.nfc|1]: Done
+[pay_widget.wxpay|1]: Pay via Weixin Pay
+[pay_widget_btn.wxpay|1]: Show Code
+[paycode.alipay|1]: Alipay
+[per_minute.sport|1]: JPM
+[period1%d%dperiod2.wm|1]: Next fertile period starts on %1$d/%2$d
+[permission_tip.media|1]: Allow notifications for the app in Settings
+[phone.appname|1]: phone
+[phonebind.alipay|1]: Scan with Alipay
+[photograph|1]: Camera
+[physical_training.sport|1]: Physical training
+[pilates.sport|1]: Pilates
+[pingpong.sport|1]: Table tennis
+[play_tip.media|1]: Play music on your phone and allow app notifications
+[please_act.act|1]:  
+[plus%dhour.worldclock|2]: +%dhr|+%dhrs
+[pm.common|1]: 下午
+[pm_t.alarm|1]: PM
+[pm_t.calendar|1]: PM
+[pm_t.todo|1]: PM
+[pole_dance.sport|1]: Pole dance
+[pool_length.sport|1]: Pool length
+[power_saving.settings|1]: Exiting Battery saver
+[power_toast_mode.settings|1]: Only the clock, step count, and NFC will be available when Battery saver is on. Press and hold the screen or charge to turn off.
+[ppg_result.check_tool|1]: PD接收器值:
+[ppg_test.check_tool|1]: 心率血氧检测(5/14)
+[pratical_distance.sport|1]: Completed
+[pratical_duration.sport|1]: Goal
+[pratical_trips.sport|1]: Completed
+[pre_menstruation_in%d.wm|2]: Period day %d|Period day %d
+[pre_menstruation_out%d.wm|2]: Period in %dd|Period in %dd
+[predicta_menstruation.wm|1]: Estimated period
+[prefer.settings|1]: Preferences
+[prefer_title.settings|1]: Preferences
+[prepare_sleep.reminder|1]: Sleep well
+[pressure|1]: Stress
+[pressure_high.pressure|1]: High stress
+[procedure.sport|1]: Training plan
+[progress.vitality|1]: 7-day progress
+[projection.sport|1]: Cast
+[projection_no_device.sport|1]: Check the connection between your phone and TV
+[puck.sport|1]: Ice hockey
+[pwd.settings|1]: PIN
+[pwd_close.settings|1]: Turn off PIN
+[pwd_closed.settings|1]: PIN turned off
+[pwd_closed.system|1]: PIN turned off
+[pwd_err.common|1]: Incorrect
+[pwd_modify.settings|1]: Change PIN
+[pwd_open.settings|1]: Set PIN
+[pwd_set_again.settings|1]: Confirm PIN
+[pwd_set_ok.settings|1]: PIN set
+[pwd_title.settings|1]: PIN
+[pwd_wrong.settings|1]: PINs don't match
+[qf_lunar.calendar|1]: 秋分
+[qm_lunar.calendar|1]: 清明
+[quality_box.sleep|1]: Monitoring your breathing will significantly reduce battery life. Turn on anyway?
+[qx_festival.calendar|1]: 七夕节
+[racing_car.sport|1]: Auto racing
+[raise_bright_close.ctrl|1]: "Raise to wake" is off
+[raise_bright_open.ctrl|1]: "Raise to wake" is on
+[reach_1.act|1]: All goals hit
+[reach_2.act|1]: All goals hit
+[read_card.nfc|1]: Reading card
+[ready.ota|1]: Band will update automatically later tonight or when charging
+[rebind.alipay|1]: You won't be able to use Alipay if you remove it. Remove?
+[receiving.ota|1]: Receiving update
+[receiving_fail.ota|1]: Interrupted
+[receiving_success.ota|1]: Updated successfully
+[record_file.check_tool|1]: 录音文件
+[record_start.check_tool|1]: 开始录音
+[record_test.check_tool|1]: 音频检测(8/14)
+[recording.check_tool|1]: 录音中
+[recovery_dsc1.training|1]: You can increase training intensity.
+[recovery_dsc2.training|1]: Train as usual.
+[recovery_dsc3.training|1]: Train at a lower intensity.
+[recovery_dsc4.training|1]: Rest properly and pause training.
+[recovery_duration.sport|1]: Recovery time (hr)
+[ref_check.share|1]: Check the device connection
+[ref_err.share|1]: Couldn't cast
+[regulation.common|1]: 监管信息
+[regulation.settings|1]: Regulatory
+[regulation_title.settings|1]: Regulatory
+[relax.breath|1]: Relax
+[relax.pressure|1]: Relaxed
+[relax.sport|1]: Cool-down
+[relax_remind.pressure|1]: Relax reminder
+[relax_remind_ill.pressure|1]: This feature will prompt a breathing exercise when your stress level remains above 80 for 10 mins.
+[relax_zone.pressure|1]: Relaxed
+[relaxed_time.sport|1]:  
+[rem.sleep|1]: REM
+[remain_duration_group.sport|1]: Remaining
+[remain_duration_segment.sport|1]: Remaining
+[remain_number_group.sport|1]: Remaining
+[remain_times_group.sport|1]: Remaining
+[remain_trips_group.sport|1]: Remaining
+[remind.alarm|1]: Smart wake
+[remind_high.hr|1]: High HR
+[remind_low.hr|1]: Low HR
+[remind_menstruation.wm|1]: Upcoming period
+[remind_ovulation.wm|1]: Upcoming ovulation
+[remind_period.wm|1]: Upcoming fertile period
+[reminder.ota|1]: Update reminder
+[reminder.sport|1]: Alerts
+[reminder_deleted.alexa|1]: reminder_deleted.alexa
+[reminder_interval.sport|1]: Interval reminder
+[remindinformation.alarm|1]: Let your band choose within a 10-minute window before your alarm to wake you up.
+[remote_camera.appname|1]: Camera
+[remove.common|1]: 移除
+[repeate.alarm|1]: Repeat
+[reply.common|1]: 回复
+[report_cd_data.sport|1]: Summary
+[report_cd_freq.sport|1]: Frequency
+[report_cd_hr.sport|1]: Heart rate
+[report_cd_pace.sport|1]: Pace
+[report_cd_seg_pace.sport|1]: Pace
+[report_cd_seg_stroke_rate.sport|1]: Stroke rate
+[report_cd_seg_swolf.sport|1]: SWOLF
+[report_cd_speed.sport|1]: Speed
+[report_cd_target.sport|1]: Goal
+[reset_option.system|1]: Turn off PIN
+[reset_passwd.system|1]: Reset PIN
+[reset_settings.sport|1]: Reset all
+[rest.hr|1]: 30-day RHR
+[rest.tomatotimer|1]: Rest
+[rest_day.calendar|1]: 休
+[rest_disp.settings|1]: Always-on display
+[rest_disp_info.settings|1]: Turning on "Always-on display" may halve battery life. "Raise to wake" will be turned off. Continue?
+[rest_disp_reminder1.settings|1]: The time will be displayed even when the screen is locked.
+[rest_disp_reminder2.settings|1]: Always-on will turn off when you go to sleep or take off your band.
+[rest_disp_title.settings|1]: Always-on display
+[rest_time.settings|1]: Auto lock
+[rest_time.tomatotimer|1]: Rest
+[rest_time_out.tomatotimer|1]: Time's up
+[rest_time_title.settings|1]: Auto lock
+[rest_total.tomatotimer|1]: Rest time
+[rest_total_pause.tomatotimer|1]: Rest time
+[restart.breath|1]: Restart
+[restart.health|1]: Restart
+[restart.hr|1]: Try again
+[resting.tomatotimer|1]: Resting
+[resttime_info.settings|1]: Keeping the screen on for long periods will reduce battery life. Continue?
+[result_title.pressure|1]: Result
+[result_upload.check_tool|1]: 上传
+[resume.common|1]: 继续
+[resume.sport|1]: Resume
+[retry.ota|1]: Try again in the app
+[retry.setupwizard|1]: Try again
+[retry.sport|1]: Try again
+[retry_add.setupwizard|1]: Add the device again
+[return.sport|1]: Back
+[rhythm.breath|1]: Follow the bubble
+[ride_indoor.sport|1]: Indoor cycling
+[ride_outdoor.sport|1]: Outdoor cycling
+[riding_time.sport|1]: Cycling
+[ring.mute|1]: Sound is on
+[ring_toast.mute|1]: Sound is off
+[rl1%drl2%02d:%02drl3.settings|2]: DND is on for %dh. Ends at %02d:%02d.|DND is on for %dh. Ends at %02d:%02d.
+[rock_climbing.sport|1]: Rock climbing
+[roller_skating.sport|1]: Roller skating
+[rope_skipping.sport|1]: Jump rope
+[rowing.sport|1]: Rowing
+[rowing_machine.sport|1]: Rower
+[rugby.sport|1]: American football
+[run_fast.sport|1]: Sprint
+[run_indoor.sport|1]: Treadmill
+[run_month_lunar.calendar|1]: 闰
+[run_outdoor.sport|1]: Outdoor running
+[running_time.sport|1]: Running
+[sailboat.sport|1]: Sailing
+[sandbags_ball.sport|1]: Hacky sack
+[satellite_positioning.sport|1]: Locating
+[satellite_signal_weakness.sport|1]: GPS signal is weak. Go to an open area.
+[saturation1.oxygen|1]: 1. SpO₂ represents the percentage of oxygen in your blood.
+[saturation1.pressure|1]: Learn more
+[saturation1.sleep|1]: When you wear your band to bed, it will automatically record information about your sleep. The device will display the latest 3 records; you can view more detailed information in the app.
+[saturation2.oxygen|1]: 2. Your watch classifies SpO₂ levels as follows:- Daily activities: ≥95% is normal- During sleep: ≥90% is normal：- At any time, <90% needs attention：Note: Your watch can measure SpO₂ levels between 75-100%.
+[saturation2.pressure|1]: Stress is your body's reaction to challenges and demands.
+[saturation2.sleep|1]: Turn on Advanced monitoring in Settings to get more accurate sleep information, such as recognizing REM sleep.
+[saturation3.oxygen|1]: 3. There are multiple factors that might make measurements inconsistent or unreliable. They might include skin perfusion, permanent or temporary changes to your skin, motion, or pose during sleep. All of the above might result in a falsely low blood oxygen alert.
+[saturation3.pressure|1]: Stress is measured only during periods of rest. Stress levels are defined as follows:
+[saturation3.sleep|1]: When you sleep for more than 3 hours, your device will display your average heart rate. For naps under 3 hours, only the time you fall asleep and wake up will be displayed. Naps under 20 minutes won't be recorded.
+[saturation4.hr|1]: Measurement accuracy may be affected by how the watch is worn, changes in your skin and the environment, etc.
+[saturation4.oxygen|1]: Tips
+[saturation4.pressure|1]: Measurement accuracy may be affected by how the watch is worn, changes in your skin and the environment, etc.
+[saturation4.sleep|1]: Poor sleep quality and excessive movement during sleep may disrupt heart rate and SpO₂ measurements.
+[saturation5.oxygen|1]: 1. Wear your band above your wrist bone.
+[saturation5.pressure|1]: Tips
+[saturation6.oxygen|1]: 2. Keep your band snug and still.
+[saturation6.pressure|1]: Wear your band above your wrist bone.
+[saturation7.oxygen|1]: This feature is not intended for medical purposes, nor to diagnose, treat, cure, or prevent any disease or condition.
+[saturation7.pressure|1]: Keep your band snug and still.
+[saturation8.pressure|1]: This feature is not intended for medical purposes, nor to diagnose, treat, cure, or prevent any disease or condition.
+[saturation_mild.pressure|1]: Mild: 26–50
+[saturation_moderate.pressure|1]: Moderate: 51–80
+[saturation_relax.pressure|1]: Relaxed: 1–25
+[saturation_severe.pressure|1]: Severe: 81+
+[saving.settings|1]: Battery saver
+[saving_mode.settings|1]: Battery saver
+[saving_state_label.settings|1]: Good
+[saving_state_poor.settings|1]: poor
+[saving_state_secondary.settings|1]: medium
+[saving_toast.settings|1]: The following features will affect battery life:
+[schedule.calendar|1]: Events
+[screen_bright.settings|1]: Screen on for
+[screen_bright_title.settings|1]: Screen on for
+[screen_cover.settings|1]: Cover to sleep
+[screen_toast.settings|1]: Turn off to extend battery life by %d hour.
+[screen_up.health|1]: Keep your wrist flat and the screen facing up
+[searching.common|1]: 搜索中...
+[searching.sport|1]: Searching
+[sec.common|1]: 秒
+[sec.sport|1]: sec
+[sec.timer|1]: Secs
+[sec_unit.common|2]: s|s
+[select_device.share|1]: Device
+[send_fail.phone|1]: Couldn't send
+[send_sucss.phone|1]: Sent
+[sepak_takraw.sport|1]: Sepak takraw
+[set.vitality|1]: Settings
+[set_time.tomatotimer|1]: Set duration
+[setting.common|1]: 设置
+[setting.hr|1]: Settings
+[setting.settings|1]: Settings
+[setting_btn.oxygen|1]: Settings
+[setting_btn.pressure|1]: Settings
+[setting_btn.sleep|1]: Settings
+[setting_title.oxygen|1]: Settings
+[setting_title.pressure|1]: Settings
+[setting_title.sleep|1]: Settings
+[settings.appname|1]: Settings
+[sevendays.vitality|1]: 7-day Vitality score
+[sevendays100.vitality|1]: Past 7 days: 100 points
+[sevendays100_text.vitality|1]: You're unstoppable, keep it up!
+[sevendays30.vitality|1]: Past 7 days: 30 points
+[sevendays30_text.vitality|1]: Keep moving to see even more results!
+[sevendays60.vitality|1]: Past 7 days: 60 points
+[sevendays60_text.vitality|1]: You're on the right track!
+[sevendays_widget.vitality|1]: Past 7 days
+[severe.pressure|1]: Severe
+[severe_zone.pressure|1]: Severe
+[shake_info.settings|1]: Try to shake the horizontal direction outward quickly twice, wait for the identification result, need to identify successfully twice.
+[shake_info1.settings|1]: The forearms are parallel to the chest
+[shake_info2.settings|1]: Palm down, screen up
+[shake_info3.settings|1]: Shake outward horizontally twice quickly
+[shake_wirst.settings|1]: Shake wrist
+[share_see_device.common|1]: 请在手机妙享中心上查看设备状态
+[sharedevice.share|1]: Mi Smart Hub
+[short.sleep|1]: Nap
+[shuffle_ball.sport|1]: Shuffleboard
+[shutdown.reminder|1]: Band is overheated. Powering off.
+[shuttlecock.sport|1]: Shuttlecock
+[shuttlecock_kicking.sport|1]: Shuttlecock
+[single_bar.sport|1]: Horizontal bar
+[sit_ups.sport|1]: Sit-ups
+[sj_lunar.calendar|1]: 霜降
+[skate.sport|1]: Skateboarding
+[sled.sport|1]: Sledding
+[sleep|1]: Sleep
+[sleep_breathe.settings|1]: Breathing score
+[sleep_precision.settings|1]: Advanced sleep monitoring
+[sleep_times.reminder|1]: Sleep
+[slow_down.sport|1]: Slow down
+[sn.common|1]: 序列号
+[sn.settings|1]: Serial No.
+[sn.system|1]: Serial No.
+[snorkeling.sport|1]: Snorkeling
+[snow_car.sport|1]: Bobsleigh
+[snow_sports.sport|1]: Other winter sports
+[snowboarding.sport|1]: Snowboarding
+[snowmobile.sport|1]: Snowmobile
+[social_dancing.sport|1]: Ballroom dance
+[softball.sport|1]: Softball
+[software_version.check_tool|1]: 软件版本:
+[soinning.sport|1]: Spinning
+[source_info.settings|1]: Please place your forearms parallel to your chest with your palms down and the screen facing up.
+[speed_avg_imp.sport|1]: Avg speed
+[speed_imp.sport|1]: Speed
+[speed_remind.sport|1]: Reminder
+[speed_up.sport|1]: Speed up
+[sport|1]: Workout
+[sport_expression.sport|1]: Training effect
+[sport_health.watchface|1]: 运动健康
+[sports.appname|1]: Workout
+[sports_course.appname|1]: Running
+[sports_record.appname|1]: History
+[spring_festival.calendar|1]: 春节
+[square_dance.sport|1]: Square dancing
+[squash.sport|1]: Squash
+[stand|1]: 站立
+[stand.act|1]: Standing
+[stand.explain|1]: "Standing" shows hours in which you stand up and move around. Try to stand up and move during 12 different hours in the day.
+[stand_reach.act|1]: Standing goal hit
+[stand_title.explain|1]: Standing
+[start.breath|1]: Start
+[start.common|1]: 开始
+[start.find_phone|1]: Search
+[start.health|1]: Measure
+[start.settings|1]: Start
+[start.sport|1]: Start
+[start_sport.sport|1]: Start
+[start_stretch.sport|1]: Stretch
+[start_time.settings|1]: Start
+[start_warmup.sport|1]: Warm up
+[starting.alexa|1]: starting.alexa
+[state.settings|1]: Excellent
+[state_screen.settings|1]: Always-on display
+[status1.training|1]: Low
+[status2.training|1]: Good
+[status3.training|1]: High
+[status4.training|1]: Very high
+[status_dsc.training|1]: Past 7 days
+[stay_still.health|1]: Keep still
+[step|1]: Steps
+[step.act|1]: Steps
+[step.explain|1]: "Steps" shows a daily step count. An active person walks between 8000 and 10,000 steps a day.
+[step_minute.sport|1]: steps/min
+[step_reach.act|1]: Step goal hit
+[step_title.explain|1]: Step
+[step_training.sport|1]: Stepper
+[stepper.sport|1]: Stepper
+[stick_skin.health|1]: Keep the band touching your skin
+[stop.calendar|1]: Stop
+[stop.common|1]: 停止
+[stop.find_phone|1]: Stop
+[stop.reminder|1]: Stop
+[stop.sport|1]: End
+[stopwatch|1]: Stopwatch
+[storag_status.check_tool|1]: 在位状态:
+[storag_test.check_tool|1]: 存储检测(6/14)
+[storage_space.sport|1]: Not enough storage
+[storage_space_tips.sport|1]: Connect your phone to avoid overwriting earlier workout records.
+[street_dance.sport|1]: Street dance
+[strength_training.sport|1]: Strength
+[stretch.sport|1]: Stretching
+[stretch_after_jump.sport|1]: Post-jump rope stretch
+[stretch_after_long_run.sport|1]: Post-long distance run stretch
+[stretch_after_run.sport|1]: Post-run stretch
+[stretch_course.sport|1]: Stretching course
+[stretch_cycling.sport|1]: Post-cycling stretch
+[stretch_end.sport|1]: Stretching complete
+[stretch_total_body.sport|1]: Full-body stretch
+[stride_frequency.sport|1]: Cadence
+[strike.sport|1]: Cardio combat
+[style.wf|1]: Style
+[sublist.todo|1]: Tasks
+[summarize.sport|1]: Summary
+[sure.watchface|1]: OK
+[sure_to_close_all_reminder.sport|1]: Turn off all workout reminders?
+[sure_to_reset_all_setting.sport|1]: Reset all workout settings?
+[surfing.sport|1]: Water skiing
+[surfing_indoor.sport|1]: Flowriding
+[swim_indoor.sport|1]: Pool swimming
+[swim_lock_prompt.sport|1]: The screen will lock when you start. Swipe up, then down to unlock.
+[swim_main_style.sport|1]: Main style
+[swim_outdoor.sport|1]: Open water
+[swimming_time.sport|1]: Swimming
+[swing.sport|1]: Swinging
+[switch.share|1]: switch.share
+[swordsmanship.sport|1]: Kendo
+[sys_newphone.common|1]: 连接新手机
+[sys_newphone_info.common|1]: 连接新手机将会断开当前连接，不更换账号绑定个人数据不会丢失，是否继续？
+[sys_poweroff.common|1]: 关机
+[sys_poweroff.settings|1]: Power off
+[sys_poweroff_info.common|1]: 确认关机？
+[sys_poweroff_info.settings|1]: Power off now?
+[sys_reboot.common|1]: 重启
+[sys_reboot.settings|1]: Reboot
+[sys_reboot_info.common|1]: 确认重启？
+[sys_reboot_info.settings|1]: Reboot now?
+[sys_reset.common|1]: 恢复出厂
+[sys_reset.settings|1]: Reset
+[sys_reset_info.common|1]: 数据记录和设置将会被清除，确定恢复出厂？
+[sys_reset_info.settings|1]: A factory reset will erase all data. Continue?
+[system.settings|1]: System
+[system_option.setupwizard|1]: System
+[system_reboot.ota|1]: Device is about to reboot
+[system_title.settings|1]: System
+[taekwondo.sport|1]: Taekwondo
+[taichi.sport|1]: Tai chi
+[tail_tips.phone|1]: tail_tips.phone
+[target_%d_kcal.act|2]: Goal: %d kcal|Goal: %d kcal
+[target_%d_minute.act|2]: Goal: %d min|Goal: %d mins
+[target_%d_minute.sport|2]: Goal: %.*f min|Goal: %.*f mins
+[target_%d_num.act|2]: Goal: %d hr|Goal: %d hrs
+[target_%d_step.act|2]: Goal: %d step|Goal: %d steps
+[target_accomplishment%d%%.sport|1]: Progress: %d%%
+[target_accomplishment.sport|1]: Goal completion
+[target_cal.sport|1]: Goal
+[target_confirm.sport|1]: Turning on workout goals will turn off interval training. Turn on now?
+[target_distance.sport|1]: Goal
+[target_duration.sport|1]: Completed
+[target_heartrate_zone.sport|1]: Target HR zone
+[target_number.sport|1]: Goal
+[target_range%d-%d.sport|2]: Target BPM: %1$d–%2$d|Target BPM: %1$d–%2$d
+[target_times.sport|1]: Goal
+[target_trips.sport|1]: Goal
+[temp_no_schedule.calendar|1]: No events
+[tenmin.hr|1]: Every 10 mins
+[tennis.sport|1]: Tennis
+[test_again.check_tool|1]: 重试
+[test_exit.check_tool|1]: 退出
+[test_fail.check_tool|1]: 失败
+[test_pass.check_tool|1]: 通过
+[test_stop.check_tool|1]: 结束
+[the_course_has_been_completed.sport|1]: Course complete
+[thinking.alexa|1]: thinking.alexa
+[thirty_btn.pressure|1]: Past 30 days
+[thirty_title.pressure|1]: Past 30 days
+[thirtymin.hr|1]: Every 30 mins
+[this_train_time.breath|1]: Session
+[time.alarm|1]: Time
+[time.wf|1]: Time
+[time/min.health|1]: BPM
+[time_break.sport|1]: Rest
+[time_break_title.sport|1]: Rest time
+[time_dsc.training|1]: Recovery time
+[time_hour.alarm|1]: Hour
+[time_min.alarm|1]: Min
+[time_on.settings|1]: Scheduled
+[time_on_28.settings|1]: Scheduled
+[time_on_title.settings|1]: Scheduled
+[time_rest.sport|1]: Rest time
+[time_rest_total.sport|1]: Rest time
+[time_too_short.sport|1]: Workout time is too short to record.
+[time_too_short_resume.sport|1]: Workout time too short to record. End?
+[time_total.sport|1]: Workout time
+[time_unit.training|1]: hr
+[timeout.hr|1]: Couldn't measure
+[timer_deleted.alexa|1]: timer_deleted.alexa
+[times_group.sport|1]: This set
+[timesetting.alarm|1]: Time
+[tips.alipay|1]: It is already unpaired on the device. Go to mobile Alipay to unpair the device to complete the process.
+[tips1.watchface|1]: 打开手机APP\n添加新表盘
+[tips_open.remote_camera|1]: Open Camera on your phone
+[tips_password.wxpay|1]: Set a password for your security
+[title.find_phone|1]: Find phone
+[title.oxygen|1]: SpO₂
+[title.pressure|1]: Stress
+[title.sleep|1]: Sleep
+[title.timer|1]: Timer
+[to_enable.wxpay|1]: To enable,use Weixin to scan QR code.
+[to_get1.training|1]: 1.Fill in your personal information in the app.
+[to_get2.training|1]: 2.Wear the band and run outdoors for 10+ mins to reach 75% of your max heart rate.
+[tob.alipay|1]: Barcode
+[today.calendar|1]: Today
+[today.common|1]: Today
+[today.todo|1]: Today
+[today.tomatotimer|1]: Today
+[today_d.common|1]: 今日
+[today_no_remind.act|1]: Dismiss today
+[today_no_title.calendar|1]: No events today
+[today_rest.hr|1]: Today
+[today_t.calendar|1]: Today
+[today_t.common|1]: 今
+[todayget%d_widget.vitality|1]: Today: %d
+[todayget.vitality|1]: Today
+[todayget80.vitality|1]: Today: 80 points
+[todayget80_text.vitality|1]: You've earned the maximum amount of points today. Take a break!
+[todo.appname|1]: Tasks
+[tomorrow.common|1]: Tmrw
+[tomorrow.todo|1]: Tomorrow
+[tomorrow.wm|1]: Tomorrow
+[tools.common|1]: 工具
+[toq.alipay|1]: QR code
+[total_nums.sport|1]: Total jumps
+[total_rowing_times.sport|1]: Total strokes
+[total_stokes.sport|1]: Total strokes
+[tp_sign.check_tool|1]: 对所有方块进行\n连接操作
+[tp_test.check_tool|1]: TP划线检测(9/14)
+[track_and_field.sport|1]: Athletics
+[train.breath|1]: Breathing exercises
+[train.sport|1]: Training
+[train_setting.sport|1]: Settings
+[training.sport|1]: Training
+[training_interrupted.breath|1]: Breathing was interrupted
+[training_load.sport|1]: Training load
+[training_result.breath|1]: Results
+[transport.share|1]: Transparency
+[triathlon.sport|1]: Triathlon
+[trips_group.sport|1]: Lengths this set
+[try_again_later.wxpay|1]: Try Again Later
+[tug_of_war.sport|1]: Tug of war
+[turning_word.weather|1]: turning_word.weather
+[turnoff.alarm|1]: Turn off
+[turnoff.common|1]: Off
+[turnoff.reminder|1]: Turn off
+[turnoff.todo|1]: Turn off
+[turnon.common|1]: On
+[twelfth_month_lunar.calendar|1]: 腊月
+[twenty_day_lunar.calendar|1]: 廿
+[unable_to_pay.wxpay|1]: Unable to pay
+[unbind.alipay|1]: Remove
+[unbinding.wxpay|1]: Unlink
+[unbinding_tips.wxpay|1]: After unlinking the device,you cannot make payments using Weixin Pay.
+[unbound.wxpay|1]: Unlinked
+[uncompleted.todo|1]: Not completed
+[uncompleted32.todo|1]: Not completed
+[unit_calorie.sport|1]: Kcal
+[unit_foot.sport|1]: Feet
+[unit_kilometer.sport|1]: Km
+[unit_meter.sport|1]: Meters
+[unit_mile.sport|1]: Miles
+[unit_minute.sport|1]: Mins
+[unit_mph.sport|1]: MPH
+[unit_num_cycle.sport|1]: Sets
+[unit_number.sport|1]: Jumps
+[unit_rope_freq.sport|1]: JPM
+[unit_rowing_freq.sport|1]: SPM
+[unit_speed.sport|1]: Km/h
+[unit_times.sport|1]: Strokes
+[unit_trips.sport|1]: Lengths
+[unknown_artist.media|1]: Unknown
+[unknown_song.media|1]: Unknown
+[unknown_status.media|1]: No music data
+[unlock_use.common|1]: Enter PIN to unlock
+[unopenswitch.alarm|1]: Off
+[unread_message.notify|1]: notification
+[unwanted.settings|1]: Good
+[up_sign.setupwizard|1]: Scan QR code
+[update_back.setupwizard|1]: Reverted to previous version
+[update_fail.setupwizard|1]: Couldn't update
+[update_succ.setupwizard|1]: Updated
+[upgrading.ota|1]: Preparing update
+[upload_fail.check_tool|1]: 上传失败
+[upload_sign.check_tool|1]: 上传完成后请前往App查看汇总展示
+[upload_success.check_tool|1]: 上传完成
+[upper_limb_training.sport|1]: Upper body
+[upper_limit_reminder%dtimes/minute.sport|2]: Threshold: %d BPM|Threshold: %d BPM
+[use.alipay|1]: Confirm
+[version_info.check_tool|1]: 版本信息核对
+[very_good.breath|1]: Nice job
+[vibrate_enhance.settings|1]: Strong
+[vibrate_mode.settings|1]: Vibration
+[vibrate_mode_title.settings|1]: Vibration
+[vibrate_standard.settings|1]: Normal
+[voice_mode.share|1]: Sound mode
+[volleyball.sport|1]: Volleyball
+[waist_training.sport|1]: Abs
+[wait.reminder|1]: Snooze
+[waiting_location.sport|1]: Wait for GPS location to start workout.
+[wake_num.sleep|1]: Wake-ups
+[wake_up.reminder|1]: Time to wake up
+[walk_indoor.sport|1]: Indoor walking
+[walk_outdoor.sport|1]: Walking
+[walking_maching.sport|1]: Air walker
+[wall_ball.sport|1]: Wall ball
+[warm_up.sport|1]: Light
+[warm_up_done.sport|1]: Done
+[warm_up_interval.sport|1]: Light
+[warm_up_time.sport|1]:  
+[warmup_before_jump.sport|1]: Pre-jump rope warm-up
+[warmup_before_long_run.sport|1]: Pre-long distance run stretch
+[warmup_before_run.sport|1]: Pre-run warm-up
+[warmup_course.sport|1]: Warm-up course
+[warmup_cycling.sport|1]: Pre-cycling warm-up
+[warmup_end.sport|1]: Warm-up complete
+[warmup_switch.sport|1]: Switch
+[warmup_total_body.sport|1]: Full-body warm-up
+[warmup_zone.hr|1]: Light
+[warmup_zone1.hr|1]: 50%-60% of the heart rate's maximum capacity is suitable for warm-ups and cool-downs.
+[warning.flashlight|1]: Battery under 5%
+[warning2.flashlight|1]: Can't turn on Flashlight
+[watchface.settings|1]: Edit band display
+[watchmode.settings|1]: Model
+[water_polo.sport|1]: Water polo
+[water_sports.sport|1]: Other water sports
+[wear_tight.health|1]: Keep the band touching your skin
+[wearing_notice.settings|1]: Notify only when worn
+[wearing_notice_toast.settings|1]: Turn off notifications when band is taken off the wrist
+[weatherCondition|1]: Weather
+[weather_title.alexa|1]: weather_title.alexa
+[web_swimming.sport|1]: Finswimming
+[wechat.common|1]: Weixin
+[wechatPayment|1]: Weixin Pay
+[weekly.alarm|1]: Custom
+[weightlifting.sport|1]: Weightlifting
+[weiqi.sport|1]: Weiqi
+[widget_calorie.act|1]: Calories
+[widget_intensity.act|1]: Moving
+[widget_stand.act|1]: Stand
+[widget_step.act|1]: Steps
+[windLevel|1]: Wind
+[winter_sports.sport|1]: Winter sports
+[wm_exp.wm|1]: Learn more
+[womenhealth.wm|1]: Cycles
+[work_day.calendar|1]: 班
+[workday.alarm|1]: Workdays
+[workday.common|1]: 工作日
+[workday.todo|1]: Workdays
+[wrestling.sport|1]: Wrestling
+[wrist_screen.settings|1]: Raise to wake
+[wristlift.settings|1]: Raise to wake
+[wristlift_info.settings|1]: "Always-on display" is on. Turning on "Raise to wake" will reduce battery life. Turn on anyway?
+[wristlift_title.settings|1]: Raise to wake
+[wxpay.appname|1]: Weixin Pay
+[xh_lunar.calendar|1]: 小寒
+[xiaomitv.share|1]: TV
+[xm_lunar.calendar|1]: 小满
+[xn_festival.calendar|1]: 小年
+[xs_lunar.calendar|1]: 小暑
+[xx_lunar.calendar|1]: 小雪
+[xz_lunar.calendar|1]: 夏至
+[yes_try_again.settings|1]: Very good, please try again!
+[yesterday.common|1]: 昨天
+[yesterday.todo|1]: Yesterday
+[yoga.sport|1]: Yoga
+[ys_lunar.calendar|1]: 雨水
+[yx_festival.calendar|1]: 元宵节
+[zone.hr|1]: HR zone
+[zone.pressure|1]: Details
+[zoneexp.hr|1]: Learn more
+[zq_festival.calendar|1]: 中秋节
+[zumba.sport|1]: Zumba
+[zy_festival.calendar|1]: 中元节
