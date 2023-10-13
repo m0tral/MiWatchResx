@@ -348,27 +348,27 @@
 [Jan.common|1]: Январь
 [Jan_n.common|1]:	1
 [July.common|1]: Июль
-[July_n.common|1]:	7
+[July_n.common|1]: 7
 [June.common|1]: Июнь
-[June_n.common|1]:	6
+[June_n.common|1]: 6
 [Mar.common|1]: Март
-[Mar_n.common|1]:	3
+[Mar_n.common|1]: 3
 [May.common|1]: Май
-[May_n.common|1]:	5
+[May_n.common|1]: 5
 [Mon.calendar|1]: Пн
 [Mon.worldclock|1]: Пн
 [Mon_brief.calendar|1]: Пн
 [Mon_brief.common|1]: Пн
 [Nov.common|1]: Ноябрь
-[Nov_n.common|1]:	11
+[Nov_n.common|1]: 11
 [Oct.common|1]: Октябрь
-[Oct_n.common|1]:	10
+[Oct_n.common|1]: 10
 [Sat.calendar|1]: Сб
 [Sat.worldclock|1]: Сб
 [Sat_brief.calendar|1]: Сб
 [Sat_brief.common|1]: Сб
 [Sept.common|1]: Сентябрь
-[Sept_n.common|1]:	9
+[Sept_n.common|1]: 9
 [Sports.sport|1]: Тренировка
 [Sun.calendar|1]: Вск
 [Sun.worldclock|1]: Вск
@@ -572,7 +572,7 @@
 [bl_lunar.calendar|1]: белая роса
 [ble_con.share|1]: Подключитесь через Bluetooth и повторите попытку
 [ble_dis.share|1]: Отключен
-[bloodPressure|1]: холестерин
+[bloodPressure|1]: Измерение
 [blue_break.mihome|1]: Отключен
 [blue_break.mute|1]: Отключен
 [blue_break.nfc|1]: Отключен
@@ -644,7 +644,7 @@
 [chesee_and_card_games.sport|1]: Карточные/настольные игры
 [chess.sport|1]: Шахматы
 [chronograph.appname|1]: Секундомер
-[chu_day_lunar.calendar|1]: 初
+[chu_day_lunar.calendar|1]: Начало
 [circulation.sport|1]: Установки
 [clear_all.notify|1]: Очистить все
 [clear_message.notify|1]: Очистить
@@ -660,8 +660,8 @@
 [close_ring.mute|1]: Выключить
 [close_sedentary.act|1]: Отключить на сегодня напоминание о разминке?
 [cnt.common|1]: 次
-[cnt/min.common|1]: 次/分
-[cnt/min.sport|1]: уд
+[cnt/min.common|1]: мин
+[cnt/min.sport|1]: мин
 [color.wf|1]: Цвет
 [compass|1]: компас
 [complete.reminder|1]: Время встать
@@ -884,13 +884,13 @@
 [frequency.breath|1]: ЧСС
 [frequency.sport|1]: Частота
 [frisbee.sport|1]: Фрисби
-[fsn_info.check_tool|1]: FSN号:
+[fsn_info.check_tool|1]: FSN:
 [full_hour.common|1]: часы
 [full_hour.settings|1]: час
 [full_hour.timer|1]: Ч
-[full_min.common|1]: минут
-[full_min.settings|1]: минута
-[full_min.timer|1]: Минуты
+[full_min.common|1]: мин
+[full_min.settings|1]: мин
+[full_min.timer|1]: Мин
 [functional_training.sport|1]: Функциональная тренировка
 [fw_ver.common|1]: номер версии
 [fw_ver.settings|1]: Версия
@@ -929,7 +929,7 @@
 [getting_songs_w.media|1]: Загрузка музыки...
 [gnss_num.check_tool|1]: Количество спутников.
 [gnss_sign.check_tool|1]: Пожалуйста
-[gnss_snr.check_tool|1]: SNR值:
+[gnss_snr.check_tool|1]: SNR:
 [gnss_test.check_tool|1]: Определение местоположения (2/14)
 [go_to_the_app_side_to_check.sport|1]: Просмотр большего количества записей в приложении после синхронизации данных
 [go_turnon.common|1]: Перейдите и откройте его.
@@ -1067,7 +1067,7 @@
 [kite_surfing.sport|1]: Кайтсерфинг
 [km/hr.sport|1]: Км/ч
 [km_h.sport|1]: км/ч
-[km_per_hr.sport|1]:  км/ч
+[km_per_hr.sport|1]: км/ч
 [know.act|1]: Далее
 [know.common|1]: Далее
 [know.find_phone|1]: OK
@@ -1463,7 +1463,7 @@
 [pool_length.sport|1]: Длина бассейна
 [power_saving.settings|1]: Выход из режима экономии заряда батареи
 [power_toast_mode.settings|1]: При включенном режиме экономии заряда батареи будет доступно только время
-[ppg_result.check_tool|1]: PD接收器值:
+[ppg_result.check_tool|1]: PD:
 [ppg_test.check_tool|1]: Оксиметрия сердечного ритма (5/14)
 [pratical_distance.sport|1]: Завершено
 [pratical_duration.sport|1]: Цель
@@ -1493,7 +1493,7 @@
 [pwd_title.settings|1]: PIN
 [pwd_wrong.settings|1]: PIN-код не совпадает
 [qf_lunar.calendar|1]: Осеннее равноденствие
-[qm_lunar.calendar|1]: 清明
+[qm_lunar.calendar|1]: Pure Brightness Festival
 [quality_box.sleep|1]: Контроль дыхания значительно сокращает время работы от аккумулятора. Включить в любом случае?
 [qx_festival.calendar|1]: Праздник двойной семерки
 [racing_car.sport|1]: Автогонки
@@ -1528,7 +1528,7 @@
 [relax_remind_ill.pressure|1]: Эта функция предложит выполнить дыхательные упражнения
 [relax_zone.pressure|1]: Расслабленный
 [relaxed_time.sport|1]:  
-[rem.sleep|1]: REM
+[rem.sleep|1]: REM-фаза
 [remain_duration_group.sport|1]: Осталось
 [remain_duration_segment.sport|1]: Осталось
 [remain_number_group.sport|1]: Осталось
@@ -1595,7 +1595,7 @@
 [riding_time.sport|1]: Велоспорт
 [ring.mute|1]: Звук включен
 [ring_toast.mute|1]: Звук выключен
-[rl1%drl2%02d:%02drl3.settings|2]:	DND is включен в %dh. Выключен в %02d:%02d.| DND is включен в %dh. Выключен в %02d:%02d.
+[rl1%drl2%02d:%02drl3.settings|2]:	DND включен в %dh. Выключен в %02d:%02d.| DND включен в %dh. Выключен в %02d:%02d.
 [rock_climbing.sport|1]: Скалолазание
 [roller_skating.sport|1]: Катание на роликах
 [rope_skipping.sport|1]: Скакалка
@@ -1604,7 +1604,7 @@
 [rugby.sport|1]: Американский футбол
 [run_fast.sport|1]: Спринт
 [run_indoor.sport|1]: Беговая дорожка
-[run_month_lunar.calendar|1]: 闰
+[run_month_lunar.calendar|1]: 29 февраля
 [run_outdoor.sport|1]: Бег на открытом воздухе
 [running_time.sport|1]: Бег
 [sailboat.sport|1]: Парусный спорт
@@ -1649,9 +1649,9 @@
 [screen_up.health|1]: Держите запястье горизонтально
 [searching.common|1]: Поиск
 [searching.sport|1]: Поиск
-[sec.common|1]: 秒
-[sec.sport|1]: Секунды
-[sec.timer|1]: Секунды
+[sec.common|1]: Сек
+[sec.sport|1]: Сек
+[sec.timer|1]: Сек
 [sec_unit.common|2]: с|с
 [select_device.share|1]: Устройство
 [send_fail.phone|1]: Не удалось отправить
@@ -1892,7 +1892,7 @@
 [today_no_title.calendar|1]: Сегодня мероприятий нет
 [today_rest.hr|1]: Сегодня
 [today_t.calendar|1]: Сегодня
-[today_t.common|1]: 今
+[today_t.common|1]: Сегодня
 [todayget%d_widget.vitality|1]: Сегодня: %d
 [todayget.vitality|1]: Сегодня
 [todayget80.vitality|1]: Сегодня: 80 баллов
@@ -1906,8 +1906,8 @@
 [total_nums.sport|1]: Общее количество прыжков
 [total_rowing_times.sport|1]: Общее количество ударов
 [total_stokes.sport|1]: Общее количество ударов
-[tp_sign.check_tool|1]: 对所有方块进行\n连接操作
-[tp_test.check_tool|1]: TP划线检测(9/14)
+[tp_sign.check_tool|1]: Perform \n join operation on all squares
+[tp_test.check_tool|1]: TP Scribing Inspection(9/14)
 [track_and_field.sport|1]: Легкая атлетика
 [train.breath|1]: Дыхательные упражнения
 [train.sport|1]: Тренировка
@@ -1928,7 +1928,7 @@
 [turnoff.todo|1]: Выключить
 [turnon.common|1]: Включить
 [twelfth_month_lunar.calendar|1]: двенадцатый лунный месяц
-[twenty_day_lunar.calendar|1]: 廿
+[twenty_day_lunar.calendar|1]: twenty (20)
 [unable_to_pay.wxpay|1]: Невозможность оплаты
 [unbind.alipay|1]: Удалить
 [unbinding.wxpay|1]: Unlink
