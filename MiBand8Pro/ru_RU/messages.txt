@@ -32,7 +32,7 @@
 [%d%dravailable.settings]: Время жизни батареи: %dd %dh
 [%d%dyear_month.calendar]: %2$d/%1$d
 [%d:%d.worldclock]: %d:%d
-[%d_cnt/min_just.health]: %d уд (сейчас)
+[%d_cnt/min_just.health]: %d  (сейчас)
 [%d_hour_sec.sleep]: %d ч
 [%d_message.notify]: %d уведомление
 [%d_min_before.health]: %d мин назад
@@ -41,20 +41,20 @@
 [%d_mins_before.pressure]: %d мин назад
 [%d_unread_message.notify]: %d новое уведомление
 [%dcalories_unit.act]: ккал
-[%dcnt/min.common]: %d次/分钟
+[%dcnt/min.common]: %d уд
 [%dcnt/min.sport]: %d уд
 [%dday_later.wm]: In %d день
 [%dfull_hour.common]: %d小时
 [%dfull_hour.hr]: %d ч
 [%dfull_hour.reminder]: %dhr
 [%dfull_hour.sport]: %d ч
-[%dfull_min.common]: %d分钟
+[%dfull_min.common]: %d мин
 [%dfull_min.hr]: %d мин
-[%dfull_min.reminder]: %dmin
+[%dfull_min.reminder]: %d мин
 [%dfull_min.settings]: %d мин
 [%dfull_min_28.settings]: %d мин
-[%dhour.common]: %d时
-[%dhour.worldclock]: %dhr
+[%dhour.common]: %dч
+[%dhour.worldclock]: %dч
 [%dintensity_unit.act]: мин
 [%ditem.todo]: %d item
 [%ditem_in_category.sport]: %d item
@@ -576,8 +576,8 @@
 [blue_break.mihome]: Отключен
 [blue_break.mute]: Отключен
 [blue_break.nfc]: Отключен
-[blue_know.mihome]: Есть
-[blue_know.mute]: Есть
+[blue_know.mihome]: Далее
+[blue_know.mute]: Далее
 [blue_retry.mute]: Подключитесь через Bluetooth и повторите попытку
 [blue_retry.nfc]: Подключитесь через Bluetooth и повторите попытку
 [bobby_jump.sport]: Берпи
@@ -620,7 +620,7 @@
 [calorie.explain]: "Калории" показывают количество активных калорий, сожженных в результате движения и физических упражнений.
 [calorie_reach.act]: Достижение цели по калориям
 [calorie_title.explain]: Калории
-[camera_know]: Есть
+[camera_know]: Далее
 [cancel.alipay]: Отмена
 [cancel.common]: Отмена
 [cancel.wxpay]: Отмена
@@ -628,7 +628,7 @@
 [canoeing.sport]: Каякинг
 [cardBag]: Карты
 [card_id.check_tool]: ID:
-[card_know.nfc]: Есть
+[card_know.nfc]: Далее
 [cf_lunar.calendar]: весеннее равноденствие
 [change_item_time.sport]: Переход
 [change_terms_for_a_while.sport]: Переход
@@ -681,7 +681,7 @@
 [connected.sport]: Подключено
 [connection_failed.common]: Сбой соединения
 [connection_failed.sport]: Сбой соединения
-[connectknow.alarm]: Есть
+[connectknow.alarm]: Далее
 [continue.common]: продолжить
 [core_training.sport]: Базовая тренировка
 [countdown]: Таймер
@@ -994,7 +994,7 @@
 [hour.sleep]: ч
 [hour.sport]: Часы
 [hour_allday.sleep]: ч
-[how_get.training]: Определите свой максимальный VO₂
+[how_get.training]: Max VO₂
 [hr_current%s.sport]: Текущий ЧСС (%s)
 [hr_exp.hr]: Частота сердечных сокращений - это количество ударов сердца в минуту (ЧСС). \nОбычно частота сердечных сокращений в состоянии покоя колеблется от 55 до 80 ударов в минуту. Однако он зависит от возраста, пола и других факторов. \nВаше устройство поддерживает диапазон 30-240 ударов в минуту.
 [hr_recommend%s.sport]: Цель ЧСС (%s)
@@ -1034,10 +1034,10 @@
 [intelligence.settings]: Смарт
 [intelligence_28.settings]: Смарт
 [intelligent.hr]: Авто
-[intensity]: Движение
-[intensity.act]: Движение
-[intensity.explain]: "Движение" показывает время выполнения умеренной и энергичной активности. Для взрослых в возрасте 18-64 лет необходимо стремиться к умеренной активности не менее 30 минут в день 5 раз в неделю. В качестве альтернативы можно выбрать 75 минут в неделю интенсивной активности. Вы увидите прогресс в "Движении", когда ваш каденс превысит 100 SPM или когда частота сердечных сокращений превысит 65% от максимальной частоты сердечных сокращений.
-[intensity_title.explain]: Движение
+[intensity]: Разминка
+[intensity.act]: Разминка
+[intensity.explain]: "Разминка" показывает время выполнения умеренной и энергичной активности. Для взрослых в возрасте 18-64 лет необходимо стремиться к умеренной активности не менее 30 минут в день 5 раз в неделю. В качестве альтернативы можно выбрать 75 минут в неделю интенсивной активности. Вы увидите прогресс в "Движении", когда ваш каденс превысит 100 SPM или когда частота сердечных сокращений превысит 65% от максимальной частоты сердечных сокращений.
+[intensity_title.explain]: Разминка
 [intensity_unit.common]: минут
 [intensive.common]: Интенсивный
 [inter_training_name.sport]: Интервальная тренировка
@@ -1068,16 +1068,16 @@
 [km/hr.sport]: Км/ч
 [km_h.sport]: км/ч
 [km_per_hr.sport]:  км/ч
-[know.act]: Есть
-[know.common]: Есть
+[know.act]: Далее
+[know.common]: Далее
 [know.find_phone]: OK
-[know.ota]: Есть
-[know.phone]: Есть
-[know.reminder]: Есть
-[know.setupwizard]: Есть
-[know.sport]: Есть
-[know.vitality]: Есть
-[know.wm]: Есть
+[know.ota]: Далее
+[know.phone]: Далее
+[know.reminder]: Далее
+[know.setupwizard]: Далее
+[know.sport]: Далее
+[know.vitality]: Далее
+[know.wm]: Далее
 [later.alarm]: Отложить
 [latin_dance.sport]: Латинские танцы
 [layout.settings]: Компоновка
@@ -1100,7 +1100,7 @@
 [level7.training]: Замечательно
 [level_dsc.training]: Уровень
 [light.common]: Свет
-[light.sleep]: Лёгкая активность
+[light.sleep]: Лёгкий сон
 [light_scrren.settings]: Пробуждение экрана при получении уведомления
 [light_scrren_toast.settings]: Пробуждение экрана при получении уведомлений
 [light_test.check_tool]: Обнаружение фотодатчиков (7/14)
@@ -1338,7 +1338,7 @@
 [no_remind.oxygen]: Выключен
 [no_reminder_today.common]: Отключить на сегодня
 [no_setting.mihome]: Нет настроек
-[no_target.sport]: Открытая цель
+[no_target.sport]: Свободная
 [no_title.calendar]: Без названия
 [no_try_again.settings]: Правильный жест не распознан, попробуйте еще раз!
 [noai_nodata.todo]: Добавлять задачи можно в приложении. Сначала убедитесь, что Bluetooth подключен.
@@ -1727,11 +1727,11 @@
 [spring_festival.calendar]: Праздник весны (китайский Новый год)
 [square_dance.sport]: Square dancing
 [squash.sport]: Squash
-[stand]: Стояние
-[stand.act]: Стояние
-[stand.explain]: "Стояние" показывает часы, в которые вы встаете и двигаетесь. Попробуйте встать и подвигаться в течение 12 различных часов в течение дня.
+[stand]: Лёгкая активность
+[stand.act]: Лёгкая активность
+[stand.explain]: "Лёгкая активность" показывает часы, в которые вы встаете и двигаетесь. Попробуйте встать и подвигаться в течение 12 различных часов в течение дня.
 [stand_reach.act]: Попадание в цель
-[stand_title.explain]: Стояние
+[stand_title.explain]: Лёгкая активность
 [start.breath]: Старт
 [start.common]: Старт
 [start.find_phone]: Поиск
@@ -1791,7 +1791,7 @@
 [surfing.sport]: Водные лыжи
 [surfing_indoor.sport]: Flowriding
 [swim_indoor.sport]: Плавание в бассейне
-[swim_lock_prompt.sport]: При запуске экран будет заблокирован. Для разблокировки проведите пальцем вверх, затем вниз.
+[swim_lock_prompt.sport]: Экран будет заблокирован. Для разблокировки проведите пальцем.
 [swim_main_style.sport]: Основной стиль
 [swim_outdoor.sport]: Плавание в море
 [swimming_time.sport]: Плавание
@@ -1866,7 +1866,7 @@
 [time_too_short_resume.sport]: Время тренировки слишком короткое для сохранения. Завершить?
 [time_total.sport]: Время тренировки
 [time_unit.training]: hr
-[timeout.hr]: Не удалось измерить
+[timeout.hr]: Ошибка
 [timer_deleted.alexa]: timer_deleted.alexa
 [times_group.sport]: Этот сет
 [timesetting.alarm]: Время
