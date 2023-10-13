@@ -341,8 +341,8 @@
 [Dec_n.common]: Декабрь
 [Feb.common]: Февраль
 [Feb_n.common]: Февраль
-[Fri.calendar]: Пт.
-[Fri.worldclock]: Пт.
+[Fri.calendar]: Пт
+[Fri.worldclock]: Пт
 [Fri_brief.calendar]: Пт
 [Fri_brief.common]: Пт
 [Jan.common]: Январь
@@ -355,46 +355,46 @@
 [Mar_n.common]: Март
 [May.common]: Май
 [May_n.common]: Май
-[Mon.calendar]: Пн.
-[Mon.worldclock]: Пн.
+[Mon.calendar]: Пн
+[Mon.worldclock]: Пн
 [Mon_brief.calendar]: Пн
 [Mon_brief.common]: Пн
 [Nov.common]: Ноябрь
 [Nov_n.common]: Ноябрь
 [Oct.common]: Октябрь
 [Oct_n.common]: Октябрь
-[Sat.calendar]: Сб.
-[Sat.worldclock]: Сб.
+[Sat.calendar]: Сб
+[Sat.worldclock]: Сб
 [Sat_brief.calendar]: Сб
 [Sat_brief.common]: Сб
 [Sept.common]: Сентябрь
 [Sept_n.common]: Сентябрь
 [Sports.sport]: Тренировка
-[Sun.calendar]: Вск.
-[Sun.worldclock]: Вск.
-[Sun_brief.calendar]: Вск
+[Sun.calendar]: Вск
+[Sun.worldclock]: Вск
+[Sun_brief.calendar]: Вс
 [Sun_brief.common]: Вск
-[Thu.calendar]: Чт.
-[Thu.worldclock]: Чт.
+[Thu.calendar]: Чт
+[Thu.worldclock]: Чт
 [Thu_brief.calendar]: Чт
 [Thu_brief.common]: Чт
-[Tue.calendar]: Вт.
-[Tue.worldclock]: Вт.
+[Tue.calendar]: Вт
+[Tue.worldclock]: Вт
 [Tue_brief.calendar]: Вт
 [Tue_brief.common]: Вт
 [UVI]: УФ-индекс
-[Wed.calendar]: Ср.
-[Wed.worldclock]: Ср.
-[Wed_brief.calendar]: W
-[Wed_brief.common]: 三
+[Wed.calendar]: Ср
+[Wed.worldclock]: Ср
+[Wed_brief.calendar]: Ср
+[Wed_brief.common]: Ср
 [ability_down.training]: Снижение
 [ability_dsc.training]: Спортивные способности
 [ability_keep.training]: Обслуживание
 [ability_up.training]: Высокое качество
-[about.common]: О системе
-[about.settings]: О системе
-[about.setupwizard]: О системе
-[about_title.settings]: О системе
+[about.common]: О часах
+[about.settings]: О часах
+[about.setupwizard]: О часах
+[about_title.settings]: О часах
 [accel_test.check_tool]: Обнаружение ускорения (3/14)
 [accomplish.sport]: Выполнено
 [action_preview.sport]: Предварительный просмотр
@@ -694,7 +694,7 @@
 [curling.sport]: Керлинг
 [current.breath]: Текущий пульс
 [current.hr]: Текущий пульс
-[custom.alarm]: Пользовательский
+[custom.alarm]: Настроить
 [custom.common]: Пользовательский
 [custom.timer]: Пользовательский
 [customize.sport]: Пользовательский
@@ -893,7 +893,7 @@
 [full_min.timer]: Минуты
 [functional_training.sport]: Функциональная тренировка
 [fw_ver.common]: номер версии
-[fw_ver.settings]: Версия №.
+[fw_ver.settings]: Версия
 [gateball.sport]: Гейтбол
 [gesture.settings]: Быстрые жесты
 [gesture_course.settings]: Учебник по жестам
@@ -975,14 +975,14 @@
 [hightime.vitality]: Высокая интенсивность
 [hihi_ball.sport]: Для нее
 [hiking_outdoor.sport]: Пеший туризм
-[hint.alarm]: Будильники отсутствуют
+[hint.alarm]: Нет будильников
 [hint_text.tomatotimer]: Во время этого сеанса DND включен
 [hip_hop_dance.sport]: Хип-хоп
 [hl_lunar.calendar]: холодная роса
 [hockey.sport]: Хоккей
 [hold.sport]: Продолжайте
 [hold_it.settings]: Поздравляю с освоением!
-[holiday.alarm]: Выходные дни
+[holiday.alarm]: Выходные
 [holiday.common]: праздники
 [holiday.todo]: Выходные дни
 [holidayprmt_main.alarm]: Подключение к приложению
@@ -990,7 +990,7 @@
 [holidayprmt_sub.alarm]: По умолчанию суббота и воскресенье отмечены как выходные дни.
 [holidayprmt_sub.common]: До подключения приложения праздничные дни будут по умолчанию выпадать на субботу и воскресенье
 [horse_riding.sport]: Верховая езда
-[hour.common]: 时
+[hour.common]: ч
 [hour.sleep]: ч
 [hour.sport]: Часы
 [hour_allday.sleep]: ч
@@ -1080,10 +1080,10 @@
 [know.wm]: Есть
 [later.alarm]: Дремать
 [latin_dance.sport]: Латинские танцы
-[layout.settings]: Расположение
+[layout.settings]: Компоновка
 [layout_grid.settings]: Сетка
 [layout_list.settings]: Список
-[layout_title.settings]: Расположение
+[layout_title.settings]: Компоновка
 [lb_festival.calendar]: Праздник рисовой каши Лаба
 [lc_lunar.calendar]: начало весны
 [lcd_sign.check_tool]: Определите, есть ли на следующем интерфейсе темные пятна, разные цвета и другие аномалии, и щелкните на экране, чтобы появилось окно
@@ -1161,7 +1161,7 @@
 [max_add.worldclock]: Добавить до 20 местоположений
 [max_oxygen.training]: VO₂ max
 [maximum_oxygen_uptake.sport]: VO₂ max
-[maxofalarm.alarm]: Добавить до 10 будильников
+[maxofalarm.alarm]: Максимум 10 будильников
 [measure.health]: Советы
 [measure1.health]: Наденьте ремешок выше запястной кости.
 [measure2.health]: Держите ремешок плотно прижатым и неподвижно.
@@ -1264,12 +1264,12 @@
 [monitor_sub_exp.sleep]: При включении этой функции устройство будет отслеживать REM-фазы сна.
 [more_add.worldclock]: Добавление новых местоположений\nв приложении
 [more_sport.sport]: Больше
-[motion.settings]: Автоматическое определение
+[motion.settings]: Автоопределение
 [motion_disturb.settings]: Невозможно отправить напоминание о тренировке при включенном DND
 [motion_info.settings]: Получайте напоминания о начале тренировки.\nПоддерживаются такие виды тренировок, как ходьба, прыжки со скакалкой, гребля, велотренажер, эллиптический тренажер и бег.
 [motion_reminder.settings]: Включение напоминаний о тренировках влияет на время работы аккумулятора.
 [motion_sensing_game.sport]: Соматосенсорная игра
-[motion_title.settings]: Автоматическое определение
+[motion_title.settings]: Автоопределение
 [motor_sign.check_tool]: Определение числа вибраций:
 [motor_test.check_tool]: Обнаружение уровня вибрации (11/14)
 [motorboat.sport]: Катание на моторных лодках
@@ -1334,7 +1334,7 @@
 [no_message.notify]: Нет уведомлений
 [no_permission.media]: Права не предоставлены
 [no_record.wm]: Включите функцию прогноза изменения периодов в приложении
-[no_record_today.wm]: Нет данных сегодня
+[no_record_today.wm]: Нет данных
 [no_remind.oxygen]: Выключен
 [no_reminder_today.common]: Отключить на сегодня
 [no_setting.mihome]: Нет настроек
@@ -1342,11 +1342,11 @@
 [no_title.calendar]: Без названия
 [no_try_again.settings]: Правильный жест не распознан, попробуйте еще раз!
 [noai_nodata.todo]: Добавлять задачи можно в приложении. Сначала убедитесь, что Bluetooth подключен.
-[nodata.hr]: На сегодня данных нет
-[nodata.oxygen]: На сегодня данных нет
-[nodata.sleep]: Не снимайте часы перед сном для получения данных о сне
-[nodata.todo]: Отсутствие напоминаний о задачах
-[nodata.wm]: Логирование деталей цикла в приложении
+[nodata.hr]: Нет данных
+[nodata.oxygen]: Нет данных
+[nodata.sleep]: Нет данных о сне
+[nodata.todo]: Нет напоминаний
+[nodata.wm]: Нет данных
 [noinit_tips.calendar]: Включите функцию "События" в приложении
 [noise_reduction.share]: Шумоподавление
 [nonedata.weather]: nonedata.weather
@@ -1519,8 +1519,8 @@
 [ref_check.share]: Проверьте подключение устройства
 [ref_err.share]: Не смог открыть доступ
 [regulation.common]: Нормативная информация
-[regulation.settings]: Regulatory
-[regulation_title.settings]: Regulatory
+[regulation.settings]: Нормативы
+[regulation_title.settings]: Нормативы
 [relax.breath]: Расслабьтесь
 [relax.pressure]: Расслабленный
 [relax.sport]: Cool-down
@@ -1534,7 +1534,7 @@
 [remain_number_group.sport]: Осталось
 [remain_times_group.sport]: Осталось
 [remain_trips_group.sport]: Осталось
-[remind.alarm]: Интеллектуальное пробуждение
+[remind.alarm]: Умный будильник
 [remind_high.hr]: Высокий уровень сердечного ритма
 [remind_low.hr]: Низкий уровень сердечного ритма
 [remind_menstruation.wm]: Предстоящий период
@@ -1563,7 +1563,7 @@
 [reset_settings.sport]: Сбросить все
 [rest.hr]: 30-дневный RHR
 [rest.tomatotimer]: Отдых
-[rest_day.calendar]: 休
+[rest_day.calendar]: Выходные
 [rest_disp.settings]: Always-on display
 [rest_disp_info.settings]: Включение функции "Always-on display" может сократить время работы от аккумулятора вдвое. Функция "Активировать по поднятию руки" будет отключена. Продолжить?
 [rest_disp_reminder1.settings]: Время будет отображаться даже при заблокированном экране.
@@ -1761,10 +1761,10 @@
 [stepper.sport]: Stepper
 [stick_skin.health]: Следите за тем, чтобы ремешок касался вашей кожи
 [stop.calendar]: Остановить
-[stop.common]: отказ от использования
+[stop.common]: Остановить
 [stop.find_phone]: Остановить
 [stop.reminder]: Остановить
-[stop.sport]: Конец
+[stop.sport]: Стоп
 [stopwatch]: Секундомер
 [storag_status.check_tool]: Статус.
 [storag_test.check_tool]: Обнаружение хранилищ (6/14)
@@ -2001,7 +2001,7 @@
 [warmup_zone1.hr]: Для разминки и отдыха рекомендуется выдерживать 50%-60% от максимального значения пульса.
 [warning.flashlight]: Заряд батареи 5%
 [warning2.flashlight]: Невозможно включить фонарик
-[watchface.settings]: Редактирование дисплея
+[watchface.settings]: Циферблаты
 [watchmode.settings]: Модель
 [water_polo.sport]: Водное поло
 [water_sports.sport]: Другие водные виды спорта
@@ -2009,11 +2009,11 @@
 [wearing_notice.settings]: Сообщать только при ношении
 [wearing_notice_toast.settings]: Отключение уведомлений при снятии браслета с запястья
 [weatherCondition]: Погода
-[weather_title.alexa]: weather_title.alexa
+[weather_title.alexa]: Погода
 [web_swimming.sport]: Плавание на финках
 [wechat.common]: Weixin
 [wechatPayment]: Weixin Pay
-[weekly.alarm]: Пользовательский
+[weekly.alarm]: Настроить
 [weightlifting.sport]: Тяжелая атлетика
 [weiqi.sport]: Weiqi
 [widget_calorie.act]: Калории
@@ -2024,10 +2024,10 @@
 [winter_sports.sport]: Зимние виды спорта
 [wm_exp.wm]: Подробнее
 [womenhealth.wm]: Циклы
-[work_day.calendar]: 班
-[workday.alarm]: Рабочие дни
-[workday.common]: Рабочие дни
-[workday.todo]: Рабочие дни
+[work_day.calendar]: Будни
+[workday.alarm]: Будни
+[workday.common]: Будни
+[workday.todo]: Будни
 [wrestling.sport]: Борьба
 [wrist_screen.settings]: Поднять для пробуждения
 [wristlift.settings]: Поднять для пробуждения
