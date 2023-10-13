@@ -25,7 +25,7 @@
 [%d%2d_24end.calendar|1]: Окончание %1$d:%2$02d
 [%d%d%dyear_month_day.todo|1]: %2$d/%3$d/%1$d
 [%d%d_target_time.sleep|1]: Цельl: %dhrs %dmins
-[%d%d_time_sec.sleep|1]: %dhrs %dmins
+[%d%d_time_sec.sleep|1]: %ч %мин
 [%d%dmonth_day.common|1]: %1$d月%2$d日
 [%d%dmonth_day.todo|1]: %1$d/%2$d
 [%d%dmonth_day_slash.common|1]: %1$02d/%2$02d
