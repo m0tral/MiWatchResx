@@ -1007,11 +1007,11 @@
 [idle_alerm2.alexa]: idle_alerm2.alexa
 [idle_try_to_say.alexa]: idle_try_to_say.alexa
 [idle_weather.alexa]: idle_weather.alexa
-[ignore.common]: пренебрежение
-[ignore.health]: Отклонить
-[ignore.hr]: Отклонить
-[ignore.oxygen]: Отклонить
-[ignore.pressure]: Отклонить
+[ignore.common]: Очистить
+[ignore.health]: Очистить
+[ignore.hr]: Очистить
+[ignore.oxygen]: Очистить
+[ignore.pressure]: Очистить
 [ill_btn.oxygen]: Подробнее
 [ill_btn.pressure]: Подробнее
 [ill_btn.sleep]: Подробнее
@@ -1857,9 +1857,9 @@
 [time_dsc.training]: Время восстановления
 [time_hour.alarm]: Час
 [time_min.alarm]: Минута
-[time_on.settings]: Запланировано
-[time_on_28.settings]: Запланировано
-[time_on_title.settings]: Запланировано
+[time_on.settings]: По расписанию
+[time_on_28.settings]: По расписанию
+[time_on_title.settings]: По расписанию
 [time_rest.sport]: Время отдыха
 [time_rest_total.sport]: Время отдыха
 [time_too_short.sport]: Время тренировки слишком короткое для сохранения.
