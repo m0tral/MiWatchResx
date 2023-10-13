@@ -717,12 +717,12 @@
 [default_aod.watchface]: Тема по умолчанию
 [del_all.common]: Очистить все
 [del_tip.watchface]: Удалить циферблат?
-[delay.calendar]: Дремать
-[delay.todo]: Дремать
-[delay_10m.common]: Дремать 10 минут
-[delay_10m_agn.calendar]: Дремать 10 минут
-[delay_10m_agn.common]: Дремать 10 минут
-[delay_10m_agn.reminder]: Дремать 10 минут
+[delay.calendar]: Отложить
+[delay.todo]: Отложить
+[delay_10m.common]: Отложить на 10 минут
+[delay_10m_agn.calendar]: Отложить на 10 минут
+[delay_10m_agn.common]: Отложить на 10 минут
+[delay_10m_agn.reminder]: Отложить на 10 минут
 [delete.common]: удаление
 [destretching.sport]: Растяжка
 [detail.alipay]: Прочитайте и согласитесь с Соглашением об обслуживании смарт-устройств в приложении Alipay.
@@ -1078,7 +1078,7 @@
 [know.sport]: Есть
 [know.vitality]: Есть
 [know.wm]: Есть
-[later.alarm]: Дремать
+[later.alarm]: Отложить
 [latin_dance.sport]: Латинские танцы
 [layout.settings]: Компоновка
 [layout_grid.settings]: Сетка
@@ -1977,7 +1977,7 @@
 [voice_mode.share]: Звуковой режим
 [volleyball.sport]: Волейбол
 [waist_training.sport]: Abs
-[wait.reminder]: Дремать
+[wait.reminder]: Отложить
 [waiting_location.sport]: Дождитесь определения местоположения по GPS, чтобы начать тренировку.
 [wake_num.sleep]: Пробуждение
 [wake_up.reminder]: Время просыпаться
