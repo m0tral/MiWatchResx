@@ -609,7 +609,7 @@
 [bt_disconn.remote_camera]: Отключено
 [bt_test.check_tool]: Обнаружение Bluetooth (1/14)
 [btn_confirm.sport]: Подтвердить
-[buring_zone.hr]: Интенсивный
+[buring_zone.hr]: Интенсивная
 [buring_zone1.hr]: 61%-70% от максимальной частоты сердечных сокращений идеально подходят для сжигания жира.
 [butterfly.sport]: Бабочка
 [calculate_the_lead/lag_distance_according_to_the_set_pace.sport]: Рассчитайте оставшееся и пройденное расстояние, исходя из заданного темпа.
@@ -712,7 +712,7 @@
 [day_oxygen.settings]: Отслеживание уровня SpO₂ в течение всего дня
 [day_pressure.settings]: Круглосуточный мониторинг стресса
 [deadlift.sport]: Становая тяга
-[deep.sleep]: Глубина
+[deep.sleep]: Глубокий
 [default_aod.settings]: Тема по умолчанию
 [default_aod.watchface]: Тема по умолчанию
 [del_all.common]: Очистить все
@@ -1100,7 +1100,7 @@
 [level7.training]: Замечательно
 [level_dsc.training]: Уровень
 [light.common]: Свет
-[light.sleep]: Свет
+[light.sleep]: Лёгкая активность
 [light_scrren.settings]: Пробуждение экрана при получении уведомления
 [light_scrren_toast.settings]: Пробуждение экрана при получении уведомлений
 [light_test.check_tool]: Обнаружение фотодатчиков (7/14)
@@ -1979,7 +1979,7 @@
 [waist_training.sport]: Abs
 [wait.reminder]: Отложить
 [waiting_location.sport]: Дождитесь определения местоположения по GPS, чтобы начать тренировку.
-[wake_num.sleep]: Пробуждение
+[wake_num.sleep]: Пробуждения
 [wake_up.reminder]: Время просыпаться
 [walk_indoor.sport]: Ходьба в помещении
 [walk_outdoor.sport]: Прогулка
@@ -1997,7 +1997,7 @@
 [warmup_end.sport]: Разминка завершена
 [warmup_switch.sport]: Переключатель
 [warmup_total_body.sport]: Разминка для всего тела
-[warmup_zone.hr]: Свет
+[warmup_zone.hr]: Лёгкая
 [warmup_zone1.hr]: Для разминки и отдыха рекомендуется выдерживать 50%-60% от максимального значения пульса.
 [warning.flashlight]: Заряд батареи 5%
 [warning2.flashlight]: Невозможно включить фонарик
