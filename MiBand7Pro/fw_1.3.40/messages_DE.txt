@@ -1,0 +1,2071 @@
+001E421E|1|Einstellungen
+001E421E|1|Bandanzeigen
+001E421E|1|Bildschirm
+001E421E|1|Vibration
+001E7D68|1|Standard
+001E7D68|1|Stark
+001E421E|1|Auto-Erkennung
+001E7D68|1|Aus
+001E7D68|1|Ein
+001E421E|1|BNS
+001E7D68|1|Aus
+001E7D68|1|Smart
+001E7D68|1|Ganztägig
+001E421E|1|APP-Layout
+001E7D68|1|Symbolmodus
+001E7D68|1|Listenmodus
+001E421E|1|PIN
+001E421E|1|System
+001E421E|1|Über das Band
+001E421E|1|Helligkeit
+001E421E|1|Immer-An
+001E421E|1|Automatische Sperre
+001E421E|1|Abdecken für Schlafmodus
+001E421E|1|Anheben zum Aufwachen
+001E7D68|1|Autom.
+001EA0BA|1|Autom.
+001E421E|1|Ausgeschaltet
+001E421E|1|Smart
+001E421E|1|Geplant
+001E421E|1|Ganztägig
+001E421E|1|Mehr erfahren
+001ED2A2|1|Immer-An
+001ED2A2|1|Smart
+001EFDD2|1|Die Uhrzeit wird auch bei gesperrtem Bildschirm angezeigt.
+001EFDD2|1|Immer-An schaltet sich aus, wenn du schlafen gehst oder dein Band abnimmst.
+001E421E|1|Das beeinträchtigt die Akkulaufzeit, fortfahren?
+001E421E|1|Start
+001E421E|1|Ende
+001E421E|1|Status
+001F2A8D|1|-%d
+001F5943|1|%d
+001E421E|1|Empfindlichkeit
+001E7D68|1|Smart
+001EA0BA|1|Hoch
+001EA0BA|1|Standard
+001E421E|1|Das beeinträchtigt die Akkulaufzeit, fortfahren?
+001F6663|1|Sek.
+001F6663|1|m
+001E421E|1|Auto-Erkennung
+001E421E|1|Workout-Erkennung
+001EFDD2|1|Verstanden
+001EFDD2|1|Verstanden
+001E7D68|1|Um eine Überwachungshäufigkeit festzulegen, schalte unregelmäßige BPM aus.
+001F5943|1|%d:%02d
+001F8583|1|Das beeinträchtigt die Akkulaufzeit, fortfahren?
+001E421E|1|Aus
+001E421E|1|Smart
+001EFDD2|1|Immer-An schaltet sich aus, wenn du schlafen gehst oder dein Band abnimmst.
+001E421E|1|Symbolmodus
+001E421E|1|Listenmodus
+001E421E|1|System
+001E421E|1|Neustart
+001E421E|1|Ausschalten
+001E421E|1|Zurücksetzen
+001E421E|1|Jetzt neustarten?
+001E421E|1|Jetzt ausschalten?
+001F8583|1|Alle Daten löschen?
+001ED2A2|1|Name
+001ED2A2|1|Modell
+001ED2A2|1|MAC-Adresse
+001ED2A2|1|Versionsnummer
+001ED2A2|1|Serien-Nr.
+001ED2A2|1|Regulatorisches
+001E421E|1|Vibration
+001FD009|1|Stark
+001EA0BA|1|Standard
+001EA0BA|1|Stark
+001FF6F2|1|%d
+001E7D68|1|%d/%d
+001E421E|1|Aufwärmen
+001EFDD2|1|Fertig
+001F2A8D|1|%2d:%2d:%2d
+001E421E|1|Training
+001F2A8D|1|%d
+00201B93|1|Ziel-Schläge
+00201B93|1|Verbleibend
+001EFDD2|1|Überspr.
+001E421E|1|Ruhezeit
+00201B93|1|Ruhezeit
+00201B93|1|Verbleibend
+001E421E|1|Abkühlen
+001EFDD2|1|Ende
+001E421E|1|Laufen
+001E421E|1|Fettverbrennung
+001E421E|1|Fortgeschritten
+00201B93|1|Einführung
+00201B93|1|Trainingsplan
+001F6663|1|Gehen
+001F6663|1|Einfaches Joggen
+001EFDD2|1|Starten
+001E421E|1|Zuletzt
+001FD009|1|Gehen
+001ED2A2|1|Ziel-BPM
+001EFDD2|1|%d~%dbpm
+001ED2A2|1|Gehen
+001F2A8D|1|%d:%02d
+00201B93|1|Timer
+0020458B|1|BPM
+001E421E|1|Sieht aus, als würdest du trainieren
+001EFDD2|1|Im Freien
+001EFDD2|1|Laufband
+001EFDD2|1|Ablehnen (%ds)
+001EFDD2|1|km
+001EFDD2|1|Pausieren
+001EFDD2|1|Weiter
+001F8583|1|Die Trainingsstrecke ist zu kurz, um sie aufzuzeichnen. Beenden?
+001F8583|1|Die Trainingsdauer ist zu kurz, um sie aufzuzeichnen. Beenden?
+001EFDD2|1|Weiter
+001EFDD2|1|Beenden
+001E421E|1|Kalibrierung
+001F2A8D|1|.
+00205547|1|km
+001F8583|1|Der Bildschirm wird beim Starten gesperrt
+001E421E|1|Atmung
+00206346|1|Atmung
+001E421E|1|Zeit
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+0020A891|1|%d
+0020CC8F|1|%d
+00206346|1|Entspannen
+001EFDD2|1|Konzentriere dich auf deine Atmung
+00206346|1|Los geht's
+001EFDD2|1|Folge der Blase
+00206346|1|Einatmen
+00206346|1|Ausatmen
+00206346|1|Gut gemacht
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001EFDD2|1|Einheit: %d min
+001E421E|1|Ergebnisse
+001EFDD2|1|Aktuelle HF
+0020A891|1|89
+00205547|1|BPM
+001EFDD2|1|HF starten
+001EFDD2|1|Einheit
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+00205547|1|Min.
+001E421E|1|Einstellungen
+001E421E|1|Ziel
+001E421E|1|Intervalle
+001E421E|1|Warnungen
+001E421E|1|Pool-Länge
+001E421E|1|Autom. pausieren
+00201B93|1|Offen
+0020F439|1|1,5 km
+001E421E|1|Offen
+001E421E|1|Distanz
+001E421E|1|Zeit
+001E421E|1|Kalorien
+001E421E|1|Sprünge
+001E421E|1|Bahnen
+00201B93|1|5 km
+001E421E|1|Intervalle werden ausgeschaltet. Fortfahren?
+001E421E|1|Trainingsziel wird entfernt. Fortfahren?
+001E421E|1|Distanz
+001E421E|1|Zeit
+001E421E|1|Kalorien
+001E421E|1|Sprünge
+001E421E|1|Bahnen
+00205547|1|m
+00205547|1|kcal
+00205547|1| 
+00205547|1| 
+001E421E|1|Sätze
+001E421E|1|Rest
+00205547|1|Sek.
+00205547|1| 
+001E421E|1|Distanz
+001E421E|1|Tempo
+001E421E|1|Geschwindigkeit
+001E421E|1|HF-Bereich
+001E421E|1|Hohe HF
+001EFDD2|1|Alle ausschalten
+0020F439|1|Aus
+0020F439|1|Intensiv
+001E421E|1|Schrittzähler
+001F2A8D|1|5'00"
+001FF6F2|1|4'50"
+001E421E|1|%d km/h
+00205547|1|km/h
+001E421E|1|Aus
+001E421E|1|Leicht
+001E421E|1|Intensiv
+001E421E|1|Aerobisch
+001E421E|1|Anaerobisch
+001E421E|1|VO₂ max
+0020F439|1|%u–%u BPM
+001E421E|1|Hohe HF
+00205547|1|BPM
+001E421E|1|25 m
+001E421E|1|Benutzerdefiniert
+001E421E|1|Benutzerdefiniert
+00205547|1|m
+001E421E|1|PIN festlegen
+002110A2|1|PIN eingeben
+002110A2|1|PIN bestätigen
+002110A2|1|Falsch
+001E421E|1|Alle Daten löschen?
+001E421E|1|PIN ausschalten
+001E421E|1|PIN ändern
+001E421E|1|PIN geändert
+001E421E|1|PIN ausgeschaltet
+001E7D68|1|Dein Band wird beim Abnehmen automatisch gesperrt.
+00212D49|1|Schneller
+00212D49|1|Mach weiter
+00212D49|1|Langsamer
+0021578D|1|%u'%02u''
+00206346|1|Hohe HF
+001EFDD2|1|Kalorien
+00217059|1|345.0
+001EFDD2|1|Schritte
+001EFDD2|1|Bewegung
+0021803D|1|323.0
+001E421E|1|Schritte
+00205547|1| 
+001E421E|1|Stehen
+001E421E|1|Bewegung
+001E421E|1|Erinnerungen
+001ED2A2|1|Schritte
+001ED2A2|1|Kalorien
+002110A2|1|Stehen
+002110A2|1|Bewegung
+001E421E|1|Schlaf
+002192E0|1|10.0
+00212D49|1|Std.
+00212D49|1|m
+001EFDD2|1|Ziel:
+0021BC37|1|24:33
+001EFDD2|1|Keine Daten
+001ED2A2|1|Schlaf
+001EFDD2|1|1. Um den REM-Schlaf zu überwachen, schalte die erweiterte Überwachung ein.\n2. Ziehe das Band an.\n3. Herzfrequenz und SpO₂-Werte hängen von Bewegungen, Schlafqualität und mehr ab.
+00206346|1|Std.
+00206346|1|m
+001EFDD2|1|Keine Daten
+001E421E|1|Erweiterte Überwachung
+001E421E|1|Atmungspunkte
+001E421E|1|Atmungspunkte
+001E7D68|1|REM-Schlaf verfolgen
+001E421E|1|Atmungspunkte
+001E7D68|1|Überwachung der nächtlichen Atmung
+001E421E|1|Schlaf
+00201B93|1|Ø-BPM
+001E421E|1| 
+00201B93|1|Ø-SpO₂
+001E421E|1|Nickerchen
+001E421E|1|Puls
+0021BC37|1|126
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+001E421E|1|Hohe HF
+001E421E|1|Niedrige HF
+001E421E|1|Unregelmäßige BPM
+001E421E|1|HF-Bereich
+00201B93|1|VO₂ max
+00201B93|1|VO₂ max
+00201B93|1|Anaerobisch
+00201B93|1|Intensiv
+00201B93|1|Leicht
+00201B93|1|Relaxed
+00201B93|1|Relaxed
+001E421E|1|%02d:%02d
+001EFDD2|1|Messung erfolgt
+0021D4C3|1|144-224
+0021C2DF|1|BPM
+0021D4C3|1|12: 24-12: 25
+001EFDD2|1|Erneut versuchen
+001EFDD2|1|Messen
+001ED2A2|1|Puls
+001EFDD2|1|Der Puls ist die Anzahl der Herzschläge pro Minute (BPM).\nNormalerweise liegt der Ruhepuls zwischen 40 und 100 BPM. Sie variiert jedoch je nach Alter, Geschlecht und anderen Faktoren.\nDein Band unterstützt einen Bereich von 30-220 BPM.
+001E421E|1|Mehr erfahren
+001EFDD2|1|Straffe das Band und versuche es erneut
+001E421E|1|Tipps
+001EFDD2|1|Trage dein Band oberhalb deines Handgelenks.
+001EFDD2|1|Dein Band muss eng anliegen und darf nicht bewegt werden.
+001EFDD2|1|Die Messungen hängen u. a. von der niedrigen Temperatur und der Hautdurchblutung ab.
+001F6663|1|Diese Funktion ist nicht für medizinische Zwecke gedacht.
+001EFDD2|1|Kontinuierliche Überwachung ist ausgeschaltet.
+001EFDD2|1|Einschalten
+001E421E|1|Kontinuierliche Überwachung
+001E421E|1|Unregelmäßige BPM
+001E421E|1|Ein/Aus
+001E421E|1|Hohe HF
+001E421E|1|Niedrige HF
+001E7D68|1|Um eine Überwachungshäufigkeit festzulegen, schalte unregelmäßige BPM aus.
+001E421E|1|1 Min.
+001E421E|1|10 Min.
+001E421E|1|Autom.
+001E421E|1|Tipps
+001EFDD2|1|Measure heart rate every 10 mins
+001ED2A2|1|Autom.
+001EFDD2|1|Erhöhe die Überwachungshäufigkeit während des Trainings
+001E421E|1|Unregelmäßige BPM
+001E7D68|1|Erhalte Warnungen bei unregelmäßigem Herzschlag
+001E421E|1|Das beeinträchtigt die Akkulaufzeit, fortfahren?
+001E421E|1|100 BPM
+00206346|1|Niedrige HF
+001ED2A2|1|12: 30-12: 40
+001EFDD2|1|Details
+00206346|1|Unregelmäßige BPM
+00206346|1|Messung erfolgt
+001EFDD2|1|Nicht bewegen
+001EFDD2|1|Messwert: %02d:%02d
+001EFDD2|1|Erneut versuchen
+00201B93|1|Goal hit
+00201B93|1|Goal hit
+00201B93|1|Goal hit
+00201B93|1|Goal hit
+00206346|1|Ziele erreicht
+00201B93|1|Bravo!
+00206346|1|Bewege dich!
+00206346|1|Steh auf
+001EFDD2|1|Steh auf und beweg dich
+001F8583|1|Verbinde dein Telefon, um die GPS-Daten zu aktualisieren.
+001F8583|1|Speicher ist voll. Dieses Training kann nicht aufgezeichnet werden.
+001E421E|1|GPS
+00206346|1|Laufen im Freien
+001F8583|1|Lokalisierung. Gehe zu einem offenen Bereich und warte, bis das Training beginnt.
+001EFDD2|1|Warten
+001EFDD2|1|Starten
+001F8583|1|Im Freien trainieren
+001EFDD2|1|Verwerfen
+001E421E|1|Zyklen
+0021C2DF|1|%u/%u/%u
+001E421E|1|Vorhersage
+00201B93|1|Fruchtbar
+001E421E|1|05.23-06.23
+0021F681|1|Eisprung-Tag
+002206EA|1|Periode
+001E421E|1|Mehr erfahren
+001EFDD2|1|Zeichne Zyklusdetails in der APP auf
+001ED2A2|1|1. Farben
+001EFDD2|1|Periode
+001E421E|1|Periodentag %d
+001EFDD2|1|Voraussichtliche Periode
+001E421E|1|Periodentag %d
+001EFDD2|1|Fruchtbar
+001EFDD2|1|Fruchtbarkeits-Tag %d
+001EFDD2|1|Eisprung-Tag
+001E421E|1|Eisprung-Tag
+001ED2A2|1|2. Tipp
+001EFDD2|1|Je mehr du protokollierst, desto genauere Vorhersagen erhältst du.
+00206346|1|Beckenschwimmen
+00206346|1|Offenes Gewässer
+00206346|1|Segeln
+00206346|1|Paddelboarden
+00206346|1|Wasserball
+00206346|1|Wassersport
+00206346|1|Wasserski
+00206346|1|Kajakfahren
+00206346|1|Rafting
+00206346|1|Rudern
+00206346|1|Motorbootsport
+00206346|1|Flossenschwimmen
+00206346|1|Kunstspringen
+00206346|1|Synchronschwimmen
+00206346|1|Schnorcheln
+00206346|1|Kitesurfen
+00206346|1|Gehen
+00206346|1|Wandern
+00206346|1|Radfahren im Freien
+00206346|1|Trekking
+00206346|1|Trail-Lauf
+00206346|1|Klettern
+00206346|1|Skateboarden
+00206346|1|Rollschuhlaufen
+00206346|1|Parkour
+00206346|1|ATV
+00206346|1|Gleitschirmfliegen
+00206346|1|Freistil
+00206346|1|Laufband
+00206346|1|Seilspringen
+00206346|1|HIIT
+00206346|1|Yoga
+00206346|1|Drinnen Radfahren
+00206346|1|Crosstrainer
+00206346|1|Ruderer
+00206346|1|Treppensteiger
+00206346|1|Stepper
+00206346|1|Core-Training
+00206346|1|Flexibilität
+00206346|1|Pilates
+00206346|1|Gymnastik
+00206346|1|Dehngymnastik
+00206346|1|Stärke
+00206346|1|Crosstraining
+00206346|1|Treppensteigen
+00206346|1|Aerobic
+00206346|1|Körpertraining
+00206346|1|Mauerball
+00206346|1|Hantel
+00206346|1|Langhantel
+00206346|1|Gewichtheben
+00206346|1|Kreuzheben
+00206346|1|Burpee
+00206346|1|Rumpfbeugen
+00206346|1|Funktionelles Training
+00206346|1|Oberkörper
+00206346|1|Unterkörper
+00206346|1|Bauchmuskeln
+00206346|1|Rücken
+00206346|1|Parktanz
+00206346|1|Bauchtanz
+00206346|1|Ballett
+00206346|1|Street Dance
+00206346|1|Zumba
+00206346|1|Volkstanz
+00206346|1|Jazztanz
+00206346|1|Lateinamerikanischer Tanz
+00206346|1|Boxen
+00206346|1|Ringen
+00206346|1|Kampfkunst
+00206346|1|Tai Chi
+00206346|1|Muay Thai
+00206346|1|Judo
+00206346|1|Taekwondo
+00206346|1|Karate
+00206346|1|Kickboxen
+00206346|1|Kendō
+00206346|1|Fechten
+00206346|1|Tennis
+00206346|1|Basketball
+00206346|1|Fußball
+00206346|1|Volleyball
+00206346|1|Baseball
+00206346|1|Softball
+00206346|1|American Football
+00206346|1|Hockey
+00206346|1|Tischtennis
+00206346|1|Badminton
+00206346|1|Kricket
+00206346|1|Handball
+00206346|1|Bowling
+00206346|1|Squash
+00206346|1|Billiard
+00206346|1|Federball
+00206346|1|Strandfußball
+00206346|1|Beach-Volleyball
+00206346|1|Sepak takraw
+00206346|1|Eislaufen
+00206346|1|Curling
+00206346|1|Andere Wintersportarten
+00206346|1|Schneemobil
+00206346|1|Eishockey
+00206346|1|Bobfahren
+00206346|1|Rodeln
+00206346|1|Bogenschießen
+00206346|1|Dart
+00206346|1|Reiten
+00206346|1|Tauziehen
+00206346|1|Hula-Hoop
+00206346|1|Drachenfliegen
+00206346|1|Angeln
+00206346|1|Frisbee
+00206346|1|Reitsport
+00206346|1|Leichtathletik
+00206346|1|Automobilsport
+001E7D68|1|Erhalte Erinnerungen zum Starten und Beenden von Läufen, Spaziergängen sowie Laufband-, Ruder- und Sprung-Workouts.
+001EFDD2|1|Schlummern
+001E421E|1|Synchronisieren
+001E421E|1|Benachrichtigungen
+001EFDD2|1|Keine Benach-\nrichtigungen
+001EFDD2|1|Antwort
+001EFDD2|1|Senden
+001E421E|1|Gesendet
+001E421E|1|Senden nicht möglich
+001F8583|1|Erlaube dieser APP, SMS-Nachrichten zu senden
+001F8583|1|Erlaube dieser APP, deine Kontakte einzusehen
+001E421E|1|Wird gesendet
+00220FCD|1|Wecker
+00201B93|1|Keine Wecker
+00201B93|1|Zeit
+00201B93|1|Wiederholen
+001E421E|1|Bearbeiten
+001E421E|1|Zeit
+001E421E|1|Wiederholen
+001EFDD2|1|Löschen
+001EFDD2|1|OK
+00201B93|1|AM
+00201B93|1|PM
+001EFDD2|1|Schlummern
+001EFDD2|1|Anhalten
+001EFDD2|1|Wecker kann nicht hinzugefügt werden
+00201B93|1|Füge max. 10 Wecker hinzu
+001E421E|1|Telefon suchen
+001E421E|1|Dein Telefon wird klingeln
+001E421E|1|Getrennt
+001E421E|1|Konnte nicht gefunden werden
+001EFDD2|1|Suchen
+001EFDD2|1|Anhalten
+001EFDD2|1|Zurück
+001E421E|1|Musik
+001E421E|1|Berechtigungen
+001E421E|1|Einen Moment
+001E7D68|1|Kopple dein Band mit der APP
+001E7D68|1|Aktiviere den Benachrichtigungszugriff für die APP
+001F8583|1|Aktiviere den Benachrichtigungszugriff für die APP
+001EFDD2|1|Nicht gekoppelt
+001E421E|1|Spielt nicht
+001E421E|1|Getrennt
+001E421E|1|Berechtigungen
+001E421E|1|Kamera
+00201B93|1|Öffne die Kamera auf deinem Telefon
+001E421E|1|Nicht gekoppelt
+001F8583|1|Getrennt
+001E7D68|1|Gehe in der APP zu Gerät > Kamera
+001E7D68|1|Kopple dein Band mit der APP
+00201B93|1|Einschalten
+001EFDD2|1|Keine Ereignisse heute
+001E421E|1|Details
+001E421E|1|Details
+001F8583|1|Schalte Ereignisse in der APP ein
+001F8583|1|Dösen für 10 Min.
+001F8583|1|Dösen für 10 Min.
+001F8583|1|Dösen für 10 Min.
+001F8583|1|Dösen für 10 Min.
+001F8583|1|Dösen für 10 Min.
+001F8583|1|Dösen für 10 Min.
+001F8583|1|Dösen für 10 Min.
+001E421E|1|Stoppuhr
+00221FD5|1|%02d
+001F8583|1|Stoppuhr kann nicht im Hintergrund laufen, verlassen?
+001E421E|1|Timer
+0021578D|1|%d
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Min.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+0021C2DF|1|Std.
+001EFDD2|1|Benutzerdefiniert
+001E421E|1|Zuletzt
+001FF6F2|1|%02d:%02d:%02d
+001E7D68|1|Benutzerdefiniert
+001E421E|1|Wetter
+001E421E|1|Vorhersage
+00222A9B|1|25°
+001E421E|1|Luftqualität
+001E7D68|1|AQI
+0020458B|1|Bewege dich
+001E421E|1|Indizes
+0021C2DF|1| 
+0020F439|1|UVI
+0020F439|1|Luftfeuchtigkeit
+001E421E|1|Sonnenaufgang & Sonnenuntergang
+001E421E|1|Standorte
+002232E6|1|Schlaf gut
+001F8583|1|BNS ist an. „Anheben zum Aufwachen“ ist aus.
+001EFDD2|1|Verwerfen
+001EFDD2|1|Zeit
+001FF6F2|1|%02d:%02d
+001EFDD2|1|Schlaf
+00212D49|1|%dStd. %dMin.
+0021D4C3|1|%d℃/%d℃
+001E421E|1|SpO₂
+002259A0|1|98
+001EFDD2|1|Messen
+001EFDD2|1|Keine Daten
+00229366|1|98%
+00201B93|1|Trage dein Band oberhalb deines Handgelenks.
+00201B93|1|Straffe das Band und versuche es erneut
+00201B93|1|Nicht bewegen
+0020A891|1|98%
+00206346|1|SpO₂
+001ED2A2|1|85%
+001EFDD2|1|Details
+001EFDD2|1|Verwerfen
+001E421E|1|Ganztägiges Tracking
+001E421E|1|Alarm
+001E421E|1|Mehr erfahren
+001E421E|1|Ganztägiges Tracking
+00201B93|1|Aus
+00201B93|1|80%
+001E7D68|1|Messe den SpO₂, wenn du nicht in Bewegung bist
+001EFDD2|1|Trage dein Band oberhalb deines Handgelenks.
+001EFDD2|1|Dein Band muss eng anliegen und darf nicht bewegt werden.
+001F6663|1|Diese Funktion ist nicht für medizinische Zwecke gedacht.
+00201B93|1|SpO₂ stellt den Prozentsatz an Sauerstoff in deinem Blut dar.
+00201B93|1|Normalerweise sinken die Messwerte nicht unter 95 %, wenn du aktiv bust und nicht unter 90 %, wenn du schläfst. Ergreife die erforderlichen Maßnahmen, wenn dein Sauerstoffgehalt im Blut unter 90 % sinkt.
+00201B93|1|Dein Band unterstützt einen Bereich von 75–100%.
+00201B93|1|Es gibt mehrere Faktoren, die Messungen inkonsistent oder unzuverlässig machen können. Dazu können Hautdurchblutung, dauerhafte oder vorübergehende Veränderungen deiner Haut, Bewegung oder Haltung während des Schlafes gehören. All dies kann zu einem fälschlicherweise niedrigen Blutsauerstoffalarm führen. Denke daran, dass dies kein medizinisches Gerät ist und die von ihm generierten Daten nicht für Diagnose und Behandlung verwendet werden können.
+001E421E|1|Warnungen
+001E421E|1|Training
+001E421E|1|Kategorien
+001E421E|1|Mehr
+001E421E|1|Wassersport
+001E421E|1|Beckenschwimmen
+001E421E|1|Offenes Gewässer
+001E421E|1|Segeln
+001E421E|1|Paddelboarden
+001E421E|1|Wasserball
+001E421E|1|Wasserski
+001E421E|1|Kajakfahren
+001E421E|1|Rafting
+001E421E|1|Rudern
+001E421E|1|Motorbootsport
+001E421E|1|Flossenschwimmen
+001E421E|1|Kunstspringen
+001E421E|1|Synchronschwimmen
+001E421E|1|Schnorcheln
+001E421E|1|Kitesurfen
+001E421E|1|Outdoor-Aktivitäten
+001E421E|1|Laufen im Freien
+001E421E|1|Gehen
+001E421E|1|Wandern
+001E421E|1|Radfahren im Freien
+001E421E|1|Trekking
+001E421E|1|Trail-Lauf
+001E421E|1|Klettern
+001E421E|1|Skateboarden
+001E421E|1|Rollschuhlaufen
+001E421E|1|Parkour
+001E421E|1|ATV
+001E421E|1|Gleitschirmfliegen
+001E421E|1|Freistil
+001E421E|1|Laufband
+001E421E|1|Seilspringen
+001E421E|1|HIIT
+001E421E|1|Yoga
+001E421E|1|Drinnen Radfahren
+001E421E|1|Crosstrainer
+001E421E|1|Ruderer
+001E421E|1|Treppensteiger
+001E421E|1|Stepper
+001E421E|1|Core-Training
+001E421E|1|Flexibilität
+001E421E|1|Pilates
+001E421E|1|Gymnastik
+001E421E|1|Dehngymnastik
+001E421E|1|Stärke
+001E421E|1|Crosstraining
+001E421E|1|Treppensteigen
+001E421E|1|Aerobic
+001E421E|1|Körpertraining
+001E421E|1|Mauerball
+001E421E|1|Hantel
+001E421E|1|Langhantel
+001E421E|1|Gewichtheben
+001E421E|1|Kreuzheben
+001E421E|1|Burpee
+001E421E|1|Rumpfbeugen
+001E421E|1|Funktionelles Training
+001E421E|1|Oberkörper
+001E421E|1|Unterkörper
+001E421E|1|Bauchmuskeln
+001E421E|1|Rücken
+001E421E|1|Tanzen
+001E421E|1|Parktanz
+001E421E|1|Bauchtanz
+001E421E|1|Ballett
+001E421E|1|Street Dance
+001E421E|1|Zumba
+001E421E|1|Volkstanz
+001E421E|1|Jazztanz
+001E421E|1|Lateinamerikanischer Tanz
+001E421E|1|Kampfsport
+001E421E|1|Boxen
+001E421E|1|Ringen
+001E421E|1|Kampfkunst
+001E421E|1|Tai Chi
+001E421E|1|Muay Thai
+001E421E|1|Judo
+001E421E|1|Taekwondo
+001E421E|1|Karate
+001E421E|1|Kickboxen
+001E421E|1|Kendō
+001E421E|1|Fechten
+001E421E|1|Ballsport
+001E421E|1|Tennis
+001E421E|1|Basketball
+001E421E|1|Fußball
+001E421E|1|Volleyball
+001E421E|1|Baseball
+001E421E|1|Softball
+001E421E|1|American Football
+001E421E|1|Hockey
+001E421E|1|Tischtennis
+001E421E|1|Badminton
+001E421E|1|Kricket
+001E421E|1|Handball
+001E421E|1|Bowling
+001E421E|1|Squash
+001E421E|1|Billiard
+001E421E|1|Federball
+001E421E|1|Strandfußball
+001E421E|1|Beach-Volleyball
+001E421E|1|Sepak takraw
+001E421E|1|Wintersport
+001E421E|1|Eislaufen
+001E421E|1|Curling
+001E421E|1|Andere Wintersportarten
+001E421E|1|Schneemobil
+001E421E|1|Eishockey
+001E421E|1|Bobfahren
+001E421E|1|Rodeln
+001E421E|1|Freizeitsport
+001E421E|1|Bogenschießen
+001E421E|1|Dart
+001E421E|1|Reiten
+001E421E|1|Tauziehen
+001E421E|1|Hula-Hoop
+001E421E|1|Drachenfliegen
+001E421E|1|Angeln
+001E421E|1|Frisbee
+001E421E|1|Andere
+001E421E|1|Reitsport
+001E421E|1|Leichtathletik
+001E421E|1|Automobilsport
+00201B93|1|Offen
+001F2A8D|1|%02d:%02d:%02d
+001F2A8D|1|%d.%d
+0022AFE6|1|km
+001F2A8D|1|%d'%d"
+001F6663|1|Leicht
+001F6663|1|Intensiv
+001F6663|1|Aerobisch
+001F6663|1|Anaerobisch
+001F6663|1|VO₂ max
+001FF6F2|1|%d
+0022AFE6|1|kcal
+0022AFE6|1|SPM
+0022AFE6|1|Schritt
+0022AFE6|1|Schritt
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+0022AFE6|1|Schritt
+0022AFE6|1|Schritt
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+0022AFE6|1|Schritt
+0022AFE6|1|Schritt
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+0022AFE6|1|Schritte
+001FF6F2|1|0
+001F6663|1|/km
+0022AFE6|1|km/h
+0022AFE6|1|bahn
+0022AFE6|1|bahn
+0022AFE6|1|bahn
+0022AFE6|1|bahn
+0022AFE6|1|bahn
+0022AFE6|1|bahn
+0022AFE6|1|bahnen
+0022AFE6|1|bahnen
+0022AFE6|1|bahnen
+0022AFE6|1|bahnen
+0022AFE6|1|bahn
+0022AFE6|1|bahn
+0022AFE6|1|bahnen
+0022AFE6|1|bahnen
+0022AFE6|1|bahnen
+0022AFE6|1|bahnen
+0022AFE6|1|Zug
+0022AFE6|1|Zug
+0022AFE6|1|Sprung
+0022AFE6|1|Sprung
+0022AFE6|1|Sprung
+0022AFE6|1|Sprung
+0022AFE6|1|Sprünge
+0022AFE6|1|Sprünge
+0022AFE6|1|Sprünge
+0022AFE6|1|Sprünge
+0022AFE6|1|Zug
+0022AFE6|1|Zug
+0022AFE6|1|Züge
+0022AFE6|1|Züge
+0022AFE6|1|Züge
+0022AFE6|1|Züge
+0022AFE6|1|SPM
+0020458B|1|/km
+0020458B|1|Km dahinter
+0022C2C9|1|%u'%02u''
+001E421E|1|Stress
+00205547|1|Mäßig
+001E421E|1|Details
+00201B93|1|Entspannt
+00201B93|1|Mild
+00201B93|1|Mäßig
+00201B93|1|Ernst
+001E421E|1|Die letzten 7 Tage
+0021BC37|1|05.12
+001EFDD2|1|Keine Daten
+001F6663|1|Mäßig
+001E421E|1|Ganztägige Überwachung
+001E421E|1|Entspannungserinnerung
+001EFDD2|1|Ein
+001E421E|1|Ganztägige Überwachung
+001E421E|1|Ein/Aus
+001F6663|1|Behalte den Überblick, wenn du sitzend tätig bist
+001F6663|1|Führe eine Atemübung durch, wenn der Stresspegel während des Wachzustandes über 80 liegt.
+001E421E|1|Mehr erfahren
+001EFDD2|1|Stress ist die Reaktion deines Körpers auf Herausforderungen.
+001EFDD2|1|Dein Band misst deinen Stresslevel, wenn du inaktiv bist.\nLevels:\nEntspannt: 1–25\nLeicht: 25–50\nMäßig: 51–80\nSchwer: 81-100.\nDiese Funktion ist nicht für medizinische Zwecke gedacht.
+001EFDD2|1|Die Messungen hängen u. a. von der niedrigen Temperatur und der Hautdurchblutung ab.
+001ED2A2|1|99.0
+001EFDD2|1|Atmung
+001F8583|1|Puls
+001F8583|1|Wecker
+001F8583|1|SpO₂
+001F8583|1|Einstellungen
+001F8583|1|Wetter
+001F8583|1|Gerät hinzufügen
+001F8583|1|Statistiken
+001E421E|1|Bandanzeige löschen?
+001E421E|1|Um Änderungen zu speichern, wische auf der Bandanzeige nach rechts.
+001E421E|1|Zusammenfassung
+001E421E|1|Puls
+001E421E|1|Tempo
+001E421E|1|Schrittfrequenz
+001EFDD2|1|Details zur APP anzeigen
+001E421E|1|Geschwindigkeit
+001E421E|1|Schlagzahl
+001E421E|1|Seilspringen
+001E421E|1|Frequenz
+001E421E|1|SWOLF
+001E421E|1|Wandern
+001F2A8D|1|2:23.1
+001E421E|1|Züge
+001E421E|1|Statistiken
+001E421E|1|Stehen
+001E421E|1|Bewegung
+001E421E|1|Akku
+001E421E|1|Datum
+001E421E|1|UV
+001EFDD2|1|Synchronisieren
+001E421E|1|Synchronisation fehlgeschlagen
+001E421E|1|Fehler
+001E7D68|1|Entferne die Bandanzeigen und versuche es erneut
+001E421E|1|Änderungen speichern?
+001E421E|1|Einmal
+00201B93|1|Einmal
+001E421E|1|Mo
+001E421E|1|Di
+001E421E|1|Mi
+001E421E|1|Do
+001E421E|1|Fr
+001E421E|1|Sa
+001E421E|1|So
+00201B93|1| 
+00201B93|1|M
+00201B93|1|Di
+00201B93|1|Mi
+00201B93|1|Do
+00201B93|1|F
+00201B93|1|Sa
+00201B93|1|So
+00201B93|1|Täglich
+001F8583|1|Schlaf
+001F8583|1|Stoppuhr
+001F8583|1|Atmung
+001F8583|1|Zyklen
+001F8583|1|Stress
+001F8583|1|Training
+001E7D68|1|Zum Herunterladen scannen
+001F8583|1|Tel. koppeln?
+001E421E|1|Regulatorisches
+001EFDD2|1|Stehen
+001E421E|1|Schlummern
+001E421E|1|Alarm ist ausgeschaltet
+001E421E|1|Verpasst
+001FF6F2|1|%02lu:%02lu
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+001EFDD2|1| 
+0021803D|1|8000
+00206346|1|Schritt
+00206346|1|Schritt
+00206346|1|Schritt
+00206346|1|Schritt
+00206346|1|Schritte
+00206346|1|Schritte
+00206346|1|Schritte
+00206346|1|Schritte
+0021803D|1|500
+00206346|1|kcal
+00206346|1|kcal
+00206346|1|kcal
+00206346|1|kcal
+00206346|1|kcal
+00206346|1|kcal
+00206346|1|kcal
+0021803D|1|30
+00206346|1|Min.
+00206346|1|Min.
+00206346|1|Min.
+00206346|1|Min.
+00206346|1|Min.
+00206346|1|Min.
+00206346|1|Min.
+00206346|1|Min.
+0021803D|1|12
+00206346|1|Zug
+00206346|1|Zug
+00206346|1|Zug
+00206346|1|Zug
+00206346|1|Züge
+00206346|1|Züge
+00206346|1|Züge
+00206346|1|Züge
+00201B93|1|„Schritte“ zeigt die tägliche Schrittzahl an.
+00201B93|1|„Kalorien“ zeigt die Anzahl der durch Bewegung und Training verbrannten aktiven Kalorien an.
+00201B93|1|„Bewegen“ zeigt deine Zeit an moderater und intensiver Aktivität.
+00201B93|1|„Stehen“ zeigt die Stunden an, in denen du aufstehst und dich bewegst.
+001F6663|1|km/h
+001E421E|1|80%
+001E421E|1|85%
+001E421E|1|90%
+001E421E|1|Training
+001E421E|1|Kalorien
+001E421E|1|Schritte
+001E421E|1|Puls
+001E421E|1|Stress
+001E421E|1|Wecker
+001E421E|1|Wetter
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+00201B93|1|%u km
+0020F439|1|%u km
+0020F439|1|%u m
+0020F439|1|%u m
+0020F439|1|%u m
+0020F439|1|%u m
+0020F439|1|%u m
+0020F439|1|%u m
+0020F439|1|%u m
+00201B93|1|%u Min.
+00201B93|1|%u Min.
+00201B93|1|%u kcal
+0020F439|1|%u kcal
+0020F439|1|%u Min.
+00201B93|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+00201B93|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+0020F439|1|%u
+00205547|1| 
+001E421E|1|Züge
+001E421E|1|50 m
+0020F439|1|Leicht
+0020F439|1|VO₂ max
+0020F439|1|Aerobisch
+0020F439|1|Anaerobisch
+001E421E|1|%u km
+001E421E|1|%u km/h
+001E421E|1|%u BPM
+00201B93|1|Fertig
+001EA0BA|1|km
+001E421E|1|%
+00201B93|1|%d.%d km
+0020F439|1|%d'%02d"
+001E421E|1|Focus
+001E421E|1|Rest
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+001F2A8D|1|%02d:%02d
+001F5943|1|%02d:%02d
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Vor %d Min.
+0021C2DF|1|Gerade eben
+0021C2DF|1|Gerade eben
+0021C2DF|1|Vor %02d Min.
+0021C2DF|1|Vor %02d Min.
+0021C2DF|1|Vor %02d Min.
+0021C2DF|1|Vor %02d Min.
+0021C2DF|1|Messwert: %02d:%02d
+001EFDD2|1|Ruhepuls: %02d
+001EFDD2|1|Ruhepuls: --
+001E421E|1|30 Min.
+001EFDD2|1|  
+001ED2A2|1|  
+001ED2A2|1|  
+001EFDD2|1| 
+001E421E|1|40 BPM
+001E421E|1|45 BPM
+001E421E|1|50 BPM
+001E421E|1|110 BPM
+001E421E|1|120 BPM
+001E421E|1|130 BPM
+001E421E|1|140 BPM
+001E421E|1|150 BPM
+002232E6|1|Zeit ist abgelaufen
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Std.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+00206346|1|Bewege dich
+001EFDD2|1|Schüttle dich aus!
+001E421E|1|Die heutigen Aufsteh-Erinnerungen abschalten?
+00201B93|1|Aus
+00201B93|1|100 BPM
+00201B93|1|110 BPM
+00201B93|1|120 BPM
+00201B93|1|130 BPM
+00201B93|1|140 BPM
+00201B93|1|150 BPM
+00201B93|1|40 BPM
+00201B93|1|45 BPM
+00201B93|1|50 BPM
+00201B93|1|Ein
+00201B93|1|Aus
+00201B93|1|1 Min.
+00201B93|1|10 Min.
+00201B93|1|30 Min.
+00201B93|1|Autom.
+0022C2C9|1|%d%%
+001F8583|1|Aktivität
+001F8583|1|Mi AI
+001F8583|1|Karten
+001F8583|1|Benachrichtigungen
+001F8583|1|Ereignisse
+001F8583|1|Musik
+001F8583|1|Kamera
+001F8583|1|Timer
+001F8583|1|Taschenlampe
+001F8583|1|Telefon suchen
+001F8583|1|Hilfe
+0022AFE6|1|„Anheben zum Aufwachen“ ist aktiviert
+0022AFE6|1|„Anheben zum Aufwachen“ ist deaktiviert
+0022AFE6|1|BNS ist an
+0022AFE6|1|BNS ist aus
+001E421E|1|Zusammenfassung
+00201B93|1|Keine Daten
+001EFDD2|1|Details zur APP anzeigen
+0020A891|1|--
+00201B93|1|%d
+00201B93|1|%d
+00201B93|1|%d
+00201B93|1|%d
+00201B93|1|%d
+00201B93|1|%d
+00201B93|1|%d
+00201B93|1|%d–%d BPM
+001ED2A2|1|%d-%d
+001ED2A2|1|%02d:%02d-%02d:%02d
+0022D8B0|1|%d
+001F2A8D|1|%02d:%02d:%02d
+001F2A8D|1|:
+001F2A8D|1|%02d:%02d.%02d
+0021D4C3|1|%02d:%02d:%02d.%02d
+0022E0B2|1|%02d:%02d:%02d.%02d
+0022E0B2|1|%02d:%02d.%02d
+001E7D68|1|%02u-%02u %02u:%02u
+001F2A8D|1|%02u:%02u:%02u
+0021D4C3|1|%lu.%02lu
+001E7D68|1|km
+001E421E|1|Ziel
+0020F439|1|%u%%
+0020F439|1|Abgeschlossen
+0021D4C3|1|%lu
+0020F439|1|Ziel
+0020F439|1|Aktive kcal
+0021D4C3|1|%lu'%02lu''
+0020F439|1|Ø-Tempo
+0020F439|1|Schritte
+0020F439|1|Ø-BPM
+0020F439|1|Ø-SPM
+0020A891|1|%u'%02u''
+0021BC37|1|%02u:%02u
+0020A891|1|%u
+001EFDD2|1|Details zur APP anzeigen
+001EFDD2|1|Zurück
+0020F439|1|Ziel
+0020F439|1|Abgeschlossen
+0020F439|1|Ziel
+0020F439|1|Abgeschlossen
+0020F439|1|Ziel
+0020F439|1|Abgeschlossen
+0020F439|1|Ziel
+0020F439|1|Abgeschlossen
+0020F439|1|Ziel
+0020F439|1|Abgeschlossen
+0020F439|1|m
+0020F439|1|m
+0020F439|1|m
+0020F439|1|m
+0020F439|1|m
+0020F439|1|m
+0020F439|1|m
+0020F439|1|kcal
+0020F439|1|kcal
+0020F439|1|kcal
+0020F439|1|kcal
+0020F439|1|kcal
+0020F439|1|kcal
+0020F439|1|kcal
+0020F439|1|Bahn
+0020F439|1|Sprung
+0020F439|1|Zug
+0020F439|1|Bahn
+0020F439|1|Bahn
+0020F439|1|Bahn
+0020F439|1|Bahnen
+0020F439|1|Bahnen
+0020F439|1|Bahnen
+0020F439|1|Bahnen
+0020F439|1|Sprung
+0020F439|1|Sprung
+0020F439|1|Sprung
+0020F439|1|Sprung
+0020F439|1|Sprung
+0020F439|1|Sprung
+0020F439|1|Sprung
+0020F439|1|Zug
+0020F439|1|Zug
+0020F439|1|Zug
+0020F439|1|Züge
+0020F439|1|Züge
+0020F439|1|Züge
+0020F439|1|Züge
+001ED2A2|1|1 Min.
+0021BC37|1|%u
+001E421E|1|Heute keine Daten
+00201B93|1|Heute
+00201B93|1|Morgen
+00201B93|1|Aus
+001EFDD2|1|Weiter
+001EFDD2|1|Schalte Periodenvorhersagen in der APP an
+0020F439|1|Gerade eben
+0020F439|1|Vor %d Min.
+0020F439|1|Vor %d Min.
+0020F439|1|Vor %d Min.
+0020F439|1|Vor %d Min.
+0020F439|1|Vor %d Min.
+0020F439|1|Vor %d Min.
+0020F439|1|Vor %d Min.
+0020F439|1|%d:%02d
+0020F439|1|Gestern, %d:%02d
+0020F439|1|%02d/%02d %d:%02d
+001ED2A2|1|%d Benachrichtigungen
+001ED2A2|1|%d Benachrichtigungen
+001ED2A2|1|%d Benachrichtigungen
+001ED2A2|1|%d Benachrichtigungen
+001ED2A2|1|%d Benachrichtigungen
+001ED2A2|1|%d Benachrichtigungen
+001ED2A2|1|%d Benachrichtigungen
+001EFDD2|1|Löschen
+0021BC37|1|00:00
+0021BC37|1|12:00
+0021BC37|1|24:00
+00201B93|1|Ganztägig
+001EFDD2|1|Ganztags-Tracking ist ausgeschaltet.
+001EFDD2|1|Straffe das Band und versuche es erneut
+0021BC37|1|%02u:%02u
+0021D4C3|1|%02u:%02u-%02u:%02u
+001E421E|1|Warnungen
+00201B93|1|Dein Band warnt dich, wenn es Messwerte unter dem eingestellten Wert feststellt. Du kannst dir weitere Daten in der APP ansehen. Wenn du dich nicht wohlfühlst, solltest du einen Arzt aufsuchen.
+001EFDD2|1|Nicht bewegen
+001EFDD2|1|50 % fertig
+001EFDD2|1|Kalibrierung läuft
+001EFDD2|1|Bewege dich nicht während der Messung
+001EFDD2|1|Straffe das Band und versuche es erneut
+001EFDD2|1|Straffe das Band und versuche es erneut
+0022AFE6|1|m
+001EFDD2|1|Verbinde mit der APP, um das Wetter zu aktualisieren
+001F6663|1|Lege Standorte in der APP fest
+00217059|1|%d
+001E421E|1|Einen Moment
+00201B93|1|Gut
+00201B93|1|Mäßig
+00201B93|1|Leichte Verschmutzung
+00201B93|1|Ungesund
+00201B93|1|Gefährlich
+00201B93|1|Riskant
+001ED2A2|1|Gut
+001ED2A2|1|Mäßig
+001ED2A2|1|Leichte Verschmutzung
+001ED2A2|1|Ungesund
+001ED2A2|1|Gefährlich
+001ED2A2|1|Riskant
+001E7D68|1|Wechselnde Winde
+001E7D68|1|Wirbelwind
+001E7D68|1|N-Wind
+001E7D68|1|NO-Wind
+001E7D68|1|O-Wind
+001E7D68|1|SO-Wind
+001E7D68|1|S-Wind
+001E7D68|1|SW-Wind
+001E7D68|1|W-Wind
+001E7D68|1|NW-Wind
+001E421E|1|Wolkenlos
+001E421E|1|Bewölkt
+001E421E|1|Bedeckter Himmel
+001E421E|1|Schauers
+001E421E|1|Gewitter
+001E421E|1|Hagel
+001E421E|1|Graupel
+001E421E|1|Leichter Regen
+001E421E|1|Mäßiger Regen
+001E421E|1|Starker Regen
+001E421E|1|Regensturm
+001E421E|1|Platzregen
+001E421E|1|Starker Regensturm
+001E421E|1|Schneeschauer
+001E421E|1|Leichter Schneefall
+001E421E|1|Mäßiger Schneefall
+001E421E|1|Starker Schneefall
+001E421E|1|Schneesturm
+001E421E|1|Nebel
+001E421E|1|Eisregen
+001E421E|1|Sandsturm
+001E421E|1|Leichter bis mäßiger Regen
+001E421E|1|Mäßiger bis starker Regen
+001E421E|1|Starker Regen bis Regensturm
+001E421E|1|Regensturm bis Platzregen
+001E421E|1|Platzregen bis starker Regensturm
+001E421E|1|Leichter bis mäßiger Schneefall
+001E421E|1|Mäßiger bis starker Schneefall
+001E421E|1|Starker Schneefall bis Schneesturm
+001E421E|1|Staub
+001E421E|1|Windig
+001E421E|1|Starker Sandsturm
+001E421E|1|Nebel
+001E421E|1|Dichter Nebel
+001E421E|1|Leichter Dunst
+001E421E|1|Mäßiger Dunst
+001E421E|1|Starker Dunst
+001E421E|1|Massiver Dunst
+001E421E|1|Nebel
+001E421E|1|Sehr starker Nebel
+001E421E|1|Kein Bericht
+001E421E|1|Regen
+001E421E|1|Schnee
+001E7D68|1|Heute
+001E7D68|1|Mo
+001E7D68|1|Di
+001E7D68|1|Mi
+001E7D68|1|Do
+001E7D68|1|Fr
+001E7D68|1|Sa
+001E7D68|1|So
+0021803D|1|%d%%
+0021803D|1|%d
+001E7D68|1|UVI
+001E7D68|1|Luftfeuchtigkeit
+002259A0|1|%02d:%02d
+0022EEEB|1|%02d:%02d
+001E7D68|1|Schlafmodus aus um %02d:%02d
+001E421E|1|Unregelmäßige BPM erfordern eine 1-minütige Frequenz. Fortfahren?
+0020F439|1|Max-BPM
+0020F439|1|Training
+0020F439|1|Rest
+0020F439|1|Sätze
+0020F439|1|Züge
+0020F439|1|Sprünge
+0020F439|1|Geschwindigkeit
+0020F439|1|Schlagzahl
+0020F439|1|Bahnen
+0020F439|1|Hauptstil
+0020F439|1|Ø-SWOLF
+0020F439|1|Ø-SPM
+0021D4C3|1|%02lu:%02lu:%02lu
+00212D49|1|Brustschwimmen
+00212D49|1|Lagen
+00212D49|1|Freistil
+00212D49|1|Rückenschwimmen
+00212D49|1|Schmetterlingsschwimmen
+0021D4C3|1|%lu.%lu
+00201B93|1|Max.
+00201B93|1|Max.
+00221FD5|1|%u
+001E421E|1|Sätze
+001E421E|1|On
+001EFDD2|1|Anheben zum Aufwachen schaltet sich aus, wenn du schlafen gehst oder dein Band abnimmst.
+0022FEE5|1|℃
+0022FEE5|1|℉
+00205547|1|%d:%02d
+002259A0|1|%u'%02u''
+0021578D|1|%u'%02u''
+001EFDD2|1|Ziel: %u'%02u''
+002232E6|1|%u km/h
+001EFDD2|1|Ziel: %u km/h
+0021578D|1|%u
+001EFDD2|1|Ziel-BPM: %d-%d
+001ED2A2|1|%d
+001EFDD2|1|Threshold: %d BPM
+0021578D|1|--
+0021D4C3|1|%d℉/%d℉
+001EFDD2|1|Verstanden
+001FF6F2|1|%u
+00220FCD|1|%%
+001F8583|1|Akku unter %u%%. Jetzt aufladen.
+00201B93|1|VO₂ max
+00201B93|1|Anaerobisch
+00201B93|1|Intensiv
+00201B93|1|Aerobisch
+00201B93|1|Leicht
+0021BC37|1|%02lu:%02lu:%02lu
+001E421E|1|%02lu:%02lu:%02lu
+00205547|1|BPM
+0022E0B2|1|%u
+00212D49|1|%d℃/%d℃
+00212D49|1|%d℉/%d℉
+001EFDD2|1|%d℃/%d℃
+001EFDD2|1|%d℉/%d℉
+00212D49|1|℃
+00212D49|1|℉
+00212D49|1|-
+001EFDD2|1|-
+001EFDD2|1|Zyklus
+001EFDD2|1|Ruderer
+001E421E|1|Verbinde mit der APP und versuche es erneut
+001E421E|1|Anfänger
+001E421E|1|Ausdauer
+001E421E|1|Intervall
+001E421E|1|Einfaches Laufen/Gehen
+001E421E|1|Fortgeschrittenes Laufen/Gehen
+001E421E|1|Einfaches Joggen
+001E421E|1|Einfach
+001E421E|1|Fortgeschritten
+001E421E|1|MIIT
+001E421E|1|Einfach
+001E421E|1|Fortgeschritten
+001E421E|1|Einfach
+001E421E|1|Fortgeschritten
+001F6663|1|Kombiniert Gehen und Joggen in Intervallen.
+001F6663|1|Kombiniert Gehen und Joggen in Intervallen.
+001F6663|1|Joggen mit niedriger bis mittlerer Intensität.
+001F6663|1|Kürzeres Joggen für Fettverbrennung und Gewichtsverlust.
+001F6663|1|Langes Joggen mit niedriger bis mittlerer Intensität zur Fettverbrennung.
+001F6663|1|Intervalltraining mit mittlerer bis hoher Intensität.
+001F6663|1|Mittellanges Joggen für die Ausdauer.
+001F6663|1|Längeres Joggen für die Ausdauer.
+001F6663|1|Kürzere Intervalltrainings für die Gesundheit von Herz und Lunge.
+001F6663|1|Längeres Intervalltraining für die Gesundheit von Herz und Lunge.
+001E421E|1|%02u/%02u
+001E421E|1|Jetzt
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|In %u min
+001E421E|1|Überfällig
+001EFDD2|1|Mo 
+001EFDD2|1|Di 
+001EFDD2|1|Mi 
+001EFDD2|1|Do 
+001EFDD2|1|Fr 
+001EFDD2|1|Sa 
+001EFDD2|1|So 
+001EFDD2|1|%u/%u 
+001EFDD2|1|%02u:%02u 
+001EFDD2|1|Heute 
+001EFDD2|1|Morgen 
+002259A0|1|02d%:02d%
+0020458B|1|Km voraus
+0021578D|1|--'--"
+001F2A8D|1|--'--"
+001EFDD2|1|%02u:%02u-
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Std.
+001E421E|1|In %u Tag
+001E421E|1|In %u Tag
+001E421E|1|In %u Tag
+001E421E|1|In %u Tag
+001E421E|1|In %u Tagen
+001E421E|1|In %u Tagen
+001E421E|1|In %u Tagen
+001E421E|1|In %u Tagen
+00206346|1|Schwacher Akku
+001F6663|1|Laufen
+001E7D68|1|%d Min.
+001E7D68|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+001F8583|1|Aktualisierung wird vorbereitet
+001F8583|1|Aktualisierung fehlgeschlagen.\nBitte erneut versuchen.
+0022E0B2|1|%
+001EFDD2|1|Zeit
+001F6663|1|Entspannt
+001F6663|1|Mild
+001F6663|1|Ernst
+001EFDD2|1|Ganztags-Tracking ist ausgeschaltet.
+001EFDD2|1|%02u:%02u AM–
+001EFDD2|1|%02u:%02u PM–
+001EFDD2|1|%02u:%02u AM
+001EFDD2|1|%02u:%02u PM
+001F8583|1|Ich rufe dich später an.
+001F8583|1|Kann jetzt nicht reden. Was gibt's?
+001F8583|1|Kann jetzt nicht reden. Rufst du mich später an?
+0022FF76|1|--
+001F2A8D|1|%u%%
+00201B93|1|Ziel
+001F2A8D|1|%u
+001F8583|1|km
+001F8583|1|kcal
+001F8583|1|bahn
+001F8583|1|bahn
+001F8583|1|bahn
+001F8583|1|bahnen
+001F8583|1|bahnen
+001F8583|1|bahnen
+001F8583|1|bahnen
+001F8583|1|Zug
+001F8583|1|Zug
+001F8583|1|Zug
+001F8583|1|Züge
+001F8583|1|Züge
+001F8583|1|Züge
+001F8583|1|Züge
+001F8583|1|Sprung
+001F8583|1|Sprung
+001F8583|1|Sprung
+001F8583|1|Sprünge
+001F8583|1|Sprünge
+001F8583|1|Sprünge
+001F8583|1|Sprünge
+0021F681|1|Neuer Rekord!
+001F2A8D|1|%02u:%02u:%02u
+0022E0B2|1|%lu.%lu.%lu
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %lu.%lu km
+00201B93|1|Ziel: %02u:%02u:%02u
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u kcal
+00201B93|1|Ziel: %u Länge
+00201B93|1|Ziel: %u Länge
+00201B93|1|Ziel: %u Länge
+00201B93|1|Ziel: %u Länge
+00201B93|1|Ziel: %u Längen
+00201B93|1|Ziel: %u Längen
+00201B93|1|Ziel: %u Längen
+00201B93|1|Ziel: %u Längen
+00201B93|1|Ziel: %u Zug
+00201B93|1|Ziel: %u Zug
+00201B93|1|Ziel: %u Zug
+00201B93|1|Ziel: %u Züge
+00201B93|1|Ziel: %u Züge
+00201B93|1|Ziel: %u Züge
+00201B93|1|Ziel: %u Züge
+00201B93|1|Ziel: %u Sprung
+00201B93|1|Ziel: %u Sprung
+00201B93|1|Ziel: %u Sprung
+00201B93|1|Ziel: %u Sprünge
+00201B93|1|Ziel: %u Sprünge
+00201B93|1|Ziel: %u Sprünge
+00201B93|1|Ziel: %u Sprünge
+001EFDD2|1|Dein Band warnt dich, wenn dein Puls über einen bestimmten Wert steigt. Bei Stress steigt dein Puls an.
+001EFDD2|1|Dein Band warnt dich, wenn dein Puls unter einen bestimmten Wert sinkt. Dein Puls verlangsamt sich im Schlaf.\nWenn du dich nicht wohl fühlst, solltest du einen Arzt aufsuchen.
+001ED2A2|1|Hohe HF
+001ED2A2|1|Niedrige HF
+001E421E|1|Mehr erfahren
+001ED2A2|1|Joggen
+001ED2A2|1|Laufen
+001ED2A2|1|Sprinten
+001F2A8D|1|%d
+001FD009|1|Joggen
+001FD009|1|Laufen
+001FD009|1|Sprinten
+001F6663|1|Laufen
+001F6663|1|Sprinten
+001F2A8D|1|%02d
+0021578D|1|%02d
+0021578D|1|:
+001EFDD2|1|Details zur App anzeigen
+001E421E|1|Du hast es geschafft!
+001EFDD2|1|Fertig
+001EFDD2|1|Fortsetzen (%lus)
+001E421E|1|Training
+00201B93|1|Zeit
+00201B93|1|Puls
+0022C2C9|1|%lu.%02lu
+0022FFB8|1|Autom.
+001EA0BA|1|Autom.
+001E421E|1|Erfolgreich festgelegt
+001EFDD2|1|Verstanden
+001E421E|1|Überhitzung. Ausschalten.
+0020F439|1|ø
+001ED2A2|1|Schwacher Akku
+001EFDD2|1|AM
+001EFDD2|1|PM
+0021D4C3|1|%lu:%02lu
+0020F439|1|%u,%02u km
+0020F439|1|%u,%02u km
+0020F439|1|%u,%02u km
+001EFDD2|1|DND schaltet sich ein, wenn du schlafen gehst oder dein Band abnimmst.
+001E7D68|1|Benachrichtigen, wenn die SpO₂-Werte während der Wachzeit unter dem eingestellten Wert liegen
+0021C2DF|1|%d:%02d AM
+0021C2DF|1|%d:%02d PM
+0021C2DF|1|Gestern, %d:%02d AM
+0021C2DF|1|Gestern, %d:%02d PM
+0021C2DF|1|%02d/%02d, %d:%02d AM
+0021C2DF|1|%02d/%02d %d:%02d PM
+001F8583|1|Laufen
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u kcal
+001F6663|1|Ziel: %u Schritt
+001F6663|1|Ziel: %u Schritt
+001F6663|1|Ziel: %u Schritt
+001F6663|1|Ziel: %u Schritte
+001F6663|1|Ziel: %u Schritte
+001F6663|1|Ziel: %u Schritte
+001F6663|1|Ziel: %u Schritte
+001F6663|1|Ziel: %u Zug
+001F6663|1|Ziel: %u Zug
+001F6663|1|Ziel: %u Zug
+001F6663|1|Ziel: %u Züge
+001F6663|1|Ziel: %u Züge
+001F6663|1|Ziel: %u Züge
+001F6663|1|Ziel: %u Züge
+001F6663|1|Ziel: %u min
+001F6663|1|Ziel: %u min
+001F6663|1|Ziel: %u min
+001F6663|1|Ziel: %u min
+001F6663|1|Ziel: %u min
+001F6663|1|Ziel: %u min
+001F6663|1|Ziel: %u min
+002110A2|1|0123456789•
+0020F439|1|Heute
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Periode in %uT
+001E421E|1|Fruchtbarkeit in %u Tag
+001E421E|1|Fruchtbarkeit in %u Tag
+001E421E|1|Fruchtbarkeit in %u Tag
+001E421E|1|Fruchtbarkeit in %u Tagen
+001E421E|1|Fruchtbarkeit in %u Tagen
+001E421E|1|Fruchtbarkeit in %u Tagen
+001E421E|1|Fruchtbarkeit in %u Tagen
+001F6663|1|Scannen um Hilfe anzuzeigen
+0020F439|1|Gestern
+0020F439|1|Vor 2T
+001EFDD2|1|Band festziehen
+001E421E|1|Mehr erfahren
+00212D49|1|Unbekannt
+00206346|1|Einfaches Laufen/Gehen
+00206346|1|Fortgeschrittenes Laufen/Gehen
+00206346|1|Einfaches Joggen
+00206346|1|Einfach
+00206346|1|Fortgeschritten
+00206346|1|MIIT
+00206346|1|Einfach
+00206346|1|Fortgeschritten
+00206346|1|Einfach
+00206346|1|Fortgeschritten
+00206346|1|Ernst
+001EFDD2|1|Atmung
+001EFDD2|1|Gehen
+001E421E|1|Deinem Band erlauben, das Telefon zu entsperren?
+001E421E|1|Erlaubt
+001E421E|1|Keine Erlaubnis möglich
+001E421E|1|Hilfe
+001E421E|1|Regulatorisches
+001ED2A2|1|Modell
+001ED2A2|1|CMIIT ID
+0020458B|1|Jan
+0020458B|1|Feb
+0020458B|1|Mär
+0020458B|1|Apr
+0020458B|1|Mai
+0020458B|1|Jun
+0020458B|1|Jul
+0020458B|1|Aug
+0020458B|1|Sep
+0020458B|1|Okt
+0020458B|1|Nov
+0020458B|1|Dez
+00201B93|1|Periode in 1T
+00201B93|1|Periode in 2T
+00201B93|1|Periode in %uT
+00201B93|1|Periode in %uT
+00201B93|1|Periode in %uT
+00201B93|1|Periode in %uT
+00201B93|1|Periode in %uT
+00201B93|1|Periode in %uT
+00201B93|1|Periode in %uT
+00201B93|1|Eisprung in 1T
+00201B93|1|Eisprung in 2T
+00201B93|1|Eisprung in %uT
+00201B93|1|Eisprung in %uT
+00201B93|1|Eisprung in %uT
+00201B93|1|Eisprung in %uT
+00201B93|1|Eisprung in %uT
+00201B93|1|Eisprung in %uT
+00201B93|1|Eisprung in %uT
+001E421E|1|Ein/Aus
+001E421E|1|Ein/Aus
+00206346|1|Verpasster Anruf
+001EFDD2|1|Verstanden
+001EFDD2|1|Der APP erlauben, im Hintergrund zu laufen
+001EFDD2|1|Richte Amazon Alexa in der APP ein
+001EFDD2|1|Melde dich in der APP bei deinem Amazon-Konto an
+001EFDD2|1|Du kannst kein Video oder Audio auf deinem Band abspielen
+001EFDD2|1|Verbinden…
+001EFDD2|1|Ich höre…
+001EFDD2|1|Ich denke nach…
+001EFDD2|1|Stelle einen Timer für 2 Minuten ein
+001EFDD2|1|Wie ist das Wetter?
+001E7D68|1|%02d:%02d-%02d:%02d
+001E7D68|1|%02d:%02d-%02d:%02d
+00205547|1|Entspannt
+00205547|1|Mild
+00205547|1|Ernst
+00206346|1|Moderat
+001E421E|1|Täglich
+001E421E|1|Verbinden fehlgeschlagen
+001E421E|1|Netzwerkfehler
+001E421E|1|Einrichtung erforderlich
+001E421E|1|Anmelden
+0021C2DF|1|Züge
+001EFDD2|1|Durchschn.
+00205547|1|BPM
+00205547|1|km/h
+00205547|1|JPM
+001E421E|1|Mehr erfahren
+001EFDD2|1|Niedriger Akkustand. Taschenlampe ist aus.
+001EFDD2|1|Schließen
+0020A891|1|%.1f
+00221FD5|1|%.1f
+0020A891|1|%u:%02u'%02u"
+00221FD5|1|%u:%02u'%02u"
+0021D4C3|1|%u:%02u'%02u"
+001F6663|1|Ton abspielen
+001ED2A2|1|PINs stimmen nicht überein
+001ED2A2|1|PIN eingeben
+001ED2A2|1|Neue PIN
+001EFDD2|1|Verbinden fehlgeschlagen
+001EFDD2|1|Netzwerkfehler
+001EFDD2|1|Einrichtung erforderlich
+001EFDD2|1|Anmelden
+001EFDD2|1|Nicht verfügbar
+002110A2|1|Neue PIN
+002110A2|1|PIN bestätigen
+002110A2|1|   PINs stimmen nicht überein  
+002110A2|1|PIN eingeben
+001EA0BA|1|%d
+0022FFB8|1|%d
+00201B93|1|%dStd. %dMin.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Std.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+00201B93|1|%d Min.
+001F8583|1|%d'%02d"
+0020F439|1|%02u/%02u
+0020F439|1|%02u:%02u
+00212D49|1|--℃/--℃
+00212D49|1|--℉/--℉
+001EFDD2|1|--℃/--℃
+001EFDD2|1|--℉/--℉
+00201B93|1|Ziel erreicht
+00201B93|1|Ziel erreicht
+00201B93|1|Bewegungsziel erreicht
+00201B93|1|Standziel erreicht
+00201B93|1|Schrittziel erreicht
+00201B93|1|Kalorienziel erreicht
+00201B93|1|Ziel erreicht
+00201B93|1|Ziel erreicht
+00201B93|1|Alle Ziele erreicht
+00201B93|1|Gut gemacht
+00201B93|1|Ziele erreicht
+00201B93|1|Ziele erreicht
+00205547|1|km/h
+00205547|1|/km
+001E421E|1|AM
+001E421E|1|PM
+001E421E|1|Trainingsstrecke ist zur Aufzeichnung zu kurz.
+001ED2A2|1|(No title)
+00201B93|1|PIN vergessen?
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in %d Sek.
+001F8583|1|Erneut versuchen in 5 Min.
+001F8583|1|Erneut versuchen in 10 Min.
+001F8583|1|PIN in der App zurücksetzen
+00201B93|1|Verstanden
+002110A2|1|PIN nötig zum Freischalten
+00201B93|1|%d Benachrichtigung
+00201B93|1|%d Benachrichtigung
+00201B93|1|%d Benachrichtigung
+00201B93|1|%d Benachrichtigungen
+00201B93|1|%d Benachrichtigungen
+00201B93|1|%d Benachrichtigungen
+00201B93|1|%d Benachrichtigungen
+002324C3|1|--:--
+001E421E|1|Alexa
+001F8583|1|Nicht verfügbar
+00201B93|1|Amazon Alexa ist in der Region deines Kontos nicht verfügbar
+00201B93|1|Überprüfe deine Netzwerkverbindung
+001E421E|1|Was hast du gesagt?
+00201B93|1|Beginne durch sprechen
+001F6663|1|Mo
+001F6663|1|Di
+001F6663|1|Mi
+001F6663|1|Do
+001F6663|1|Fr
+001F6663|1|Sa
+001F6663|1|So
+0020F439|1|%u km/h
+001E421E|1|Koppeln
+001F8583|1|Koppeln fehlgeschlagen
+002110A2|1|PIN nötig zum Freischalten
+002110A2|1|PIN nötig zum Freischalten
+0021C2DF|1|%d℃/%d℃
+0021C2DF|1|%d℉/%d℉
+00201B93|1|%d
+0022C2C9|1|%02d:%02d.%02d
+001F8583|1|m
+00201B93|1|Verbinde dein Band mit App
+0021C2DF|1|-
+001EFDD2|1|Details zur App anzeigen
+001E421E|1|Contact customer support to get your device repaired
+001E7D68|1|Verfolge deine Herzfrequenz rund um die Uhr
+001F8583|1|PIN festgelegt
+001E7D68|1|Lass dich an Beginn und Ende eines Lauf-, Geh- oder Rudertrainings erinnern.
+001E421E|1|Laden
+0020458B|1|.
+00205547|1|.
+0021BC37|1|.
+002324C3|1|.
+0020F439|1|.
+0021C2DF|1|.
+0023253E|1|.
+00232562|1|.
+001E7D68|1|.
+001F6663|1|.
+0023258D|1|.
+0022D8B0|1|.
+00201B93|1|.
+001EFDD2|1|.
+00221FD5|1|.
+0022FEE5|1|.
+0022FF76|1|.
+0022AFE6|1|.
+002325B3|1|.
+00222A9B|1|.
+002110A2|1|.
+001ED2A2|1|.
+002325DE|1|.
+00232609|1|.
+001F8583|1|.
+001E421E|1|.
+0022E0B2|1|.
+00220FCD|1|.
+00232637|1|.
+00232662|1|.
+001F5943|1|.
+00232686|1|.
+0021F681|1|.
+00212D49|1|.
+0022EEEB|1|.
+00217059|1|.
+002326BE|1|.
+00206346|1|.
+0022C2C9|1|.
+0021803D|1|.
+00232E87|1|.
+002232E6|1|.
+00232EBB|1|.
+0021578D|1|.
+002206EA|1|.
+0022FFB8|1|.
+00229366|1|.
+0021D4C3|1|.
+002345E7|1|.
+001EA0BA|1|.
+0020A891|1|.
+001FF6F2|1|.
+001E421E|1|Std.
+001E421E|1|m
+001EFDD2|1|Heute nicht anzeigen
+001F8583|1|Nicht verfügbar
+00201B93|1|Amazon Alexa ist in der Region deines Kontos nicht verfügbar
+001EFDD2|1|Ruderer
+001EFDD2|1|Crosstrainer
+001EFDD2|1|Seilspringen
+001E421E|1|Gut gemacht
+00201B93|1| 
+00201B93|1| 
+00201B93|1|Ziel
+00201B93|1|Verbleibend
+00201B93|1|Ziel
+00201B93|1|Verbleibend
+00201B93|1|Ziellängen
+00201B93|1|Verbleibend
+00201B93|1|Zielsprünge
+00201B93|1|Verbleibend
+001E421E|1|Zeit
+001E421E|1|Distanz
+001E421E|1|Bahnen
+001E421E|1|Züge
+001E421E|1|Sprünge
+00205547|1| 
+0020F439|1|%d:%02d
+0020F439|1|%d m
+0020F439|1|%dm %02dSek.
+001E421E|1|Apps
+001ED2A2|1|Fitness
+001ED2A2|1|Grundlagen
+001ED2A2|1|Wetter
+001ED2A2|1|Werkzeuge
+001E421E|1|Stoppuhr
+001E421E|1|Timer
+001E421E|1|Kamera
+001E421E|1|Karten
+001F8583|1|Die Trainingszeit ist zu kurz, um sie aufzuzeichnen.
+0023461F|1|Stoppuhr
+0023461F|1|Timer
+0022FFB8|1|%d℃
+0022FFB8|1|%d℉
+0022FFB8|1|-
+0022FFB8|1|--℃
+0022FFB8|1|--℉
+001EFDD2|1|Einen Moment
+00212D49|1|Atmung
+0022FFB8|1|--
+001E421E|1|Auto
+001E421E|1|Benutzerdefiniert
+0022FFB8|1|%d%%
+001EFDD2|1|Einen Moment
+001EFDD2|1|Spielt nicht
+001EFDD2|1|Getrennt
+0020458B|1|Für Barcode nach oben wischen
+0020458B|1|Für QR-Code nach unten wischen
+0023461F|1|Ruderer
+0023461F|1|Gehen
+0023461F|1|HIIT
+0023461F|1|Radfahren im Freien
+0023461F|1|Drinnen Radfahren
+0023461F|1|Seilspringen
+0023461F|1|Trekking
+0023461F|1|Wandern
+0023461F|1|Crosstrainer
+0023461F|1|Freien
+0023461F|1|Beckenschwimmen
+0023461F|1|Laufband
+0023461F|1|Trail-Lauf
+0023461F|1|Freistil
+00232EBB|1|%lu
+00229366|1|%lu
+001EFDD2|1|Keine Daten
+0022FFB8|1|--
+001EFDD2|1|Min
+001E421E|1|SpO₂
+00201B93|1|Du hast gestern dein Ziel erreicht. Bleib auch heute dran!
+00201B93|1|Du hast gestern 2 von 3 Zielen erreicht. Du schaffst es!
+00201B93|1|Du hast gestern deine Ziele nicht erreicht. Jeder Tag zählt!
+00201B93|1|Deine Ziele sind zum Greifen nah - Heute ist ein neuer Tag!
+00201B93|1|Du bist nur 1000 Schritte von deinem Ziel entfernt.
+00201B93|1|Du bist nur 50 kcal von deinem Ziel entfernt.
+00201B93|1|Es ist immer noch Zeit, das heutige Ziel zu erreichen, mach weiter!
+00201B93|1|Steh heute zweimal mehr auf, um dein Ziel zu erreichen.
+00201B93|1|Steh heute noch einmal auf, um dein Ziel zu erreichen.
+00201B93|1|Du hast gestern dein Ziel erreicht. Bleib auch heute dran!
+00201B93|1|Du hast gestern 2 von 3 Zielen erreicht. Du schaffst es!
+00201B93|1|Du hast gestern deine Ziele nicht erreicht. Jeder Tag zählt!
+00201B93|1|Deine Ziele sind zum Greifen nah - Heute ist ein neuer Tag!
+00201B93|1|Du bist nur 1000 Schritte von deinem Ziel entfernt.
+00201B93|1|Du bist nur 50 kcal von deinem Ziel entfernt.
+00201B93|1|Du hast dein Ziel fast erreicht, mach weiter so!
+00201B93|1|Steh heute zweimal mehr auf, um dein Ziel zu erreichen.
+00201B93|1|Steh heute noch einmal auf, um dein Ziel zu erreichen.
+002326BE|1|Ziel erreicht!
+001F8583|1|Du schaffst es!
+001F8583|1|Statistiken
+0020F439|1|Benutzerdefiniert
+001F8583|1|Koppeln fehlgeschlagen
+001E7D68|1|Erneut versuchen
+00201B93|1|Koppeln
+001F8583|1|Bestätige auf deinem Telefon
+001F8583|1|Koppeln...
+001F8583|1|Gekoppelt
+001E7D68|1|Zum Herunterladen der App scannen
+001E7D68|1|Bestätige auf deinem Telefon
+002363B3|1|繁體中文
+001F8583|1|English
+001F8583|1|Deutsch
+00236CBA|1|한국어
+00237287|1|עברית
+00237657|1|ไทย
+0023788B|1|日本語
+00237EBE|1|العربية
+001F8583|1|Italiano
+001F8583|1|Français
+001F8583|1|Español
+001F8583|1|Polski
+001F8583|1|Українська
+001F8583|1|Čeština
+001F8583|1|Русский
+001F8583|1|Nederlands
+001F8583|1|Português PT
+001F8583|1|Türkçe
+001F8583|1|Română
+001F8583|1|Eλληνικά
+001F8583|1|Português BR
+001F8583|1|Indonesia
+001F8583|1|Tiếng Việt
+001F8583|1|Norsk bokmål
+001F8583|1|Suomi
+001F8583|1|Svenska
+001F8583|1|Dansk
+0020F439|1|Aus
+0020F439|1|%d Sekunde
+0020F439|1|%d Sekunde
+0020F439|1|%d Sekunde
+0020F439|1|%d Sekunden
+0020F439|1|%d Sekunden
+0020F439|1|%d Sekunden
+0020F439|1|%d Sekunden
+001EFDD2|1|%u/%u/%u 
+001ED2A2|1|Xiaomi Smart Band 7 Pro
+001EFDD2|1|OK
+002110A2|1|If the number of words is too long, please check it on the APP side
+001E421E|1|Snowboarden
+001E421E|1|Skifahren
+00206346|1|Snowboarden
+00206346|1|Skifahren
+001E7D68|1|Benutzerdefiniert
+001E421E|1|Syncing
+001F8583|1|Preparing update
+0020F439|1|VO₂ max
+001E7D68|1|Hoch
