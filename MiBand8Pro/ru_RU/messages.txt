@@ -1,0 +1,2055 @@
+﻿[]: Project-Id-Version: MIUI Watch\nLast-Translator: Automatically generated\nLanguage-Team: English, United States\nLanguage: en_US\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n
+[%.*fcnt/min.sport]: %.*f уд
+[%.*fgroup.sport]: %.*f set
+[%.*fkcal.sport]: %.*f ккал
+[%.*fkm.sport]: %.*f км
+[%.*fkm_distance_calibration.sport]: Дистанция этого пробега: %.*f km. Calibrate?
+[%.*fkm_per_hr.sport]: %.*f км/ч
+[%.*fm.sport]: %.*f м
+[%.*fnumber.sport]: %.*f прыжок
+[%.*ftime.sport]: %.*f удар
+[%.*ftrip.sport]: %.*f длина
+[%02d%02d_update_am_time.sleep]: Обновлено: %02d:%02dAM
+[%02d%02d_update_pm_time.sleep]: Обновлено: %02d:%02dPM
+[%02d%02d_update_time.sleep]: Обновлено: %02d:%02d
+[%02d:%02dAMexit_sleep_mode.reminder]: Выключение спящего режима %02d:%02d AM
+[%02d:%02dPMexit_sleep_mode.reminder]: Выключение спящего режима %02d:%02d PM
+[%02d:%02d_update.health]: Обновлено: %02d:%02d
+[%02d:%02d_update.pressure]: Обновлено: %02d:%02d
+[%02d:%02dexit_sleep_mode.reminder]: Выключение спящего режима %02d:%02d
+[%1$s_ampm_%2$s_time_combine.common]: %1$s%2$s
+[%2d_target_hour.sleep]: Цель: %2d hr
+[%2d_target_hours.sleep]: Цель: %2d hrs
+[%d%2d_12AMend.calendar]: Окончание %1$d:%2$02d AM
+[%d%2d_12PMend.calendar]: Окончание %1$d:%2$02d PM
+[%d%2d_24end.calendar]: Окончание %1$d:%2$02d
+[%d%d%dyear_month_day.todo]: %2$d/%3$d/%1$d
+[%d%d_target_time.sleep]: Цельl: %dhrs %dmins
+[%d%d_time_sec.sleep]: %dhrs %dmins
+[%d%dmonth_day.common]: %1$d月%2$d日
+[%d%dmonth_day.todo]: %1$d/%2$d
+[%d%dmonth_day_slash.common]: %1$02d/%2$02d
+[%d%dravailable.settings]: Время жизни батареи: %dd %dh
+[%d%dyear_month.calendar]: %2$d/%1$d
+[%d:%d.worldclock]: %d:%d
+[%d_cnt/min_just.health]: %d уд (сейчас)
+[%d_hour_sec.sleep]: %d ч
+[%d_message.notify]: %d уведомление
+[%d_min_before.health]: %d мин назад
+[%d_min_before.notify]: %d мин назад
+[%d_min_sec.sleep]: %d мин
+[%d_mins_before.pressure]: %d мин назад
+[%d_unread_message.notify]: %d новое уведомление
+[%dcalories_unit.act]: ккал
+[%dcnt/min.common]: %d次/分钟
+[%dcnt/min.sport]: %d уд
+[%dday_later.wm]: In %d день
+[%dfull_hour.common]: %d小时
+[%dfull_hour.hr]: %d ч
+[%dfull_hour.reminder]: %dhr
+[%dfull_hour.sport]: %d ч
+[%dfull_min.common]: %d分钟
+[%dfull_min.hr]: %d мин
+[%dfull_min.reminder]: %dmin
+[%dfull_min.settings]: %d мин
+[%dfull_min_28.settings]: %d мин
+[%dhour.common]: %d时
+[%dhour.worldclock]: %dhr
+[%dintensity_unit.act]: мин
+[%ditem.todo]: %d item
+[%ditem_in_category.sport]: %d item
+[%ditem_schedules.calendar]: %d событие
+[%dmin.common]: %d分
+[%dmin.vitality]: %d мин
+[%dmin_retry.common]: Повторить в %d мин
+[%dmin_training.breath]: %d-min дыхание
+[%dmin_warmup.sport]: %d мин
+[%dminute.sport]: %d мин
+[%dpercent.common]: %d%%
+[%dsec.common]: %d秒
+[%dsec.settings]: %d сек
+[%dsec_28.settings]: %d сек
+[%dsec_course_resume.sport]: Продолжить (%ds)
+[%dsec_retry.common]: Повторить в %ds
+[%dsec_warmup.sport]: %d сек
+[%dstand_unit.act]: ч
+[%dstep_unit.act]: шаг
+[%dtime/minute.health]: %d уд
+[%dtime_num.slep]: %d время
+[%dtime_warmup.sport]: %d rep
+[%s%stime_combine.common]: %1$s%2$s
+[%s%stime_combine.reminder]: %1$s%2$s
+[+%d:%ds.worldclock]: +%d:%d
+[AQI]: AQI
+[Apr.common]: Апрель
+[Apr_n.common]: Апрель
+[Aug.common]: Август
+[Aug_n.common]: Август
+[C102_cityname.worldclock]: Багдад
+[C102_timezone.worldclock]: 180
+[C105_cityname.worldclock]: Бангкок
+[C105_timezone.worldclock]: 420
+[C106_cityname.worldclock]: Бейрут
+[C106_timezone.worldclock]: 120
+[C109_cityname.worldclock]: Дакка
+[C109_timezone.worldclock]: 360
+[C110_cityname.worldclock]: Дубай
+[C110_timezone.worldclock]: 240
+[C114_cityname.worldclock]: Гонконг
+[C114_timezone.worldclock]: 480
+[C115_cityname.worldclock]: Джакарта
+[C115_timezone.worldclock]: 420
+[C116_cityname.worldclock]: Иерусалим
+[C116_timezone.worldclock]: 120
+[C117_cityname.worldclock]: Кабул
+[C117_timezone.worldclock]: 240
+[C118_cityname.worldclock]: Карачи
+[C118_timezone.worldclock]: 300
+[C119_cityname.worldclock]: Катманду
+[C119_timezone.worldclock]: 360
+[C120_cityname.worldclock]: Куала-Лумпур
+[C120_timezone.worldclock]: 480
+[C123_cityname.worldclock]: Манила
+[C123_timezone.worldclock]: 480
+[C124_cityname.worldclock]: Маскат
+[C124_timezone.worldclock]: 240
+[C125_cityname.worldclock]: Пном Пен
+[C125_timezone.worldclock]: 420
+[C126_cityname.worldclock]: Пхеньян
+[C126_timezone.worldclock]: 540
+[C128_cityname.worldclock]: Янгон
+[C128_timezone.worldclock]: 360
+[C129_cityname.worldclock]: Эр-Рияд
+[C129_timezone.worldclock]: 180
+[C130_cityname.worldclock]: Сеул
+[C130_timezone.worldclock]: 540
+[C132_cityname.worldclock]: Сингапур
+[C132_timezone.worldclock]: 480
+[C134_cityname.worldclock]: Тегеран
+[C134_timezone.worldclock]: 180
+[C136_cityname.worldclock]: Токио
+[C136_timezone.worldclock]: 540
+[C143_cityname.worldclock]: Аделаида
+[C143_timezone.worldclock]: 540
+[C144_cityname.worldclock]: Брисбен
+[C144_timezone.worldclock]: 600
+[C146_cityname.worldclock]: Дарвин
+[C146_timezone.worldclock]: 540
+[C149_cityname.worldclock]: Перт
+[C149_timezone.worldclock]: 480
+[C151_cityname.worldclock]: Сидней
+[C151_timezone.worldclock]: 600
+[C156_cityname.worldclock]: Амстердам
+[C156_timezone.worldclock]: 60
+[C15_cityname.worldclock]: Хараре
+[C15_timezone.worldclock]: 120
+[C161_cityname.worldclock]: Берлин
+[C161_timezone.worldclock]: 60
+[C163_cityname.worldclock]: Брюссель
+[C163_timezone.worldclock]: 60
+[C164_cityname.worldclock]: Бухарест
+[C164_timezone.worldclock]: 120
+[C165_cityname.worldclock]: Будапешт
+[C165_timezone.worldclock]: 60
+[C167_cityname.worldclock]: Копенгаген
+[C167_timezone.worldclock]: 60
+[C168_cityname.worldclock]: Дублин
+[C168_timezone.worldclock]: 0
+[C170_cityname.worldclock]: Хельсинки
+[C170_timezone.worldclock]: 120
+[C172_cityname.worldclock]: Стамбул
+[C172_timezone.worldclock]: 180
+[C173_cityname.worldclock]: Лиссабон
+[C173_timezone.worldclock]: 0
+[C174_cityname.worldclock]: Лондон
+[C174_timezone.worldclock]: 0
+[C176_cityname.worldclock]: Мадрид
+[C176_timezone.worldclock]: 60
+[C178_cityname.worldclock]: Минск
+[C178_timezone.worldclock]: 180
+[C180_cityname.worldclock]: Москва
+[C180_timezone.worldclock]: 180
+[C181_cityname.worldclock]: Осло
+[C181_timezone.worldclock]: 60
+[C182_cityname.worldclock]: Париж
+[C182_timezone.worldclock]: 60
+[C183_cityname.worldclock]: Прага
+[C183_timezone.worldclock]: 60
+[C185_cityname.worldclock]: Рим
+[C185_timezone.worldclock]: 60
+[C191_cityname.worldclock]: Стокгольм
+[C191_timezone.worldclock]: 60
+[C192_cityname.worldclock]: Таллин
+[C192_timezone.worldclock]: 120
+[C194_cityname.worldclock]: Вена
+[C194_timezone.worldclock]: 60
+[C196_cityname.worldclock]: Вильнюс
+[C196_timezone.worldclock]: 120
+[C197_cityname.worldclock]: Варшава
+[C197_timezone.worldclock]: 60
+[C202_cityname.worldclock]: Окленд
+[C202_timezone.worldclock]: 720
+[C205_cityname.worldclock]: Гонолулу
+[C205_timezone.worldclock]: -600
+[C206_cityname.worldclock]: Остров Рождества
+[C206_timezone.worldclock]: 0
+[C21_cityname.worldclock]: Лагос
+[C21_timezone.worldclock]: 60
+[C224_cityname.worldclock]: Сан-Франциско
+[C224_timezone.worldclock]: -480
+[C227_cityname.worldclock]: Сан-Сальвадор
+[C227_timezone.worldclock]: -360
+[C230_cityname.worldclock]: Вашингтон
+[C230_timezone.worldclock]: -300
+[C242_cityname.worldclock]: Атланта
+[C242_timezone.worldclock]: -300
+[C252_cityname.worldclock]: Пекин
+[C252_timezone.worldclock]: 480
+[C253_cityname.worldclock]: Мумбаи
+[C253_timezone.worldclock]: 300
+[C261_cityname.worldclock]: Франкфурт
+[C261_timezone.worldclock]: 60
+[C262_cityname.worldclock]: Ханой
+[C262_timezone.worldclock]: 420
+[C263_cityname.worldclock]: Анкара
+[C263_timezone.worldclock]: 180
+[C265_cityname.worldclock]: Бразилиа
+[C265_timezone.worldclock]: -180
+[C266_cityname.worldclock]: Кейптаун
+[C266_timezone.worldclock]: 120
+[C267_cityname.worldclock]: Исламабад
+[C267_timezone.worldclock]: 300
+[C268_cityname.worldclock]: Рио-де-Жанейро
+[C268_timezone.worldclock]: -180
+[C278_cityname.worldclock]: Сантьяго
+[C278_timezone.worldclock]: -240
+[C284_cityname.worldclock]: Киев
+[C284_timezone.worldclock]: 120
+[C285_cityname.worldclock]: Санкт-Петербург
+[C285_timezone.worldclock]: 180
+[C291_cityname.worldclock]: Сан-Хуан
+[C291_timezone.worldclock]: -240
+[C292_cityname.worldclock]: Тегусигальпа
+[C292_timezone.worldclock]: -360
+[C295_cityname.worldclock]: Гавайи
+[C295_timezone.worldclock]: -600
+[C296_cityname.worldclock]: Аляска
+[C296_timezone.worldclock]: -540
+[C297_cityname.worldclock]: Финикс
+[C297_timezone.worldclock]: -420
+[C299_cityname.worldclock]: Кингстон
+[C299_timezone.worldclock]: -300
+[C300_cityname.worldclock]: Прая
+[C300_timezone.worldclock]: -60
+[C301_cityname.worldclock]: Рейкьявик
+[C301_timezone.worldclock]: 0
+[C302_cityname.worldclock]: Женева
+[C302_timezone.worldclock]: 60
+[C303_cityname.worldclock]: Виндхук
+[C303_timezone.worldclock]: 120
+[C304_cityname.worldclock]: София
+[C304_timezone.worldclock]: 120
+[C305_cityname.worldclock]: Афины
+[C305_timezone.worldclock]: 120
+[C306_cityname.worldclock]: Калининград
+[C306_timezone.worldclock]: 120
+[C307_cityname.worldclock]: Хартум
+[C307_timezone.worldclock]: 120
+[C308_cityname.worldclock]: Найроби
+[C308_timezone.worldclock]: 180
+[C309_cityname.worldclock]: Аден
+[C309_timezone.worldclock]: 180
+[C310_cityname.worldclock]: Антананариву
+[C310_timezone.worldclock]: 180
+[C311_cityname.worldclock]: Кувейт
+[C311_timezone.worldclock]: 180
+[C312_cityname.worldclock]: Абу-Даби
+[C312_timezone.worldclock]: 240
+[C313_cityname.worldclock]: Самара
+[C313_timezone.worldclock]: 240
+[C314_cityname.worldclock]: Нью-Дели
+[C314_timezone.worldclock]: 300
+[C315_cityname.worldclock]: Новосибирск
+[C315_timezone.worldclock]: 420
+[C316_cityname.worldclock]: Тайвань
+[C316_timezone.worldclock]: 480
+[C317_cityname.worldclock]: Иркутск
+[C317_timezone.worldclock]: 480
+[C318_cityname.worldclock]: Чита
+[C318_timezone.worldclock]: 540
+[C319_cityname.worldclock]: Владивосток
+[C319_timezone.worldclock]: 600
+[C321_cityname.worldclock]: Магадан
+[C321_timezone.worldclock]: 660
+[C322_cityname.worldclock]: Камчатка
+[C322_timezone.worldclock]: 720
+[C323_cityname.worldclock]: Сува
+[C323_timezone.worldclock]: 720
+[C325_cityname.worldclock]: Веллингтон
+[C325_timezone.worldclock]: 720
+[C32_cityname.worldclock]: Асунсьон
+[C32_timezone.worldclock]: -240
+[C36_cityname.worldclock]: Буэнос-Айрэс
+[C36_timezone.worldclock]: -180
+[C38_cityname.worldclock]: Каракас
+[C38_timezone.worldclock]: -240
+[C3_cityname.worldclock]: Аддис-Абеба
+[C3_timezone.worldclock]: 180
+[C40_cityname.worldclock]: Чикаго
+[C40_timezone.worldclock]: -360
+[C47_cityname.worldclock]: Эдмонтон
+[C47_timezone.worldclock]: -420
+[C4_cityname.worldclock]: Алжир
+[C4_timezone.worldclock]: 60
+[C52_cityname.worldclock]: Гватемала
+[C52_timezone.worldclock]: -360
+[C55_cityname.worldclock]: Гавана
+[C55_timezone.worldclock]: -300
+[C65_cityname.worldclock]: Nuestra Señora de La Paz
+[C65_timezone.worldclock]: -240
+[C66_cityname.worldclock]: Лима
+[C66_timezone.worldclock]: -300
+[C67_cityname.worldclock]: Лос-Анджелес
+[C67_timezone.worldclock]: -480
+[C69_cityname.worldclock]: Манагуа
+[C69_timezone.worldclock]: -360
+[C72_cityname.worldclock]: Мехико
+[C72_timezone.worldclock]: -360
+[C73_cityname.worldclock]: Монтерей
+[C73_timezone.worldclock]: -360
+[C74_cityname.worldclock]: Монтевидео
+[C74_timezone.worldclock]: -180
+[C76_cityname.worldclock]: Нассау
+[C76_timezone.worldclock]: -300
+[C77_cityname.worldclock]: Нью-Йорк
+[C77_timezone.worldclock]: -300
+[C7_cityname.worldclock]: Каир
+[C7_timezone.worldclock]: 120
+[C8_cityname.worldclock]: Касабланка
+[C8_timezone.worldclock]: 0
+[C93_cityname.worldclock]: Торонто
+[C93_timezone.worldclock]: -300
+[C94_cityname.worldclock]: Ванкувер
+[C94_timezone.worldclock]: -480
+[C95_cityname.worldclock]: Виннипег
+[C95_timezone.worldclock]: -360
+[C98_cityname.worldclock]: Алматы
+[C98_timezone.worldclock]: 360
+[C99_cityname.worldclock]: Амман
+[C99_timezone.worldclock]: 120
+[Dec.common]: Декабрь
+[Dec_n.common]: Декабрь
+[Feb.common]: Февраль
+[Feb_n.common]: Февраль
+[Fri.calendar]: Пт.
+[Fri.worldclock]: Пт.
+[Fri_brief.calendar]: Пт
+[Fri_brief.common]: Пт
+[Jan.common]: Январь
+[Jan_n.common]: Январь
+[July.common]: Июль
+[July_n.common]:Июль
+[June.common]: Июнь
+[June_n.common]: Июнь
+[Mar.common]: Март
+[Mar_n.common]: Март
+[May.common]: Май
+[May_n.common]: Май
+[Mon.calendar]: Пн.
+[Mon.worldclock]: Пн.
+[Mon_brief.calendar]: Пн
+[Mon_brief.common]: Пн
+[Nov.common]: Ноябрь
+[Nov_n.common]: Ноябрь
+[Oct.common]: Октябрь
+[Oct_n.common]: Октябрь
+[Sat.calendar]: Сб.
+[Sat.worldclock]: Сб.
+[Sat_brief.calendar]: Сб
+[Sat_brief.common]: Сб
+[Sept.common]: Сентябрь
+[Sept_n.common]: Сентябрь
+[Sports.sport]: Тренировка
+[Sun.calendar]: Вск.
+[Sun.worldclock]: Вск.
+[Sun_brief.calendar]: Вск
+[Sun_brief.common]: Вск
+[Thu.calendar]: Чт.
+[Thu.worldclock]: Чт.
+[Thu_brief.calendar]: Чт
+[Thu_brief.common]: Чт
+[Tue.calendar]: Вт.
+[Tue.worldclock]: Вт.
+[Tue_brief.calendar]: Вт
+[Tue_brief.common]: Вт
+[UVI]: УФ-индекс
+[Wed.calendar]: Ср.
+[Wed.worldclock]: Ср.
+[Wed_brief.calendar]: W
+[Wed_brief.common]: 三
+[ability_down.training]: Снижение
+[ability_dsc.training]: Спортивные способности
+[ability_keep.training]: Обслуживание
+[ability_up.training]: Высокое качество
+[about.common]: О системе
+[about.settings]: О системе
+[about.setupwizard]: О системе
+[about_title.settings]: О системе
+[accel_test.check_tool]: Обнаружение ускорения (3/14)
+[accomplish.sport]: Выполнено
+[action_preview.sport]: Предварительный просмотр
+[active.nfc]: Загрузка
+[active_fail.nfc]: Не удалось загрузить. Попробуйте еще раз.
+[activities.act]: Время встать
+[activity.sport]: Активность
+[activity.watchface]: Статистика
+[activityIndex]: Статистика
+[add_city.worldclock]: Добавить местоположение
+[add_driver.setupwizard]: Откройте Mi Fitness и добавьте устройство:
+[add_fail.nfc]: Не удалось добавить
+[add_full.nfc]: Максимальное количество добавленных карт
+[advanced_aerobic_endurance_running.sport]: Бег на выносливость (продвинутый)
+[advanced_aerobic_endurance_running_dsc.sport]: Более длительный бег на выносливость.
+[advanced_fat_burning_run.sport]: Бег для сжигания жира (продвинутый)
+[advanced_fat_burning_run_dsc.sport]: Бег низкой и средней интенсивности, продолжительный бег для сжигания жира.
+[advanced_interval_running.sport]: Интервальный режим (расширенный)
+[advanced_interval_running_dsc.sport]: Длительные интервальные тренировки для здоровья сердца и легких.
+[advanced_run_walk.sport]: Продвинутый бег/ходьба
+[advanced_run_walk_dsc.sport]: Сочетание ходьбы и бега с интервалами.
+[aerobic.common]: Аэробная
+[aerobic.sport]: Аэробная
+[aerobic_interval.sport]: Аэробная
+[aerobic_training_effect.sport]: Аэробная
+[aerobic_zone.hr]: Анаэробная
+[aerobic_zone1.hr]: При 81%-90% от максимальной частоты сердечных сокращений повышается толерантность к молочной кислоте.
+[aerobics.sport]: Аэробика
+[again.find_phone]: Повторный поиск
+[again_upgrade.setupwizard]: Попробуйте снова запустить обновление в приложении
+[agree.wxpay]: Принять
+[ai_escort.sport]: AI pacer
+[aivs.appname]: Xiao Ai
+[alarm]: Будильник
+[alarm.appname]: Будильник
+[alarm_deleted.alexa]: alarm_deleted.alexa
+[alarm_title.alexa]: alarm_title.alexa
+[alexa.appname]: alexa.appname
+[alipayPaymentCode]: Alipay
+[allbreath%d.breath]: %d дыхание
+[allday.calendar]: Весь день
+[allday_m36.calendar]: Весь день
+[always_bright_close.ctrl]: "Пробуждение в течение 5 минут" выключено
+[always_bright_open.ctrl]: "Пробуждение в течение 5 минут" выключено 
+[alwayson_info.settings]: Каждый раз экран будет оставаться включенным в течение %d мин. Это повлияет на срок службы батареи. Включить в любом случае?
+[am.common]: 上午
+[am_t.alarm]: AM
+[am_t.calendar]: AM
+[am_t.todo]: AM
+[anaerobic.common]: Анаэробная
+[anaerobic.sport]: Анаэробная
+[anaerobic_interval.sport]: Анаэробная
+[anaerobic_zone.hr]: Аэробная
+[anaerobic_zone1.hr]: При 71%-80% происходит усиление сердечно-легочных функций.
+[anim_cxkhz.sport]: Движение приставными шагами
+[anim_dtncdtls.sport]: Динамическая растяжка внутренней поверхности бедра
+[anim_fbls.sport]: Растяжка брюшной полости
+[anim_fsdthcls.sport]: Растяжка подколенных сухожилий
+[anim_fsycdthcls.sport]: Растяжка правого бедра назад (согнувшись)
+[anim_fsythcls.sport]: Отведение правой ноги назад (согнувшись)
+[anim_fszcdthcls.sport]: Растяжка левого бедра назад (согнувшись)
+[anim_fszthcls.sport]: Отведение левой ноги назад (согнувшись)
+[anim_gbczt.sport]: Боковой поворот с выпадом
+[anim_gtt.sport]: Прыжки со скручиванием ног
+[anim_gttp.sport]: Бег с высоким подниманием коленей
+[anim_gzbbls.sport]: Растяжка спины (стоя на коленях)
+[anim_jtcgb.sport]: Попеременный боковой выпад
+[anim_jttxwz.sport]: Попеременная амплитуда подъема колена
+[anim_kht.sport]: Прыжок
+[anim_kqycxbqcls.sport]: Растяжка правого предплечья
+[anim_kqycxtls.sport]: Растяжка правой икроножной мышцы
+[anim_kqyxthcls.sport]: Растяжка правой икры
+[anim_kqzcxbqcls.sport]: Растяжка левого предплечья
+[anim_kqzcxtls.sport]: Растяжка левой икроножной мышцы
+[anim_kqzxthcls.sport]: Растяжка левой икры на стене
+[anim_pbzcjtts.sport]: Планка с попеременным подъемом рук
+[anim_pbzcjttt.sport]: Планка с попеременным подъемом ног
+[anim_qbxhjgjhr.sport]: Распрямите руку в плечевом суставе
+[anim_qbxqjgjhr.sport]: Согните руку в плечевом суставе
+[anim_qhjcxt.sport]: Прыжки Ножницы
+[anim_qssz.sport]: Растяжка всего тела
+[anim_qxyxthcls.sport]: Растяжка правой икры (согнутое колено)
+[anim_qxzxthcls.sport]: Растяжка левой икры (согнутое колено)
+[anim_sbbls.sport]: Растяжка верхней части спины
+[anim_tbdtls.sport]: Динамическая растяжка бедра
+[anim_tbgttjz.sport]: Поднятые колени и хлопки
+[anim_xbbls.sport]: Растяжка нижней части спины
+[anim_xgjrs.sport]: Разминка коленей
+[anim_ybhcls.sport]: Разгибание правой руки
+[anim_ybls.sport]: Растяжка талии
+[anim_ycdtqcls.sport]: Растяжка передней поверхности правого бедра
+[anim_ychgjhr.sport]: Вращение правого голеностопного сустава
+[anim_ycqyjls.sport]: Растяжка правого бедра
+[anim_ycxbls.sport]: Растяжка грудной клетки вправо
+[anim_ydbbkp.sport]: Бег на месте
+[anim_ydmp.sport]: Бег на месте
+[anim_zastqq.sport]: Утренняя растяжка
+[anim_zbhcls.sport]: Разгибание левой руки
+[anim_zcdtqcls.sport]: Растяжка передней поверхности левого бедра
+[anim_zchgjhr.sport]: Вращение левого голеностопного сустава
+[anim_zcqyjls.sport]: Растяжка мышц левого бедра
+[anim_zcxbls.sport]: Растяжка левой части грудной клетки
+[anim_zcxthcls.sport]: Растяжка голени
+[anim_zwgasjbls.sport]: Самостоятельная растяжка плеча
+[anim_zybtxt.sport]: Прыжки из стороны в сторону (ноги вместе)
+[anim_zzjtgt.sport]: Попеременные разгибания ног (стоя)
+[anim_zzycfbls.sport]: Растяжка живота справа (стоя)
+[anim_zzyctbls.sport]: Растяжка правого бедра (стоя)
+[anim_zzzcfbls.sport]: Растяжка живота слева (стоя)
+[anim_zzzctbls.sport]: Растяжка левого бедра (стоя)
+[app_conn.aivs]: Пожалуйста, подключите мобильный телефон \n через Bluetooth
+[app_join.mihome]: Подключение к Bluetooth в приложении
+[app_name.nfc]: Карты
+[appname.act]: Vigor
+[appname.media]: Музыка
+[appname.status]: Тренировка
+[appname.vitality]: Жизненная энергия
+[aquatic_sport.sport]: Водные виды спорта
+[archery.sport]: Стрельба из лука
+[attention.breath]: Сосредоточьтесь на дыхании
+[atv.sport]: Квадроцикл
+[auth_error_content.alexa]: auth_error_content.alexa
+[auth_error_title.alexa]: auth_error_title.alexa
+[auto.settings]: Авто
+[auto_pause.sport]: Авто пауза
+[ave.pressure]: Среднее
+[ave_heartrate.sleep]: Средний пульс
+[ave_oxygen.sleep]: Средний SpO₂
+[average.sport]: Средний
+[average_stride_length_cm.sport]: Средняя длина шага (см)
+[avg_stroke.sport]: Среднее значение СПМ
+[avg_swolf.sport]: Средний SWOLF
+[back.common]: Назад
+[back_training.sport]: Назад
+[backstroke.sport]: Плавание на спине
+[badminton.sport]: Бадминтон
+[balance.nfc]: Баланс: 
+[ball_sports.sport]: Игры с мячом
+[ballet.sport]: Балет
+[barbell_training.sport]: Штанга
+[base.watchface]: инфраструктурный
+[baseball.sport]: Бейсбол
+[basic_aerobic_endurance_running.sport]: Бег на выносливость (базовый)
+[basic_aerobic_endurance_running_dsc.sport]: Бег на среднюю дистанцию на выносливость.
+[basic_fat_burning_run.sport]: Бег для сжигания жира (базовый)
+[basic_fat_burning_run_dsc.sport]: Короткая пробежка для сжигания жира и снижения веса.
+[basic_interval_running.sport]: Интервальный режим (Базовый)
+[basic_interval_running_dsc.sport]: Более короткие интервальные тренировки для здоровья сердца и легких.
+[basic_jogging.sport]: Быстрый рывок
+[basic_jogging_dsc.sport]: Бег низкой и средней интенсивности.
+[basic_run_walk.sport]: Базовый бег/ходьба
+[basic_run_walk_dsc.sport]: Более короткие интервальные тренировки для здоровья сердца и легких.
+[basketball.sport]: Баскетбол
+[battery.appname]: батарея
+[battery.settings]: Батарея
+[batteryLevel]: Батарея
+[battery_cqr.setupwizard]: батарея:
+[battery_title.settings]: Батарея
+[battle_rope.sport]: Перетягивание каната
+[beach_football.sport]: Пляжный футбол
+[beach_volleyball.sport]: Пляжный волейбол
+[beat.hr]: Нерегулярный пульс
+[beatexp.hr]: Подробнее
+[beatexp1.hr]: Просмотр подробностей в приложении
+[beatexp2.hr]: Ваш браслет будет измерять пульс и регистрировать любые отклонения от нормы, когда вы неактивны. Если вы почувствуете недомогание, обратитесь к врачу.
+[before.breath]: Старт измерения ЧСС
+[bell.find_phone]: Ваш телефон зазвонит
+[belly_dance.sport]: Танец живота
+[best.sport]: Лучший
+[billiards.sport]: Бильярд
+[bind.alipay]: После добавления отсканируйте QR-код на вашей часах для оплаты.
+[bind_failed.setupwizard]: Не сопряжено
+[bind_success.setupwizard]: Сопряжено
+[bl_disconnected.sport]: Bluetooth отключен. Подключитесь, чтобы синхронизировать данные тренировки.
+[bl_lunar.calendar]: белая роса
+[ble_con.share]: Подключитесь через Bluetooth и повторите попытку
+[ble_dis.share]: Отключен
+[bloodPressure]: холестерин
+[blue_break.mihome]: Отключен
+[blue_break.mute]: Отключен
+[blue_break.nfc]: Отключен
+[blue_know.mihome]: Есть
+[blue_know.mute]: Есть
+[blue_retry.mute]: Подключитесь через Bluetooth и повторите попытку
+[blue_retry.nfc]: Подключитесь через Bluetooth и повторите попытку
+[bobby_jump.sport]: Берпи
+[bocci.sport]: Боччи
+[bound_id.wxpay]: Ссылка на ID Weixin
+[bowling.sport]: Боулинг
+[boxing.sport]: Бокс
+[breakdance.sport]: Брейк-денс
+[breaststroke.sport]: Плавание брассом
+[breath.health]: Дыхание
+[breath_btn.pressure]: Дыхание
+[breath_sub_exp.sleep]: Если эта функция включена, то во время сна будет отслеживаться ночное дыхание. Показатели дыхания можно просмотреть в приложении.
+[breath_switch.sleep]: Оценка дыхания
+[breath_time.breath]: Time
+[breath_title1.breath]: Дыхание
+[breath_train.common]: Дыхательные упражнения
+[brides.sport]: Мост
+[brightness.settings]: Яркость
+[brightness_auto.settings]: Авто
+[brightness_set.settings]: Пользовательский
+[brightness_set_28.settings]: Пользовательский
+[brightness_title.settings]: Яркость
+[brisk_walk.sport]: Быстрая ходьба
+[brpg.sport]: Настольная игра
+[bt_disconn.check_tool]: Bluetooth был отключен, подключите Bluetooth, а затем продолжите обнаружение
+[bt_disconn.common]: Bluetooth отключен.
+[bt_disconn.find_phone]: Отключено
+[bt_disconn.phone]: Отключено
+[bt_disconn.remote_camera]: Отключено
+[bt_test.check_tool]: Обнаружение Bluetooth (1/14)
+[btn_confirm.sport]: Подтвердить
+[buring_zone.hr]: Интенсивный
+[buring_zone1.hr]: 61%-70% от максимальной частоты сердечных сокращений идеально подходят для сжигания жира.
+[butterfly.sport]: Бабочка
+[calculate_the_lead/lag_distance_according_to_the_set_pace.sport]: Рассчитайте оставшееся и пройденное расстояние, исходя из заданного темпа.
+[calendar.appname]: Календарь
+[calllog.phone]: calllog.phone
+[calorie]: Калории
+[calorie.act]: Калории
+[calorie.explain]: "Калории" показывают количество активных калорий, сожженных в результате движения и физических упражнений.
+[calorie_reach.act]: Достижение цели по калориям
+[calorie_title.explain]: Калории
+[camera_know]: Есть
+[cancel.alipay]: Отмена
+[cancel.common]: Отмена
+[cancel.wxpay]: Отмена
+[cancel_mark.wm]: Отмена
+[canoeing.sport]: Каякинг
+[cardBag]: Карты
+[card_id.check_tool]: ID:
+[card_know.nfc]: Есть
+[cf_lunar.calendar]: весеннее равноденствие
+[change_item_time.sport]: Переход
+[change_terms_for_a_while.sport]: Переход
+[change_the_term_for_two_hours.sport]: Переход
+[charge_compare.reminder]: Аккумулятор заряжен
+[charge_no.check_tool]: Подключите зарядное устройство
+[charge_test.check_tool]: Обнаружение заряда (12/14)
+[charge_yes.check_tool]: Подключено зарядное устройство
+[chart_content.wm]: 2. Наконечник
+[chart_content_notes.wm]: Чтобы сделать прогнозы более точными, записывайте периоды и изменяйте длительность цикла в приложении.
+[chart_exp.wm]: 1. Цвета
+[check_result.check_tool]: Результаты испытаний
+[chesee_and_card_games.sport]: Карточные/настольные игры
+[chess.sport]: Шахматы
+[chronograph.appname]: Секундомер
+[chu_day_lunar.calendar]: 初
+[circulation.sport]: Установки
+[clear_all.notify]: Очистить все
+[clear_message.notify]: Очистить
+[climb_stairs.sport]: Подъем по лестнице
+[climbing.sport]: Трекинг
+[climbing_machine.sport]: Подъем по лестнице
+[close.settings]: Выключить
+[close.share]: Выключить
+[close.sport]: Выключить
+[close_28.settings]: Выключить
+[close_ing.mute]: Подождите
+[close_reminder.sport]: Выкчлюить всё
+[close_ring.mute]: Выключить
+[close_sedentary.act]: Отключить на сегодня напоминание о разминке?
+[cnt.common]: 次
+[cnt/min.common]: 次/分
+[cnt/min.sport]: уд
+[color.wf]: Цвет
+[compass]: компас
+[complete.reminder]: Время встать
+[complete_help.reminder]: Время подвигаться
+[completed.todo]: Завершено
+[completed32.todo]: Завершено
+[confirm.common]: Принять
+[confirm_phone.setupwizard]: Подтвердите на телефоне
+[confirm_resquest.system]: Подтвердите на телефоне
+[conn_retry.common]: Подключитесь через Bluetooth и повторите попытку
+[conn_retry.find_phone]: Подключитесь через Bluetooth и повторите попытку
+[conn_retry.phone]: Подключитесь через Bluetooth и повторите попытку
+[conn_retry.remote_camera]: Подключитесь через Bluetooth и повторите попытку
+[connect_lost_content.alexa]: connect_lost_content.alexa
+[connect_lost_title.alexa]: connect_lost_title.alexa
+[connected.common]: Подключено
+[connected.sport]: Подключено
+[connection_failed.common]: Сбой соединения
+[connection_failed.sport]: Сбой соединения
+[connectknow.alarm]: Есть
+[continue.common]: продолжить
+[core_training.sport]: Базовая тренировка
+[countdown]: Таймер
+[course_introduce.sport]: Введение
+[cricket.sport]: Крикет
+[cross_country.sport]: Бег по пересеченной местности
+[cross_country_skiing.sport]: Беговые лыжи
+[cross_fit.sport]: Кросс тренировка
+[cs_lunar.calendar]: летний тепловой удар
+[curling.sport]: Керлинг
+[current.breath]: Текущий пульс
+[current.hr]: Текущий пульс
+[custom.alarm]: Пользовательский
+[custom.common]: Пользовательский
+[custom.timer]: Пользовательский
+[customize.sport]: Пользовательский
+[cx_festival.calendar]: Новый год по лунному календарю
+[cy_festival.calendar]: Двойная девятка или праздник Ян
+[cycling_moto.sport]: БМХ
+[dance.sport]: Танцы
+[darts.sport]: Дартс
+[data.wf]: Виджеты
+[data_explain.act]: Подробнее
+[data_record.watchface]: Виджеты
+[data_title.act]: Подробнее
+[date]: Дата
+[day_after_tomorrow.wm]: Через 2 дня
+[day_oxygen.settings]: Отслеживание уровня SpO₂ в течение всего дня
+[day_pressure.settings]: Круглосуточный мониторинг стресса
+[deadlift.sport]: Становая тяга
+[deep.sleep]: Глубина
+[default_aod.settings]: Тема по умолчанию
+[default_aod.watchface]: Тема по умолчанию
+[del_all.common]: Очистить все
+[del_tip.watchface]: Удалить циферблат?
+[delay.calendar]: Дремать
+[delay.todo]: Дремать
+[delay_10m.common]: Дремать 10 минут
+[delay_10m_agn.calendar]: Дремать 10 минут
+[delay_10m_agn.common]: Дремать 10 минут
+[delay_10m_agn.reminder]: Дремать 10 минут
+[delete.common]: удаление
+[destretching.sport]: Растяжка
+[detail.alipay]: Прочитайте и согласитесь с Соглашением об обслуживании смарт-устройств в приложении Alipay.
+[detail.calendar]: Подробности
+[detect_exercising.sport]: Похоже, что вы занимаетесь спортом
+[device_name.common]: Название
+[device_name.settings]: Название
+[device_type.common]: Модель
+[device_type.settings]: Модель
+[dh_lunar.calendar]: самый сильный холод в году
+[dial.wf]: Сроки
+[disconnect.common]: Отключить
+[disconnect.sport]: Отключить
+[disconnect_retry.common]: Bluetooth не подключен\n Пожалуйста, подключите Bluetooth и повторите попытку.
+[disp_reminder.settings]: Если включена функция Always-on display, приоритет будет отдан отображению часов по умолчанию.
+[display.settings]: Экран
+[display_on.sport]: Всегда включен
+[display_title.settings]: Экран
+[distance_calibration.sport]: Калибровка
+[distance_remind.sport]: Напоминание
+[distance_too_short.sport]: Слишком короткая дистанция тренировки для записи.
+[distance_too_short_resume.sport]: Слишком короткая дистанция тренировки для записи. Закончить?
+[disturb.settings]: DND
+[disturb_disconn.settings]: Отключен
+[disturb_sync.settings]: Синхронизация с телефоном
+[disturb_sync_info.settings]: При включении этого режима, статус DND будет синхронизирован с режимом в телефоне.
+[disturb_title.settings]: DND
+[dodgeball.sport]: Доджбол
+[done.hour%02d:%02d:%02d]: %02d:%02d:%02d назад
+[done.min%02d:%02d]: %02d:%02d назад
+[done.wxpay]: Выполнено
+[dont_shake1.oxygen]: Сохраняйте спокойствие
+[double_board_skiing.sport]: Горнолыжный спорт
+[dragon_boat.sport]: Лодочный спорт
+[draughts.sport]: Шашки
+[driving.sport]: Дайвинг
+[ds_lunar.calendar]: великая летняя жара
+[dsc_cadence.sport]: СПМ
+[dsc_cadence_avg.sport]: Средний каденс (СПМ)
+[dsc_calorie.sport]: ккал
+[dsc_change_time.sport]: Переход
+[dsc_distance_backward.sport]: км позади
+[dsc_distance_backward_imp.sport]: миль позади
+[dsc_distance_lead.sport]: км впереди
+[dsc_distance_lead_imp.sport]: миль впереди
+[dsc_freq_avg.sport]: Средняя JPM
+[dsc_pace_avg.sport]: Средний темп
+[dsc_speed.sport]: км/ч
+[dsc_speed_avg.sport]: км/ч (средняя скорость)
+[dsc_step_cnt.sport]: шаг
+[dsc_trips.sport]: длина
+[dumbbell_training.sport]: Гантели
+[duration_group.sport]: Этот набор
+[dx_lunar.calendar]: снег
+[dy_festival.calendar]: Фестиваль лодок-драконов
+[dz_lunar.calendar]: зимнее солнцестояние
+[easy_pregnancy.wm]: Фертильность
+[easypregnancy_in%d.wm]: День фертильного периода %d
+[easypregnancy_out%d.wm]: Плодородный период в %dd
+[edit.common]: компилятор
+[editalarm.alarm]: Настройки
+[effect_level1.sport]: Небольшой
+[effect_level2.sport]: Восстановление
+[effect_level3.sport]: Поддержание
+[effect_level4.sport]: Улучшение
+[effect_level5.sport]: Высокое качество
+[effect_level6.sport]: Перевыполнение
+[effect_of_anaerobic_training.sport]: Анаэробные
+[effectiveStand]: Стоя
+[electronic_sports.sport]: Esports
+[eleven_month_lunar.calendar]: 冬月
+[elliptical_machine.sport]: Эллиптический тренажер
+[empty_message.phone]: Разрешить ответы на сообщения в приложении.
+[empty_record.sport]: Нет данных
+[empty_tips.phone]: empty_tips.phone
+[enable_again.wxpay]: Включить снова
+[enable_again_tips.wxpay]: В целях безопасности отсканируйте QR-код с помощью Weixin для повторного включения.
+[enable_sleep_mode.reminder]: DND включен. Подъем для пробуждения выключен.
+[enabled.wxpay]: Включено
+[enabling.wxpay]: Включение... Завершите процесс на телефоне.
+[end.common]: закрыть
+[end.find_phone]: Завершено
+[end.settings]: Конец
+[end.sport]: Конец
+[end.timer]: Таймер завершен
+[end_time.settings]: Конец
+[energy]: энергия
+[energy.sport]: Гидратация
+[energy_distance.sport]: Расстояние
+[energy_time.sport]: Время
+[ephemeris_expired.sport]: Срок действия данных GPS истек
+[ephemeris_expired_tips.sport]: Подключение к телефону для ускорения определения координат GPS.
+[equesttrian.sport]: Конный спорт
+[err.aivs]: Сеть недоступна, проверьте состояние сети вашего мобильного телефона
+[estimate.settings]: Срок службы батареи
+[estimate_content.settings]: Расчетное время автономной работы приведено только для справки. Фактическое время автономной работы зависит от условий эксплуатации.
+[every_day.alarm]: Ежедневно
+[every_day.todo]: Ежедневно
+[every_month.todo]: Ежемесячно
+[every_week.todo]: Еженедельно
+[every_year.todo]: Ежегодно
+[executive_fail.mihome]: Не удалось запустить сценарий
+[exhale.breath]: Выдох
+[exit.alipay]: Не удалось завершить сопряжение. Если выйти сейчас, то в следующий раз нужно будет отсканировать код и добавить устройство снова.
+[exit.wxpay]: Выход
+[exit_btn.alexa]: exit_btn.alexa
+[exit_cancel.wxpay]: Не выходить
+[exit_confirm.alipay]: Выход
+[exit_sign.check_tool]: Переход в пользовательский режим через 3 секунды
+[exit_tip.wxpay]: Weixin Pay открывается, вы уверены, что хотите выйти?
+[exp.hr]: Подробнее
+[exp.oxygen]: Подробнее
+[exp.vitality]: Подробнее
+[exp_desc1.vitality]: Показатель Vitality определяет положительное влияние физической активности на здоровье. Если суммарный показатель Vitality за последние 7 дней достигает 100, то вы занимаетесь спортом на уровне, который приводит к значительному улучшению здоровья.
+[exp_desc2.vitality]: Оценка жизнеспособности основана на Руководстве ВОЗ по физической активности и сидячему поведению, которое рекомендует:\nВсе здоровые взрослые люди занимаются физическими упражнениями умеренной интенсивности не менее 150-300 минут в неделю или 75-150 минут в неделю с высокой интенсивностью, или эквивалентное сочетание физических упражнений умеренной и высокой интенсивности.\nВ то же время, небольшая физическая нагрузка лучше, чем ее отсутствие. Замена сидячего образа жизни физическими упражнениями низкой интенсивности также приносит пользу здоровью.
+[exp_title.oxygen]: Подробнее
+[experien.setupwizard]: Старт
+[expired.todo]: Просроченный
+[explain_title.settings]: Подробнее
+[extreme.common]: VO₂ макс.
+[extreme_zone.hr]: VO₂ макс.
+[extreme_zone1.hr]: Выполнение упражнений на уровне 91%-100% от максимальной частоты сердечных сокращений подходит для опытных тренеров.
+[extremity.sport]: VO₂ макс.
+[fail_fit.health]: Затяните ремешок и повторите попытку
+[fail_stay_still.health]: Сохраняйте неподвижность во время измерения
+[fail_timeout.health]: Попробуйте еще раз
+[fail_wear.health]: Затяните ремешок и повторите попытку
+[failed.alipay]: Не удалось добавить
+[fancy_swimming.sport]: Художественное плавание
+[fast.sport]: Максимум
+[fat_burning.sport]: Интенсивный
+[fat_burning_interval.sport]: Интенсивный
+[fencing.sport]: Фехтование
+[fight.sport]: Боевые виды спорта
+[find_wear.reminder]: Поиск устройства...
+[finish.breath]: Выполнено
+[finish.common]: выполнить
+[finish_course_great.sport]: Вы сделали это!
+[first_edit_tips1.watchface]: Чтобы сохранить изменения,\nнажмите кнопку OK или коснитесь дисплея.
+[first_mile_speed.sport]: Предыдущий км
+[first_month_lunar.calendar]: первый месяц лунного года
+[fishing.sport]: Рыбалка
+[flashlight.appname]: Фонарик
+[flexibility_training.sport]: Гибкость
+[fly_kite.sport]: Запуск воздушных змеев
+[focus_time.tomatotimer]: Фокусировка внимания
+[focus_time_out.tomatotimer]: Вы сделали это!
+[focus_total.tomatotimer]: Время фокусировки
+[focus_total_pause.tomatotimer]: Время фокусировки
+[focusing.tomatotimer]: Не отвлекаться
+[foosball.sport]: Настольный футбол
+[football.sport]: Футбол
+[forget_pwd.common]: Забыли пароль?
+[forget_pwd_tips.common]: Чтобы сбросить PIN-код, перейдите в приложении в меню Устройство > PIN-код. 
+[free_sparring.sport]: Кикбоксинг
+[free_stage.sport]: Фристайл
+[free_training.sport]: Фристайл
+[freestyle.sport]: Фристайл
+[frequency.breath]: ЧСС
+[frequency.sport]: Частота
+[frisbee.sport]: Фрисби
+[fsn_info.check_tool]: FSN号:
+[full_hour.common]: часы
+[full_hour.settings]: час
+[full_hour.timer]: Ч
+[full_min.common]: минут
+[full_min.settings]: минута
+[full_min.timer]: Минуты
+[functional_training.sport]: Функциональная тренировка
+[fw_ver.common]: номер версии
+[fw_ver.settings]: Версия №.
+[gateball.sport]: Гейтбол
+[gesture.settings]: Быстрые жесты
+[gesture_course.settings]: Учебник по жестам
+[gesture_explain.settings]: Подробнее
+[gesture_explain_title.settings]: Подробнее
+[gesture_info.settings]: Настройте жесты для выполнения выбранного действия. Во время сна эта функция отключается.
+[gesture_info_lab1.settings]: 1. Каждый жест может выполнять только одну функцию
+[gesture_info_lab2.settings]: 2. Функции, связанные с вызовом/сообщением, работают только на странице напоминания о вызове/сообщении
+[gesture_info_lab3.settings]: 3. Открывайте функцию приложения только тогда, когда активен основной циферблат часов
+[gesture_info_lab4.settings]: 4. Спящий режим/Режим "Не беспокоить"/Режим энергосбережения/АОД или не реагировать на жесты при обнаружении спящего режима
+[gesture_info_lab5.settings]: 5. Пожалуйста, избегайте подобных жестов в повседневной деятельности, которые могут быть сделаны по ошибке
+[gesture_open_info.settings]: Чтобы улучшить качество использования, рекомендуется включать экран подъемом запястья, после включения этой функции время автономной работы устройства сильно сократится, подтвердите включение экрана подъемом запястья и быстрого жеста?
+[gesture_operate.settings]: Жесты
+[gesture_select1.settings]: Просмотр уведомлений
+[gesture_select1_28.settings]: Просмотр уведомлений
+[gesture_select2.settings]: Игнорировать вызов/уведомление
+[gesture_select2_28.settings]: Игнорировать вызов/уведомление
+[gesture_select3.settings]: Отклонить входящий вызов
+[gesture_select3_28.settings]: Отклонить входящий вызов
+[gesture_select4.settings]: Weixin Pay
+[gesture_select4_28.settings]: Weixin Pay
+[gesture_select5.settings]: Alipay
+[gesture_select5_28.settings]: Alipay
+[gesture_select6.settings]: Голосовой помощник
+[gesture_select6_28.settings]: Голосовой помощник
+[gesture_select7.settings]: Погода
+[gesture_select7_28.settings]: Погода
+[gesture_set.settings]: Настройки
+[gesture_title.settings]: Быстрые жесты
+[get_fail.mihome]: Произошла ошибка. Попробуйте еще раз.
+[get_information_tips.wxpay]: Когда функция Wexin Pay включена, часы будут передавать адрес Bluetooth и идентификатор модели в WeChat.
+[getting_songs.media]: Загрузка музыки...
+[getting_songs_w.media]: Загрузка музыки...
+[gnss_num.check_tool]: Количество спутников.
+[gnss_sign.check_tool]: Пожалуйста, проведите тестирование на открытом воздухе/в помещении со спутниковым позиционированием
+[gnss_snr.check_tool]: SNR值:
+[gnss_test.check_tool]: Определение местоположения (2/14)
+[go_to_the_app_side_to_check.sport]: Просмотр большего количества записей в приложении после синхронизации данных
+[go_turnon.common]: Перейдите и откройте его.
+[golf.sport]: Гольф
+[goto_bind.alipay]: Добавить
+[goto_distance_calibration.sport]: Калибровка
+[goto_miwear_app.sport]: Просмотр подробностей в приложении
+[goto_set.settings]: Перейдите в раздел Настройки
+[goto_watchface.settings]: Функция открытия приложения работает только при включенном основном циферблате часов, и теперь можно попытаться вернуться к работе с основным циферблатом часов с помощью жеста
+[group_callisthenic.sport]: Спортивная гимнастика
+[group_number.sport]: Всего подходов
+[group_reset.sport]: Отдых
+[gy_lunar.calendar]: муссон
+[gym.sport]: Фитнес в помещении
+[gymnastics.sport]: Гимнастика
+[gyro_test.check_tool]: Обнаружение гироскопа (4/14)
+[hand_info.settings]: Попробуйте быстро повернуться на 90 градусов, а затем быстро повернуться обратно, дождитесь результата распознавания, необходимо дважды успешно провести идентификацию.
+[handball.sport]: Гандбол
+[handwrist_info1.settings]: Предплечья параллельны грудной клетке
+[handwrist_info2.settings]: Ладонь вниз, экран вверх
+[handwrist_info3.settings]: Быстрый поворот на 90 градусов
+[handwrist_info4.settings]: Затем быстро повернитесь назад и вернитесь в исходное положение
+[has_done%d.breath]: Сессия: %d min
+[have_high.hr]: Высокий ЧСС
+[have_low.hr]: Низкий ЧСС
+[heartRate]: Частота сердечных сокращений
+[heart_health.settings]: Нерегулярный пульс
+[heartrate_high.sport]: Высокий ЧСС
+[heartset.vitality]: Непрерывный мониторинг
+[heartset_desc.vitality]: Показатель Vitality рассчитывается на основе данных о частоте сердечных сокращений и активности. Для получения более точного показателя жизнеспособности позвольте своему браслету чаще измерять частоту сердечных сокращений.
+[heel_and_toe.sport]: Спортивная ходьба
+[help.alipay]: Сканирование с помощью Alipay
+[hgrmbox.hr]: При включенном режиме непрерывного мониторинга будут регистрироваться нерегулярные удары сердца. Эта функция влияет на время работы аккумулятора. Включить сейчас?
+[high.hr]: Высокий ЧСС
+[high_interval_training.sport]: HIIT
+[high_warning.hr]: Оповещение о высоком ЧСС
+[high_warning1.hr]: Выберите частоту пульса, при превышении которой вы будете получать сигнал тревоги
+[highest.sport]: Max 
+[highexp.hr]: Подробнее
+[highexp1.hr]: Носимое устройство оповещает вас, когда частота сердечных сокращений превышает заданный уровень во время бездействия. Иногда повышение частоты сердечных сокращений является нормальной реакцией на стресс, употребление кофеина или простуду. Однако при головокружении, одышке или учащенном сердцебиении следует обратиться к врачу.
+[highexp2.hr]: Обратите внимание, что данные о высокой частоте сердечных сокращений не предназначены для медицинских целей, а также для диагностики, лечения или профилактики каких-либо заболеваний.
+[highexp3.hr]: На устройстве отображаются только три последние записи о высоком пульсе. Дополнительные сведения см. в приложении.
+[hightime.vitality]: Высокая интенсивность
+[hihi_ball.sport]: Для нее
+[hiking_outdoor.sport]: Пеший туризм
+[hint.alarm]: Будильники отсутствуют
+[hint_text.tomatotimer]: Во время этого сеанса DND включен
+[hip_hop_dance.sport]: Хип-хоп
+[hl_lunar.calendar]: холодная роса
+[hockey.sport]: Хоккей
+[hold.sport]: Продолжайте
+[hold_it.settings]: Поздравляю с освоением!
+[holiday.alarm]: Выходные дни
+[holiday.common]: праздники
+[holiday.todo]: Выходные дни
+[holidayprmt_main.alarm]: Подключение к приложению
+[holidayprmt_main.common]: Пожалуйста, подключите приложение для обновления праздников
+[holidayprmt_sub.alarm]: По умолчанию суббота и воскресенье отмечены как выходные дни.
+[holidayprmt_sub.common]: До подключения приложения праздничные дни будут по умолчанию выпадать на субботу и воскресенье
+[horse_riding.sport]: Верховая езда
+[hour.common]: 时
+[hour.sleep]: ч
+[hour.sport]: Часы
+[hour_allday.sleep]: ч
+[how_get.training]: Определите свой максимальный VO₂
+[hr_current%s.sport]: Текущий ЧСС (%s)
+[hr_exp.hr]: Частота сердечных сокращений - это количество ударов сердца в минуту (ЧСС). \nОбычно частота сердечных сокращений в состоянии покоя колеблется от 55 до 80 ударов в минуту. Однако он зависит от возраста, пола и других факторов. \nВаше устройство поддерживает диапазон 30-240 ударов в минуту.
+[hr_recommend%s.sport]: Цель ЧСС (%s)
+[hr_recommend.sport]: Цель ЧСС
+[hula_hoop.sport]: Обруч
+[humidity]: Влажность
+[hydration.sport]: Пейте воду
+[i_know.common]: Я знаю.
+[idle_alerm.alexa]: idle_alerm.alexa
+[idle_alerm2.alexa]: idle_alerm2.alexa
+[idle_try_to_say.alexa]: idle_try_to_say.alexa
+[idle_weather.alexa]: idle_weather.alexa
+[ignore.common]: пренебрежение
+[ignore.health]: Отклонить
+[ignore.hr]: Отклонить
+[ignore.oxygen]: Отклонить
+[ignore.pressure]: Отклонить
+[ill_btn.oxygen]: Подробнее
+[ill_btn.pressure]: Подробнее
+[ill_btn.sleep]: Подробнее
+[ill_title.pressure]: Подробнее
+[ill_title.sleep]: Подробнее
+[inacticated_content.alexa]: inacticated_content.alexa
+[inactivated_title.alexa]: inactivated_title.alexa
+[indoor_football.sport]: Футзал
+[indoor_skating.sport]: Катание на коньках
+[info.tomatotimer]: Подробнее
+[inhale.breath]: Вдохнуть
+[inout_wirst.settings]: Вращение запястья
+[input.settings]: Вход
+[input_key.system]: Введите ключ
+[input_new_pwd.settings]: Новый PIN-код
+[input_pwd.settings]: Введите PIN-код
+[input_pwd_num.settings]: Введите PIN-код
+[inte_reach.act]: Попадание в подвижную цель
+[intel_prediction.wm]: Прогнозы
+[intelligence.settings]: Смарт
+[intelligence_28.settings]: Смарт
+[intelligent.hr]: Авто
+[intensity]: Движение
+[intensity.act]: Движение
+[intensity.explain]: "Движение" показывает время выполнения умеренной и энергичной активности. Для взрослых в возрасте 18-64 лет необходимо стремиться к умеренной активности не менее 30 минут в день 5 раз в неделю. В качестве альтернативы можно выбрать 75 минут в неделю интенсивной активности. Вы увидите прогресс в "Движении", когда ваш каденс превысит 100 SPM или когда частота сердечных сокращений превысит 65% от максимальной частоты сердечных сокращений.
+[intensity_title.explain]: Движение
+[intensity_unit.common]: минут
+[intensive.common]: Интенсивный
+[inter_training_name.sport]: Интервальная тренировка
+[interval_train_confirm.sport]: Включение интервальной тренировки отключает цели тренировки. Включить сейчас?
+[interval_training.sport]: Интервальная тренировка
+[interval_training_warmup.sport]: Разминка
+[introduce_reminder_distance.sport]: Получение напоминаний через заданный интервал расстояний
+[introduce_reminder_hrzone.sport]: Получать напоминание о превышении или снижении целевой зоны ЧСС
+[introduce_reminder_pace.sport]: Получать напоминание о превышении или снижении целевого темпа
+[introduce_reminder_speed.sport]: Получайте напоминание о превышении или снижении заданной скорости
+[issue.nfc]: Ожидайте…
+[jazz.sport]: Джазовый танец
+[jog.sport]: Jog
+[judo.sport]: Дзюдо
+[jujitsu.sport]: Джиу-джитсу
+[jump.sport]: Пропустить
+[just.common]: совсем недавно
+[just.health]: Сейчас
+[just_now.pressure]: Сейчас
+[jz_lunar.calendar]: спящий режим
+[karate.sport]: Карате
+[kayak_rafting.sport]: Рафтинг
+[keep.hr]: Не двигайтесь
+[keep_on.sport]: Продолжить
+[keep_waiting.sport]: Ожидайте
+[key_wrong.system]: Ключи не совпадают
+[kite_surfing.sport]: Кайтсерфинг
+[km/hr.sport]: Км/ч
+[km_h.sport]: км/ч
+[km_per_hr.sport]:  км/ч
+[know.act]: Есть
+[know.common]: Есть
+[know.find_phone]: OK
+[know.ota]: Есть
+[know.phone]: Есть
+[know.reminder]: Есть
+[know.setupwizard]: Есть
+[know.sport]: Есть
+[know.vitality]: Есть
+[know.wm]: Есть
+[later.alarm]: Дремать
+[latin_dance.sport]: Латинские танцы
+[layout.settings]: Расположение
+[layout_grid.settings]: Сетка
+[layout_list.settings]: Список
+[layout_title.settings]: Расположение
+[lb_festival.calendar]: Праздник рисовой каши Лаба
+[lc_lunar.calendar]: начало весны
+[lcd_sign.check_tool]: Определите, есть ли на следующем интерфейсе темные пятна, разные цвета и другие аномалии, и щелкните на экране, чтобы появилось окно
+[lcd_test.check_tool]: Обнаружение экрана (10/14)
+[ld_lunar.calendar]: начало зимы
+[leisure_sports.sport]: Рекреационные виды спорта
+[let_start.breath]: Поехали
+[level1.training]: Очень плохо
+[level2.training]: Плохо
+[level3.training]: Удовлетворительно
+[level4.training]: Нормально
+[level5.training]: Хорошо
+[level6.training]: Отлично
+[level7.training]: Замечательно
+[level_dsc.training]: Уровень
+[light.common]: Свет
+[light.sleep]: Свет
+[light_scrren.settings]: Пробуждение экрана при получении уведомления
+[light_scrren_toast.settings]: Пробуждение экрана при получении уведомлений
+[light_test.check_tool]: Обнаружение фотодатчиков (7/14)
+[light_test_sign.check_tool]: Для продолжения\n-теста закройте экран.
+[light_value.check_tool]: Значение светочувствительности.
+[limit_interval.sport]: VO₂ max
+[list_name.oxygen]: SpO₂
+[listening.alexa]: listening.alexa
+[load.sport]: Подождите
+[load.training]: Тренировка запускается
+[load_explain.training]: Тренировочная нагрузка рассчитывается на основе вашего тренировочного импульса (TRIMP) для каждой тренировки, что позволяет оценить влияние тренировки на организм. На основе полученных данных можно скорректировать следующую тренировку.
+[load_explain_more.training]: (Подробнее в разделе Помощь в приложении)
+[lock_over.settings]: Убедитесь, что уведомления включены в разделе Mi Fitness > Уведомления приложений.
+[lock_screen_notice.settings]: Уведомление только при блокировке телефона
+[lock_screen_notice_toast.settings]: При использовании телефона уведомления на часы не поступают.
+[loding.mihome]: Подождите
+[login_wx.wxpay]: Войти
+[login_wx_tips.wxpay]: Функция Weixin Pay была обновлена в приложении Weixin. Войдите в Weixin, чтобы включить функцию оплаты.
+[long.sleep]: Сон
+[long_endurance_info.settings]: При включенном режиме экономии заряда батареи будут доступны только часы, счетчик шагов и NFC. Для выключения нажмите и удерживайте экран или подключите зарядку. Включить сейчас?
+[long_press_stop.sport]: Нажмите и удерживайте кнопку для завершения тренировки
+[longpress.settings]: Нажмите и удерживайте экран
+[longpress_lab.settings]: При включении нажмите и удерживайте кнопку Edit для редактирования отображения диапазона.
+[low.hr]: Низкий уровень ЧСС
+[low_balance.nfc]: Недостаточно средств. Пополните баланс в ближайшее время.
+[low_btn.oxygen]: Низкий уровень SpO₂
+[low_exp1.oxygen]: Если уровень насыщения кислородом три раза подряд окажется ниже установленного значения, вы получите сигнал тревоги. 
+[low_exp2.oxygen]: В ваших часах будут отображаться 3 последние записи. Посмотреть больше можно в приложении.
+[low_exp3.oxygen]: При появлении одышки, головной боли, усталости, снижении концентрации внимания следует обратиться за медицинской помощью.
+[low_exp4.oxygen]: Диапазон измерений данных часов составляет 75-100%. Это не медицинский прибор; все результаты приведены только для ознакомления и не являются основой для диагностики или лечения.
+[low_exp_title.oxygen]: Предупреждение о низком уровне SpO₂
+[low_remind.oxygen]: Предупреждение о низком уровне SpO₂
+[low_title.oxygen]: Предупреждение о низком уровне SpO₂
+[low_waring.oxygen]: Предупреждение о низком уровне SpO₂
+[low_waring1.oxygen]: Уведомление о том, что показания SpO₂ ниже установленного уровня во время бодрствования
+[low_warning.hr]: Предупреждение о низком уровне ЧСС
+[lowbattery_10.reminder]: Аккумулятор менее 10%
+[lowbattery_20.reminder]: Аккумулятор менее 20%
+[lowbattery_5.reminder]: Аккумулятор менее 5%
+[lowbattery_5_btn_tip.reminder]: Включить
+[lowbattery_5_tip.reminder]: Включить функцию экономии заряда батареи?
+[lowbattery_title.reminder]: Разряженная батарея
+[lower_limb_training.sport]: Нижняя часть тела
+[lowexp.hr]: Подробнее
+[lowexp1.hr]: Устройство оповещает вас, когда частота сердечных сокращений опускается ниже заданного уровня. Это часто происходит во время сна или у физически активных людей. При возникновении головокружения, одышки или учащенного сердцебиения следует обратиться к врачу.\nОбратите внимание, что данные о низком уровне ЧСС не предназначены для медицинских целей, а также для диагностики, лечения или профилактики каких-либо заболеваний.\nНа дисплее отображаются только три последние записи о низком пульсе. Для получения дополнительной информации проверьте приложение.
+[lowtime.vitality]: Низкая интенсивность
+[lq_lunar.calendar]: начало осени
+[ltd_festival.calendar]: Dragon Heads
+[lx_lunar.calendar]: начало лета
+[mac.common]: Адрес Bluetooth
+[mac.settings]: MAC адрес
+[mac.system]: MAC адрес
+[made_in_China.settings]: Made in China
+[many_messages.notify]: many_messages.notify
+[mark_end.wm]: Конец периода
+[mark_start.wm]: Начало периода
+[martial_arts.sport]: Боевые искусства
+[max_add.worldclock]: Добавить до 20 местоположений
+[max_oxygen.training]: VO₂ max
+[maximum_oxygen_uptake.sport]: VO₂ max
+[maxofalarm.alarm]: Добавить до 10 будильников
+[measure.health]: Советы
+[measure1.health]: Наденьте ремешок выше запястной кости.
+[measure2.health]: Держите ремешок плотно прижатым и неподвижно.
+[measure3.health]: На результаты измерений могут влиять низкая температура, перфузия кожи и др.
+[measure3_1.health]: Держите часы неподвижно экраном вверх
+[measure4.health]: Эта функция не предназначена для медицинских целей.
+[measure6.health]: Данная функция не предназначена для медицинских целей, а также для диагностики, лечения или профилактики каких-либо заболеваний.
+[measure_result.health]: Результат
+[measuring.health]: Измерение
+[measuring.hr]: Измерение
+[measuring.oxygen]: Измерение
+[medium.pressure]: Умеренный
+[medley.sport]: Medley
+[menstru1%d%dmenstru2.wm]: Следующий период %1$d/%2$d
+[menstruation.wm]: Период
+[menstruation_in%d.wm]: День периода %d
+[message.settings]: Уведомления
+[metronome.sport]: Метроном
+[mi_home.mihome]: Mi Home
+[micompany.settings]: Xiaomi Communications Co., Ltd.
+[middletime.vitality]: Средняя интенсивность
+[miit_fat_burning_run.sport]: Запуск MIIT
+[miit_fat_burning_run_dsc.sport]: Интервальные тренировки средней и высокой интенсивности.
+[mild.pressure]: Умеренный
+[mild_zone.pressure]: Умеренный
+[min.common]: мин
+[min.sport]: Мин
+[min.tomatotimer]: Мин
+[min_allday.sleep]: мин
+[minute%d.breath]: %d мин
+[minute.breath]: Мин
+[minute.sleep]: мин
+[misansw_demibold.100]: NA
+[misansw_demibold.120]: NA
+[misansw_demibold.18]: NA
+[misansw_demibold.20]: NA
+[misansw_demibold.24]: NA
+[misansw_demibold.26]: NA
+[misansw_demibold.30]: NA
+[misansw_demibold.32]: NA
+[misansw_demibold.34]: NA
+[misansw_demibold.36]: NA
+[misansw_demibold.40]: NA
+[misansw_demibold.44]: NA
+[misansw_demibold.48]: NA
+[misansw_demibold.54]: NA
+[misansw_demibold.56]: NA
+[misansw_demibold.60]: NA
+[misansw_demibold.64]: NA
+[misansw_demibold.68]: NA
+[misansw_demibold.70]: NA
+[misansw_demibold.72]: NA
+[misansw_demibold.80]: NA
+[misansw_demibold.84]: NA
+[misansw_demibold.86]: NA
+[misansw_demibold.90]: NA
+[misansw_medium.20]: NA
+[misansw_medium.24]: NA
+[misansw_medium.26]: NA
+[misansw_medium.28]: NA
+[misansw_medium.30]: NA
+[misansw_medium.32]: NA
+[misansw_medium.34]: NA
+[misansw_medium.36]: NA
+[misansw_medium.40]: NA
+[misansw_medium.44]: NA
+[misansw_medium.48]: NA
+[misansw_medium.60]: NA
+[misansw_medium.64]: NA
+[misansw_medium.70]: NA
+[misansw_regular.20]: NA
+[misansw_regular.24]: NA
+[misansw_regular.26]: NA
+[misansw_regular.28]: NA
+[misansw_regular.30]: NA
+[misansw_regular.32]: NA
+[misansw_regular.34]: NA
+[misansw_regular.36]: NA
+[misansw_regular.40]: NA
+[misansw_regular.48]: NA
+[missed.phone]: Пропущенный вызов
+[miui_nodata.todo]: Задачи можно создавать с помощью голосового помощника Mi AI. Убедитесь, что Bluetooth подключен и задачи синхронизированы в приложении.
+[miwatch8.common]: Xiaomi Smart Band 8 Pro
+[mixed_aerobic.sport]: Аэробный комплекс
+[mode_title.settings]: Экономия заряда батареи
+[moderate.pressure]: Умеренный
+[moderate_running.sport]: Бег
+[moderate_zone.pressure]: Умеренный
+[modern_dance.sport]: Современный танец
+[mon_to_fri.todo]: M-F
+[monitor.hr]: Непрерывный мониторинг
+[monitor.oxygen]: Слежение в течение всего дня
+[monitor.pressure]: Круглосуточный мониторинг
+[monitor_box.oxygen]: При включении этой функции часы будут отслеживать уровень SpO₂, когда вы ведете малоподвижный образ жизни.
+[monitor_btn.sleep]: Расширенный мониторинг
+[monitor_content.hr]: Отслеживайте частоту сердечных сокращений круглосуточно
+[monitor_health.hr]: Нерегулярный BPM
+[monitor_ill.pressure]: При включении этой функции часы будут отслеживать уровень стресса, когда вы ведете малоподвижный образ жизни.
+[monitor_ill.sleep]: Включение расширенного мониторинга значительно сокращает время работы от аккумулятора. Все равно включить?
+[monitor_sub_exp.sleep]: При включении этой функции устройство будет отслеживать REM-фазы сна.
+[more_add.worldclock]: Добавление новых местоположений\nв приложении
+[more_sport.sport]: Больше
+[motion.settings]: Автоматическое определение
+[motion_disturb.settings]: Невозможно отправить напоминание о тренировке при включенном DND
+[motion_info.settings]: Получайте напоминания о начале тренировки.\nПоддерживаются такие виды тренировок, как ходьба, прыжки со скакалкой, гребля, велотренажер, эллиптический тренажер и бег.
+[motion_reminder.settings]: Включение напоминаний о тренировках влияет на время работы аккумулятора.
+[motion_sensing_game.sport]: Соматосенсорная игра
+[motion_title.settings]: Автоматическое определение
+[motor_sign.check_tool]: Определение числа вибраций:
+[motor_test.check_tool]: Обнаружение уровня вибрации (11/14)
+[motorboat.sport]: Катание на моторных лодках
+[muay_thai.sport]: Муай Тай
+[multi_connect.share]: multi_connect.share
+[musicController]: Музыка
+[mute.appname]: Беззвучный режим
+[mute_mode.mute]: Звук выключен
+[mute_title.mute]: Беззвучный режим
+[mute_toast.mute]: Звук включен
+[my_family.mihome]: Дома
+[mz_lunar.calendar]: Сезон мангровых зарослей
+[name.alipay]: Alipay
+[name.find_phone]: Найти телефон
+[name.timer]: Секундомер
+[name.tomatotimer]: Фокусировка
+[name.worldclock]: Мировое время
+[name_calorie.sport]: Калории
+[name_distance.sport]: Расстояние
+[name_duration.sport]: Время
+[name_hr_avg.sport]: Средний пульс
+[name_hr_max.sport]: Максимальный пульс
+[name_hr_zone.sport]: Зона пульса
+[name_info.tomatotimer]: Фокусировка
+[name_main.tomatotimer]: Фокусировка
+[name_num_cycle.sport]: Подходы
+[name_number.sport]: Прыжки
+[name_pace.sport]: Темп
+[name_speed.sport]: Скорость
+[name_times.sport]: Удары
+[name_title.tomatotimer]: Фокусировка
+[name_title.worldclock]: Мировые часы
+[name_trips.sport]: Длина
+[national_dance.sport]: Народный танец
+[near_reader.nfc]: Держать рядом со считывателем
+[network_error_content.alexa]: network_error_content.alexa
+[network_error_title.alexa]: network_error_title.alexa
+[new_record.sport]: Новый рекорд!
+[newest.ota]: Вы используете последнюю версию
+[next_easypregnancy.wm]: Фертильность
+[next_group.sport]: Следующий подход
+[next_item.sport]: Переход
+[next_menstruation.wm]: Период
+[next_ovulation.wm]: День овуляции
+[next_seg_name.sport%s]: Следующий: %s
+[nextday.settings]: следующий день %02d:%02d
+[nextstep.settings]: следующий
+[nfc1_test.check_tool]: Обнаружение NFC (13/14)
+[nfc2_test.check_tool]: Обнаружение NFC (14/14)
+[nfc_read.check_tool]: Достаточно близко, чтобы прочитать чистую карту
+[nfc_sign.check_tool]: Пожалуйста, проводите тестирование рядом с устройством чтения карт памяти
+[nfc_simulate.check_tool]: Тестирование аналоговых карт
+[no_add.worldclock]: Не добавлено ни одного местоположения
+[no_card.nfc]: Добавьте карты в приложении
+[no_connectable_devices.sport]: Устройство не найдено
+[no_data.calendar]: Нет данных о событиях
+[no_data.common]: Данные отсутствуют
+[no_data.pressure]: Нет данных на сегодня
+[no_data.wm]: Нет данных
+[no_device_conn.common]: Отсутствие подключенных устройств
+[no_enabled.wm]: Включите эту функцию в приложении
+[no_message.notify]: Нет уведомлений
+[no_permission.media]: Права не предоставлены
+[no_record.wm]: Включите функцию прогноза изменения периодов в приложении
+[no_record_today.wm]: Нет данных сегодня
+[no_remind.oxygen]: Выключен
+[no_reminder_today.common]: Отключить на сегодня
+[no_setting.mihome]: Нет настроек
+[no_target.sport]: Открытая цель
+[no_title.calendar]: Без названия
+[no_try_again.settings]: Правильный жест не распознан, попробуйте еще раз!
+[noai_nodata.todo]: Добавлять задачи можно в приложении. Сначала убедитесь, что Bluetooth подключен.
+[nodata.hr]: На сегодня данных нет
+[nodata.oxygen]: На сегодня данных нет
+[nodata.sleep]: Не снимайте часы перед сном для получения данных о сне
+[nodata.todo]: Отсутствие напоминаний о задачах
+[nodata.wm]: Логирование деталей цикла в приложении
+[noinit_tips.calendar]: Включите функцию "События" в приложении
+[noise_reduction.share]: Шумоподавление
+[nonedata.weather]: nonedata.weather
+[noplay.share]: Не воспроизводится звук
+[noreminder.vitality]: Отклонить сегодня
+[nosync.wm]: Данные приложения не были синхронизированы
+[not_disturb_close.ctrl]: DND выключен
+[not_disturb_open.ctrl]: DND включен
+[not_disturb_open.settings]: DND включен
+[not_enabled.wxpay]: Не включено
+[not_play.media]: Не воспроизводится
+[not_remind.sport]: Отклонить
+[not_reminder.reminder]: Не показывать снова
+[not_shake.health]: Оставайтесь неподвижным
+[not_support.aivs]: Содержание текста превышает верхний предел, Ai пока не поддерживает эту функцию
+[not_support_area_content.alexa]: not_support_area_content.alexa
+[not_support_area_title.alexa]: not_support_area_title.alexa
+[not_support_playback.alexa]: not_support_playback.alexa
+[not_worn.hr]: Не используется
+[notice.notify]: notice.notify
+[notice_message.settings]: Уведомления
+[notice_text1.tomatotimer]: При использовании функции фокусировки таймер обычно устанавливается на 25 минут, в течение которых можно сосредоточиться на одной задаче.
+[notice_text2.tomatotimer]: Когда устройство завибрирует, значит наступило время 5-минутного перерыва.
+[notice_text3.tomatotimer]: После четырех 25-минутных подходов сделайте перерыв на 15-20 минут.
+[notify.notify]: Уведомления
+[notopen_password.wxpay]: Не сейчас
+[now.common]: Сейчас
+[null.settings]: Нет
+[null_28.settings]: Нет
+[number_group.sport]: Прыжков в подходе
+[nums_rope_all_group.sport]: Общее количество прыжков
+[nums_rope_group.sport]: Текущий подход
+[nums_rowing_all_group.sport]: Общее количество ударов
+[nums_rowing_group.sport]: Текущий подход
+[off.sleep]: Выключить
+[offbody.health]: Затяните ремешок часов и повторите попытку
+[ok.alipay]: Добавлено
+[ok.health]: OK
+[ok.pressure]: OK
+[ok.wxpay]: OK
+[on.sleep]: Включить
+[once.alarm]: Однократно
+[once.todo]: Однократно
+[onemin.hr]: Каждую минуту
+[open.alipay]: Согласен
+[open_1hour.ctrl]: DND включен на 1 час
+[open_1hour.settings]: 1 час
+[open_4hour.ctrl]: DND включен на 4 часа
+[open_4hour.settings]: 4 часа
+[open_all_day.settings]: Весь день
+[open_from_phone.notify]: Открыть в телефоне
+[open_mi.mihome]: Задать команды для этого сценария можно в приложении Mi Home/Xiaomi Home.
+[open_password.wxpay]: Включить PIN-код
+[open_ring.mute]: Ожидайте
+[open_ring_ing.mute]: Включить
+[open_widget.wxpay]: Включить Weixin Pay
+[open_widget_btn.wxpay]: Включить
+[opening.alipay]: Добавление...
+[openswitch.alarm]: Включен
+[optimization.settings]: Оптимизация
+[optimization_content.settings]: Оптимизация позволяет выявить функции, которые расходуют значительное время работы от батареи.
+[os_ver.common]: Версия системы
+[other_nodata.todo]: Добавлять задачи можно в приложении или с помощью голосового помощника Mi AI. Сначала убедитесь, что Bluetooth подключен.
+[other_sports.sport]: Другое
+[others.share]: others.share
+[outdoor_skating.sport]: Катание на коньках
+[outdoor_sports.sport]: Активный отдых
+[ovula1%d%dovula2.wm]: Следующий день овуляции %1$d/%2$d
+[ovulation_day.wm]: Овуляция
+[oxygen]: SpO₂
+[oxygen.common]: Оксиметрия
+[oxygen_explain1.training]: VO₂ max представляет собой максимальный объем поглощения кислорода, измеренный в ходе инкрементальной тренировки при максимальном усилии. Это показатель аэробной выносливости и работоспособности. Как правило, высокое значение VO₂ max означает, что вы можете выполнять упражнения с более высокой интенсивностью.
+[oxygen_explain2.training]: VO₂ max является ключевым показателем аэробных возможностей организма. Часы оценивают ваши спортивные способности на основе таких факторов, как возраст, пол и частота сердечных сокращений во время тренировки. Показатель VO₂ max будет меняться по мере улучшения спортивных способностей.
+[pace_for_the_first_kilometer.sport]: Предыдущий км
+[pace_remind.sport]: Напоминание
+[paddle_board.sport]: Паддлбординг
+[pair_desc.setupwizard]: Сопряжение
+[pair_sign.setupwizard]: Начните в приложении「Mi fitness」в вашем телефоне
+[pairing.phone]: Отправка
+[pairing.setupwizard]: Сопряжение...
+[paraglider.sport]: Парапланеризм
+[parallel_bars.sport]: Брусья
+[parkour.sport]: Паркур
+[partical_cal.sport]: Завершено
+[partical_numbe.sport]: Завершено
+[partical_times.sport]: Завершено
+[past_widget.vitality]: Прошлое
+[pause.common]: Пауза
+[pause.sport]: Пауза
+[pause.tomatotimer]: Пауза
+[pause_hint.sport]: Пауза
+[pay.nfc]: Оплата
+[pay_finish.nfc]: Выполнено
+[pay_widget.wxpay]: Оплата через Weixin Pay
+[pay_widget_btn.wxpay]: Показать код
+[paycode.alipay]: Alipay
+[per_minute.sport]: JPM
+[period1%d%dperiod2.wm]: Следующий фертильный период начинается %1$d/%2$d
+[permission_tip.media]: Разрешить уведомления для приложения в Настройках
+[phone.appname]: телефон
+[phonebind.alipay]: Сканирование с помощью Alipay
+[photograph]: Камера
+[physical_training.sport]: Физическая подготовка
+[pilates.sport]: Пилатес
+[pingpong.sport]: Настольный теннис
+[play_tip.media]: Воспроизведение музыки на телефоне и разрешение уведомлений от приложений
+[please_act.act]:  
+[plus%dhour.worldclock]: +%dhr
+[pm.common]: PM
+[pm_t.alarm]: PM
+[pm_t.calendar]: PM
+[pm_t.todo]: PM
+[pole_dance.sport]: Танец на шесте
+[pool_length.sport]: Длина бассейна
+[power_saving.settings]: Выход из режима экономии заряда батареи
+[power_toast_mode.settings]: При включенном режиме экономии заряда батареи будет доступно только время, счетчик шагов и NFC. Для выключения нажмите и удерживайте тач-скрин или подключите зарядку.
+[ppg_result.check_tool]: PD接收器值:
+[ppg_test.check_tool]: Оксиметрия сердечного ритма (5/14)
+[pratical_distance.sport]: Завершено
+[pratical_duration.sport]: Цель
+[pratical_trips.sport]: Завершено
+[pre_menstruation_in%d.wm]: День периода %d
+[pre_menstruation_out%d.wm]: Период в %dd
+[predicta_menstruation.wm]: Расчетный период
+[prefer.settings]: Предпочтения
+[prefer_title.settings]: Предпочтения
+[prepare_sleep.reminder]: Спокойный сон
+[pressure]: Стресс
+[pressure_high.pressure]: Высокий уровень стресса
+[procedure.sport]: План тренировки
+[progress.vitality]: 7-дневный прогресс
+[projection.sport]: Cast
+[projection_no_device.sport]: Проверьте соединение между телефоном и телевизором
+[puck.sport]: Хоккей
+[pwd.settings]: PIN-код
+[pwd_close.settings]: Отключить PIN-код
+[pwd_closed.settings]: PIN-код отключен
+[pwd_closed.system]: PIN-код отключен
+[pwd_err.common]: Неправильный
+[pwd_modify.settings]: Изменить PIN-код
+[pwd_open.settings]: Установить PIN-код
+[pwd_set_again.settings]: Подтверждение PIN-кода
+[pwd_set_ok.settings]: PIN-код установлен
+[pwd_title.settings]: PIN
+[pwd_wrong.settings]: PIN-код не совпадает
+[qf_lunar.calendar]: Осеннее равноденствие
+[qm_lunar.calendar]: 清明
+[quality_box.sleep]: Контроль дыхания значительно сокращает время работы от аккумулятора. Включить в любом случае?
+[qx_festival.calendar]: Праздник двойной семерки
+[racing_car.sport]: Автогонки
+[raise_bright_close.ctrl]: "Поднять для пробуждения” выключено
+[raise_bright_open.ctrl]: "Поднять для пробуждения” включено
+[reach_1.act]: Все цели достигнуты
+[reach_2.act]: Все цели достигнуты
+[read_card.nfc]: Чтение карты
+[ready.ota]: Часы будут обновляться автоматически сегодня вечером или при зарядке
+[rebind.alipay]: Если вы удалите его, то не сможете использовать Alipay. Удалить?
+[receiving.ota]: Получение обновления
+[receiving_fail.ota]: Прервано
+[receiving_success.ota]: Обновление завершено
+[record_file.check_tool]: файл записи звука
+[record_start.check_tool]: Начало записи
+[record_test.check_tool]: Обнаружение звука (8/14)
+[recording.check_tool]: Запись
+[recovery_dsc1.training]: Вы можете увеличить интенсивность тренировок.
+[recovery_dsc2.training]: Тренируйтесь как обычно.
+[recovery_dsc3.training]: Тренируйтесь с меньшей интенсивностью.
+[recovery_dsc4.training]: Правильно отдыхайте и делайте паузы в тренировках.
+[recovery_duration.sport]: Время восстановления (час)
+[ref_check.share]: Проверьте подключение устройства
+[ref_err.share]: Не смог открыть доступ
+[regulation.common]: Нормативная информация
+[regulation.settings]: Regulatory
+[regulation_title.settings]: Regulatory
+[relax.breath]: Расслабьтесь
+[relax.pressure]: Расслабленный
+[relax.sport]: Cool-down
+[relax_remind.pressure]: Напоминание о отдыхе
+[relax_remind_ill.pressure]: Эта функция предложит выполнить дыхательные упражнения, если уровень стресса выше 80 в течение 10 минут.
+[relax_zone.pressure]: Расслабленный
+[relaxed_time.sport]:  
+[rem.sleep]: REM
+[remain_duration_group.sport]: Осталось
+[remain_duration_segment.sport]: Осталось
+[remain_number_group.sport]: Осталось
+[remain_times_group.sport]: Осталось
+[remain_trips_group.sport]: Осталось
+[remind.alarm]: Интеллектуальное пробуждение
+[remind_high.hr]: Высокий уровень сердечного ритма
+[remind_low.hr]: Низкий уровень сердечного ритма
+[remind_menstruation.wm]: Предстоящий период
+[remind_ovulation.wm]: Предстоящая овуляция
+[remind_period.wm]: Предстоящий фертильный период
+[reminder.ota]: Напоминание об обновлении
+[reminder.sport]: Оповещения
+[reminder_deleted.alexa]: reminder_deleted.alexa
+[reminder_interval.sport]: Напоминание об интервале
+[remindinformation.alarm]: Позвольте вашим часам в течение 10 минут до сигнала будильника определить, когда вас разбудить.
+[remote_camera.appname]: Камера
+[remove.common]: Удалить
+[repeate.alarm]: Повторить
+[reply.common]: Возврат
+[report_cd_data.sport]: Сводка
+[report_cd_freq.sport]: Частота
+[report_cd_hr.sport]: ЧСС
+[report_cd_pace.sport]: Pace
+[report_cd_seg_pace.sport]: Pace
+[report_cd_seg_stroke_rate.sport]: Частота ударов
+[report_cd_seg_swolf.sport]: SWOLF
+[report_cd_speed.sport]: Скорость
+[report_cd_target.sport]: Цель
+[reset_option.system]: Выключить PIN-код
+[reset_passwd.system]: Сброс PIN-кода
+[reset_settings.sport]: Сбросить все
+[rest.hr]: 30-дневный RHR
+[rest.tomatotimer]: Отдых
+[rest_day.calendar]: 休
+[rest_disp.settings]: Always-on display
+[rest_disp_info.settings]: Включение функции "Always-on display" может сократить время работы от аккумулятора вдвое. Функция "Активировать по поднятию руки" будет отключена. Продолжить?
+[rest_disp_reminder1.settings]: Время будет отображаться даже при заблокированном экране.
+[rest_disp_reminder2.settings]: Функция Always-on отключается, когда вы ложитесь спать или снимаете часы.
+[rest_disp_title.settings]: Always-on display
+[rest_time.settings]: Авто блокировка
+[rest_time.tomatotimer]: Отдых
+[rest_time_out.tomatotimer]: Время вышло
+[rest_time_title.settings]: Авто блокировка
+[rest_total.tomatotimer]: Время отдыха
+[rest_total_pause.tomatotimer]: Время отдыха
+[restart.breath]: Перезапустить
+[restart.health]: Перезапустить
+[restart.hr]: Попробуйте ещё раз
+[resting.tomatotimer]: Отдых
+[resttime_info.settings]: Если держать экран включенным в течение длительного времени, это приведет к сокращению срока службы батареи. Продолжить?
+[result_title.pressure]: Результат
+[result_upload.check_tool]: Загрузить
+[resume.common]: Продолжить
+[resume.sport]: Продолжить
+[retry.ota]: Повторите попытку в приложении
+[retry.setupwizard]: Попробуйте ещё раз
+[retry.sport]: Попробуйте ещё раз
+[retry_add.setupwizard]: Снова добавьте устройство
+[return.sport]: Назад
+[rhythm.breath]: Повторяйте за шариком
+[ride_indoor.sport]: Велосипедный тренажёр
+[ride_outdoor.sport]: Велосипед
+[riding_time.sport]: Велоспорт
+[ring.mute]: Звук включен
+[ring_toast.mute]: Звук выключен
+[rl1%drl2%02d:%02drl3.settings]: DND is on for %dh. Ends at %02d:%02d.
+[rock_climbing.sport]: Скалолазание
+[roller_skating.sport]: Катание на роликах
+[rope_skipping.sport]: Скакалка
+[rowing.sport]: Гребля
+[rowing_machine.sport]: Гребля
+[rugby.sport]: Американский футбол
+[run_fast.sport]: Спринт
+[run_indoor.sport]: Беговая дорожка
+[run_month_lunar.calendar]: 闰
+[run_outdoor.sport]: Бег на открытом воздухе
+[running_time.sport]: Бег
+[sailboat.sport]: Парусный спорт
+[sandbags_ball.sport]: Гирьевой спорт
+[satellite_positioning.sport]: Поиск
+[satellite_signal_weakness.sport]: Сигнал GPS слабый. Перейдите на открытую местность.
+[saturation1.oxygen]: 1. SpO₂ представляет собой процентное содержание кислорода в крови.
+[saturation1.pressure]: Подробнее
+[saturation1.sleep]: Когда вы надеваете браслет перед сном, он автоматически будет записывать информацию о вашем сне. На экране устройства будут отображаться 3 последние записи; более подробную информацию можно просмотреть в приложении.
+[saturation2.oxygen]: 2. Ваши часы определяют уровень SpO₂ следующим образом:- Повседневная деятельность: ≥95% - это нормально- Во время сна: ≥90% - это нормально：- В любое время, <90% требует внимания：Примечание: Ваши часы могут измерять уровень SpO₂ в диапазоне 75-100%.
+[saturation2.pressure]: Стресс - это реакция организма на проблемы и нагрузки.
+[saturation2.sleep]: Включите функцию расширенного мониторинга в разделе "Настройки", чтобы получить более точную информацию о сне, например, распознать REM-сон.
+[saturation3.oxygen]: 3. Существует множество факторов, которые могут сделать измерения неточными или недостоверными: нарушение целостности кожи, постоянные или временные дефекты кожи, движение или поза во время сна. Все вышеперечисленное может привести к ложному сигналу о низком уровне кислорода в крови.
+[saturation3.pressure]: Стресс измеряется только в периоды отдыха. Уровни стресса определяются следующим образом:
+[saturation3.sleep]: При продолжительности сна более 3 часов устройство отображает среднюю частоту сердечных сокращений. При продолжительности сна менее 3 часов отображается только время засыпания и пробуждения. Сон продолжительностью менее 20 минут не регистрируется.
+[saturation4.hr]: На точность измерений могут влиять особенности ношения часов, изменения состояния кожи и окружающей среды и т.д.
+[saturation4.oxygen]: Подсказки
+[saturation4.pressure]: На точность измерений могут влиять особенности ношения часов, изменения состояния кожи и окружающей среды и т.д.
+[saturation4.sleep]: Низкое качество сна и чрезмерные движения во время сна могут нарушить измерения частоты сердечных сокращений и SpO₂.
+[saturation5.oxygen]: 1. Наденьте ремешок выше запястной кости.
+[saturation5.pressure]: Подсказки
+[saturation6.oxygen]: 2. Закрепите плотно ремешок и оставайтесь неподвижным.
+[saturation6.pressure]: Наденьте ремешок выше запястной кости.
+[saturation7.oxygen]: Данная функция не предназначена для медицинских целей, а также для диагностики, лечения или профилактики каких-либо заболеваний.
+[saturation7.pressure]: Затяните ремешок плотно и неподвижно.
+[saturation8.pressure]: Данная функция не предназначена для медицинских целей, а также для диагностики, лечения или профилактики каких-либо заболеваний или состояний.
+[saturation_mild.pressure]: Умеренная: 26-50
+[saturation_moderate.pressure]: Средняя: 51-80
+[saturation_relax.pressure]: Расслабленный: 1-25
+[saturation_severe.pressure]: Высокая: 81+
+[saving.settings]: Экономия заряда батареи
+[saving_mode.settings]: Экономия заряда батареи
+[saving_state_label.settings]: Хороший
+[saving_state_poor.settings]: Плохой
+[saving_state_secondary.settings]: средний
+[saving_toast.settings]: На время автономной работы влияют следующие характеристики:
+[schedule.calendar]: События
+[screen_bright.settings]: Включить экран для
+[screen_bright_title.settings]: Включить экран для
+[screen_cover.settings]: Накрыть для отключения
+[screen_toast.settings]: Выключите, чтобы продлить срок службы батареи на %d часов.
+[screen_up.health]: Держите запястье горизонтально, а экран направьте вверх
+[searching.common]: Поиск
+[searching.sport]: Поиск
+[sec.common]: 秒
+[sec.sport]: Секунды
+[sec.timer]: Секунды
+[sec_unit.common]: s
+[select_device.share]: Устройство
+[send_fail.phone]: Не удалось отправить
+[send_sucss.phone]: Отправлено
+[sepak_takraw.sport]: Сепак такрава
+[set.vitality]: Настройки
+[set_time.tomatotimer]: Установить период действия
+[setting.common]: Настройки
+[setting.hr]: Настройки
+[setting.settings]: Настройки
+[setting_btn.oxygen]: Настройки
+[setting_btn.pressure]: Настройки
+[setting_btn.sleep]: Настройки
+[setting_title.oxygen]: Настройки
+[setting_title.pressure]: Настройки
+[setting_title.sleep]: Настройки
+[settings.appname]: Настройки
+[sevendays.vitality]: Оценка уровня жизненной активности за 7 дней
+[sevendays100.vitality]: Последние 7 дней: 100 баллов
+[sevendays100_text.vitality]: Вас не остановить, продолжайте в том же духе!
+[sevendays30.vitality]: Последние 7 дней: 30 баллов
+[sevendays30_text.vitality]: Продолжайте двигаться, чтобы добиться еще больших результатов!
+[sevendays60.vitality]: Последние 7 дней: 60 баллов
+[sevendays60_text.vitality]: Вы на правильном пути!
+[sevendays_widget.vitality]: Последние 7 дней
+[severe.pressure]: Severe
+[severe_zone.pressure]: Severe
+[shake_info.settings]: Try to shake the horizontal direction outward quickly twice, wait for the identification result, need to identify successfully twice.
+[shake_info1.settings]: Руки параллельны груди
+[shake_info2.settings]: Ладонь вниз, экран вверх
+[shake_info3.settings]: Дважды быстро встряхнуть в горизонтальном направлении
+[shake_wirst.settings]: Встряхнуть запястье
+[share_see_device.common]: Пожалуйста, проверьте статус вашего устройства на мобильном MyoCentre
+[sharedevice.share]: Mi Smart Hub
+[short.sleep]: Ворс
+[shuffle_ball.sport]: Шаффлборд
+[shutdown.reminder]: Часы перегрелись. Отключение питания.
+[shuttlecock.sport]: Shuttlecock
+[shuttlecock_kicking.sport]: Shuttlecock
+[single_bar.sport]: Горизонтальная планка
+[sit_ups.sport]: Сидячие упражнения
+[sj_lunar.calendar]: Мороз
+[skate.sport]: Скейтборд
+[sled.sport]: Катание на санях
+[sleep]: Сон
+[sleep_breathe.settings]: Оценка дыхания
+[sleep_precision.settings]: Расширенный мониторинг сна
+[sleep_times.reminder]: Сон
+[slow_down.sport]: Замедление
+[sn.common]: Серийный номер
+[sn.settings]: Серийный номер
+[sn.system]: Серийный номер
+[snorkeling.sport]: Снорклинг
+[snow_car.sport]: Бобслей
+[snow_sports.sport]: Другие зимние виды спорта
+[snowboarding.sport]: Сноуборд
+[snowmobile.sport]: Снегоход
+[social_dancing.sport]: Бальные танцы
+[softball.sport]: Софтбол
+[software_version.check_tool]: Версия программного обеспечения:
+[soinning.sport]: Спиннинг
+[source_info.settings]: Пожалуйста, расположите руки параллельно груди, ладонями вниз, а часы экраном вверх.
+[speed_avg_imp.sport]: Средняя скорость
+[speed_imp.sport]: Скорость
+[speed_remind.sport]: Напоминание
+[speed_up.sport]: Ускорение
+[sport]: Тренировка
+[sport_expression.sport]: Эффект тренировки
+[sport_health.watchface]: спортивное здоровье
+[sports.appname]: Тренировка
+[sports_course.appname]: Запуск
+[sports_record.appname]: История
+[spring_festival.calendar]: Праздник весны (китайский Новый год)
+[square_dance.sport]: Square dancing
+[squash.sport]: Squash
+[stand]: Стояние
+[stand.act]: Стояние
+[stand.explain]: "Стояние" показывает часы, в которые вы встаете и двигаетесь. Попробуйте встать и подвигаться в течение 12 различных часов в течение дня.
+[stand_reach.act]: Попадание в цель
+[stand_title.explain]: Стояние
+[start.breath]: Старт
+[start.common]: Старт
+[start.find_phone]: Поиск
+[start.health]: Измерение
+[start.settings]: Старт
+[start.sport]: Старт
+[start_sport.sport]: Старт
+[start_stretch.sport]: Растяжка
+[start_time.settings]: Старт
+[start_warmup.sport]: Разминка
+[starting.alexa]: starting.alexa
+[state.settings]: Отличный
+[state_screen.settings]: Always-on display
+[status1.training]: Низкий
+[status2.training]: Хороший
+[status3.training]: Высокий
+[status4.training]: Очень высокий
+[status_dsc.training]: Последние 7 дней
+[stay_still.health]: Сохраняйте спокойствие
+[step]: Шаги
+[step.act]: Шаги
+[step.explain]: "Шаги" показывают ежедневное количество шагов. Активный человек проходит от 8000 до 10 000 шагов в день.
+[step_minute.sport]: шаги/мин
+[step_reach.act]: Попадание в цель
+[step_title.explain]: Шаг
+[step_training.sport]: Stepper
+[stepper.sport]: Stepper
+[stick_skin.health]: Следите за тем, чтобы ремешок касался вашей кожи
+[stop.calendar]: Остановить
+[stop.common]: отказ от использования
+[stop.find_phone]: Остановить
+[stop.reminder]: Остановить
+[stop.sport]: Конец
+[stopwatch]: Секундомер
+[storag_status.check_tool]: Статус.
+[storag_test.check_tool]: Обнаружение хранилищ (6/14)
+[storage_space.sport]: Недостаточно памяти
+[storage_space_tips.sport]: Подключите телефон, чтобы избежать перезаписи ранее сделанных записей о тренировках.
+[street_dance.sport]: Уличные танцы
+[strength_training.sport]: Прочность
+[stretch.sport]: Растяжка
+[stretch_after_jump.sport]: Post-jump rope stretch
+[stretch_after_long_run.sport]: Растяжка после бега на длинные дистанции
+[stretch_after_run.sport]: Растяжка после бега
+[stretch_course.sport]: Курс стретчинга
+[stretch_cycling.sport]: Post-cycling stretch
+[stretch_end.sport]: Растяжка завершена
+[stretch_total_body.sport]: Растяжка всего тела
+[stride_frequency.sport]: Каденс
+[strike.sport]: Кардиотренировка
+[style.wf]: Стиль
+[sublist.todo]: Задачи
+[summarize.sport]: Сводка
+[sure.watchface]: OK
+[sure_to_close_all_reminder.sport]: Отключить все напоминания о тренировках?
+[sure_to_reset_all_setting.sport]: Сбросить все настройки тренировки?
+[surfing.sport]: Водные лыжи
+[surfing_indoor.sport]: Flowriding
+[swim_indoor.sport]: Плавание в бассейне
+[swim_lock_prompt.sport]: При запуске экран будет заблокирован. Для разблокировки проведите пальцем вверх, затем вниз.
+[swim_main_style.sport]: Основной стиль
+[swim_outdoor.sport]: Плавание в море
+[swimming_time.sport]: Плавание
+[swing.sport]: Качели
+[switch.share]: switch.share
+[swordsmanship.sport]: Кендо
+[sys_newphone.common]: Подключение нового телефона
+[sys_newphone_info.common]: Подключение к новому телефону приведет к отключению текущего соединения, без изменения привязки аккаунта персональные данные не будут потеряны, продолжить?
+[sys_poweroff.common]: Выключить
+[sys_poweroff.settings]: Выключить
+[sys_poweroff_info.common]: Подтвердить отключение?
+[sys_poweroff_info.settings]: Выключить питание?
+[sys_reboot.common]: Вновь открыть
+[sys_reboot.settings]: Перезагрузка
+[sys_reboot_info.common]: Подтвердить перезагрузку?
+[sys_reboot_info.settings]: Перезагрузить сейчас?
+[sys_reset.common]: Восстановление заводских настроек
+[sys_reset.settings]: Сброс
+[sys_reset_info.common]: Все данные и настройки будут стерты, подтверждаете сброс к заводским настройкам?
+[sys_reset_info.settings]: Сброс к заводским настройкам приведет к удалению всех данных. Продолжить?
+[system.settings]: Система
+[system_option.setupwizard]: Система
+[system_reboot.ota]: Устройство перезагружается
+[system_title.settings]: Система
+[taekwondo.sport]: Тхэквондо
+[taichi.sport]: Tai chi
+[tail_tips.phone]: tail_tips.phone
+[target_%d_kcal.act]: Цель: %d ккал
+[target_%d_minute.act]: Цель: %d мин
+[target_%d_minute.sport]: Цель: %.*f мин
+[target_%d_num.act]: Цель: %d hr
+[target_%d_step.act]: Цель: %d шагов
+[target_accomplishment%d%%.sport]: Прогресс: %d%%
+[target_accomplishment.sport]: Выполнение цели
+[target_cal.sport]: Цель
+[target_confirm.sport]: Включение целей тренировки отключает интервальную тренировку. Включить сейчас?
+[target_distance.sport]: Цель
+[target_duration.sport]: Завершено
+[target_heartrate_zone.sport]: Целевая зона ЧСС
+[target_number.sport]: Цель
+[target_range%d-%d.sport]: Цель BPM: %1$d–%2$d
+[target_times.sport]: Цель
+[target_trips.sport]: Цель
+[temp_no_schedule.calendar]: Нет событий
+[tenmin.hr]: Every 10 минут
+[tennis.sport]: Теннис
+[test_again.check_tool]: повторная попытка
+[test_exit.check_tool]: прервать
+[test_fail.check_tool]: не удается
+[test_pass.check_tool]: принять
+[test_stop.check_tool]: закрыть
+[the_course_has_been_completed.sport]: Курс завершен
+[thinking.alexa]: thinking.alexa
+[thirty_btn.pressure]: Последние 30 дней
+[thirty_title.pressure]: Последние 30 дней
+[thirtymin.hr]: Каждые 30 минут
+[this_train_time.breath]: Сессия
+[time.alarm]: Время
+[time.wf]: Время
+[time/min.health]: BPM
+[time_break.sport]: Отдых
+[time_break_title.sport]: Время отдыха
+[time_dsc.training]: Время восстановления
+[time_hour.alarm]: Час
+[time_min.alarm]: Минута
+[time_on.settings]: Запланировано
+[time_on_28.settings]: Запланировано
+[time_on_title.settings]: Запланировано
+[time_rest.sport]: Время отдыха
+[time_rest_total.sport]: Время отдыха
+[time_too_short.sport]: Время тренировки слишком короткое для сохранения.
+[time_too_short_resume.sport]: Время тренировки слишком короткое для сохранения. Завершить?
+[time_total.sport]: Время тренировки
+[time_unit.training]: hr
+[timeout.hr]: Не удалось измерить
+[timer_deleted.alexa]: timer_deleted.alexa
+[times_group.sport]: Этот сет
+[timesetting.alarm]: Время
+[tips.alipay]: На устройстве уже отсутствует сопряжение. Перейдите к мобильному Alipay, чтобы отменить сопряжение устройства для завершения процесса
+[tips1.watchface]: Открыть мобильное приложение\n Добавить новые циферблаты
+[tips_open.remote_camera]: Откройте камеру на телефоне
+[tips_password.wxpay]: Установите пароль для безопасности
+[title.find_phone]: Найти телефон
+[title.oxygen]: SpO₂
+[title.pressure]: Стресс
+[title.sleep]: Сон
+[title.timer]: Таймер
+[to_enable.wxpay]: Для включения используйте Weixin для сканирования QR-кода.
+[to_get1.training]: 1. Заполните свои персональные данные в приложении.
+[to_get2.training]: 2. Наденьте часы и бегайте на свежем воздухе в течение 10+ минут, чтобы достичь 75% от максимального сердечного ритма.
+[tob.alipay]: Штрих-код
+[today.calendar]: Сегодня
+[today.common]: Сегодня
+[today.todo]: Сегодня
+[today.tomatotimer]: Сегодня
+[today_d.common]: 今日
+[today_no_remind.act]: Прекратить сегодня
+[today_no_title.calendar]: Сегодня мероприятий нет
+[today_rest.hr]: Сегодня
+[today_t.calendar]: Сегодня
+[today_t.common]: 今
+[todayget%d_widget.vitality]: Сегодня: %d
+[todayget.vitality]: Сегодня
+[todayget80.vitality]: Сегодня: 80 баллов
+[todayget80_text.vitality]: Сегодня вы заработали максимальное количество баллов. Сделайте перерыв!
+[todo.appname]: Задачи
+[tomorrow.common]: Завтра
+[tomorrow.todo]: Завтра
+[tomorrow.wm]: Завтра
+[tools.common]: артефакт
+[toq.alipay]: QR-код
+[total_nums.sport]: Общее количество прыжков
+[total_rowing_times.sport]: Общее количество ударов
+[total_stokes.sport]: Общее количество ударов
+[tp_sign.check_tool]: 对所有方块进行\n连接操作
+[tp_test.check_tool]: TP划线检测(9/14)
+[track_and_field.sport]: Легкая атлетика
+[train.breath]: Дыхательные упражнения
+[train.sport]: Тренировка
+[train_setting.sport]: Настройки
+[training.sport]: Тренировка
+[training_interrupted.breath]: Breathing was interrupted
+[training_load.sport]: Запуск тренировки
+[training_result.breath]: Результаты
+[transport.share]: Прозрачность
+[triathlon.sport]: Триатлон
+[trips_group.sport]: Продолжительность данного сета
+[try_again_later.wxpay]: Повторите попытку позже
+[tug_of_war.sport]: Перетягивание каната
+[turning_word.weather]: turning_word.weather
+[turnoff.alarm]: Выключить
+[turnoff.common]: Выключить
+[turnoff.reminder]: Выключить
+[turnoff.todo]: Выключить
+[turnon.common]: Включить
+[twelfth_month_lunar.calendar]: двенадцатый лунный месяц
+[twenty_day_lunar.calendar]: 廿
+[unable_to_pay.wxpay]: Невозможность оплаты
+[unbind.alipay]: Удалить
+[unbinding.wxpay]: Unlink
+[unbinding_tips.wxpay]: После отвязки устройства невозможно совершать платежи с помощью Weixin Pay.
+[unbound.wxpay]: Несвязанный
+[uncompleted.todo]: Не выполнено
+[uncompleted32.todo]: Не выполнено
+[unit_calorie.sport]: Ккал
+[unit_foot.sport]: Feet
+[unit_kilometer.sport]: Km
+[unit_meter.sport]: Метры
+[unit_mile.sport]: Мили
+[unit_minute.sport]: Минуты
+[unit_mph.sport]: MPH
+[unit_num_cycle.sport]: Повторения
+[unit_number.sport]: Прыжки
+[unit_rope_freq.sport]: JPM
+[unit_rowing_freq.sport]: SPM
+[unit_speed.sport]: Км/ч
+[unit_times.sport]: Удары
+[unit_trips.sport]: Длина
+[unknown_artist.media]: Неизвестный
+[unknown_song.media]: Неизвестный
+[unknown_status.media]: Нет данных о музыке
+[unlock_use.common]: Введите PIN-код для разблокировки
+[unopenswitch.alarm]: Отключить
+[unread_message.notify]: уведомление
+[unwanted.settings]: Хорошо
+[up_sign.setupwizard]: Сканирование QR-кода
+[update_back.setupwizard]: Возврат к предыдущей версии
+[update_fail.setupwizard]: Невозможно обновить
+[update_succ.setupwizard]: Обновление завершено
+[upgrading.ota]: Подготовка обновления
+[upload_fail.check_tool]: Загрузка не удалась
+[upload_sign.check_tool]: После загрузки перейдите в приложение для просмотра сводной информации
+[upload_success.check_tool]: Загрузка завершена
+[upper_limb_training.sport]: Верхняя часть тела
+[upper_limit_reminder%dtimes/minute.sport]: Порог: %d BPM
+[use.alipay]: Подтвердить
+[version_info.check_tool]: Проверка информации о версии
+[very_good.breath]: Хорошая работа
+[vibrate_enhance.settings]: Сильная
+[vibrate_mode.settings]: Вибрация
+[vibrate_mode_title.settings]: Вибрация
+[vibrate_standard.settings]: Нормальный
+[voice_mode.share]: Звуковой режим
+[volleyball.sport]: Волейбол
+[waist_training.sport]: Abs
+[wait.reminder]: Дремать
+[waiting_location.sport]: Дождитесь определения местоположения по GPS, чтобы начать тренировку.
+[wake_num.sleep]: Пробуждение
+[wake_up.reminder]: Время просыпаться
+[walk_indoor.sport]: Ходьба в помещении
+[walk_outdoor.sport]: Прогулка
+[walking_maching.sport]: Air walker
+[wall_ball.sport]: Wall ball
+[warm_up.sport]: Лёгкая
+[warm_up_done.sport]: Выполнено
+[warm_up_interval.sport]: Лёгкая
+[warm_up_time.sport]:  
+[warmup_before_jump.sport]: Разминка со скакалкой перед прыжками
+[warmup_before_long_run.sport]: Разминка перед бегом на длинную дистанцию
+[warmup_before_run.sport]: Разминка перед бегом
+[warmup_course.sport]: Разминочный курс
+[warmup_cycling.sport]: Предварительная разминка перед тренировкой
+[warmup_end.sport]: Разминка завершена
+[warmup_switch.sport]: Переключатель
+[warmup_total_body.sport]: Разминка для всего тела
+[warmup_zone.hr]: Свет
+[warmup_zone1.hr]: Для разминки и отдыха рекомендуется выдерживать 50%-60% от максимального значения пульса.
+[warning.flashlight]: Заряд батареи 5%
+[warning2.flashlight]: Невозможно включить фонарик
+[watchface.settings]: Редактирование дисплея
+[watchmode.settings]: Модель
+[water_polo.sport]: Водное поло
+[water_sports.sport]: Другие водные виды спорта
+[wear_tight.health]: Следите за тем, чтобы ремешок касался кожи
+[wearing_notice.settings]: Сообщать только при ношении
+[wearing_notice_toast.settings]: Отключение уведомлений при снятии браслета с запястья
+[weatherCondition]: Погода
+[weather_title.alexa]: weather_title.alexa
+[web_swimming.sport]: Плавание на финках
+[wechat.common]: Weixin
+[wechatPayment]: Weixin Pay
+[weekly.alarm]: Пользовательский
+[weightlifting.sport]: Тяжелая атлетика
+[weiqi.sport]: Weiqi
+[widget_calorie.act]: Калории
+[widget_intensity.act]: Перемещение
+[widget_stand.act]: Stand
+[widget_step.act]: Шаги
+[windLevel]: Ветер
+[winter_sports.sport]: Зимние виды спорта
+[wm_exp.wm]: Подробнее
+[womenhealth.wm]: Циклы
+[work_day.calendar]: 班
+[workday.alarm]: Рабочие дни
+[workday.common]: Рабочие дни
+[workday.todo]: Рабочие дни
+[wrestling.sport]: Борьба
+[wrist_screen.settings]: Поднять для пробуждения
+[wristlift.settings]: Поднять для пробуждения
+[wristlift_info.settings]: "Always-on display" включён. Включение функции "Поднять для пробуждения" приведет к сокращению времени автономной работы. Все равно включать?
+[wristlift_title.settings]: Поднять для пробуждения
+[wxpay.appname]: Weixin Pay
+[xh_lunar.calendar]: прохладная погода
+[xiaomitv.share]: TV
+[xm_lunar.calendar]: небольшая полнота
+[xn_festival.calendar]: лунный Новый год
+[xs_lunar.calendar]: тепловой удар (ТКМ)
+[xx_lunar.calendar]: снег
+[xz_lunar.calendar]: летнее солнцестояние
+[yes_try_again.settings]: Очень хорошо, пожалуйста, попробуйте еще раз!
+[yesterday.common]: вчера
+[yesterday.todo]: Вчера
+[yoga.sport]: Йога
+[ys_lunar.calendar]: дождевая вода
+[yx_festival.calendar]: Фестиваль фонарей
+[zone.hr]: Зона HR
+[zone.pressure]: Подробности
+[zoneexp.hr]: Подробнее
+[zq_festival.calendar]: праздник Середины осени
+[zumba.sport]: Zumba
+[zy_festival.calendar]: праздник Середины месяца Юань
