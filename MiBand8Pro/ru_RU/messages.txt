@@ -548,10 +548,10 @@
 [basic_run_walk.sport|1]: Базовый бег/ходьба
 [basic_run_walk_dsc.sport|1]: Более короткие интервальные тренировки для здоровья сердца и легких.
 [basketball.sport|1]: Баскетбол
-[battery.appname|1]: батарея
+[battery.appname|1]: Батарея
 [battery.settings|1]: Батарея
 [batteryLevel|1]: Батарея
-[battery_cqr.setupwizard|1]: батарея:
+[battery_cqr.setupwizard|1]: Батарея:
 [battery_title.settings|1]: Батарея
 [battle_rope.sport|1]: Перетягивание каната
 [beach_football.sport|1]: Пляжный футбол
@@ -1054,7 +1054,7 @@
 [judo.sport|1]: Дзюдо
 [jujitsu.sport|1]: Джиу-джитсу
 [jump.sport|1]: Пропустить
-[just.common|1]: совсем недавно
+[just.common|1]: недавно
 [just.health|1]: Сейчас
 [just_now.pressure|1]: Сейчас
 [jz_lunar.calendar|1]: спящий режим
@@ -1142,7 +1142,7 @@
 [lowbattery_5.reminder|1]: Аккумулятор менее 5%
 [lowbattery_5_btn_tip.reminder|1]: Включить
 [lowbattery_5_tip.reminder|1]: Включить функцию экономии заряда батареи?
-[lowbattery_title.reminder|1]: Разряженная батарея
+[lowbattery_title.reminder|1]: Разряжена
 [lower_limb_training.sport|1]: Нижняя часть тела
 [lowexp.hr|1]: Подробнее
 [lowexp1.hr|1]: Устройство оповещает вас
@@ -1446,7 +1446,7 @@
 [per_minute.sport|1]: JPM
 [period1%d%dperiod2.wm|1]: Следующий фертильный период начинается %1$d/%2$d
 [permission_tip.media|1]: Разрешить уведомления для приложения в Настройках
-[phone.appname|1]: телефон
+[phone.appname|1]: Телефон
 [phonebind.alipay|1]: Сканирование с помощью Alipay
 [photograph|1]: Камера
 [physical_training.sport|1]: Физическая подготовка
