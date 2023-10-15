@@ -885,7 +885,7 @@
 [frequency.sport|1]: Частота
 [frisbee.sport|1]: Фрисби
 [fsn_info.check_tool|1]: FSN:
-[full_hour.common|1]: часы
+[full_hour.common|1]: ч
 [full_hour.settings|1]: час
 [full_hour.timer|1]: Ч
 [full_min.common|1]: мин
@@ -992,7 +992,7 @@
 [horse_riding.sport|1]: Верховая езда
 [hour.common|1]: ч
 [hour.sleep|2]: ч|ч
-[hour.sport|1]: Часы
+[hour.sport|1]: ч
 [hour_allday.sleep|2]: ч|ч
 [how_get.training|1]: Max VO₂
 [hr_current%s.sport|1]: Текущий ЧСС (%s)
