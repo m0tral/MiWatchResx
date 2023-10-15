@@ -56,8 +56,8 @@
 [%dhour.common|2]: %dч|%dч
 [%dhour.worldclock|2]: %dч|%dч
 [%dintensity_unit.act|2]: мин|мин
-[%ditem.todo|2]: %d item|%d items
-[%ditem_in_category.sport|2]: %d item|%d items
+[%ditem.todo|2]: %d шт|%d шт
+[%ditem_in_category.sport|2]: %d шт|%d шт
 [%ditem_schedules.calendar|2]: %d событие|%d событий
 [%dmin.common|2]: %d мин|%d мин
 [%dmin.vitality|2]: %d мин|%d мин
@@ -1590,7 +1590,7 @@
 [retry_add.setupwizard|1]: Снова добавьте устройство
 [return.sport|1]: Назад
 [rhythm.breath|1]: Повторяйте за шариком
-[ride_indoor.sport|1]: Велосипедный тренажёр
+[ride_indoor.sport|1]: Велотренажёр
 [ride_outdoor.sport|1]: Велосипед
 [riding_time.sport|1]: Велоспорт
 [ring.mute|1]: Звук включен
