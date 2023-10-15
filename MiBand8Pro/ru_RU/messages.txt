@@ -25,14 +25,14 @@
 [%d%2d_24end.calendar|1]: Окончание %1$d:%2$02d
 [%d%d%dyear_month_day.todo|1]: %2$d/%3$d/%1$d
 [%d%d_target_time.sleep|1]: Цельl: %dч %dмин
-[%d%d_time_sec.sleep|1]: %ч %мин
+[%d%d_time_sec.sleep|1]: %dч %dмин
 [%d%dmonth_day.common|1]: %1$dм %2$dд
 [%d%dmonth_day.todo|1]: %1$d/%2$d
 [%d%dmonth_day_slash.common|1]: %1$02d/%2$02d
-[%d%dravailable.settings|1]: До разряда: %dd %dh
+[%d%dravailable.settings|1]: До разряда: %dд %dч
 [%d%dyear_month.calendar|1]: %2$d/%1$d
 [%d:%d.worldclock|1]: %d:%d
-[%d_cnt/min_just.health|1]: %d  (сейчас)
+[%d_cnt/min_just.health|1]: %d уд/м (сейчас)
 [%d_hour_sec.sleep|2]: %d ч|%d ч
 [%d_message.notify|2]: %d уведомление|%d уведомления
 [%d_min_before.health|2]: %d мин назад|%d мин назад
@@ -61,7 +61,7 @@
 [%ditem_schedules.calendar|2]: %d событие|%d события
 [%dmin.common|2]: %d мин|%d мин
 [%dmin.vitality|2]: %d мин|%d мин
-[%dmin_retry.common|2]: Попробуйте через %d мин|Попробуйте через %d мин
+[%dmin_retry.common|2]: Повторить через %d мин|Повторить через %d мин
 [%dmin_training.breath|2]: %d-мин дышать|%d-мин дышать
 [%dmin_warmup.sport|2]: %d мин|%d мин
 [%dminute.sport|2]: %d мин|%d мин
@@ -560,7 +560,7 @@
 [beatexp.hr|1]: Подробнее
 [beatexp1.hr|1]: Просмотр подробностей в приложении
 [beatexp2.hr|1]: Ваш браслет будет измерять пульс и регистрировать любые отклонения от нормы
-[before.breath|1]: Старт измерения ЧСС
+[before.breath|1]: Измерение пульса
 [bell.find_phone|1]: Ваш телефон зазвонит
 [belly_dance.sport|1]: Танец живота
 [best.sport|1]: Лучший
@@ -597,8 +597,8 @@
 [brides.sport|1]: Карты
 [brightness.settings|1]: Яркость
 [brightness_auto.settings|1]: Авто
-[brightness_set.settings|1]: Пользовательский
-[brightness_set_28.settings|1]: Пользовательский
+[brightness_set.settings|1]: Вручную
+[brightness_set_28.settings|1]: Вручную
 [brightness_title.settings|1]: Яркость
 [brisk_walk.sport|1]: Быстрая ходьба
 [brpg.sport|1]: Настольная игра
@@ -651,7 +651,7 @@
 [climb_stairs.sport|1]: Подъем по лестнице
 [climbing.sport|1]: Трекинг
 [climbing_machine.sport|1]: Подъем по лестнице
-[close.settings|1]: Выключить
+[close.settings|1]: Выключено
 [close.share|1]: Выключить
 [close.sport|1]: Выключить
 [close_28.settings|1]: Выключить
@@ -713,8 +713,8 @@
 [day_pressure.settings|1]: Круглосуточный мониторинг стресса
 [deadlift.sport|1]: Становая тяга
 [deep.sleep|1]: Глубокий
-[default_aod.settings|1]: Тема по умолчанию
-[default_aod.watchface|1]: Тема по умолчанию
+[default_aod.settings|1]: AOD по умолчанию
+[default_aod.watchface|1]: AOD по умолчанию
 [del_all.common|1]: Очистить все
 [del_tip.watchface|1]: Удалить циферблат?
 [delay.calendar|1]: Отложить
@@ -737,7 +737,7 @@
 [disconnect.common|1]: Отключить
 [disconnect.sport|1]: Отключить
 [disconnect_retry.common|1]: Bluetooth не подключен\n Пожалуйста
-[disp_reminder.settings|1]: Если включена функция Always-on display
+[disp_reminder.settings|1]: Если включена функция AOD
 [display.settings|1]: Экран
 [display_on.sport|1]: Всегда включен
 [display_title.settings|1]: Экран
@@ -745,11 +745,11 @@
 [distance_remind.sport|1]: Напоминание
 [distance_too_short.sport|1]: Слишком короткая дистанция тренировки для записи.
 [distance_too_short_resume.sport|1]: Слишком короткая дистанция тренировки для записи. Закончить?
-[disturb.settings|1]: DND
+[disturb.settings|1]: Не беспокоить
 [disturb_disconn.settings|1]: Отключен
 [disturb_sync.settings|1]: Синхронизация с телефоном
 [disturb_sync_info.settings|1]: При включении этого режима
-[disturb_title.settings|1]: DND
+[disturb_title.settings|1]: Не беспокоить
 [dodgeball.sport|1]: Доджбол
 [done.hour%02d:%02d:%02d|1]: %02d:%02d:%02d назад
 [done.min%02d:%02d|1]: %02d:%02d назад
@@ -952,22 +952,22 @@
 [handwrist_info2.settings|1]: Ладонь вниз
 [handwrist_info3.settings|1]: Быстрый поворот на 90 градусов
 [handwrist_info4.settings|1]: Затем быстро повернитесь назад и вернитесь в исходное положение
-[has_done%d.breath|1]: Сессия: %d min
-[have_high.hr|1]: Высокий ЧСС
-[have_low.hr|1]: Низкий ЧСС
-[heartRate|1]: Частота сердечных сокращений
+[has_done%d.breath|1]: Сессия: %d мин
+[have_high.hr|1]: Высокий пульс
+[have_low.hr|1]: Низкий пульс
+[heartRate|1]: Пульс
 [heart_health.settings|1]: Нерегулярный пульс
-[heartrate_high.sport|1]: Высокий ЧСС
+[heartrate_high.sport|1]: Высокий пульс
 [heartset.vitality|1]: Непрерывный мониторинг
 [heartset_desc.vitality|1]: Показатель Vitality рассчитывается на основе данных о частоте сердечных сокращений и активности. Для получения более точного показателя жизнеспособности позвольте своему браслету чаще измерять частоту сердечных сокращений.
 [heel_and_toe.sport|1]: Спортивная ходьба
 [help.alipay|1]: Сканирование с помощью Alipay
 [hgrmbox.hr|1]: При включенном режиме непрерывного мониторинга будут регистрироваться нерегулярные удары сердца. Эта функция влияет на время работы аккумулятора. Включить сейчас?
-[high.hr|1]: Высокий ЧСС
+[high.hr|1]: Высокий пульс
 [high_interval_training.sport|1]: HIIT-тренировка
 [high_warning.hr|1]: Оповещение о высоком ЧСС
 [high_warning1.hr|1]: Выберите частоту пульса
-[highest.sport|1]: Max 
+[highest.sport|1]: Макс
 [highexp.hr|1]: Подробнее
 [highexp1.hr|1]: Носимое устройство оповещает вас
 [highexp2.hr|1]: Обратите внимание
@@ -1120,7 +1120,7 @@
 [login_wx.wxpay|1]: Войти
 [login_wx_tips.wxpay|1]: Функция Weixin Pay была обновлена в приложении Weixin. Войдите в Weixin
 [long.sleep|1]: Сон
-[long_endurance_info.settings|1]: При включенном режиме экономии заряда батареи будут доступны только часы
+[long_endurance_info.settings|1]: В режиме экономии заряда батареи будут доступны только часы
 [long_press_stop.sport|1]: Нажмите и удерживайте кнопку для завершения тренировки
 [longpress.settings|1]: Активировать
 [longpress_lab.settings|1]: Когда функция включена, для изменения циферблата нажмите и удерживайте кнопку Edit
@@ -1135,13 +1135,13 @@
 [low_remind.oxygen|1]: Предупреждение о низком уровне SpO₂
 [low_title.oxygen|1]: Предупреждение о низком уровне SpO₂
 [low_waring.oxygen|1]: Предупреждение о низком уровне SpO₂
-[low_waring1.oxygen|1]: Уведомление о том
-[low_warning.hr|1]: Предупреждение о низком уровне ЧСС
+[low_waring1.oxygen|1]: Уведомление о низком уровне SpO₂
+[low_warning.hr|1]: Предупреждение о низком уровне пульса
 [lowbattery_10.reminder|1]: Аккумулятор менее 10%
 [lowbattery_20.reminder|1]: Аккумулятор менее 20%
 [lowbattery_5.reminder|1]: Аккумулятор менее 5%
 [lowbattery_5_btn_tip.reminder|1]: Включить
-[lowbattery_5_tip.reminder|1]: Включить функцию экономии заряда батареи?
+[lowbattery_5_tip.reminder|1]: Включить режим экономии заряда батареи?
 [lowbattery_title.reminder|1]: Разряжена
 [lower_limb_training.sport|1]: Нижняя часть тела
 [lowexp.hr|1]: Подробнее
@@ -1153,7 +1153,7 @@
 [mac.common|1]: Адрес Bluetooth
 [mac.settings|1]: MAC адрес
 [mac.system|1]: MAC адрес
-[made_in_China.settings|1]: Made in China
+[made_in_China.settings|1]: m0tral RU v1.0
 [many_messages.notify|1]: many_messages.notify
 [mark_end.wm|1]: Конец периода
 [mark_start.wm|1]: Начало периода
@@ -1253,7 +1253,7 @@
 [modern_dance.sport|1]: Современный танец
 [mon_to_fri.todo|1]: M-F
 [monitor.hr|1]: Непрерывный мониторинг
-[monitor.oxygen|1]: Слежение в течение всего дня
+[monitor.oxygen|1]: Весь день
 [monitor.pressure|1]: Круглосуточный мониторинг
 [monitor_box.oxygen|1]: При включении этой функции часы будут отслеживать уровень SpO₂
 [monitor_btn.sleep|1]: Расширенный мониторинг
@@ -1262,7 +1262,7 @@
 [monitor_ill.pressure|1]: При включении этой функции часы будут отслеживать уровень стресса
 [monitor_ill.sleep|1]: Включение расширенного мониторинга значительно сокращает время работы от аккумулятора. Все равно включить?
 [monitor_sub_exp.sleep|1]: При включении этой функции устройство будет отслеживать REM-фазы сна.
-[more_add.worldclock|1]: Добавление новых местоположений\nв приложении
+[more_add.worldclock|1]: Добавьте новое местоположение\nв приложении
 [more_sport.sport|1]: Больше
 [motion.settings|1]: Автоопределение
 [motion_disturb.settings|1]: Невозможно отправить напоминание о тренировке при включенном DND
@@ -1322,11 +1322,11 @@
 [nfc_read.check_tool|1]: Достаточно близко
 [nfc_sign.check_tool|1]: Пожалуйста
 [nfc_simulate.check_tool|1]: Тестирование аналоговых карт
-[no_add.worldclock|1]: Не добавлено ни одного местоположения
+[no_add.worldclock|1]: Добавьте город
 [no_card.nfc|1]: Добавьте карты в приложении
 [no_connectable_devices.sport|1]: Устройство не найдено
-[no_data.calendar|1]: Нет данных о событиях
-[no_data.common|1]: Данные отсутствуют
+[no_data.calendar|1]: Нет событий
+[no_data.common|1]: Нет данных
 [no_data.pressure|1]: Нет данных на сегодня
 [no_data.wm|1]: Нет данных
 [no_device_conn.common|1]: Отсутствие подключенных устройств
@@ -1347,15 +1347,15 @@
 [nodata.sleep|1]: Нет данных о сне
 [nodata.todo|1]: Нет напоминаний
 [nodata.wm|1]: Нет данных
-[noinit_tips.calendar|1]: Включите функцию "События" в приложении
+[noinit_tips.calendar|1]: Включите "События" в приложении
 [noise_reduction.share|1]: Шумоподавление
 [nonedata.weather|1]: nonedata.weather
 [noplay.share|1]: Не воспроизводится звук
 [noreminder.vitality|1]: Отклонить сегодня
 [nosync.wm|1]: Данные приложения не были синхронизированы
-[not_disturb_close.ctrl|1]: DND выключен
-[not_disturb_open.ctrl|1]: DND включен
-[not_disturb_open.settings|1]: DND включен
+[not_disturb_close.ctrl|1]: Режим "Не беспокоить" выключен
+[not_disturb_open.ctrl|1]: Включен режим "Не беспокоить"
+[not_disturb_open.settings|1]: Включен режим "Не беспокоить"
 [not_enabled.wxpay|1]: Не включено
 [not_play.media|1]: Не воспроизводится
 [not_remind.sport|1]: Отклонить
@@ -1561,14 +1561,14 @@
 [reset_option.system|1]: Выключить PIN-код
 [reset_passwd.system|1]: Сброс PIN-кода
 [reset_settings.sport|1]: Сбросить все
-[rest.hr|1]: 30-дневный RHR
+[rest.hr|1]: За 30 дней
 [rest.tomatotimer|1]: Отдых
 [rest_day.calendar|1]: Выходные
-[rest_disp.settings|1]: Always-on display
-[rest_disp_info.settings|1]: Включение функции "Always-on display" может сократить время работы от аккумулятора вдвое. Функция "Активировать по поднятию руки" будет отключена. Продолжить?
+[rest_disp.settings|1]: AOD
+[rest_disp_info.settings|1]: Включение AOD может сократить время работы от аккумулятора вдвое. Функция "Активировать по поднятию руки" будет отключена. Продолжить?
 [rest_disp_reminder1.settings|1]: Время будет отображаться даже при заблокированном экране.
-[rest_disp_reminder2.settings|1]: Функция Always-on отключается
-[rest_disp_title.settings|1]: Always-on display
+[rest_disp_reminder2.settings|1]: Режим AOD отключается
+[rest_disp_title.settings|1]: AOD
 [rest_time.settings|1]: Авто блокировка
 [rest_time.tomatotimer|1]: Отдых
 [rest_time_out.tomatotimer|1]: Время вышло
@@ -1722,7 +1722,7 @@
 [sport_expression.sport|1]: Эффект тренировки
 [sport_health.watchface|1]: спортивное здоровье
 [sports.appname|1]: Тренировка
-[sports_course.appname|1]: Запуск
+[sports_course.appname|1]: Программа
 [sports_record.appname|1]: История
 [spring_festival.calendar|1]: Праздник весны (китайский Новый год)
 [square_dance.sport|1]: Квадратный танец
@@ -1733,18 +1733,18 @@
 [stand_reach.act|1]: Попадание в цель
 [stand_title.explain|1]: Лёгкая активность
 [start.breath|1]: Старт
-[start.common|1]: Старт
+[start.common|1]: Начало
 [start.find_phone|1]: Поиск
 [start.health|1]: Измерение
-[start.settings|1]: Старт
+[start.settings|1]: Начало
 [start.sport|1]: Старт
 [start_sport.sport|1]: Старт
 [start_stretch.sport|1]: Растяжка
-[start_time.settings|1]: Старт
+[start_time.settings|1]: Начало
 [start_warmup.sport|1]: Разминка
-[starting.alexa|1]: starting.alexa
+[starting.alexa|1]: Загрузка Alexa
 [state.settings|1]: Отличный
-[state_screen.settings|1]: Always-on display
+[state_screen.settings|1]: AOD
 [status1.training|1]: Низкий
 [status2.training|1]: Хороший
 [status3.training|1]: Высокий
@@ -1836,7 +1836,7 @@
 [target_times.sport|1]: Цель
 [target_trips.sport|1]: Цель
 [temp_no_schedule.calendar|1]: Нет событий
-[tenmin.hr|1]: Every 10 минут
+[tenmin.hr|1]: 10 минут
 [tennis.sport|1]: Теннис
 [test_again.check_tool|1]: повторная попытка
 [test_exit.check_tool|1]: прервать
@@ -1847,7 +1847,7 @@
 [thinking.alexa|1]: thinking.alexa
 [thirty_btn.pressure|1]: Последние 30 дней
 [thirty_title.pressure|1]: Последние 30 дней
-[thirtymin.hr|1]: Каждые 30 минут
+[thirtymin.hr|1]: 30 минут
 [this_train_time.breath|1]: Сессия
 [time.alarm|1]: Время
 [time.wf|1]: Время
@@ -1973,7 +1973,7 @@
 [vibrate_enhance.settings|1]: Сильная
 [vibrate_mode.settings|1]: Вибрация
 [vibrate_mode_title.settings|1]: Вибрация
-[vibrate_standard.settings|1]: Нормальный
+[vibrate_standard.settings|1]: Нормальная
 [voice_mode.share|1]: Звуковой режим
 [volleyball.sport|1]: Волейбол
 [waist_training.sport|1]: Пресс
@@ -2031,7 +2031,7 @@
 [wrestling.sport|1]: Борьба
 [wrist_screen.settings|1]: Поднять для пробуждения
 [wristlift.settings|1]: Поднять для пробуждения
-[wristlift_info.settings|1]: "Always-on display" включён. Включение функции "Поднять для пробуждения" приведет к сокращению времени автономной работы. Все равно включать?
+[wristlift_info.settings|1]: AOD включён. Включение функции "Поднять для пробуждения" уменьшит время автономной работы. Продолжить?
 [wristlift_title.settings|1]: Поднять для пробуждения
 [wxpay.appname|1]: Weixin Pay
 [xh_lunar.calendar|1]: прохладная погода
