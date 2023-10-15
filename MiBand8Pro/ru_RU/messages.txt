@@ -528,7 +528,7 @@
 [avg_stroke.sport|1]: Среднее значение СПМ
 [avg_swolf.sport|1]: Средний SWOLF
 [back.common|1]: Назад
-[back_training.sport|1]: Назад
+[back_training.sport|1]: Подтягивание
 [backstroke.sport|1]: Плавание на спине
 [badminton.sport|1]: Бадминтон
 [balance.nfc|1]: Баланс: 
@@ -964,7 +964,7 @@
 [help.alipay|1]: Сканирование с помощью Alipay
 [hgrmbox.hr|1]: При включенном режиме непрерывного мониторинга будут регистрироваться нерегулярные удары сердца. Эта функция влияет на время работы аккумулятора. Включить сейчас?
 [high.hr|1]: Высокий ЧСС
-[high_interval_training.sport|1]: HIIT
+[high_interval_training.sport|1]: HIIT-тренировка
 [high_warning.hr|1]: Оповещение о высоком ЧСС
 [high_warning1.hr|1]: Выберите частоту пульса
 [highest.sport|1]: Max 
@@ -1725,7 +1725,7 @@
 [sports_course.appname|1]: Запуск
 [sports_record.appname|1]: История
 [spring_festival.calendar|1]: Праздник весны (китайский Новый год)
-[square_dance.sport|1]: Square dancing
+[square_dance.sport|1]: Квадратный танец
 [squash.sport|1]: Сквош
 [stand|1]: Лёгкая активность
 [stand.act|1]: Лёгкая активность
@@ -1758,7 +1758,7 @@
 [step_reach.act|1]: Попадание в цель
 [step_title.explain|1]: Шаг
 [step_training.sport|1]: Степпер
-[stepper.sport|1]: Stepper
+[stepper.sport|1]: Степпер
 [stick_skin.health|1]: Следите за тем
 [stop.calendar|1]: Остановить
 [stop.common|1]: Остановить
@@ -1789,7 +1789,7 @@
 [sure_to_close_all_reminder.sport|1]: Отключить все напоминания о тренировках?
 [sure_to_reset_all_setting.sport|1]: Сбросить все настройки тренировки?
 [surfing.sport|1]: Водные лыжи
-[surfing_indoor.sport|1]: Flowriding
+[surfing_indoor.sport|1]: Флоубординг
 [swim_indoor.sport|1]: Плавание в бассейне
 [swim_lock_prompt.sport|1]: Экран будет заблокирован. Для разблокировки проведите пальцем.
 [swim_main_style.sport|1]: Основной стиль
@@ -1817,7 +1817,7 @@
 [system_reboot.ota|1]: Устройство перезагружается
 [system_title.settings|1]: Система
 [taekwondo.sport|1]: Тхэквондо
-[taichi.sport|1]: Tai chi
+[taichi.sport|1]: Тай чи
 [tail_tips.phone|1]: tail_tips.phone
 [target_%d_kcal.act|2]: Цель: %d ккал|Цель: %d ккал
 [target_%d_minute.act|2]: Цель: %d мин|Цель: %d мин
@@ -1976,7 +1976,7 @@
 [vibrate_standard.settings|1]: Нормальный
 [voice_mode.share|1]: Звуковой режим
 [volleyball.sport|1]: Волейбол
-[waist_training.sport|1]: Abs
+[waist_training.sport|1]: Пресс
 [wait.reminder|1]: Отложить
 [waiting_location.sport|1]: Дождитесь определения местоположения по GPS
 [wake_num.sleep|1]: Пробуждения
@@ -1984,7 +1984,7 @@
 [walk_indoor.sport|1]: Ходьба в помещении
 [walk_outdoor.sport|1]: Прогулка
 [walking_maching.sport|1]: Эллиптический\nтренажёр
-[wall_ball.sport|1]: Wall ball
+[wall_ball.sport|1]: Мяч от стены
 [warm_up.sport|1]: Лёгкая
 [warm_up_done.sport|1]: Выполнено
 [warm_up_interval.sport|1]: Лёгкая
@@ -2015,7 +2015,7 @@
 [wechatPayment|1]: Weixin Pay
 [weekly.alarm|1]: Настроить
 [weightlifting.sport|1]: Тяжелая атлетика
-[weiqi.sport|1]: Weiqi
+[weiqi.sport|1]: Шахматы
 [widget_calorie.act|1]: Калории
 [widget_intensity.act|1]: Перемещение
 [widget_stand.act|1]: Stand
@@ -2051,5 +2051,5 @@
 [zone.pressure|1]: Подробности
 [zoneexp.hr|1]: Подробнее
 [zq_festival.calendar|1]: праздник Середины осени
-[zumba.sport|1]: Zumba
+[zumba.sport|1]: Зумба
 [zy_festival.calendar|1]: праздник Середины месяца Юань
