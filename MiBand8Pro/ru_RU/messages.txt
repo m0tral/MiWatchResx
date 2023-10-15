@@ -1122,8 +1122,8 @@
 [long.sleep|1]: Сон
 [long_endurance_info.settings|1]: При включенном режиме экономии заряда батареи будут доступны только часы
 [long_press_stop.sport|1]: Нажмите и удерживайте кнопку для завершения тренировки
-[longpress.settings|1]: Нажмите и удерживайте экран
-[longpress_lab.settings|1]: При включении нажмите и удерживайте кнопку Edit для редактирования отображения диапазона.
+[longpress.settings|1]: Активировать
+[longpress_lab.settings|1]: Когда функция включена, для изменения циферблата нажмите и удерживайте кнопку Edit
 [low.hr|1]: Низкий уровень ЧСС
 [low_balance.nfc|1]: Недостаточно средств. Пополните баланс в ближайшее время.
 [low_btn.oxygen|1]: Низкий уровень SpO₂
@@ -1471,8 +1471,8 @@
 [pre_menstruation_in%d.wm|2]: День цикла %d|Дней цикла %d
 [pre_menstruation_out%d.wm|2]: День цикла %dd|Дней цикла %dd
 [predicta_menstruation.wm|1]: Расчетный период
-[prefer.settings|1]: Предпочтения
-[prefer_title.settings|1]: Предпочтения
+[prefer.settings|1]: Смена циферблата
+[prefer_title.settings|1]: Смена циферблата
 [prepare_sleep.reminder|1]: Спокойный сон
 [pressure|1]: Стресс
 [pressure_high.pressure|1]: Высокий уровень стресса
