@@ -594,7 +594,7 @@
 [breath_time.breath|1]: Time
 [breath_title1.breath|1]: Дыхание
 [breath_train.common|1]: Дыхательные упражнения
-[brides.sport|1]: Мост
+[brides.sport|1]: Карты
 [brightness.settings|1]: Яркость
 [brightness_auto.settings|1]: Авто
 [brightness_set.settings|1]: Пользовательский
@@ -792,7 +792,7 @@
 [effect_level6.sport|1]: Перевыполнение
 [effect_of_anaerobic_training.sport|1]: Анаэробные
 [effectiveStand|1]: Стоя
-[electronic_sports.sport|1]: Esports
+[electronic_sports.sport|1]: Киберспорт
 [eleven_month_lunar.calendar|1]: 冬月
 [elliptical_machine.sport|1]: Эллиптический тренажер
 [empty_message.phone|1]: Разрешить ответы на сообщения в приложении.
@@ -1049,7 +1049,7 @@
 [introduce_reminder_pace.sport|1]: Получать напоминание о превышении или снижении целевого темпа
 [introduce_reminder_speed.sport|1]: Получайте напоминание о превышении или снижении заданной скорости
 [issue.nfc|1]: Ожидайте…
-[jazz.sport|1]: Джазовый танец
+[jazz.sport|1]: Джазовые танцы
 [jog.sport|1]: Jog
 [judo.sport|1]: Дзюдо
 [jujitsu.sport|1]: Джиу-джитсу
@@ -1303,7 +1303,7 @@
 [name_title.tomatotimer|1]: Фокусировка
 [name_title.worldclock|1]: Мировые часы
 [name_trips.sport|1]: Длина
-[national_dance.sport|1]: Народный танец
+[national_dance.sport|1]: Народные танцы
 [near_reader.nfc|1]: Держать рядом со считывателем
 [network_error_content.alexa|1]: network_error_content.alexa
 [network_error_title.alexa|1]: network_error_title.alexa
@@ -1687,10 +1687,10 @@
 [share_see_device.common|1]: Пожалуйста
 [sharedevice.share|1]: Mi Smart Hub
 [short.sleep|1]: Ворс
-[shuffle_ball.sport|1]: Шаффлборд
+[shuffle_ball.sport|1]: Шафлборд
 [shutdown.reminder|1]: Часы перегрелись. Отключение питания.
-[shuttlecock.sport|1]: Shuttlecock
-[shuttlecock_kicking.sport|1]: Shuttlecock
+[shuttlecock.sport|1]: Бадминтон
+[shuttlecock_kicking.sport|1]: Бадминтон
 [single_bar.sport|1]: Горизонтальная планка
 [sit_ups.sport|1]: Сидячие упражнения
 [sj_lunar.calendar|1]: Мороз
@@ -1726,7 +1726,7 @@
 [sports_record.appname|1]: История
 [spring_festival.calendar|1]: Праздник весны (китайский Новый год)
 [square_dance.sport|1]: Square dancing
-[squash.sport|1]: Squash
+[squash.sport|1]: Сквош
 [stand|1]: Лёгкая активность
 [stand.act|1]: Лёгкая активность
 [stand.explain|1]: "Лёгкая активность" показывает часы
@@ -1757,7 +1757,7 @@
 [step_minute.sport|1]: шаги/мин
 [step_reach.act|1]: Попадание в цель
 [step_title.explain|1]: Шаг
-[step_training.sport|1]: Stepper
+[step_training.sport|1]: Степпер
 [stepper.sport|1]: Stepper
 [stick_skin.health|1]: Следите за тем
 [stop.calendar|1]: Остановить
@@ -1983,7 +1983,7 @@
 [wake_up.reminder|1]: Время просыпаться
 [walk_indoor.sport|1]: Ходьба в помещении
 [walk_outdoor.sport|1]: Прогулка
-[walking_maching.sport|1]: Air walker
+[walking_maching.sport|1]: Эллиптический\nтренажёр
 [wall_ball.sport|1]: Wall ball
 [warm_up.sport|1]: Лёгкая
 [warm_up_done.sport|1]: Выполнено
