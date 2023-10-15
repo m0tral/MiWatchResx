@@ -3,7 +3,7 @@
 [%.*fgroup.sport|2]: %.*f set|%.*f sets
 [%.*fkcal.sport|2]: %.*f ккал|%.*f ккал
 [%.*fkm.sport|2]: %.*f км|%.*f км
-[%.*fkm_distance_calibration.sport|2]:	Дистанция этого забега: %.*f км. Верно?|Дистанция этого забега: %.*f км. Верно?
+[%.*fkm_distance_calibration.sport|2]: Дистанция этого забега: %.*f км. Верно?|Дистанция этого забега: %.*f км. Верно?
 [%.*fkm_per_hr.sport|2]: %.*f км/ч|%.*f км/ч
 [%.*fm.sport|2]: %.*f м|%.*f м
 [%.*fnumber.sport|2]: %.*f прыжок|%.*f прыжков
@@ -26,23 +26,23 @@
 [%d%d%dyear_month_day.todo|1]: %2$d/%3$d/%1$d
 [%d%d_target_time.sleep|1]: Цельl: %dч %dмин
 [%d%d_time_sec.sleep|1]: %ч %мин
-[%d%dmonth_day.common|1]: %1$d月%2$d日
+[%d%dmonth_day.common|1]: %1$dм %2$dд
 [%d%dmonth_day.todo|1]: %1$d/%2$d
 [%d%dmonth_day_slash.common|1]: %1$02d/%2$02d
-[%d%dravailable.settings|1]: Время жизни батареи: %dd %dh
+[%d%dravailable.settings|1]: До разряда: %dd %dh
 [%d%dyear_month.calendar|1]: %2$d/%1$d
 [%d:%d.worldclock|1]: %d:%d
 [%d_cnt/min_just.health|1]: %d  (сейчас)
 [%d_hour_sec.sleep|2]: %d ч|%d ч
-[%d_message.notify|2]: %d уведомление|%d уведомлений
+[%d_message.notify|2]: %d уведомление|%d уведомления
 [%d_min_before.health|2]: %d мин назад|%d мин назад
 [%d_min_before.notify|2]: %d мин назад|%d мин назад
 [%d_min_sec.sleep|2]: %d мин|%d мин
 [%d_mins_before.pressure|2]: %d мин назад|%d мин назад
-[%d_unread_message.notify|2]: %d новое уведомление|%d новых уведомлений
+[%d_unread_message.notify|2]: %d уведомление|%d уведомления
 [%dcalories_unit.act|2]: ккал|ккал
 [%dcnt/min.common|2]: %dмин|%dмин
-[%dcnt/min.sport|2]: %d уд|%d уд
+[%dcnt/min.sport|2]: %d уд/м|%d уд/м
 [%dday_later.wm|2]: В %d день|В %d дней
 [%dfull_hour.common|2]: %dч|%dч
 [%dfull_hour.hr|1]: %d ч
@@ -56,9 +56,9 @@
 [%dhour.common|2]: %dч|%dч
 [%dhour.worldclock|2]: %dч|%dч
 [%dintensity_unit.act|2]: мин|мин
-[%ditem.todo|2]: %d шт|%d шт
-[%ditem_in_category.sport|2]: %d шт|%d шт
-[%ditem_schedules.calendar|2]: %d событие|%d событий
+[%ditem.todo|2]: %d задача|%d задачи
+[%ditem_in_category.sport|2]: %d задача|%d задач
+[%ditem_schedules.calendar|2]: %d событие|%d события
 [%dmin.common|2]: %d мин|%d мин
 [%dmin.vitality|2]: %d мин|%d мин
 [%dmin_retry.common|2]: Попробуйте через %d мин|Попробуйте через %d мин
@@ -75,278 +75,278 @@
 [%dstand_unit.act|2]: ч|ч
 [%dstep_unit.act|2]: шаг|шагов
 [%dtime/minute.health|2]: %d уд|%d уд
-[%dtime_num.slep|2]: %d time|%d times
-[%dtime_warmup.sport|2]: %d rep|%d reps
+[%dtime_num.slep|2]: %d раз|%d раз
+[%dtime_warmup.sport|2]: %d повт|%d повт
 [%s%stime_combine.common|1]: %1$s%2$s
 [%s%stime_combine.reminder|1]: %1$s%2$s
 [+%d:%ds.worldclock|1]: +%d:%d
 [AQI|1]: ИКВ
 [Apr.common|1]: Апрель
-[Apr_n.common|1]:	4
+[Apr_n.common|1]: 4
 [Aug.common|1]: Август
-[Aug_n.common|1]:	8
+[Aug_n.common|1]: 8
 [C102_cityname.worldclock|1]: Багдад
-[C102_timezone.worldclock|1]:	180
+[C102_timezone.worldclock|1]: 180
 [C105_cityname.worldclock|1]: Бангкок
-[C105_timezone.worldclock|1]:	420
+[C105_timezone.worldclock|1]: 420
 [C106_cityname.worldclock|1]: Бейрут
-[C106_timezone.worldclock|1]:	120
+[C106_timezone.worldclock|1]: 120
 [C109_cityname.worldclock|1]: Дакка
-[C109_timezone.worldclock|1]:	360
+[C109_timezone.worldclock|1]: 360
 [C110_cityname.worldclock|1]: Дубай
-[C110_timezone.worldclock|1]:	240
+[C110_timezone.worldclock|1]: 240
 [C114_cityname.worldclock|1]: Гонконг
-[C114_timezone.worldclock|1]:	480
+[C114_timezone.worldclock|1]: 480
 [C115_cityname.worldclock|1]: Джакарта
-[C115_timezone.worldclock|1]:	420
+[C115_timezone.worldclock|1]: 420
 [C116_cityname.worldclock|1]: Иерусалим
-[C116_timezone.worldclock|1]:	120
+[C116_timezone.worldclock|1]: 120
 [C117_cityname.worldclock|1]: Кабул
-[C117_timezone.worldclock|1]:	240
+[C117_timezone.worldclock|1]: 240
 [C118_cityname.worldclock|1]: Карачи
-[C118_timezone.worldclock|1]:	300
+[C118_timezone.worldclock|1]: 300
 [C119_cityname.worldclock|1]: Катманду
-[C119_timezone.worldclock|1]:	360
+[C119_timezone.worldclock|1]: 360
 [C120_cityname.worldclock|1]: Куала-Лумпур
-[C120_timezone.worldclock|1]:	480
+[C120_timezone.worldclock|1]: 480
 [C123_cityname.worldclock|1]: Манила
-[C123_timezone.worldclock|1]:	480
+[C123_timezone.worldclock|1]: 480
 [C124_cityname.worldclock|1]: Маскат
-[C124_timezone.worldclock|1]:	240
+[C124_timezone.worldclock|1]: 240
 [C125_cityname.worldclock|1]: Пном Пен
-[C125_timezone.worldclock|1]:	420
+[C125_timezone.worldclock|1]: 420
 [C126_cityname.worldclock|1]: Пхеньян
-[C126_timezone.worldclock|1]:	540
+[C126_timezone.worldclock|1]: 540
 [C128_cityname.worldclock|1]: Янгон
-[C128_timezone.worldclock|1]:	360
+[C128_timezone.worldclock|1]: 360
 [C129_cityname.worldclock|1]: Эр-Рияд
-[C129_timezone.worldclock|1]:	180
+[C129_timezone.worldclock|1]: 180
 [C130_cityname.worldclock|1]: Сеул
-[C130_timezone.worldclock|1]:	540
+[C130_timezone.worldclock|1]: 540
 [C132_cityname.worldclock|1]: Сингапур
-[C132_timezone.worldclock|1]:	480
+[C132_timezone.worldclock|1]: 480
 [C134_cityname.worldclock|1]: Тегеран
-[C134_timezone.worldclock|1]:	180
+[C134_timezone.worldclock|1]: 180
 [C136_cityname.worldclock|1]: Токио
-[C136_timezone.worldclock|1]:	540
+[C136_timezone.worldclock|1]: 540
 [C143_cityname.worldclock|1]: Аделаида
-[C143_timezone.worldclock|1]:	540
+[C143_timezone.worldclock|1]: 540
 [C144_cityname.worldclock|1]: Брисбен
-[C144_timezone.worldclock|1]:	600
+[C144_timezone.worldclock|1]: 600
 [C146_cityname.worldclock|1]: Дарвин
-[C146_timezone.worldclock|1]:	540
+[C146_timezone.worldclock|1]: 540
 [C149_cityname.worldclock|1]: Перт
-[C149_timezone.worldclock|1]:	480
+[C149_timezone.worldclock|1]: 480
 [C151_cityname.worldclock|1]: Сидней
-[C151_timezone.worldclock|1]:	600
+[C151_timezone.worldclock|1]: 600
 [C156_cityname.worldclock|1]: Амстердам
-[C156_timezone.worldclock|1]:	60
+[C156_timezone.worldclock|1]: 60
 [C15_cityname.worldclock|1]: Хараре
-[C15_timezone.worldclock|1]:	120
+[C15_timezone.worldclock|1]: 120
 [C161_cityname.worldclock|1]: Берлин
-[C161_timezone.worldclock|1]:	60
+[C161_timezone.worldclock|1]: 60
 [C163_cityname.worldclock|1]: Брюссель
-[C163_timezone.worldclock|1]:	60
+[C163_timezone.worldclock|1]: 60
 [C164_cityname.worldclock|1]: Бухарест
-[C164_timezone.worldclock|1]:	120
+[C164_timezone.worldclock|1]: 120
 [C165_cityname.worldclock|1]: Будапешт
-[C165_timezone.worldclock|1]:	60
+[C165_timezone.worldclock|1]: 60
 [C167_cityname.worldclock|1]: Копенгаген
-[C167_timezone.worldclock|1]:	60
+[C167_timezone.worldclock|1]: 60
 [C168_cityname.worldclock|1]: Дублин
-[C168_timezone.worldclock|1]:	0
+[C168_timezone.worldclock|1]: 0
 [C170_cityname.worldclock|1]: Хельсинки
-[C170_timezone.worldclock|1]:	120
+[C170_timezone.worldclock|1]: 120
 [C172_cityname.worldclock|1]: Стамбул
-[C172_timezone.worldclock|1]:	180
+[C172_timezone.worldclock|1]: 180
 [C173_cityname.worldclock|1]: Лиссабон
-[C173_timezone.worldclock|1]:	0
+[C173_timezone.worldclock|1]: 0
 [C174_cityname.worldclock|1]: Лондон
-[C174_timezone.worldclock|1]:	0
+[C174_timezone.worldclock|1]: 0
 [C176_cityname.worldclock|1]: Мадрид
-[C176_timezone.worldclock|1]:	60
+[C176_timezone.worldclock|1]: 60
 [C178_cityname.worldclock|1]: Минск
-[C178_timezone.worldclock|1]:	180
+[C178_timezone.worldclock|1]: 180
 [C180_cityname.worldclock|1]: Москва
-[C180_timezone.worldclock|1]:	180
+[C180_timezone.worldclock|1]: 180
 [C181_cityname.worldclock|1]: Осло
-[C181_timezone.worldclock|1]:	60
+[C181_timezone.worldclock|1]: 60
 [C182_cityname.worldclock|1]: Париж
-[C182_timezone.worldclock|1]:	60
+[C182_timezone.worldclock|1]: 60
 [C183_cityname.worldclock|1]: Прага
-[C183_timezone.worldclock|1]:	60
+[C183_timezone.worldclock|1]: 60
 [C185_cityname.worldclock|1]: Рим
-[C185_timezone.worldclock|1]:	60
+[C185_timezone.worldclock|1]: 60
 [C191_cityname.worldclock|1]: Стокгольм
-[C191_timezone.worldclock|1]:	60
+[C191_timezone.worldclock|1]: 60
 [C192_cityname.worldclock|1]: Таллин
-[C192_timezone.worldclock|1]:	120
+[C192_timezone.worldclock|1]: 120
 [C194_cityname.worldclock|1]: Вена
-[C194_timezone.worldclock|1]:	60
+[C194_timezone.worldclock|1]: 60
 [C196_cityname.worldclock|1]: Вильнюс
-[C196_timezone.worldclock|1]:	120
+[C196_timezone.worldclock|1]: 120
 [C197_cityname.worldclock|1]: Варшава
-[C197_timezone.worldclock|1]:	60
+[C197_timezone.worldclock|1]: 60
 [C202_cityname.worldclock|1]: Окленд
-[C202_timezone.worldclock|1]:	720
+[C202_timezone.worldclock|1]: 720
 [C205_cityname.worldclock|1]: Гонолулу
-[C205_timezone.worldclock|1]:	-600
+[C205_timezone.worldclock|1]: -600
 [C206_cityname.worldclock|1]: Остров Рождества
-[C206_timezone.worldclock|1]:	0
+[C206_timezone.worldclock|1]: 0
 [C21_cityname.worldclock|1]: Лагос
-[C21_timezone.worldclock|1]:	60
+[C21_timezone.worldclock|1]: 60
 [C224_cityname.worldclock|1]: Сан-Франциско
-[C224_timezone.worldclock|1]:	-480
+[C224_timezone.worldclock|1]: -480
 [C227_cityname.worldclock|1]: Сан-Сальвадор
-[C227_timezone.worldclock|1]:	-360
+[C227_timezone.worldclock|1]: -360
 [C230_cityname.worldclock|1]: Вашингтон
-[C230_timezone.worldclock|1]:	-300
+[C230_timezone.worldclock|1]: -300
 [C242_cityname.worldclock|1]: Атланта
-[C242_timezone.worldclock|1]:	-300
+[C242_timezone.worldclock|1]: -300
 [C252_cityname.worldclock|1]: Пекин
-[C252_timezone.worldclock|1]:	480
+[C252_timezone.worldclock|1]: 480
 [C253_cityname.worldclock|1]: Мумбаи
-[C253_timezone.worldclock|1]:	300
+[C253_timezone.worldclock|1]: 300
 [C261_cityname.worldclock|1]: Франкфурт
-[C261_timezone.worldclock|1]:	60
+[C261_timezone.worldclock|1]: 60
 [C262_cityname.worldclock|1]: Ханой
-[C262_timezone.worldclock|1]:	420
+[C262_timezone.worldclock|1]: 420
 [C263_cityname.worldclock|1]: Анкара
-[C263_timezone.worldclock|1]:	180
+[C263_timezone.worldclock|1]: 180
 [C265_cityname.worldclock|1]: Бразилиа
-[C265_timezone.worldclock|1]:	-180
+[C265_timezone.worldclock|1]: -180
 [C266_cityname.worldclock|1]: Кейптаун
-[C266_timezone.worldclock|1]:	120
+[C266_timezone.worldclock|1]: 120
 [C267_cityname.worldclock|1]: Исламабад
-[C267_timezone.worldclock|1]:	300
+[C267_timezone.worldclock|1]: 300
 [C268_cityname.worldclock|1]: Рио-де-Жанейро
-[C268_timezone.worldclock|1]:	-180
+[C268_timezone.worldclock|1]: -180
 [C278_cityname.worldclock|1]: Сантьяго
-[C278_timezone.worldclock|1]:	-240
+[C278_timezone.worldclock|1]: -240
 [C284_cityname.worldclock|1]: Киев
-[C284_timezone.worldclock|1]:	120
+[C284_timezone.worldclock|1]: 120
 [C285_cityname.worldclock|1]: Санкт-Петербург
-[C285_timezone.worldclock|1]:	180
+[C285_timezone.worldclock|1]: 180
 [C291_cityname.worldclock|1]: Сан-Хуан
-[C291_timezone.worldclock|1]:	-240
+[C291_timezone.worldclock|1]: -240
 [C292_cityname.worldclock|1]: Тегусигальпа
-[C292_timezone.worldclock|1]:	-360
+[C292_timezone.worldclock|1]: -360
 [C295_cityname.worldclock|1]: Гавайи
-[C295_timezone.worldclock|1]:	-600
+[C295_timezone.worldclock|1]: -600
 [C296_cityname.worldclock|1]: Аляска
-[C296_timezone.worldclock|1]:	-540
+[C296_timezone.worldclock|1]: -540
 [C297_cityname.worldclock|1]: Финикс
-[C297_timezone.worldclock|1]:	-420
+[C297_timezone.worldclock|1]: -420
 [C299_cityname.worldclock|1]: Кингстон
-[C299_timezone.worldclock|1]:	-300
+[C299_timezone.worldclock|1]: -300
 [C300_cityname.worldclock|1]: Прая
-[C300_timezone.worldclock|1]:	-60
+[C300_timezone.worldclock|1]: -60
 [C301_cityname.worldclock|1]: Рейкьявик
-[C301_timezone.worldclock|1]:	0
+[C301_timezone.worldclock|1]: 0
 [C302_cityname.worldclock|1]: Женева
-[C302_timezone.worldclock|1]:	60
+[C302_timezone.worldclock|1]: 60
 [C303_cityname.worldclock|1]: Виндхук
-[C303_timezone.worldclock|1]:	120
+[C303_timezone.worldclock|1]: 120
 [C304_cityname.worldclock|1]: София
-[C304_timezone.worldclock|1]:	120
+[C304_timezone.worldclock|1]: 120
 [C305_cityname.worldclock|1]: Афины
-[C305_timezone.worldclock|1]:	120
+[C305_timezone.worldclock|1]: 120
 [C306_cityname.worldclock|1]: Калининград
-[C306_timezone.worldclock|1]:	120
+[C306_timezone.worldclock|1]: 120
 [C307_cityname.worldclock|1]: Хартум
-[C307_timezone.worldclock|1]:	120
+[C307_timezone.worldclock|1]: 120
 [C308_cityname.worldclock|1]: Найроби
-[C308_timezone.worldclock|1]:	180
+[C308_timezone.worldclock|1]: 180
 [C309_cityname.worldclock|1]: Аден
-[C309_timezone.worldclock|1]:	180
+[C309_timezone.worldclock|1]: 180
 [C310_cityname.worldclock|1]: Антананариву
-[C310_timezone.worldclock|1]:	180
+[C310_timezone.worldclock|1]: 180
 [C311_cityname.worldclock|1]: Кувейт
-[C311_timezone.worldclock|1]:	180
+[C311_timezone.worldclock|1]: 180
 [C312_cityname.worldclock|1]: Абу-Даби
-[C312_timezone.worldclock|1]:	240
+[C312_timezone.worldclock|1]: 240
 [C313_cityname.worldclock|1]: Самара
-[C313_timezone.worldclock|1]:	240
+[C313_timezone.worldclock|1]: 240
 [C314_cityname.worldclock|1]: Нью-Дели
-[C314_timezone.worldclock|1]:	300
+[C314_timezone.worldclock|1]: 300
 [C315_cityname.worldclock|1]: Новосибирск
-[C315_timezone.worldclock|1]:	420
+[C315_timezone.worldclock|1]: 420
 [C316_cityname.worldclock|1]: Тайвань
-[C316_timezone.worldclock|1]:	480
+[C316_timezone.worldclock|1]: 480
 [C317_cityname.worldclock|1]: Иркутск
-[C317_timezone.worldclock|1]:	480
+[C317_timezone.worldclock|1]: 480
 [C318_cityname.worldclock|1]: Чита
-[C318_timezone.worldclock|1]:	540
+[C318_timezone.worldclock|1]: 540
 [C319_cityname.worldclock|1]: Владивосток
-[C319_timezone.worldclock|1]:	600
+[C319_timezone.worldclock|1]: 600
 [C321_cityname.worldclock|1]: Магадан
-[C321_timezone.worldclock|1]:	660
+[C321_timezone.worldclock|1]: 660
 [C322_cityname.worldclock|1]: Камчатка
-[C322_timezone.worldclock|1]:	720
+[C322_timezone.worldclock|1]: 720
 [C323_cityname.worldclock|1]: Сува
-[C323_timezone.worldclock|1]:	720
+[C323_timezone.worldclock|1]: 720
 [C325_cityname.worldclock|1]: Веллингтон
-[C325_timezone.worldclock|1]:	720
+[C325_timezone.worldclock|1]: 720
 [C32_cityname.worldclock|1]: Асунсьон
-[C32_timezone.worldclock|1]:	-240
+[C32_timezone.worldclock|1]: -240
 [C36_cityname.worldclock|1]: Буэнос-Айрэс
-[C36_timezone.worldclock|1]:	-180
+[C36_timezone.worldclock|1]: -180
 [C38_cityname.worldclock|1]: Каракас
-[C38_timezone.worldclock|1]:	-240
+[C38_timezone.worldclock|1]: -240
 [C3_cityname.worldclock|1]: Аддис-Абеба
-[C3_timezone.worldclock|1]:	180
+[C3_timezone.worldclock|1]: 180
 [C40_cityname.worldclock|1]: Чикаго
-[C40_timezone.worldclock|1]:	-360
+[C40_timezone.worldclock|1]: -360
 [C47_cityname.worldclock|1]: Эдмонтон
-[C47_timezone.worldclock|1]:	-420
+[C47_timezone.worldclock|1]: -420
 [C4_cityname.worldclock|1]: Алжир
-[C4_timezone.worldclock|1]:	60
+[C4_timezone.worldclock|1]: 60
 [C52_cityname.worldclock|1]: Гватемала
-[C52_timezone.worldclock|1]:	-360
+[C52_timezone.worldclock|1]: -360
 [C55_cityname.worldclock|1]: Гавана
-[C55_timezone.worldclock|1]:	-300
+[C55_timezone.worldclock|1]: -300
 [C65_cityname.worldclock|1]: Nuestra Señora de La Paz
-[C65_timezone.worldclock|1]:	-240
+[C65_timezone.worldclock|1]: -240
 [C66_cityname.worldclock|1]: Лима
-[C66_timezone.worldclock|1]:	-300
+[C66_timezone.worldclock|1]: -300
 [C67_cityname.worldclock|1]: Лос-Анджелес
-[C67_timezone.worldclock|1]:	-480
+[C67_timezone.worldclock|1]: -480
 [C69_cityname.worldclock|1]: Манагуа
-[C69_timezone.worldclock|1]:	-360
+[C69_timezone.worldclock|1]: -360
 [C72_cityname.worldclock|1]: Мехико
-[C72_timezone.worldclock|1]:	-360
+[C72_timezone.worldclock|1]: -360
 [C73_cityname.worldclock|1]: Монтерей
-[C73_timezone.worldclock|1]:	-360
+[C73_timezone.worldclock|1]: -360
 [C74_cityname.worldclock|1]: Монтевидео
-[C74_timezone.worldclock|1]:	-180
+[C74_timezone.worldclock|1]: -180
 [C76_cityname.worldclock|1]: Нассау
-[C76_timezone.worldclock|1]:	-300
+[C76_timezone.worldclock|1]: -300
 [C77_cityname.worldclock|1]: Нью-Йорк
-[C77_timezone.worldclock|1]:	-300
+[C77_timezone.worldclock|1]: -300
 [C7_cityname.worldclock|1]: Каир
-[C7_timezone.worldclock|1]:	120
+[C7_timezone.worldclock|1]: 120
 [C8_cityname.worldclock|1]: Касабланка
-[C8_timezone.worldclock|1]:	0
+[C8_timezone.worldclock|1]: 0
 [C93_cityname.worldclock|1]: Торонто
-[C93_timezone.worldclock|1]:	-300
+[C93_timezone.worldclock|1]: -300
 [C94_cityname.worldclock|1]: Ванкувер
-[C94_timezone.worldclock|1]:	-480
+[C94_timezone.worldclock|1]: -480
 [C95_cityname.worldclock|1]: Виннипег
-[C95_timezone.worldclock|1]:	-360
+[C95_timezone.worldclock|1]: -360
 [C98_cityname.worldclock|1]: Алматы
-[C98_timezone.worldclock|1]:	360
+[C98_timezone.worldclock|1]: 360
 [C99_cityname.worldclock|1]: Амман
-[C99_timezone.worldclock|1]:	120
+[C99_timezone.worldclock|1]: 120
 [Dec.common|1]: Декабрь
-[Dec_n.common|1]:	12
+[Dec_n.common|1]: 12
 [Feb.common|1]: Февраль
-[Feb_n.common|1]:	2
+[Feb_n.common|1]: 2
 [Fri.calendar|1]: Пт
 [Fri.worldclock|1]: Пт
 [Fri_brief.calendar|1]: Пт
 [Fri_brief.common|1]: Пт
 [Jan.common|1]: Январь
-[Jan_n.common|1]:	1
+[Jan_n.common|1]: 1
 [July.common|1]: Июль
 [July_n.common|1]: 7
 [June.common|1]: Июнь
@@ -1595,7 +1595,7 @@
 [riding_time.sport|1]: Велоспорт
 [ring.mute|1]: Звук включен
 [ring_toast.mute|1]: Звук выключен
-[rl1%drl2%02d:%02drl3.settings|2]:	DND включен в %dh. Выключен в %02d:%02d.| DND включен в %dh. Выключен в %02d:%02d.
+[rl1%drl2%02d:%02drl3.settings|2]: DND включен в %dh. Выключен в %02d:%02d.| DND включен в %dh. Выключен в %02d:%02d.
 [rock_climbing.sport|1]: Скалолазание
 [roller_skating.sport|1]: Катание на роликах
 [rope_skipping.sport|1]: Скакалка
