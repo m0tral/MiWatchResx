@@ -508,10 +508,10 @@
 [app_conn.aivs|1]: Пожалуйста
 [app_join.mihome|1]: Подключение к Bluetooth в приложении
 [app_name.nfc|1]: Карты
-[appname.act|1]: Vigor
+[appname.act|1]: Статистика
 [appname.media|1]: Музыка
-[appname.status|1]: Тренировка
-[appname.vitality|1]: Жизненная энергия
+[appname.status|1]: Состояние
+[appname.vitality|1]: Витальность
 [aquatic_sport.sport|1]: Водные виды спорта
 [archery.sport|1]: Стрельба из лука
 [attention.breath|1]: Сосредоточьтесь на дыхании
@@ -593,7 +593,7 @@
 [breath_switch.sleep|1]: Оценка дыхания
 [breath_time.breath|1]: Time
 [breath_title1.breath|1]: Дыхание
-[breath_train.common|1]: Дыхательные упражнения
+[breath_train.common|1]: Дыхание
 [brides.sport|1]: Карты
 [brightness.settings|1]: Яркость
 [brightness_auto.settings|1]: Авто
@@ -817,8 +817,8 @@
 [ephemeris_expired_tips.sport|1]: Подключение к телефону для ускорения определения координат GPS.
 [equesttrian.sport|1]: Конный спорт
 [err.aivs|1]: Сеть недоступна
-[estimate.settings|1]: Срок службы батареи
-[estimate_content.settings|1]: Расчетное время автономной работы приведено только для справки. Фактическое время автономной работы зависит от условий эксплуатации.
+[estimate.settings|1]: Время работы
+[estimate_content.settings|1]: Расчетное время работы приведено только для справки. Фактическое время зависит от условий эксплуатации.
 [every_day.alarm|1]: Ежедневно
 [every_day.todo|1]: Ежедневно
 [every_month.todo|1]: Ежемесячно
@@ -1108,9 +1108,9 @@
 [light_value.check_tool|1]: Значение светочувствительности.
 [limit_interval.sport|1]: VO₂ max
 [list_name.oxygen|1]: SpO₂
-[listening.alexa|1]: listening.alexa
+[listening.alexa|1]: Слушаю
 [load.sport|1]: Подождите
-[load.training|1]: Тренировка запускается
+[load.training|1]: Тренировочная нагрузка
 [load_explain.training|1]: Тренировочная нагрузка рассчитывается на основе вашего тренировочного импульса (TRIMP) для каждой тренировки
 [load_explain_more.training|1]: (Подробнее в разделе Помощь в приложении)
 [lock_over.settings|1]: Убедитесь
@@ -1122,8 +1122,8 @@
 [long.sleep|1]: Сон
 [long_endurance_info.settings|1]: В режиме экономии заряда батареи будут доступны только часы
 [long_press_stop.sport|1]: Нажмите и удерживайте кнопку для завершения тренировки
-[longpress.settings|1]: Активировать
-[longpress_lab.settings|1]: Когда функция включена, для изменения циферблата нажмите и удерживайте кнопку Edit
+[longpress.settings|1]: Долг нажатие
+[longpress_lab.settings|1]: При включенном экране нажмите и подержите для смены циферблата.
 [low.hr|1]: Низкий уровень ЧСС
 [low_balance.nfc|1]: Недостаточно средств. Пополните баланс в ближайшее время.
 [low_btn.oxygen|1]: Низкий уровень SpO₂
@@ -1471,8 +1471,8 @@
 [pre_menstruation_in%d.wm|2]: День цикла %d|Дней цикла %d
 [pre_menstruation_out%d.wm|2]: День цикла %dd|Дней цикла %dd
 [predicta_menstruation.wm|1]: Расчетный период
-[prefer.settings|1]: Смена циферблата
-[prefer_title.settings|1]: Смена циферблата
+[prefer.settings|1]: Предпочтения
+[prefer_title.settings|1]: Предпочтения
 [prepare_sleep.reminder|1]: Спокойный сон
 [pressure|1]: Стресс
 [pressure_high.pressure|1]: Высокий уровень стресса
@@ -1722,7 +1722,7 @@
 [sport_expression.sport|1]: Эффект тренировки
 [sport_health.watchface|1]: спортивное здоровье
 [sports.appname|1]: Тренировка
-[sports_course.appname|1]: Программа
+[sports_course.appname|1]: Бег
 [sports_record.appname|1]: История
 [spring_festival.calendar|1]: Праздник весны (китайский Новый год)
 [square_dance.sport|1]: Квадратный танец
@@ -1743,12 +1743,12 @@
 [start_time.settings|1]: Начало
 [start_warmup.sport|1]: Разминка
 [starting.alexa|1]: Загрузка Alexa
-[state.settings|1]: Отличный
+[state.settings|1]: Отлично
 [state_screen.settings|1]: AOD
-[status1.training|1]: Низкий
-[status2.training|1]: Хороший
-[status3.training|1]: Высокий
-[status4.training|1]: Очень высокий
+[status1.training|1]: Низкая
+[status2.training|1]: Хорошая
+[status3.training|1]: Высокая
+[status4.training|1]: Очень высокая
 [status_dsc.training|1]: Последние 7 дней
 [stay_still.health|1]: Сохраняйте спокойствие
 [step|1]: Шаги
@@ -1909,7 +1909,7 @@
 [tp_sign.check_tool|1]: Perform \n join operation on all squares
 [tp_test.check_tool|1]: TP Scribing Inspection(9/14)
 [track_and_field.sport|1]: Легкая атлетика
-[train.breath|1]: Дыхательные упражнения
+[train.breath|1]: Дыхание
 [train.sport|1]: Тренировка
 [train_setting.sport|1]: Настройки
 [training.sport|1]: Тренировка
@@ -1956,7 +1956,7 @@
 [unlock_use.common|1]: Введите PIN-код для разблокировки
 [unopenswitch.alarm|1]: Отключить
 [unread_message.notify|1]: уведомление
-[unwanted.settings|1]: Хорошо
+[unwanted.settings|1]: Оптимизации не требуется
 [up_sign.setupwizard|1]: Сканирование QR-кода
 [update_back.setupwizard|1]: Возврат к предыдущей версии
 [update_fail.setupwizard|1]: Невозможно обновить
