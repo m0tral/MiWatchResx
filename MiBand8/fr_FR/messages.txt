@@ -1,0 +1,4323 @@
+Trouver le téléphone
+Votre téléphone va sonner
+Rechercher
+Arrêter
+Terminé
+Rechercher à nouveau
+Déconnecté
+Connectez-vous via le Bluetooth et réessayez
+Ouvrir l'Appareil photo sur votre téléphone
+OK
+Associer l'Appareil photo dans l'application
+OK
+Déconnecté
+Connectez-vous via le Bluetooth et réessayez
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Maintenant
+Alarme
+Aucune alarme
+AM
+PM
+%02d:%02d
+Une fois
+Quotidien
+Jours ouvrables
+Vacances
+ 
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+Ajouter jusqu'à 10 alarmes
+Heure
+AM
+PM
+%02d
+%02d
+:
+Réveil intelligent
+Laissez votre bracelet choisir une fenêtre de 10 minutes avant votre alarme pour vous réveiller
+Répéter
+Une fois
+Quotidien
+Jours ouvrables
+Vacances
+Personnaliser
+Personnaliser
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+Reporter
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Désactivé
+Reporter pour 10 min
+Heure
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Répéter
+Une fois
+Quotidien
+Jours ouvrables
+Vacances
+ 
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+Réveil intelligent
+Activé
+Désactivé
+%d%%
+%02d:%02d
+Batterie en dessous de %d%%
+Batterie inférieure à %d%%. Activer l'Économiseur de batterie ?
+Économiseur de batterie
+Durée de vie restante de la batterie
+environ : %d jour %d heure
+Seuls l'horloge, le compte de pas et le NFC seront disponibles lorsque l'Économiseur de batterie est activé. Appuyez et maintenez l'écran ou chargez pour éteindre.
+Le bracelet est trop chaud pour charger. Ne le portez pas maintenant.
+Le bracelet est trop froid pour charger. Ne le portez pas maintenant.
+%02d:%02d
+Chronomètre
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Aucune localisation ajoutée
+%02d:%02d
+Wellington
+Sydney
+Tokyo
+Séoul
+Pékin
+Hong Kong
+Singapour
+Bangkok
+New Delhi
+Islamabad
+Dubaï
+Moscou
+Le Caire
+Le Cap
+Paris
+Londres
+New York
+Chicago
+Los Angeles
+Honolulu
+Athènes
+Téhéran
+Rangoon
+Rio de Janeiro
+Wellington
+Sydney
+Tokyo
+Séoul
+Pékin
+Hong Kong
+Singapour
+Bangkok
+New Delhi
+Islamabad
+Dubaï
+Moscou
+Le Caire
+Le Cap
+Paris
+Londres
+New York
+Chicago
+Los Angeles
+Honolulu
+Athènes
+Téhéran
+Rangoon
+Rio de Janeiro
+Wellington
+Sydney
+Tokyo
+Séoul
+Pékin
+Hong Kong
+Singapour
+Bangkok
+New Delhi
+Islamabad
+Dubaï
+Moscou
+Le Caire
+Le Cap
+Paris
+Londres
+New York
+Chicago
+Los Angeles
+Honolulu
+Athènes
+Téhéran
+Rangoon
+Rio de Janeiro
+Les données de changements d'heure sont obsolètes. Connectez-vous à l'application pour les mettre à jour.
+%02d:%02d
++%d heure
++%.1f heure
++%d heure
++%d heure
++%d heures
++%d heures
++%.1f heure
++%.1f heure
++%.1f heures
++%.1f heures
++%.1f heures
++%.1f heures
++%d heures
++%d heures
+-%d heure
+-%.1f heure
+-%d heure
+-%d heure
+-%d heures
+-%d heures
+-%.1f heure
+-%.1f heure
+-%.1f heures
+-%.1f heures
+-%.1f heures
+-%.1f heures
+-%d heures
+-%d heures
+%02d/%02d
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+-%.1f heure
+-%.1f heure
+-%.1f heure
+-%.1f heures
+-%.1f heures
+-%.1f heures
+-%.1f heures
+-%d heure
+-%d heure
+-%d heure
+-%d heures
+-%d heures
+-%d heures
+-%d heures
++%d heure
++%.1f heure
++%d heure
++%d heure
++%d heures
++%d heures
++%.1f heure
++%.1f heure
++%.1f heures
++%.1f heures
++%.1f heures
++%.1f heures
++%d heures
++%d heures
+Ajouter une localisation
+Ajouter plus de localisations dans l'application
+Ajouter jusqu'à
+20 localisations
+%02d:%02d
+Concentration
+Repos
+min
+min
+min
+min
+min
+min
+min
+Repos
+%02d:%02d
+Définir une durée
+Au repos
+En pause
+Temps de repos
+Aujourd'hui
+%02d:%02d:%02d
+Temps de concentration
+Concentration
+Concentration
+
+NPD est activé pendant cette séance
+Rester concentré
+En savoir plus
+Concentration
+La concentration vous aide à vous concentrer sur une courte période pour travailler plus efficacement.
+
+Une séance de concentration dure normalement 25 minutes. Une fois que vous commencez, concentrez-vous entièrement sur votre tâche jusqu'à ce que votre appareil vibre, à ce moment vous pouvez vous reposer pendant 5 minutes.
+
+Nous vous recommandons de prendre une pause de 15 à 20 minutes après chaque 4 séances de Concentration.
+Heure de concentration
+Un instant
+À l'arrêt
+Déconnecté
+Autorisations manquantes
+Activer les notifications dans l'application
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Pig)
+ 
+ 
+ 
+ 
+ 
+%d/%d
+Semaine %d
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Activer Événement dans l'application
+Aucun événement
+%02d/%02d
+Lun.
+%02d/%02d
+Mar.
+%02d/%02d
+Mer.
+%02d/%02d
+Jeu.
+%02d/%02d
+Ven.
+%02d/%02d
+Sam.
+%02d/%02d
+Dim.
+Toute la journée
+%02d:%02d-%02d:%02d
+Reporter
+Ignorer
+Reporté
+pour 10 min
+Activer
+Aucun événement
+Ajouter dans l'application
+Aujourd'hui
+À venir
+%02d:%02d AM
+%02d:%02d PM
+Lun. %d/%d
+Mar. %d/%d
+Mer. %d/%d
+Jeu. %d/%d
+Ven. %d/%d
+Sam. %d/%d
+Dim. %d/%d
+Reporter
+Ignorer
+%02d:%02d AM
+%02d:%02d PM
+Évènement
+Reporté
+pour 10 min
+Détails
+Recherche de l'appareil…
+Arrêter
+Écoute
+Commencez en disant
+Set up Mi AI in the app
+Vérifiez votre 
+connexion réseau 
+ou réessayez plus tard
+Déconnecté.
+Connectez-vous via Bluetooth.
+Band is uploading
+ data. Can't use Mi AI
+ right now.
+Cette fonctionnalité n'est pas prise en charge pour le moment
+You were saying?
+Couldn't wake Mi AI. Try again.
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Dimanche
+Tap to wake Mi AI
+Ask Mi AI on your phone
+Mi AI est disponible uniquement en Chine continentale pour le moment.
+Excellente
+Bonne
+Modérée
+Malsaine
+Dangereuse
+Nocive
+Excellente
+Bonne
+Modérée
+Malsaine
+Dangereuse
+Nocive
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Demain
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+IQA %d
+Lever de soleil
+Coucher de soleil
+%02d:%02d
+Vent
+%d
+Humidité
+%d%%
+UV
+%lu
+%d°/%d°
+Changer la localisation
+Définir les localisations dans les paramètres
+météo de l'application
+%d
+℃
+℉
+Cartes
+Ajouter des cartes dans l'application
+Un instant
+
+Solde
+Maintenir près du lecteur
+Un instant
+Impossible d'activer.
+Réessayer.
+Payé avec succès
+-%.2F
+Solde
+-%.2F
+Solde faible. Recharger bientôt.
+Respiration
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Démarrer
+Détendez-vous
+Concentrez-vous sur votre respiration
+Allons-y
+Suivez la bulle
+Inspirer
+Expirer
+Bien joué
+Session : %d min
+Session : %d min
+Session : %d min
+Session : %d min
+Session : %d min
+Session : %d min
+Session : %d min
+%2d:%2d
+Résultats
+FC actuelle
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+FC initiale
+Session
+min
+min
+min
+min
+min
+min
+min
+Terminé
+Heure
+min
+min
+min
+min
+min
+min
+min
+%d
+%d
+%d respiration
+%d respiration
+%d respiration
+%d respirations
+%d respirations
+%d respirations
+%d respirations
+%02u:%02u
+Fréquence cardiaque
+Mesure
+Soyez tranquille
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+À l'instant
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+%02u:%02u
+Réessayer
+Mesurer
+Non porté
+Aucune donnée
+Non porté
+OK
+%u
+%u
+Astuces
+1. Portez votre bracelet au-dessus de votre poignet
+2. Gardez votre bracelet bien ajusté et immobile
+3. La précision des mesures peut être affectée par la façon dont le bracelet est porté, les changements dans votre peau et l'environnement, etc.
+*Cette fonctionnalité n'est pas destinée à des fins médicales ni à diagnostiquer, traiter, guérir ou prévenir une maladie ou une condition.
+FC élevée
+FC élevée
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+En savoir plus
+Votre bracelet vous avertit lorsque votre fréquence cardiaque dépasse un niveau défini pendant que vous êtes au repos. Il est normal que votre fréquence cardiaque augmente en réponse au stress, à la consommation de caféine ou à un rhume. Cependant, les personnes souffrant d'étourdissements, d'essoufflement ou de palpitations devraient consulter un médecin. Notez que les données sur la fréquence cardiaque élevée ne sont pas destinées à des fins médicales, ni à diagnostiquer, traiter, guérir ou prévenir toute maladie ou condition. Le bracelet affiche uniquement les 3 enregistrements de fréquence cardiaque élevée les plus récents. Pour plus d'informations, consultez l'application.
+FC basse
+FC basse
+En savoir plus
+Votre bracelet vous avertit lorsque votre fréquence cardiaque passe en dessous d'un niveau défini. C'est courant pendant le sommeil ou chez les personnes qui sont physiquement actives. Les personnes souffrants d'étourdissements, d'essoufflement ou de palpitations devraient consulter un médecin. Notez que les données de fréquence cardiaque basse ne sont pas destinées à des fins médicales, ni à diagnostiquer, traiter, guérir ou prévenir toute maladie ou condition. Le bracelet affiche uniquement les 3 enregistrements les plus récents sur la fréquence cardiaque basse. Pour plus d'informations, consultez l'application.
+BPM irrégulier
+Irrégulière
+%02u:%02u-%02u:%02u
+Afficher les détails dans l'application
+En savoir plus
+Votre bracelet mesurera votre pouls et enregistrera toute anomalie lorsque vous êtes inactif. Si vous vous sentez mal, consultez un médecin.
+Zone FC
+%u h%u min
+%u h%u min
+%u h%u min
+%u h%u min
+%u h
+%u h
+%u h
+%u h
+%u h
+%u h
+%u h
+%1u h
+%1u h
+%1u h
+%1u h
+%1u h
+%1u h
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%2u min
+%2u min
+%2u min
+%2u min
+%2u min
+%2u min
+VO₂ max
+Anaérobie
+Aérobie
+Intensive
+Légère
+En savoir plus
+Légère
+50% à 60% de la capacité maximale de la fréquence cardiaque convient pour les échauffements et les récupérations.
+Intensive
+61%-70% de marge est parfaite pour brûler les graisses.
+Aérobie
+À 71-80%, les fonctions cardiopulmonaires sont renforcées.
+Anaérobie
+Lorsque la marge de 81 % à 90 % est atteinte, la tolérance à l'acide lactique est améliorée.
+VO₂ max
+L'exercice à 91% -100% de la capacité maximale de la fréquence cardiaque convient aux entraîneurs expérimentés.
+Paramètres
+Fréquence cardiaque
+Contrôle continu
+Désactivé
+Automatique
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+Contrôle continu
+Suivez votre fréquence cardiaque 24 heures sur 24.
+Désactivé
+Automatique
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+BPM irrégulier
+Activé
+BPM irrégulier
+Cette fonctionnalité surveille votre fréquence cardiaque en temps réel et enregistre les battements irréguliers.
+ 
+Activer cette fonctionnalité réduira considérablement l'autonomie de la batterie. Activer quand même ?
+FC élevée
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+FC élevée
+Sélectionnez une fréquence cardiaque au-dessus de laquelle vous recevrez une alerte
+Désactivé
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+FC élevée
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était supérieure à %u BPM.
+Ignorer
+Ignorer aujourd'hui
+FC basse
+FC basse
+Sélectionnez une fréquence cardiaque en dessous de laquelle vous recevrez une alerte
+FC basse
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+À partir de %02u:%02u, votre FC au repos était inférieure à %u BPM.
+En savoir plus
+En savoir plus
+Fréquence cardiaque
+La fréquence cardiaque est le nombre de battements de votre cœur par minute (BPM). Typiquement, une fréquence cardiaque au repos varie de 55 à 80 BPM. Cependant, cela varie selon l'âge, le sexe et d'autres facteurs. Votre appareil prend en charge une plage de 30 à 240 BPM
+Sommeil
+Portez votre appareil au lit pour générer des données de sommeil
+%02u
+h
+m
+Objectif : %2u h
+Objectif : %2u h
+Objectif : %2u h
+Objectif : %2u h
+Objectif : %2u h
+Objectif : %2u h
+Objectif : %2u h
+heure
+heure
+heure
+heures
+heures
+heures
+heures
+h
+h
+h
+h
+h
+h
+min
+min
+min
+min
+min
+min
+min
+m
+m
+m
+m
+m
+m
+Objectif : %02u h%2u min
+Mise à jour : %02u:%02u
+Sieste
+%02u
+%02u:%02u-%02u:%02u
+Sommeil
+Profond
+%u%%
+Léger
+REM
+Réveils
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+FC moy.
+%u
+SpO₂ moy.
+Paramètres
+En savoir plus
+Paramètres
+Surveillance avancée
+Désactivé
+Score respiratoire
+Activé
+Surveillance avancée
+Lorsque cette fonctionnalité est activée, votre appareil suivra votre Sommeil REM.
+
+Activer la Surveillance avancée réduira considérablement l'autonomie de la batterie. Activer quand même ?
+Score respiratoire
+Lorsque cette fonctionnalité est activée, votre respiration nocturne est surveillée pendant votre sommeil. Vous pouvez voir le score de respiration dans l'application.
+Surveiller votre respiration réduira considérablement l'autonomie de la batterie. Activer quand même ?
+En savoir plus
+Portez votre bracelet au lit pour suivre le sommeil. Vous serez en mesure de voir les 3 plus récents enregistrements de l'historique du sommeil sur votre bracelet. Un historique de sommeil plus détaillé est disponible dans l'application sur votre téléphone. Activez la Surveillance avancée dans les Paramètres pour suivre les mouvements oculaires rapides et obtenez des informations plus précises sur le sommeil. Au moins 3 heures de sommeil ininterrompu permettront à votre bracelet d'enregistrer la fréquence cardiaque moyenne et l'oxygène sanguin. Pour les siestes plus courtes, seules les heures d'endormissement et de réveil seront enregistrées. Les siestes de moins de 20 minutes ne seront pas enregistrées. Une mauvaise qualité du sommeil et un mouvement excessif du poignet pendant le sommeil peuvent entraîner des données de fréquence cardiaque inexactes et l'incapacité de mesurer l'oxygène sanguin.
+%02u:%02u
+Stress
+Aucune donnée
+Mesurer
+%u
+Détendu
+Léger
+Modéré
+Sévère
+À l'instant
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+%02u:%02u
+Gardez le bracelet immobile et tourné vers le haut
+%u
+Mesure
+Soyez tranquille
+Ne bougez pas
+Gardez le bracelet en contact avec votre peau
+Gardez votre poignet à plat et l'écran vers le haut
+Resserrez la sangle du bracelet et réessayez
+Resserrez la sangle du bracelet et réessayez
+Restez immobile pendant la mesure
+Resserrez la sangle du bracelet et réessayez
+Réessayer
+OK
+Séance interrompue. Annuler maintenant ?
+Astuces
+Portez votre bracelet au-dessus de votre poignet.
+Gardez votre bracelet bien ajusté et immobile.
+Les mesures dépendent de la basse température, de la perfusion cutanée, et plus encore.
+Cette fonctionnalité n'est pas destinée à des fins médicales.
+Stress élevé
+%u
+Sévère
+Essayez des exercices de respiration.
+Respiration
+C'est compris
+Ignorer aujourd'hui
+Stress
+%u
+%u
+Détendu
+Léger
+Modéré
+Sévère
+À l'instant
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+%02u:%02u
+Mesurer
+Aucune donnée
+Détails
+Détendu
+Léger
+Modéré
+Sévère
+%u%%
+7 derniers j
+%02u/%02u
+Aujourd'hui
+%u
+moy.
+Paramètres
+En savoir plus
+Stress
+Surveillance toute la journée
+Activé
+Désactivé
+Rappel détente
+Surveillance toute la journée
+Cette fonctionnalité permet de suivre votre niveau de stress lorsque vous ne bougez pas.
+Rappel détente
+Incitez un exercice de respiration lorsque votre niveau de stress reste au-dessus de 80 en étant éveillé
+Activer cette fonctionnalité réduira considérablement l'autonomie de la batterie. Activer quand même ?
+En savoir plus
+Le stress est la réaction de votre corps aux défis et aux exigences.
+Le stress n'est mesuré que pendant les périodes de repos. Les niveaux de stress sont définis comme suit :
+Détendu : 1-25
+Léger : 26-50
+Modéré : 51-80
+Sévère : 81-100
+Plusieurs facteurs peuvent influer sur l'exactitude. Les résultats sont fournis à titre de référence seulement.
+%02u:%02u
+SpO₂
+Aucune donnée
+Mesurer
+%u
+%
+À l'instant
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+%02u:%02u
+Gardez le bracelet immobile et tourné vers le haut
+%u
+SpO₂
+Mesure
+Étalonnage
+Soyez tranquille
+Ne bougez pas
+Gardez le bracelet en contact avec votre peau
+Gardez votre poignet à plat et l'écran vers le haut
+Resserrez la sangle du bracelet et réessayez
+Réessayer
+Resserrez la sangle du bracelet et réessayez
+Restez immobile pendant la mesure
+Resserrez la sangle du bracelet et réessayez
+Gardez votre poignet à plat et l'écran vers le haut
+Gardez le bracelet bien ajusté et immobile
+C'est compris
+C'est compris
+Astuces
+1. Portez votre bracelet au-dessus de votre poignet.
+2. Gardez votre bracelet bien ajusté et immobile.
+3. Les mesures dépendent de la basse température, de la perfusion cutanée, et plus encore.
+Cette fonctionnalité n'est pas destinée à des fins médicales.
+SpO₂
+%u
+%u
+%
+À l'instant
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+Il y a %u min
+%02u:%02u
+Mesurer
+Alertes
+Paramètres
+En savoir plus
+En savoir plus
+Votre bracelet prend en charge une plage de 75% à 100%.
+SpO₂ bas
+1. SpO₂ représente le pourcentage d'oxygène dans votre sang.
+%02u:%02u
+2. Les lectures inférieures à 95% lorsque actif ou inférieures à 90% lorsque dormant sont considérées comme faibles.
+%u
+%u%% - %u%%
+3. Plusieurs facteurs peuvent rendre les mesures incohérentes ou non fiables. Il peut s'agir de perfusion cutanée, de changements permanents ou temporaires de la peau, de mouvements ou de poses pendant le sommeil. Tout ce qui précède pourrait entraîner une fausse alerte d'oxygène sanguin bas. Rappelez-vous que ce n'est pas un appareil médical, et les données qu'il génère ne peuvent pas être utilisées pour le diagnostic et le traitement.
+En savoir plus
+Lorsque votre niveau de saturation en oxygène reste inférieur à la valeur définie pendant un certain temps, vous recevrez une alerte. Votre bracelet affichera les 3 enregistrements les plus récents. Afficher plus dans l'application.
+Si vous éprouvez de l'essoufflement, des maux de tête, de la fatigue ou une perte de concentration, consultez un médecin professionnel.
+La plage de mesure du bracelet est de 75 % à 100 %. Cette fonctionnalité n'est pas destinée à des fins médicales et ne doit être utilisée qu'à titre de référence.
+Séance interrompue. Annuler maintenant ?
+Paramètres
+Suivi toute la journée
+Activé
+Désactivé
+Alertes
+Désactivé
+%d%%
+%d%%
+%d%%
+Suivi toute la journée
+Cette fonctionnalité mesure votre SpO₂ lorsque vous êtes au repos.
+Alertes
+Recevez un rappel lorsque votre SpO₂ descends en dessous d'un certain niveau pendant que vous êtes éveillé
+Désactivé
+0.8
+0.85
+0.9
+ 
+Activer cette fonctionnalité réduira considérablement l'autonomie de la batterie. Activer quand même ?
+Alertes
+%u
+%
+Votre SpO₂ actuel est inférieur à %u %%
+Ignorer
+Ignorer aujourd'hui
+%02d:%02d
+Cycles
+%02d/%02d
+%02d/%02d
+Aucune donnée aujourd'hui
+Enregistrer
+Jour %d
+Jour %d
+Jour %d
+Jour %d
+Jour %d
+Jour %d
+Jour %d
+Estimation des règles
+%02d/%02d-%02d/%02d
+Annuler
+Règles terminées
+Règles
+Cycles
+%02d/%02d
+%02d/%02d
+Aucune donnée aujourd'hui
+Début des règles
+Annuler
+Règles terminées
+Prédictions
+Activer les Prédictions des règles dans l'application
+En savoir plus
+Jour %02d
+Jour %02d
+Jour %02d
+Jour %02d
+Jour %02d
+Jour %02d
+Jour %02d
+Fertile
+Estimation des règles
+Règles
+%02d/%02d-%02d/%02d
+Fertile
+%02d/%02d-%02d/%02d
+Règles
+Ovulation
+%02d/%02d
+Ovulation
+Dans %d jour
+Dans %d jour
+Dans %d jour
+Dans %d jours
+Dans %d jours
+Dans %d jours
+Dans %d jours
+En savoir plus
+1. Couleurs
+Règles
+Estimation des règles
+Fertile
+Ovulation
+2. Astuce
+Pour rendre les prévisions plus précises, enregistrez les règles et modifiez la durée du cycle dans l'application.
+Règles à venir
+Période fertile à venir
+Ovulation à venir
+Demain
+Dans 2 jours
+Dans %u jour
+Dans %u jour
+Dans %u jour
+Dans %u jour
+Dans %u jour
+Dans %u jour
+Dans %u jour
+Dans %u jours
+Prochaines règles le %u/%u
+Prochaine période fertile le %u/%u
+Prochain jour d'ovulation le %u/%u
+%02u:%02u
+AM
+PM
+C'est compris
+Course à l'extérieur
+Marche
+Marche athlétique
+Tapis de course
+Marche à l'intérieur
+Cyclisme en plein air
+Trekking
+Course en sentier
+Randonnée
+Activités libres
+Fitness en salle
+Yoga
+Natation en piscine
+Eau libre
+Elliptique
+Rameur
+Corde à sauter
+HIIT
+Tennis
+Basketball
+Planche à neige
+Ski
+Ski de fond
+Golf
+Autres sports
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Objectif
+%d%
+Achèvement de l'objectif
+%u.%02u
+km
+Objectif
+Terminé
+Résumé
+%u'%02u"
+Rythme moy.
+Rythme
+%d
+Cadence moy. (PPM)
+Foulée moy. (cm)
+Calories
+FC moy.
+FC max.
+Pas
+VO₂ max
+Longueurs
+Style principal
+SWOLF moy.
+Total de coups
+CPM moy.
+Temps d'entraînement
+Temps de repos
+Séries
+Total de coups
+Total de sauts
+Fréq. moy. (SPM)
+Brasse
+Nage libre
+Papillon
+Dos crawlé
+Zone FC
+VO₂ max
+Anaérobie
+Aérobie
+Intensive
+Léger
+%d h%d min
+%d h%d min
+%d h%d min
+%d h%d min
+%dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Effet d'entraînement
+%d.%d
+Maintenu
+Entraînement aérobique
+%d.%d
+Entraînement anaérobie
+Afficher plus de détails dans l'application
+%d
+Charge d'entraînement
+Bonne
+Basse
+Élevée
+7 derniers jours
+%d
+ml/kg/min
+VO₂ max
+Très faible
+Faible
+Juste
+Moyen
+Bonne
+Excellent
+Exceptionnelle
+Niveau
+Amélioration
+Maintenu
+En déclin
+Capacité athlétique
+ 
+La charge d'entraînement est calculée en fonction de votre consommation excessive d'oxygène après l'exercice (EPOC) au cours des 7 derniers jours. Ajustez votre charge de travail en conséquence. En savoir plus dans Aide dans l'application.
+%02d:%02d
+En savoir plus
+La VO₂ max est un indicateur clé de la capacité aérobie du corps. L'appareil évaluera votre capacité sportive en fonction de facteurs tels que l'âge, le sexe et la fréquence cardiaque pendant l'exercice, et la VO₂ max changera à mesure que votre capacité sportive s'améliore.
+Trouver votre VO₂ max
+1. Remplissez vos informations personnelles dans l'application. 2. Portez le bracelet et courez à l'extérieur pendant plus de 10 minutes pour atteindre 75 % de votre fréquence cardiaque maximale.
+%d
+Temps de récupération (h)
+Complètement rétabli
+Presque rétabli
+Réduire l'intensité
+Repos requis
+%02d:%02d
+Mis à jour
+À l'instant
+Il y a %dmin
+Il y a %dmin
+Il y a %dmin
+Il y a %dmin
+Il y a %dmin
+Il y a %dmin
+Il y a %dmin
+%d
+Temps de récupération (h)
+Vous pouvez augmenter l'intensité de l'entraînement
+Entraînez-vous comme d'habitude
+Entraînez-vous à une faible intensité
+Reposez-vous correctement et interrompez l'entraînement
+Activité
+%d record non synchronisé
+%d record non synchronisé
+%d record non synchronisé
+%d records non synchronisés
+%d records non synchronisés
+%d records non synchronisés
+%d records non synchronisés
+Course à l'extérieur
+Marche
+Marche athlétique
+Tapis de course
+Marche à l'intérieur
+Cyclisme en plein air
+Trekking
+Course en sentier
+Randonnée
+Activités libres
+Fitness en salle
+Yoga
+Natation en piscine
+Eau libre
+Elliptique
+Rameur
+Corde à sauter
+HIIT
+Tennis
+Basketball
+Planche à neige
+Ski
+Ski de fond
+Golf
+Autres sports
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Rythme
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Léger
+Intensif
+Aérobie
+Anaérobie
+VO₂ max
+kcal
+Cadence (PPM)
+Pas
+Rythme moy.
+Achèvement de l'objectif
+%lu.%02lu
+km derrière
+mi derrière
+%d'%d"
+%d%%
+Rythme
+km plus loin
+mi plus loin
+Séries terminées
+Temps de repos
+Durée totale
+Natation en piscine
+Voile
+Planche à bras
+Water polo
+Autres sports nautiques
+Ski nautique
+Le kayak
+Rafting
+L'aviron
+Motonautisme
+Nage avec palmes
+Plongeon
+Natation artistique
+Plongée en apnée
+Kite surf
+Flowriding
+Bateau-dragon
+Course à l'extérieur
+Marche
+Randonnée
+Cyclisme en plein air
+Trekking
+Course en sentier
+Escalade
+Skateboard
+Patinage à roulette
+Parkour
+ATV
+Parapente
+BMX
+Marche athlétique
+Activités libres
+Tapis de course
+Corde à sauter
+HIIT
+Yoga
+Vélo en salle
+Elliptique
+Rameur
+Monte-escalier
+Escaladeur
+Spinning
+Entraînement abdominal
+Souplesse
+Pilates
+Gymnastique
+Étirement
+Musculation
+Cross training
+Montée d'escalier
+Aérobie
+Entraînement physique
+Balles murales
+Haltère
+Barre à disques
+Haltérophilie
+Soulevé de terre
+Le burpee
+Sit-ups
+Entraînement fonctionnel
+Haut du corps
+Bas du corps
+Abdos
+Dos
+Vélo elliptique
+Barre fixe
+Barres parallèles
+Escaladeur
+Gymnastique de masse
+Combat Cardio
+Corde ondulatoire
+Combinaison Aérobique
+Marche à l'intérieur
+Fitness en salle
+Danse carrée
+Danse du ventre
+Ballet
+Danse de rue
+Zumba
+Danse folklorique
+Danse jazz
+Danse latine
+Hip-hop
+Pole dance
+Breakdance
+Danse de salon
+Danse moderne
+Danse
+Boxe
+Lutte
+Arts martiaux
+Taï chi
+Muay Thaï
+Judo
+Taekwondo
+Karaté
+Kickboxing
+Kendo
+Escrime
+Jujitsu
+Tennis
+Basketball
+Golf
+Football
+Volley-ball
+Baseball
+Softball
+Football américain
+Hockey
+Tennis de table
+Badminton
+Cricket
+Handball
+Bowling
+Le Squash
+Billard
+Volant
+Foot de plage
+Beach-volley
+Sepak takraw
+Futsal
+Hacky sack
+Pétanque
+Pelote basque
+Gateball
+Balle aux prisonniers
+Planche à neige
+Ski
+Ski de fond
+Patinage sur glace
+Patinage sur glace en salle
+Curling
+Autres sports d'hiver
+Motoneige
+Hockey sur glace
+Bobsleigh
+Luge
+Tir à l'arc
+Fléchettes
+Équitation
+Tir à la corde
+Hula hoop
+Cerf-volant
+Pêche
+Frisbee
+Volant
+Balançoire
+Jeu somatosensoriel
+Baby-foot
+Jeu de galets
+eSport
+Échec
+Dames
+Go
+Bridge
+Jeu de société
+Équestre
+Athlétisme
+Course automobile
+Localisation…
+Localisé avec succès
+Intervalles
+Échauffement
+Entraînement
+%d:%02d
+%d,%02d km
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d
+Repos
+Séries
+Récupération
+Échauffement
+Récupération
+Entraînement
+Heure
+Distance
+Longueurs
+Coups
+Sauts
+Alertes
+Distance
+%d km
+%d mi
+Rythme
+%d'%02d"
+Vitesse
+%d km/h
+Objectif de zone de FC
+Légère
+Intensive
+Aérobie
+Anaérobie
+VO₂ max
+FC élevée
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hydratation
+Tout désactiver
+Désactivé
+Distance
+Rappel
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Vitesse
+Rappel
+%d km/h
+Rythme
+Rappel
+%d'%02d"
+Objectif de zone de FC
+Zone FC
+Légère
+Intensive
+Aérobie
+Anaérobie
+VO₂ max
+Objectif de zone de FC
+Légère
+Intensive
+Aérobie
+Anaérobie
+VO₂ max
+%d–%d BPM
+Natation en piscine
+Voile
+Planche à bras
+Water polo
+Autres sports nautiques
+Ski nautique
+Le kayak
+Rafting
+L'aviron
+Motonautisme
+Nage avec palmes
+Plongeon
+Natation artistique
+Plongée en apnée
+Kite surf
+Flowriding
+Bateau-dragon
+Course à l'extérieur
+Marche
+Randonnée
+Cyclisme en plein air
+Trekking
+Course en sentier
+Escalade
+Skateboard
+Patinage à roulette
+Parkour
+ATV
+Parapente
+BMX
+Marche athlétique
+Activités libres
+Tapis de course
+Corde à sauter
+HIIT
+Yoga
+Vélo en salle
+Elliptique
+Rameur
+Monte-escalier
+Escaladeur
+Spinning
+Entraînement abdominal
+Souplesse
+Pilates
+Gymnastique
+Étirement
+Musculation
+Cross training
+Montée d'escalier
+Aérobie
+Entraînement physique
+Balles murales
+Haltère
+Barre à disques
+Haltérophilie
+Soulevé de terre
+Le burpee
+Sit-ups
+Entraînement fonctionnel
+Haut du corps
+Bas du corps
+Abdos
+Dos
+Vélo elliptique
+Barre fixe
+Barres parallèles
+Escaladeur
+Gymnastique de masse
+Combat Cardio
+Corde ondulatoire
+Combinaison Aérobique
+Marche à l'intérieur
+Fitness en salle
+Danse carrée
+Danse du ventre
+Ballet
+Danse de rue
+Zumba
+Danse folklorique
+Danse jazz
+Danse latine
+Hip-hop
+Pole dance
+Breakdance
+Danse de salon
+Danse moderne
+Danse
+Boxe
+Lutte
+Arts martiaux
+Taï chi
+Muay Thaï
+Judo
+Taekwondo
+Karaté
+Kickboxing
+Kendo
+Escrime
+Jujitsu
+Tennis
+Basketball
+Golf
+Football
+Volley-ball
+Baseball
+Softball
+Football américain
+Hockey
+Tennis de table
+Badminton
+Cricket
+Handball
+Bowling
+Le Squash
+Billard
+Volant
+Foot de plage
+Beach-volley
+Sepak takraw
+Futsal
+Hacky sack
+Pétanque
+Pelote basque
+Gateball
+Balle aux prisonniers
+Planche à neige
+Ski
+Ski de fond
+Patinage sur glace
+Patinage sur glace en salle
+Curling
+Autres sports d'hiver
+Motoneige
+Hockey sur glace
+Bobsleigh
+Luge
+Fléchettes
+Équitation
+Tir à la corde
+Hula hoop
+Cerf-volant
+Pêche
+Frisbee
+Volant
+Balançoire
+Jeu somatosensoriel
+Baby-foot
+Jeu de galets
+eSport
+Échec
+Dames
+Go
+Bridge
+Jeu de société
+Équestre
+Tir à l'arc
+Athlétisme
+Course automobile
+Plus
+Plus
+Sports nautiques
+Activités en plein air
+Entraînement
+Sports d'hiver
+Sports récréatifs
+Jeux de cartes/de société
+Autre
+%d sport
+%d sport
+%d sport
+Danse
+%d sports
+Sports de combat
+%d sports
+Sports de balle
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+Il semble que vous faites de l'exercice
+Course à l'extérieur
+Tapis de course
+Marche
+Cyclisme
+Elliptique
+Rameur
+Corde à sauter
+Ignorer
+Pause
+Terminer
+Prochaine série
+Pause
+Terminer
+Transition
+En pause
+%d/%d
+Échauffement
+%02d:%02d:%02d
+ 
+Terminé
+Entraînement
+%d
+%d
+Coups cette série
+Restants
+Objectif
+Restant
+Objectif
+Restant
+Sauts cette série
+Restant
+Passer
+Repos
+%02d:%02d:%02d
+Temps de repos
+%02d:%02d:%02d
+Restant
+Passer
+Récupération
+%02d:%02d:%02d
+ 
+Terminer
+Bien joué
+Accélérer
+%d
+Objectif : BPM
+%d–%d
+Continuer
+Ralentir
+Accélérer
+%d
+Objectif:
+%d km/h
+Continuer
+Ralentir
+Accélérer
+%d'%d"
+Objectif
+%d'%d"
+Continuer
+Ralentir
+-- 
+km/h
+%d
+%
+Achèvement de l'objectif
+%d
+km
+km
+km
+km
+km
+km
+km
+Objectif : %d km
+Nouveau record !
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Connectez votre bracelet à votre téléphone pour pouvoir enregistrer les informations d'itinéraire.
+Impossible d'accéder aux informations de localisation. Impossible d'enregistrer l'itinéraire d'entraînement pour le moment.
+Le signal satellite est faible. Allez dans une zone ouverte.
+Connectez votre bracelet à votre téléphone pour pouvoir maintenir des renseignements précis sur la localisation et l'itinéraire.
+Connexion rétablie
+Localisation rétablie
+Le stockage est complet. Cet entraînement prendra fin et plus aucune donnée ne sera enregistrée. Connectez votre téléphone pour libérer de l'espace.
+Course
+Débutant
+Course/marche basique
+Course/marche avancée
+Stockage insuffisant. Connectez votre téléphone et libérez de l'espace pour éviter d'écraser des données.
+Jogging basique
+Brûleur de graisse
+Course pour brûler les graisses (Basique)
+Course pour brûler les graisses (Avancée)
+MIIT
+Endurance
+Course d'endurance (Basique)
+Course d'endurance (Avancée)
+Intervalle
+Course par intervalles (Basique)
+Course par intervalles (Avancée)
+%02d:%02d
+Course/marche basique
+Course/marche avancée
+Jogging basique
+Course pour brûler les graisses (Basique)
+Course pour brûler les graisses (Avancée)
+MIIT
+Course d'endurance (Basique)
+Course d'endurance (Avancée)
+Course par intervalles (Basique)
+Course par intervalles (Avancée)
+Localisé avec succès
+%02d:%02d
+Course/marche basique
+Course/marche avancée
+Jogging basique
+Course pour brûler les graisses (Basique)
+Course pour brûler les graisses (Avancée)
+MIIT
+Course d'endurance (Basique)
+Course d'endurance (Avancée)
+Course par intervalles (Basique)
+Course par intervalles (Avancée)
+Introduction
+Combine la marche et le jogging à intervalles.
+Combine la marche et le jogging à intervalles.
+Jogging de faible à moyenne intensité.
+Jogging plus court pour brûler les graisses et perdre du poids.
+Intensité faible-moyenne, jogging prolongé pour brûler les graisses.
+Entraînement par intervalles de moyenne à haute intensité.
+Jogging de longueur moyenne pour l'endurance.
+Jogging plus long pour l'endurance.
+Entraînement à intervalles plus courts pour la santé cardiaque et pulmonaire.
+Entraînement par intervalles plus longs pour la santé cardiaque et pulmonaire.
+Plan d'entraînement
+Marche rapide
+Jogging
+Course
+Sprint
+%02d:%02d
+%02d:%02d
+%d/%d
+Marche rapide
+Jogging
+Course
+Sprint
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d-%d
+Objectif de BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Rythme
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ max
+Anaérobie
+Aérobie
+Intensive
+Légère
+%d
+PPM
+%d
+Pas
+%d'%d"
+Rythme moy.
+En savoir plus
+Pas
+Calories
+Mouvement
+Debout
+"Pas" indique le nombre de pas par jour. Une personne active marche entre 8000 et 10000 pas par jour.
+« Calories » indique le nombre de calories actives brûlées chaque jour en se déplaçant et en faisant de l'exercice.
+« Mouvement » montre votre temps sur une activité modérée et vigoureuse. Visez au moins 30 minutes par jour, 5 fois par semaine d'activité modérée ou 75 minutes par semaine d'activité intense. Vous verrez votre progression « Mouvement » lorsque votre cadence dépasse 100 PPM ou lorsque votre fréquence cardiaque dépasse 65 % de votre fréquence cardiaque maximale.
+« Debout » montre les heures pendant lesquelles vous étiez debout et avez bougé. Essayez de vous lever et bouger pendant 12 différentes heures dans la journée.
+%d pas
+Objectif de pas atteint
+Objectif de pas atteint. Joli travail !
+Vous avez atteint l'objectif de pas du jour !
+%d pas
+%d pas
+%d pas
+%d pas
+%d pas
+%d pas
+%d kcal
+Objectif de calories atteint
+Objectif de calories atteint. Continuez !
+Vous avez atteint l'objectif calorique d'aujourd'hui. Excellent travail !
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min
+Objectif Mouvement atteint
+Objectif Mouvement atteint. Excellent travail !
+Bravo, vous avez atteint l'objectif de mouvement aujourd'hui !
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d h
+Objectif Debout atteint
+Objectif Debout atteint. Joli travail !
+Beau travail ! Vous avez atteint l'objectif de debout d'aujourd'hui !
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Objectifs atteints !
+Tous les objectifs sont atteints
+Vous avez atteint tous les objectifs pour aujourd'hui ! Bravo !
+Tous les objectifs sont atteints ! Bravo !
+Objectifs réalisés !
+Paramètres
+Objectif
+Intervalles
+Alertes
+Pause automatique
+Pacer IA
+Longueur de la piscine
+Réinitialiser
+Objectif
+Aucun objectif
+Distance
+Durée
+Calories
+Longueurs
+Coups
+Sauts
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d longueur
+%d longueur
+%d longueur
+%d longueurs
+%d longueurs
+%d longueurs
+%d longueurs
+%d coup
+%d coup
+%d coup
+%d coups
+%d coups
+%d coups
+%d coups
+%d saut
+%d saut
+%d saut
+%d sauts
+%d sauts
+%d sauts
+%d sauts
+Distance
+km
+Durée
+HH:mm
+Calories
+kcal
+Longueurs
+Coups
+Sauts
+Pause automatique
+Pacer IA
+Rythme
+%d‘%2d’’
+Rythme
+ 
+Longueur de la piscine
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Personnalisée
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Longueur de la piscine
+m
+Réinitialiser tous les paramètres d'entraînement ?
+FC élevée
+Alerte
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Alerte
+Hydratation
+Rappel
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Durée, %d min
+Durée, %d min
+Durée, %d min
+Durée, %d min
+Durée, %d min
+Durée, %d min
+Durée, %d min
+Entraînement
+Heure
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Distance
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Heure
+HH/mm
+Distance
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Distance
+km
+Vitesse
+km/h
+Rythme
+  
+Bougez
+Levez-vous
+C'est compris
+Ignorer aujourd'hui
+Désactiver les rappels de se lever d'aujourd’hui ?
+Levez-vous
+Réinitialiser tous les paramètres d'entraînement ?
+Continuez !
+Vous avez atteint votre objectif hier. Continuez aujourd'hui !
+Vous avez atteint votre objectif hier. Continuez aujourd'hui !
+Vous avez atteint 2 objectifs sur 3 hier. Vous pouvez le faire !
+Vous avez atteint 2 objectifs sur 3 hier. Vous pouvez le faire !
+Vous n'avez pas atteint vos objectifs hier. Faites en sorte qu'aujourd’hui compte !
+Vous n'avez pas atteint vos objectifs hier. Faites en sorte qu'aujourd’hui compte !
+Vos objectifs sont à portée de main - aujourd'hui est un nouveau jour !
+Vos objectifs sont à portée de main - aujourd'hui est un nouveau jour !
+C'est compris
+À l'instant
+Il y a %d min
+Il y a %d min
+Il est temps de bouger
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Mis à jour : %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+pas
+pas
+pas
+pas
+pas
+pas
+pas
+%d
+heure
+heure
+heure
+heures
+heures
+heures
+heures
+%d
+ min
+%02d:%02d
+%02d:%02d
+Paramètres
+En savoir plus
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Activité
+État
+Stress
+Sommeil
+Météo
+Musique
+Alarme
+Événements
+Agenda
+Cartes
+Plus
+Lampe torche
+Cycles
+Respiration
+Chronomètre
+Minuteur
+Trouver le téléphone
+Horloge mondiale
+Alertes
+Concentration
+Mi AI
+Tout effacer
+%02d:%02d AM
+%02d:%02d PM
+Hier %02d:%02d
+%02d/%02d %02d:%02d
+%d notification
+%d notification
+%d notification
+%d notifications
+%d notifications
+%d notifications
+%d notifications
+%02d:%02d AM
+%02d:%02d PM
+Hier %02d:%02d
+%02d/%02d %02d:%02d
+Effacer
+%02d:%02d AM
+%02d:%02d PM
+Hier %02d:%02d
+%02d/%02d %02d:%02d
+Ignorer
+Ignorer
+Glissez vers le haut pour répondre
+Envoie
+Envoyé
+Impossible d'envoyer
+En réunion. Je répondrai bientôt.
+Je ne peux pas parler maintenant. Quoi de neuf ?
+Je ne peux pas parler maintenant. Appelez-moi plus tard.
+Utiliser cet affichage du bracelet ?
+Supprimer cet affichage du bracelet ?
+Synchronisation
+Impossible de synchroniser
+NPD
+Désactivé
+Toute la journée
+Personnaliser
+Autoriser les réponses aux messages dans l'application
+%02d:%02d-%02d:%02d
+Synchroniser avec le téléphone
+Activé
+Heure de début
+AM
+%02d
+%02d:%02d
+Heure de début
+PM
+Synchroniser avec le téléphone
+Lorsqu'il est activé, le statut NPD du bracelet suivra celui du téléphone
+NPD est activé
+Vibration
+Par défaut
+Forte
+Désactivé
+Notifications d'application
+Allumer l'écran après notification
+Activé
+Avertir seulement lorsque porté
+Activé
+Avertir seulement lorsque le téléphone est verrouillé
+Activé
+Allumer l'écran après notification
+Allumer l'écran à la réception de notifications
+Avertir seulement lorsque porté
+Désactiver les notifications lorsque le bracelet est retiré du poignet
+Avertir seulement lorsque le téléphone est verrouillé
+En savoir plus
+Assurez-vous que les notifications sont activées dans Mi Fitness >Notifications d'application.
+Paramètres
+Affichages de bracelet
+Affichage
+Paramètres NPD
+Vibration
+Notifications d'application
+Détection automatique
+Code PIN
+Batterie
+Préférences
+Système
+À propos du bracelet
+Code PIN
+Définir un code PIN
+Entrez le code PIN à 6 chiffres
+%d
+%d
+Les codes PIN ne correspondent pas
+Code PIN défini
+Code PIN
+Désactiver le code PIN
+Changer le code PIN
+Nouveau code PIN
+%d
+Code PIN désactivé
+Incorrect
+Réessayez dans %d s
+Réessayez dans %d s
+Réessayez dans %d s
+Réessayez dans %d s
+Réessayez dans %d s
+Réessayez dans %d s
+Réessayez dans %d s
+Aide
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+Réessayez dans %d m
+ 
+Pour réinitialiser le code PIN, accédez à Appareil > code PIN dans l'application.
+ 
+Le code PIN ne peut pas être désactivé lorsque des cartes bancaires sont ajoutées.
+Détection automatique
+Détection automatique
+Vous ne recevrez pas de rappels d'entraînement lorsque NPD est activé.
+Préférences
+Méthode de réveil
+Appuyez et maintenez l'écran
+Appuyez sur l'écran
+Balayez vers le haut
+Appuyez et maintenez l'écran
+Lorsque activé, appuyez et maintenez Modifier pour modifier l'affichage du bracelet
+Batterie
+%d
+%
+Batterie restante
+≈%d jour %d heure
+Batterie restante
+≈%d jours %d heure
+Batterie restante
+≈%d jour %d heures
+Batterie restante
+≈%d jours %d heures
+Économiseur de batterie
+Optimisation
+Utilisation
+Durée de vie restante de la batterie
+environ : %d jour %d heure
+Une fois activé, seules les fonctions temps, podomètre et NFC restent. Appuyez et maintenez l'écran ou chargez pour désactiver.
+Économiseur de batterie
+%d
+%02d:%02d
+AM
+PM
+%d
+Quitter l'Économiseur de batterie
+En savoir plus
+Autonomie de la batterie
+L'autonomie estimée de la batterie est fournie à titre de référence seulement. L'autonomie réelle de la batterie dépend de facteurs comme la quantité de temps que votre appareil passe avec l'affichage activé, vibrant, ou le suivi des entraînements.
+Optimisation
+L'optimisation identifie les fonctionnalités qui utilisent une autonomie significative de la batterie.
+Optimisation
+Bonne
+Pas besoin d'optimiser
+Optimisation
+Faible
+Les fonctionnalités suivantes affecteront l'autonomie de la batterie
+Toujours afficher
+Lever pour activer
+Score respiratoire
+Suivi toute la journée
+BPM irrégulier
+Toujours afficher
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heure.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heure.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heure.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heures.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heures.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heures.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie de %d heures.
+Méthode de réveil
+Recevez des rappels pour démarrer et terminer un entraînement.
+Types d'entraînement pris en charge comprennent la marche, la course, le cyclisme, le saut à la corde, l'elliptique et le rameur.
+Affichage
+Luminosité
+Verrouillage automatique
+Lever pour activer
+Écran allumé pour
+Toujours afficher
+Couvrir pour éteindre
+Automatique
+%d seconde
+%d seconde
+%d seconde
+%d secondes
+%d secondes
+%d secondes
+%d secondes
+Activé
+Désactivé
+Activé
+Désactivé
+Activé
+Désactivé
+Planifié
+Planifié
+Automatique
+Personnaliser
+Luminosité
+Automatique
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Verrouillage automatique
+ 
+Garder l'écran allumé pendant de longues périodes diminuera l'autonomie de la batterie. Continuer?
+Lever pour activer
+Désactivé
+Planifié
+%02d:%02d-%02d:%02d
+ 
+"Toujours afficher" est activé. Activer "Lever pour activer" réduira l'autonomie de la batterie. Activer quand même?
+Écran allumé pour
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Cela entrainera l'écran à rester allumé pendant %d min à chaque fois, ce qui affectera l'autonomie de la batterie. Continuer quand même ?
+Toujours afficher
+Désactivé
+Intelligent
+Planifié
+%02d:%02d-%02d:%02d
+   
+Activer "Toujours afficher" peut réduire de moitié l'autonomie de la batterie. "Lever pour activer" sera désactivé. Continuer?
+En savoir plus
+Toujours afficher
+L'heure sera affiché même lorsque l'écran est verrouillé.
+Intelligent
+Toujours actif se désactivera quand vous allez dormir ou enlevez votre bracelet.
+Couvrir pour éteindre
+Démarrer
+AM
+PM
+%02d:%02d
+%02d:%02d
+Complication
+Fitness
+Basique
+Mi Smart Hub
+Mon téléphone
+Haut-parleur
+TV
+Écouteurs
+Annulation du bruit
+Transparence
+Désactivé
+Appareil
+Utiliser l'affichage du bracelet ?
+Écouteurs
+Supprimer l'affichage du bracelet ?
+Mode
+Pour sauvegarder les modifications, balayez vers la droite sur l'affichage du bracelet.
+Annulation du bruit
+Transparence
+Désactivé
+ 
+ 
+Un instant…
+Alertes météo
+预警！
+C'est compris
+%02d:%02d AM
+%02d:%02d PM
+Connectez-vous via Bluetooth et activez "Mises à jour météorologiques" dans l'application.
+Connectez-vous au Bluetooth et activez les notifications de la Météo pour obtenir des informations météorologiques pour vos localisations sélectionnées.
+Connectez-vous au Bluetooth et réessayez
+%02d:%02d
+Météo
+NPD
+NPD est activé
+NPD est désactivé
+Trouver le téléphone
+Paramètres
+Aucune donnée
+Voile
+Planche à bras
+Water polo
+Autres sports nautiques
+Ski nautique
+Le kayak
+Rafting
+L'aviron
+Motonautisme
+Nage avec palmes
+Plongeon
+Natation artistique
+Plongée en apnée
+Kite surf
+Flowriding
+Bateau-dragon
+Escalade
+Skateboard
+Patinage à roulette
+Parkour
+ATV
+Parapente
+BMX
+Vélo en salle
+Monte-escalier
+Escaladeur
+Spinning
+Entraînement abdominal
+Souplesse
+Pilates
+Gymnastique
+Étirement
+Musculation
+Cross training
+Montée d'escalier
+Aérobie
+Entraînement physique
+Le Squash
+Haltère
+Barre à disques
+Haltérophilie
+Soulevé de terre
+Le burpee
+Sit-ups
+Entraînement fonctionnel
+Haut du corps
+Bas du corps
+Abdos
+Dos
+Vélo elliptique
+Barre fixe
+Barres parallèles
+Escaladeur
+Gymnastique de masse
+Combat Cardio
+Corde ondulatoire
+Combinaison Aérobique
+Fitness en salle
+Danse carrée
+Danse du ventre
+Ballet
+Danse de rue
+Zumba
+Danse folklorique
+Danse jazz
+Danse latine
+Hip-hop
+Pole dance
+Breakdance
+Danse de salon
+Danse moderne
+Danse
+Boxe
+Lutte
+Arts martiaux
+Taï chi
+Muay Thaï
+Judo
+Taekwondo
+Karaté
+Kickboxing
+Kendo
+Escrime
+Jujitsu
+Football
+Volley-ball
+Baseball
+Softball
+Football américain
+Hockey
+Tennis de table
+Badminton
+Cricket
+Handball
+Bowling
+Balles murales
+Billard
+Volant
+Foot de plage
+Beach-volley
+Sepak takraw
+Futsal
+Hacky sack
+Pétanque
+Pelote basque
+Gateball
+Balle aux prisonniers
+Patinage sur glace
+Patinage sur glace en salle
+Curling
+Autres sports d'hiver
+Motoneige
+Hockey sur glace
+Bobsleigh
+Luge
+Tir à l'arc
+Fléchettes
+Équitation
+Tir à la corde
+Hula hoop
+Cerf-volant
+Pêche
+Frisbee
+Volant
+Balançoire
+Jeu somatosensoriel
+Baby-foot
+Jeu de galets
+eSport
+Échec
+Dames
+Go
+Bridge
+Jeu de société
+Équestre
+Athlétisme
+Course automobile
+Voile
+Planche à bras
+Water polo
+Autres sports nautiques
+Ski nautique
+Le kayak
+Rafting
+L'aviron
+Motonautisme
+Nage avec palmes
+Plongeon
+Natation artistique
+Plongée en apnée
+Kite surf
+Flowriding
+Bateau-dragon
+Escalade
+Skateboard
+Patinage à roulette
+Parkour
+ATV
+Parapente
+BMX
+Vélo en salle
+Monte-escalier
+Escaladeur
+Spinning
+Entraînement abdominal
+Souplesse
+Pilates
+Gymnastique
+Étirement
+Musculation
+Cross training
+Montée d'escalier
+Aérobie
+Entraînement physique
+Balles murales
+Haltère
+Barre à disques
+Haltérophilie
+Soulevé de terre
+Le burpee
+Sit-ups
+Entraînement fonctionnel
+Haut du corps
+Bas du corps
+Abdos
+Dos
+Vélo elliptique
+Barre fixe
+Barres parallèles
+Escaladeur
+Gymnastique de masse
+Combat Cardio
+Corde ondulatoire
+Combinaison Aérobique
+Fitness en salle
+Danse carrée
+Danse du ventre
+Ballet
+Danse de rue
+Zumba
+Danse folklorique
+Danse jazz
+Danse latine
+Hip-hop
+Pole dance
+Breakdance
+Danse de salon
+Danse moderne
+Danse
+Boxe
+Lutte
+Arts martiaux
+Taï chi
+Muay Thaï
+Judo
+Taekwondo
+Karaté
+Kickboxing
+Kendo
+Escrime
+Jujitsu
+Football
+Volley-ball
+Baseball
+Softball
+Football américain
+Hockey
+Tennis de table
+Badminton
+Cricket
+Handball
+Bowling
+Le Squash
+Billard
+Volant
+Foot de plage
+Beach-volley
+Sepak takraw
+Futsal
+Hacky sack
+Pétanque
+Pelote basque
+Gateball
+Balle aux prisonniers
+Patinage sur glace
+Patinage sur glace en salle
+Curling
+Autres sports d'hiver
+Motoneige
+Hockey sur glace
+Bobsleigh
+Luge
+Tir à l'arc
+Fléchettes
+Équitation
+Tir à la corde
+Hula hoop
+Cerf-volant
+Pêche
+Frisbee
+Volant
+Balançoire
+Jeu somatosensoriel
+Baby-foot
+Jeu de galets
+eSport
+Échec
+Dames
+Go
+Bridge
+Jeu de société
+Équestre
+Athlétisme
+Course automobile
+Un instant…
+%02d:%02d
+Pause
+Terminer
+Verrouiller l'écran
+Diffuser
+Diffuser
+Recherche
+Xiaomi TV
+Connexion
+Dispositif introuvable
+Nom de la TV
+Connecté
+Déconnecter
+Impossible de se connecter
+Réessayer
+%02d:%02d
+Synchroniser les entraînements
+Portez votre bracelet comme indiqué et commencez votre entraînement dans l'application
+Retour
+%02d:%02d
+Paramètres
+Modes de fonctionnement
+Affichage
+NPD
+Vibration
+%02d:%02d
+Mode de fonctionnement
+Mode Capsule
+Mode Collier
+Mode Capsule
+Avec le Mode Capsule, vous pouvez obtenir des données sur votre formulaire de course. Commencer un entraînement (course ou vélo) dans l'application.
+Les notifications d'application, la mesure de la fréquence cardiaque seront désactivées. Votre bracelet ne réagira pas aux touches accidentelles.
+Activer
+Retour
+Démarrer l'entraînement dans l'application
+Entraînement en cours
+L'appareil est déconnecté
+Glissez vers le haut pour quitter le mode Capsule
+Glissez vers le haut pour quitter
+Quitter le mode Capsule ?
+Les données du formulaire de course ne seront pas enregistrées si vous quittez.
+Quitter
+Annuler
+Quitter le mode Collier ?
+Quitter
+Annuler
+Mode Collier
+Avec le mode Collier, l'écran reste allumé mais ne répond pas aux touches accidentelles.
+Les notifications d'application, la mesure de la fréquence cardiaque seront désactivées.
+Activer
+Retour
+Enregistrer les détails du cycle dans l'application
+%0.1f
+heure
+heure
+heure
+heures
+heures
+heures
+heures
+Sommeil
+Portez votre appareil au lit pour générer des données de sommeil
+%u
+h
+h
+h
+h
+h
+h
+h
+min
+min
+min
+min
+min
+min
+min
+Objectif : %u h
+Objectif : %u h
+Objectif : %u h
+Objectif : %u h
+Objectif : %u h
+Objectif : %u h
+Objectif : %u h
+Fréquence cardiaque
+Enregistrez votre FC
+Démarrer
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Respiration
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Démarrer
+Respiration
+SpO₂
+Enregistrez votre SpO₂
+u%
+%
+Stress
+Enregistrez votre stress
+u%
+Stress
+%02d
+'
+"
+.
+:
+Sauvegarde…
+Étalonnage
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Temps d'entraînement trop court pour enregistrer. Terminer ?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+min
+min
+min
+min
+min
+min
+min
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Batterie faible. Chargez et réessayez.
+Mettez à jour votre bracelet à l'aide de l'application
+Impossible de mettre à jour
+Mise à jour
+Mis à jour. Redémarrage.
+Préparation de la mise à jour
+Réception de la mise à jour
+Mise à jour impossible. Réessayer dans l'application.
+Mise à jour reçue. Redémarrage.
+Le bracelet sera automatiquement mis à jour plus tard ce soir ou lors de la charge.
+Vous utilisez la dernière version.
+Rappel de mise à jour
+Supprimer
+
+%d
+
+%%
+Télécharger l'application pour associer le bracelet
+%d
+Confirmer sur votre téléphone
+Confirmer sur votre téléphone
+Association
+Association impossible. Réessayer.
+Associé
+-
+-
+-
+-
+Repos
+min:s
+Séries
+Obtenir des rappels à des intervalles de distance précis
+%d longueur
+%d coup
+%d saut
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+C'est compris
+%d
+Objectif
+%02d:%02d:%02d
+Terminé
+Objectif
+%d
+kcal
+Terminé
+Objectif
+longueur
+longueur
+longueur
+longueurs
+longueurs
+longueurs
+longueurs
+Terminé
+Objectif
+saut
+saut
+saut
+sauts
+sauts
+sauts
+sauts
+Terminé
+Objectif
+coup
+coup
+coup
+coups
+coups
+coups
+coups
+Terminé
+Afficher plus d'enregistrements dans l'application
+À propos du bracelet
+Nom
+Xiaomi Smart Band 8
+Modèle
+Adresse MAC
+Réglementaire
+Réglementaire
+CMIIT ID
+Modèle
+Entrée
+Système
+Redémarrer
+Éteindre
+Réinitialiser
+Redémarrer maintenant ?
+Éteindre maintenant ?
+%02d:%02d
+Vous devrez associer à nouveau votre bracelet après avoir effectué une réinitialisation d'usine. Continuer?
+Non porté
+Impossible de mesurer
+Résultat
+En savoir plus
+SpO₂
+Résultat
+Non porté
+Impossible de mesurer
+%02d:%02d
+Dormez bien
+NPD est activé. Lever pour activer est désactivé.
+Ne plus afficher
+%02d:%02d
+Il est l'heure de se réveiller
+Ignorer
+Reporter
+%02d:%02d
+Sommeil
+%dh%dmin
+%dh%dmin
+%dh%dmin
+%dh%dmin
+%d°/%d°
+C'est compris
+%02d:%02d
+Sommeil
+C'est compris
+%02d:%02d
+%d°/%d°
+C'est compris
+Entraînement à l'extérieur
+Portez votre bracelet comme indiqué et commencez votre entraînement dans l'application
+Retour
+Paramètres
+Modes de fonctionnement
+Affichage
+NPD
+Vibration
+Mode de fonctionnement
+Mode Capsule
+Mode veille désactivéà %02d:%02d
+Mode Collier
+Mode Capsule
+Avec le Mode Capsule, vous pouvez obtenir des données sur votre formulaire de course. Commencer un entraînement (course ou vélo) dans l'application.
+Les notifications d'application, la mesure de la fréquence cardiaque seront désactivées. Votre bracelet ne réagira pas aux touches accidentelles.
+Activer
+Retour
+Démarrer l'entraînement dans l'application
+Entraînement en cours
+L'appareil est déconnecté
+Quitter le mode Capsule ?
+Les données du formulaire de course ne seront pas enregistrées si vous quittez.
+Quitter
+Annuler
+Mode Capsule
+Glissez vers le haut pour quitter
+Mode Collier
+Glissez vers le haut pour quitter
+Mode Collier
+Avec le mode Collier, l'écran reste allumé mais ne répond pas aux touches accidentelles.
+Les notifications d'application, la mesure de la fréquence cardiaque seront désactivées.
+Activer
+Retour
+Quitter le mode Collier ?
+Quitter
+Annuler
+L'activation de cette fonctionnalité augmentera l'autonomie de la batterie. Continuer quand même?
+Le son est activé
+Un instant…
+Le son est désactivé
+Le son est désactivé
+Un instant
+Le son est activé
+Déconnecté
+Désactiver
+Activer
+Connectez-vous au Bluetooth et réessayez
+Autoriser votre bracelet à déverrouiller le téléphone ?
+Terminé !
+Impossible d'autoriser
+ 
+%d
+Minuteur
+Minuteur
+%d
+min
+min
+min
+min
+min
+min
+min
+heure
+heure
+heure
+heures
+heures
+heures
+heures
+Définir l'heure
+%d
+%02d
+Définir min
+%02d:%02d
+%02d:%02d:%02d
+Temps écoulé
+Il y'a %02d:%02d
+Il y'a %02d:%02d:%02d
+AQI %d %s
+Impossible d'associer
+Ajouter à nouveau l'appareil
+À propos du bracelet
+Réglementaire
+Réinitialiser
+Redémarrer
+%02d:%02d
+À propos du bracelet
+Nom
+Xiaomi Smart Band 8
+Modèle
+Adresse MAC
+%02d:%02d
+Réglementaire
+CMIIT ID
+Entrée
+Redémarrer maintenant ?
+Éteindre maintenant ?
+Vous devrez associer à nouveau votre bracelet après avoir effectué une réinitialisation d'usine. Continuer ?
+Batterie en dessous de %d
+--
+%02d:%02d
+Vitalité
+%d
+Les 7 derniers jours
+Progrès de 7 jours
+%d
+7 derniers jours
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.
+Dim.
+Aujourd'hui
+%d
+Aujourd'hui
+%d
+Légère
+Modérée
+Intense
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
++%d
+Paramètres
+En savoir plus
+Paramètres
+Contrôle continu
+Votre score de Vitalité est calculé en utilisant les données de fréquence cardiaque et d'activité. Autorisez votre bracelet à mesurer votre fréquence cardiaque plus souvent pour un score de Vitalité plus précis.
+En savoir plus
+Le score de Vitalité est un moyen de mesurer l'impact de vos entraînements sur votre santé. Pour obtenir de meilleurs résultats, essayez d'atteindre 100 points sur une période de 7 jours.
+Les scores de Vitalité sont basés sur les recommandations des directives de l'OMS sur l'activité physique et le comportement sédentaire.
+Autrement dit, les adultes devraient s'engager dans 150-300 minutes d'intensité modérée ou 75-150 minutes d'activité aérobie de haute intensité par semaine, ou une combinaison des deux, pour un maximum de bienfaits pour la santé.
+Toute activité physique, y compris une activité de faible intensité, est préférable pour votre santé que de rester sédentaire.
+%d
+7 derniers jours
+%d
+Aujourd'hui
+7 derniers jours
+%d
+Continuez à bouger pour voir encore plus de résultats !
+C'est compris
+Ignorer aujourd'hui
+Vous êtes sur la bonne voie !
+Vous êtes inarrêtable, continuez !
+Vous avez gagné le maximum de points aujourd'hui. Prenez une pause !
+Verrouiller l'écran
+Après avoir allumé l'écran, glissez vers le haut pour déverrouiller.
+%u
+7 jours de repos de FC
+%02u/%02u
+Modèle
+Aujourd'hui
+Aujourd'hui
+Resserrez la sangle du bracelet et réessayez
+Associer avec le téléphone ?
+Le bracelet sera automatiquement mis à jour plus tard ce soir ou lors de la charge
+Vous utilisez la dernière version
+C'est compris
+Impossible de mettre à jour. Connectez-vous à l'application et réessayez.
+Ouvrir sur le téléphone
+OK
+Répondre
+Envoie
+Envoyé
+Impossible d'envoyer
+Déconnecté
+Connectez-vous au Bluetooth et réessayez
+Temps d'entraînement trop court pour enregistrer. Terminer ?
+Reprendre
+Terminer
+Afficher plus d'enregistrements d'entraînements dans l'application
+Terminé
+%02d:%02d
+%02d
+Rythme
+kcal
+Vitesse (km/h)
+Vitesse (mph)
+Distance actuelle
+Temps actuel
+Kcal actuelle
+Longueurs actuelles
+Sauts actuels
+Coups actuels
+Objectif
+Objectif
+Objectif
+Objectif
+Objectif
+Objectif
+Achèvement de l'objectif
+%02d:%02d
+%d.%d
+Vitesse moy. (km/h)
+Vitesse moy. (mph)
+Fréq. (fois/min)
+Sauts actuels
+Cette série
+Sauts cette série
+Total
+Kcal actif
+Cette série
+Calories
+%d.%d
+Vitesse moy. (km/h)
+Vitesse moy. (mph)
+FC élevée
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+FC max.
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Appareil photo
+Mettre sous silencieux le téléphone
+Vitalité
+NPD activé pour %d heure
+NPD activé pour %d heure
+NPD activé pour %d heure
+NPD activé pour %d heures
+NPD activé pour %d heures
+NPD activé pour %d heures
+NPD activé pour %d heures
+Désactivé
+Déconnecté
+:
+%02d:%02d - lendemain %02d:%02d
+NPD est désactivé
+Lorsque vous utilisez le téléphone, vous ne recevrez pas de notifications téléphoniques sur le bracelet.
+Désactivé
+Désactivé
+Désactivé
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Statistiques
+Fréquence cardiaque
+SpO₂
+Entraînement
+Connecter le chargeur correctement
+-
+Entraînements
+Statistiques
+Pas
+Calories
+Mouvement
+Fréquence cardiaque
+SpO₂
+Stress
+Batterie
+Date
+Météo
+UVI
+IQA
+Humidité
+Cartes
+Alarme
+Chronomètre
+Appareil photo
+Outils
+Météo
+longueur
+longueur
+longueur
+longueurs
+longueurs
+longueurs
+longueurs
+--'--"
+Version N°
+N° de série
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Boire de l'eau
+%02d:%02d:%02d
+Reprendre
+Lever pour activer
+Score respiratoire
+Suivi toute la journée
+BPM irrégulier
+%d
+Objectif : %d kcal
+Objectif : %d kcal
+Objectif : %d kcal
+Objectif : %d kcal
+Objectif : %d kcal
+Objectif : %d kcal
+Objectif : %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Objectif : %d longueur
+Objectif : %d longueur
+Objectif : %d longueur
+Objectif : %d longueurs
+Objectif : %d longueurs
+Objectif : %d longueurs
+Objectif : %d longueurs
+longueur
+longueur
+longueur
+longueurs
+longueurs
+longueurs
+longueurs
+Objectif : %d coup
+Objectif : %d coup
+Objectif : %d coup
+Objectif : %d coups
+Objectif : %d coups
+Objectif : %d coups
+Objectif : %d coups
+coup
+coup
+coup
+coups
+coups
+coups
+coups
+Objectif: %d saut
+Objectif: %d saut
+Objectif: %d saut
+Objectif: %d sauts
+Objectif: %d sauts
+Objectif: %d sauts
+Objectif: %d sauts
+saut
+saut
+saut
+sauts
+sauts
+sauts
+sauts
+%d.%d
+Objectif : %d.%d km
+Objectif : %d.%d km
+Objectif : %d min
+Objectif : %d min
+Objectif : %d h %d m
+Objectif : %d h %d m
+Objectif : %d h %d m
+Objectif : %d h %d m
+Confirmer le code PIN
+Saisir le code PIN
+Incorrect
+Déconnecté
+%d
+%
+min
+min
+min
+min
+min
+min
+min
+%d
+pas
+pas
+pas
+pas
+pas
+pas
+pas
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min
+min
+min
+min
+min
+min
+min
+%d
+heure
+heure
+heure
+heures
+heures
+heures
+heures
+Record de distance
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+longueur
+longueur
+longueur
+longueurs
+longueurs
+longueurs
+longueurs
+saut
+saut
+saut
+sauts
+sauts
+sauts
+sauts
+coup
+coup
+coup
+coups
+coups
+coups
+coups
+km
+Record de temps
+En pause
+Distance d'entraînement trop courte pour enregistrer. Terminer ?
+--'--"
+Course
+À l'instant
+À l'instant
+À l'instant
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+Il y a %02d min
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Brasse
+Nage libre
+Dos crawlé
+Papillon
+4 nages
+Alertes
+Recherche de l'appareil…
+Arrêter
+Nuageux
+Couvert
+Averses
+Orage
+Grêle
+Grésil
+Pluie légère
+Pluie modérée
+Forte pluie
+Pluie torrentielle
+Averse
+Pluie abondante
+Averses de neige
+Neige fine
+Neige modérée
+Forte neige
+Tempête de neige
+Brume
+Pluie verglaçante
+Tempête de sable
+Pluie fine à pluie modérée
+Pluie modérée à forte pluie
+Forte pluie à pluie torrentielle
+Pluie torrentielle à averse
+Averse à pluie abondante
+Neige fine à modérée
+Neige modérée à abondante
+Forte neige à tempête de neige
+Poussière
+Venteux
+Forte tempête de sable
+Brouillard
+Brouillard épais
+Brume
+Brume modérée
+Brume épaisse
+Brume sévère
+Fort brouillard
+Brouillard sévère
+Aucun
+Pluie
+Neige
+Activé pour %d heure
+Activé pour %d heure
+Activé pour %d heure
+Activé pour %d heures
+Activé pour %d heures
+Activé pour %d heures
+Activé pour %d heures
+--'--"
+Un instant
+À l'arrêt
+Déconnecté
+Minime
+Récupération
+Amélioration
+Très amélioré
+Dépassant
+L’écran se verrouillera lorsque vous démarrez. Glissez vers le haut, puis vers le bas pour déverrouiller.
+Aucune donnée
+Un instant…
+--°
+%d°
+-
+heure
+heure
+heure
+heures
+heures
+heures
+heures
+Récupération
+Mis à jour : %02d:%02d
+Debout
+Dégagé
+Aucune notification
+Chronomètre
+Minuteur
+Lampe torche
+Course/marche basique
+Course/marche avancée
+Jogging basique
+Course pour brûler les graisses (Basique)
+Course pour brûler les graisses (Avancée)
+Course MIIT
+Course d'endurance (Basique)
+Course d'endurance (Avancée)
+Course par intervalles (Basique)
+Course par intervalles (Avancée)
+Course/marche basique
+Course/marche avancée
+Jogging basique
+Course pour brûler les graisses (Basique)
+Course pour brûler les graisses (Avancée)
+Course MIIT
+Course d'endurance (Basique)
+Course d'endurance (Avancée)
+Course par intervalles (Basique)
+Course par intervalles (Avancée)
+Marche rapide
+Jogging
+Course
+Sprint
+%d:%02d
+%d
+Restante
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Entraînement
+Heure
+FC actuelle
+Course terminée. Continuer l'entraînement ?
+Continuer dans %d s
+Continuer dans %d s
+Activités libres
+Terminé !
+(Aucun titre)
+%02u:%02u du matin–
+%02u:%02u du soir–
+%02u:%02u du matin
+%02u:%02u du soir
+%u/%u/%u
+%u/%u
+%02u:%02u
+Aujourd'hui
+Demain
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d h
+Dans %d jour
+Dans %d jour
+Dans %d jour
+Dans %d jours
+Dans %d jours
+Dans %d jours
+Dans %d jours
+Dans %d jour
+Dans %d jour
+Dans %d jour
+Dans %d jours
+Dans %d jours
+Dans %d jours
+Dans %d jours
+Maintenant
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+Dans %d min
+En retard
+--
+Terminé!
+Impossible d'autoriser
+Longueurs cette série
+Restantes
+%ld . %ld
+km
+m
+%02d : %02d
+Surveillance du stress toute la journée
+Surveillance avancée du sommeil
+Surveillance du stress toute la journée
+Surveillance avancée du sommeil
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Écran allumé pour
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+L'écran restera allumé pendant %d min à chaque fois. Cela affectera l'autonomie de la batterie. Activer quand même ?
+Intelligent
+Planifié
+Météo
+Alerte
+预警。
+%02d:%02d AM
+%02d:%02d PM
+Glissez vers le haut pour déverrouiller
+Très élevée
+AQI %d
+%s
+Écran allumé pour
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Mexico
+Winnipeg
+Guatémala
+San Salvador
+Tegucigalpa
+Managua
+La Havane
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Autoriser votre bracelet à déverrouiller le téléphone ?
+Buenos Aires
+Montévidéo
+Brasilia
+Praia
+Reykjavik
+Lisbonne
+Casablanca
+Dublin
+Madrid
+Lagos
+Alger
+Bruxelles
+Genève
+Francfort
+Oslo
+Copenhague
+Rome
+Berlin
+Prague
+Zagreb
+Vienne
+Stockholm
+Budapest
+Varsovie
+Windhoek
+Sofia
+Tallinn
+Helsinki
+Bucarest
+Kiev
+Harare
+Jérusalem
+Beyrouth
+Kaliningrad
+Amman
+Khartoum
+Minsk
+Istanbul
+Ankara
+Saint-Pétersbourg
+Nairobi
+Addis-Abeba
+Bagdad
+Aden
+Riyad
+Antananarivo
+Koweït
+Abu Dhabi
+Mascate
+Samara
+Kaboul
+Karachi
+Bombay
+Katmandou
+Dhaka
+Almaty
+Novossibirsk
+Phnom Penh
+Hanoï
+Jakarta
+Kuala Lumpur
+Taïwan, Chine
+Taïwan
+Perth
+Irkoutsk
+Manille
+Pyongyang
+Tokyo
+Chita
+Darwin
+Vladivostok
+Brisbane
+Adélaïde
+Magadan
+Kamtchatka
+Suva
+Auckland
+Kiritimati
+Washington, D.C.
+San Francisco
+Rien encore ici
+Aujourd'hui
+--
+OK
+m derrière
+m plus loin
+Mesure
+%d notification
+%d notification
+%d notification
+%d notifications
+%d notifications
+%d notifications
+%d notifications
+Aucune lecture audio
+Amsterdam
+Batterie faible
+Batterie en dessous de %d%%. Charger maintenant.
+Raccourcis
+Le temps d'entraînement est trop court pour enregistrer.
+Horloge mondiale
+Objectif : %d m
+Objectif : %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Sommeil
+Récupération
+Vitalité
+Weixin Pay
+Alipay
+Hier %02d:%02d AM
+Hier %02d:%02d PM
+%02d/%02d %02d:%02d AM
+%02d/%02d %02d:%02d PM
+Lorsque vous portez votre bracelet au lit, il enregistrera automatiquement les informations sur votre sommeil. L'appareil affichera les 3 derniers enregistrements ; vous pouvez afficher des informations plus détaillées dans l'application.
+Activez la Surveillance avancée dans les Paramètres pour obtenir des informations plus précises sur le sommeil, tel que la reconnaissance du Sommeil REM.
+Lorsque vous dormez plus de 3 heures, votre appareil affiche votre fréquence cardiaque moyenne, votre niveau de SpO₂ et votre score de sommeil. Pour les siestes de moins de 3 heures, seul le moment où vous vous endormez et de votre réveil sera affiché. Les siestes de moins de 20 minutes ne seront pas enregistrées.
+Une mauvaise qualité de sommeil et un mouvement excessif pendant le sommeil peuvent entraîner des mesures inexactes de la fréquence cardiaque et de SpO₂.
+...
+Moyenne
+Faible
+%02d:%02d:%02d.%02d
+Entrer le code PIN pour déverrouiller
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth déconnecté. Connectez-vous pour synchroniser les données d'entraînement.
+Dans %u jour
+Dans %u jour
+Dans %u jour
+Dans %u jours
+Dans %u jours
+Dans %u jours
+Dans %u jours
+Excellente
+Inconnu
+Inconnu
+Aucune information sur le morceau
+Démarrer
+Terminer
+%.2F
+Déconnecté
+Connectez-vous via le Bluetooth et réessayez
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+En savoir plus
+.
+-
+Nom du produit
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Objectif BPM :
+Objectif :
+Aucun événement aujourd'hui
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Sévère
+%u Sévère
+%u Sévère
+%u%%
+--°
+--
+AQI --
+Connectez-vous à l'application pour obtenir des informations météorologiques
+.
+Fréquence cardiaque
+Série
+Série
+Série
+Série
+Série
+Temps
+Temps
+Temps
+Temps
+Temps
+Pas
+Coups
+Sauts
+Longueurs
+Tours
+Xiaomi Smart Band 8 NFC
+/
+-
+Vous pouvez modifier l'affichage de votre bracelet maintenant. Appuyez pour confirmer la modification.
+Pour sauvegarder les modifications, balayez vers la droite sur l'affichage du bracelet.
+Changement de langue
+Seul l'horloge et le compte de pas seront disponibles lorsque l'Économiseur de batterie est activé. Appuyez et maintenez l'écran ou chargez pour éteindre.
+L'appareil surchauffe. Mise hors tension.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie d'environ %d jour %d heure.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie d'environ %d jours %d heure.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie d'environ %d jour %d heures.
+Désactiver cette fonctionnalité prolongera l'autonomie de la batterie d'environ %d jours %d heures.
+Charge d'entraînement
+Temps de récupération (h)
+Vitalité
++%u
+Pour modifier des widgets, accédez à Appareil &gt; Widgets dans l'application.
+Alarme
+Accorder les autorisations de NPD dans l'application
+OK
+Mis à jour il y a %d min
+Mis à jour il y a %d min
+%d°/%d°
+Donnée expirée
+Mis à jour : %02d:%02d
+Mis à jour hier, %02d:%02d
+Événements
+À l'instant
+Mesure expirée. Assurez-vous que votre bracelet s'adapte parfaitement.
+,
+%ld,%ld
+%d
+km/h
+FC actuelle
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Terminer
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Pointe dans cette direction
+Des autorisations de localisation sont nécessaires pour pouvoir enregistrer votre itinéraire.
+Dans les Paramètres de votre téléphone, autorisez Mi Fitness à accéder à votre localisation, puis sélectionnez "Toujours autoriser".
+%02d:%02d:%02d
+Pour des mesures précises de la fréquence cardiaque, portez votre appareil bien ajusté, à environ un doigt de l'os du poignet. S'il glisse pendant que vous exercez, réajustez-le rapidement.
+Cette activité ne permet d'enregistrer les données que sur les lancers de frisbee d'une main. Portez l'appareil au poignet avec lequel vous lancerez.
+Astuces
+Lancers
+Lancer
+Lancer
+Lancer
+Lancers
+Lancers
+Lancers
+Lancers
+Force de lancer
+Faible
+Moyenne
+Élévée
+%d lancer
+%d lancer
+%d lancer
+%d lancers
+%d lancers
+%d lancers
+%d lancers
+Paramètres NPD
+Mode veille
+Lorsque l'appareil reconnaît que vous dormez, NPD s'allume automatiquement.
+Mode veille
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Toute la journée
+Personnaliser
+Paramètres

@@ -1,0 +1,4323 @@
+Telefonu bul
+Telefonunuz çalacak
+Ara
+Durdur
+Tamamlandı
+Tekrar ara
+Bağlantı kesildi
+Bluetooth aracılığıyla bağlanın ve tekrar deneyin
+Telefonunuzda kamerayı açın
+Tamam
+Uygulamada Kamera'yı eşleştirin
+Tamam
+Bağlantı kesildi
+Bluetooth aracılığıyla bağlanın ve tekrar deneyin
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+Şimdi
+Alarm
+Alarm yok
+ÖÖ
+ÖS
+%02d:%02d
+Bir kez
+Her gün
+İş günleri
+Tatiller
+ 
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+10 alarma kadar ekle
+Saat
+ÖÖ
+ÖS
+%02d
+%02d
+:
+Akıllı uyandırma
+Alarmınızdan önce sizi uyandırmak için bilekliğinizin 10 dakikalık bir aralık içinde seçim yapmasına izin verin
+Tekrarla
+Bir kez
+Her gün
+İş günleri
+Tatiller
+Özel
+Özel
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+Ertele
+%02d:%02d
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Kapalı
+10 dakika ertele
+Saat
+%02d:%02d
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Tekrarla
+Bir kez
+Her gün
+İş günleri
+Tatiller
+ 
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+Akıllı uyandırma
+Açık
+Kapalı
+%%%d
+%02d:%02d
+Pil %%%d seviyesinin altında
+Pil %%%d oranının altında. Pil tasarrufu açılsın mı?
+Pil tasarrufu
+Kalan pil ömrü
+yaklaşık %d gün %d sa.
+Pil tasarrufu açıkken yalnızca saat, adım sayar ve NFC kullanılabilecek. Kapatmak için ekrana basılı tutun veya şarj edin.
+Bileklik, şarj etmek için çok sıcak. Şimdi takmayın.
+Bileklik, şarj etmek için çok soğuk. Şimdi takmayın.
+%02d:%02d
+Kronometre
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Konum eklenmedi
+%02d:%02d
+Wellington
+Sidney
+Tokyo
+Seul
+Pekin
+Hong Kong
+Singapur
+Bangkok
+Yeni Delhi
+İslamabad
+Dubai
+Moskova
+Kahire
+Cape Town
+Paris
+Londra
+New York
+Şikago
+Los Angeles
+Honolulu
+Atina
+Tahran
+Yangon
+Rio de Janeiro
+Wellington
+Sidney
+Tokyo
+Seul
+Pekin
+Hong Kong
+Singapur
+Bangkok
+Yeni Delhi
+İslamabad
+Dubai
+Moskova
+Kahire
+Cape Town
+Paris
+Londra
+New York
+Şikago
+Los Angeles
+Honolulu
+Atina
+Tahran
+Yangon
+Rio de Janeiro
+Wellington
+Sidney
+Tokyo
+Seul
+Pekin
+Hong Kong
+Singapur
+Bangkok
+Yeni Delhi
+İslamabad
+Dubai
+Moskova
+Kahire
+Cape Town
+Paris
+Londra
+New York
+Şikago
+Los Angeles
+Honolulu
+Atina
+Tahran
+Yangon
+Rio de Janeiro
+Gün ışığından yararlanma saati verileri güncel değil. Güncellemek için uygulamaya bağlanın.
+%02d:%02d
++%d sa.
++%.1f sa.
++%d sa.
++%d sa.
++%d sa.
++%d sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%d sa.
++%d sa.
+-%d sa.
+-%.1f sa.
+-%d sa.
+-%d sa.
+-%d sa.
+-%d sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%d sa.
+-%d sa.
+%02d/%02d
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%.1f sa.
+-%d sa.
+-%d sa.
+-%d sa.
+-%d sa.
+-%d sa.
+-%d sa.
+-%d sa.
++%d sa.
++%.1f sa.
++%d sa.
++%d sa.
++%d sa.
++%d sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%.1f sa.
++%d sa.
++%d sa.
+Konum ekle
+Uygulamada daha fazla konum ekleyin
+20 konuma
+kadar ekleyin
+%02d:%02d
+Odak
+Dinlenme
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+Dinlenme
+%02d:%02d
+Süre ayarla
+Dinlenme
+Duraklatıldı
+Dinlenme zamanı
+Bugün
+%02d:%02d:%02d
+Odak zamanı
+Odak
+Odak
+
+Rahatsız Etme Modu bu oturumda açık
+Odaklan
+Daha fazla bilgi edin
+Odak
+Odak daha etkili çalışmanız için kısa bir süre boyunca konsantre olmanıza yardımcı olur.
+
+Bir odak oturumu normalde 25 dakikada sona erer. Başlattığınızda, 5 dakika dinleneceğiniz noktada cihazınız titreşene kadar tamamıyla görevinize konsantre olun.
+
+ Her 4 Odak oturumundan sonra 15-20 dakikaklık bir ara vermenizi öneririz.
+Odaklanma zamanı
+Yalnızca bir sn.
+Oynatılmıyor
+Bağlantı kesildi
+Eksik izinler
+Uygulamada bildirimleri açın
+Tamam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Domuz)
+ 
+ 
+ 
+ 
+ 
+%d/%d
+Hafta: %d
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%%%u
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Uygulamada Etkinlik'i açın
+Etkinlik yok
+%02d/%02d
+Pzt
+%02d/%02d
+Sal
+%02d/%02d
+Çrş
+%02d/%02d
+Prş
+%02d/%02d
+Cum
+%02d/%02d
+Cmt
+%02d/%02d
+Paz
+Tüm gün
+%02d:%02d-%02d:%02d
+Ertele
+Yok say
+10 dakika
+ertelendi
+Aç
+Etkinlik yok
+Uygulamada ekle
+Bugün
+Yakında
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+%d/%dPzt
+%d/%dSal
+%d/%dÇrş
+%d/%dPrş
+%d/%dCum
+%d/%dCmt
+%d/%dPaz
+Ertele
+Yok say
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Etkinlik
+10 dakika
+ertelendi
+Ayrıntılar
+Cihaz bulunuyor…
+Durdur
+Dinliyor
+Söyleyerek başlat
+Uygulamada Mi AI'ı kurun
+Ağ bağlantınızı 
+kontrol edin 
+veya daha sonra tekrar deneyin
+Bağlantı kesildi.
+ Bluetooth ile bağlanın.
+Bileklik verileri
+ yüklüyor. Mi AI
+ şu anda kullanılamıyor.
+Bu özellik henüz desteklenmemektedir
+Ne diyordunuz?
+Mi AI uyandırılamadı. Tekrar deneyin.
+Pazartesi
+Salı
+Çarşamba
+Perşembe
+Cuma
+Cumartesi
+Pazar
+Mi AI'ı uyandırmak için dokunun
+Telefonunuzda Mi AI'a sorun
+Mi AI şu an yalnızca Çin anakarasında kullanılabilir.
+Mükemmel
+İyi
+Orta
+Sağlıksız
+Tehlikeli
+Tehlikeli
+Mükemmel
+İyi
+Orta
+Sağlıksız
+Tehlikeli
+Tehlikeli
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Yarın
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+HKE %d
+Gün doğumu
+Gün batımı
+%02d:%02d
+Rüzgar
+%d
+Nem
+%%%d
+UV
+%lu
+%d°/%d°
+Konumu değiştir
+Uygulamanın
+hava durumu ayarlarında konumları belirleyin
+%d
+℃
+℉
+Kartlar
+Uygulamada kartları ekleyin
+Yalnızca bir sn.
+   
+Bakiye
+Okuyucuya yakın tutun
+Yalnızca bir sn.
+Aktive edilemedi.
+Tekrar deneyin.
+Başarıyla ödendi
+-%.2F
+Bakiye
+-%.2F
+Düşük bakiye. Yakında bakiye yükleyin.
+Nefes
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+Başlat
+Rahatlayın
+Nefesinize odaklanın
+Başla
+Baloncuğu takip edin
+Nefes al
+Nefes ver
+Aferin
+Oturum: %d dk.
+Oturum: %d dk.
+Oturum: %d dk.
+Oturum: %d dk.
+Oturum: %d dk.
+Oturum: %d dk.
+Oturum: %d dk.
+%2d:%2d
+Sonuçlar
+Anlık nabız
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Başlangıç nabzı
+Oturum
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+Bitti
+Süre
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+%d
+%d
+%d nefes
+%d nefes
+%d nefes
+%d nefes
+%d nefes
+%d nefes
+%d nefes
+%02u:%02u
+Nabız
+Ölçülüyor
+Sabit durun
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Şimdi
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%02u:%02u
+Tekrar dene
+Ölç
+Takılı değil
+Veri yok
+Takılı değil
+Tamam
+%u
+%u
+İpuçları
+1. Bilekliğinizi bilek kemiğinin yukarısına takın
+2. Bilekliğinizi sıkı ve sabit tutun
+3. Ölçüm doğruluğu, bilekliği nasıl taktığınızdan, cildinizdeki ve çevredeki değişikliklerden vb. etkilenebilir.
+*Bu özellik tıbbi amaçlar için veya herhangi bir hastalığı veya durumu teşhis etmek, tedavi etmek, iyileştirmek veya önlemek için tasarlanmamıştır.
+Yüksek nabız
+Yüksek nabız
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Daha fazla bilgi edin
+Bilekliğiniz, dinlenme durumundayken nabzınız belirli seviyenin üzerine çıktığında size bildirir. Strese, kafein alımına veya soğuğa karşı bir tepki olarak nabzınızın yükselmesi normaldir. Ancak baş dönmesi, nefes darlığı veya çarpıntı yaşayan kişiler tıbbi yardım almalıdır. Yüksek nabız verilerinin tıbbi amaçlı olmadığını ve herhangi bir hastalığı veya durumu, teşhis etmeyi, tedavi etmeyi, iyileştirmeyi veya önlemeyi amaçlamadığını unutmayın. Bileklilk yalnızca en son yüksek nabız kayıtlarını gösterir. Daha fazla bilgi için uygulamayı kontrol edin.
+Düşük nabız
+Düşük nabız
+Daha fazla bilgi edin
+Bilekliğiniz, nabzınız belirlenen seviyenin altına indiğinde size bildirir. Bu, uyurken veya fiziksel olarak aktif olan kişilerde yaygındır. Baş dönmesi, nefes darlığı veya çarpıntı yaşayan kişiler tıbbi yardım almalıdır. Düşük nabız verilerinin tıbbi amaçlı olmadığını ve herhangi bir hastalığı veya durumu, teşhis etmeyi, tedavi etmeyi, iyileştirmeyi veya önlemeyi amaçlamadığını unutmayın. Bileklik yalnızca en son düşük nabız kayıtlarını gösterir. Daha fazla bilgi için uygulamayı kontrol edin.
+Düzensiz BPM
+Düzensiz
+%02u:%02u-%02u:%02u
+Detayları uygulamada görüntüle
+Daha fazla bilgi edin
+Bilekliğiniz aktif olmadığınızda nabzınızı ölçecek ve herhangi bir anormalliği kaydedecektir. İyi hissetmiyorsanız tıbbi yardım alın.
+Nabız bölgesi
+%u sa. %u dk.
+%u sa. %u dk.
+%u sa. %u dk.
+%u sa. %u dk.
+%u sa.
+%u sa.
+%u sa.
+%u sa.
+%u sa.
+%u sa.
+%u sa.
+%1u sa.
+%1u sa.
+%1u sa.
+%1u sa.
+%1u sa.
+%1u sa.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%2u dk.
+%2u dk.
+%2u dk.
+%2u dk.
+%2u dk.
+%2u dk.
+VO₂ maks.
+Anaerobik
+Aerobik
+Yoğun
+Hafif
+Daha fazla bilgi edin
+Hafif
+Nabzın maksimum kapasitesinin %50-%60'ı ısınmalar ve soğumalar için uygundur.
+Yoğun
+%61-%70 aralığı yağ yakmak için uygundur.
+Aerobik
+%71-%80 oranında kardiyopulmoner fonksiyonlar güçlüdür.
+Anaerobik
+%81-%90 aralığına ulaşıldığında laktik ve tolerans gelişir.
+VO₂ maks.
+Nabzın maksimum kapasitesinin %91-%100'ünde egzersiz yapmak, deneyimli eğitmenler için uygundur.
+Ayarlar
+Nabız
+Devamlı izleme
+Kapalı
+Otomatik
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+Devamlı izleme
+Nabzınızı her saat takip edin.
+Kapalı
+Otomatik
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+%u dk.
+Düzensiz BPM
+Açık
+Düzensiz BPM
+Bu özellik gerçek zamanlı nabzınızı izler ve düzensiz kalp atışlarını kaydeder.
+
+Bu özelliği açmak pil ömrünü önemli ölçüde azaltacaktır. Yine de açılsın mı?
+Yüksek nabız
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Yüksek nabız
+Üzerine çıktığınızda uyarı alacağınız bir nabız seçin
+Kapalı
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Yüksek nabız
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in üzerinde.
+Yok say
+Bugün yok say
+Düşük nabız
+Düşük nabız
+Altına indiğinizde uyarı alacağınız bir nabız seçin
+Düşük nabız
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+%02u:%02u saatinden itibaren dinlenme nabzınız %u BPM'in altında.
+Daha fazla bilgi edin
+Daha fazla bilgi edin
+Nabız
+Nabız, nabzınızın dakikadaki atış sayısıdır (BPM). Genelde dinlenme nabzı 55 ila 80 BPM aralığındadır. Ancak yaş, cinsiyet ve diğer faktörlere göre değişir. Cihazınız 30–240 BPM aralığını destekler.
+Uyku
+Uyku verileri oluşturmak için cihazı yatarken de takın
+%02u
+sa.
+dk.
+Hedef: %2u sa.
+Hedef: %2u sa.
+Hedef: %2u sa.
+Hedef: %2u sa.
+Hedef: %2u sa.
+Hedef: %2u sa.
+Hedef: %2u sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+Hedef: %02u sa. %2u dk.
+Güncellendi: %02u:%02u
+Kısa uyku
+%02u
+%02u:%02u-%02u:%02u
+Uyku
+Derin
+%%%u
+Hafif
+REM
+Uyanmalar
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Ort. nabız
+%u
+Ort. SpO₂
+Ayarlar
+Daha fazla bilgi edin
+Ayarlar
+Gelişmiş izleme
+Kapalı
+Nefes puanı
+Açık
+Gelişmiş izleme
+Bu özellik açıldığında, cihazınız REM uykunuzu izleyecektir.
+
+Gelişmiş izleme özelliğini açmak, pil ömrünü önemli ölçüde azaltacaktır. Yine de açılsın mı?
+Nefes puanı
+Bu özellik açık olduğunda, siz uyurken gece nefesiniz izlenecektir. Uygulamada nefes puanını görüntüleyebilirsiniz.
+Nefesinizin izlenmesi pil ömrünü önemli ölçüde azaltacaktır. Yine de açılsın mı?
+Daha fazla bilgi edin
+Uykuyu takip etmesi için bilekliğinizi yatarken takın. Bilekliğinizde en son 3 uyku geçmişi kaydını görüntüleyebileceksiniz. Daha detaylı uyku geçmişi telefonunuzdaki uygulamada mevcuttur. Çabuk göz hareketini izlemek ve daha doğru uyku bilgileri almak için Ayarlar'da Gelişmiş izleme özelliğini açın. En az 3 saatlik kesintisiz uyku bilekliğinizin ortalama nabız ve kandaki oksijeni kaydetmesini sağlar. Daha kısa uykular için yalnızca uyuma ve uyanma saatiniz kaydedilecektir. 20 dakikadan kısa uykular kaydedilmeyecektir. Kötü uyku kalitesi ve uyku sırasındaki aşırı bilek hareketleri, yanlış nabız verilerine ve kandaki oksijenin ölçülememesine neden olabilir.
+%02u:%02u
+Stres
+Veri yok
+Ölç
+%u
+Rahat
+Ilımlı
+Orta
+Şiddetli
+Şimdi
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%02u:%02u
+Bilekliği sabit ve yukarı bakacak şekilde tutun
+%u
+Ölçülüyor
+Sabit durun
+Sabit kalın
+Bilekliği cildinize temas halinde tutun
+Bileğinizi düz ve ekran yukarı bakacak şekilde tutun
+Bileklik kordonunu sıkın ve tekrar deneyin
+Bileklik kordonunu sıkın ve tekrar deneyin
+Ölçüm sırasında sabit kalın
+Bileklik kordonunu sıkın ve tekrar deneyin
+Tekrar dene
+Tamam
+Oturum kesintiye uğradı. Şimdi iptal edilsin mi?
+İpuçları
+Bilekliğinizi bilek kemiğinin yukarısına takın.
+Bilekliğinizi sıkı ve sabit tutun.
+Ölçümler düşük sıcaklığa, cilt perfüzyonuna ve daha fazlasına bağlıdır.
+Bu özellik tıbbi amaçlı değildir.
+Yüksek stres
+%u
+Şiddetli
+Nefes egzersizleri deneyin.
+Nefes
+Anladım
+Bugün yok say
+Stres
+%u
+%u
+Rahat
+Ilımlı
+Orta
+Şiddetli
+Şimdi
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%02u:%02u
+Ölç
+Veri yok
+Ayrıntılar
+Rahat
+Ilımlı
+Orta
+Şiddetli
+%%%u
+Son 7 gün
+%02u/%02u
+Bugün
+%u
+ort.
+Ayarlar
+Daha fazla bilgi edin
+Stres
+Tüm gün izleme
+Açık
+Kapalı
+Rahatlatıcı hatırlatıcı
+Tüm gün izleme
+Bu özellik, hareket etmediğinizde stres seviyenizi takibini yapar.
+Rahatlatıcı hatırlatıcı
+Uyanıkken stres seviyeniz 80'in üzerinde kaldığında nefes egzersizi uyarısı alın
+Bu özelliği açmak pil ömrünü önemli ölçüde azaltacaktır. Yine de açılsın mı?
+Daha fazla bilgi edin
+Stres, vücudunuzun zorluklara ve taleplere verdiği tepkidir.
+Stres yalnızca dinlenme sırasında ölçülür. Stres seviyeleri aşağıdaki gibi tanımlanır:
+Rahat: 1-25 
+Ilımlı: 26-50 
+Orta: 51-80 
+Şiddetli: 81-100
+Birçok etken doğruluğu etkileyebilir. Sonuçlar yalnızca referans içindir.
+%02u:%02u
+SpO₂
+Veri yok
+Ölç
+%u
+%
+Şimdi
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%02u:%02u
+Bilekliği sabit ve yukarı bakacak şekilde tutun
+%u
+SpO₂
+Ölçülüyor
+Kalibre ediliyor
+Sabit durun
+Sabit kalın
+Bilekliği cildinize temas halinde tutun
+Bileğinizi düz ve ekran yukarı bakacak şekilde tutun
+Bileklik kordonunu sıkın ve tekrar deneyin
+Tekrar dene
+Bileklik kordonunu sıkın ve tekrar deneyin
+Ölçüm sırasında sabit kalın
+Bileklik kordonunu sıkın ve tekrar deneyin
+Bileğinizi düz ve ekran yukarı bakacak şekilde tutun
+Bilekliği sıkı ve sabit tutun
+Anladım
+Anladım
+İpuçları
+1. Bilekliğinizi bilek kemiğinin yukarısına takın.
+2. Bilekliğinizi sıkı ve sabit tutun.
+3. Ölçümler düşük sıcaklığa, cilt perfüzyonuna ve daha fazlasına bağlıdır.
+Bu özellik tıbbi amaçlı değildir.
+SpO₂
+%u
+%u
+%
+Şimdi
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%u dk. önce
+%02u:%02u
+Ölç
+Uyarılar
+Ayarlar
+Daha fazla bilgi edin
+Daha fazla bilgi edin
+Bilekliğiniz, %75–%100 aralığını destekler.
+Düşük SpO₂
+1. SpO₂, kanınızdaki oksijenin yüzdesini ifade eder.
+%02u:%02u
+2. Aktifken %95'in veya uyanıkken %90'ın altındaki okumalar düşük kabul edilir.
+%u
+%%%u - %%%u
+3. Ölçümleri tutarsız veya güvenilmez hale getirebilecek birçok faktör vardır. Bunlar arasında cilt perfüzyonu, cildinizde kalıcı veya geçiçci değişiklikler, hareket veya uyku sırasındaki duruşlar yer alabilir. Yukarıdakilerin tümü yanlış bir şekilde düşük kandaki oksijen uyarısı ile sonuçlanabilir. Bunun tıbbi bir cihaz olmadığını ve oluşturduğu verilerin teşhis ve tedavi için kullanılmayacağını unutmayın.
+Daha fazla bilgi edin
+Oksijen doygunluk seviyeniz belirli bir süre belirlenen değerin altında kaldığında bir uyarı alacaksınız. Bilekliğiniz en son 3 kaydı gösterecektir. Daha fazlasını uygulamada görüntüleyin.
+Nefes darlığı, baş ağrısı, baygınlık veya konsantrasyon kaybı yaşarsanız, tıbbi yardım almalısınız.
+Bileklik ölçüm aralığı %75-%100'dür. Bu özellik tıbbi amaçlı değildir ve yalnızca referans için kullanılmalıdır.
+Oturum kesintiye uğradı. Şimdi iptal edilsin mi?
+Ayarlar
+Tüm gün izleme
+Açık
+Kapalı
+Uyarılar
+Kapalı
+%%%d
+%%%d
+%%%d
+Tüm gün izleme
+Bu özellik, siz dinlenirken SpO₂'nizi ölçer.
+Uyarılar
+Uyanıkken SpO₂ belirli bir seviyenin altına düştüğünde hatırlatıcı alın
+Kapalı
+0.8
+0.85
+0.9
+ 
+Bu özelliği açmak pil ömrünü önemli ölçüde azaltacaktır. Yine de açılsın mı?
+Uyarılar
+%u
+%
+Anlık SpO₂ %%%u oranının altında
+Yok say
+Bugün yok say
+%02d:%02d
+Döngüler
+%02d/%02d
+%02d/%02d
+Bugün veri yok
+Kaydet
+Gün %d
+Gün %d
+Gün %d
+Gün %d
+Gün %d
+Gün %d
+Gün %d
+Tahmin edilen âdet dönemi
+%02d/%02d-%02d/%02d
+İptal
+Âdet dönemi sona erdi
+Âdet dönemi
+Döngüler
+%02d/%02d
+%02d/%02d
+Bugün veri yok
+Âdet dönemi başlatıldı
+İptal
+Âdet dönemi sona erdi
+Tahminler
+Uygulamada Âdet dönemi tahminini açın
+Daha fazla bilgi edin
+Gün %02d
+Gün %02d
+Gün %02d
+Gün %02d
+Gün %02d
+Gün %02d
+Gün %02d
+Doğurgan
+Tahmin edilen âdet dönemi
+Âdet dönemi
+%02d/%02d-%02d/%02d
+Doğurgan
+%02d/%02d-%02d/%02d
+Âdet dönemi
+Yumurtlama
+%02d/%02d
+Yumurtlama
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+Daha fazla bilgi edin
+1. Renkler
+Âdet dönemi
+Tahmin edilen âdet dönemi
+Doğurgan
+Yumurtlama
+2. İpucu
+Daha doğru tahminler için, uygulamada âdet dönemlerini kaydedin ve döngü uzunluğunu düzenleyin.
+Yaklaşan âdet dönemi
+Yaklaşan doğurganlık dönemi
+Yaklaşan yumurtlama
+Yarın
+2 gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+Sonraki âdet dönemi %u/%u tarihinde
+Sonraki doğurganlık dönemi %u/%u tarihinde
+Sonraki yumurtlama günü %u/%u tarihinde
+%02u:%02u
+ÖÖ
+ÖS
+Anladım
+Açık hava koşusu
+Yürüyüş
+Yürüyüş
+Koşu bandı
+Kapalı alanda yürüyüş
+Açık hava bisikleti
+Doğa yürüyüşü
+Patika koşusu
+Doğa yürüyüşü
+Serbest stil
+Kapalı alanda fitness
+Yoga
+Havuzda yüzme
+Açık su
+Eliptik
+Kürek çekme
+İp atlama
+HIIT
+Tenis
+Basketbol
+Snowboard
+Kayak
+Kros kayağı
+Golf
+Diğer sporlar
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kal
+kal
+kal
+kal
+kal
+kal
+kal
+Hedef
+%d%
+Hedef tamamlama
+%u.%02u
+km
+Hedef
+Tamamlandı
+Özet
+%u'%02u"
+Ort. tempo
+Tempo
+%d
+Ort. ritim (SPM)
+Ort. uzun adım (cm)
+Kalori
+Ort. nabız
+Maks. nabız
+Adım
+VO₂ maks.
+Uzunluk
+Ana stil
+Ort. SWOLF
+Toplam kulaç
+Ort. SPM
+Egzersiz süresi
+Dinlenme süresi
+Setler
+Toplam kulaç
+Toplam atlama
+Ort. sıklık (JPM)
+Kurbağalama yüzüş
+Serbest stil
+Kelebek
+Sırtüstü yüzme
+Nabız bölgesi
+VO₂ maks.
+Anaerobik
+Aerobik
+Yoğun
+Hafif
+%d sa. %d dk.
+%d sa. %d dk.
+%d sa. %d dk.
+%d sa. %d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+Antrenman etkisi
+%d.%d
+Sürdürme
+Aerobik egzersiz
+%d.%d
+Anaerobik egzersiz
+Daha fazla detayı uygulamada görüntüleyin
+%d
+Antrenman yükü
+İyi
+Düşük
+Yüksek
+Son 7 gün
+%d
+ml/kg/dk.
+VO₂ maks.
+Çok kötü
+Kötü
+Uygun
+Ortalama
+İyi
+Mükemmel
+Muhteşem
+Seviye
+İyileştirme
+Sürdürme
+Azaltma
+Atletik kabiliyet
+ 
+Antrenman yükü, son 7 gün içindeki aşırı egzersiz sonrası oksijen tüketiminize (EPOC) göre hesaplanır. İş yükünüzü buna göre ayarlayın. Uygulamada Yardım bölümünde daha fazla bilgi edinin.
+%02d:%02d
+Daha fazla bilgi edin
+VO₂ maks., vücudun aerobik kapasitesinin anahtar bir göstergesidir. Cihaz yaş, cinsiyet ve egzersiz sırasındaki nabız gibi faktörlere dayanarak atletik kabiliyetinizi değerlendirecek ve VO₂ maks. atletik kabiliyetiniz geliştikçe değişecektir.
+VO₂ maks'ınızı bulun
+1. Uygulamada kişisel bilgilerinizi doldurun. 2. Bilekliğinizi takın ve maks. nabzınızın %75'ine ulaşmak için açık havada 10+ dk. koşun.
+%d
+İyileşme süresi (sa.)
+Tamamen iyileşmiş
+Çoğunlukla iyileşmiş
+Yoğunluğu azaltın
+Dinlenme gerekli
+%02d:%02d
+Güncellendi
+Şimdi
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d
+İyileşme süresi (sa.)
+Antrenman yoğunluğunu arttırabilirsiniz
+Her zamanki gibi egzersiz yapın
+Daha düşük bir yoğunlukta egzersiz yapın
+Tam olarak dinlenin ve antranmanı duraklatın
+Etkinlik
+%d kayıt senkronize edilmedi
+%d kayıt senkronize edilmedi
+%d kayıt senkronize edilmedi
+%d kayıt senkronize edilmedi
+%d kayıt senkronize edilmedi
+%d kayıt senkronize edilmedi
+%d kayıt senkronize edilmedi
+Açık hava koşusu
+Yürüyüş
+Yürüyüş
+Koşu bandı
+Kapalı alanda yürüyüş
+Açık hava bisikleti
+Doğa yürüyüşü
+Patika koşusu
+Doğa yürüyüşü
+Serbest stil
+Kapalı alanda fitness
+Yoga
+Havuzda yüzme
+Açık su
+Eliptik
+Kürek çekme
+İp atlama
+HIIT
+Tenis
+Basketbol
+Snowboard
+Kayak
+Kros kayağı
+Golf
+Diğer sporlar
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Tempo
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Hafif
+Yoğun
+Aerobik
+Anaerobik
+VO₂ maks.
+kal
+Ritim (SPM)
+Adım
+Ort. tempo
+Hedef tamamlama
+%lu.%02lu
+km gerisinde
+mi gerisinde
+%d'%d"
+%%%d
+Tempo
+km ileride
+mi ileride
+Tamamlanan set
+Dinlenme süresi
+Toplam süre
+Havuzda yüzme
+Yelken
+Kürek sörfü
+Su topu
+Diğer su sporları
+Su kayağı
+Kano sporu
+Rafting
+Kürek çekme
+Sürat teknesi
+Paletli yüzme
+Atlama
+Artistik yüzme
+Şnorkelle yüzme
+Uçurtma sörfü
+Akarsu
+Dragon teknesi
+Açık hava koşusu
+Yürüyüş
+Doğa yürüyüşü
+Açık hava bisikleti
+Doğa yürüyüşü
+Patika koşusu
+Kaya tırmanışı
+Kaykay
+Tekerlekli paten
+Parkur
+ATV
+Yamaç paraşütü
+BMX
+Yürüyüş
+Serbest stil
+Koşu bandı
+İp atlama
+HIIT
+Yoga
+Kapalı alan bisikleti
+Eliptik
+Kürek çekme
+Merdiven çıkma makinesi
+Stepper
+Spinning
+Core egzersizi
+Esneklik
+Pilates
+Jimnastik
+Germe
+Güç
+Çapraz antrenman
+Merdiven çıkma
+Aerobik
+Fiziksel egzersiz
+Duvar topu
+Dambıl
+Halter
+Ağırlık kaldırma
+Deadlift
+Burpee
+Mekik
+İşlevsel eğitim
+Üst vücut
+Alt vücut
+Karın kasları
+Sırt
+Air walker
+Barfiks
+Paralel bar
+Stepper
+Kitle jimnastiği
+Kardiyo Kombat
+Halat çekme
+Aerobik kombo
+Kapalı alanda yürüyüş
+Kapalı alanda fitness
+Kare dans
+Oryantal
+Bale
+Sokak dansı
+Zumba
+Halk oyunu
+Caz dansı
+Latin dansı
+Hip hop
+Direk dansı
+Breakdance
+Balo dansı
+Modern dans
+Dans
+Boks
+Güreş
+Dövüş sanatları
+Tai chi
+Muay Thai
+Judo
+Tekvando
+Karate
+Kick Boks
+Kendo
+Eskrim
+Jujitsu
+Tenis
+Basketbol
+Golf
+Futbol
+Voleybol
+Beyzbol
+Softbol
+Amerikan futbolu
+Hokey
+Masa tenisi
+Badminton
+Kriket
+Hentbol
+Bowling
+Squash
+Bilardo
+Jianzi
+Plaj futbolu
+Plaj voleybolu
+Ayak voleybolu
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Yakartop
+Snowboard
+Kayak
+Kros kayağı
+Buz pateni
+Kapalı alanda buz pateni
+Curling
+Diğer kış sporları
+Kar motosikleti
+Buz hokeyi
+Yarış kızağı
+Kızak
+Okçuluk
+Dart
+At binme
+Halat çekme yarışı
+Hulahop
+Uçurtma uçurma
+Balık tutma
+Frizbi
+Jianzi
+Salıncak
+Somatosensoriyel oyun
+Langırt
+Disk iteleme oyunu
+Elektronik spor
+Satranç
+Dama
+Go
+Briç
+Kutu oyunu
+Atlı
+Atletizm
+Araba yarışı
+Konum bulunuyor…
+Konum başarıyla bulundu
+Aralık
+Isınma
+Antrenman
+%d:%02d
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d
+Dinlenme
+Setler
+Soğuma
+Isınma
+Soğuma
+Antrenman
+Süre
+Mesafe
+Uzunluk
+Kulaçlar
+Atlama
+Uyarılar
+Mesafe
+%d km
+%d mi
+Tempo
+%d'%02d"
+Hız
+%d km/sa.
+Hedef nabız dilimi
+Hafif
+Yoğun
+Aerobik
+Anaerobik
+VO₂ maks.
+Yüksek nabız
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hidrasyon
+Tümünü kapat
+Kapalı
+Mesafe
+Hatırlatıcı
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Hız
+Hatırlatıcı
+%d km/sa.
+Tempo
+Hatırlatıcı
+%d'%02d"
+Hedef nabız dilimi
+Nabız bölgesi
+Hafif
+Yoğun
+Aerobik
+Anaerobik
+VO₂ maks.
+Hedef nabız dilimi
+Hafif
+Yoğun
+Aerobik
+Anaerobik
+VO₂ maks.
+%d–%d BPM
+Havuzda yüzme
+Yelken
+Kürek sörfü
+Su topu
+Diğer su sporları
+Su kayağı
+Kano sporu
+Rafting
+Kürek çekme
+Sürat teknesi
+Paletli yüzme
+Atlama
+Artistik yüzme
+Şnorkelle yüzme
+Uçurtma sörfü
+Akarsu
+Dragon teknesi
+Açık hava koşusu
+Yürüyüş
+Doğa yürüyüşü
+Açık hava bisikleti
+Doğa yürüyüşü
+Patika koşusu
+Kaya tırmanışı
+Kaykay
+Tekerlekli paten
+Parkur
+ATV
+Yamaç paraşütü
+BMX
+Yürüyüş
+Serbest stil
+Koşu bandı
+İp atlama
+HIIT
+Yoga
+Kapalı alan bisikleti
+Eliptik
+Kürek çekme
+Merdiven çıkma makinesi
+Stepper
+Spinning
+Core egzersizi
+Esneklik
+Pilates
+Jimnastik
+Germe
+Güç
+Çapraz antrenman
+Merdiven çıkma
+Aerobik
+Fiziksel egzersiz
+Duvar topu
+Dambıl
+Halter
+Ağırlık kaldırma
+Deadlift
+Burpee
+Mekik
+İşlevsel eğitim
+Üst vücut
+Alt vücut
+Karın kasları
+Sırt
+Air walker
+Barfiks
+Paralel bar
+Stepper
+Kitle jimnastiği
+Kardiyo Kombat
+Halat çekme
+Aerobik kombo
+Kapalı alanda yürüyüş
+Kapalı alanda fitness
+Kare dans
+Oryantal
+Bale
+Sokak dansı
+Zumba
+Halk oyunu
+Caz dansı
+Latin dansı
+Hip hop
+Direk dansı
+Breakdance
+Balo dansı
+Modern dans
+Dans
+Boks
+Güreş
+Dövüş sanatları
+Tai chi
+Muay Thai
+Judo
+Tekvando
+Karate
+Kick Boks
+Kendo
+Eskrim
+Jujitsu
+Tenis
+Basketbol
+Golf
+Futbol
+Voleybol
+Beyzbol
+Softbol
+Amerikan futbolu
+Hokey
+Masa tenisi
+Badminton
+Kriket
+Hentbol
+Bowling
+Squash
+Bilardo
+Jianzi
+Plaj futbolu
+Plaj voleybolu
+Ayak voleybolu
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Yakartop
+Snowboard
+Kayak
+Kros kayağı
+Buz pateni
+Kapalı alanda buz pateni
+Curling
+Diğer kış sporları
+Kar motosikleti
+Buz hokeyi
+Yarış kızağı
+Kızak
+Dart
+At binme
+Halat çekme yarışı
+Hulahop
+Uçurtma uçurma
+Balık tutma
+Frizbi
+Jianzi
+Salıncak
+Somatosensoriyel oyun
+Langırt
+Disk iteleme oyunu
+Elektronik spor
+Satranç
+Dama
+Go
+Briç
+Kutu oyunu
+Atlı
+Okçuluk
+Atletizm
+Araba yarışı
+Daha fazla
+Daha fazla
+Su sporları
+Açık alan faaliyetleri
+Antrenman
+Kış sporları
+Eğlence sporları
+Kart/kutu oyunları
+Diğer
+%d spor
+%d spor
+%d spor
+Dans
+%d spor
+Dövüş sporları
+%d spor
+Top sporları
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+%d spor
+Görünüşe göre egzersiz yapıyorsunuz
+Açık hava koşusu
+Koşu bandı
+Yürüyüş
+Bisiklet
+Eliptik
+Kürek çekme
+İp atlama
+Yok say
+Duraklat
+Bitir
+Sonraki set
+Duraklat
+Bitir
+Geçiş
+Duraklatıldı
+%d/%d
+Isınma
+%02d:%02d:%02d
+ 
+Bitti
+Antrenman
+%d
+%d
+Bu setteki kulaç
+Kalan
+Hedef
+Kalan
+Hedef
+Kalan
+Bu setteki atlama
+Kalan
+Atla
+Dinlenme
+%02d:%02d:%02d
+Dinlenme süresi
+%02d:%02d:%02d
+Kalan
+Atla
+Soğuma
+%02d:%02d:%02d
+ 
+Bitir
+Aferin
+Hızlan
+%d
+Hedef BPM
+%d–%d
+Devam edin
+Yavaşla
+Hızlan
+%d
+Hedef:
+%d km/sa.
+Devam edin
+Yavaşla
+Hızlan
+%d'%d"
+Hedef
+%d'%d"
+Devam edin
+Yavaşla
+-- 
+km/sa.
+%d
+%
+Hedef tamamlama
+%d
+km
+km
+km
+km
+km
+km
+km
+Hedef: %d km
+Yeni rekor!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Rota bilgilerini kaydedebilmek için bilekliğinizi telefonunuza bağlayın.
+Konum bilgisine ulaşılamıyor. Şu anda egzersiz rotası kaydedilemiyor.
+Uydu sinyali zayıf. Açık bir alana gidin.
+Doğru konum ve rota bilgilerini sürdürebilmek için bilekliğinizi telefonunuza bağlayın.
+Bağlantı geri yüklendi
+Konum geri yüklendi
+Depolama alanı dolu. Bu egzersiz sona erecek ve daha fazla veri kaydedilmeyecek. Alan açmak için telefonunuza bağlanın.
+Koşu
+Başlangıç
+Temel koşu/yürüyüş
+Gelişmiş koşu/yürüyüş
+Yetersiz depolama. Telefonunuzu bağlayın ve üzerine yazmaktan kaçınmak için yer açın.
+Temel koşu
+Yağ yakma
+Yağ yakma koşusu (Temel)
+Yağ yakma koşusu (Gelişmiş)
+MIIT
+Dayanıklılık
+Dayanıklılık koşusu (Temel)
+Dayanıklılık koşusu (Gelişmiş)
+Aralık
+Aralıklı koşu (Temel)
+Aralıklı koşu (Gelişmiş)
+%02d:%02d
+Temel koşu/yürüyüş
+Gelişmiş koşu/yürüyüş
+Temel koşu
+Yağ yakma koşusu (Temel)
+Yağ yakma koşusu (Gelişmiş)
+MIIT
+Dayanıklılık koşusu (Temel)
+Dayanıklılık koşusu (Gelişmiş)
+Aralıklı koşu (Temel)
+Aralıklı koşu (Gelişmiş)
+Konum başarıyla bulundu
+%02d:%02d
+Temel koşu/yürüyüş
+Gelişmiş koşu/yürüyüş
+Temel koşu
+Yağ yakma koşusu (Temel)
+Yağ yakma koşusu (Gelişmiş)
+MIIT
+Dayanıklılık koşusu (Temel)
+Dayanıklılık koşusu (Gelişmiş)
+Aralıklı koşu (Temel)
+Aralıklı koşu (Gelişmiş)
+Tanıtım
+Aralıklarla yürüyüş ve koşuyu birleştirir.
+Aralıklarla yürüyüş ve koşuyu birleştirir.
+Düşük-orta yoğunluklu koşu.
+Yağ yakmak ve kilo kaybı için daha kısa koşu.
+Yağ yakmak için düşük-orta yoğunluklu, uzun süreli koşu.
+Orta-yüksek yoğunluklu aralıklı antrenman.
+Dayanıklılık için orta uzunlukta koşu.
+Dayanıklılık için daha uzun koşu.
+Kalp ve akciğer sağlığı için daha kısa aralıklı antrenman.
+Kalp ve akciğer sağlığı için daha uzun aralıklı antrenman.
+Egzersiz planı
+Hızlı yürüyüş
+Tempolu koşu
+Koşu
+Hızlı koşu
+%02d:%02d
+%02d:%02d
+%d/%d
+Hızlı yürüyüş
+Tempolu koşu
+Koşu
+Sürat koşusu
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d-%d
+Hedef BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kal
+%d'%d"
+Tempo
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ maks.
+Anaerobik
+Aerobik
+Yoğun
+Hafif
+%d
+SPM
+%d
+Adım
+%d'%d"
+Ort. tempo
+Daha fazla bilgi edin
+Adım
+Kalori
+Hareket
+Ayakta durma
+'Adım'' bir günlük adım sayısını gösterir. Aktif bir kişi bir günde 8000 ila 10,000 adım arasında yürür.
+'Kalori'', hareket ederken ve egzersiz yaparken yakılan aktif kalori sayısını gösterir.
+'Hareket'', orta ve şiddetli etkinlikte geçirdiğiniz zamanı gösterir. Orta derecede haftada 5 kez, günde en az 30 dakika etkinlik veya haftada bir kez 75 dakika yoğun etkinlik hedefleyin. Temponuz 100 SPM'yi aştığında veya nabzınız, maks. nabzınızın %65'ini aştığında ''Hareket'' ilerlemenizi göreceksiniz.
+'Ayakta durma'', ayağa kalktığınız ve hareket ettiğiniz saatleri gösterir. Günün 12 farklı saatinde ayağa kalkmayı ve hareket etmeyi deneyin.
+%d adım
+Adım hedefine ulaşıldı
+Adım hedefine ulaşıldı. İyi iş!
+Bugünkü adım hedefine ulaştınız!
+%d adım
+%d adım
+%d adım
+%d adım
+%d adım
+%d adım
+%d kal
+Kalori hedefine ulaşıldı
+Kalori hedefine ulaşıldı. Devam edin!
+Bugünkü kalori hedefinize ulaştınız. Harika iş!
+%d kal
+%d kal
+%d kal
+%d kal
+%d kal
+%d kal
+%d dk.
+Hareket hedefine ulaşıldı
+Hareket hedefine ulaşıldı. Harika iş!
+Aferin, bugünkü hareket hedefine ulaştınız!
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d sa.
+Ayakta durma hedefine ulaşıldı
+Ayakta durma hedefine ulaşıldı. İyi iş!
+İyi iş! Bugünkü ayakta durma hedefine ulaştınız!
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+Hedeflere ulaşıldı!
+Tüm hedeflere ulaşıldı
+Bugün için tüm hedeflere ulaştınız! Tebrikler!
+Tüm hedeflere ulaşıldı! Tebrikler!
+Hedeflere ulaşıldı!
+Ayarlar
+Hedef
+Aralık
+Uyarılar
+Otomatik duraklat
+AI pacer
+Havuz uzunluğu
+Sıfırla
+Hedef
+Açık hedef
+Mesafe
+Süre
+Kalori
+Uzunluk
+Kulaçlar
+Atlama
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d kal
+%d kal
+%d kal
+%d kal
+%d kal
+%d kal
+%d kal
+Uzunluk: %d
+Uzunluk: %d
+Uzunluk: %d
+Uzunluk: %d
+Uzunluk: %d
+Uzunluk: %d
+Uzunluk: %d
+%d kulaç
+%d kulaç
+%d kulaç
+%d kulaç
+%d kulaç
+%d kulaç
+%d kulaç
+%d atlama
+%d atlama
+%d atlama
+%d atlama
+%d atlama
+%d atlama
+%d atlama
+Mesafe
+km
+Süre
+HH:mm
+Kalori
+kal
+Uzunluk
+Kulaçlar
+Atlama
+Otomatik duraklat
+AI pacer
+Tempo
+%d‘%2d’’
+Tempo
+   
+Havuz uzunluğu
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Özel
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Havuz uzunluğu
+m
+Tüm egzersiz ayarları sıfırlansın mı?
+Yüksek nabız
+Uyarı
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Uyarı
+Hidrasyon
+Hatırlatıcı
+Mesafe, %d km
+Mesafe, %d km
+Mesafe, %d km
+Mesafe, %d km
+Mesafe, %d km
+Mesafe, %d km
+Mesafe, %d km
+Mesafe, %d mi
+Mesafe, %d mi
+Mesafe, %d mi
+Mesafe, %d mi
+Mesafe, %d mi
+Mesafe, %d mi
+Mesafe, %d mi
+Süre, %d dk.
+Süre, %d dk.
+Süre, %d dk.
+Süre, %d dk.
+Süre, %d dk.
+Süre, %d dk.
+Süre, %d dk.
+Antrenman
+Süre
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+Mesafe
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Süre
+HH/mm
+Mesafe
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Mesafe
+km
+Hız
+km/sa.
+Tempo
+   
+Hareket edin
+Ayağa kalk
+Anladım
+Bugün yok say
+Bugünkü ayağa kalkma hatırlatıcıları kapatılsın mı?
+Ayağa kalk
+Tüm egzersiz ayarları sıfırlansın mı?
+Devam et!
+Dün hedefinize ulaştınız. Bugün devam edin!
+Dün hedefinize ulaştınız. Bugün devam edin!
+Dün 3 hedeften 2'sine ulaştınız. Yapabilirsiniz!
+Dün 3 hedeften 2'sine ulaştınız. Yapabilirsiniz!
+Dün hedeflerinize ulaşmadınız. Bugünü iyi değerlendirin!
+Dün hedeflerinize ulaşmadınız. Bugünü iyi değerlendirin!
+Hedefleriniz elinizin altında - bugün yeni bir gün!
+Hedefleriniz elinizin altında - bugün yeni bir gün!
+Anladım
+Şimdi
+%d dk. önce
+%d dk. önce
+Hareket etme zamanı
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+Güncellendi: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+adım
+adım
+adım
+adım
+adım
+adım
+adım
+%d
+saat
+saat
+saat
+saat
+saat
+saat
+saat
+%d
+ dk.
+%02d:%02d
+%02d:%02d
+Ayarlar
+Daha fazla bilgi edin
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Etkinlik
+Durum
+Stres
+Uyku
+Hava durumu
+Müzik
+Alarm
+Etkinlikler
+Takvim
+Kartlar
+Daha fazla
+El feneri
+Döngüler
+Nefes
+Kronometre
+Zamanlayıcı
+Telefonu bul
+Dünya saati
+Uyarılar
+Odak
+Mi AI
+Tümünü temizle
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Dün %02d:%02d
+%02d/%02d %02d:%02d
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Dün %02d:%02d
+%02d/%02d %02d:%02d
+Temizle
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Dün %02d:%02d
+%02d/%02d %02d:%02d
+Yok say
+Yok say
+Yanıtlamak için yukarı kaydırın
+Gönderiliyor
+Gönderildi
+Gönderilemedi
+Toplantıdayım. Birazdan cevap vereceğim.
+Şimdi konuşamam. Naber?
+Şimdi konuşamam. Daha sonra ara.
+Bu bileklik ekranı kullanılsın mı?
+Bu bileklik ekranı silinsin mi？
+Senkronize ediliyor
+Senkronize edilemedi
+Rahatsız Etme Modu
+Kapalı
+Tüm gün
+Özel
+Uygulamada mesaj yanıtlarına izin verin
+%02d:%02d-%02d:%02d
+Telefonla senkronize et
+Açık
+Başlangıç zamanı
+ÖÖ
+%02d
+%02d:%02d
+Başlangıç zamanı
+ÖS
+Telefonla senkronize et
+Açıldığında, bilekliğin Rahatsız Etme Modu durumu telefonun durumunu takip edecektir
+Rahatsız Etme Modu açık
+Titreşim
+Varsayılan
+Güçlü
+Kapalı
+Uygulama bildirimleri
+Bildirim geldiğinde ekranı uyandır
+Açık
+Yalnızca takıldığında bildir
+Açık
+Yalnızca telefon kilitlendiğinde bildir
+Açık
+Bildirim geldiğinde ekranı uyandır
+Bildirim alındığında ekranı uyandır
+Yalnızca takıldığında bildir
+Bileklik, bilekten çıkarıldığında bildirimleri kapat
+Yalnızca telefon kilitlendiğinde bildir
+Daha fazla bilgi edin
+Mi Fitness >Uygulama bildirimleri menüsünde bildirimlerin açık olduğundan emin olun
+Ayarlar
+Bileklik ekranları
+Ekran
+Rahatsız Etme Modu ayarları
+Titreşim
+Uygulama bildirimleri
+Otomatik algıla
+PIN
+Pil
+Tercihler
+Sistem
+Bileklik hakkında
+PIN
+PIN ayarla
+6 haneli PIN girin
+%d
+%d
+PIN kodları eşleşmiyor
+PIN kodu ayarlandı
+PIN
+PIN kodunu devre dışı bırak
+PIN kodunu değiştir
+Yeni PIN
+%d
+PIN kapatıldı
+Yanlış
+%d sn. içinde tekrar deneyin
+%d sn. içinde tekrar deneyin
+%d sn. içinde tekrar deneyin
+%d sn. içinde tekrar deneyin
+%d sn. içinde tekrar deneyin
+%d sn. içinde tekrar deneyin
+%d sn. içinde tekrar deneyin
+Yardım
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+%d dk. içinde tekrar deneyin
+ 
+PIN'i sıfırlamak için uygulamada Cihaz > PIN sayfasına gidin.
+ 
+Banka kartları eklendiğinde PIN kodu kapatılamaz.
+Otomatik algıla
+Otomatik algıla
+Rahatsız Etme Modu açık olduğunda egzersiz hatırlatıcıları almayacaksınız.
+Tercihler
+Uyandırma yöntemi
+Ekrana basılı tut
+Ekrana dokun
+Yukarı kaydır
+Ekrana basılı tut
+Açıldığında, bileklik ekranını düzenlemek için Düzenle seçeneğine basılı tutun
+Pil
+%d
+%
+Kalan pil
+≈%d gün %d sa.
+Kalan pil
+≈%d gün %d sa.
+Kalan pil
+≈%d gün %d sa.
+Kalan pil
+≈%d gün %d sa.
+Pil tasarrufu
+Optimizasyon
+Kullanım
+Kalan pil ömrü
+yaklaşık %d gün %d sa.
+Etkinleştirildiğinde, yalnızca saat, pedometre ve NFC işlevleri kalır. Devre dışı bırakmak için ekrana basılı tutun veya şarj edin.
+Pil tasarrufu
+%d
+%02d:%02d
+ÖÖ
+ÖS
+%d
+Pil tasarrufundan çıkılıyor
+Daha fazla bilgi edin
+Pil ömrü
+Tahmini pil ömrü yalnızca referans için sağlanmaktadır. Gerçek pil ömrü, cihazınızın ekran açıkken, titreyerek veya egzersizleri takip ederek geçirdiği süre gibi faktörlere bağlıdır.
+Optimizasyon
+Optimizasyon, önemli miktarda pil ömrü kullanan özellikleri tanımlar.
+Optimizasyon
+İyi
+Optimizasyona gerek yok
+Optimizasyon
+Kötü
+Bu özellikler pil ömrünü etkileyecektir
+Her zaman açık ekran
+Uyandırmak için kaldır
+Nefes puanı
+Tüm gün izleme
+Düzensiz BPM
+Her zaman açık ekran
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d saat uzatır.
+Uyandırma yöntemi
+Bir egzersizi başlatmak için hatırlatıcı alın.
+Desteklenen egzersiz türleri yürüyüş, koşu, bisiklet, ip atlama, eliptik ve kürek çekmedir.
+Ekran
+Parlaklık
+Otomatik kilitleme
+Uyandırmak için kaldır
+Ekran açık
+Her zaman açık ekran
+Uyutmak için kapat
+Otomatik
+%d saniye
+%d saniye
+%d saniye
+%d saniye
+%d saniye
+%d saniye
+%d saniye
+Açık
+Kapalı
+Açık
+Kapalı
+Açık
+Kapalı
+Zamanlanmış
+Zamanlanmış
+Otomatik
+Özel
+Parlaklık
+Otomatik
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+%d sn.
+Otomatik kilitleme
+ 
+Ekranı uzun süre açık tutmak pil ömrünü azaltacaktır. Devam edilsin mi?
+Uyandırmak için kaldır
+Kapalı
+Zamanlanmış
+%02d:%02d-%02d:%02d
+ 
+'Her zaman açık ekran'' açık. ''Uyandırmak için kaldır'' özelliğini açmak, pil ömrünü azaltacaktır. Yine de açılsın mı?
+Ekran açık
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Bu, her seferinde ekranın %d dk. açık kalmasına neden olacaktır ve pil ömrünü etkileyecektir. Yine de devam edilsin mi?
+Her zaman açık ekran
+Kapalı
+Akıllı
+Zamanlanmış
+%02d:%02d-%02d:%02d
+   
+'Her zaman açık ekran'' özelliğini açmak, pil ömrünü yarıya indirebilir. ''Uyandırmak için kaldır'' kapatılacaktır. Devam edilsin mi?
+Daha fazla bilgi edin
+Her zaman açık ekran
+Ekran kilitli olsa dahi saat görüntülenecektir.
+Akıllı
+Uyuduğunuzda veya bilekliğinizi çıkardığınızda ''Her zaman açık'' özelliği kapatılacaktır.
+Uyutmak için kapat
+Başlangıç
+ÖÖ
+ÖS
+%02d:%02d
+%02d:%02d
+Komplikasyon
+Fitness
+Temel
+Mi Smart Hub
+Telefonum
+Hoparlör
+TV
+Kulaklık
+Gürültü engelleme
+Şeffaflık
+Kapalı
+Cihaz
+Bileklik ekranı kullanılsın mı?
+Kulaklık
+Bileklik ekranı silinsin mi?
+Mod
+Değişiklikleri kaydetmek için bileklik ekranında sağa kaydırın.
+Gürültü engelleme
+Şeffaflık
+Kapalı
+ 
+ 
+Yalnızca bir sn…
+Hava durumu uyarıları
+预警！
+Anladım
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Bluetooth ile bağlanın ve uygulamada ''Hava durumu güncellemeleri'' özelliğini açın.
+Bluetooth'a bağlanın ve seçili konumlarınız için hava durumu bilgilerini almak için Hava durumu bildirimlerini açın.
+Bluetooth'a bağlanın ve tekrar deneyin
+%02d:%02d
+Hava durumu
+Rahatsız Etme Modu
+Rahatsız Etme Modu açık
+Rahatsız Etme Modu kapalı
+Telefonu bul
+Ayarlar
+Veri yok
+Yelken
+Kürek sörfü
+Su topu
+Diğer su sporları
+Su kayağı
+Kano sporu
+Rafting
+Kürek çekme
+Sürat teknesi
+Paletli yüzme
+Atlama
+Artistik yüzme
+Şnorkelle yüzme
+Uçurtma sörfü
+Akarsu
+Dragon teknesi
+Kaya tırmanışı
+Kaykay
+Tekerlekli paten
+Parkur
+ATV
+Yamaç paraşütü
+BMX
+Kapalı alan bisikleti
+Merdiven çıkma makinesi
+Stepper
+Spinning
+Core egzersizi
+Esneklik
+Pilates
+Jimnastik
+Germe
+Güç
+Çapraz antrenman
+Merdiven çıkma
+Aerobik
+Fiziksel egzersiz
+Squash
+Dambıl
+Halter
+Ağırlık kaldırma
+Deadlift
+Burpee
+Mekik
+İşlevsel eğitim
+Üst vücut
+Alt vücut
+Karın kasları
+Sırt
+Air walker
+Barfiks
+Paralel bar
+Stepper
+Kitle jimnastiği
+Kardiyo Kombat
+Halat çekme
+Aerobik kombo
+Kapalı alanda fitness
+Kare dans
+Oryantal
+Bale
+Sokak dansı
+Zumba
+Halk oyunu
+Caz dansı
+Latin dansı
+Hip hop
+Direk dansı
+Breakdance
+Balo dansı
+Modern dans
+Dans
+Boks
+Güreş
+Dövüş sanatları
+Tai chi
+Muay Thai
+Judo
+Tekvando
+Karate
+Kick Boks
+Kendo
+Eskrim
+Jujitsu
+Futbol
+Voleybol
+Beyzbol
+Softbol
+Amerikan futbolu
+Hokey
+Masa tenisi
+Badminton
+Kriket
+Hentbol
+Bowling
+Duvar topu
+Bilardo
+Jianzi
+Plaj futbolu
+Plaj voleybolu
+Ayak voleybolu
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Yakartop
+Buz pateni
+Kapalı alanda buz pateni
+Curling
+Diğer kış sporları
+Kar motosikleti
+Buz hokeyi
+Yarış kızağı
+Kızak
+Okçuluk
+Dart
+At binme
+Halat çekme yarışı
+Hulahop
+Uçurtma uçurma
+Balık tutma
+Frizbi
+Jianzi
+Salıncak
+Somatosensoriyel oyun
+Langırt
+Disk iteleme oyunu
+Elektronik spor
+Satranç
+Dama
+Go
+Briç
+Kutu oyunu
+Atlı
+Atletizm
+Araba yarışı
+Yelken
+Kürek sörfü
+Su topu
+Diğer su sporları
+Su kayağı
+Kano sporu
+Rafting
+Kürek çekme
+Sürat teknesi
+Paletli yüzme
+Atlama
+Artistik yüzme
+Şnorkelle yüzme
+Uçurtma sörfü
+Akarsu
+Dragon teknesi
+Kaya tırmanışı
+Kaykay
+Tekerlekli paten
+Parkur
+ATV
+Yamaç paraşütü
+BMX
+Kapalı alan bisikleti
+Merdiven çıkma makinesi
+Stepper
+Spinning
+Core egzersizi
+Esneklik
+Pilates
+Jimnastik
+Germe
+Güç
+Çapraz antrenman
+Merdiven çıkma
+Aerobik
+Fiziksel egzersiz
+Duvar topu
+Dambıl
+Halter
+Ağırlık kaldırma
+Deadlift
+Burpee
+Mekik
+İşlevsel eğitim
+Üst vücut
+Alt vücut
+Karın kasları
+Sırt
+Air walker
+Barfiks
+Paralel bar
+Stepper
+Kitle jimnastiği
+Kardiyo Kombat
+Halat çekme
+Aerobik kombo
+Kapalı alanda fitness
+Kare dans
+Oryantal
+Bale
+Sokak dansı
+Zumba
+Halk oyunu
+Caz dansı
+Latin dansı
+Hip hop
+Direk dansı
+Breakdance
+Balo dansı
+Modern dans
+Dans
+Boks
+Güreş
+Dövüş sanatları
+Tai chi
+Muay Thai
+Judo
+Tekvando
+Karate
+Kick Boks
+Kendo
+Eskrim
+Jujitsu
+Futbol
+Voleybol
+Beyzbol
+Softbol
+Amerikan futbolu
+Hokey
+Masa tenisi
+Badminton
+Kriket
+Hentbol
+Bowling
+Squash
+Bilardo
+Jianzi
+Plaj futbolu
+Plaj voleybolu
+Ayak voleybolu
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Yakartop
+Buz pateni
+Kapalı alanda buz pateni
+Curling
+Diğer kış sporları
+Kar motosikleti
+Buz hokeyi
+Yarış kızağı
+Kızak
+Okçuluk
+Dart
+At binme
+Halat çekme yarışı
+Hulahop
+Uçurtma uçurma
+Balık tutma
+Frizbi
+Jianzi
+Salıncak
+Somatosensoriyel oyun
+Langırt
+Disk iteleme oyunu
+Elektronik spor
+Satranç
+Dama
+Go
+Briç
+Kutu oyunu
+Atlı
+Atletizm
+Araba yarışı
+Yalnızca bir sn…
+%02d:%02d
+Duraklat
+Bitir
+Ekranı kilitle
+Yansıtma
+Yansıtma
+Aranıyor
+Xiaomi TV
+Bağlanılıyor
+Cihaz bulunamadı
+TV adı
+Bağlandı
+Bağlantıyı kes
+Bağlanılamadı
+Tekrar dene
+%02d:%02d
+Egzersizleri senkronize edin
+Bilekliğinizi gösterildiği gibi takın ve uygulamada egzersizi başlatın
+Geri
+%02d:%02d
+Ayarlar
+Koşu modları
+Ekran
+Rahatsız Etme Modu
+Titreşim
+%02d:%02d
+Koşu modu
+Halhal modu
+Kolye modu
+Halhal modu
+Halhal modu ile koşu formunuzla ilgili verileri alabilirsiniz. Uygulamada bir egzersiz (koşu veya bisiklet) başlatın.
+Uygulama bildirimleri, nabız ölçümü kapatılacaktır. Bilekliğiniz kazayla dokunmalara yanıt vermeyecektir.
+Aç
+Geri
+Uygulamada egzersizi başlatın
+Devam eden egzersiz
+Cihaz bağlantısı kesildi
+Halhal modundan çıkmak için yukarı kaydırın
+Çıkmak için yukarı kaydırın
+Halhal modundan çıkılsın mı?
+Çıkış yaparsanız koşu formu verileri kaydedilmeyecek.
+Çık
+İptal
+Kolye modundan çıkılsın mı?
+Çık
+İptal
+Kolye modu
+Kolye modu ile ekran açık kalacak ama kazayla dokunmalara yanıt vermeyecek.
+Uygulama bildirimleri ve nabız ölçümü kapatılacak.
+Aç
+Geri
+Uygulamada döngü ayrıntılarını kaydedin
+%0.1f
+saat
+saat
+saat
+saat
+saat
+saat
+saat
+Uyku
+Uyku verileri oluşturmak için cihazı yatarken de takın
+%u
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+Hedef: %u sa.
+Hedef: %u sa.
+Hedef: %u sa.
+Hedef: %u sa.
+Hedef: %u sa.
+Hedef: %u sa.
+Hedef: %u sa.
+Nabız
+Nabzınızı kaydedin
+Başlat
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Nefes
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+Başlat
+Nefes
+SpO₂
+SpO₂'nizi kaydedin
+u%
+%
+Stres
+Stresinizi kaydedin
+u%
+Stres
+%02d
+'
+"
+.
+:
+Kaydediliyor…
+Kalibrasyon
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Egzersiz süresi kaydetmek için çok kısa. Bitirilsin mi?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Düşük pil. Şarj edin ve tekrar deneyin.
+Uygulamayı kullanarak bilekliğinizi güncelleyin
+Güncellenemedi
+Güncelleniyor
+Güncellendi. Yeniden başlatılıyor.
+Güncelleme hazırlanıyor
+Güncelleme alınıyor
+Güncellenemedi. Uygulamada tekrar deneyin.
+Güncelleme alındı. Yeniden başlatılıyor.
+Bileklik gece ilerleyen saatlerde veya şarj olurken otomatik olarak güncellenecektir
+En son sürümü kullanıyorsunuz.
+Güncelleme hatırlatıcısı
+Sil
+
+%d
+
+%%
+Bilekliği eşleştirmek için uygulamayı indirin
+%d
+Telefonunuzda onaylayın
+Telefonunuzda onaylayın
+Eşleştiriliyor
+Eşleştirilemedi. Tekrar deneyin.
+Eşleştirildi
+-
+-
+-
+-
+Dinlenme
+dk:sn
+Setler
+Belirli mesafe aralıklarında hatırlatıcı al
+Uzunluk: %d
+%d kulaç
+%d atlama
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+Anladım
+%d
+Hedef
+%02d:%02d:%02d
+Tamamlandı
+Hedef
+%d
+kal
+Tamamlandı
+Hedef
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+Tamamlandı
+Hedef
+atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+Tamamlandı
+Hedef
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+Tamamlandı
+Daha fazla kaydı uygulamada görüntüle
+Bileklik hakkında
+İsim
+Xiaomi Smart Band 8
+Model
+MAC adresi
+Düzenleyici
+Düzenleyici
+CMIIT ID
+Model
+Giriş
+Sistem
+Yeniden başlat
+Kapat
+Sıfırla
+Şimdi yeniden başlatılsın mı?
+Şimdi kapatılsın mı?
+%02d:%02d
+Fabrika ayarlarına sıfırladıktan sonra bilekliğinizi tekrar eşleştirmeniz gerekecek. Devam edilsin mi?
+Takılı değil
+Ölçülemedi
+Sonuç
+Daha fazla bilgi edin
+SpO₂
+Sonuç
+Takılı değil
+Ölçülemedi
+%02d:%02d
+İyi uykular
+Rahatsız Etme Modu açık. Uyandırmak için kaldır kapalı.
+Tekrar gösterme
+%02d:%02d
+Uyanma zamanı
+Yok say
+Ertele
+%02d:%02d
+Uyku
+%d sa.%d dk.
+%d sa.%d dk.
+%d sa.%d dk.
+%d sa.%d dk.
+%d°/%d°
+Anladım
+%02d:%02d
+Uyku
+Anladım
+%02d:%02d
+%d°/%d°
+Anladım
+Açık hava egzersizi
+Bilekliğinizi gösterildiği gibi takın ve uygulamada egzersizi başlatın
+Geri
+Ayarlar
+Koşu modları
+Ekran
+Rahatsız Etme Modu
+Titreşim
+Koşu modu
+Halhal modu
+Uyku modu %02d:%02d saatindekapalı
+Kolye modu
+Halhal modu
+Halhal modu ile koşu formunuzla ilgili verileri alabilirsiniz. Uygulamada bir egzersiz (koşu veya bisiklet) başlatın.
+Uygulama bildirimleri, nabız ölçümü kapatılacaktır. Bilekliğiniz kazayla dokunmalara yanıt vermeyecektir.
+Aç
+Geri
+Uygulamada egzersizi başlatın
+Devam eden egzersiz
+Cihaz bağlantısı kesildi
+Halhal modundan çıkılsın mı?
+Çıkış yaparsanız koşu formu verileri kaydedilmeyecek.
+Çık
+İptal
+Halhal modu
+Çıkmak için yukarı kaydırın
+Kolye modu
+Çıkmak için yukarı kaydırın
+Kolye modu
+Kolye modu ile ekran açık kalacak ama kazayla dokunmalara yanıt vermeyecek.
+Uygulama bildirimleri ve nabız ölçümü kapatılacak.
+Aç
+Geri
+Kolye modundan çıkılsın mı?
+Çık
+İptal
+Bu özelliği açmak pil kullanımını arttıracaktır. Yine de devam edilsin mi?
+Ses açık
+Yalnızca bir sn…
+Ses kapalı
+Ses kapalı
+Yalnızca bir sn.
+Ses açık
+Bağlantı kesildi
+Kapat
+Aç
+Bluetooth'a bağlanın ve tekrar deneyin
+Bilekliğin telefonun kilidini açmasına izin ver?
+Bitti!
+Yetkilendirilemedi
+ 
+%d
+Zamanlayıcı
+Zamanlayıcı
+%d
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+Saati ayarla
+%d
+%02d
+Dk. ayarla
+%02d:%02d
+%02d:%02d:%02d
+Zaman doldu
+%02d:%02d önce
+%02d:%02d:%02d önce
+AQI %d %s
+Eşleştirilemedi
+Cihazı tekrar ekleyin
+Bileklik hakkında
+Düzenleyici
+Sıfırla
+Yeniden başlat
+%02d:%02d
+Bileklik hakkında
+İsim
+Xiaomi Smart Band 8
+Model
+MAC adresi
+%02d:%02d
+Düzenleyici
+CMIIT ID
+Giriş
+Şimdi yeniden başlatılsın mı?
+Şimdi kapatılsın mı?
+Fabrika ayarlarına sıfırladıktan sonra bilekliğinizi tekrar eşleştirmeniz gerekecek. Devam edilsin mi?
+Pil %d seviyesinin altında
+--
+%02d:%02d
+Canlılık
+%d
+Son 7 gün
+7 günlük ilerleme
+%d
+Son 7 gün
+Pzt
+Sal
+Çrş
+Prş
+Cum
+Cmt
+Paz
+Bugün
+%d
+Bugün
+%d
+Hafif
+Orta
+Yoğun
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
++%d
+Ayarlar
+Daha fazla bilgi edin
+Ayarlar
+Devamlı izleme
+Canlılık puanınız nabız ve etkinlik verileri kullanılarak hesaplanır. Daha doğru Canlılık puanı için bilekliğinizin nabzınızı daha sık ölçmesine izin verin.
+Daha fazla bilgi edin
+Canlılık puanınız, egzersizlerinizin sağlığınız üzerindeki etkisini ölçmenin bir yoludur. En iyi sağlık sonuçları için 7 günlük bir periyotta 100 puana ulaşmaya çalışın.
+Canlılık puanları, WHO'nun fiziksel aktivite ve hareketsiz davranışla ilgili kılavuzunun tavsiyelerine dayanmaktadır.
+Yani yetişkinler, maksimum sağlık yararı için haftada 150-300 dakika orta yoğunluklu veya 75-100 dakika yüksek yoğunluklu aerobik aktivite veya ikisinin bir kombinasyonunu yapmalıdır.
+Düşük yoğunluklu aktivite içeren herhangi bir fiziksel aktivite sağlığınız için hareketsiz kalmaktan daha iyidir.
+%d
+Son 7 gün
+%d
+Bugün
+Son 7 gün
+%d
+Daha fazla sonuç görmek için hareket etmeye devam edin!
+Anladım
+Bugün yok say
+Doğru yoldasınız!
+Durdurulamazsınız, devam edin!
+Bugün maksimum miktarda puan kazandınız. Ara verin!
+Ekranı kilitle
+Ekranı uyandırdıktan sonra kilit açmak için yukarı kaydırın.
+%u
+7 günlük dinlenme nabzı
+%02u/%02u
+Model
+Bugün
+Bugün
+Bileklik kordonunu sıkın ve tekrar deneyin
+Telefon ile eşleştirilsin mi?
+Bileklik gece ilerleyen saatlerde veya şarj olurken otomatik olarak güncellenecektir
+En son sürümü kullanıyorsunuz
+Anladım
+Güncellenemedi. Uygulamaya bağlanın ve tekrar deneyin.
+Telefonda aç
+Tamam
+Yanıtla
+Gönderiliyor
+Gönderildi
+Gönderilemedi
+Bağlantı kesildi
+Bluetooth'a bağlanın ve tekrar deneyin
+Egzersiz süresi kaydetmek için çok kısa. Bitirilsin mi?
+Devam et
+Bitir
+Egzersiz kayıtlarını uygulamada görüntüle
+Bitti
+%02d:%02d
+%02d
+Tempo
+kal
+Hız (km/sa.)
+Hız (mph)
+Mevcut mesafe
+Şimdiki zaman
+Mevcut kal
+Mevcut uzunluk
+Mevcut atlama
+Mevcut kulaç
+Hedef
+Hedef
+Hedef
+Hedef
+Hedef
+Hedef
+Hedef tamamlama
+%02d:%02d
+%d.%d
+Ort. hız (km/sa.)
+Ort. hız (mph)
+Sıklık (kez/dk.)
+Mevcut atlama
+Bu set
+Bu setteki atlama
+Toplam
+Aktif kal
+Bu set
+Kalori
+%d.%d
+Ort. hız (km/sa.)
+Ort. hız (mph)
+Yüksek nabız
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Maks. nabız
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Kamera
+Telefonu sessize al
+Canlılık
+Rahatsız Etme Modu %d sa. açık
+Rahatsız Etme Modu %d sa. açık
+Rahatsız Etme Modu %d sa. açık
+Rahatsız Etme Modu %d sa. açık
+Rahatsız Etme Modu %d sa. açık
+Rahatsız Etme Modu %d sa. açık
+Rahatsız Etme Modu %d sa. açık
+Kapalı
+Bağlantı kesildi
+:
+%02d:%02d - sonraki gün %02d:%02d
+Rahatsız Etme Modu kapalı
+Telefonu kullandığınızda, bileklikte telefon bildirimlerini almayacaksınız.
+Kapalı
+Kapalı
+Kapalı
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+İstatistikler
+Nabız
+SpO₂
+Egzersiz
+Şarj cihazını doğru şekilde takın
+-
+Egzersiz
+İstatistikler
+Adım
+Kalori
+Hareket
+Nabız
+SpO₂
+Stres
+Pil
+Tarih
+Hava durumu
+UVI
+HKE
+Nem
+Kartlar
+Alarm
+Kronometre
+Kamera
+Araçlar
+Hava durumu
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+--'--"
+Sürüm No.
+Seri No.
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Su için
+%02d:%02d:%02d
+Devam et
+Uyandırmak için kaldır
+Nefes puanı
+Tüm gün izleme
+Düzensiz BPM
+%d
+Hedef: %d kal
+Hedef: %d kal
+Hedef: %d kal
+Hedef: %d kal
+Hedef: %d kal
+Hedef: %d kal
+Hedef: %d kal
+kal
+kal
+kal
+kal
+kal
+kal
+kal
+Hedef: %d uzunluk
+Hedef: %d uzunluk
+Hedef: %d uzunluk
+Hedef: %d uzunluk
+Hedef: %d uzunluk
+Hedef: %d uzunluk
+Hedef: %d uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+Hedef: %d kulaç
+Hedef: %d kulaç
+Hedef: %d kulaç
+Hedef: %d kulaç
+Hedef: %d kulaç
+Hedef: %d kulaç
+Hedef: %d kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+Hedef: %d atlama
+Hedef: %d atlama
+Hedef: %d atlama
+Hedef: %d atlama
+Hedef: %d atlama
+Hedef: %d atlama
+Hedef: %d atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+%d.%d
+Hedef: %d.%d km
+Hedef: %d.%d km
+Hedef: %d dk.
+Hedef: %d dk.
+Hedef: %d sa. %d dk.
+Hedef: %d sa. %d dk.
+Hedef: %d sa. %d dk.
+Hedef: %d sa. %d dk.
+PIN'i onayla
+PIN kodunu girin
+Yanlış
+Bağlantı kesildi
+%d
+%
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+%d
+adım
+adım
+adım
+adım
+adım
+adım
+adım
+%d
+kal
+kal
+kal
+kal
+kal
+kal
+kal
+%d
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+dk.
+%d
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+Mesafe rekoru
+%d.%d
+%d
+kal
+kal
+kal
+kal
+kal
+kal
+kal
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+uzunluk
+atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+atlama
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+kulaç
+km
+Süre rekoru
+Duraklatıldı
+Egzersiz mesafesi kaydetmek için çok kısa. Bitirilsin mi?
+--'--"
+Koşu
+Şimdi
+Şimdi
+Şimdi
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d dk. önce
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Kurbağalama yüzüş
+Serbest stil
+Sırtüstü yüzme
+Kelebek
+Karışık
+Uyarılar
+Cihaz bulunuyor…
+Durdur
+Bulutlu
+Kapalı
+Sağanak yağmur
+Gök gürültülü sağanak
+Dolu
+Sulu kar
+Hafif yağmur
+Orta yağmurlu
+Şiddetli yağmur
+Yağmur fırtınası
+Sağanak
+Şiddetli sağanak
+Kar sağanağı
+Hafif kar yağışı
+Orta derecede karlı
+Şiddetli kar yağışı
+Kar fırtınası
+Sis
+Dondurucu yağmur
+Kum fırtınası
+Hafif - orta yağmur
+Orta - şiddetli yağmur
+Şiddetli yağmur - yağmur fırtınası
+Yağmur fırtınası - sağanak
+Sağanak - yağmur fırtınası
+Az - orta kar yağışı
+Orta - şiddetli kar yağışı
+Şiddetli kar yağışı - kar fırtınası
+Tozlu
+Rüzgarlı
+Şiddetli kum fırtınası
+Sisli
+Yoğun sis
+Puslu
+Orta derecede pus
+Yoğun pus
+Şiddetli pus
+Şiddetli sis
+Şiddetli sis
+Hiçbiri
+Yağmur
+Kar
+%d sa. açık
+%d sa. açık
+%d sa. açık
+%d sa. açık
+%d sa. açık
+%d sa. açık
+%d sa. açık
+--'--"
+Yalnızca bir sn.
+Oynatılmıyor
+Bağlantı kesildi
+Hafif
+İyileşme
+İyileştirme
+Son derece iyileştirici
+Ötesine geçen
+Başladığınızda ekran kilitlenecek. Yukarı kaydırın, ardından kilit açmak için aşağı kaydırın.
+Veri yok
+Yalnızca bir sn…
+--°
+%d°
+-
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+sa.
+İyileşme
+Güncellendi: %02d:%02d
+Ayakta durma
+Açık
+Bildirim yok
+Kronometre
+Zamanlayıcı
+El feneri
+Temel koşu/yürüyüş
+Gelişmiş koşu/yürüyüş
+Temel koşu
+Yağ yakma koşusu (Temel)
+Yağ yakma koşusu (Gelişmiş)
+MIIT koşusu
+Dayanıklılık koşusu (Temel)
+Dayanıklılık koşusu (Gelişmiş)
+Aralıklı koşu (Temel)
+Aralıklı koşu (Gelişmiş)
+Temel koşu/yürüyüş
+Gelişmiş koşu/yürüyüş
+Temel koşu
+Yağ yakma koşusu (Temel)
+Yağ yakma koşusu (Gelişmiş)
+MIIT koşusu
+Dayanıklılık koşusu (Temel)
+Dayanıklılık koşusu (Gelişmiş)
+Aralıklı koşu (Temel)
+Aralıklı koşu (Gelişmiş)
+Hızlı yürüyüş
+Tempolu koşu
+Koşu
+Sürat koşusu
+%d:%02d
+%d
+Kalan
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Egzersiz
+Süre
+Anlık nabız
+Btimiş kurs. Egzersize devam edilsin mi?
+%d sn. içinde devam et
+%d sn. içinde devam et
+Serbest stil
+Bitti!
+(Başlık yok)
+%02u:%02u ÖÖ–
+%02u:%02u ÖS–
+%02u:%02u ÖÖ
+%02u:%02u ÖS
+%u/%u/%u
+%u/%u
+%02u:%02u
+Bugün
+Yarın
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d sa. içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+%d gün içinde
+Şimdi
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+%d dk. içinde
+Geç kaldı
+--
+Bitti!
+Yetkilendirilemedi
+Bu set uzunluk
+Kalan
+%ld . %ld
+km
+m
+%02d : %02d
+Tüm gün stres izleme
+Gelişmiş uyku izleme
+Tüm gün stres izleme
+Gelişmiş uyku izleme
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+%d dk.
+Ekran açık
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Ekran her seferinde %d dk. açık kalacak. Bu, pil ömrünü etkiler. Yine de açılsın mı?
+Akıllı
+Zamanlanmış
+Hava durumu
+Uyarı
+预警。
+%02d:%02d ÖÖ
+%02d:%02d ÖS
+Kilidi açmak için kaydırın
+Çok yüksek
+AQI %d
+%s
+Ekran açık
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Meksiko
+Winnipeg
+Guatemala
+San Salvador
+Tegusigalpa
+Managua
+Havana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Karakas
+Santiago
+Asunsion
+St. John's
+Bilekliğin telefon kilidini açmasına izin verilsin mi?
+Buenos Aires
+Montevideo
+Brasília
+Praia
+Reykjavik
+Lizbon
+Kazablanka
+Dublin
+Madrid
+Lagos
+Cezayir
+Brüksel
+Cenevre
+Frankfurt
+Oslo
+Kopenhag
+Roma
+Berlin
+Prag
+Zagreb
+Viyana
+Stockholm
+Budapeşte
+Varşova
+Windhoek
+Sofya
+Tallin
+Helsinki
+Bükreş
+Kiev
+Harare
+Kudüs
+Beyrut
+Kaliningrad
+Umman
+Hartum
+Minsk
+İstanbul
+Ankara
+St. Petersburg
+Nairobi
+Addis Ababa
+Bağdat
+Aden
+Riyad
+Antananarivo
+Kuveyt
+Abu Dabi
+Muskat
+Samara
+Kabil
+Karaçi
+Bombay
+Katmandu
+Daka
+Almati
+Novosibirsk
+Phnom Penh
+Hanoi
+Jakarta
+Kuala Lumpur
+Tayvan, Çin
+Tayvan
+Perth
+Irkutsk
+Manila
+Pyongyang
+Tokyo
+Chita
+Darwin
+Vladivostok
+Brisbane
+Adelaide
+Magadan
+Kamçatka
+Suva
+Auckland
+Kiritimati
+Washington, D. C.
+San Francisco
+Burada henüz hiçbir şey yok
+Bugün
+--
+Tamam
+m gerisinde
+m ileride
+Ölçülüyor
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+%d bildirim
+Ses oynatılmıyor
+Amsterdam
+Düşük pil
+%%%d altında pil. Şimdi şarj edin.
+Kısayollar
+Egzersiz süresi kaydetmek için çok kısa.
+Dünya saati
+Hedef: %d m
+Hedef: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Uyku
+İyileşme
+Canlılık
+Weixin Pay
+Alipay
+Dün %02d:%02d ÖÖ
+Dün %02d:%02d ÖS
+%02d/%02d %02d:%02d ÖÖ
+%02d/%02d %02d:%02d ÖS
+Bilekliği yatarken taktığınızda otomatik olarak uykunuz hakkındaki bilgileri kaydedecektir. Cihaz en son 3 kaydı gösterecektir; daha detaylı bilgileri uygulamada görüntüleyebilirsiniz.
+REM uykusunu tanımak gibi daha doğru uyku bilgileri almak için Ayarlar'da Gelişmiş izleme özelliğini açın.
+3 saatten fazla uyuduğunuzda saatiniz ortalama nabzınızı, SpO₂ seviyenizi ve uyku puanınızı gösterecektir. 3 saatten az olan kısa uykular için yalnızca uyuduğunuz ve uyandığınız saat gösterilecektir. 20 dakikanın altındaki kısa uykular kaydedilmeyecektir.
+Kötü uyku kalitesi ve uyku sırasında aşırı hareket, yanlış nabız ve SpO₂ ölçümlerine neden olabilir.
+...
+Ortalama
+Kötü
+%02d:%02d:%02d.%02d
+Kilidi açmak için PIN kodunu girin
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth bağlantısı kesildi. Egzersiz verilerini senkronize etmek için bağlanın.
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+%u gün içinde
+Mükemmel
+Bilinmeyen
+Bilinmeyen
+Parça bilgisi yok
+Başlangıç
+Bitiş
+%.2F
+Bağlantı kesildi
+Bluetooth aracılığıyla bağlanın ve tekrar deneyin
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/sa.
+%d km/sa.
+%d km/sa.
+%d km/sa.
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Daha fazla bilgi edin
+.
+-
+Ürün adı
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Hedef BPM:
+Hedef:
+Bugün etkinlik yok
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Şiddetli
+%u Şiddetli
+%u Şiddetli
+%%%u
+--°
+--
+AQI --
+Hava durumu bilgisi almak için uygulamaya bağlanın
+.
+Nabız
+Set
+Set
+Set
+Set
+Set
+Süre
+Süre
+Süre
+Süre
+Süre
+Adım
+Kulaçlar
+Atlama
+Uzunluk
+Turlar
+Xiaomi Smart Band 8 NFC
+/
+-
+Bileklik ekranınızı şimdi düzenleyebilirsiniz. Düzenlemeyi onaylamak için dokunun.
+Değişiklikleri kaydetmek için bileklik ekranında sağa kaydırın.
+Dil değiştiriliyor
+Pil tasarrufu açıkken yalnızca saat ve adım sayar kullanılabilecek. Kapatmak için ekrana basılı tutun veya şarj edin.
+Cihaz aşırı ısınmış. Kapatılıyor.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d gün %d sa uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d gün %d sa uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d gün %d sa uzatır.
+Bu özelliği kapatmak pil ömrünü yaklaşık %d gün %d sa uzatır.
+Antrenman yükü
+İyileşme süresi (sa.)
+Canlılık
++%u
+Araçları düzenlemek için uygulamada Cihazlar > Araçlar menüsüne gidin.
+Alarm
+Uygulamada Rahatsız Etme Modu izinlerini verin
+Tamam
+%ddk. önce güncellendi
+%ddk. önce güncellendi
+%d°/%d°
+Verilerin süresi doldu
+Güncellendi: %02d:%02d
+Dün güncellendi, %02d:%02d
+Etkinlikler
+Şimdi
+Ölçüm süresi doldu. Bilekliğinizi sıkıca taktığınızdan emin olun.
+,
+%ld,%ld
+%d
+km/sa.
+Anlık nabız
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Bitiş
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Ayak parmakları bu yöne
+Rotanızın kaydedilebilmesi için konum izinleri gerekli.
+Telefon Ayarlar'ında Mi Fitness'a konumunuza erişme izni verin ve ''Her zaman izin ver'' seçeneğini seçin.
+%02d:%02d:%02d
+Doğru nabız ölçümleri için cihazınızı bilek kemiğinizden yaklaşık bir parmak yukarı olacak şekilde sıkıca takın. Egzersiz yaparken kayarsa hemen yeniden ayarlayın.
+Bu etkinlik, yalnızca bir elden frizbi fırlatmaya ilişkin verileri kaydedecektir. Cihazı frizbiyi atacağınız bileğe takın.
+İpuçları
+Fırlatmalar
+Fırlatma
+Fırlatma
+Fırlatma
+Fırlatma
+Fırlatma
+Fırlatma
+Fırlatma
+Fırlatma gücü
+Düşük
+Orta
+Yüksek
+%d fırlatma
+%d fırlatma
+%d fırlatma
+%d fırlatma
+%d fırlatma
+%d fırlatma
+%d fırlatma
+Rahatsız Etme Modu ayarları
+Uyku modu
+Cihaz uykuda olduğunuzu algıladığında Rahatsız Etme Modu otomatik olarak açılacaktır.
+Uyku modu
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+%d sa.
+Tüm gün
+Özel
+Ayarlar

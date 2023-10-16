@@ -1,0 +1,4330 @@
+Găsește telefon
+Telefonul tău va suna
+Caută
+Oprește
+Finalizat
+Caută din nou
+Deconectat
+Conectați-vă prin Bluetooth și încercați din nou
+Deschide Aparatul foto pe telefonul dvs.
+OK
+Asociați în Aparat foto în aplicație
+OK
+Deconectat
+Conectați-vă prin Bluetooth și încercați din nou
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Acum
+Alarmă
+Fără alarme
+AM
+PM
+%02d:%02d
+O dată
+Zilnic
+Zile de muncă
+Sărbători
+ 
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+Adaugă până la 10 alarme
+Ora
+AM
+PM
+%02d
+%02d
+:
+Activare inteligentă
+Lasă-ți banda să aleagă o fereastră de 10 minute înainte ca alarma să te trezească
+Repetă
+O dată
+Zilnic
+Zile de muncă
+Sărbători
+Personalizat
+Personalizat
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+Amână
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Oprit
+Amână pentru 10 min
+Ora
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Repetă
+O dată
+Zilnic
+Zile de muncă
+Sărbători
+ 
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+Activare inteligentă
+Pornit
+Oprit
+%d%%
+%02d:%02d
+Baterie sub %d%%
+Bateria este sub %d%%. Activați Economizator baterie?
+Economizator baterie
+Durata de viață rămasă a bateriei
+aproximativ %d zi %d h
+Doar ceasul, numărul de pași și NFC vor fi disponibile când Economizator baterie este activat. Țineți apăsat pe ecran sau încărcați pentru a opri.
+Banda este prea caldă pentru a fi încărcată. Nu o purtați chiar acum.
+Banda este prea rece pentru a fi încărcată. Nu o purtați chiar acum.
+%02d:%02d
+Cronometru
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Nicio locație adăugată
+%02d:%02d
+Wellington
+Sydney
+Tokyo
+Seul
+Beijing
+Hong Kong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moscova
+Cairo
+Cape Town
+Paris
+Londra
+New York
+Chicago
+Los Angeles
+Honolulu
+Atena
+Teheran
+Yangon
+Rio de Janeiro
+Wellington
+Sydney
+Tokyo
+Seul
+Beijing
+Hong Kong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moscova
+Cairo
+Cape Town
+Paris
+Londra
+New York
+Chicago
+Los Angeles
+Honolulu
+Atena
+Teheran
+Yangon
+Rio de Janeiro
+Wellington
+Sydney
+Tokyo
+Seul
+Beijing
+Hong Kong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moscova
+Cairo
+Cape Town
+Paris
+Londra
+New York
+Chicago
+Los Angeles
+Honolulu
+Atena
+Teheran
+Yangon
+Rio de Janeiro
+Datele privind ora de vară sunt învechite. Conectați-vă la aplicație pentru a actualiza.
+%02d:%02d
++%d h
++%.1f h
++%d h
++%d h
++%d h
++%d h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%d h
++%d h
+-%d h
+-%.1f h
+-%d h
+-%d h
+-%d h
+-%d h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%d h
+-%d h
+%02d.%02d
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%d h
+-%d h
+-%d h
+-%d h
+-%d h
+-%d h
+-%d h
++%d h
++%.1f h
++%d h
++%d h
++%d h
++%d h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%d h
++%d h
+Adaugă locație
+Adăugați mai multe locații în aplicație
+Adaugă până la 
+20 de locații
+%02d:%02d
+Concetrare
+Odihnă
+min
+min
+min
+min
+min
+min
+min
+Odihnă
+%02d:%02d
+Durată set
+Repaus
+Întrerupt
+Timp de odihnă
+Astăzi
+%02d:%02d:%02d
+Timp de concetrare
+Concetrare
+Concetrare
+
+DND este activat în timpul acestei sesiuni
+Rămâi concentrat
+Aflați mai multe
+Concetrare
+Concentrare vă ajută să vă concentrați într-o perioadă scurtă de timp pentru a lucra mai eficient.
+
+O sesiune de concentrare durează în mod normal 25 de minute. După ce începeți, concentrați-vă pe deplin asupra sarcinii dvs. până când dispozitivul vibrează, moment în care vă puteți odihni timp de 5 minute.
+
+ Vă recomandăm să luați o pauză de 15-20 de minute după fiecare 4 sesiuni de Concentrare.
+Este timpul pentru concetrare
+Doar o secundă
+Nu se redă
+Deconectat
+Lipsesc permisiuni
+Activează notificările din aplicație
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Pig)
+ 
+ 
+ 
+ 
+ 
+%d.%d
+Săptămâna %d
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Activează Evenimente în aplicație
+Nu sunt evenimente
+Lun
+%02d.%02d
+Mar
+%02d.%02d
+Mie
+%02d.%02d
+Joi
+%02d.%02d
+Vin
+%02d.%02d
+Sâm
+%02d.%02d
+Dum
+%02d.%02d
+Toată ziua
+%02d:%02d-%02d:%02d
+Amână
+Renunță
+Amânat
+pentru 10 min
+Activează
+Nu sunt evenimente
+Adaugă în aplicație
+Astăzi
+Evenimente viitoare
+%02d:%02d AM
+%02d:%02d PM
+Lun %d.%d
+Mar %d.%d
+Mie %d.%d
+Joi %d.%d
+Vin %d.%d
+Sâm %d.%d
+Dum %d.%d
+Amână
+Închide
+%02d:%02d AM
+%02d:%02d PM
+Eveniment
+Amânat
+pentru 10 min
+Detalii
+Se caută dispozitivul…
+Oprește
+Ascultă
+Începeți prin a spune
+Configurați Mi IA în aplicație
+Verificați 
+conexiunea la rețea 
+sau încercați din nou mai târziu
+Deconectat.
+ Conectați-vă prin Bluetooth.
+Banda se încarcă
+ date. Nu poți folosi Mi IA
+ acum.
+Această caracteristică încă nu este suportată
+Puteți repeta?
+Couldn't wake Mi AI. Try again.
+Luni
+Marți
+Miercuri
+Joi
+Vineri
+Sâmbătă
+Duminică
+Tap to wake Mi AI
+Ask Mi AI on your phone
+În acest moment, Mi IA este disponibil numai pe China Continentală.
+Excelent
+Bun
+Moderat
+Nesănătos
+Periculos
+Primejdios
+Excelent
+Bun
+Moderat
+Nesănătos
+Periculos
+Primejdios
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Mâine
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+ICA %d
+Răsărit
+Apus
+%02d:%02d
+Vânt
+%d
+Umiditate
+%d%%
+UV
+%lu
+%d°/%d°
+Schimbă locația
+Setați locațiile în setările
+ meteo ale aplicației
+%d
+℃
+℉
+Carduri
+Adăugă carduri în aplicație
+Doar o secundă
+   
+Sold
+Țineți aproape de cititor
+Doar o secundă
+Nu s-a putut activa.
+Încercați din nou.
+Plătit cu succes
+-%.2F
+Sold
+-%.2F
+Sold redus. Reîncărcați în curând.
+Respirație
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Începe
+Relaxează-te
+Concentrează-te pe respirația ta
+Să începem
+Urmărește balonul
+Inspiră
+Expiră
+Foarte bine
+Sesiune: %d min
+Sesiune: %d min
+Sesiune: %d min
+Sesiune: %d min
+Sesiune: %d min
+Sesiune: %d min
+Sesiune: %d min
+%2d:%2d
+Rezultate
+Puls curent
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Începe pulsul
+Sesiune
+min
+min
+min
+min
+min
+min
+min
+Efectuat
+Timp
+min
+min
+min
+min
+min
+min
+min
+%d
+%d
+%d respirație
+%d respirație
+%d respirație
+%d respirații
+%d respirații
+%d respirații
+%d respirații
+%02u:%02u
+Puls
+Se măsoară
+Stai nemișcat
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Chiar acum
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%02u:%02u
+Încercați din nou
+Măsoară
+Nu purtați
+Fără date
+Nu purtați
+OK
+%u
+%u
+Sfaturi
+1. Purtați banda deasupra osului încheieturii mâinii
+2. Păstrați banda stabil și sigur
+3. Precizia măsurătorilor poate fi afectată de modul în care este purtată banda, de modificările pielii și ale mediului, etc.
+*Această funcție nu este destinată în scopuri medicale și nici nu are scopul de a diagnostica, trata, vindeca sau preveni orice boală sau afecțiune.
+Puls ridicat
+Puls ridicat
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Aflați mai multe
+Banda dvs. te anunță când pulsul depășește un nivel stabilit în timp ce ești în repaus. Este normal ca pulsul să crească ca răspuns la stres, consumul de cofeină sau o răceală. Cu toate acestea, persoanele care se confruntă cu amețeli, dificultăți de respirație sau palpitații ar trebui să solicite sfatul medicului. Rețineți că datele privind pulsul ridicat nu sunt destinate în scopuri medicale și nici nu sunt destinate diagnosticării, tratării, vindecării sau prevenirii vreunei boli sau afecțiuni. Banda afișează doar cele mai recente 3 înregistrări ale pulsului ridicat. Pentru mai multe informații, verificați aplicația.
+Puls scăzut
+Puls scăzut
+Aflați mai multe
+Banda dvs. vă anunță când pulsul scade sub un nivel stabilit. Acest lucru este frecvent în timpul somnului sau la persoanele care sunt active fizic. Persoanele care se confruntă cu amețeli, dificultăți de respirație sau palpitații trebuie să solicite sfatul medicului. Rețineți că datele privind pulsul scăzut nu sunt destinate în scopuri medicale și nici nu sunt destinate să diagnosticheze, să trateze, să vindece sau să prevină vreo boală sau afecțiune. Banda afișează doar cele mai recente 3 înregistrări ale pulsului scăzut. Pentru mai multe informații, verificați aplicația.
+BPM neregulat
+Neregulat
+%02u:%02u-%02u:%02u
+Vezi detalii în aplicație
+Aflați mai multe
+Banda va măsura pulsul și va înregistra orice anomalie atunci când sunteți inactiv. Dacă vă simțiți rău, solicitați sfatul medicului.
+Zona puls
+%uh %um
+%uh %um
+%uh %um
+%uh %um
+%uh
+%uh
+%uh
+%uh
+%uh
+%uh
+%uh
+%1uh
+%1uh
+%1uh
+%1uh
+%1uh
+%1uh
+%um
+%um
+%um
+%um
+%um
+%um
+%um
+%2um
+%2um
+%2um
+%2um
+%2um
+%2um
+VO₂ max
+Anaerobic
+Aerobic
+Intensiv
+Ușor
+Aflați mai multe
+Ușor
+50%-60% din capacitatea maximă a pulsului este potrivită pentru încălzire și răcire.
+Intensiv
+Fereastra 61%-70% este perfectă pentru arderea grăsimilor.
+Aerobic
+La 71%-80%, funcțiile cardiopulmonare sunt întărite.
+Anaerobic
+Când se atinge fereastra de 81%-90%, toleranța la acidul lactic este îmbunătățită.
+VO₂ max
+Exercițiul la 91%-100% din capacitatea maximă a pulsului este potrivit pentru antrenorii cu experiență.
+Setări
+Puls
+Monitorizare continuă
+Oprit
+Automat
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+Monitorizare continuă
+Monitorizează-ți pulsul non-stop.
+Oprit
+Automat
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+BPM neregulat
+Pornit
+BPM neregulat
+Această funcție vă monitorizează pulsul în timp real și înregistrează orice bătăi neregulate ale inimii.
+  
+Activarea acestei funcții va reduce semnificativ durata de viață a bateriei. Activați oricum?
+Puls ridicat
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Puls ridicat
+Selectați un puls peste care veți primi o alertă
+Oprit
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Puls ridicat
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost peste %u BPM.
+Închide
+Închide pentru astăzi
+Puls scăzut
+Puls scăzut
+Selectați un puls sub care veți primi o alertă
+Puls scăzut
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Începând la %02u:%02u, pulsul de odihnă a fost sub %u BPM.
+Aflați mai multe
+Aflați mai multe
+Puls
+Puls este de câte ori bate inima pe minut (BPM). De obicei, pulsul în repaus variază de la 55 la 80 BPM. Cu toate acestea, variază în funcție de vârstă, sex și alți factori. Dispozitivul dvs. acceptă un interval de 30–240 BPM
+Somn
+Purtați dispozitivul în pat pentru a genera date despre somn
+%02u
+h
+m
+Obiectiv: %2u h
+Obiectiv: %2u h
+Obiectiv: %2u h
+Obiectiv: %2u h
+Obiectiv: %2u h
+Obiectiv: %2u h
+Obiectiv: %2u h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+min
+min
+min
+min
+min
+min
+min
+m
+m
+m
+m
+m
+m
+Obiectiv: %02uh %2um
+Actualizat: %02u:%02u
+Pui de somn
+%02u
+%02u:%02u-%02u:%02u
+Somn
+Profund
+%u%%
+Ușor
+REM
+Treziri
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Puls mediu
+%u
+SpO₂ mediu
+Setări
+Aflați mai multe
+Setări
+Monitorizare avansată
+Oprit
+Punctaj respirație
+Pornit
+Monitorizare avansată
+Când această funcție este activată, dispozitivul vă va urmări somnul REM.
+
+Activarea monitorizării avansate va reduce semnificativ durata de viață a bateriei. Activați oricum?
+Punctaj respirație
+Când această funcție este activată, respirația pe timp de noapte va fi monitorizată în timp ce dormi. Puteți vizualiza scorul de respirație în aplicație.
+Monitorizarea respirației va reduce semnificativ durata de viață a bateriei. Activați oricum?
+Aflați mai multe
+Purtați-vă banda în pat pentru a urmări somnul. Veți putea vizualiza cele mai recente 3 înregistrări ale istoricului somnului de pe banda dvs. Istoricul somnului mai detaliat este disponibil în aplicația de pe telefon. Activați monitorizarea avansată în Setări pentru a urmări mișcarea rapidă a ochilor și pentru a obține informații mai precise despre somn. Cel puțin 3 ore de somn neîntrerupt vor permite benzii dvs. să înregistreze pulsul mediu și oxigenul din sânge. Pentru puiurile de somn mai scurte, vor fi înregistrate doar orele de adormire și de trezire. Nu vor fi înregistrate puiurile de somn care durează mai puțin de 20 de minute. Calitatea slabă a somnului și mișcarea excesivă a încheieturii mâinii în timpul somnului pot cauza date inexacte ale pulsului și eșecul de a măsura oxigenul din sânge.
+%02u:%02u
+Stres
+Fără date
+Măsoară
+%u
+Relaxat
+Ușor
+Moderat
+Sever
+Chiar acum
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%02u:%02u
+Țineți banda nemișcată și cu fața în sus
+%u
+Se măsoară
+Stai nemișcat
+Rămâi nemișcat
+Păstrați banda în contact cu pielea dvs.
+Țineți încheietura mâinii drept și ecranul în sus
+Strângeți cureaua la bandă și încercați din nou
+Strângeți cureaua la bandă și încercați din nou
+Rămâneți nemișcat în timpul măsurării
+Strângeți cureaua la bandă și încercați din nou
+Încercați din nou
+OK
+Sesiunea a fost întreruptă. Anulați acum?
+Sfaturi
+Purtați banda deasupra osului încheieturii mâinii.
+Păstrați banda stabil și sigur.
+Măsurătorile depind de temperatura scăzută, perfuzia pielii și multe altele.
+Această funcție nu este destinată scopurilor medicale.
+Stres accentuat
+%u
+Sever
+Încercați exerciții de respirație.
+Respirație
+Am înțeles
+Închide pentru astăzi
+Stres
+%u
+%u
+Relaxat
+Ușor
+Moderat
+Sever
+Chiar acum
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%02u:%02u
+Măsoară
+Fără date
+Detalii
+Relaxat
+Ușor
+Moderat
+Sever
+%u%%
+Ultimele 7 zile
+%02u.%02u
+Astăzi
+%u
+med
+Setări
+Aflați mai multe
+Stres
+Monitorizare continuă
+Pornit
+Oprit
+Memento de relaxare
+Monitorizare continuă
+Această funcție ține evidența nivelului de stres atunci când nu vă mișcați.
+Memento de relaxare
+Faceți un exercițiu de respirație atunci când nivelul de stres rămâne peste 80 în timp ce sunteți treaz
+Activarea acestei funcții va reduce semnificativ durata de viață a bateriei. Activați oricum?
+Aflați mai multe
+Stresul este reacția corpului tău la provocări și solicitări.
+Stresul se măsoară numai în perioadele de odihnă. Nivelurile de stres sunt definite după cum urmează:
+Relaxat: 1-25 
+Ușor: 26-50 
+Moderat: 51-80 
+Sever: 81-100
+Mai mulți factori pot afecta precizia. Rezultatele sunt doar pentru referință.
+%02u:%02u
+SpO₂
+Fără date
+Măsoară
+%u
+%
+Chiar acum
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%02u:%02u
+Țineți banda nemișcată și cu fața în sus
+%u
+SpO₂
+Se măsoară
+Se calibrează
+Stai nemișcat
+Rămâi nemișcat
+Păstrați banda în contact cu pielea dvs.
+Țineți încheietura mâinii drept și ecranul în sus
+Strângeți cureaua la bandă și încercați din nou
+Încercați din nou
+Strângeți cureaua la bandă și încercați din nou
+Rămâneți nemișcat în timpul măsurării
+Strângeți cureaua la bandă și încercați din nou
+Țineți încheietura mâinii drept și ecranul în sus
+Păstrați banda stabil și sigur
+Am înțeles
+Am înțeles
+Sfaturi
+1. Purtați banda deasupra osului încheieturii mâinii.
+2. Păstrați banda stabil și sigur.
+3. Măsurătorile depind de temperatura scăzută, perfuzia pielii și multe altele.
+Această funcție nu este destinată scopurilor medicale.
+SpO₂
+%u
+%u
+%
+Chiar acum
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%um în urmă
+%02u:%02u
+Măsoară
+Alerte
+Setări
+Aflați mai multe
+Aflați mai multe
+Banda dvs. acceptă o gamă de 75%–100%.
+SpO₂ scăzut
+1. SpO₂ reprezintă procentul de oxigen din sângele dumneavoastră.
+%02u:%02u
+2. Citirile sub 95% când sunt active sau sub 90% când adormi sunt considerate scăzute.
+%u
+%u%% - %u%%
+3. Există mai mulți factori care ar putea face măsurătorile inconsecvente sau nesigure. Acestea pot include perfuzia pielii, modificări permanente sau temporare ale pielii, mișcarea sau poziția în timpul somnului. Toate cele de mai sus ar putea duce la o alertă fals de scădere a oxigenului din sânge. Rețineți că acesta nu este un dispozitiv medical, iar datele pe care le generează nu pot fi utilizate pentru diagnostic și tratament.
+Aflați mai multe
+Când nivelul de saturație în oxigen rămâne sub valoarea setată pentru o perioadă de timp, veți primi o alertă. Banda va afișa cele mai recente 3 înregistrări. Vedeți mai multe în aplicație.
+Dacă aveți dificultăți de respirație, dureri de cap, oboseală sau pierderea concentrării, solicitați asistență medicală profesionistă.
+Intervalul de măsurare al benzii este de 75%-100%. Această funcție nu este destinată în scopuri medicale și ar trebui utilizată doar pentru referință.
+Sesiunea a fost întreruptă. Anulați acum?
+Setări
+Urmărire continuă
+Pornit
+Oprit
+Alerte
+Oprit
+%d%%
+%d%%
+%d%%
+Urmărire continuă
+Această funcție vă măsoară SpO₂ atunci când sunteți în repaus.
+Alerte
+Primiți un memento când SpO₂ scade sub un anumit nivel în timp ce sunteți treaz
+Oprit
+0.8
+0.85
+0.9
+ 
+Activarea acestei funcții va reduce semnificativ durata de viață a bateriei. Activați oricum?
+Alerte
+%u
+%
+Actualul SpO₂ este sub %u%%
+Închide
+Închide pentru astăzi
+%02d:%02d
+Cicluri
+%02d/%02d
+%02d.%02d
+Nu există date astăzi
+Înregistrează
+Ziua %d
+Ziua %d
+Ziua %d
+Ziua %d
+Ziua %d
+Ziua %d
+Ziua %d
+Perioadă estimată
+%02d/%02d-%02d/%02d
+Anulează
+Perioada s-a încheiat la
+Perioadă
+Cicluri
+%02d/%02d
+%02d/%02d
+Nu există date astăzi
+Perioada a început la
+Anulează
+Perioada s-a încheiat la
+Estimări
+Activați estimarea de Perioadă în aplicație
+Aflați mai multe
+Ziua %02d
+Ziua %02d
+Ziua %02d
+Ziua %02d
+Ziua %02d
+Ziua %02d
+Ziua %02d
+Fertilă
+Perioadă estimată
+Perioadă
+%02d/%02d-%02d/%02d
+Fertilă
+%02d/%02d-%02d/%02d
+Perioadă
+Ovulație
+%02d/%02d
+Ovulație
+În %d zile
+În %d zile
+În %d zile
+În %d zile
+În %d zile
+În %d zile
+În %d zile
+Aflați mai multe
+1. Culori
+Perioadă
+Perioadă estimată
+Fertilă
+Ovulație
+2. Sfat
+Pentru a face predicțiile mai precise, înregistrați perioadele și modificați durata ciclului în aplicație.
+Perioada viitoare
+Viitoare perioadă fertilă
+Ovulația viitoare
+Mâine
+În 2 zile
+În %u zi
+În %u zi
+În %u zi
+În %u zi
+În %u zile
+În %u zile
+În %u zile
+În %u zile
+Următoarea perioadă în %u.%u
+Următoarea perioadă fertilă pe %u.%u
+Următoarea ovulație în %u.%u
+%02u:%02u
+AM
+PM
+Am înțeles
+Alergare în aer liber
+Mers
+Mers cursă
+Bandă de alergare
+Mers în interior
+Ciclism în aer liber
+Drumeție montană
+Pistă de alergare
+Drumeție
+Stil liber
+Fitness interior
+Yoga
+Înot piscină
+Înot în aer liber
+Eliptic
+Aparat de vâslit
+Coardă de sărit
+HIIT
+Tenis
+Baschet
+Snowboarding
+Schi
+Schi fond
+Golf
+Alte sporturi
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Obiectiv
+%d%
+Obiectiv completat
+%u.%02u
+km
+Obiectiv
+Finalizat
+Rezumat
+%u'%02u"
+Ritm mediu
+Ritm
+%d
+Cadență medie (SPM)
+Pas mediu (cm)
+Calorii
+Puls mediu
+RC maxim
+Pași
+VO₂ max
+Lungimi
+Stil principal
+Mediu SWOLF
+Mișcări totale
+SPM med
+Timp antrenament
+Timp de odihnă
+Seturi
+Mișcări totale
+Total sărituri
+Frec. medie (Coardă)
+Bras
+Stil liber
+Fluture
+Spate
+Zona puls
+VO₂ max
+Anaerobic
+Aerobic
+Intensiv
+Ușor
+%dh %dm
+%dh %dm
+%dh %dm
+%dh %dm
+%dm
+%dm
+%dm
+%dm
+%dm
+%dm
+%dm
+%dh
+%dh
+%dh
+%dh
+%dh
+%dh
+%dh
+Efect antrenament
+%d.%d
+Se menține
+Antrenament aerobic
+%d.%d
+Antrenament anaerobic
+Vedeți mai multe detalii în aplicație
+%d
+Încărcare antrenament
+Bun
+Mică
+Mare
+Ultimele 7 de zile
+%d
+ml/kg/min
+VO₂ max
+Foarte slab
+Slab
+Convenabil
+Mediu
+Bun
+Excelent
+Remarcabil
+Nivel
+Se îmbunătățește
+Se menține
+În declin
+Abilitate atletică
+ 
+Sarcina de antrenament este calculată pe baza consumului excesiv de oxigen după exercițiu (EPOC) în ultimele 7 zile. Ajustați-vă volumul de muncă în consecință. Aflați mai multe în Ajutor în aplicație.
+%02d:%02d
+Aflați mai multe
+VO₂ max este un indicator cheie al capacității aerobe a organismului. Dispozitivul vă va evalua capacitatea atletică pe baza unor factori precum vârsta, sexul și pulsul în timpul exercițiului, iar VO₂ max se va schimba pe măsură ce abilitățile dumneavoastră atletice se îmbunătățesc.
+Găsiți-vă VO₂ max
+1. Completați informațiile dvs. personale în aplicație. 2. Purtați banda și alergați în aer liber timp de peste 10 minute pentru a atinge 75% din pulsul maxim.
+%d
+Timp de odihnă (h)
+Complet refăcut
+În mare parte refăcut
+Reduceți intensitatea
+Este necesară odihnă
+%02d:%02d
+Actualizat
+Chiar acum
+%dm în urmă
+%dm în urmă
+%dm în urmă
+%dm în urmă
+%dm în urmă
+%dm în urmă
+%dm în urmă
+%d
+Timp de odihnă (h)
+Puteți crește intensitatea antrenamentului
+Antrenează-te ca de obicei
+Antrenează-te la o intensitate mai mică
+Odihnește-te corespunzător și întrerupeți antrenamentul
+Activitate
+%d înregistrare nu este sincronizată
+%d înregistrare nu este sincronizată
+%d înregistrare nu este sincronizată
+%d înregistrări nu sunt sincronizate
+%d înregistrări nu sunt sincronizate
+%d înregistrări nu sunt sincronizate
+%d înregistrări nu sunt sincronizate
+Alergare în aer liber
+Mers
+Mers cursă
+Bandă de alergare
+Mers în interior
+Ciclism în aer liber
+Drumeție montană
+Pistă de alergare
+Drumeție
+Stil liber
+Fitness interior
+Yoga
+Înot piscină
+Înot în aer liber
+Eliptic
+Aparat de vâslit
+Coardă de sărit
+HIIT
+Tenis
+Baschet
+Snowboarding
+Schi
+Schi fond
+Golf
+Alte sporturi
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Ritm
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Ușor
+Intensiv
+Aerobic
+Anaerobic
+VO₂ max
+kcal
+Cadență (SPM)
+Pași
+Ritm mediu
+Obiectiv completat
+%lu.%02lu
+km în urmă
+mi în urmă
+%d'%d"
+%d%%
+Ritm
+km înainte
+mi în față
+Seturi finalizate
+Timp de odihnă
+Timp total
+Înot piscină
+Navigație
+Paddleboarding
+Polo pe apă
+Alte sporturi acvatice
+Schi nautic
+Caiac
+Rafting
+Aparat de vâslit
+Barcă cu motor
+Înot cu labele
+Sărituri în apă
+Înot artistic
+Snorkeling
+Kitesurfing
+Flowriding
+Vas Dragon
+Alergare în aer liber
+Mers
+Drumeție
+Ciclism în aer liber
+Drumeție montană
+Pistă de alergare
+Alpinism
+Skateboarding
+Patinaj pe role
+Parkour
+ATV
+Parapantism
+BMX
+Mers cursă
+Stil liber
+Bandă de alergare
+Coardă de sărit
+HIIT
+Yoga
+Ciclism interior
+Eliptic
+Aparat de vâslit
+Urcător de scări
+Stepper
+Spinning
+Formare de bază
+Flexibilitate
+Pilates
+Gimnastică
+Întinderi
+Putere
+Pregătire încrucișată
+A urca pe scări
+Aerobic
+Antrenament fizic
+Minge la perete
+Gantere
+Halteră
+Ridicare greutăți
+Deadlift
+Burpee
+Abdomene
+Antrenament funcțional
+Partea superioară a corpului
+Partea inferioară a corpului
+Abs
+Spate
+Plimbat în aer
+Bară orizontală
+Paralele
+Stepper
+Gimnastică de masă
+Body combat
+Funie de luptă
+Aerobic combo
+Mers în interior
+Fitness interior
+Dansul pătrat
+Dans din buric
+Balet
+Dans de stradă
+Zumba
+Dans popular
+Dans de jazz
+Dans latin
+Hip hop
+Dans la bară
+Break dance
+Dans de sală
+Dans modern
+Dans
+Box
+Wrestling
+Arte marțiale
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Scrimă
+Jujitsu
+Tenis
+Baschet
+Golf
+Fotbal
+Volei
+Baseball
+Softball
+Fotbal american
+Hochei
+Tenis de masă
+Badminton
+Cricket
+Handbal
+Bowling
+Squash
+Biliard
+Fluturaș
+Fotbal de plajă
+Volei pe plajă
+Volei cu piciorul
+Futsal
+Hacky sack
+Bocce
+Pelotă
+Gateball
+Dodgeball
+Snowboarding
+Schi
+Schi fond
+Patinaj
+Patinaj interior
+Curling
+Alte sporturi de iarnă
+Scuter de zăpadă
+Hochei pe gheață
+Bob
+Sanie
+Tir cu arcul
+Darts
+Echitație
+Lupta cu odgonul
+Hula hoop
+Zmeu
+Pescuit
+Frisbee
+Fluturaș
+Legănare
+Joc Somatosensory
+Masă de fotbal
+Shuffleboard
+Esports
+Șah
+Dame
+Weiqi
+Bridge
+Joc de societate
+Ecvestru
+Atletism
+Curse auto
+Se localizează…
+Localizat cu succes
+Intervale
+Încălzire
+Antrenament
+%d:%02d
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d
+Odihnă
+Seturi
+Repaus
+Încălzire
+Repaus
+Antrenament
+Ora
+Distanță
+Lungimi
+Ture
+Sărituri
+Alerte
+Distanță
+%d km
+%d mi
+Ritm
+%d'%02d"
+Viteză
+%d km/h
+Obiectiv Zona de puls
+Ușor
+Intensiv
+Aerobic
+Anaerobic
+VO₂ max
+Puls ridicat
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hidratare
+Dezactivează tot
+Oprit
+Distanță
+Memento
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Viteză
+Memento
+%d km/h
+Ritm
+Memento
+%d'%02d"
+Obiectiv Zona de puls
+Zona puls
+Ușor
+Intensiv
+Aerobic
+Anaerobic
+VO₂ max
+Obiectiv Zona de puls
+Ușor
+Intensiv
+Aerobic
+Anaerobic
+VO₂ max
+%d–%d BPM
+Înot piscină
+Navigație
+Paddleboarding
+Polo pe apă
+Alte sporturi acvatice
+Schi nautic
+Caiac
+Rafting
+Aparat de vâslit
+Barcă cu motor
+Înot cu labele
+Sărituri în apă
+Înot artistic
+Snorkeling
+Kitesurfing
+Flowriding
+Vas Dragon
+Alergare în aer liber
+Mers
+Drumeție
+Ciclism în aer liber
+Drumeție montană
+Pistă de alergare
+Alpinism
+Skateboarding
+Patinaj pe role
+Parkour
+ATV
+Parapantism
+BMX
+Mers cursă
+Stil liber
+Bandă de alergare
+Coardă de sărit
+HIIT
+Yoga
+Ciclism interior
+Eliptic
+Aparat de vâslit
+Urcător de scări
+Stepper
+Spinning
+Formare de bază
+Flexibilitate
+Pilates
+Gimnastică
+Întinderi
+Putere
+Pregătire încrucișată
+A urca pe scări
+Aerobic
+Antrenament fizic
+Minge la perete
+Gantere
+Halteră
+Ridicare greutăți
+Deadlift
+Burpee
+Abdomene
+Antrenament funcțional
+Partea superioară a corpului
+Partea inferioară a corpului
+Abs
+Spate
+Plimbat în aer
+Bară orizontală
+Paralele
+Stepper
+Gimnastică de masă
+Body combat
+Funie de luptă
+Aerobic combo
+Mers în interior
+Fitness interior
+Dansul pătrat
+Dans din buric
+Balet
+Dans de stradă
+Zumba
+Dans popular
+Dans de jazz
+Dans latin
+Hip hop
+Dans la bară
+Break dance
+Dans de sală
+Dans modern
+Dans
+Box
+Wrestling
+Arte marțiale
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Scrimă
+Jujitsu
+Tenis
+Baschet
+Golf
+Fotbal
+Volei
+Baseball
+Softball
+Fotbal american
+Hochei
+Tenis de masă
+Badminton
+Cricket
+Handbal
+Bowling
+Squash
+Biliard
+Fluturaș
+Fotbal de plajă
+Volei pe plajă
+Volei cu piciorul
+Futsal
+Hacky sack
+Bocce
+Pelotă
+Gateball
+Dodgeball
+Snowboarding
+Schi
+Schi fond
+Patinaj
+Patinaj interior
+Curling
+Alte sporturi de iarnă
+Scuter de zăpadă
+Hochei pe gheață
+Bob
+Sanie
+Darts
+Echitație
+Lupta cu odgonul
+Hula hoop
+Zmeu
+Pescuit
+Frisbee
+Fluturaș
+Legănare
+Joc Somatosensory
+Masă de fotbal
+Shuffleboard
+Esports
+Șah
+Dame
+Weiqi
+Bridge
+Joc de societate
+Ecvestru
+Tir cu arcul
+Atletism
+Curse auto
+Mai mult
+Mai mult
+Sporturi acvatice
+Activități în aer liber
+Antrenament
+Sporturi de iarnă
+Sporturi recreative
+Jocuri de cărți/de societate
+Alte
+%d sport
+%d sport
+%d sport
+Dans
+%d sporturi
+Sporturi de luptă
+%d sporturi
+Sporturi cu minge
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+%d sport
+%d sport
+%d sport
+%d sporturi
+%d sporturi
+%d sporturi
+%d sporturi
+Se pare că faci exerciții fizice
+Alergare în aer liber
+Bandă de alergare
+Mers
+Ciclism
+Eliptic
+Aparat de vâslit
+Coardă de sărit
+Renunță
+Pauză
+Sfârșit
+Următorul set
+Pauză
+Sfârșit
+Tranziție
+Întrerupt
+%d/%d
+Încălzire
+%02d:%02d:%02d
+ 
+Efectuat
+Antrenament
+%d
+%d
+Serii în acest set
+Rămase
+Obiectiv
+Rămase
+Obiectiv
+Rămase
+Sărituri în acest set
+Rămase
+Treci peste
+Odihnă
+%02d:%02d:%02d
+Timp de odihnă
+%02d:%02d:%02d
+Rămase
+Treci peste
+Repaus
+%02d:%02d:%02d
+ 
+Sfârșit
+Felicitări
+Accelerează
+%d
+Obiectiv BPM
+%d–%d
+Continuă
+Încetinește
+Accelerează
+%d
+Obiectiv:
+%d km/h
+Continuă
+Încetinește
+Accelerează
+%d'%d"
+Obiectiv
+%d'%d"
+Continuă
+Încetinește
+-- 
+km/h
+%d
+%
+Obiectiv completat
+%d
+km
+km
+km
+km
+km
+km
+km
+Obiectiv: %d km
+Record nou!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Conectați-vă banda la telefon pentru a putea înregistra informații despre traseu.
+Nu pot accesa informațiile despre locație. Nu se poate înregistra traseul de antrenament în acest moment.
+Semnalul satelit este slab. Mergeți într-o zonă deschisă.
+Conectați-vă banda la telefon pentru a putea păstra informații exacte despre locație și traseu.
+Conexiunea a fost restabilită
+Locația a fost restabilită
+Stocarea este plină. Acest antrenament se va încheia și nu vor mai fi înregistrate date. Conectați-vă telefonul pentru a elibera spațiu.
+Alergare
+Începător
+Alergare/mers de bază
+Alergare/mers avansat
+Spațiu de stocare insuficient. Conectați-vă telefonul și eliberați spațiu pentru a evita suprascrierea datelor.
+Cursă de bază
+Grăsimi arse
+Alergare pentru arderea grăsimilor (De bază)
+Alergare pentru arderea grăsimilor (Avansat)
+MIIT
+Rezistență
+Alergare de anduranță (De bază)
+Alergare de anduranță (Avansat)
+Interval
+Interval alergare (De bază)
+Interval alergare (Avansat)
+%02d:%02d
+Alergare/mers de bază
+Alergare/mers avansat
+Cursă de bază
+Alergare pentru arderea grăsimilor (De bază)
+Alergare pentru arderea grăsimilor (Avansat)
+MIIT
+Alergare de anduranță (De bază)
+Alergare de anduranță (Avansat)
+Interval alergare (De bază)
+Interval alergare (Avansat)
+Localizat cu succes
+%02d:%02d
+Alergare/mers de bază
+Alergare/mers avansat
+Cursă de bază
+Alergare pentru arderea grăsimilor (De bază)
+Alergare pentru arderea grăsimilor (Avansat)
+MIIT
+Alergare de anduranță (De bază)
+Alergare de anduranță (Avansat)
+Interval alergare (De bază)
+Interval alergare (Avansat)
+Introducere
+Combină mersul pe jos și pasul alergător la intervale de timp.
+Combină mersul pe jos și pasul alergător la intervale de timp.
+Pas alergător de intensitate scăzută-medie.
+Pas alergător mai scurt pentru arderea grăsimilor și pierderea în greutate.
+Intensitate scăzută-medie, alergare prelungită pentru arderea grăsimilor.
+Antrenament pe intervale de intensitate medie-înaltă.
+Pas alergător de lungime medie pentru rezistență.
+Alergare mai lungă pentru rezistență.
+Antrenament la intervale mai scurte pentru sănătatea inimii și a plămânilor.
+Antrenament cu intervale mai lungi pentru sănătatea inimii și a plămânilor.
+Plan de antrenament
+Mers repede
+Pas alergător
+Alergare
+Sprint
+%02d:%02d
+%02d:%02d
+%d/%d
+Mers repede
+Pas alergător
+Alergare
+Sprint
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d-%d
+Obiectiv BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Ritm
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ max
+Anaerobic
+Aerobic
+Intensiv
+Ușor
+%d
+SPM
+%d
+Pași
+%d'%d"
+Ritm mediu
+Aflați mai multe
+Pași
+Calorii
+Mișcare
+În picioare
+"Pași" arată un număr zilnic de pași. O persoană activă face între 8000 și 10.000 de pași pe zi.
+"Calorii" afișează numărul de calorii active arse prin deplasare și exerciții fizice.
+"Mișcare" arată timpul petrecut în activități moderate și viguroase. Țintește-te pentru cel puțin 30 de minute pe zi, de 5 ori pe săptămână de activitate moderată sau 75 de minute pe săptămână de activitate intensă. Veți vedea progresul în "Mișcare" când cadența depășește 100 SPM sau pulsul depășește 65% din pulsul maxim.
+"În picioare" arată orele în care te ridici și te miști. Încercați să vă ridicați și să vă mișcați în 12 ore diferite din zi.
+%d pas
+Obiectiv Pași atins
+Obiectiv pași atins. Bună treabă!
+Ai finalizat obiectivul de azi!
+%d pas
+%d pas
+%d pași
+%d pași
+%d pași
+%d pași
+%d kal
+Obiectiv Calorii atins
+Obiectivul de calorii atins. Ține-o tot așa!
+Ai atins obiectivul de calorii de azi. Felicitări!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min
+Obiectiv Mișcare atins
+Obiectiv Mișcare finalizat. Felicitări!
+Bravo, ai atins obiectivul de Mișcare de astăzi!
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d h
+Obiectiv În picioare atins
+Obiectiv În picioare atins. Felicitări!
+Felicitări! Ai atins obiectivul de astăzi!
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Obiective atinse!
+Toate obiectivele au fost atinse
+Ai atins toate obiectivele pentru azi! Foarte bine!
+Toate obiectivele atinse! Foarte bine!
+Obiective atinse!
+Setări
+Obiectiv
+Intervale
+Alerte
+Pauză automată
+Ritm IA
+Lungime piscină
+Resetare
+Obiectiv
+Deschide obiectiv
+Distanță
+Durată
+Calorii
+Lungimi
+Ture
+Sărituri
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d lungime
+%d lungime
+%d lungime
+%d lungimi
+%d lungimi
+%d lungimi
+%d lungimi
+%d serie
+%d serie
+%d serie
+%d serii
+%d serii
+%d serii
+%d serii
+%d săritură
+%d săritură
+%d săritură
+%d sărituri
+%d sărituri
+%d sărituri
+%d sărituri
+Distanță
+km
+Durată
+HH:mm
+Calorii
+kcal
+Lungimi
+Serii
+Sărituri
+Pauză automată
+Ritm IA
+Ritm
+%d‘%2d’’
+Ritm
+   
+Lungime piscină
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Personalizat
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Lungime piscină
+m
+Resetați toate setările de antrenament?
+Puls ridicat
+Alertă
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Alertă
+Hidratare
+Memento
+Distanță, %d km
+Distanță, %d km
+Distanță, %d km
+Distanță, %d km
+Distanță, %d km
+Distanță, %d km
+Distanță, %d km
+Distanță, %d mi
+Distanță, %d mi
+Distanță, %d mi
+Distanță, %d mi
+Distanță, %d mi
+Distanță, %d mi
+Distanță, %d mi
+Durată, %d min
+Durată, %d min
+Durată, %d min
+Durată, %d min
+Durată, %d min
+Durată, %d min
+Durată, %d min
+Antrenament
+Ora
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Distanță
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Ora
+HH/mm
+Distanță
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Distanță
+km
+Viteză
+km/h
+Ritm
+   
+Mișcă-te
+În picioare
+Am înțeles
+Închide pentru astăzi
+Dezactivați memento-urile În picioare de astăzi?
+În picioare
+Resetați toate setările de antrenament?
+Continuă!
+Ți-ai atins obiectivul ieri. Ține-o tot așa și astăzi!
+Ți-ai atins obiectivul ieri. Ține-o tot așa și astăzi!
+Ai atins 2 din 3 obiective ieri. O poți face!
+Ai atins 2 din 3 obiective ieri. O poți face!
+Nu ți-ai atins obiectivele ieri. Implică-te astăzi!
+Nu ți-ai atins obiectivele ieri. Implică-te astăzi!
+Aproape v-ați atins obiectivele - astăzi este o nouă zi!
+Aproape v-ați atins obiectivele - astăzi este o nouă zi!
+Am înțeles
+Chiar acum
+%d min în urmă
+%d min în urmă
+E timpul să te miști
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+Actualizat: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+pas
+pas
+pas
+pași
+pași
+pași
+pași
+%d
+oră
+oră
+oră
+ore
+ore
+ore
+ore
+%d
+ min
+%02d:%02d
+%02d:%02d
+Setări
+Aflați mai multe
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Activitate
+Stare
+Stres
+Somn
+Meteo
+Muzică
+Alarmă
+Evenimente
+Calendar
+Carduri
+Mai mult
+Lanternă
+Cicluri
+Respirație
+Cronometru
+Temporizator
+Găsește telefon
+Ceas mondial
+Alerte
+Concetrare
+Mi IA
+Șterge tot
+%02d:%02d AM
+%02d:%02d PM
+Ieri %02d:%02d
+%02d.%02d %02d:%02d
+%d notificare
+%d notificare
+%d notificare
+%d notificări
+%d notificări
+%d notificări
+%d notificări
+%02d:%02d AM
+%02d:%02d PM
+Ieri %02d:%02d
+%02d.%02d %02d:%02d
+Șterge
+%02d:%02d AM
+%02d:%02d PM
+Ieri %02d:%02d
+%02d.%02d %02d:%02d
+Închide
+Închide
+Glisați în sus pentru a răspunde
+Se trimite
+Trimis
+Nu s-a putut trimite
+Într-o ședință. Voi răspunde în curând.
+Nu pot vorbi acum. Ce faci?
+Nu pot vorbi acum. Sună-mă mai târziu.
+Folosiți acest afișaj de bandă?
+Ștergeți afișarea acestei benzi?
+Se sincronizează
+Nu s-a putut sincroniza
+DND
+Oprit
+Toată ziua
+Personalizat
+Permite răspunsuri la mesaje în aplicație
+%02d:%02d-%02d:%02d
+Sincronizați cu telefonul
+Pornit
+Ora de începere
+AM
+%02d
+%02d:%02d
+Ora de începere
+PM
+Sincronizați cu telefonul
+Când este pornit, starea DND a benzii o va urma pe cea a telefonului
+DND este pornit
+Vibrație
+Implicit
+Puternic
+Oprit
+Notificări aplicație
+Activați ecranul la notificare
+Pornit
+Anunțați numai când este purtat
+Pornit
+Notificați numai când telefonul este blocat
+Pornit
+Activați ecranul la notificare
+Activează ecranul când primiți notificări
+Anunțați numai când este purtat
+Dezactivați notificările atunci când banda este scoasă de pe încheietură
+Notificați numai când telefonul este blocat
+Aflați mai multe
+Asigurați-vă că notificările sunt activate în Mi Fitness >Notificări aplicație.
+Setări
+Afișaje bandă
+Afișaj
+Setări DND
+Vibrație
+Notificări aplicație
+Detectare automată
+PIN
+Baterie
+Preferințe
+Sistem
+Despre bandă
+PIN
+Setați codul PIN
+Introduceți codul PIN din 6 cifre
+%d
+%d
+Codurile PIN nu se potrivesc
+Setare PIN
+PIN
+Dezactivează PIN
+Schimbă PIN
+PIN nou
+%d
+PIN dezactivat
+Incorect
+Încercați din nou în %ds
+Încercați din nou în %ds
+Încercați din nou în %ds
+Încercați din nou în %ds
+Încercați din nou în %ds
+Încercați din nou în %ds
+Încercați din nou în %ds
+Ajutor
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+Încercați din nou în %dm
+ 
+Pentru a reseta codul PIN, du-te la Dispozitiv > PIN în aplicație.
+ 
+PIN-ul nu poate fi dezactivat atunci când sunt adăugate carduri bancare.
+Detectare automată
+Detectare automată
+Nu veți primi memento-uri de antrenament când DND este activat.
+Preferințe
+Metoda de activare
+Țineți apăsat pe ecran
+Atinge pe ecran
+Glisați în sus
+Țineți apăsat pe ecran
+Când este pornit, țineți apăsat Editare pentru a edita afișajul benzii
+Baterie
+%d
+%
+Baterie rămasă
+≈%d zi %d h
+Baterie rămasă
+≈%d zile %d h
+Baterie rămasă
+≈%d zi %d h
+Baterie rămasă
+≈%d zile %d h
+Economizator baterie
+Optimizare
+Utilizare
+Durata de viață rămasă a bateriei
+aproximativ %d zi %d h
+O dată activat, rămâne doar ora, pedometrul și funcțiile NFC. Apăsați lung pe ecran sau încărcați pentru a dezactiva.
+Economizator baterie
+%d
+%02d:%02d
+AM
+PM
+%d
+Ieșire din Economizator baterie
+Aflați mai multe
+Durata de viață a bateriei
+Durata de viață estimată a bateriei este furnizată doar pentru referință. Durata reală de viață a bateriei depinde de factori precum timpul pe care îl petrece dispozitivul cu afișajul pornit, vibrând sau urmărind antrenamentele.
+Optimizare
+Optimizarea identifică funcțiile care utilizează o durată de viață semnificativă a bateriei.
+Optimizare
+Bun
+Nu este nevoie de optimizare
+Optimizare
+Slab
+Următoarele caracteristici vor afecta durata de viață a bateriei
+Întotdeauna pe ecran
+Ridicați pentru a activa
+Punctaj respirație
+Urmărire continuă
+BPM neregulat
+Întotdeauna pe ecran
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d h.
+Metoda de activare
+Primiți memento-uri pentru a începe un antrenament.
+Tipurile de antrenament acceptate includ mersul pe jos, alergarea, mersul cu bicicleta, săritul cu coarda, eliptica și canotajul.
+Afișaj
+Luminozitate
+Blocare automată
+Ridicați pentru a activa
+Ecran aprins pentru
+Întotdeauna pe ecran
+Acoperă pentru a dezactiva
+Automat
+%d secundă
+%d secundă
+%d secundă
+%d secunde
+%d secunde
+%d secunde
+%d secunde
+Pornit
+Oprit
+Pornit
+Oprit
+Pornit
+Oprit
+Programat
+Programat
+Automat
+Personalizat
+Luminozitate
+Automat
+%ds
+%ds
+%ds
+%ds
+%ds
+%ds
+%ds
+Blocare automată
+ 
+Menținerea ecranului pentru perioade lungi de timp va reduce durata de viață a bateriei. Continuați?
+Ridicați pentru a activa
+Oprit
+Programat
+%02d:%02d-%02d:%02d
+ 
+"Întotdeauna pe ecran" este pornit. Activarea "Ridicați pentru a activa" va reduce durata de viață a bateriei. Activați oricum?
+Ecran aprins pentru
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Acest lucru va face ca ecranul să rămână aprins pentru %d min de fiecare dată, ceea ce va afecta durata de viață a bateriei. Continuați oricum?
+Întotdeauna pe ecran
+Oprit
+Inteligent
+Programat
+%02d:%02d-%02d:%02d
+    
+Activarea "Întotdeauna pe ecran" poate reduce la jumătate durata de viață a bateriei. "Ridicați pentru a activa" va fi dezactivat. Continuați?
+Aflați mai multe
+Întotdeauna pe ecran
+Ora va fi afișată chiar și atunci când ecranul este blocat.
+Inteligent
+Întotdeauna pe ecran se va dezactiva când te culci sau când îți scoți banda.
+Acoperă pentru a dezactiva
+Începe
+AM
+PM
+%02d:%02d
+%02d:%02d
+Complicație
+Fitness
+De bază
+Mi Smart Hub
+Telefonul meu
+Boxă
+TV
+Căști
+Anularea zgomotului
+Transparență
+Oprit
+Dispozitiv
+Folosiți afișajul benzii?
+Căști
+Ștergeți afișajul benzii?
+Mod
+Pentru a salva modificările, glisați spre dreapta pe afișajul benzii.
+Anularea zgomotului
+Transparență
+Oprit
+ 
+ 
+Doar o secundă…
+Alerte meteo
+预警！
+Am înțeles
+%02d:%02d AM
+%02d:%02d PM
+Conectați-vă prin Bluetooth și activați "Actualizări meteo" în aplicație.
+Conectați-vă la Bluetooth și activați Notificările Meteo pentru a obține informații despre vreme pentru locațiile selectate.
+Conectați-vă la Bluetooth și încercați din nou
+%02d:%02d
+Meteo
+DND
+DND este pornit
+DND este oprit
+Găsește telefon
+Setări
+Fără date
+Navigație
+Paddleboarding
+Polo pe apă
+Alte sporturi acvatice
+Schi nautic
+Caiac
+Rafting
+Aparat de vâslit
+Barcă cu motor
+Înot cu labele
+Sărituri în apă
+Înot artistic
+Snorkeling
+Kitesurfing
+Flowriding
+Vas Dragon
+Alpinism
+Skateboarding
+Patinaj pe role
+Parkour
+ATV
+Parapantism
+BMX
+Ciclism interior
+Urcător de scări
+Stepper
+Spinning
+Formare de bază
+Flexibilitate
+Pilates
+Gimnastică
+Întinderi
+Putere
+Pregătire încrucișată
+A urca pe scări
+Aerobic
+Antrenament fizic
+Squash
+Gantere
+Halteră
+Ridicare greutăți
+Deadlift
+Burpee
+Abdomene
+Antrenament funcțional
+Partea superioară a corpului
+Partea inferioară a corpului
+Abs
+Spate
+Plimbat în aer
+Bară orizontală
+Paralele
+Stepper
+Gimnastică de masă
+Body combat
+Funie de luptă
+Aerobic combo
+Fitness interior
+Dansul pătrat
+Dans din buric
+Balet
+Dans de stradă
+Zumba
+Dans popular
+Dans de jazz
+Dans latin
+Hip hop
+Dans la bară
+Break dance
+Dans de sală
+Dans modern
+Dans
+Box
+Wrestling
+Arte marțiale
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Scrimă
+Jujitsu
+Fotbal
+Volei
+Baseball
+Softball
+Fotbal american
+Hochei
+Tenis de masă
+Badminton
+Cricket
+Handbal
+Bowling
+Minge la perete
+Biliard
+Fluturaș
+Fotbal de plajă
+Volei pe plajă
+Volei cu piciorul
+Futsal
+Hacky sack
+Bocce
+Pelotă
+Gateball
+Dodgeball
+Patinaj
+Patinaj interior
+Curling
+Alte sporturi de iarnă
+Scuter de zăpadă
+Hochei pe gheață
+Bob
+Sanie
+Tir cu arcul
+Darts
+Echitație
+Lupta cu odgonul
+Hula hoop
+Zmeu
+Pescuit
+Frisbee
+Fluturaș
+Legănare
+Joc Somatosensory
+Masă de fotbal
+Shuffleboard
+Esports
+Șah
+Dame
+Weiqi
+Bridge
+Joc de societate
+Ecvestru
+Atletism
+Curse auto
+Navigație
+Paddleboarding
+Polo pe apă
+Alte sporturi acvatice
+Schi nautic
+Caiac
+Rafting
+Aparat de vâslit
+Barcă cu motor
+Înot cu labele
+Sărituri în apă
+Înot artistic
+Snorkeling
+Kitesurfing
+Flowriding
+Vas Dragon
+Alpinism
+Skateboarding
+Patinaj pe role
+Parkour
+ATV
+Parapantism
+BMX
+Ciclism interior
+Urcător de scări
+Stepper
+Spinning
+Formare de bază
+Flexibilitate
+Pilates
+Gimnastică
+Întinderi
+Putere
+Pregătire încrucișată
+A urca pe scări
+Aerobic
+Antrenament fizic
+Minge la perete
+Gantere
+Halteră
+Ridicare greutăți
+Deadlift
+Burpee
+Abdomene
+Antrenament funcțional
+Partea superioară a corpului
+Partea inferioară a corpului
+Abs
+Spate
+Plimbat în aer
+Bară orizontală
+Paralele
+Stepper
+Gimnastică de masă
+Body combat
+Funie de luptă
+Aerobic combo
+Fitness interior
+Dansul pătrat
+Dans din buric
+Balet
+Dans de stradă
+Zumba
+Dans popular
+Dans de jazz
+Dans latin
+Hip hop
+Dans la bară
+Break dance
+Dans de sală
+Dans modern
+Dans
+Box
+Wrestling
+Arte marțiale
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Scrimă
+Jujitsu
+Fotbal
+Volei
+Baseball
+Softball
+Fotbal american
+Hochei
+Tenis de masă
+Badminton
+Cricket
+Handbal
+Bowling
+Squash
+Biliard
+Fluturaș
+Fotbal de plajă
+Volei pe plajă
+Volei cu piciorul
+Futsal
+Hacky sack
+Bocce
+Pelotă
+Gateball
+Dodgeball
+Patinaj
+Patinaj interior
+Curling
+Alte sporturi de iarnă
+Scuter de zăpadă
+Hochei pe gheață
+Bob
+Sanie
+Tir cu arcul
+Darts
+Echitație
+Lupta cu odgonul
+Hula hoop
+Zmeu
+Pescuit
+Frisbee
+Fluturaș
+Legănare
+Joc Somatosensory
+Masă de fotbal
+Shuffleboard
+Esports
+Șah
+Dame
+Weiqi
+Bridge
+Joc de societate
+Ecvestru
+Atletism
+Curse auto
+Doar o secundă…
+%02d:%02d
+Pauză
+Sfârșit
+Blochează ecranul
+Proiectează
+Proiectează
+Se caută
+Xiaomi TV
+Se conectează
+Dispozitivul nu a fost găsit
+Nume TV
+Conectat
+Deconectează
+Nu s-a putut conecta
+Încercați din nou
+%02d:%02d
+Sincronizare antrenamente
+Purtați banda așa cum se arată și începeți antrenamentul în aplicație
+Înapoi
+%02d:%02d
+Setări
+Moduri de alergare
+Afișaj
+DND
+Vibrație
+%02d:%02d
+Modul alergare
+Modul Pod
+Modul Colier
+Modul Pod
+Cu Modul Pod, puteți obține date despre formularul dvs. de alergare. Începeți un antrenament (alergare sau ciclism) în aplicație.
+Notificări aplicație, măsurarea pulsului va fi dezactivată. Banda nu va răspunde la atingeri accidentale.
+Activează
+Înapoi
+Începeți antrenamentul în aplicație
+Începeți antrenamentul în aplicație
+Dispozitivul este deconectat
+Glisați în sus pentru a ieși din Modul Pod
+Glisați în sus pentru a ieși
+Ieșiți din Modul Pod?
+Datele formularului de alergare nu vor fi înregistrate dacă ieșiți.
+Ieșire
+Anulează
+Ieșiți din Modul Colier?
+Ieșire
+Anulează
+Modul Colier
+Cu Modul Colier, ecranul va rămâne aprins, dar nu va răspunde la atingeri accidentale.
+Notificările aplicației și măsurarea pulsului vor fi dezactivate.
+Activează
+Înapoi
+Înregistrați detaliile ciclului în aplicație
+%0.1f
+oră
+oră
+oră
+ore
+ore
+ore
+ore
+Somn
+Purtați dispozitivul în pat pentru a genera date despre somn
+%u
+h
+h
+h
+h
+h
+h
+h
+min
+min
+min
+min
+min
+min
+min
+Obiectiv: %u h
+Obiectiv: %u h
+Obiectiv: %u h
+Obiectiv: %u h
+Obiectiv: %u h
+Obiectiv: %u h
+Obiectiv: %u h
+Puls
+Înregistrați Pulsul dvs.
+Începe
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Respirație
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Începe
+Respirație
+SpO₂
+Înregistrați-vă SpO₂
+u%
+%
+Stres
+Înregistrați-vă stresul
+u%
+Stres
+%02d
+'
+"
+.
+:
+Se salvează…
+Calibrare
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Timpul de antrenament este prea scurt pentru a fi înregistrat. Încheiați?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Baterie descărcată. Încărcați și încercați din nou.
+Actualizați banda utilizând aplicația
+Nu s-a putut actualiza
+Actualizare
+Actualizat. Se repornește.
+Se pregătește actualizarea
+Se primește actualizarea
+Nu s-a putut actualiza. Încercați din nou în aplicație.
+Actualizare primită. Se repornește.
+Banda se va actualiza automat mai târziu în această seară sau la încărcare.
+Folosiți cea mai recentă versiune.
+Memento-uri pentru actualizare
+Șterge
+
+%d
+
+%%
+Descărcați aplicația pentru a asocia banda
+%d
+Confirmați pe telefon
+Confirmați pe telefon
+Se asociază
+Nu s-a putut asocia. Încercați din nou.
+Asociat
+-
+-
+-
+-
+Odihnă
+min:sec
+Seturi
+Primiți memento-uri la intervale de distanță specificate
+%d lungime
+%d serie
+%d săritură
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+Am înțeles
+%d
+Obiectiv
+%02d:%02d:%02d
+Finalizat
+Obiectiv
+%d
+kcal
+Finalizat
+Obiectiv
+lungime
+lungime
+lungime
+lungimi
+lungimi
+lungimi
+lungimi
+Finalizat
+Obiectiv
+săritură
+săritură
+săritură
+sărituri
+sărituri
+sărituri
+sărituri
+Finalizat
+Obiectiv
+serie
+serie
+serie
+serii
+serii
+serii
+serii
+Finalizat
+Vedeți mai multe înregistrări în aplicație
+Despre bandă
+Nume
+Xiaomi Smart Band 8
+Model
+Adresă MAC
+Reglementat
+Reglementat
+CMIIT ID
+Model
+De intrare
+Sistem
+Repornește
+Oprește
+Resetare
+Reporniți acum?
+Opriți acum?
+%02d:%02d
+Va trebui să asociați din nou banda după ce ați efectuat o resetare din fabrică. Continuați?
+Nu purtați
+Nu s-a putut măsura
+Rezultat
+Aflați mai multe
+SpO₂
+Rezultat
+Nu purtați
+Nu s-a putut măsura
+%02d:%02d
+Somn ușor
+DND este pornit. Ridicați pentru a activa este oprit.
+Nu mai afișa din nou
+%02d:%02d
+E timpul să te trezești
+Renunță
+Amână
+%02d:%02d
+Somn
+%dh%dm
+%dh%dm
+%dh%dm
+%dh%dm
+%d°/%d°
+Am înțeles
+%02d:%02d
+Somn
+Am înțeles
+%02d:%02d
+%d°/%d°
+Am înțeles
+Antrenament în aer liber
+Purtați banda așa cum se arată și începeți antrenamentul în aplicație
+Spate
+Setări
+Moduri de alergare
+Afișaj
+DND
+Vibrație
+Modul alergare
+Modul Pod
+Mod somn opritla %02d:%02d
+Modul Colier
+Modul Pod
+Cu Modul Pod, puteți obține date despre formularul dvs. de alergare. Începeți un antrenament (alergare sau ciclism) în aplicație.
+Notificări aplicație, măsurarea pulsului va fi dezactivată. Banda nu va răspunde la atingeri accidentale.
+Activează
+Înapoi
+Începeți antrenamentul în aplicație
+Începeți antrenamentul în aplicație
+Dispozitivul este deconectat
+Ieșiți din Modul Pod?
+Datele formularului de alergare nu vor fi înregistrate dacă ieșiți.
+Ieșire
+Anulează
+Modul Pod
+Glisați în sus pentru a ieși
+Modul Colier
+Glisați în sus pentru a ieși
+Modul Colier
+Cu Modul Colier, ecranul va rămâne aprins, dar nu va răspunde la atingeri accidentale.
+Notificările aplicației și măsurarea pulsului vor fi dezactivate.
+Activează
+Spate
+Ieșiți din Modul Colier?
+Ieșire
+Anulează
+Activarea acestei funcții va crește utilizarea bateriei. Continuați oricum?
+Sunetul este pornit
+Doar o secundă…
+Sunetul este oprit
+Sunetul este oprit
+Doar o secundă
+Sunetul este pornit
+Deconectat
+Dezactivează
+Activează
+Conectați-vă la Bluetooth și încercați din nou
+Permiteți la bandă să deblocheze telefonul?
+Efectuat!
+Nu s-a putut autoriza
+ 
+%d
+Temporizator
+Temporizator
+%d
+min
+min
+min
+min
+min
+min
+min
+h
+h
+h
+h
+h
+h
+h
+Setează ora
+%d
+%02d
+Setează min
+%02d:%02d
+%02d:%02d:%02d
+Timpul a expirat
+%02d:%02d în urmă
+%02d:%02d:%02d în urmă
+AQI %d %s
+Nu s-a putut asocia
+Adăugați din nou dispozitivul
+Despre bandă
+Reglementat
+Resetare
+Repornește
+%02d:%02d
+Despre bandă
+Nume
+Xiaomi Smart Band 8
+Model
+Adresă MAC
+%02d:%02d
+Reglementat
+CMIIT ID
+De intrare
+Reporniți acum?
+Opriți acum?
+Va trebui să asociați din nou banda după ce ați efectuat o resetare din fabrică. Continuați?
+Baterie sub %d
+--
+%02d:%02d
+Vitalitate
+%d
+Ultimele 7 de zile
+Progres de 7 zile
+%d
+Ultimele 7 de zile
+Lun
+Mar
+Mie
+Joi
+Vin
+Sâm
+Dum
+Astăzi
+%d
+Astăzi
+%d
+Ușor
+Moderat
+Intens
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
++%d
+Setări
+Aflați mai multe
+Setări
+Monitorizare continuă
+Scorul de vitalitate se calculează folosind datele privind pulsul și activitatea. Permiteți benzii să vă măsoare pulsul mai des pentru un Scorul de vitalitate mai precis.
+Aflați mai multe
+Scorul de vitalitate este o modalitate de a măsura impactul antrenamentelor asupra sănătății. Pentru cele mai bune rezultate de sănătate, încercați să atingeți 100 puncte într-o perioadă de 7 zile.
+Scorurile de vitalitate se bazează pe recomandările ghidurilor OMS privind activitatea fizică și comportamentul sedentar.
+Adică, adulții ar trebui să se angajeze în 150-300 de minute de activitate aerobă de intensitate moderată sau 75-150 de minute de activitate aerobă de mare intensitate pe săptămână, sau o combinație a celor două, pentru beneficii maxime pentru sănătate.
+Orice activitate fizică, inclusiv activitatea de intensitate scăzută, este mai bună pentru sănătatea ta decât a rămâne sedentar.
+%d
+Ultimele 7 de zile
+%d
+Astăzi
+Ultimele 7 de zile
+%d
+Continuați să vă mișcați pentru a vedea și mai multe rezultate!
+Am înțeles
+Închide pentru astăzi
+Ești pe drumul cel bun!
+Ești de neoprit, ține-o tot așa!
+Ați câștigat suma maximă de puncte astăzi. Ia o pauză!
+Blochează ecranul
+După ce activați ecranul, glisați în sus pentru a debloca.
+%u
+7 zile de Puls în repaus
+%02u/%02u
+Model
+Astăzi
+Astăzi
+Strângeți cureaua la bandă și încercați din nou
+Asociați cu telefonul?
+Banda se va actualiza automat mai târziu în această seară sau la încărcare
+Folosiți cea mai recentă versiune
+Am înțeles
+Nu s-a putut actualiza. Conectați-vă la aplicație și încercați din nou.
+Deschide pe telefon
+OK
+Răspunde
+Se trimite
+Trimis
+Nu s-a putut trimite
+Deconectat
+Conectați-vă la Bluetooth și încercați din nou
+Timpul de antrenament este prea scurt pentru a fi înregistrat. Încheiați?
+Reluează
+Sfârșit
+Vizualizați rapoartele de antrenament în aplicație
+Efectuat
+%02d:%02d
+%02d
+Ritm
+kcal
+Viteză (km/h)
+Viteză (mph)
+Distanța curentă
+Ora curentă
+Kcal curent
+Lungimi curente
+Sărituri curente
+Serii curente
+Obiectiv
+Obiectiv
+Obiectiv
+Obiectiv
+Obiectiv
+Obiectiv
+Obiectiv completat
+%02d:%02d
+%d.%d
+Viteza medie (km/h)
+Viteza medie (mph)
+Frecv (ori/min)
+Sărituri curente
+Acest set
+Sărituri în acest set
+Total
+Kcal active
+Acest set
+Calorii
+%d.%d
+Viteza medie (km/h)
+Viteza medie (mph)
+Puls ridicat
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+RC maxim
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Aparat foto
+Silenționează telefonul
+Vitalitate
+DND pornit pentru %d h
+DND pornit pentru %d h
+DND pornit pentru %d h
+DND pornit pentru %d h
+DND pornit pentru %d h
+DND pornit pentru %d h
+DND pornit pentru %d h
+Oprit
+Deconectat
+:
+%02d:%02d - următoarea zi %02d:%02d
+DND este oprit
+Când utilizați telefonul, nu veți primi notificări telefonice pe bandă.
+Oprit
+Oprit
+Oprit
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Statistici
+Puls
+SpO₂
+Antrenament
+Conectați corect încărcătorul
+-
+Antrenamente
+Statistici
+Pași
+Calorii
+Mișcare
+Puls
+SpO₂
+Stres
+Baterie
+Dată
+Meteo
+UVI
+ICA
+Umiditate
+Carduri
+Alarmă
+Cronometru
+Aparat foto
+Instrumente
+Meteo
+lungime
+lungime
+lungime
+lungimi
+lungimi
+lungimi
+lungimi
+--'--"
+Nr. Versiune
+Nr. Serie
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Bea apă
+%02d:%02d:%02d
+Reluează
+Ridicați pentru a activa
+Punctaj respirație
+Urmărire continuă
+BPM neregulat
+%d
+Obiectiv: %d kcal
+Obiectiv: %d kcal
+Obiectiv: %d kcal
+Obiectiv: %d kcal
+Obiectiv: %d kcal
+Obiectiv: %d kcal
+Obiectiv: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Obiectiv: %d lungime
+Obiectiv: %d lungime
+Obiectiv: %d lungime
+Obiectiv: %d lungimi
+Obiectiv: %d lungimi
+Obiectiv: %d lungimi
+Obiectiv: %d lungimi
+lungime
+lungime
+lungime
+lungimi
+lungimi
+lungimi
+lungimi
+Obiectiv: %d serie
+Obiectiv: %d serie
+Obiectiv: %d serie
+Obiectiv: %d serii
+Obiectiv: %d serii
+Obiectiv: %d serii
+Obiectiv: %d serii
+serie
+serie
+serie
+serii
+serii
+serii
+serii
+Obiectiv: %d săritură
+Obiectiv: %d săritură
+Obiectiv: %d săritură
+Obiectiv: %d sărituri
+Obiectiv: %d sărituri
+Obiectiv: %d sărituri
+Obiectiv: %d sărituri
+săritură
+săritură
+săritură
+sărituri
+sărituri
+sărituri
+sărituri
+%d.%d
+Obiectiv: %d.%d km
+Obiectiv: %d.%d km
+Obiectiv: %d min
+Obiectiv: %d min
+Obiectiv: %dh %dm
+Obiectiv: %dh %dm
+Obiectiv: %dh %dm
+Obiectiv: %dh %dm
+Confirmă PIN
+Introduceți PIN
+Incorect
+Deconectat
+%d
+%
+min
+min
+min
+min
+min
+min
+min
+%d
+pas
+pas
+pas
+pași
+pași
+pași
+pași
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min
+min
+min
+min
+min
+min
+min
+%d
+h
+h
+h
+h
+h
+h
+h
+Record de distanță
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+lungime
+lungime
+lungime
+lungimi
+lungimi
+lungimi
+lungimi
+săritură
+săritură
+săritură
+sărituri
+sărituri
+sărituri
+sărituri
+serie
+serie
+serie
+serii
+serii
+serii
+serii
+km
+Record de timp
+Întrerupt
+Distanța de antrenament este prea mică pentru a fi înregistrată. Încheiați?
+--'--"
+Alergare
+Chiar acum
+Chiar acum
+Chiar acum
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d min în urmă
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Bras
+Stil liber
+Spate
+Fluture
+Mixt
+Alerte
+Se caută dispozitivul…
+Oprește
+Noros
+Înnorat
+Averse
+Furtună cu trăsnete
+Grindină
+Lapoviță
+Ploaie ușoară
+Ploaie moderată
+Ploaie torențială
+Furtună
+Ploaie torențială
+Precipitații abundente
+Averse de zăpadă
+Ninsoare ușoară
+Ninsoare moderată
+Ninsoare puternică
+Viscol
+Ceață
+Ploaie înghețată
+Furtună de nisip
+Ploaie ușoară până la moderată
+Ploaie moderată până la ploaie torențială
+Ploaie torențială până la furtună
+Furtună până la ploaie torențială
+Ploaie torențială până la furtună
+Zăpadă ușoară până la moderată
+Zăpadă moderată până la zăpadă mare
+Ninsoare puternică până la viscol
+Praf
+Vânt
+Furtună de nisip puternică
+Ceață
+Ceață groasă
+Negură
+Negură moderată
+Negură abundentă
+Negură severă
+Ceață deasă
+Ceață severă
+Nu este setat
+Ploaie
+Zăpadă
+Pornit pentru 
+%d h
+Pornit pentru 
+%d h
+Pornit pentru 
+%d h
+Pornit pentru 
+%d h
+Pornit pentru 
+%d h
+Pornit pentru 
+%d h
+Pornit pentru 
+%d h
+--'--"
+Doar o secundă
+Nu se redă
+Deconectat
+Minor
+Recuperare
+Se îmbunătățește
+Îmbunătățire extrem de mare
+Exagerat
+Ecranul se va bloca când porniți. Glisați în sus, apoi în jos pentru a debloca.
+Fără date
+Doar o secundă…
+--°
+%d°
+-
+h
+h
+h
+h
+h
+h
+h
+Recuperare
+Actualizat: %02d:%02d
+În picioare
+Senin
+Nicio notificare
+Cronometru
+Temporizator
+Lanternă
+Alergare/mers de bază
+Alergare/mers avansat
+Pas alergător de bază
+Alergare pentru arderea grăsimilor (De bază)
+Alergare pentru arderea grăsimilor (Avansat)
+Alergare MIIT
+Alergare de anduranță (De bază)
+Alergare de anduranță (Avansat)
+Interval alergare (De bază)
+Interval alergare (Avansat)
+Alergare/mers de bază
+Alergare/mers avansat
+Pas alergător de bază
+Alergare pentru arderea grăsimilor (De bază)
+Alergare pentru arderea grăsimilor (Avansat)
+Alergare MIIT
+Alergare de anduranță (De bază)
+Alergare de anduranță (Avansat)
+Interval alergare (De bază)
+Interval alergare (Avansat)
+Mers repede
+Pas alergător
+Alergare
+Sprint
+%d:%02d
+%d
+Rămase
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Antrenament
+Ora
+Puls curent
+Cursă terminată. Continuați antrenamentul?
+Continuați în %ds
+Continuați în %ds
+Stil liber
+Terminat!
+(Fără titlu)
+%02u:%02u AM–
+%02u:%02u PM–
+%02u:%02u AM
+%02u:%02u PM
+%u.%u.%u
+%u.%u
+%02u:%02u
+Astăzi
+Mâine
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d h
+În %d zi
+În %d zi
+În %d zi
+În %d zile
+În %d zile
+În %d zile
+În %d zile
+În %d zi
+În %d zi
+În %d zi
+În %d zile
+În %d zile
+În %d zile
+În %d zile
+Acum
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+În %d min
+Termen depășit
+--
+Efectuat!
+Nu s-a putut autoriza
+Lungimi în acest set
+Rămase
+%ld . %ld
+km
+m
+%02d : %02d
+Monitorizarea stresului pe tot parcursul zilei
+Monitorizare avansată a somnului
+Monitorizarea stresului pe tot parcursul zilei
+Monitorizare avansată a somnului
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Ecran aprins pentru
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Ecranul va rămâne aprins pentru %d min de fiecare dată. Acest lucru va afecta durata de viață a bateriei. Activați oricum?
+Inteligent
+Programat
+Meteo
+Alertă
+预警。
+%02d:%02d AM
+%02d:%02d PM
+Glisați pentru a debloca
+Foarte mare
+AQI %d
+%s
+Ecran aprins pentru
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Mexico City
+Winnipeg
+Guatemala
+San Salvador
+Tegucigalpa
+Managua
+Havana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Permiteți la bandă să deblocheze telefonul?
+Buenos Aires
+Montevideo
+Brasília
+Praia
+Reykjavik
+Lisabona
+Casablanca
+Dublin
+Madrid
+Lagos
+Alger
+Bruxelles
+Geneva
+Frankfurt
+Oslo
+Copenhaga
+Roma
+Berlin
+Praga
+Zagreb
+Viena
+Stockholm
+Budapesta
+Varșovia
+Windhoek
+Sofia
+Tallinn
+Helsinki
+București
+Kiev
+Harare
+Ierusalim
+Beirut
+Kaliningrad
+Amman
+Khartoum
+Minsk
+Istanbul
+Ankara
+St. Petersburg
+Nairobi
+Addis Ababa
+Bagdad
+Aden
+Riyadh
+Antananarivo
+Kuwait
+Abu Dhabi
+Muscat
+Samara
+Kabul
+Karachi
+Mumbai
+Kathmandu
+Dhaka
+Almaty
+Novosibirsk
+Phnom Penh
+Hanoi
+Jakarta
+Kuala Lumpur
+Taiwan, China
+Taiwan
+Perth
+Irkutsk
+Manila
+Pyongyang
+Tokyo
+Chita
+Darwin
+Vladivostok
+Brisbane
+Adelaide
+Magadan
+Kamchatka
+Suva
+Auckland
+Kiritimati
+Washington, D. C.
+San Francisco
+Nimic încă aici
+Astăzi
+--
+OK
+m în urmă
+m în față
+Se măsoară
+%d notificare
+%d notificare
+%d notificare
+%d notificări
+%d notificări
+%d notificări
+%d notificări
+Nu redă audio
+Amsterdam
+Baterie descărcată
+Baterie sub %d%%. Încărcați acum.
+Comenzi rapide
+Durata de antrenament este prea mică pentru a fi înregistrată.
+Ceas mondial
+Obiectiv: %d m
+Obiectiv: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Somn
+Recuperare
+Vitalitate
+Plată Weixin
+Alipay
+Ieri %02d:%02d AM
+Ieri %02d:%02d PM
+%02%02d.%02d %02d:%02d AM
+%02%02d.%02d %02d:%02d PM
+Când purtați banda în pat, aceasta va înregistra automat informații despre somnul dvs. Dispozitivul va afișa ultimele 3 înregistrări; puteți vizualiza informații mai detaliate în aplicație.
+Activați monitorizarea avansată în Setări pentru a obține informații mai precise despre somn, cum ar fi recunoașterea somnului REM.
+Când dormi mai mult de 3 ore, dispozitivul tău va afișa pulsul mediu, nivelul SpO₂ și scorul de somn. Pentru un pui de somn sub 3 ore, va fi afișată doar ora la care adormi și te trezești. Un pui de somn sub 20 de minute nu va fi înregistrat.
+Calitatea slabă a somnului și mișcarea excesivă în timpul somnului pot cauza măsurători inexacte ale pulsului și ale SpO₂.
+...
+Mediu
+Slab
+%02d:%02d:%02d.%02d
+Introduceți PIN-ul pentru a debloca
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth deconectat. Conectați-vă pentru a sincroniza datele de antrenament.
+În %u zi
+În %u zi
+În %u zi
+În %u zile
+În %u zile
+În %u zile
+În %u zile
+Excelent
+Necunoscut
+Necunoscut
+Fără informații pistă
+Începe
+Sfârșit
+%.2F
+Deconectat
+Conectați-vă prin Bluetooth și încercați din nou
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Aflați mai multe
+.
+-
+Denumire produs
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Obiectiv BPM:
+Obiectiv:
+Nu există evenimente astăzi
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Sever
+%u Sever
+%u Sever
+%u%%
+--°
+--
+AQI --
+Conectați-vă la aplicație pentru a obține informații meteo
+.
+Puls
+Set
+Set
+Set
+Set
+Set
+Timp
+Timp
+Timp
+Timp
+Timp
+Pași
+Serii
+Sărituri
+Lungimi
+Coborâri
+Xiaomi Smart Band 8 NFC
+/
+-
+Puteți edita acum afișarea benzii. Atingeți pentru a confirma editarea.
+Pentru a salva modificările, glisați spre dreapta pe afișajul benzii.
+Schimbarea limbii
+Doar ceasul și numărul de pași vor fi disponibile când Economizator baterie este activat. Țineți apăsat pe ecran sau încărcați pentru a dezactiva.
+Dispozitivul este supraîncălzit. Se oprește.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d zi %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d zile %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d zi %d h.
+Dezactivarea acestei funcții va prelungi durata de viață a bateriei cu aproximativ %d zile %d h.
+Încărcare antrenament
+Timp de odihnă (h)
+Vitalitate
++%u
+Pentru a edita widget-uri, du-te la Dispozitiv > Widget-uri în aplicație.
+Alarmă
+Acordați permisiuni DND în aplicație
+OK
+Actualizat %dm în urmă
+Actualizat %dm în urmă
+%d°/%d°
+Datele au expirat
+Actualizat: %02d:%02d
+Actualizat ieri, %02d:%02d
+Evenimente
+Chiar acum
+Măsurarea a expirat. Asigurați-vă că banda dvs. se potrivește perfect.
+,
+%ld,%ld
+%d
+km/h
+Puls curent
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Sfârșit
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Degetele de la picioare în această direcție
+Permisiunile de locație sunt necesare pentru a vă putea înregistra traseul.
+În Setările telefonului, acordați permisiunea Mi Fitness pentru a vă accesa locația și selectați "Permite întotdeauna".
+%02d:%02d:%02d
+Pentru măsurători precise ale pulsului, purtați dispozitivul confortabil, la aproximativ un deget de lățimea încheieturii mâinii. Dacă alunecă în timpul exercițiilor, reajustați-l imediat.
+Această activitate va înregistra doar date despre aruncările de frisbee dintr-o mână. Purtați dispozitivul la încheietura mâinii cu care veți arunca.
+Sfaturi
+Aruncări
+Aruncare
+Aruncare
+Aruncare
+Aruncări
+Aruncări
+Aruncări
+Aruncări
+Forța de aruncare
+Mică
+Medie
+Mare
+%d aruncare
+%d aruncare
+%d aruncare
+%d aruncări
+%d aruncări
+%d aruncări
+%d aruncări
+Setări DND
+Mod somn
+Când dispozitivul recunoaște că dormiți, DND se va porni automat.
+Modul somn
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Toată ziua
+Personalizat
+Setări

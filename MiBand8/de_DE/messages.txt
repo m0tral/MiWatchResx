@@ -1,0 +1,4341 @@
+Telefon finden
+Dein Telefon wird klingeln
+Suchen
+Anhalten
+Abgeschlossen
+Erneut suchen
+Getrennt
+Über Bluetooth verbinden und erneut versuchen
+Kamera deines Telefons öffnen
+OK
+In der App in „Kamera“ koppeln
+OK
+Getrennt
+Über Bluetooth verbinden und erneut versuchen
+%d Sek.
+%d Sek.
+%d Sek.
+%d Sek.
+%d Sek.
+%d Sek.
+%d Sek.
+Jetzt
+Weckzeit
+Keine Weckzeiten
+AM
+PM
+%02d:%02d
+Einmal
+Täglich
+Werktage
+Feiertage
+ 
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+Füge bis zu 10 Weckzeiten hinzu
+Zeit
+AM
+PM
+%02d
+%02d
+:
+Smartes Wecken
+Überlasse deinem Band innerhalb eines 10-minütigen Fensters die Entscheidung, dich vor deinem Wecker aufzuwecken
+Wiederholen
+Einmal
+Täglich
+Werktage
+Feiertage
+Angepasst
+Angepasst
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+Schlummern
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Aus
+10 Min. schlummern
+Zeit
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Wiederholen
+Einmal
+Täglich
+Werktage
+Feiertage
+ 
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+Smartes Wecken
+An
+Aus
+%d%%
+%02d:%02d
+Akku unter %d%%
+Die Batterie ist unter %d%%. Energiesparmodus einschalten?
+Energiesparmodus
+Verbleibende Akkulaufzeit 
+etwa: %d Tag %d Std.
+Nur die Uhr, Schrittzahl und NFC sind verfügbar, wenn der Energiesparmodus eingeschaltet ist. Halte zum Deaktivieren den Bildschirm gedrückt oder lade das Band.
+Band ist zu heiß zum Laden. Trage es jetzt nicht.
+Band ist zu kalt zum laden. Trage es jetzt nicht.
+%02d:%02d
+Stoppuhr
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Es wurde kein Standort hinzugefügt
+%02d:%02d
+Wellington
+Sydney
+Tokio
+Seoul
+Peking
+Hongkong
+Singapur
+Bangkok
+Neu-Delhi
+Islamabad
+Dubai
+Moskau
+Kairo
+Kapstadt
+Paris
+London
+New York
+Chicago
+Los Angeles
+Honolulu
+Athen
+Teheran
+Rangoon
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Seoul
+Peking
+Hongkong
+Singapur
+Bangkok
+Neu-Delhi
+Islamabad
+Dubai
+Moskau
+Kairo
+Kapstadt
+Paris
+London
+New York
+Chicago
+Los Angeles
+Honolulu
+Athen
+Teheran
+Rangoon
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Seoul
+Peking
+Hongkong
+Singapur
+Bangkok
+Neu-Delhi
+Islamabad
+Dubai
+Moskau
+Kairo
+Kapstadt
+Paris
+London
+New York
+Chicago
+Los Angeles
+Honolulu
+Athen
+Teheran
+Rangoon
+Rio de Janeiro
+Die Sommerzeitdaten sind veraltet. Stelle zur Aktualisierung eine Verbindung mit der App her.
+%02d:%02d
++%d Std.
++%.1f Std.
++%d Std.
++%d Std.
++%d Std.
++%d Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%d Std.
++%d Std.
+-%d Std.
+-%.1f Std.
+-%d Std.
+-%d Std.
+-%d Std.
+-%d Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%d Std.
+-%d Std.
+%02d.%02d.
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%.1f Std.
+-%d Std.
+-%d Std.
+-%d Std.
+-%d Std.
+-%d Std.
+-%d Std.
+-%d Std.
++%d Std.
++%.1f Std.
++%d Std.
++%d Std.
++%d Std.
++%d Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%.1f Std.
++%d Std.
++%d Std.
+Standort hinzufügen
+Füge mehr Standorte in der App hin
+Füge bis zu
+20 Standorte hinzu
+%02d:%02d
+Fokus
+Ruhezeit
+Minute
+Minute
+Minute
+Minuten
+Minuten
+Minuten
+Minuten
+Ruhezeit
+%02d:%02d
+Dauer festlegen
+Ausruhen
+Pausiert
+Ruhezeit
+Heute
+%02d:%02d:%02d
+Fokuszeit
+Fokus
+Fokus
+
+BNS ist während dieser Sitzung eingeschaltet
+Bleib fokussiert
+Mehr erfahren
+Fokus
+Fokus hilft dir, dich über einen kurzen Zeitraum hinweg zu konzentrieren und effizienter zu arbeiten.
+
+Eine Fokus-Sitzung dauert normalerweise 25 Minuten. Sobald du anfängst, konzentriere dich voll und ganz auf deine Aufgabe, bis dein Gerät vibriert. Dann kannst du dich 5 Minuten lang ausruhen.
+
+ Wir empfehlen, nach jeweils 4 Fokus-Sitzungen eine Pause von 15-20 Minuten einzulegen.
+Konzentriere dich
+Einen Moment
+Spielt nicht
+Getrennt
+Fehlende Berechtigungen
+Benachrichtigungen in der App einschalten
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Schwein)
+ 
+ 
+ 
+ 
+ 
+%d.%d
+Woche %d
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Schalte Ereignisse in der App ein
+Keine Ereignisse
+%02d.%02d.
+Mo
+%02d.%02d.
+Di
+%02d.%02d.
+Mi
+%02d.%02d.
+Do
+%02d.%02d.
+Fr
+%02d.%02d.
+Sa
+%02d.%02d.
+So
+Ganztägig
+%02d:%02d-%02d:%02d
+Schlummern
+Verwerfen
+Schlummern
+für 10 Min.
+Einschalten
+Keine Ereignisse
+In der App hinzufügen
+Heute
+In Kürze
+%02d:%02d AM
+%02d:%02d PM
+%d.%d. Mo
+%d.%d. Di
+%d.%d. Mi
+%d.%d. Do
+%d.%d. Fr
+%d.%d. Sa
+%d.%d. So
+Schlummern
+Verwerfen
+%02d:%02d AM
+%02d:%02d PM
+Ereignis
+Schlummern
+für 10 Min.
+Details
+Gerät wird gesucht …
+Anhalten
+Zuhören
+Beginne durch sprechen
+Mi AI in der App einrichten
+Überprüfe deine 
+Netzwerkverbindung 
+oder versuche es später erneut
+Getrennt.
+ Per Bluetooth verbinden.
+Band lädt Daten
+ hoch. Mi AI lässt sich
+ derzeit nicht nutzen.
+Diese Funktion wird noch nicht unterstützt
+Was hast du gesagt?
+Mi AI ließ sich nicht wecken. Erneut versuchen.
+Montag
+Dienstag
+Mittwoch
+Donnerstag
+Freitag
+Samstag
+Sonntag
+Tippe, um Mi AI zu wecken
+Frage auf deinem Telefon Mi AI
+Mi AI ist derzeit nur auf dem chinesischen Festland verfügbar.
+Ausgezeichnet
+Gut
+Moderat
+Ungesund
+Gefährlich
+Riskant
+Ausgezeichnet
+Gut
+Moderat
+Ungesund
+Gefährlich
+Riskant
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Morgen
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+AQI %d
+Sonnenaufgang
+Sonnenuntergang
+%02d:%02d
+Wind
+%d
+Luftfeuchtigkeit
+%d%%
+UV
+%lu
+%d°/%d°
+Standort wechseln
+Standorte in den Wettereinstellungen
+der App festlegen
+%d
+℃
+℉
+Karten
+Karten in der App hinzufügen
+Einen Moment
+  
+Guthaben
+Nahe an den Reader halten
+Einen Moment
+Aktivierung fehlgeschlagen.
+Bitte erneut versuchen.
+Zahlung ist erfolgt
+-%.2F
+Guthaben
+-%.2F
+Niedriges Guthaben. Fülle es bald auf.
+Atmung
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+Starten
+Entspannen
+Konzentriere dich auf deine Atmung
+Los geht's
+Folge der Blase
+Einatmen
+Ausatmen
+Gut gemacht
+Einheit: %d Min.
+Einheit: %d Min.
+Einheit: %d Min.
+Einheit: %d Min.
+Einheit: %d Min.
+Einheit: %d Min.
+Einheit: %d Min.
+%2d:%2d
+Ergebnisse
+Aktuelle HF
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+HF starten
+Einheit
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Fertig
+Zeit
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+%d
+%d
+%d Atemzug
+%d Atemzug
+%d Atemzug
+%d Atemzüge
+%d Atemzüge
+%d Atemzüge
+%d Atemzüge
+%02u:%02u
+Puls
+Messung läuft
+Stillhalten
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Jetzt gerade
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+%02u:%02u
+Erneut versuchen
+Messen
+Nicht tragend
+Keine Daten
+Nicht tragend
+OK
+%u
+%u
+Tipps
+1. Trage dein Band oberhalb deines Handgelenks
+2. Dein Band sollte eng anliegen und sich nicht bewegen
+3. Die Messgenauigkeit kann durch unterschiedliches Tragen des Bandes, Veränderungen deiner Haut und der Umgebung usw. beeinflusst werden.
+*Diese Funktion ist nicht für medizinische Zwecke gedacht und dient auch nicht der Diagnose, Behandlung, Heilung oder Vorbeugung von Krankheiten oder Beschwerden.
+Hohe HF
+Hohe HF
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Mehr erfahren
+Dein Band benachrichtigt dich, sobald deine Herzfrequenz im Ruhezustand einen bestimmten Wert überschreitet. Es ist manchmal normal, dass deine Herzfrequenz als Reaktion auf Stress, Koffeinkonsum oder eine Erkältung ansteigt. Allerdings sollten Menschen, die unter Schwindel, Kurzatmigkeit oder Herzklopfen leiden, einen Arzt aufsuchen. Beachte bitte, dass die Angaben zur hohen Herzfrequenz weder für medizinische Zwecke noch für die Diagnose, Behandlung, Heilung oder Vorbeugung von Krankheiten oder Zuständen bestimmt sind. Auf dem Band werden lediglich die letzten 3 zu hohen Herzfrequenzendaten angezeigt. Weitere Informationen findest du in der App.
+Niedrige HF
+Niedrige HF
+Mehr erfahren
+Dein Band benachrichtigt dich, wenn dein Puls unter einen festgelegten Wert abfällt. Das passiert häufig im Schlaf oder bei Menschen, die körperlich aktiv sind. Bei Schwindel, Kurzatmigkeit oder Herzklopfen solltest du einen Arzt aufsuchen. Bitte beachte, dass die Daten zum niedrigen Puls weder für medizinische Zwecke noch zur Diagnose, Behandlung, Heilung oder Vorbeugung einer Krankheit oder eines Gesundheitszustands bestimmt sind. Auf dem Band werden lediglich die letzten 3 zu niedrigen Herzfrequenzendaten angezeigt. Weitere Informationen findest du in der App.
+Unregelmäßige BPM
+Unregelmäßig
+%02u:%02u-%02u:%02u
+Details werden in der App angezeigt
+Mehr erfahren
+Dein Band misst deinen Puls und zeichnet eventuelle Abweichungen auf, während du nicht aktiv bist. Wenn du dich unwohl fühlst, solltest du einen Arzt aufsuchen.
+HF-Bereich
+%uStd. %uMin.
+%uStd. %uMin.
+%uStd. %uMin.
+%uStd. %uMin.
+%uStd.
+%uStd.
+%uStd.
+%uStd.
+%uStd.
+%uStd.
+%uStd.
+%1uStd.
+%1uStd.
+%1uStd.
+%1uStd.
+%1uStd.
+%1uStd.
+%uMin.
+%uMin.
+%uMin.
+%uMin.
+%uMin.
+%uMin.
+%uMin.
+%2uMin.
+%2uMin.
+%2uMin.
+%2uMin.
+%2uMin.
+%2uMin.
+VO₂ max
+Anaerobisch
+Aerobisch
+Intensiv
+Leicht
+Mehr erfahren
+Leicht
+50–60 % des maximalen Puls sind für Aufwärm- und Abkühlphasen geeignet.
+Intensiv
+Das Fenster von 61–70 % ist perfekt für die Fettverbrennung.
+Aerobisch
+Bei 71–80 % werden die kardiopulmonalen Funktionen gestärkt.
+Anaerobisch
+Wenn das Fenster von 81–90 % erreicht ist, wird die Milchsäuretoleranz verbessert.
+VO₂ max
+Ein Training bei 91–100 % des maximalen Pulses ist für erfahrene Sportler geeignet.
+Einstel-
+lungen
+Puls
+Kontinuierliche Überwachung
+Aus
+Autom.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+Kontinuierliche Überwachung
+Verfolge deinen Puls rund um die Uhr.
+Aus
+Autom.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+%u Min.
+Unregelmäßige BPM
+An
+Unregelmäßige BPM
+Diese Funktion überwacht deinen Puls in Echtzeit und zeichnet alle unregelmäßigen Herzschläge auf.
+ 
+Durch das Einschalten dieser Funktion verringert sich die Akkulaufzeit beträchtlich. Trotzdem aktivieren?
+Hohe HF
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Hohe HF
+Wähle einen Puls, bei dessen Überschreitung du gewarnt wirst
+Aus
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Hohe HF
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei über %u BPM.
+Verwerfen
+Heute abschalten
+Niedrige HF
+Niedrige HF
+Wähle einen Puls, bei dessen Unterschreitung du gewarnt wirst
+Niedrige HF
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Ab %02u:%02u lag deine Ruhefrequenz bei unter %u BPM.
+Mehr erfahren
+Mehr erfahren
+Puls
+Der Puls ist die Anzahl der Herzschläge pro Minute (BPM). Normalerweise liegt der Ruhepuls zwischen 55 und 80 BPM. Er variiert jedoch je nach Alter, Geschlecht und anderen Faktoren. Dein Gerät unterstützt einen Bereich von 30–240 BPM
+Schlaf
+Trage dein Gerät im Bett, um Schlafdaten zu generieren
+%02u
+Std.
+Min.
+Ziel: %2u Std.
+Ziel: %2u Std.
+Ziel: %2u Std.
+Ziel: %2u Std.
+Ziel: %2u Std.
+Ziel: %2u Std.
+Ziel: %2u Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Ziel: %02uStd. %2uMin.
+Aktualisiert: %02u:%02u
+Nickerchen
+%02u
+%02u:%02u-%02u:%02u
+Schlaf
+Tief
+%u%%
+Leicht
+REM
+Aufwachen
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Ø-HF
+%u
+Ø-SpO₂
+Einstellungen
+Mehr erfahren
+Einstellungen
+Erweiterte Überwachung
+Aus
+Atmungspunkte
+An
+Erweiterte Überwachung
+Wenn diese Funktion eingeschaltet ist, verfolgt dein Gerät deinen REM-Schlaf.
+
+Durch das Einschalten dieser erweiterten Überwachung verringert sich die Akkulaufzeit beträchtlich. Trotzdem aktivieren?
+Atmungspunkte
+Wenn diese Funktion aktiviert ist, wird deine Atmung in der Nacht, während du schläfst, überwacht. Du kannst dir die Atmungswerte in der App ansehen.
+Durch die Überwachung deiner Atmung verringert sich die Akkulaufzeit beträchtlich. Trotzdem aktivieren?
+Mehr erfahren
+Trage dein Band im Bett, um deinen Schlaf zu überwachen. Du kannst dir die 3 letzten Aufzeichnungen des Schlafverlaufs auf deinem Band anzeigen lassen. Detailliertere Schlafdaten sind in der App auf deinem Telefon verfügbar. Aktiviere die erweiterte Überwachung in den Einstellungen, um deine schnellen Augenbewegungen zu verfolgen und genauere Schlafinformationen zu erhalten. Bei einem ununterbrochenen Schlaf von mindestens 3 Stunden kann das Armband die durchschnittlichen Puls- und den Blutsauerstoffwerte aufzeichnen. Bei einem Nickerchen werden nur die Einschlaf- und Aufwachzeiten erfasst. Solche, die weniger als 20 Minuten dauern, werden gar nicht festgehalten. Eine schlechte Schlafqualität und übermäßige Bewegungen des Handgelenks während des Schlafs können zu ungenauen Pulsdaten und einer ergebnislosen Blutsauerstoffmessung führen.
+%02u:%02u
+Stress
+Keine Daten
+Messen
+%u
+Entspannt
+Schwach
+Moderat
+Ernst
+Jetzt gerade
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+%02u:%02u
+Halte das Band still und nach oben gerichtet
+%u
+Messung läuft
+Stillhalten
+Stillhalten
+Halte das Band immer an deiner Haut
+Halte dein Handgelenk flach und das Display nach oben gerichtet
+Straffe das Band und versuche es erneut
+Straffe das Band und versuche es erneut
+Halte still während der Messung
+Straffe das Band und versuche es erneut
+Erneut versuchen
+OK
+Sitzung unterbrochen. Jetzt abbrechen?
+Tipps
+Trage dein Band oberhalb deines Handgelenks.
+Dein Band sollte eng anliegen und sich nicht bewegen.
+Die Messungen hängen u. a. von der niedrigen Temperatur und der Hautdurchblutung ab.
+Diese Funktion ist nicht für medizinische Zwecke gedacht.
+Schwerer Stress
+%u
+Ernst
+Versuche es mit Atemübungen.
+Atmung
+Verstanden
+Heute abschalten
+Stress
+%u
+%u
+Entspannt
+Schwach
+Moderat
+Schwer
+Jetzt gerade
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+%02u:%02u
+Messen
+Keine Daten
+Details
+Entspannt
+Schwach
+Moderat
+Schwer
+%u%%
+Letzte 7 Tage
+%02u.%02u.
+Heute
+%u
+ø
+Einstellungen
+Mehr erfahren
+Stress
+Ganztägige Überwachung
+An
+Aus
+Relax-Erinnerung
+Ganztägige Überwachung
+Diese Funktion verfolgt dein Stresslevel, wenn du dich nicht bewegst.
+Relax-Erinnerung
+Führe eine Atemübung durch, wenn dein Stresslevel im Wachzustand über 80 bleibt
+Durch das Einschalten dieser Funktion verringert sich die Akkulaufzeit beträchtlich. Trotzdem aktivieren?
+Mehr erfahren
+Stress ist die Reaktion deines Körpers auf Herausforderungen und Beanspruchung.
+Stress wird nur während Ruhezeiten gemessen. Stresslevel werden wie folgt definiert:
+Entspannt: 1–25 
+Schwach: 26–50 
+Moderat: 51–80 
+Schwer: 81–100
+Mehrere Faktoren können die Genauigkeit beeinflussen. Ergebnisse dienen nur als Anhaltspunkte.
+%02u:%02u
+SpO₂
+Keine Daten
+Messen
+%u
+%
+Jetzt gerade
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+%02u:%02u
+Halte das Band still und nach oben gerichtet
+%u
+SpO₂
+Messung läuft
+Kalibrierung läuft
+Stillhalten
+Stillhalten
+Halte das Band immer an deiner Haut
+Halte dein Handgelenk flach und das Display nach oben gerichtet
+Straffe das Band und versuche es erneut
+Erneut versuchen
+Straffe das Band und versuche es erneut
+Halte still während der Messung
+Straffe das Band und versuche es erneut
+Halte dein Handgelenk flach und das Display nach oben gerichtet
+Dein Band sollte eng anliegen und sich nicht bewegen
+Verstanden
+Verstanden
+Tipps
+1. Trage dein Band oberhalb deines Handgelenks.
+2. Dein Band sollte eng anliegen und sich nicht bewegen.
+3. Die Messungen hängen u. a. von der niedrigen Temperatur und der Hautdurchblutung ab.
+Diese Funktion ist nicht für medizinische Zwecke gedacht.
+SpO₂
+%u
+%u
+%
+Jetzt gerade
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+Vor %u Min.
+%02u:%02u
+Messen
+Warnungen
+Einstellungen
+Mehr erfahren
+Mehr erfahren
+Dein Band unterstützt einen Bereich von 75–100 %.
+Niedriger SpO₂
+1. SpO₂ steht für den Prozentsatz an Sauerstoff in deinem Blut.
+%02u:%02u
+2. Messwerte unter 95 % im aktiven und unter 90 % im Schlafzustand gelten als niedrig.
+%u
+%u%% - %u%%
+3. Es gibt mehrere Faktoren, die Messungen inkonsistent oder unzuverlässig machen können. Dazu können Hautdurchblutung, dauerhafte oder vorübergehende Veränderungen deiner Haut, Bewegung oder Haltung während des Schlafes gehören. All dies kann zu einem fälschlicherweise niedrigen Blutsauerstoffalarm führen. Denke daran, dass dies kein medizinisches Gerät ist und die von ihm generierten Daten nicht für Diagnose und Behandlung verwendet werden können.
+Mehr erfahren
+Wenn deine Sauerstoffsättigung über einen bestimmten Zeitraum unter dem eingestellten Wert bleibt, erhältst du eine Warnmeldung. Dein Band zeigt die 3 letzten Aufzeichnungen an. Mehr dazu in der App.
+Wenn Kurzatmigkeit, Kopfschmerzen, Müdigkeit oder Konzentrationsschwäche bei dir auftreten, suche einen Arzt auf.
+Der Messbereich des Bandes liegt zwischen 75 und 100%. Diese Funktion dient keinen medizinischen Zwecken und sollte nur als Referenz verwendet werden.
+Sitzung unterbrochen. Jetzt abbrechen?
+Einstellungen
+Ganztägiges Tracking
+An
+Aus
+Warnungen
+Aus
+%d%%
+%d%%
+%d%%
+Ganztägiges Tracking
+Diese Funktion misst deinen SpO₂, wenn du dich im Ruhezustand befindest.
+Warnungen
+Erhalte eine Erinnerung, wenn dein SpO₂ im Wachzustand unter einen bestimmten Wert fällt
+Aus
+0.8
+0.85
+0.9
+ 
+Durch das Einschalten dieser Funktion verringert sich die Akkulaufzeit beträchtlich. Trotzdem aktivieren?
+Warnungen
+%u
+%
+Dein aktueller SpO₂ liegt unter %u%%
+Verwerfen
+Heute abschalten
+%02d:%02d
+Zyklen
+%02d/%02d
+%02d.%02d.
+Heute keine Daten
+Aufzeichnen
+Tag %d
+Tag %d
+Tag %d
+Tag %d
+Tag %d
+Tag %d
+Tag %d
+Voraussichtliche Periode
+%02d/%02d-%02d/%02d
+Abbrechen
+Periode beendet
+Periode
+Zyklen
+%02d/%02d
+%02d/%02d
+Heute keine Daten
+Periode begonnen
+Abbrechen
+Periode beendet
+Vorhersage
+Schalte Periodenvorhersagen in der App an
+Mehr erfahren
+Tag %02d
+Tag %02d
+Tag %02d
+Tag %02d
+Tag %02d
+Tag %02d
+Tag %02d
+Fruchtbar
+Voraussichtliche Periode
+Periode
+%02d/%02d-%02d/%02d
+Fruchtbar
+%02d/%02d-%02d/%02d
+Periode
+Eisprung
+%02d/%02d
+Eisprung
+In %d Tag
+In %d Tag
+In %d Tag
+In %d Tagen
+In %d Tagen
+In %d Tagen
+In %d Tagen
+Mehr erfahren
+1. Farben
+Periode
+Voraussichtliche Periode
+Fruchtbar
+Eisprung
+2. Tipp
+Um die Vorhersagen genauer zu machen, zeichne Perioden auf und bearbeite die Zykluslänge in der App.
+Nahende Periode
+Nahende fruchtbare Periode
+Nahender Eisprung
+Morgen
+In 2 Tagen
+In %u Tag
+In %u Tag
+In %u Tag
+In %u Tag
+In %u Tagen
+In %u Tagen
+In %u Tagen
+In %u Tagen
+Nächste Periode am %u.%u.
+Nächste fruchtbare Periode am %u.%u.
+Nächster Tag des Eisprungs am %u.%u.
+%02u:%02u
+AM
+PM
+Verstanden
+Laufen im Freien
+Gehen
+Gehen
+Laufband
+Indoor-Laufen
+Radfahren im Freien
+Trekking
+Trail-Lauf
+Wandern
+Freistil
+Indoor-Fitness
+Yoga
+Beckenschwimmen
+Offenes Gewässer
+Crosstrainer
+Ruderer
+Seilspringen
+HIIT
+Tennis
+Basketball
+Snowboarden
+Skifahren
+Skilanglauf
+Golf
+Andere Sportarten
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Ziel
+%d%
+Zielerreichung
+%u.%02u
+km
+Ziel
+Abgeschlossen
+Überblick
+%u'%02u"
+Ø-Tempo
+Tempo
+%d
+Ø-Schrittfrequenz (SPM)
+Ø-Schrittlänge (cm)
+Kalorien
+Ø-HF
+Max. HF
+Schritte
+VO₂ max
+Bahnen
+Hauptstil
+Ø-SWOLF
+Züge insgesamt
+Ø-SPM
+Trainingszeit
+Ruhezeit
+Sets
+Züge insgesamt
+Sprünge insgesamt
+Ø-Freq. (JPM)
+Brustschwimmen
+Freistil
+Schmetterlingsstil
+Rückenschwimmen
+HF-Bereich
+VO₂ max
+Anaerobisch
+Aerobisch
+Intensiv
+Leicht
+%dStd. %dMin.
+%dStd. %dMin.
+%dStd. %dMin.
+%dStd. %dMin.
+%dMin.
+%dMin.
+%dMin.
+%dMin.
+%dMin.
+%dMin.
+%dMin.
+%dStd.
+%dStd.
+%dStd.
+%dStd.
+%dStd.
+%dStd.
+%dStd.
+Trainingseffekt
+%d.%d
+Gleichbleibend
+Aerobic-Training
+%d.%d
+Aerobic-Training
+Weitere Details werden in der App angezeigt
+%d
+Trainingsbelastung
+Gut
+Gering
+Hoch
+Letzte 7 Tage
+%d
+ml/kg/min
+VO₂ max
+Sehr gering
+Gering
+OK
+Durchschnitt
+Gut
+Ausgezeichnet
+Hervorragend
+Level
+Verbessert
+Gleichbleibend
+Verschlechtert
+Sportliche Fähigkeit
+ 
+Die Trainingsbelastung wird auf der Grundlage deines in den letzten 7 Tagen im Anschluss an eine Belastung aufgetretenen exzessiven Sauerstoffverbrauchs (EPOC) berechnet. Passe dein Trainingspensum entsprechend an. Mehr dazu erfährst du in der App unter „Hilfe“.
+%02d:%02d
+Mehr erfahren
+VO₂ max ist ein wichtiger Indikator für die aerobe Kapazität des Körpers. Das Gerät bewertet deine sportlichen Fähigkeiten auf Grundlage von Faktoren wie Alter, Geschlecht und Pulsschlag während des Trainings. Der „VO₂ max“-Wert ändert sich, wenn sich deine sportlichen Fähigkeiten verbessern.
+Finde deinen VO₂ max
+1. Gib deine persönlichen Daten in die App ein. 2. Trage das Band und laufe mindestens 10 Minuten im Freien, um 75 % deiner maximalen Herzfrequenz zu erreichen.
+%d
+Regenerationszeit (Std.)
+Komplett erholt
+Größtenteils erholt
+Intensität verringern
+Ruhepause erforderlich
+%02d:%02d
+Aktualisiert
+Jetzt gerade
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+%d
+Regenerationszeit (Std.)
+Du kannst die Trainingsintensität erhöhen
+Trainiere wie üblich
+Trainiere weniger intensiv
+Ruhe dich richtig aus und pausiere das Training
+Aktivität
+%d-Eintrag ist nicht synchronisiert
+%d-Eintrag ist nicht synchronisiert
+%d-Eintrag ist nicht synchronisiert
+%d-Einträge sind nicht synchronisiert
+%d-Einträge sind nicht synchronisiert
+%d-Einträge sind nicht synchronisiert
+%d-Einträge sind nicht synchronisiert
+Laufen im Freien
+Gehen
+Gehen
+Laufband
+Indoor-Laufen
+Radfahren im Freien
+Trekking
+Trail-Lauf
+Wandern
+Freistil
+Indoor-Fitness
+Yoga
+Beckenschwimmen
+Offenes Gewässer
+Crosstrainer
+Ruderer
+Seilspringen
+HIIT
+Tennis
+Basketball
+Snowboarden
+Skifahren
+Skilanglauf
+Golf
+Andere Sportarten
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Tempo
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Leicht
+Intensiv
+Aerobisch
+Anaerobisch
+VO₂ max
+kcal
+Schrittfrequenz (SPM)
+Schritte
+Ø-Tempo
+Zielerreichung
+%lu.%02lu
+km dahinter
+mi dahinter
+%d'%d"
+%d%%
+Tempo
+km voraus
+mi voraus
+Abgeschlossene Sets
+Ruhezeit
+Gesamtzeit
+Beckenschwimmen
+Segeln
+Paddelboarden
+Wasserball
+Andere Wassersportarten
+Wasserski
+Kajakfahren
+Rafting
+Rudern
+Motorbootsport
+Flossenschwimmen
+Turmspringen
+Synchronschwimmen
+Schnorcheln
+Kitesurfen
+Flowriding
+Drachenboot
+Laufen im Freien
+Gehen
+Wandern
+Radfahren im Freien
+Trekking
+Trail-Lauf
+Klettern
+Skateboarden
+Rollschuhlaufen
+Parkour
+ATV
+Gleitschirmfliegen
+BMX
+Gehen
+Freistil
+Laufband
+Seilspringen
+HIIT
+Yoga
+Drinnen Radfahren
+Crosstrainer
+Ruderer
+Treppensteiger
+Stepper
+Spinning
+Core-Training
+Flexibilität
+Pilates
+Gymnastik
+Dehngymnastik
+Stärke
+Crosstraining
+Treppensteigen
+Aerobic
+Körpertraining
+Mauerball
+Hantel
+Langhantel
+Gewichtheben
+Kreuzheben
+Burpee
+Rumpfbeugen
+Funktionelles Training
+Oberkörper
+Unterkörper
+Bauchmuskeln
+Rücken
+Air Walker
+Horizontaler Balken
+Parallele Balken
+Stepper
+Massengymnastik
+Kardio-Kampf
+Battle Rope
+Aerobic-Kombination
+Indoor-Laufen
+Indoor-Fitness
+Parktanz
+Bauchtanz
+Ballett
+Street Dance
+Zumba
+Volkstanz
+Jazztanz
+Lateinamerik. Tanz
+Hip Hop
+Stangentanz
+Breaking
+Gesellschaftstänze
+Moderner Tanz
+Tanzen
+Boxen
+Ringen
+Kampfkunst
+Tai Chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxen
+Kendō
+Fechten
+Jiu-Jitsu
+Tennis
+Basketball
+Golf
+Fußball
+Volleyball
+Baseball
+Softball
+American Football
+Hockey
+Tischtennis
+Badminton
+Kricket
+Handball
+Bowling
+Squash
+Billiard
+Federfußball
+Strandfußball
+Beach-Volleyball
+Sepak takraw
+Futsal
+Hacky Sack
+Boccia
+Jai Alai
+Gateball
+Völkerball
+Snowboarden
+Skifahren
+Skilanglauf
+Eislaufen
+Indoor-Eislaufen
+Curling
+Andere Wintersportarten
+Schneemobil
+Eishockey
+Bobfahren
+Rodeln
+Bogenschießen
+Dart
+Reiten
+Tauziehen
+Hula-Hoop
+Drachenfliegen
+Angeln
+Frisbee
+Federfußball
+Schaukeln
+Somatosensorisches Spiel
+Tischfußball
+Shuffleboard
+E-Sports
+Schach
+Dame
+Weiqi
+Bridge
+Brettspiel
+Reitsport
+Leichtathletik
+Automobilsport
+Wird geortet …
+Standort wurde ermittelt
+Intervalle
+Aufwärmen
+Training
+%d:%02d
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d
+Ruhezeit
+Sets
+Abkühlen
+Aufwärmen
+Abkühlen
+Training
+Zeit
+Distanz
+Bahnen
+Schläge
+Sprünge
+Warnungen
+Distanz
+%d km
+%d mi
+Tempo
+%d'%02d"
+Geschwindigkeit
+%d km/h
+HF-Zielbereich
+Leicht
+Intensiv
+Aerobisch
+Anaerobisch
+VO₂ max
+Hohe HF
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hydrieren
+Alle ausschalten
+Aus
+Distanz
+Erinnerung
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Geschwindigkeit
+Erinnerung
+%d km/h
+Tempo
+Erinnerung
+%d'%02d"
+HF-Zielbereich
+HF-Bereich
+Leicht
+Intensiv
+Aerobisch
+Anaerobisch
+VO₂ max
+HF-Zielbereich
+Leicht
+Intensiv
+Aerobisch
+Anaerobisch
+VO₂ max
+%d–%d BPM
+Beckenschwimmen
+Segeln
+Paddelboarden
+Wasserball
+Andere Wassersportarten
+Wasserski
+Kajakfahren
+Rafting
+Rudern
+Motorbootsport
+Flossenschwimmen
+Kunstspringen
+Synchronschwimmen
+Schnorcheln
+Kitesurfen
+Flowriding
+Drachenboot
+Laufen im Freien
+Gehen
+Wandern
+Radfahren im Freien
+Trekking
+Trail-Lauf
+Klettern
+Skateboarden
+Rollschuhlaufen
+Parkour
+ATV
+Gleitschirmfliegen
+BMX
+Gehen
+Freistil
+Laufband
+Seilspringen
+HIIT
+Yoga
+Drinnen Radfahren
+Crosstrainer
+Ruderer
+Treppensteiger
+Stepper
+Spinning
+Core-Training
+Flexibilität
+Pilates
+Gymnastik
+Dehngymnastik
+Stärke
+Crosstraining
+Treppensteigen
+Aerobic
+Körpertraining
+Mauerball
+Hantel
+Langhantel
+Gewichtheben
+Kreuzheben
+Burpee
+Rumpfbeugen
+Funktionelles Training
+Oberkörper
+Unterkörper
+Bauchmuskeln
+Rücken
+Air Walker
+Horizontaler Balken
+Parallele Balken
+Stepper
+Massengymnastik
+Kardio-Kampf
+Battle Rope
+Aerobic-Kombination
+Indoor-Laufen
+Indoor-Fitness
+Parktanz
+Bauchtanz
+Ballett
+Street Dance
+Zumba
+Volkstanz
+Jazztanz
+Lateinamerik. Tanz
+Hip Hop
+Stangentanz
+Breaking
+Gesellschaftstänze
+Moderner Tanz
+Tanzen
+Boxen
+Ringen
+Kampfkunst
+Tai Chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxen
+Kendō
+Fechten
+Jiu-Jitsu
+Tennis
+Basketball
+Golf
+Fußball
+Volleyball
+Baseball
+Softball
+American Football
+Hockey
+Tischtennis
+Badminton
+Kricket
+Handball
+Bowling
+Squash
+Billiard
+Federfußball
+Strandfußball
+Beach-Volleyball
+Sepak takraw
+Futsal
+Hacky Sack
+Boccia
+Jai Alai
+Gateball
+Völkerball
+Snowboarden
+Skifahren
+Skilanglauf
+Eislaufen
+Indoor-Eislaufen
+Curling
+Andere Wintersportarten
+Schneemobil
+Eishockey
+Bobfahren
+Rodeln
+Dart
+Reiten
+Tauziehen
+Hula-Hoop
+Drachenfliegen
+Angeln
+Frisbee
+Federfußball
+Schaukeln
+Somatosensorisches Spiel
+Tischfußball
+Shuffleboard
+E-Sports
+Schach
+Dame
+Weiqi
+Bridge
+Brettspiel
+Reitsport
+Bogenschießen
+Leichtathletik
+Automobilsport
+Mehr
+Mehr
+Wassersport
+Outdoor-Aktivitäten
+Training
+Wintersport
+Freizeitsport
+Karten-/Brettspiele
+Sonstige
+%d Sportart
+%d Sportart
+%d Sportart
+Tanzen
+%d Sportarten
+Kampfsport
+%d Sportarten
+Ballsport
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportart
+%d Sportart
+%d Sportart
+%d Sportarten
+%d Sportarten
+%d Sportarten
+%d Sportarten
+Sieht aus, als würdest du trainieren
+Laufen im Freien
+Laufband
+Gehen
+Radfahren
+Crosstrainer
+Ruderer
+Seilspringen
+Verwerfen
+Anhalten
+Enden
+Nächstes Se
+Anhalten
+Enden
+Übergang
+Angehalten
+%d/%d
+Aufwärmen
+%02d:%02d:%02d
+ 
+Fertig
+Training
+%d
+%d
+Schläge in diesem Satz
+Verbleibend
+Ziel
+Verbleibend
+Ziel
+Verbleibend
+Sprünge in diesem Satz
+Verbleibend
+Überspringen
+Ruhezeit
+%02d:%02d:%02d
+Ruhezeit
+%02d:%02d:%02d
+Verbleibend
+Überspringen
+Abkühlen
+%02d:%02d:%02d
+ 
+Enden
+Gut gemacht
+Schneller
+%d
+Ziel-BPM:
+%d–%d
+Weiter so
+Langsamer
+Schneller
+%d
+Ziel:
+%d km/h
+Weiter so
+Langsamer
+Schneller
+%d'%d"
+Ziel
+%d'%d"
+Weiter so
+Langsamer
+-- 
+km/h
+%d
+%
+Zielerreichung
+%d
+km
+km
+km
+km
+km
+km
+km
+Ziel: %d km
+Neuer Rekord!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Verbinde dein Band mit deinem Telefon, um Routeninformation erfassen zu können.
+Kein Zugriff auf Standortinformation möglich. Die Trainingsroute lässt sich derzeit nicht aufzeichnen.
+Das Satellitensignal ist schwach. Geh zu einer freien Fläche.
+Verbinde dein Band mit deinem Telefon, damit Standort- und Routeninformation weiterhin genau sind.
+Verbindung wiederhergest
+Standord wiederhergest
+Der Speicherplatz ist voll. Dieses Training endet und es werden keine weiteren Daten erfasst. Verbinde dein Telefon, um Platz zu schaffen.
+Laufen
+Anfänger
+Einfaches Laufen/Gehen
+Fortgeschrittenes Laufen/Gehen
+Unzureichender Speicherplatz. Verbinde dein Telefon und gib Speicherplatz frei, um das Überschreiben von Daten zu vermeiden.
+Einfaches Joggen
+Fettverbrennung
+Fett-Reduktions-Laufen (Einfach)
+Fett-Reduktions-Laufen (Fortgeschritten)
+MIIT
+Ausdauer
+Ausdauer-Laufen (Einfach)
+Ausdauer-Laufen (Fortgeschritten)
+Intervall
+Intervall-Laufen (Einfach)
+Intervall-Laufen (Fortgeschritten)
+%02d:%02d
+Einfaches Laufen/Gehen
+Fortgeschrittenes Laufen/Gehen
+Einfaches Joggen
+Fett-Reduktions-Rennen (Einfach)
+Fett-Reduktions-Rennen (Fortgeschritten)
+MIIT
+Ausdauer-Rennen (Einfach)
+Ausdauer-Rennen (Fortgeschritten)
+Intervall-Rennen (Einfach)
+Intervall-Rennen (Fortgeschritten)
+Standort wurde ermittelt
+%02d:%02d
+Einfaches Laufen/Gehen
+Fortgeschrittenes Laufen/Gehen
+Einfaches Joggen
+Fett-Reduktions-Rennen (Einfach)
+Fett-Reduktions-Rennen (Fortgeschritten)
+MIIT
+Ausdauer-Rennen (Einfach)
+Ausdauer-Rennen (Fortgeschritten)
+Intervall-Rennen (Einfach)
+Intervall-Rennen (Fortgeschritten)
+Einführung
+Kombiniert Gehen und Joggen in Intervallen.
+Kombiniert Gehen und Joggen in Intervallen.
+Joggen mit niedriger bis mittlerer Intensität.
+Kürzeres Joggen für Fettverbrennung und Gewichtsverlust.
+Langes Joggen mit niedriger bis mittlerer Intensität zur Fettverbrennung.
+Intervalltraining mit mittlerer bis hoher Intensität.
+Mittellanges Joggen für die Ausdauer.
+Längeres Joggen für die Ausdauer.
+Kürzere Intervalltrainings für die Gesundheit von Herz und Lunge.
+Längeres Intervalltraining für die Gesundheit von Herz und Lunge.
+Trainingsplan
+Schnelles Gehen
+Joggen
+Laufen
+Sprinten
+%02d:%02d
+%02d:%02d
+%d/%d
+Schnelles Gehen
+Joggen
+Laufen
+Sprinten
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d-%d
+Ziel-BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Tempo
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ max
+Anaerobisch
+Aerobisch
+Intensiv
+Leicht
+%d
+SPM
+%d
+Schritte
+%d'%d"
+Ø-Tempo
+Mehr erfahren
+Schritte
+Kalorien
+Bewegung
+Stehen
+„Schritte“ gibt die tägliche Schrittzahl an. Ein aktiver Mensch geht zwischen 8.000 und 10.000 Schritte pro Tag.
+„Kalorien“ gibt die Anzahl der aktiven Kalorien an, die durch Bewegung und Sport verbrannt wurden.
+„Bewegung“ gibt an, wie lange du moderate bzw. intensive Aktivitäten ausführst. Ziel sollte es sein, mindestens 30 Minuten pro Tag, 5 Mal pro Woche moderat aktiv oder 75 Minuten pro Woche intensiv aktiv zu sein. Dein Fortschritt wird in „Bewegung“ angezeigt, sobald deine Schrittfrequenz 100 SPM übersteigt oder dein Puls 65 % über deiner maximalen Herzfrequenz liegt.
+„Stehen“ gibt die Stunden an, in denen du dich aufrecht bewegst. Versuche, in 12 unterschiedlichen Stunden des Tages aufzustehen und dich zu bewegen.
+%d Schritt
+Schrittziel erreicht
+Schrittziel erreicht. Gute Arbeit!
+Du hast das heutige Schrittziel erreicht!
+%d Schritt
+%d Schritt
+%d Schritte
+%d Schritte
+%d Schritte
+%d Schritte
+%d kcal
+Kalorienziel erreicht
+Kalorienziel erreicht. Weiter so!
+Du hast das heutige Kalorienziel erreicht. Tolle Leistung!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d Min.
+Bewegungsziel erreicht
+Bewegungsziel erreicht! Tolle Leistung!
+Gut gemacht. Du hast das heutige Bewegungsziel erreicht!
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Std.
+Standziel erreicht
+Standziel erreicht. Gute Arbeit!
+Gute Arbeit! Du hast das heutige Standziel erreicht!
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+Ziele erreicht!
+Alle Ziele erreicht
+Du hast alle heutigen Ziele erreicht! Weiter so!
+Alle Ziele erreicht! Weiter so!
+Ziele erreicht!
+Einstellungen
+Ziel
+Intervalle
+Warnungen
+Autom. pausieren
+AI-Pacer
+Pool-Länge
+Rücksetzen
+Ziel
+Freies Ziel
+Distanz
+Dauer
+Kalorien
+Bahnen
+Schläge
+Sprünge
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d Bahn
+%d Bahn
+%d Bahn
+%d Bahnen
+%d Bahnen
+%d Bahnen
+%d Bahnen
+%d Schlag
+%d Schlag
+%d Schlag
+%d Schläge
+%d Schläge
+%d Schläge
+%d Schläge
+%d Sprung
+%d Sprung
+%d Sprung
+%d Sprünge
+%d Sprünge
+%d Sprünge
+%d Sprünge
+Distanz
+km
+Dauer
+hh:mm
+Kalorien
+kcal
+Bahnen
+Schläge
+Sprünge
+Autom. pausieren
+AI-Pacer
+Tempo
+%d‘%2d’’
+Tempo
+  
+Pool-Länge
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Angepasst
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Pool-Länge
+m
+Alle
+Trainings-
+einstellungen
+zurückstzen?
+Hohe HF
+Warnung
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Warnung
+Hydrieren
+Erinnerung
+Distanz, %d km
+Distanz, %d km
+Distanz, %d km
+Distanz, %d km
+Distanz, %d km
+Distanz, %d km
+Distanz, %d km
+Distanz, %d mi
+Distanz, %d mi
+Distanz, %d mi
+Distanz, %d mi
+Distanz, %d mi
+Distanz, %d mi
+Distanz, %d mi
+Dauer, %d Min.
+Dauer, %d Min.
+Dauer, %d Min.
+Dauer, %d Min.
+Dauer, %d Min.
+Dauer, %d Min.
+Dauer, %d Min.
+Training
+Zeit
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+Distanz
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Zeit
+HH/mm
+Distanz
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Distanz
+km
+Geschw.
+km/h
+Tempo
+  
+Bewege dich
+Steh auf
+Verstanden
+Heute abschalten
+Die heutigen Aufsteh-Erinnerungen abschalten?
+Steh auf
+Alle Trainingseinstellungen zurücksetzen?
+Weiter so!
+Du hast gestern dein Ziel erreicht. Bleib auch heute dran!
+Du hast gestern dein Ziel erreicht. Bleib auch heute dran!
+Du hast gestern 2 von 3 Zielen erreicht. Du schaffst es!
+Du hast gestern 2 von 3 Zielen erreicht. Du schaffst es!
+Du hast gestern deine Ziele nicht erreicht. Jeder Tag zählt!
+Du hast gestern deine Ziele nicht erreicht. Jeder Tag zählt!
+Deine Ziele sind zum Greifen nah. – Heute ist ein neuer Tag!
+Deine Ziele sind zum Greifen nah. – Heute ist ein neuer Tag!
+Verstanden
+Jetzt gerade
+Vor %d Min.
+Vor %d Min.
+Zeit, sich zu bewegen
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Aktualisiert: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+Schritt
+Schritt
+Schritt
+Schritte
+Schritte
+Schritte
+Schritte
+%d
+Stunde
+Stunde
+Stunde
+Stunden
+Stunden
+Stunden
+Stunden
+%d
+Min.
+%02d:%02d
+%02d:%02d
+Einstellungen
+Mehr erfahren
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Aktivität
+Status
+Stress
+Schlaf
+Wetter
+Musik
+Wecker
+Ereignisse
+Kalender
+Karten
+Mehr
+Taschenlampe
+Zyklen
+Atmung
+Stoppuhr
+Timer
+Telefon finden
+Weltuhr
+Warnungen
+Fokus
+Mi AI
+Alle löschen
+%02d:%02d AM
+%02d:%02d PM
+Gestern %02d:%02d
+%02d.%02d. %02d:%02d
+%d Benachrichtigung
+%d Benachrichtigung
+%d Benachrichtigung
+%d Benachrichtigungen
+%d Benachrichtigungen
+%d Benachrichtigungen
+%d Benachrichtigungen
+%02d:%02d AM
+%02d:%02d PM
+Gestern %02d:%02d
+%02d.%02d. %02d:%02d
+Löschen
+%02d:%02d AM
+%02d:%02d PM
+Gestern %02d:%02d
+%02d.%02d. %02d:%02d
+Verwerfen
+Verwerfen
+Zum Antworten nach oben wischen
+Wird gesendet
+Gesendet
+Senden nicht möglich
+Bin in einer Besprechung. Werde bald antworten.
+Kann jetzt nicht reden. Was gibt's?
+Kann jetzt nicht reden. Ruf mich bitte später an.
+Diese Bandanzeige verwenden?
+Diese Bandanzeige löschen？
+Synchronisiert
+Wurde nicht synchronisiert
+BNS
+Aus
+Ganztägig
+Angepassen
+Antworten auf Nachrichten in der App zulassen
+%02d:%02d-%02d:%02d
+Mit Telefon synchronisieren
+An
+Startzeit
+AM
+%02d
+%02d:%02d
+Startzeit
+PM
+Mit Telefon synchronisieren
+Wenn dies eingeschaltet ist, folgt der BNS-Status des Bandes dem des Telefons
+BNS ist an
+Vibration
+Standard
+Stark
+Aus
+App-Benachrichtigungen
+Bildschirm bei Benachrichtigung aufwecken
+An
+Benachrichti- 
+gungen nur beim 
+Tragen
+An
+Benachrichtigungen nur dann, wenn das Telefon gesperrt ist
+An
+Bildschirm bei Benachrichtigung aufwecken
+Bildschirm beim Erhalt von Benachrichtigungen aufwecken
+Benachrichtigungen nur beim Tragen
+Benachrichtigungen ausschalten, wenn Band vom Handgelenk entfernt wird
+Benachrichtigungen nur dann, wenn das Telefon gesperrt ist
+Mehr erfahren
+Vergewissere dich, dass Benachrichtigungen unter Mi Fitness >App-Benachrichtigungen eingeschaltet sind.
+Einstellungen
+Bandanzeigen
+Anzeige
+BNS-Einstellungen
+Vibration
+App-
+Benachrichti-
+gungen
+Automatische Erkennung
+PIN
+Akku
+Präferenzen
+System
+Über das Band
+PIN
+PIN festlegen
+6-stellige PIN eingeben
+%d
+%d
+PINs stimmen nicht überein
+PIN festgelegt
+PIN
+PIN ausschalten
+PIN ändern
+Neue PIN
+%d
+PIN ausgeschaltet
+Falsch
+In %ds erneut versuchen
+In %ds erneut versuchen
+In %ds erneut versuchen
+In %ds erneut versuchen
+In %ds erneut versuchen
+In %ds erneut versuchen
+In %ds erneut versuchen
+Hilfe
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+In %dm erneut versuchen
+ 
+Um die PIN zurückzusetzen, gehen Sie in der App zu Gerät > PIN.
+ 
+Beim Hinzufügen von Bankkarten kann PIN nicht ausgeschaltet werden.
+Automatische Erkennung
+Automatische Erkennung
+Du erhältst keine Trainingserinnerungen, wenn BNS aktiviert ist.
+Präferenzen
+Weckmethode
+Bildschirm drücken und halten
+Bildschirm antippen
+Hochwischen
+Bildschirm drücken und halten
+Wenn eingeschaltet, drücke und halte „Bearbeiten“, um die Bandanzeige zu bearbeiten
+Akku
+%d
+%
+ Verbleibende Akkulaufzeit
+≈ %d Tag %d Std.
+ Verbleibende Akkulaufzeit
+≈ %d Tage %d Std.
+ Verbleibende Akkulaufzeit
+≈ %d Tag %d Std.
+ Verbleibende Akkulaufzeit
+≈ %d Tage %d Std.
+Energie- 
+sparmodus
+Optimierung
+Verbrauch
+Verbleibende Akkulaufzeit 
+etwa: %d Tag %d Std.
+Nach der Aktivierung bleiben nur die Zeit-, Schrittzähler- und NFC-Funktionen bestehen. Halte zum Deaktivieren den Bildschirm gedrückt oder lade das Band.
+Energiesparmodus
+%d
+%02d:%02d
+AM
+PM
+%d
+Energiespar- 
+modus verlassen
+Mehr erfahren
+Akkulaufzeit
+Die geschätzte Akkulaufzeit dient nur zu deiner Information. Die tatsächliche Akkulaufzeit hängt von Faktoren, wie z. B. der Zeit, die das Gerät mit eingeschaltetem Display, Vibration oder der Aufzeichnung von Trainingseinheiten verbringt.
+Optimierung
+Optimierung identifiziert Funktionen, die viel Akkulaufzeit verbrauchen.
+Optimierung
+Gut
+Keine Optimierung nötig
+Optimierung
+Schlecht
+Die folgenden Funktionen wirken sich auf die Akkulaufzeit aus
+Immer eingeschaltetes Display
+Anheben zum Aufwachen
+Atmungspunkte
+Ganztägiges Tracking
+Unregelmäßige BPM
+Immer eingeschaltetes Display
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Std. verlängern.
+Weckmethode
+Erhalte Erinnerungen zum Start deines Trainings.
+Unterstützte Trainingsarten umfassen Gehen, Laufen, Radfahren, Seilspringen, crosstraining und Rudern.
+Anzeige
+Helligkeit
+Automatiksperre
+Anheben zum Aufwachen
+Bildschirm an für
+Immer eingeschaltetes Display
+Abdecken für Schlafmodus
+Autom.
+%d Sekunde
+%d Sekunde
+%d Sekunde
+%d Sekunden
+%d Sekunden
+%d Sekunden
+%d Sekunden
+An
+Aus
+An
+Aus
+An
+Aus
+Geplant
+Geplant
+Autom.
+Angepasst
+Helligkeit
+Autom.
+%dSek.
+%dSek.
+%dSek.
+%dSek.
+%dSek.
+%dSek.
+%dSek.
+Automatiksperre
+ 
+Bleibt der Bildschirm lang an, verringert sich dadurch die Akkulaufzeit. Weiter?
+Anheben zum Aufwachen
+Aus
+Geplant
+%02d:%02d-%02d:%02d
+ 
+„Immer eingeschaltetes Display“ ist an. Durch das Einschalten von „Anheben zum Aufwachen“ verringert sich die Akkulaufzeit. Trotzdem einschalten?
+Bildschirm an für
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Dadurch bleibt der Bildschirm jedes Mal %d Min. an, was die Akkulaufzeit beeinträchtigt. Trotzdem weiter?
+Immer eingeschaltetes Display
+Aus
+Smart
+Geplant
+%02d:%02d-%02d:%02d
+      
+Durch das Einschalten von „Immer eingeschaltetes Display“ halbiert sich eventuell die Akkulaufzeit. „Anheben zum Aufwachen“ wird ausgeschaltet. Weiter?
+Mehr erfahren
+Immer eingeschaltetes Display
+Die Zeit wird auch bei gesperrtem Bildschirm angezeigt.
+Smart
+„Immer an“ wird beim Zubettgehen oder beim Abnehmen des Bandes ausgeschaltet.
+Abdecken für Schlafmodus
+Starten
+AM
+PM
+%02d:%02d
+%02d:%02d
+Komplikationen
+Fitness
+Basisfunktionen
+Mi Smart Hub
+Mein Telefon
+Lautsprecher
+TV
+Kopfhörer
+Geräuschunterdrückung
+Transparenz
+Aus
+Gerät
+Bandanzeige verwenden?
+Kopfhörer
+Bandanzeige löschen?
+Modus
+Um Änderungen zu speichern, wische auf der Bandanzeige nach rechts.
+Geräuschunterdrückung
+Transparenz
+Aus
+ 
+ 
+Einen Moment …
+Wetterwarnungen
+Warnung！
+Verstanden
+%02d:%02d AM
+%02d:%02d PM
+Stelle eine Verbindung per Bluetooth her und schalte „Wetter-Aktualisierungen” in der App ein.
+Stelle eine Verbindung per Bluetooth her und schalte „Wetter-Benachrichtigungen” ein, um Wetterinformationen für deine ausgewählten Standorte zu erhalten.
+Per Bluetooth verbinden und erneut versuchen
+%02d:%02d
+Wetter
+BNS
+BNS ist an
+DND ist aus
+Telefon finden
+Einstellungen
+Keine Daten
+Segeln
+Paddelboarden
+Wasserball
+Andere Wassersportarten
+Wasserski
+Kajakfahren
+Rafting
+Rudern
+Motorbootsport
+Flossenschwimmen
+Kunstspringen
+Synchronschwimmen
+Schnorcheln
+Kitesurfen
+Flowriding
+Drachenboot
+Klettern
+Skateboarden
+Rollschuhlaufen
+Parkour
+ATV
+Gleitschirmfliegen
+BMX
+Drinnen Radfahren
+Treppensteiger
+Stepper
+Spinning
+Core-Training
+Flexibilität
+Pilates
+Gymnastik
+Dehngymnastik
+Stärke
+Crosstraining
+Treppensteigen
+Aerobic
+Körpertraining
+Squash
+Hantel
+Langhantel
+Gewichtheben
+Kreuzheben
+Burpee
+Rumpfbeugen
+Funktionelles Training
+Oberkörper
+Unterkörper
+Bauchmuskeln
+Rücken
+Air Walker
+Horizontaler Balken
+Parallele Balken
+Stepper
+Massengymnastik
+Kardio-Kampf
+Battle Rope
+Aerobic-Kombination
+Indoor-Fitness
+Parktanz
+Bauchtanz
+Ballett
+Street Dance
+Zumba
+Volkstanz
+Jazztanz
+Lateinamerik. Tanz
+Hip Hop
+Stangentanz
+Breaking
+Gesellschaftstänze
+Moderner Tanz
+Tanzen
+Boxen
+Ringen
+Kampfkunst
+Tai Chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxen
+Kendō
+Fechten
+Jiu-Jitsu
+Fußball
+Volleyball
+Baseball
+Softball
+American Football
+Hockey
+Tischtennis
+Badminton
+Kricket
+Handball
+Bowling
+Mauerball
+Billiard
+Federfußball
+Strandfußball
+Beach-Volleyball
+Sepak takraw
+Futsal
+Hacky Sack
+Boccia
+Jai Alai
+Gateball
+Völkerball
+Eislaufen
+Indoor-Eislaufen
+Curling
+Andere Wintersportarten
+Schneemobil
+Eishockey
+Bobfahren
+Rodeln
+Bogenschießen
+Dart
+Reiten
+Tauziehen
+Hula-Hoop
+Drachenfliegen
+Angeln
+Frisbee
+Federfußball
+Schaukeln
+Somatosensorisches Spiel
+Tischfußball
+Shuffleboard
+E-Sports
+Schach
+Dame
+Weiqi
+Bridge
+Brettspiel
+Reitsport
+Leichtathletik
+Automobilsport
+Segeln
+Paddelboarden
+Wasserball
+Andere Wassersportarten
+Wasserski
+Kajakfahren
+Rafting
+Rudern
+Motorbootsport
+Flossenschwimmen
+Turmspringen
+Synchronschwimmen
+Schnorcheln
+Kitesurfen
+Flowriding
+Drachenboot
+Klettern
+Skateboarden
+Rollschuhlaufen
+Parkour
+ATV
+Gleitschirmfliegen
+BMX
+Drinnen Radfahren
+Treppensteiger
+Stepper
+Spinning
+Core-Training
+Flexibilität
+Pilates
+Gymnastik
+Dehngymnastik
+Stärke
+Crosstraining
+Treppensteigen
+Aerobic
+Körpertraining
+Mauerball
+Hantel
+Langhantel
+Gewichtheben
+Kreuzheben
+Burpee
+Rumpfbeugen
+Funktionelles Training
+Oberkörper
+Unterkörper
+Bauchmuskeln
+Rücken
+Air Walker
+Horizontalbalken
+Parallele Balken
+Stepper
+Massengymnastik
+Kardio-Kampf
+Battle Rope
+Aerobic-Kombination
+Indoor-Fitness
+Parktanz
+Bauchtanz
+Ballett
+Street Dance
+Zumba
+Volkstanz
+Jazztanz
+Lateinamerik. Tanz
+Hip Hop
+Stangentanz
+Breaking
+Gesellschaftstänze
+Moderner Tanz
+Tanzen
+Boxen
+Ringen
+Kampfkunst
+Tai Chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxen
+Kendō
+Fechten
+Jiu-Jitsu
+Fußball
+Volleyball
+Baseball
+Softball
+American Football
+Hockey
+Tischtennis
+Badminton
+Kricket
+Handball
+Bowling
+Squash
+Billiard
+Federfußball
+Strandfußball
+Beach-Volleyball
+Sepak takraw
+Futsal
+Hacky Sack
+Boccia
+Jai Alai
+Gateball
+Völkerball
+Eislaufen
+Indoor-Eislaufen
+Curling
+Andere Wintersportarten
+Schneemobil
+Eishockey
+Bobfahren
+Rodeln
+Bogenschießen
+Dart
+Reiten
+Tauziehen
+Hula-Hoop
+Drachenfliegen
+Angeln
+Frisbee
+Federfußball
+Schaukeln
+Somatosensorisches Spiel
+Tischfußball
+Shuffleboard
+E-Sports
+Schach
+Dame
+Weiqi
+Bridge
+Brettspiel
+Reitsport
+Leichtathletik
+Automobilsport
+Einen Moment …
+%02d:%02d
+Anhalten
+Enden
+Sperrbildschirm
+Cast
+Cast
+Suchen
+Xiaomi TV
+Wird verbunden
+Gerät wurde nicht gefunden
+TV-Name
+Verbunden
+Trennen
+Verbinden fehlgeschlagen
+Erneut versuchen
+%02d:%02d
+Training synchronisieren
+Trage dein Band wie in der Abbildung und beginne dein Training mit der App
+Zurück
+%02d:%02d
+Einstellungen
+Laufmodi
+Anzeige
+DND
+Vibration
+%02d:%02d
+Laufmodus
+Kieselmodus
+Kettenmodus
+Kieselmodus
+Mit dem Kieselmodus kannst du Daten über deine Laufform erhalten. Beginne dazu ein Training (Laufen oder Radfahren) in der App.
+App-Benachrichtigungen und Pulsmessung werden ausgeschaltet. Dein Band reagiert nicht auf unabsichtliche Berührungen.
+Einschalten
+Zurück
+Beginne mit dem Training in der App
+Trainingsfortschritt
+Gerät ist nicht verbunden
+Zum Beenden des Kieselmodus nach oben wischen
+Zum Beenden nach oben wischen
+Kieselmodus verlassen?
+Bei Beendigung werden die Daten über deine Laufform nicht erfasst.
+Beenden
+Abbrechen
+Kettenmodus verlassen?
+Beenden
+Abbrechen
+Kettenmodus
+Im Kettenmodus bleibt der Bildschirm eingeschaltet, reagiert aber nicht auf unbeabsichtigte Berührungen.
+App-Benachrichtigungen und Pulsmessungen sind ausgeschaltet.
+Einschalten
+Zurück
+Zeichne Zyklusdetails in der App auf
+%0.1f
+Stunde
+Stunde
+Stunde
+Stunden
+Stunden
+Stunden
+Stunden
+Schlaf
+Trage dein Gerät im Bett, um Schlafdaten zu generieren
+%u
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Ziel: %u Std.
+Ziel: %u Std.
+Ziel: %u Std.
+Ziel: %u Std.
+Ziel: %u Std.
+Ziel: %u Std.
+Ziel: %u Std.
+Puls
+Zeichne deinen HF auf
+Starten
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Atmung
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+Starten
+Atmung
+SpO₂
+Erfasse dein SpO₂
+u%
+%
+Stress
+Erfasse deinen Stress
+u%
+Stress
+%02d
+'
+"
+.
+:
+Speichern ...
+Kalibrierung
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Die Trainingsdauer ist zu kurz, um sie aufzuzeichnen. Beenden?
+km
+km
+km
+km
+km
+km
+km
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Schwacher Akku. Aufladen und erneut versuchen.
+Aktualisiere dein Band mithilfe der App
+Aktualisierung fehlgeschlagen
+Aktualisierung
+Aktualisiert. Neustart.
+Aktualisierung wird vorbereitet
+Aktualisierung wird empfangen
+Aktualisierung nicht möglich. Versuche es noch einmal in der App.
+Aktualisierung empfangen. Neustart.
+Das Band wird später am Abend oder beim Aufladen automatisch aktualisiert.
+Du verwendest die neueste Version.
+Aktualisierungs-Erinnerung
+Löschen
+
+%d
+
+%%
+Lade die App herunter, um das Band zu koppeln
+%d
+Bestätige auf deinem Telefon
+Bestätige auf deinem Telefon
+Kopplung
+Kopplung fehlgeschlagen. Bitte erneut versuchen.
+Gekoppelt
+-
+-
+-
+-
+Ruhezeit
+min:sek
+Sets
+Erhalte bei bestimmten Entfernungsintervallen Erinnerungen
+%d Länge
+%d Schlag
+%d Sprung
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Mit der App verbinden, um Feiertage zu personalisieren
+Samstag und Sonntag sind standardmäßig als Feiertage markiert.
+Verstanden
+%d
+Ziel
+%02d:%02d:%02d
+Abgeschlossen
+Ziel
+%d
+kcal
+Abgeschlossen
+Ziel
+Länge
+Länge
+Länge
+Längen
+Längen
+Längen
+Längen
+Abgeschlossen
+Ziel
+Sprung
+Sprung
+Sprung
+Sprünge
+Sprünge
+Sprünge
+Sprünge
+Abgeschlossen
+Ziel
+Ruderschlag
+Ruderschlag
+Ruderschlag
+Ruderschläge
+Ruderschläge
+Ruderschläge
+Ruderschläge
+Abgeschlossen
+Weitere Aufzeichnungen werden in der App angezeigt
+Über das Band
+Name
+Xiaomi Smart Band 8
+Modell
+MAC-Adresse
+Regulatorisches
+Regulatorisches
+CMIIT ID
+Modell
+Eingabe
+System
+Neustart
+Ausschalten
+Rücksetzen
+Jetzt neustarten?
+Jetzt ausschalten?
+%02d:%02d
+Du musst dein Band erneut koppeln, nachdem du auf die Werks- 
+einstellungen zurückgesetzt hast. Fortfahren?
+Nicht tragend
+Messung fehlgeschlagen
+Ergebnis
+Mehr erfahren
+SpO₂
+Ergebnis
+Nicht tragend
+Messung fehlgeschlagen
+%02d:%02d
+Schlaf gut
+BNS ist an. „Anheben zum Aufwachen“ ist aus.
+Nicht mehr anzeigen
+%02d:%02d
+Zeit zum Aufwachen
+Verwerfen
+Schlummern
+%02d:%02d
+Schlaf
+%d小時%d分
+%d小時%d分
+%d小時%d分
+%d小時%d分
+%d°/%d°
+Verstanden
+%02d:%02d
+Schlaf
+Verstanden
+%02d:%02d
+%d°/%d°
+Verstanden
+Training im Freien
+Trage dein Band wie in der Abbildung und beginne dein Training mit der App
+Zurück
+Einstellungen
+Laufmodi
+Anzeige
+BNS
+Vibration
+Laufmodus
+Kieselmodus
+Schlafmodus aus
+um %02d:%02d
+Kettenmodus
+Kieselmodus
+Mit dem Kieselmodus kannst du Daten über deine Laufform erhalten. Beginne dazu ein Training (Laufen oder Radfahren) in der App.
+App-Benachrichtigungen und Pulsmessung werden ausgeschaltet. Dein Band reagiert nicht auf unabsichtliche Berührungen.
+Einschalten
+Zurück
+Beginne mit dem Training in der App
+Trainingsfortschritt
+Gerät ist nicht verbunden
+Kieselmodus verlassen?
+Bei Beendigung werden die Daten über deine Laufform nicht erfasst.
+Beenden
+Abbrechen
+Kieselmodus
+Zum Beenden nach oben wischen
+Kettenmodus
+Zum Beenden nach oben wischen
+Kettenmodus
+Im Kettenmodus bleibt der Bildschirm eingeschaltet, reagiert aber nicht auf unbeabsichtigte Berührungen.
+App-Benachrichtigungen und Pulsmessungen sind ausgeschaltet.
+Einschalten
+Zurück
+Kettenmodus verlassen?
+Beenden
+Abbrechen
+Das Aktivieren dieser Funktion wird den Akkuverbrauch erhöhen. Trotzdem fortfahren?
+Ton ist an
+Einen Moment …
+Ton ist aus
+Ton ist aus
+Einen Moment
+Ton ist an
+Getrennt
+Ausschalten
+Einschalten
+Mit Bluetooth verbinden und erneut versuchen
+Deinem Band erlauben, das Telefon zu entsperren?
+Fertig!
+Autorisierung fehlgeschlagen
+ 
+%d
+Timer
+Timer
+%d
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std. einst.
+%d
+%02d
+Minute einst.
+%02d:%02d
+%02d:%02d:%02d
+Zeit ist vorbei
+Vor %02d:%02d
+Vor %02d:%02d:%02d
+AQI %d %s
+Koppeln fehlgeschlagen
+Gerät erneut hinzufügen
+Über das Band
+Regulatorisches
+Rücksetzen
+Neustart
+%02d:%02d
+Über das Band
+Name
+Xiaomi Smart Band 8
+Modell
+MAC-Adresse
+%02d:%02d
+Regulatorisches
+CMIIT ID
+Eingabe
+Jetzt neustarten?
+Jetzt ausschalten?
+Du musst dein Band erneut koppeln, nachdem du auf die Werkseinstellungen zurückgesetzt hast. Fortfahren?
+Akku unter  %d
+--
+%02d:%02d
+Vitalität
+%d
+Letzte 7 Tage
+7-Tage-Fortschritt
+%d
+Letzte 7 Tage
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+Heute
+%d
+Heute
+%d
+Leicht
+Moderat
+Intensiv
+%d Minute
+%d Minute
+%d Minute
+%d Minuten
+%d Minuten
+%d Minuten
+%d Minuten
++%d
+Einstel-
+lungen
+Mehr erfahren
+Einstellungen
+Kontinuierliche Überwachung
+Dein Vitalitätswert wird anhand deines Pulses und deiner Aktivitätsdaten berechnet. Erlaube deinem Band, deinen Puls häufiger zu messen, um einen genaueren Vitalitätswert zu erhalten.
+Mehr erfahren
+Der Vitalitätswert ist eine Methode zur Messung der Auswirkungen deines Trainings auf deine Gesundheit. Die besten Gesundheitsergebnisse erzielst du, wenn du versuchst, in einem Zeitraum von 7 Tagen 100 Punkte zu erreichen.
+Die Vitalitätswerte beruhen auf den Empfehlungen der WHO-Leitlinien für körperliche Aktivität und Bewegungsmangel.
+Das heißt, für maximale Gesundheitsvorteile sollten Erwachsene pro Woche 150-300 Minuten in moderater Intensität trainieren oder 75-150 Minuten aerobe Aktivität von hoher Intensität durchführen oder eine Kombination der beiden.
+Jede körperliche Aktivität, einschließlich Aktivität von niedriger Intensität, ist besser für deine Gesundheit als Sitzen.
+%d
+Letzte 7 Tage
+%d
+Heute
+Letzte 7 Tage
+%d
+Bewege dich weiter, um noch mehr Ergebnisse zu sehen!
+Verstanden
+Heute abschalten
+Du bist auf dem richtigen Weg!
+Du bist unaufhaltsam, bleib dabei!
+Du hast heute die maximale Punktzahl erreicht. Mach eine Pause!
+Sperrbildschirm
+Wische nach dem Aufwecken des Bildschirms, um ihn zu entsperren.
+%u
+7 Tage Ruhe-HF
+%02u/%02u
+Modell
+Heute
+Heute
+Straffe das Band und versuche es erneut
+Mit Telefon koppeln?
+Das Band wird später am Abend oder beim Aufladen automatisch aktualisiert
+Du verwendest die neueste Version
+Verstanden
+Aktualisierung fehlgeschlagen. Stelle eine Verbindung zum Netzwerk her und versuche es erneut.
+Auf dem Telefon öffnen
+OK
+Antwort
+Wird gesendet
+Gesendet
+Senden nicht möglich
+Getrennt
+Mit Bluetooth verbinden und erneut versuchen
+Die Trainingsdauer ist zu kurz, um sie aufzuzeichnen. Beenden?
+Fortsetzen
+Enden
+Trainingsaufzeichnungen in der App anzeigen
+Fertig
+%02d:%02d
+%02d
+Tempo
+kcal
+Geschwindigkeit (km/h)
+Geschwindigkeit (mph)
+Aktuelle Distanz
+Aktuelle Zeit
+Aktuelle kcal
+Aktuelle Längen
+Aktuelle Sprünge
+Aktuelle Schläge
+Ziel
+Ziel
+Ziel
+Ziel
+Ziel
+Ziel
+Zielerreichung
+%02d:%02d
+%d.%d
+Ø-Geschwindigkeit (km/h)
+Ø-Geschwindigkeit (mph)
+Frequ. (Anz/Min.)
+Aktuelle Sprünge
+Dieser Satz
+Sprünge in diesem Satz
+Gesamt
+Aktive kcal
+Dieser Satz
+Kalorien
+%d.%d
+Ø-Geschwindigkeit (km/h)
+Ø-Geschwindigkeit (mph)
+Hohe HF
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Max. HF
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Kamera
+Telefon stumm schalten
+Vitalität
+BNS für %d Std. an
+BNS für %d Std. an
+BNS für %d Std. an
+BNS für %d Std. an
+BNS für %d Std. an
+BNS für %d Std. an
+BNS für %d Std. an
+Aus
+Nicht verbunden
+:
+%02d:%02d - nächster Tag %02d:%02d
+BNS ist aus
+Wenn du das
+Telefon benutzt,
+erhältst du keine
+Telefonbenach-
+richtigungen auf
+dem Band.
+Aus
+Aus
+Aus
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Statistik
+Puls
+SpO₂
+Training
+Schließe das Ladegerät richtig an
+-
+Training
+Statistik
+Schritte
+Kalorien
+Bewegung
+Puls
+SpO₂
+Stress
+Akku
+Datum
+Wetter
+UVI
+AQI
+Luftfeuchtigkeit
+Karten
+Wecker
+Stoppuhr
+Kamera
+Werkzeuge
+Wetter
+Länge
+Länge
+Länge
+Längen
+Längen
+Längen
+Längen
+--'--"
+Versionsnummer
+Serien-Nr.
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Trinke Wasser
+%02d:%02d:%02d
+Fortsetzen
+Anheben zum Aufwachen
+Atmungspunkte
+Ganztägiges Tracking
+Unregelmäßige BPM
+%d
+Ziel: %d kcal
+Ziel: %d kcal
+Ziel: %d kcal
+Ziel: %d kcal
+Ziel: %d kcal
+Ziel: %d kcal
+Ziel: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Ziel: %d Länge
+Ziel: %d Länge
+Ziel: %d Länge
+Ziel: %d Längen
+Ziel: %d Längen
+Ziel: %d Längen
+Ziel: %d Längen
+Bahn
+Bahn
+Bahn
+Bahnen
+Bahnen
+Bahnen
+Bahnen
+Ziel: %d Ruderschlag
+Ziel: %d Ruderschlag
+Ziel: %d Ruderschlag
+Ziel: %d Ruderschläge
+Ziel: %d Ruderschläge
+Ziel: %d Ruderschläge
+Ziel: %d Ruderschläge
+Ruderschlag
+Ruderschlag
+Ruderschlag
+Ruderschläge
+Ruderschläge
+Ruderschläge
+Ruderschläge
+Ziel: %d Sprung
+Ziel: %d Sprung
+Ziel: %d Sprung
+Ziel: %d Sprünge
+Ziel: %d Sprünge
+Ziel: %d Sprünge
+Ziel: %d Sprünge
+Sprung
+Sprung
+Sprung
+Sprünge
+Sprünge
+Sprünge
+Sprünge
+%d.%d
+Ziel: %d.%d km
+Ziel: %d.%d km
+Ziel: %d min
+Ziel: %d mins
+Ziel: %d Std. %d Min.
+Ziel: %d Std. %d Min.
+Ziel: %d Std. %d Min.
+Ziel: %d Std. %d Min.
+PIN bestätigen
+PIN eingeben
+Falsch
+Nicht verbunden
+%d
+%
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+%d
+Schritt
+Schritt
+Schritt
+Schritte
+Schritte
+Schritte
+Schritte
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+Min.
+%d
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Distanz-Rekord
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Länge
+Länge
+Länge
+Längen
+Längen
+Längen
+Längen
+Sprung
+Sprung
+Sprung
+Sprünge
+Sprünge
+Sprünge
+Sprünge
+Ruderschlag
+Ruderschlag
+Ruderschlag
+Ruderschläge
+Ruderschläge
+Ruderschläge
+Ruderschläge
+km
+Zeitrekord
+Angehalten
+Die Trainingsstrecke ist zu kurz, um sie aufzuzeichnen. Beenden?
+--'--"
+Laufen
+Jetzt gerade
+Jetzt gerade
+Jetzt gerade
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+Vor %02d Min.
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Brustschwimmen
+Freistil
+Rückenschwimmen
+Schmetterlingsstil
+Lagen
+Warnungen
+Gerät wird gesucht…
+Stopp
+Bewölkt
+Bedeckt
+Regenschauer
+Gewitter
+Hagel
+Graupel
+Leichter Regen
+Mäßiger Regen
+Starker Regen
+Regensturm
+Platzregen
+Starker Regensturm
+Schneeschauer
+Leichter Schneefall
+Mäßiger Schneefall
+Starker Schneefall
+Schneesturm
+Nebel
+Eisregen
+Sandsturm
+Leichter bis mäßiger Regen
+Mäßiger bis starker Regen
+Starker Regen bis Regensturm
+Regensturm bis Platzregen
+Platzregen bis starker Regensturm
+Leichter bis mäßiger Schneefall
+Mäßiger bis starker Schneefall
+Starker Schneefall bis Schneesturm
+Staub
+Windig
+Starker Sandsturm
+Nebel
+Dichter Nebel
+Dunst
+Mäßiger Dunst
+Schwerer Dunst
+Massiver Dunst
+Starker Nebel
+Sehr starker Nebel
+Ohne Angabe
+Regen
+Schnee
+Für %d Std. an
+Für %d Std. an
+Für %d Std. an
+Für %d Std. an
+Für %d Std. an
+Für %d Std. an
+Für %d Std. an
+--'--"
+Einen Moment
+Spielt nicht
+Nicht verbunden
+Gering
+Regeneration
+Verbessert sich
+Verbessert sich sehr
+Mehr als erwartet
+Der Bildschirm wird gesperrt, wenn du beginnst. Zum Entsperren nach oben und dann nach unten wischen.
+Keine Daten
+Einen Moment…
+--°
+%d°
+-
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Std.
+Regeneration
+Aktualisiert: %02d:%02d
+Stehend
+Sonnig
+Keine Benachrichtigungen
+Stoppuhr
+Timer
+Taschenlampe
+Einfaches Laufen/Gehen
+Fortgeschrittenes Laufen/Gehen
+Einfaches Joggen
+Fett-Reduktions-Laufen (Einfach)
+Fett-Reduktions-Laufen (Fortgeschritten)
+MIIT-Lauf
+Ausdauer-Laufen (Einfach)
+Ausdauer-Laufen (Fortgeschritten)
+Intervall-Laufen (Einfach)
+Intervall-Laufen (Fortgeschritten)
+Einfaches Laufen/Gehen
+Fortgeschrittenes Laufen/Gehen
+Einfaches Joggen
+Fett-Reduktions-Laufen (Einfach)
+Fett-Reduktions-Laufen (Fortgeschritten)
+MIIT-Lauf
+Ausdauer-Laufen (Einfach)
+Ausdauer-Laufen (Fortgeschritten)
+Intervall-Laufen (Einfach)
+Intervall-Laufen (Fortgeschritten)
+Schnelles Gehen
+Joggen
+Laufen
+Sprinten
+%d:%02d
+%d
+Verbleibend
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Training
+Zeit
+Aktuelle HF
+Kurs abgeschlossen. Weiter trainieren?
+In %d Sek. fortfahren
+In %d Sek. fortfahren
+Freistil
+Fertig!
+(Kein Titel)
+%02u:%02uAM-
+%02u:%02uPM-
+%02u:%02uAM
+%02u:%02uPM
+%u.%u.%u
+%u.%u.
+%02u:%02u
+Heute
+Morgen
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Std.
+In %d Tag
+In %d Tag
+In %d Tag
+In %d Tagen
+In %d Tagen
+In %d Tagen
+In %d Tagen
+In %d Tag
+In %d Tag
+In %d Tag
+In %d Tagen
+In %d Tagen
+In %d Tagen
+In %d Tagen
+Jetzt
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+In %d min
+Überfällig
+--
+Fertig!
+Autorisierung fehlgeschlagen
+Längen in diesem Satz
+Verbleibend
+%ld . %ld
+km
+m
+%02d : %02d
+Ganztägige Stressüberwachung
+Erweiterte Schlafüberwachung
+Ganztägige Stressüberwachung
+Erweiterte Schlafüberwachung
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+%d Min.
+Bildschirm an für
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Bildschirm bleibt jedes Mal für %d Min. an. Das wird die Akkulaufzeit beeinflussen. Trotzdem einschalten?
+Smart
+Geplant
+Wetter
+Warnung
+预警。
+%02d:%02d
+%02d:%02d
+Zum Entsperren nach oben wischen
+Sehr hoch
+AQI %d
+%s
+Bildschirm an für
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Mexiko Stadt
+Winnipeg
+Guatemala
+San Salvador
+Tegucigalpa
+Managua
+Havanna
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Deinem Band erlauben, das Telefon zu entsperren?
+Buenos Aires
+Montevideo
+Brasília
+Praia
+Reykjavik
+Lissabon
+Casablanca
+Dublin
+Madrid
+Lagos
+Algier
+Brüssel
+Genf
+Frankfurt
+Oslo
+Kopenhagen
+Rom
+Berlin
+Prag
+Zagreb
+Wien
+Stockholm
+Budapest
+Warschau
+Windhoek
+Sofia
+Tallinn
+Helsinki
+Bukarest
+Kiew
+Harare
+Jerusalem
+Beirut
+Kaliningrad
+Amman
+Khartum
+Minsk
+Istanbul
+Ankara
+St. Petersburg
+Nairobi
+Addis Abeba
+Bagdad
+Aden
+Riyad
+Antananarivo
+Kuwait
+Abu Dhabi
+Muscat
+Samara
+Kabul
+Karatschi
+Mumbai
+Kathmandu
+Dhaka
+Almaty
+Novosibirsk
+Phnom Penh
+Hanoi
+Jakarta
+Kuala Lumpur
+Taiwan, China
+Taiwan
+Perth
+Irkutsk
+Manila
+Pjöngjang
+Tokio
+Chita
+Darwin
+Vladivostok
+Brisbane
+Adelaide
+Magadan
+Kamtschatka
+Suva
+Auckland
+Kiritimati
+Washington D. C.
+San Francisco
+Noch nichts da
+Heute
+--
+OK
+m dahinter
+m voraus
+Messung läuft
+%d Benachrichtigung
+%d Benachrichtigung
+%d Benachrichtigung
+%d Benachrichtigungen
+%d Benachrichtigungen
+%d Benachrichtigungen
+%d Benachrichtigungen
+Keine Audiowiedergabe
+Amsterdam
+Akku fast leer
+Akku unter %d%%. Jetzt aufladen.
+Verknüpfungen
+Die Trainingszeit ist zu kurz, um sie aufzuzeichnen.
+Weltzeituhr
+Ziel: %d m
+Ziel: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Schlaf
+Erholung
+Vitalität
+Weixin Pay
+Alipay
+Gestern %02d:%02d AM
+Gestern %02d:%02d PM
+%02%02d.%02%02d. %02d:%02d AM
+%02%02d.%02%02d. %02d:%02d PM
+Wenn du dein Band im Bett trägst, zeichnet es automatisch Informationen über deinen Schlaf auf. Das Gerät zeigt die letzten 3 Aufzeichnungen an; detailliertere Angaben findest du in der App.
+Aktiviere die erweiterte Überwachung in Einstellungen, um genauere Schlafinformationen – z. B. das Erkennen des REM-Schlafs – zu erhalten.
+Wenn du mehr als 3 Stunden schläfst, wird deine Uhr deinen durchschnittlichen Puls sowie deine SpO₂- und Schlafwerte anzeigen. Bei einem Kurzschlaf von unter 3 Stunden wird nur die Zeit angezeigt, zu der du eingeschlafen und aufgewacht bist. Beträgt die Schlafdauer weniger als 20 Minuten erfolgt keine Datenerfassung.
+Schlechte Schlafqualität und übermäßige Bewegung im Schlaf können zu ungenauen Puls- und SpO₂-Messungen führen.
+...
+Normal
+Schlecht
+%02d:%02d:%02d.%02d
+PIN zum Entsperren eingeben
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth nicht verbunden. Verbindung herstellen, um Trainingsdaten zu synchronisieren.
+In %u Tag
+In %u Tag
+In %u Tag
+In %u Tagen
+In %u Tagen
+In %u Tagen
+In %u Tagen
+Ausgezeichnet
+Unbekannt
+Unbekannt
+Keine Titelinformationen
+Start
+Ende
+%.2F
+Getrennt
+Über Bluetooth verbinden und erneut versuchen
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Mehr erfahren
+.
+-
+Produktname
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Ziel-BPM:
+Ziel:
+Keine Ereignisse heute
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Ernst
+%u Ernst
+%u Ernst
+%u%%
+--°
+--
+AQI --
+Mit der App verbinden, um Wetter-informationen zu erhalten
+.
+Puls
+Set
+Set
+Set
+Set
+Set
+Zeit
+Zeit
+Zeit
+Zeit
+Zeit
+Schritte
+Schläge
+Sprünge
+Bahnen
+Abfahrten
+Xiaomi Smart Band 8 NFC
+/
+-
+Du kannst deine Bandanzeige jetzt bearbeiten. Zur Bestätigung der Bearbeitung tippen.
+Um Änderungen zu speichern, wische auf der Bandanzeige nach rechts.
+Sprache wird gewechselt
+Wenn der Energiesparmodus aktiviert ist, sind nur die Uhr und die Schrittzahl verfügbar. Halte den Bildschirm oder die Ladung gedrückt, um das Gerät auszuschalten.
+Überhitzung des Geräts. Ausschalten.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Tag %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Tage %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Tag %d Std. verlängern.
+Durch das Ausschalten dieser Funktion wird sich die Akkulaufzeit um ca. %d Tage %d Std. verlängern.
+Trainingsbelastung
+Regenerationszeit (Std.)
+Vitalität
++%u
+Um Widgets zu bearbeiten, gehe in der App zu Gerät > Widgets.
+Weckzeit
+BNS-Berechtigung in der App gewähren
+OK
+Vor %d Min. aktualisiert
+Vor %d Min. aktualisiert
+%d°/%d°
+Daten abgelaufen
+Aktualisiert: %02d:%02d
+Gestern aktualisiert, %02d:%02d
+Ereignisse
+Jetzt gerade
+Die Messung ist abgelaufen. Vergewissere dich, dass dein Band gut sitzt.
+,
+%ld,%ld
+%d
+km/h
+Aktuelle HF
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Ende
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Zehen in diese Richtung
+Um deine Route aufzeichnen zu können, sind Standortberechtigungen erforderlich.
+Erteile Mi Fitness in den Einstellungen deine Telefons die Berechtigung, auf deinen Standort zuzugreifen, und wähle „Immer zulassen“.
+%02d:%02d:%02d
+Um genaue Pulsmessungen zu erhalten, trage dein Gerät eng anliegend, etwa einen Fingerbreit vom Handgelenk entfernt. Wenn es während des Trainings verrutscht, solltest du es umgehend neu einstellen.
+Bei dieser Aktivität werden nur Daten zu Frisbee-Würfen mit einer Hand aufgezeichnet. Trage das Gerät an dem Handgelenk, mit dem du werfen wirst.
+Tipps
+Würfe
+Wurf
+Wurf
+Wurf
+Würfe
+Würfe
+Würfe
+Würfe
+Wurfstärke
+Gering
+Mittel
+Hoch
+%d Wurf
+%d Wurf
+%d Wurf
+%d Würfe
+%d Würfe
+%d Würfe
+%d Würfe
+BNS-Einstellungen
+Schlafmodus
+Wenn das Gerät erkennt, dass du schläfst, schaltet sich BNS automatisch ein.
+Schlafmodus
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+%d Std.
+Den ganzen Tag
+Angepassen
+Einstellungen

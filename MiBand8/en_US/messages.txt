@@ -1,0 +1,4319 @@
+Find phone
+Your phone will ring
+Search
+Stop
+Completed
+Search again
+Disconnected
+Connect via Bluetooth and try again
+Open Camera on your phone
+OK
+Pair in Camera in the app
+OK
+Disconnected
+Connect via Bluetooth and try again
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Now
+Alarm
+No alarms
+AM
+PM
+%02d:%02d
+Once
+Daily
+Workdays
+Holidays
+Week
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Add up to 10 alarms
+Time
+AM
+PM
+%02d
+%02d
+:
+Smart wake
+Let your band choose within a 10-minute window before your alarm to wake you up
+Repeat
+Once
+Daily
+Workdays
+Holidays
+Custom
+Custom
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Snooze
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Off
+Snooze for 10 mins
+Time
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Repeat
+Once
+Daily
+Workdays
+Holidays
+Week
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Smart wake
+On
+Off
+%d%%
+%02d:%02d
+Battery under %d%%
+Battery is below %d%%. Turn on Battery saver?
+Battery saver
+Remaining battery life
+about %d day %d hr
+Only the clock, step count, and NFC will be available when Battery saver is on. Press and hold the screen or charge to turn off.
+Band is too hot to charge. Don't wear it right now.
+Band is too cold to charge. Don't wear it right now.
+%02d:%02d
+Stopwatch
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+No locations added
+%02d:%02d
+Wellington
+Sydney
+Tokyo
+Seoul
+Beijing
+Hong Kong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moscow
+Cairo
+Cape Town
+Paris
+London
+New York
+Chicago
+Los Angeles
+Honolulu
+Athens
+Tehran
+Yangon
+Rio de Janeiro
+Wellington
+Sydney
+Tokyo
+Seoul
+Beijing
+Hong Kong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moscow
+Cairo
+Cape Town
+Paris
+London
+New York
+Chicago
+Los Angeles
+Honolulu
+Athens
+Tehran
+Yangon
+Rio de Janeiro
+Wellington
+Sydney
+Tokyo
+Seoul
+Beijing
+Hong Kong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moscow
+Cairo
+Cape Town
+Paris
+London
+New York
+Chicago
+Los Angeles
+Honolulu
+Athens
+Tehran
+Yangon
+Rio de Janeiro
+Daylight savings time data is outdated. Connect to the app to update.
+%02d:%02d
++%d hrs
++%.1f hrs
++%d hr
++%d hr
++%d hr
++%d hr
++%.1f hr
++%.1f hr
++%.1f hr
++%.1f hr
++%.1f hr
++%.1f hrs
++%d hrs
++%d hrs
+-%d hr
+-%.1f hr
+-%d hr
+-%d hr
+-%d hrs
+-%d hrs
+-%.1f hr
+-%.1f hr
+-%.1f hrs
+-%.1f hrs
+-%.1f hrs
+-%.1f hrs
+-%d hrs
+-%d hrs
+%02d/%02d
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+-%.1f hr
+-%.1f hr
+-%.1f hr
+-%.1f hrs
+-%.1f hrs
+-%.1f hrs
+-%.1f hrs
+-%d hr
+-%d hr
+-%d hr
+-%d hrs
+-%d hrs
+-%d hrs
+-%d hrs
++%d hrs
++%.1f hrs
++%d hr
++%d hr
++%d hr
++%d hr
++%.1f hr
++%.1f hr
++%.1f hr
++%.1f hr
++%.1f hr
++%.1f hrs
++%d hrs
++%d hrs
+Add location
+Add more locations in the app
+Add up to
+20 locations
+%02d:%02d
+Focus
+Rest
+min
+min
+min
+mins
+mins
+mins
+mins
+Rest
+%02d:%02d
+Set duration
+Resting
+Paused
+Rest time
+Today
+%02d:%02d:%02d
+Focus time
+Focus
+Focus
+
+DND is on during this session
+Stay focused
+Learn more
+Focus
+Focus helps you concentrate over a short period of time to work more efficiently.
+
+A Focus session normally lasts for 25 minutes. Once you start, concentrate fully on your task until your device vibrates, at which point you can rest for 5 minutes.
+
+ We recommend taking a 15-20 minute break after every 4 Focus sessions.
+Time to focus
+Just a sec
+Not playing
+Disconnected
+Missing permissions
+Turn on notifications in the app
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Pig)
+ 
+ 
+ 
+ 
+ 
+%d/%d
+Week %d
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn on Events in the app
+No events
+%02d/%02d
+Mon
+%02d/%02d
+Tue
+%02d/%02d
+Wed
+%02d/%02d
+Thu
+%02d/%02d
+Fri
+%02d/%02d
+Sat
+%02d/%02d
+Sun
+All day
+%02d:%02d-%02d:%02d
+Snooze
+Dismiss
+Snoozed
+for 10 mins
+Turn on
+No events
+Add in the app
+Today
+Upcoming
+%02d:%02d AM
+%02d:%02d PM
+%d/%dMon
+%d/%dTue
+%d/%dWed
+%d/%dThu
+%d/%dFri
+%d/%dSat
+%d/%dSun
+Snooze
+Dismiss
+%02d:%02d AM
+%02d:%02d PM
+Event
+Snoozed
+for 10 mins
+Details
+Finding device…
+Stop
+Listening
+Start by saying
+Set up Mi AI in the app
+Check your network connection or try again later
+Disconnected. Connect via Bluetooth.
+Band is uploading data. Can't use Mi AI
+ right now.
+This feature isn't supported yet
+You were saying?
+Couldn't wake Mi AI. Try again.
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Tap to wake Mi AI
+Ask Mi AI on your phone
+Mi AI is only available on the Chinese mainland at this time.
+Excellent
+Good
+Moderate
+Unhealthy
+Dangerous
+Hazardous
+Excellent
+Good
+Moderate
+Unhealthy
+Dangerous
+Hazardous
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Tomorrow
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+AQI %d
+Sunrise
+Sunset
+%02d:%02d
+Wind
+%d
+Humidity
+%d%%
+UV
+%lu
+%d°/%d°
+Switch location
+Set locations in the app's
+weather settings
+%d
+℃
+℉
+Cards
+Add cards in the app
+Just a sec
+ 
+Balance
+Hold near reader
+Just a sec
+Couldn't activate.
+Try again.
+Paid successfully
+-%.2F
+Balance
+-%.2F
+Low balance. Top up soon.
+Breathing
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+Start
+Relax
+Focus on your breathing
+Let's go
+Follow the bubble
+Inhale
+Exhale
+Nice job
+Session: %d min
+Session: %d min
+Session: %d min
+Session: %d mins
+Session: %d mins
+Session: %d mins
+Session: %d mins
+%2d:%2d
+Results
+Current HR
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Starting HR
+Session
+min
+min
+min
+mins
+mins
+mins
+mins
+Done
+Time
+min
+min
+min
+mins
+mins
+mins
+mins
+%d
+%d
+%d breath
+%d breath
+%d breath
+%d breaths
+%d breaths
+%d breaths
+%d breaths
+%02u:%02u
+Heart rate
+Measuring
+Be still
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Just now
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%02u:%02u
+Try again
+Measure
+Not wearing
+No data
+Not wearing
+OK
+%u
+%u
+Tips
+1. Wear your band above your wrist bone
+2. Keep your band snug and still
+3. Measurement accuracy may be affected by how the band is worn, changes in your skin and the environment, etc.
+*This feature is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition.
+High HR
+High HR
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Learn more
+Your band notifies you when your heart rate goes above a set level while you're at rest. It's normal for your heart rate to rise as a response to stress, caffeine intake, or a cold. However, people experiencing dizziness, shortness of breath, or palpitations should seek medical advice. Note that the high heart rate data is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition. The band only displays the 3 most recent high heart rate records. For more information, check the app.
+Low HR
+Low HR
+Learn more
+Your band notifies you when your heart rate goes below a set level. This is common while sleeping or in people who are physically active. People experiencing dizziness, shortness of breath, or palpitations should seek medical advice. Note that low heart rate data is not intended for medical purposes, nor is it intended to diagnose, treat, cure, or prevent any disease or condition. The band only displays the 3 most recent low heart rate records. For more information, check the app.
+Irregular BPM
+Irregular
+%02u:%02u-%02u:%02u
+View details in the app
+Learn more
+Your band will measure your pulse and record any abnormalities when you're inactive. If you feel unwell, seek medical advice.
+HR zone
+%uh %um
+%uh %um
+%uh %um
+%uh %um
+%uh
+%uh
+%uh
+%uh
+%uh
+%uh
+%uh
+%1uh
+%1uh
+%1uh
+%1uh
+%1uh
+%1uh
+%um
+%um
+%um
+%um
+%um
+%um
+%um
+%2um
+%2um
+%2um
+%2um
+%2um
+%2um
+VO₂ max
+Anaerobic
+Aerobic
+Intensive
+Light
+Learn more
+Light
+50%-60% of the heart rate's maximum capacity is suitable for warm-ups and cool-downs.
+Intensive
+61%-70% window is perfect for burning fat.
+Aerobic
+At 71%-80%, cardiopulmonary functions are strengthened.
+Anaerobic
+When 81%-90% window is reached, lactic acid tolerance is being improved.
+VO₂ max
+Exercising at 91%-100% of heart rate's maximum capacity is suitable for experienced trainers.
+Settings
+Heart rate
+Continuous monitoring
+Off
+Auto
+%u min
+%u min
+%u min
+%u mins
+%u mins
+%u mins
+%u mins
+Continuous monitoring
+Track your heart rate around the clock.
+Off
+Auto
+%u min
+%u min
+%u min
+%u mins
+%u mins
+%u mins
+%u mins
+Irregular BPM
+On
+Irregular BPM
+This feature monitors your heart rate in real time and records any irregular heartbeats.
+  
+Turning on this feature will significantly reduce battery life. Turn on anyway?
+High HR
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+High HR
+Select a heart rate above which you'll receive an alert
+Off
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+High HR
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Starting at %02u:%02u, your resting HR was above %u BPM.
+Dismiss
+Dismiss today
+Low HR
+Low HR
+Select a heart rate below which you'll receive an alert
+Low HR
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Starting at %02u:%02u, your resting HR was below %u BPM.
+Learn more
+Learn more
+Heart rate
+Heart rate is the number of times the heart beats per minute (BPM). Typically, a resting heart rate ranges from 55 to 80 BPM. However, it varies with age, gender, and other factors. Your device supports a range of 30–240 BPM
+Sleep
+Wear your device to bed to generate sleep data
+%02u
+h
+m
+Goal: %2u hr
+Goal: %2u hr
+Goal: %2u hr
+Goal: %2u hrs
+Goal: %2u hrs
+Goal: %2u hrs
+Goal: %2u hrs
+hr
+hr
+hr
+hrs
+hrs
+hrs
+hrs
+h
+h
+h
+h
+h
+h
+min
+min
+min
+mins
+mins
+mins
+mins
+m
+m
+m
+m
+m
+m
+Goal: %02uh %2um
+Updated: %02u:%02u
+Nap
+%02u
+%02u:%02u-%02u:%02u
+Sleep
+Deep
+%u%%
+Light
+REM
+Wake-ups
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Avg HR
+%u
+Avg SpO₂
+Settings
+Learn more
+Settings
+Advanced monitoring
+Off
+Breathing score
+On
+Advanced monitoring
+When this feature is turned on, your device will track your REM sleep.
+
+Turning on Advanced monitoring will significantly reduce battery life. Turn on anyway?
+Breathing score
+When this feature is on, your nighttime breathing will be monitored while you sleep. You can view the breathing score in the app.
+Monitoring your breathing will significantly reduce battery life. Turn on anyway?
+Learn more
+Wear your band to bed to track sleep. You'll be able to view the 3 most recent sleep history records on your band. More detailed sleep history is available in the app on your phone. Turn on Advanced monitoring in Settings to track rapid eye movement and get more accurate sleep information. At least 3 hours of uninterrupted sleep will allow your band to record the average heart rate and blood oxygen. For shorter naps, only fall-asleep and wake-up times will be recorded. Naps lasting less than 20 minutes will not be recorded. Poor sleep quality and excessive wrist movement during sleep may cause inaccurate heart rate data and failure to measure blood oxygen.
+%02u:%02u
+Stress
+No data
+Measure
+%u
+Relaxed
+Mild
+Moderate
+Severe
+Just now
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%02u:%02u
+Keep the band still and facing upwards
+%u
+Measuring
+Be still
+Keep still
+Keep the band touching your skin
+Keep your wrist flat and the screen facing up
+Tighten band strap and try again
+Tighten band strap and try again
+Keep still during measuring
+Tighten band strap and try again
+Try again
+OK
+Session interrupted. Cancel now?
+Tips
+Wear your band above your wrist bone.
+Keep your band snug and still.
+Measurements depend on low temperature, skin perfusion, and more.
+This feature isn't intended for medical purposes.
+High stress
+%u
+Severe
+Try breathing exercises.
+Breathing
+Got it
+Dismiss today
+Stress
+%u
+%u
+Relaxed
+Mild
+Moderate
+Severe
+Just now
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%02u:%02u
+Measure
+No data
+Details
+Relaxed
+Mild
+Moderate
+Severe
+%u%%
+Last 7d
+%02u/%02u
+Today
+%u
+avg
+Settings
+Learn more
+Stress
+All-day monitoring
+On
+Off
+Relax reminder
+All-day monitoring
+This feature keeps track of your stress level when you're not moving.
+Relax reminder
+Prompt a breathing exercise when your stress level remains above 80 while awake
+Turning on this feature will significantly reduce battery life. Turn on anyway?
+Learn more
+Stress is your body's reaction to challenges and demands.
+Stress is measured only during periods of rest. Stress levels are defined as follows:
+Relaxed: 1-25 
+Mild: 26-50 
+Moderate: 51-80 
+Severe: 81-100
+Multiple factors may affect accuracy. Results are for reference only.
+%02u:%02u
+SpO₂
+No data
+Measure
+%u
+%
+Just now
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%02u:%02u
+Keep the band still and facing upwards
+%u
+SpO₂
+Measuring
+Calibrating
+Be still
+Keep still
+Keep the band touching your skin
+Keep your wrist flat and the screen facing up
+Tighten band strap and try again
+Try again
+Tighten band strap and try again
+Keep still during measuring
+Tighten band strap and try again
+Keep your wrist flat and the screen facing up
+Keep the band snug and still
+Got it
+Got it
+Tips
+1. Wear your band above your wrist bone.
+2. Keep your band snug and still.
+3. Measurements depend on low temperature, skin perfusion, and more.
+This feature isn't intended for medical purposes.
+SpO₂
+%u
+%u
+%
+Just now
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%um ago
+%02u:%02u
+Measure
+Alerts
+Settings
+Learn more
+Learn more
+Your band supports a range of 75%–100%.
+Low SpO₂
+1. SpO₂ represents the percentage of oxygen in your blood.
+%02u:%02u
+2. Readings below 95% when active or below 90% when asleep are considered low.
+%u
+%u%% - %u%%
+3. There are multiple factors that might make measurements inconsistent or unreliable. They might include skin perfusion, permanent or temporary changes to your skin, motion, or pose during sleep. All of the above might result in a falsely low blood oxygen alert. Remember that this is not a medical device, and the data it generates can't be used for diagnosis and treatment.
+Learn more
+When your oxygen saturation level stays below the set value for a period of time, you'll receive an alert. Your band will display the 3 most recent records. View more in the app.
+If you experience shortness of breath, headache, fatigue, or loss of concentration, seek professional medical attention.
+The band's measurement range is 75%-100%. This feature isn't intended for medical purposes and should be only used for reference.
+Session interrupted. Cancel now?
+Settings
+All-day tracking
+On
+Off
+Alerts
+Off
+%d%%
+%d%%
+%d%%
+All-day tracking
+This feature measures your SpO₂ when you're at rest.
+Alerts
+Get a reminder when your SpO₂ falls below a certain level while awake
+Off
+0.8
+0.85
+0.9
+ 
+Turning on this feature will significantly reduce battery life. Turn on anyway?
+Alerts
+%u
+%
+Your current SpO₂ is below %u%%
+Dismiss
+Dismiss today
+%02d:%02d
+Cycles
+%02d/%02d
+%02d/%02d
+No data today
+Record
+Day %d
+Day %d
+Day %d
+Day %d
+Day %d
+Day %d
+Day %d
+Estimated period
+%02d/%02d-%02d/%02d
+Cancel
+Period ended
+Period
+Cycles
+%02d/%02d
+%02d/%02d
+No data today
+Period started
+Cancel
+Period ended
+Predictions
+Turn on Period prediction in the app
+Learn more
+Day %02d
+Day %02d
+Day %02d
+Day %02d
+Day %02d
+Day %02d
+Day %02d
+Fertile
+Estimated period
+Period
+%02d/%02d-%02d/%02d
+Fertile
+%02d/%02d-%02d/%02d
+Period
+Ovulating
+%02d/%02d
+Ovulation
+In %d day
+In %d day
+In %d day
+In %d days
+In %d days
+In %d days
+In %d days
+Learn more
+1. Colors
+Period
+Estimated period
+Fertile
+Ovulation
+2. Tip
+To make predictions more accurate, log periods and edit cycle length in the app.
+Upcoming period
+Upcoming fertile period
+Upcoming ovulation
+Tomorrow
+In 2 days
+In %u day
+In %u day
+In %u day
+In %u day
+In %u days
+In %u days
+In %u days
+In %u days
+Next period on %u/%u
+Next fertile period on %u/%u
+Next ovulation day on %u/%u
+%02u:%02u
+AM
+PM
+Got it
+Outdoor running
+Walking
+Race walk
+Treadmill
+Indoor walking
+Outdoor cycling
+Trekking
+Trail run
+Hiking
+Freestyle
+Indoor fitness
+Yoga
+Pool swimming
+Open water
+Elliptical
+Rower
+Jump rope
+HIIT
+Tennis
+Basketball
+Snowboarding
+Skiing
+Cross-country skiing
+Golf
+Other sports
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Goal
+%d%
+Goal completion
+%u.%02u
+km
+Goal
+Completed
+Summary
+%u'%02u"
+Avg pace
+Pace
+%d
+Avg cadence (SPM)
+Avg stride (cm)
+Calories
+Avg HR
+Max HR
+Steps
+VO₂ max
+Lengths
+Main style
+Avg SWOLF
+Total strokes
+Avg SPM
+Workout time
+Rest time
+Sets
+Total strokes
+Total jumps
+Avg freq (JPM)
+Breaststroke
+Freestyle
+Butterfly
+Backstroke
+HR zone
+VO₂ max
+Anaerobic
+Aerobic
+Intensive
+Light
+%dh %dm
+%dh %dm
+%dh %dm
+%dh %dm
+%dm
+%dm
+%dm
+%dm
+%dm
+%dm
+%dm
+%dh
+%dh
+%dh
+%dh
+%dh
+%dh
+%dh
+Training effect
+%d.%d
+Maintaining
+Aerobic workout
+%d.%d
+Anaerobic workout
+View more details in the app
+%d
+Training load
+Good
+Low
+High
+Past 7 days
+%d
+ml/kg/min
+VO₂ max
+Very poor
+Poor
+Fair
+Average
+Good
+Excellent
+Outstanding
+Level
+Improving
+Maintaining
+Declining
+Athletic ability
+ 
+Training load is calculated based on your excessive post-exercise oxygen consumption (EPOC) in the past 7 days. Adjust your workload accordingly. Learn more in Help in the app.
+%02d:%02d
+Learn more
+VO₂ max is a key indicator of the body's aerobic capacity. The device will assess your athletic ability based on factors such as age, sex, and heart rate during exercise, and VO₂ max will change as your athletic ability improves.
+Find your VO₂ max
+1. Fill in your personal information in the app. 2. Wear the band and run outdoors for 10+ mins to reach 75% of your max heart rate.
+%d
+Recovery time (hr)
+Fully recovered
+Mostly recovered
+Reduce intensity
+Rest required
+%02d:%02d
+Updated
+Just now
+%dm ago
+%dm ago
+%dm ago
+%dm ago
+%dm ago
+%dm ago
+%dm ago
+%d
+Recovery time (hr)
+You can increase training intensity.
+Train as usual.
+Train at a lower intensity.
+Rest properly and pause training.
+Activity
+%d record not synced
+%d record not synced
+%d record not synced
+%d records not synced
+%d records not synced
+%d records not synced
+%d records not synced
+Outdoor running
+Walking
+Race walk
+Treadmill
+Indoor walking
+Outdoor cycling
+Trekking
+Trail run
+Hiking
+Freestyle
+Indoor fitness
+Yoga
+Pool swimming
+Open water
+Elliptical
+Rower
+Jump rope
+HIIT
+Tennis
+Basketball
+Snowboarding
+Skiing
+Cross-country skiing
+Golf
+Other sports
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Pace
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Light
+Intensive
+Aerobic
+Anaerobic
+VO₂ max
+kcal
+Cadence (SPM)
+Steps
+Avg pace
+Goal completion
+%lu.%02lu
+km behind
+mi behind
+%d'%d"
+%d%%
+Pace
+km ahead
+mi ahead
+Sets completed
+Rest time
+Total time
+Pool swimming
+Sailing
+Stand Up Paddle
+Water polo
+Other water sports
+Water skiing
+Kayaking
+Rafting
+Rowing
+Powerboating
+Finswimming
+Diving
+Artistic swimming
+Snorkeling
+Kitesurfing
+Flowriding
+Dragon boat
+Outdoor running
+Walking
+Hiking
+Outdoor cycling
+Trekking
+Trail run
+Rock climbing
+Skateboarding
+Roller skating
+Parkour
+ATV
+Paragliding
+BMX
+Race walk
+Freestyle
+Treadmill
+Jump rope
+HIIT
+Yoga
+Indoor cycling
+Elliptical
+Rower
+Stair climber
+Stepper
+Spinning
+Core training
+Flexibility
+Pilates
+Gymnastics
+Stretching
+Strength
+Cross training
+Stair climbing
+Aerobics
+Physical training
+Wall ball
+Dumbbell
+Barbell
+Weightlifting
+Deadlift
+Burpee
+Sit-ups
+Functional training
+Upper body
+Lower body
+Abs
+Back
+Air walker
+Horizontal bar
+Parallel bars
+Stepper
+Mass gymnastics
+Cardio combat
+Battle rope
+Aerobic combo
+Indoor walking
+Indoor fitness
+Square dancing
+Belly dance
+Ballet
+Street dance
+Zumba
+Folk dance
+Jazz dance
+Latin dance
+Hip hop
+Pole dance
+Breaking
+Ballroom dance
+Modern dance
+Dance
+Boxing
+Wrestling
+Martial arts
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Fencing
+Jujitsu
+Tennis
+Basketball
+Golf
+Soccer
+Volleyball
+Baseball
+Softball
+American football
+Hockey
+Table tennis
+Badminton
+Cricket
+Handball
+Bowling
+Squash
+Billiards
+Shuttlecock
+Beach soccer
+Beach volleyball
+Sepak takraw
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Dodgeball
+Snowboarding
+Skiing
+Cross-country skiing
+Ice skating
+Indoor ice skating
+Curling
+Other winter sports
+Snowmobile
+Ice hockey
+Bobsleigh
+Sledding
+Archery
+Darts
+Horse riding
+Tug of war
+Hula hoop
+Kite flying
+Fishing
+Frisbee
+Shuttlecock
+Swinging
+Somatosensory game
+Table football
+Shuffleboard
+Esports
+Chess
+Checkers
+Weiqi
+Bridge
+Board game
+Equestrian
+Athletics
+Auto racing
+Locating…
+Located successfully
+Intervals
+Warm-up
+Training
+%d:%02d
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d
+Rest
+Sets
+Cool-down
+Warm-up
+Cool-down
+Training
+Time
+Distance
+Lengths
+Strokes
+Jumps
+Alerts
+Distance
+%d km
+%d mi
+Pace
+%d'%02d"
+Speed
+%d km/h
+Target HR zone
+Light
+Intensive
+Aerobic
+Anaerobic
+VO₂ max
+High HR
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hydration
+Turn off all
+Off
+Distance
+Reminder
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Speed
+Reminder
+%d km/h
+Pace
+Reminder
+%d'%02d"
+Target HR zone
+HR zone
+Light
+Intensive
+Aerobic
+Anaerobic
+VO₂ max
+Target HR zone
+Light
+Intensive
+Aerobic
+Anaerobic
+VO₂ max
+%d–%d BPM
+Pool swimming
+Sailing
+Stand Up Paddle
+Water polo
+Other water sports
+Water skiing
+Kayaking
+Rafting
+Rowing
+Powerboating
+Finswimming
+Diving
+Artistic swimming
+Snorkeling
+Kitesurfing
+Flowriding
+Dragon boat
+Outdoor running
+Walking
+Hiking
+Outdoor cycling
+Trekking
+Trail run
+Rock climbing
+Skateboarding
+Roller skating
+Parkour
+ATV
+Paragliding
+BMX
+Race walk
+Freestyle
+Treadmill
+Jump rope
+HIIT
+Yoga
+Indoor cycling
+Elliptical
+Rower
+Stair climber
+Stepper
+Spinning
+Core training
+Flexibility
+Pilates
+Gymnastics
+Stretching
+Strength
+Cross training
+Stair climbing
+Aerobics
+Physical training
+Wall ball
+Dumbbell
+Barbell
+Weightlifting
+Deadlift
+Burpee
+Sit-ups
+Functional training
+Upper body
+Lower body
+Abs
+Back
+Air walker
+Horizontal bar
+Parallel bars
+Stepper
+Mass gymnastics
+Cardio combat
+Battle rope
+Aerobic combo
+Indoor walking
+Indoor fitness
+Square dancing
+Belly dance
+Ballet
+Street dance
+Zumba
+Folk dance
+Jazz dance
+Latin dance
+Hip hop
+Pole dance
+Breaking
+Ballroom dance
+Modern dance
+Dance
+Boxing
+Wrestling
+Martial arts
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Fencing
+Jujitsu
+Tennis
+Basketball
+Golf
+Soccer
+Volleyball
+Baseball
+Softball
+American football
+Hockey
+Table tennis
+Badminton
+Cricket
+Handball
+Bowling
+Squash
+Billiards
+Shuttlecock
+Beach soccer
+Beach volleyball
+Sepak takraw
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Dodgeball
+Snowboarding
+Skiing
+Cross-country skiing
+Ice skating
+Indoor ice skating
+Curling
+Other winter sports
+Snowmobile
+Ice hockey
+Bobsleigh
+Sledding
+Darts
+Horse riding
+Tug of war
+Hula hoop
+Kite flying
+Fishing
+Frisbee
+Shuttlecock
+Swinging
+Somatosensory game
+Table football
+Shuffleboard
+Esports
+Chess
+Checkers
+Weiqi
+Bridge
+Board game
+Equestrian
+Archery
+Athletics
+Auto racing
+More
+More
+Water sports
+Outdoor activities
+Training
+Winter sports
+Recreational sports
+Card/board games
+Other
+%d sport
+%d sport
+%d sport
+Dance
+%d sports
+Combat sports
+%d sports
+Ball sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+%d sport
+%d sport
+%d sport
+%d sports
+%d sports
+%d sports
+%d sports
+Looks like you're exercising
+Outdoor running
+Treadmill
+Walking
+Cycling
+Elliptical
+Rower
+Jump rope
+Dismiss
+Pause
+End
+Next set
+Pause
+End
+Transition
+Paused
+%d/%d
+Warm-up
+%02d:%02d:%02d
+ 
+Done
+Training
+%d
+%d
+Strokes this set
+Remaining
+Target
+Remaining
+Target
+Remaining
+Jumps this set
+Remaining
+Skip
+Rest
+%02d:%02d:%02d
+Rest time
+%02d:%02d:%02d
+Remaining
+Skip
+Cool-down
+%02d:%02d:%02d
+ 
+End
+Well done
+Speed up
+%d
+Target BPM
+%d–%d
+Keep going
+Slow down
+Speed up
+%d
+Target:
+%d km/h
+Keep going
+Slow down
+Speed up
+%d'%d"
+Target
+%d'%d"
+Keep going
+Slow down
+-- 
+km/h
+%d
+%
+Goal completion
+%d
+km
+km
+km
+km
+km
+km
+km
+Goal: %d km
+New record!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Connect your band to your phone to be able to record route information.
+Can't access location information. Unable to record workout route at this time.
+Satellite signal is weak. Go to an open area.
+Connect your band to your phone to be able to maintain accurate location and route information.
+Connection restored
+Location restored
+Storage is full. This workout will end and no more data will be recorded. Connect your phone to free up space.
+Running
+Beginner
+Basic run/walk
+Advanced run/walk
+Insufficient storage. Connect your phone and free up space to avoid overwriting data.
+Basic jog
+Fat burn
+Fat burn run (Basic)
+Fat burn run (Advanced)
+MIIT
+Endurance
+Endurance run (Basic)
+Endurance run (Advanced)
+Interval
+Interval run (Basic)
+Interval run (Advanced)
+%02d:%02d
+Basic run/walk
+Advanced run/walk
+Basic jog
+Fat burn run (Basic)
+Fat burn run (Advanced)
+MIIT
+Endurance run (Basic)
+Endurance run (Advanced)
+Interval run (Basic)
+Interval run (Advanced)
+Located successfully
+%02d:%02d
+Basic run/walk
+Advanced run/walk
+Basic jog
+Fat burn run (Basic)
+Fat burn run (Advanced)
+MIIT
+Endurance run (Basic)
+Endurance run (Advanced)
+Interval run (Basic)
+Interval run (Advanced)
+Introduction
+Combines walking and jogging at intervals.
+Combines walking and jogging at intervals.
+Low-medium intensity jog.
+Shorter jog for fat burn and weight loss.
+Low-medium intensity, extended jog for fat burn.
+Medium-high intensity interval training.
+Medium-length jog for endurance.
+Longer jog for endurance.
+Shorter interval training for heart and lung health.
+Longer interval training for heart and lung health.
+Training plan
+Fast walk
+Jog
+Run
+Sprint
+%02d:%02d
+%02d:%02d
+%d/%d
+Fast walk
+Jog
+Run
+Sprint
+%d mins
+%d mins
+%d mins
+%d mins
+%d mins
+%d mins
+%d mins
+%d-%d
+Target BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Pace
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ max
+Anaerobic
+Aerobic
+Intensive
+Light
+%d
+SPM
+%d
+Steps
+%d'%d"
+Avg pace
+Learn more
+Steps
+Calories
+Moving
+Standing
+"Steps" shows a daily step count. An active person walks between 8000 and 10,000 steps a day.
+"Calories" shows the number of active calories burned through moving around and exercising.
+"Moving" shows your time doing moderate and vigorous activity. Aim for at least 30 minutes per day, 5 times per week of moderate activity or 75 minutes a week of intense activity. You'll see your "Moving" progress when your cadence exceeds 100 SPM or your heart rate exceeds 65% of your max heart rate.
+"Standing" shows hours in which you stand up and move around. Try to stand up and move during 12 different hours in the day.
+%d step
+Step goal hit
+Step goal hit. Nice work!
+You hit today's step goal!
+%d step
+%d step
+%d steps
+%d steps
+%d steps
+%d steps
+%d kcal
+Calorie goal hit
+Calorie goal hit. Keep it up!
+You hit today's calorie goal. Great job!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min
+Moving goal hit
+Moving goal hit. Great job!
+Well done, you've hit today's moving goal!
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+%d hr
+Standing goal hit
+Standing goal hit. Nice work!
+Nice work! You've hit today's standing goal!
+%d hr
+%d hr
+%d hrs
+%d hrs
+%d hrs
+%d hrs
+Goals hit!
+All goals hit
+You've hit all goals for today! Way to go!
+All goals hit! Way to go!
+Goals achieved!
+Settings
+Goal
+Intervals
+Alerts
+Auto pause
+AI pacer
+Pool length
+Reset
+Goal
+Open goal
+Distance
+Duration
+Calories
+Lengths
+Strokes
+Jumps
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d length
+%d length
+%d length
+%d lengths
+%d lengths
+%d lengths
+%d lengths
+%d stroke
+%d stroke
+%d stroke
+%d strokes
+%d strokes
+%d strokes
+%d strokes
+%d jump
+%d jump
+%d jump
+%d jumps
+%d jumps
+%d jumps
+%d jumps
+Distance
+km
+Duration
+HH:mm
+Calories
+kcal
+Lengths
+Strokes
+Jumps
+Auto pause
+AI pacer
+Pace
+%d‘%2d’’
+Pace
+ 
+Pool length
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Custom
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Pool length
+m
+Reset all workout settings?
+High HR
+Alert
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Alert
+Hydration
+Reminder
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d km
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Distance, %d mi
+Duration, %d min
+Duration, %d min
+Duration, %d min
+Duration, %d mins
+Duration, %d mins
+Duration, %d mins
+Duration, %d mins
+Training
+Time
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+Distance
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Time
+HH/mm
+Distance
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Distance
+km
+Speed
+km/h
+Pace
+ 
+Get moving
+Stand up
+Got it
+Dismiss today
+Turn off today's stand-up reminders?
+Stand up
+Reset all workout settings?
+Keep going!
+You hit your target yesterday. Keep it up today!
+You hit your target yesterday. Keep it up today!
+You hit 2 out of 3 targets yesterday. You can do it!
+You hit 2 out of 3 targets yesterday. You can do it!
+You didn't hit your targets yesterday. Make today count!
+You didn't hit your goals yesterday. Make today count!
+Your targets are within reach - today's a new day!
+Your targets are within reach - today's a new day!
+Got it
+Just now
+%d min ago
+%d min ago
+Time to get moving
+%d min ago
+%d mins ago
+%d mins ago
+%d mins ago
+%d mins ago
+%02d min ago
+%02d min ago
+%02d min ago
+%02d mins ago
+%02d mins ago
+%02d mins ago
+%02d mins ago
+Updated: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+step
+step
+step
+steps
+steps
+steps
+steps
+%d
+hour
+hour
+hour
+hours
+hours
+hours
+hours
+%d
+ min
+%02d:%02d
+%02d:%02d
+Settings
+Learn more
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Activity
+Status
+Stress
+Sleep
+Weather
+Music
+Alarm
+Events
+Calendar
+Cards
+More
+Flashlight
+Cycles
+Breathing
+Stopwatch
+Timer
+Find phone
+World clock
+Alerts
+Focus
+Mi AI
+Clear all
+%02d:%02d AM
+%02d:%02d PM
+Yesterday %02d:%02d
+%02d/%02d %02d:%02d
+%d notification
+%d notification
+%d notification
+%d notifications
+%d notifications
+%d notifications
+%d notifications
+%02d:%02d AM
+%02d:%02d PM
+Yesterday %02d:%02d
+%02d/%02d %02d:%02d
+Clear
+%02d:%02d AM
+%02d:%02d PM
+Yesterday %02d:%02d
+%02d/%02d %02d:%02d
+Dismiss
+Dismiss
+Swipe up to reply
+Sending
+Sent
+Couldn't send
+In a meeting. Will reply soon.
+Can't talk now. What's up?
+Can't talk now. Give me a call later.
+Use this band display?
+Delete this band display？
+Syncing
+Couldn't sync
+DND
+Off
+All day
+Custom
+Allow message replies in the app
+%02d:%02d-%02d:%02d
+Sync with phone
+On
+Start time
+AM
+%02d
+%02d:%02d
+Start time
+PM
+Sync with phone
+When turned on, the band's DND status will follow that of the phone
+DND is on
+Vibration
+Default
+Strong
+Off
+App notifications
+Wake screen upon notification
+On
+Notify only when worn
+On
+Notify only when phone is locked
+On
+Wake screen upon notification
+Wake screen when receiving notifications
+Notify only when worn
+Turn off notifications when band is taken off the wrist
+Notify only when phone is locked
+Learn more
+Make sure notifications are turned on in Mi Fitness > App notifications.
+Settings
+Band displays
+Display
+DND settings
+Vibration
+App notifications
+Auto detect
+PIN
+Battery
+Preferences
+System
+About band
+PIN
+Set PIN
+Enter 6-digit PIN
+%d
+%d
+PINs don't match
+PIN set
+PIN
+Turn off PIN
+Change PIN
+New PIN
+%d
+PIN turned off
+Incorrect
+Try again in %ds
+Try again in %ds
+Try again in %ds
+Try again in %ds
+Try again in %ds
+Try again in %ds
+Try again in %ds
+Help
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+Try again in %dm
+ 
+To reset PIN, go to Device > PIN in the app.
+ 
+PIN can't be turned off when bank cards are added.
+Auto detect
+Auto detect
+You won't get workout reminders when DND is on.
+Preferences
+Wake method
+Press and hold screen
+Tap screen
+Swipe up
+Press and hold screen
+When turned on, press and hold Edit to edit band display
+Battery
+%d
+%
+Remaining battery
+≈ %d day %d hr
+Remaining battery
+≈ %d days %d hr
+Remaining battery
+≈ %d day %d hrs
+Remaining battery
+≈ %d days %d hrs
+Battery saver
+Optimization
+Usage
+Remaining battery life
+about %d day %d hr
+Once enabled, only time, pedometer and NFC functions remain. Press and hold the screen or charge to disable.
+Battery saver
+%d
+%02d:%02d
+AM
+PM
+%d
+Exiting Battery saver
+Learn more
+Battery life
+Estimated battery life is provided for your reference only. Actual battery life depends on factors like the amount of time your device spends with the display on, vibrating, or tracking workouts.
+Optimization
+Optimization identifies features that are using significant battery life.
+Optimization
+Good
+No need to optimize
+Optimization
+Poor
+The following features will affect battery life
+Always-on display
+Raise to wake
+Breathing score
+All-day tracking
+Irregular BPM
+Always-on display
+Turning this feature off will extend battery life by about %d hr.
+Turning this feature off will extend battery life by about %d hr.
+Turning this feature off will extend battery life by about %d hr.
+Turning this feature off will extend battery life by about %d hrs.
+Turning this feature off will extend battery life by about %d hrs.
+Turning this feature off will extend battery life by about %d hrs.
+Turning this feature off will extend battery life by about %d hrs.
+Wake method
+Get reminders to start a workout.
+Supported workout types include walking, running, cycling, rope jumping, elliptical, and rowing.
+Display
+Brightness
+Auto lock
+Raise to wake
+Screen on for
+Always-on display
+Cover to sleep
+Auto
+%d second
+%d second
+%d second
+%d seconds
+%d seconds
+%d seconds
+%d seconds
+On
+Off
+On
+Off
+On
+Off
+Scheduled
+Scheduled
+Auto
+Custom
+Brightness
+Auto
+%ds
+%ds
+%ds
+%ds
+%ds
+%ds
+%ds
+Auto lock
+ 
+Keeping the screen on for long periods will reduce battery life. Continue?
+Raise to wake
+Off
+Scheduled
+%02d:%02d-%02d:%02d
+ 
+"Always-on display" is on. Turning on "Raise to wake" will reduce battery life. Turn on anyway?
+Screen on for
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+
+This will cause the screen to stay on for %d min each time, which will affect battery life. Continue anyway?
+This will cause the screen to stay on for %d min each time, which will affect battery life. Continue anyway?
+This will cause the screen to stay on for %d min each time, which will affect battery life. Continue anyway?
+This will cause the screen to stay on for %d mins each time, which will affect battery life. Continue anyway?
+This will cause the screen to stay on for %d mins each time, which will affect battery life. Continue anyway?
+This will cause the screen to stay on for %d mins each time, which will affect battery life. Continue anyway?
+This will cause the screen to stay on for %d mins each time, which will affect battery life. Continue anyway?
+Always-on display
+Off
+Smart
+Scheduled
+%02d:%02d-%02d:%02d
+   
+Turning on "Always-on display" may halve battery life. "Raise to wake" will be turned off. Continue?
+Learn more
+Always-on display
+The time will be displayed even when the screen is locked.
+Smart
+Always-on will turn off when you go to sleep or take off your band.
+Cover to sleep
+Start
+AM
+PM
+%02d:%02d
+%02d:%02d
+Complication
+Fitness
+Basic
+Mi Smart Hub
+My phone
+Speaker
+TV
+Earphones
+Noise cancellation
+Transparency
+Off
+Device
+Use band display?
+Earphones
+Delete band display?
+Mode
+To save changes, swipe right on the band display.
+Noise cancellation
+Transparency
+Off
+ 
+ 
+Just a sec…
+Weather alerts
+预警！
+Got it
+%02d:%02d AM
+%02d:%02d PM
+Connect via Bluetooth and turn on "Weather updates" in the app.
+Connect to Bluetooth and turn on Weather notifications to get weather info for your selected locations.
+Connect to Bluetooth and try again
+%02d:%02d
+Weather
+DND
+DND is on
+DND is off
+Find phone
+Settings
+No data
+Sailing
+Stand Up Paddle
+Water polo
+Other water sports
+Water skiing
+Kayaking
+Rafting
+Rowing
+Powerboating
+Finswimming
+Diving
+Artistic swimming
+Snorkeling
+Kitesurfing
+Flowriding
+Dragon boat
+Rock climbing
+Skateboarding
+Roller skating
+Parkour
+ATV
+Paragliding
+BMX
+Indoor cycling
+Stair climber
+Stepper
+Spinning
+Core training
+Flexibility
+Pilates
+Gymnastics
+Stretching
+Strength
+Cross training
+Stair climbing
+Aerobics
+Physical training
+Squash
+Dumbbell
+Barbell
+Weightlifting
+Deadlift
+Burpee
+Sit-ups
+Functional training
+Upper body
+Lower body
+Abs
+Back
+Air walker
+Horizontal bar
+Parallel bars
+Stepper
+Mass gymnastics
+Cardio combat
+Battle rope
+Aerobic combo
+Indoor fitness
+Square dancing
+Belly dance
+Ballet
+Street dance
+Zumba
+Folk dance
+Jazz dance
+Latin dance
+Hip hop
+Pole dance
+Breaking
+Ballroom dance
+Modern dance
+Dance
+Boxing
+Wrestling
+Martial arts
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Fencing
+Jujitsu
+Soccer
+Volleyball
+Baseball
+Softball
+American football
+Hockey
+Table tennis
+Badminton
+Cricket
+Handball
+Bowling
+Wall ball
+Billiards
+Shuttlecock
+Beach soccer
+Beach volleyball
+Sepak takraw
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Dodgeball
+Ice skating
+Indoor ice skating
+Curling
+Other winter sports
+Snowmobile
+Ice hockey
+Bobsleigh
+Sledding
+Archery
+Darts
+Horse riding
+Tug of war
+Hula hoop
+Kite flying
+Fishing
+Frisbee
+Shuttlecock
+Swinging
+Somatosensory game
+Table football
+Shuffleboard
+Esports
+Chess
+Checkers
+Weiqi
+Bridge
+Board game
+Equestrian
+Athletics
+Auto racing
+Sailing
+Stand Up Paddle
+Water polo
+Other water sports
+Water skiing
+Kayaking
+Rafting
+Rowing
+Powerboating
+Finswimming
+Diving
+Artistic swimming
+Snorkeling
+Kitesurfing
+Flowriding
+Dragon boat
+Rock climbing
+Skateboarding
+Roller skating
+Parkour
+ATV
+Paragliding
+BMX
+Indoor cycling
+Stair climber
+Stepper
+Spinning
+Core training
+Flexibility
+Pilates
+Gymnastics
+Stretching
+Strength
+Cross training
+Stair climbing
+Aerobics
+Physical training
+Wall ball
+Dumbbell
+Barbell
+Weightlifting
+Deadlift
+Burpee
+Sit-ups
+Functional training
+Upper body
+Lower body
+Abs
+Back
+Air walker
+Horizontal bar
+Parallel bars
+Stepper
+Mass gymnastics
+Cardio combat
+Battle rope
+Aerobic combo
+Indoor fitness
+Square dancing
+Belly dance
+Ballet
+Street dance
+Zumba
+Folk dance
+Jazz dance
+Latin dance
+Hip hop
+Pole dance
+Breaking
+Ballroom dance
+Modern dance
+Dance
+Boxing
+Wrestling
+Martial arts
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Fencing
+Jujitsu
+Soccer
+Volleyball
+Baseball
+Softball
+American football
+Hockey
+Table tennis
+Badminton
+Cricket
+Handball
+Bowling
+Squash
+Billiards
+Shuttlecock
+Beach soccer
+Beach volleyball
+Sepak takraw
+Futsal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Dodgeball
+Ice skating
+Indoor ice skating
+Curling
+Other winter sports
+Snowmobile
+Ice hockey
+Bobsleigh
+Sledding
+Archery
+Darts
+Horse riding
+Tug of war
+Hula hoop
+Kite flying
+Fishing
+Frisbee
+Shuttlecock
+Swinging
+Somatosensory game
+Table football
+Shuffleboard
+Esports
+Chess
+Checkers
+Weiqi
+Bridge
+Board game
+Equestrian
+Athletics
+Auto racing
+Just a sec…
+%02d:%02d
+Pause
+End
+Lock screen
+Cast
+Cast
+Searching
+Xiaomi TV
+Connecting
+Device not found
+TV name
+Connected
+Disconnect
+Couldn't connect
+Try again
+%02d:%02d
+Sync workouts
+Wear your band as shown and start workout in the app
+Back
+%02d:%02d
+Settings
+Running modes
+Display
+DND
+Vibration
+%02d:%02d
+Running mode
+Pebble mode
+Necklace mode
+Pebble mode
+With Pebble mode, you can get data on your running form. Start a workout (running or cycling) in the app.
+App notifications, heart rate measurement will be turned off. Your band won't respond to accidental touches.
+Turn on
+Back
+Start workout in the app
+Workout in progress
+Device is disconnected
+Swipe up to exit Pebble mode
+Swipe up to exit
+Exit Pebble mode?
+Running form data won't be recorded if you exit.
+Exit
+Cancel
+Exit Necklace mode?
+Exit
+Cancel
+Necklace mode
+With Necklace mode, the screen will stay on but won't respond to accidental touches.
+App notifications and heart rate measurement will be turned off.
+Turn on
+Back
+Log cycle details in the app
+%0.1f
+hour
+hour
+hour
+hours
+hours
+hours
+hours
+Sleep
+Wear your device to bed to generate sleep data
+%u
+hr
+hr
+hr
+hrs
+hrs
+hrs
+hrs
+min
+min
+min
+mins
+mins
+mins
+mins
+Goal: %u hr
+Goal: %u hr
+Goal: %u hr
+Goal: %u hrs
+Goal: %u hrs
+Goal: %u hrs
+Goal: %u hrs
+Heart rate
+Record your HR
+Start
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Breathing
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+Start
+Breathing
+SpO₂
+Record your SpO₂
+u%
+%
+Stress
+Record your stress
+u%
+Stress
+%02d
+'
+"
+.
+:
+Saving…
+Calibration
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Workout time too short to record. End?
+km
+km
+km
+km
+km
+km
+km
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Low battery. Charge and try again.
+Update your band using the app
+Couldn't update
+Updating
+Updated. Rebooting.
+Preparing update
+Receiving update
+Couldn't update. Try again in the app.
+Received update. Rebooting.
+Band will update automatically later tonight or when charging.
+You're using the latest version.
+Update reminder
+Delete
+
+%d
+
+%%
+Download the app to pair band
+%d
+Confirm on your phone
+Confirm on your phone
+Pairing
+Couldn't pair. Try again.
+Paired
+-
+-
+-
+-
+Rest
+min:sec
+Sets
+Get reminders at specified distance intervals
+%d length
+%d stroke
+%d jump
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+Got it
+%d
+Goal
+%02d:%02d:%02d
+Completed
+Goal
+%d
+kcal
+Completed
+Goal
+length
+length
+length
+lengths
+lengths
+lengths
+lengths
+Completed
+Goal
+jump
+jump
+jump
+jumps
+jumps
+jumps
+jumps
+Completed
+Goal
+stroke
+stroke
+stroke
+strokes
+strokes
+strokes
+strokes
+Completed
+View more records in the app
+About band
+Name
+Xiaomi Smart Band 8
+Model
+MAC address
+Regulatory
+Regulatory
+CMIIT ID
+Model
+Input
+System
+Reboot
+Power off
+Reset
+Reboot now?
+Power off now?
+%02d:%02d
+You'll have to pair your band again after performing a factory reset. Continue?
+Not wearing
+Couldn't measure
+Result
+Learn more
+SpO2
+Result
+Not wearing
+Couldn't measure
+%02d:%02d
+Sleep well
+DND is on. Raise to wake is off.
+Don't show again
+%02d:%02d
+Time to wake up
+Dismiss
+Snooze
+%02d:%02d
+Sleep
+%dh%dm
+%dh%dm
+%dh%dm
+%dh%dm
+%d°/%d°
+Got it
+%02d:%02d
+Sleep
+Got it
+%02d:%02d
+%d°/%d°
+Got it
+Outdoor workout
+Wear your band as shown and start workout in the app
+Back
+Settings
+Running modes
+Display
+DND
+Vibration
+Running mode
+Pebble mode
+Sleep mode off at %02d:%02d
+Necklace mode
+Pebble mode
+With Pebble mode, you can get data on your running form. Start a workout (running or cycling) in the app.
+App notifications, heart rate measurement will be turned off. Your band won't respond to accidental touches.
+Turn on
+Back
+Start workout in the app
+Workout in progress
+Device is disconnected
+Exit Pebble mode?
+Running form data won't be recorded if you exit.
+Exit
+Cancel
+Pebble mode
+Swipe up to exit
+Necklace mode
+Swipe up to exit
+Necklace mode
+With Necklace mode, the screen will stay on but won't respond to accidental touches.
+App notifications and heart rate measurement will be turned off.
+Turn on
+Back
+Exit Necklace mode?
+Exit
+Cancel
+Turning on this feature will increase battery usage. Continue anyway?
+Sound is on
+Just a sec…
+Sound is off
+Sound is off
+Just a sec
+Sound is on
+Disconnected
+Turn off
+Turn on
+Connect to Bluetooth and try again
+Allow your band to unlock the phone?
+Done!
+Couldn't authorize
+ 
+%d
+Timer
+Timer
+%d
+min
+min
+min
+mins
+mins
+mins
+mins
+hr
+hr
+hr
+hrs
+hrs
+hrs
+hrs
+Set hr
+%d
+%02d
+Set min
+%02d:%02d
+%02d:%02d:%02d
+Timer finished
+%02d:%02d ago
+%02d:%02d:%02d ago
+AQI %d %s
+Couldn't pair
+Add the device again
+About band
+Regulatory
+Reset
+Reboot
+%02d:%02d
+About band
+Name
+Xiaomi Smart Band 8
+Model
+MAC address
+%02d:%02d
+Regulatory
+CMIIT ID
+Input
+Reboot now?
+Power off now?
+You'll have to pair your band again after performing a factory reset. Continue?
+Battery under %d
+--
+%02d:%02d
+Vitality
+%d
+Past 7 days
+7-day progress
+%d
+Past 7 days
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Today
+%d
+Today
+%d
+Light
+Moderate
+Intense
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
++%d
+Settings
+Learn more
+Settings
+Continuous monitoring
+Your Vitality score is calculated using heart rate and activity data. Allow your band to measure your heart rate more often for a more accurate Vitality score.
+Learn more
+Vitality score is a way of measuring the impact of your workouts on your health. For best health outcomes, try to reach 100 points over a 7-day period.
+Vitality scores are based on the recommendations of the WHO guidelines on physical activity and sedentary behavior.
+That is, adults should engage in 150-300 minutes of moderate-intensity or 75-150 minutes of high-intensity aerobic activity per week, or a combination of the two, for maximum health benefits.
+Any physical activity, including low-intensity activity, is better for your health than staying sedentary.
+%d
+Past 7 days
+%d
+Today
+Past 7 days
+%d
+Keep moving to see even more results!
+Got it
+Dismiss today
+You're on the right track!
+You're unstoppable, keep it up!
+You've earned the maximum amount of points today. Take a break!
+Lock screen
+After waking the screen, swipe up to unlock.
+%u
+7-day resting HR
+%02u/%02u
+Model
+Today
+Today
+Tighten band strap and try again
+Pair with phone?
+Band will update automatically later tonight or when charging
+You're using the latest version
+Got it
+Couldn't update. Connect to the app and try again.
+Open on phone
+OK
+Reply
+Sending
+Sent
+Couldn't send
+Disconnected
+Connect to Bluetooth and try again
+Workout time too short to record. End?
+Resume
+End
+View workout reports in the app
+Done
+%02d:%02d
+%02d
+Pace
+kcal
+Speed (km/h)
+Speed (mph)
+Current distance
+Current time
+Current kcal
+Current lengths
+Current jumps
+Current strokes
+Goal
+Goal
+Goal
+Goal
+Goal
+Goal
+Goal completion
+%02d:%02d
+%d.%d
+Avg speed (km/h)
+Avg speed (mph)
+Freq (times/min)
+Current jumps
+This set
+Jumps this set
+Total
+Active kcal
+Kcal this set
+Calories
+%d.%d
+Avg speed (km/h)
+Avg speed (mph)
+High HR
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Max HR
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Camera
+Silence phone
+Vitality
+DND on for %d hr
+DND on for %d hr
+DND on for %d hr
+DND on for %d hrs
+DND on for %d hrs
+DND on for %d hrs
+DND on for %d hrs
+Off
+Disconnected
+:
+%02d:%02d - next day %02d:%02d
+DND is off
+When using the phone, you won't receive phone notifications on the band.
+Off
+Off
+Off
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Stats
+Heart rate
+SpO₂
+Workout
+Connect the charger properly
+-
+Workouts
+Stats
+Steps
+Calories
+Moving
+Heart rate
+SpO₂
+Stress
+Battery
+Date
+Weather
+UVI
+AQI
+Humidity
+Cards
+Alarm
+Stopwatch
+Camera
+Tools
+Weather
+length
+length
+length
+lengths
+lengths
+lengths
+lengths
+--'--"
+Version No.
+Serial No.
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Drink water
+%02d:%02d:%02d
+Resume
+Raise to wake
+Breathing score
+All-day tracking
+Irregular BPM
+%d
+Goal: %d kcal
+Goal: %d kcal
+Goal: %d kcal
+Goal: %d kcal
+Goal: %d kcal
+Goal: %d kcal
+Goal: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Goal: %d length
+Goal: %d length
+Goal: %d length
+Goal: %d lengths
+Goal: %d lengths
+Goal: %d lengths
+Goal: %d lengths
+length
+length
+length
+lengths
+lengths
+lengths
+lengths
+Goal: %d stroke
+Goal: %d stroke
+Goal: %d stroke
+Goal: %d strokes
+Goal: %d strokes
+Goal: %d strokes
+Goal: %d strokes
+stroke
+stroke
+stroke
+strokes
+strokes
+strokes
+strokes
+Goal: %d jump
+Goal: %d jump
+Goal: %d jump
+Goal: %d jumps
+Goal: %d jumps
+Goal: %d jumps
+Goal: %d jumps
+jump
+jump
+jump
+jumps
+jumps
+jumps
+jumps
+%d.%d
+Goal: %d.%d km
+Goal: %d.%d km
+Goal: %d min
+Goal: %d mins
+Goal: %dh %dm
+Goal: %dh %dm
+Goal: %dh %dm
+Goal: %dh %dm
+Confirm PIN
+Enter PIN
+Incorrect
+Disconnected
+%d
+%
+min
+min
+min
+mins
+mins
+mins
+mins
+%d
+step
+step
+step
+steps
+steps
+steps
+steps
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min
+min
+min
+mins
+mins
+mins
+mins
+%d
+hr
+hr
+hr
+hrs
+hrs
+hrs
+hrs
+Distance record
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+length
+length
+length
+lengths
+lengths
+lengths
+lengths
+jump
+jump
+jump
+jumps
+jumps
+jumps
+jumps
+stroke
+stroke
+stroke
+strokes
+strokes
+strokes
+strokes
+km
+Time record
+Paused
+Workout distance too short to record. End?
+--'--"
+Running
+Just now
+Just now
+Just now
+%d min ago
+%d min ago
+%d min ago
+%d mins ago
+%d mins ago
+%d mins ago
+%d mins ago
+%02d min ago
+%02d min ago
+%02d min ago
+%02d mins ago
+%02d mins ago
+%02d mins ago
+%02d mins ago
+%02d min ago
+%02d min ago
+%02d min ago
+%02d mins ago
+%02d mins ago
+%02d mins ago
+%02d mins ago
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Breaststroke
+Freestyle
+Backstroke
+Butterfly
+Medley
+Alerts
+Finding device…
+Stop
+Cloudy
+Overcast
+Showers
+Thunderstorm
+Hail
+Sleet
+Light rain
+Moderate rain
+Heavy rain
+Rainstorm
+Downpour
+Heavy rainstorm
+Snow showers
+Light snow
+Moderate snow
+Heavy snow
+Blizzard
+Mist
+Freezing rain
+Sandstorm
+Light to moderate rain
+Moderate to heavy rain
+Heavy rain to rainstorm
+Rainstorm to downpour
+Downpour to heavy rainstorm
+Light to moderate snow
+Moderate to heavy snow
+Heavy snow to blizzard
+Dust
+Windy
+Strong sandstorm
+Fog
+Thick fog
+Haze
+Moderate haze
+Heavy haze
+Severe haze
+Heavy fog
+Severe fog
+None
+Rain
+Snow
+On for %d hr
+On for %d hr
+On for %d hr
+On for %d hrs
+On for %d hrs
+On for %d hrs
+On for %d hrs
+--'--"
+Just a sec
+Not playing
+Disconnected
+Minor
+Recovery
+Improving
+Highly improving
+Overreaching
+The screen will lock when you start. Swipe up, then down to unlock.
+No data
+Just a sec…
+--°
+%d°
+-
+hr
+hr
+hr
+hrs
+hrs
+hrs
+hrs
+Recovery
+Updated: %02d:%02d
+Standing
+Clear
+No notifications
+Stopwatch
+Timer
+Flashlight
+Basic run/walk
+Advanced run/walk
+Basic jog
+Fat burn run (Basic)
+Fat burn run (Advanced)
+MIIT run
+Endurance run (Basic)
+Endurance run (Advanced)
+Interval run (Basic)
+Interval run (Advanced)
+Basic run/walk
+Advanced run/walk
+Basic jog
+Fat burn run (Basic)
+Fat burn run (Advanced)
+MIIT run
+Endurance run (Basic)
+Endurance run (Advanced)
+Interval run (Basic)
+Interval run (Advanced)
+Fast walk
+Jog
+Run
+Sprint
+%d:%02d
+%d
+Remaining
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Workout
+Time
+Current HR
+Finished course. Continue working out?
+Continue in %ds
+Continue in %ds
+Freestyle
+Finished!
+(No title)
+%02u:%02uAM-
+%02u:%02uPM-
+%02u:%02uAM
+%02u:%02uPM
+%u/%u/%u
+%u/%u
+%02u:%02u
+Today
+Tomorrow
+In %d hr
+In %d hr
+In %d hr
+In %d hrs
+In %d hrs
+In %d hrs
+In %d hrs
+In %d hr
+In %d hr
+In %d hr
+In %d hrs
+In %d hrs
+In %d hrs
+In %d hrs
+In %d day
+In %d day
+In %d day
+In %d days
+In %d days
+In %d days
+In %d days
+In %d day
+In %d day
+In %d day
+In %d days
+In %d days
+In %d days
+In %d days
+Now
+In %d min
+In %d min
+In %d min
+In %d mins
+In %d mins
+In %d mins
+In %d mins
+In %d min
+In %d min
+In %d min
+In %d mins
+In %d mins
+In %d mins
+In %d mins
+Overdue
+--
+Done!
+Couldn't authorize
+Lengths this set
+Remaining
+%ld . %ld
+km
+m
+%02d : %02d
+All-day stress monitoring
+Advanced sleep monitoring
+All-day stress monitoring
+Advanced sleep monitoring
+%d min
+%d min
+%d min
+%d mins
+%d mins
+%d mins
+%d mins
+Screen on for
+Screen will stay on for %d min each time. This will affect battery life. Turn on anyway?
+Screen will stay on for %d min each time. This will affect battery life. Turn on anyway?
+Screen will stay on for %d min each time. This will affect battery life. Turn on anyway?
+Screen will stay on for %d mins each time. This will affect battery life. Turn on anyway?
+Screen will stay on for %d mins each time. This will affect battery life. Turn on anyway?
+Screen will stay on for %d mins each time. This will affect battery life. Turn on anyway?
+Screen will stay on for %d mins each time. This will affect battery life. Turn on anyway?
+Smart
+Scheduled
+Weather
+Alert
+预警。
+%02d:%02d AM
+%02d:%02d PM
+Swipe up to unlock
+Very high
+AQI %d
+%s
+Screen on for
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Mexico City
+Winnipeg
+Guatemala
+San Salvador
+Tegucigalpa
+Managua
+Havana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Allow your band to unlock the phone?
+Buenos Aires
+Montevideo
+Brasília
+Praia
+Reykjavik
+Lisbon
+Casablanca
+Dublin
+Madrid
+Lagos
+Algiers
+Brussels
+Geneva
+Frankfurt
+Oslo
+Copenhagen
+Rome
+Berlin
+Prague
+Zagreb
+Vienna
+Stockholm
+Budapest
+Warsaw
+Windhoek
+Sofia
+Tallinn
+Helsinki
+Bucharest
+Kyiv
+Harare
+Jerusalem
+Beirut
+Kaliningrad
+Amman
+Khartoum
+Minsk
+Istanbul
+Ankara
+St. Petersburg
+Nairobi
+Addis Ababa
+Baghdad
+Aden
+Riyadh
+Antananarivo
+Kuwait
+Abu Dhabi
+Muscat
+Samara
+Kabul
+Karachi
+Mumbai
+Kathmandu
+Dhaka
+Almaty
+Novosibirsk
+Phnom Penh
+Hanoi
+Jakarta
+Kuala Lumpur
+Taiwan, China
+Taiwan
+Perth
+Irkutsk
+Manila
+Pyongyang
+Tokyo
+Chita
+Darwin
+Vladivostok
+Brisbane
+Adelaide
+Magadan
+Kamchatka
+Suva
+Auckland
+Kiritimati
+Washington, D. C.
+San Francisco
+Nothing here yet
+Today
+--
+OK
+m behind
+m ahead
+Measuring
+%d notification
+%d notification
+%d notification
+%d notifications
+%d notifications
+%d notifications
+%d notifications
+Not playing audio
+Amsterdam
+Low battery
+Battery below %d%%. Charge now.
+Shortcuts
+Workout time is too short to record.
+World clock
+Goal: %d m
+Goal: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Sleep
+Recovery
+Vitality
+Weixin Pay
+Alipay
+Yesterday %02d:%02d AM
+Yesterday %02d:%02d PM
+%02d/%02d %02d:%02d AM
+%02d/%02d %02d:%02d PM
+When you wear your band to bed, it will automatically record information about your sleep. The device will display the latest 3 records; you can view more detailed information in the app.
+Turn on Advanced monitoring in Settings to get more accurate sleep information, such as recognizing REM sleep.
+When you sleep for more than 3 hours, your device will display your average heart rate, SpO₂ level, and sleep score. For naps under 3 hours, only the time you fall asleep and wake up will be displayed. Naps under 20 minutes won't be recorded.
+Poor sleep quality and excessive movement during sleep may cause inaccurate heart rate and SpO₂ measurements.
+...
+Average
+Poor
+%02d:%02d:%02d.%02d
+Enter PIN to unlock
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth disconnected. Connect to sync workout data.
+In %u day
+In %u day
+In %u day
+In %u days
+In %u days
+In %u days
+In %u days
+Excellent
+Unknown
+Unknown
+No track info
+Start
+End
+%.2F
+Disconnected
+Connect via Bluetooth and try again
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+.
+.
+.
+.
+  
+.
+.
+Learn more
+.
+-
+Product name
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Target BPM:
+Target:
+No events today
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Severe
+%u Severe
+%u Severe
+%u%%
+--°
+--
+AQI --
+Connect to the app to get weather info
+.
+Heart rate
+Set
+Set
+Set
+Set
+Set
+Time
+Time
+Time
+Time
+Time
+Steps
+Strokes
+Jumps
+Lengths
+Laps
+Xiaomi Smart Band 8 NFC
+/
+-
+You can edit your band display now. Tap to confirm the edit.
+To save changes, swipe right on the band display.
+Switching language
+Only the clock and step count will be available when Battery saver is on. Press and hold the screen or charge to turn off.
+Device is overheating. Powering off.
+Turning this feature off will extend battery life by about %d day %d hr
+Turning this feature off will extend battery life by about %d days %d hr
+Turning this feature off will extend battery life by about %d day %d hrs
+Turning this feature off will extend battery life by about %d days %d hrs
+Training load
+Recovery time (hr)
+Vitality
++%u
+To edit widgets, go to Device > Widgets in the app.
+Alarm
+Grant DND permissions in the app
+OK
+Updated %dm ago
+Updated %dm ago
+%d°/%d°
+Data expired
+Updated: %02d:%02d
+Updated yesterday, %02d:%02d
+Events
+Just now
+Measurement timed out. Make sure your band fits snugly.
+,
+%ld,%ld
+%d
+km/h
+Current HR
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Toes this direction
+Location permissions are required to be able to record your route.
+In your phone's Settings, grant Mi Fitness permission to access your location, and select "Always allow".
+%02d:%02d:%02d
+For accurate heart rate measurements, wear your device snugly, about a finger's width from the wrist bone. If it slips while you exercise, readjust it promptly.
+This activity will only record data on frisbee throws from one hand. Wear the device on the wrist you'll throw with.
+Tips
+Throws
+Throw
+Throw
+Throw
+Throws
+Throws
+Throws
+Throws
+Throwing force
+Low
+Medium
+High
+%d throw
+%d throw
+%d throw
+%d throws
+%d throws
+%d throws
+%d throws
+DND settings
+Sleep mode
+When the device recognizes that you're asleep, DND will turn on automatically.
+Sleep mode
+%d hr
+%d hr
+%d hr
+%d hrs
+%d hrs
+%d hrs
+%d hrs
+All day
+Custom
+Settings

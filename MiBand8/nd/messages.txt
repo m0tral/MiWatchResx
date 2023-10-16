@@ -1,0 +1,4324 @@
+Zoek telefoon
+Uw telefoon gaat over
+Zoeken
+Stoppen
+Voltooid
+Opnieuw zoeken
+Verbinding verbroken
+Maak verbinding via Bluetooth en probeer het opnieuw
+Open Camera op uw telefoon
+OК
+Koppel het apparaat in de Camera-instellingen in de app
+OК
+Verbinding verbroken
+Maak verbinding via Bluetooth en probeer het opnieuw
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Nu
+Alarm
+Geen alarmen
+AM
+PM
+%02d:%02d
+Eenmaal
+Dagelijks
+Werkdagen
+Vakanties
+ 
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+Voeg tot 10 alarmen toe
+Tijd
+AM
+PM
+%02d
+%02d
+:
+Slim wakker worden
+Uw band selecteert automatisch de beste tijd om wakker te worden binnen 10 minuten voor de ingestelde wekker
+Herhalen
+Eenmaal
+Dagelijks
+Werkdagen
+Vakanties
+Aangepast
+Aangepast
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+Sluimeren
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Uit
+Sluimer voor 10 minuten
+Tijd
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Herhalen
+Eenmaal
+Dagelijks
+Werkdagen
+Vakanties
+ 
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+Slim wakker worden
+Aan
+Uit
+%d%%
+%02d:%02d
+Batterij onder %d%%
+Batterij is lager dan %d%%. Batterijbesparing inschakelen?
+Batterijbesparing
+Resterende batterijduur
+ongeveer %d dag %d uur
+Alleen de klok, het aantal stappen en NFC zijn beschikbaar wanneer Batterijbesparing is ingeschakeld. Houd het scherm ingedrukt of laad op om uit te schakelen.
+Band is te heet om op te laden. Draag het nu niet.
+Band is te koud om op te laden. Draag het nu niet.
+%02d:%02d
+Stopwatch
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Geen locaties toegevoegd
+%02d:%02d
+Wellington
+Sydney
+Tokio
+Seoel
+Peking
+Hongkong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moskou
+Caïro
+Kaapstad
+Parijs
+Londen
+New York
+Chicago
+Los Angeles
+Honolulu
+Athene
+Teheran
+Yangon
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Seoel
+Peking
+Hongkong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moskou
+Caïro
+Kaapstad
+Parijs
+Londen
+New York
+Chicago
+Los Angeles
+Honolulu
+Athene
+Teheran
+Yangon
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Seoel
+Peking
+Hongkong
+Singapore
+Bangkok
+New Delhi
+Islamabad
+Dubai
+Moskou
+Caïro
+Kaapstad
+Parijs
+Londen
+New York
+Chicago
+Los Angeles
+Honolulu
+Athene
+Teheran
+Yangon
+Rio de Janeiro
+De zomertijdgegevens zijn verouderd. Maak verbinding met de app om bij te werken.
+%02d:%02d
++%d uur
++%.1f uur
++%d uur
++%d uur
++%d uur
++%d uur
++%.1f uur
++%.1f uur
++%.1f uur
++%.1f uur
++%.1f uur
++%.1f uur
++%d uur
++%d uur
+-%d uur
+-%.1f uur
+-%d uur
+-%d uur
+-%d uur
+-%d uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%d uur
+-%d uur
+%02d/%02d
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%.1f uur
+-%d uur
+-%d uur
+-%d uur
+-%d uur
+-%d uur
+-%d uur
+-%d uur
++%d uur
++%.1f uur
++%d uur
++%d uur
++%d uur
++%d uur
++%.1f uur
++%.1f uur
++%.1f uur
++%.1f uur
++%.1f uur
++%.1f uur
++%d uur
++%d uur
+Locatie toevoegen
+Voeg meer locaties toe in de app
+Voeg maximaal
+20 locaties toe
+%02d:%02d
+Focus
+Rust uit
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Rust uit
+%02d:%02d
+Duur instellen
+Rusten
+Gepauzeerd
+Rusttijd
+Vandaag
+%02d:%02d:%02d
+Focus tijd
+Focus
+Focus
+
+Niet storen is ingeschakeld tijdens deze sessie
+Blijf gefocust
+Meer informatie
+Focus
+Focus helpt u om gedurende een korte periode te concentreren, zodat u efficiënter kunt werken.
+
+Een Focussessie duurt normaal gesproken 25 minuten. Zodra u begint, concentreert u zich volledig op uw taak totdat uw apparaat trilt, waarna u 5 minuten kunt rusten.
+
+ We raden aan om na elke 4 Focussessies een pauze van 15-20 minuten te nemen.
+Tijd om te focussen
+Een ogenblik geduld
+Niet afspelen
+Verbinding verbroken
+Toestemmingen ontbreken
+Schakel meldingen in de app in
+OК
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Pig)
+ 
+ 
+ 
+ 
+ 
+%d/%d
+Week %d
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Evenementen inschakelen in de app
+Geen evenementen
+%02d/%02d
+Ma
+%02d/%02d
+Di
+%02d/%02d
+Wo
+%02d/%02d
+Do
+%02d/%02d
+Vr
+%02d/%02d
+Za
+%02d/%02d
+Zo
+Hele dag
+%02d:%02d-%02d:%02d
+Sluimeren
+Afwijzen
+Gesluimerd
+voor 10 min.
+Inschakelen
+Geen evenementen
+Toevoegen in de app
+Vandaag
+Aankomende
+%02d:%02d AM
+%02d:%02d PM
+%d/%dMa
+%d/%dDi
+%d/%dWo
+%d/%dDo
+%d/%dVr
+%d/%dZa
+%d/%dZo
+Sluimeren
+Afwijzen
+%02d:%02d AM
+%02d:%02d PM
+Gebeurtenis
+Gesluimerd
+voor 10 min.
+Details
+Apparaat zoeken…
+Stoppen
+Luisteren
+Begin met te zeggen
+Mi AI instellen in de app
+Controleer uw 
+netwerkverbinding 
+en probeer het later opnieuw
+Verbinding verbroken.
+ Maak verbinding via Bluetooth.
+Band is uploading
+ data. Can't use Mi AI
+ right now.
+Deze functie wordt nog niet ondersteund
+U zei?
+Kon Mi AI niet wakker maken. Probeer het opnieuw.
+Maandag
+Dinsdag
+Woensdag
+Donderdag
+Vrijdag
+Zaterdag
+Zondag
+Tik om Mi AI te wekken
+Vraag Mi AI op uw telefoon
+Mi AI is op dit moment alleen beschikbaar op het Chinese vasteland.
+Uitstekend
+Goed
+Gemiddeld
+Ongezond
+Gevaarlijk
+Erg gevaarlijk
+Uitstekend
+Goed
+Gemiddeld
+Ongezond
+Gevaarlijk
+Erg gevaarlijk
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Morgen
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+AQI %d
+Zonsopgang
+Zonsondergang
+%02d:%02d
+Wind
+%d
+Vochtigheid
+%d%%
+UV
+%lu
+%d°/%d°
+Wissel van locatie
+Locaties instellen in de
+weerinstellingen van de app
+%d
+℃
+℉
+Kaarten
+Kaarten toevoegen in de app
+Een ogenblik geduld
+   
+Saldo
+Houd dicht bij de lezer
+Een ogenblik geduld
+Kon niet activeren.
+Probeer het opnieuw.
+Betaling voltooid
+-%.2F
+Saldo
+-%.2F
+Laag saldo. Snel opwaarderen.
+Ademen
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Start
+Ontspan
+Focus op uw ademhaling
+Laten we beginnen
+Volg de bubbel
+Inademen
+Uitademen
+Goed gedaan
+Sessie: %d min.
+Sessie: %d min.
+Sessie: %d min.
+Sessie: %d min.
+Sessie: %d min.
+Sessie: %d min.
+Sessie: %d min.
+%2d:%2d
+Resultaten
+Huidige hartslag
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Hartslag starten
+Sessie
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Voltooid
+Tijd
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+%d
+%d
+%d ademhaling
+%d ademhaling
+%d ademhaling
+%d ademhalingen
+%d ademhalingen
+%d ademhalingen
+%d ademhalingen
+%02u:%02u
+Hartslag
+Meten
+Blijf stil
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Zojuist
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%02u:%02u
+Opnieuw proberen
+Meten
+Niet aan het dragen
+Geen gegevens
+Niet aan het dragen
+OК
+%u
+%u
+Tips
+1. Draag uw band boven uw polsbeen
+2. Houd uw band afgesteld en niet bewegend
+3. De meetnauwkeurigheid kan worden beïnvloed door de manier waarop de band wordt gedragen, veranderingen in uw huid en de omgeving, enz.
+*Deze functie is niet bedoeld voor medische doeleinden en is ook niet bedoeld om een ziekte of aandoening te diagnosticeren, behandelen, genezen of voorkomen.
+Hoge hartslag
+Hoge hartslag
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Meer informatie
+Uw band waarschuwt u wanneer uw hartslag een bepaald niveau overschrijdt terwijl terwijl u in rust bent. Het is normaal dat uw hartslag stijgt als reactie op stress, cafeïne-inname of verkoudheid. Mensen die duizeligheid, kortademigheid of hartkloppingen ervaren, moeten echter medisch advies inwinnen. Houd er rekening mee dat de hoge hartslaggegevens niet bedoeld zijn voor medische doeleinden en ook niet bedoeld zijn om een ziekte of aandoening te diagnosticeren, behandelen, genezen of voorkomen. De band geeft alleen de 3 meest recente hoge hartslagopnames weer. Voor meer informatie, check de app.
+Lage hartslag
+Lage hartslag
+Meer informatie
+Uw band geeft een melding wanneer uw hartslag onder een bepaald niveau komt. Dit komt vaak voor tijdens het slapen of bij mensen die fysiek actief zijn. Mensen die duizeligheid, kortademigheid of hartkloppingen ervaren, moeten medisch advies inwinnen. Let op dat de lage hartslaggegevens niet bedoeld zijn voor medische doeleinden en ook niet bedoeld zijn om een ziekte of aandoening te diagnosticeren, behandelen, genezen of voorkomen. De band geeft alleen de meest recente lage hartslaggegevens weer. Voor meer informatie, check de app.
+Onregelmatige BPM
+Onregelmatig
+%02u:%02u-%02u:%02u
+Bekijk details in de app
+Meer informatie
+Uw band meet uw hartslag en registreert eventuele afwijkingen wanneer u inactief bent. Als u zich onwel voelt, moet u een arts raadplegen.
+Hartslag zone
+%u u %u min.
+%u u %u min.
+%u u %u min.
+%u u %u min.
+%u u
+%u u
+%u u
+%u u
+%u u
+%u u
+%u u
+%1u u
+%1u u
+%1u u
+%1u u
+%1u u
+%1u u
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%2u min.
+%2u min.
+%2u min.
+%2u min.
+%2u min.
+%2u min.
+VO₂ max
+Anaërobe
+Aerobic
+Intensief
+Licht
+Meer informatie
+Licht
+50%-60% van de maximale capaciteit van de hartslag is geschikt voor warming-ups en cooling-downs.
+Intensief
+61%-70% venster is perfect voor het verbranden van vet.
+Aerobic
+Bij 71%-80% worden de cardiopulmonale functies versterkt.
+Anaërobe
+Wanneer een venster van 81%-90% is bereikt, wordt de melkzuurtolerantie verbeterd.
+VO₂ max
+Sporten op 91%-100% van de maximale capaciteit van de hartslag is geschikt voor ervaren trainers.
+Instellingen
+Hartslag
+Continue toezicht
+Uit
+Automatisch
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+Continue toezicht
+Volg uw hartslag gedurende de dag.
+Uit
+Automatisch
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+Onregelmatige BPM
+Aan
+Onregelmatige BPM
+Deze functie houdt uw hartslag in realtime bij en registreert eventuele onregelmatige hartslagen.
+ 
+Als u deze functie inschakelt, wordt de levensduur van de batterij aanzienlijk verkort. Toch inschakelen?
+Hoge hartslag
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Hoge hartslag
+Selecteer een hartslag hierboven waar u een melding van krijgt
+Uit
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Hoge hartslag
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was hoger dan %u BPM.
+Afwijzen
+Vandaag afwijzen
+Lage hartslag
+Lage hartslag
+Selecteer een hartslag hieronder waar u een melding van krijgt
+Lage hartslag
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Start om %02u:%02u, uw rustende hartslag was lager dan %u BPM.
+Meer informatie
+Meer informatie
+Hartslag
+Hartslag is het aantal keren dat de hartslag per minuut (BPM) klopt. Meestal varieert een rustende hartslag van 55 tot 80 BPM. Het varieert echter met leeftijd, geslacht en andere factoren. Uw apparaat ondersteunt een bereik van 30-240 BPM
+Slaap
+Draag uw apparaat naar bed om slaapgegevens te genereren
+%02u
+u
+min.
+Doel: %2u uur
+Doel: %2u uur
+Doel: %2u uur
+Doel: %2u uur
+Doel: %2u uur
+Doel: %2u uur
+Doel: %2u uur
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+u
+u
+u
+u
+u
+u
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Doel: %02u u %2u min.
+Bijgewerkt: %02u:%02u
+Dutje
+%02u
+%02u:%02u-%02u:%02u
+Slaap
+Diep
+%u%%
+Licht
+REM
+Wakker geworden
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Gem. hartslag
+%u
+Gem. SpO₂
+Instellingen
+Meer informatie
+Instellingen
+Geavanceerde toezicht
+Uit
+Ademhalingsscore
+Aan
+Geavanceerde toezicht
+Wanneer deze functie is ingeschakeld, houdt uw apparaat uw REM slaap bij.
+
+Als u Geavanceerde toezicht inschakelt, wordt de levensduur van de batterij aanzienlijk verkort. Toch inschakelen?
+Ademhalingsscore
+Als deze functie is ingeschakeld, wordt uw nachtelijke ademhaling gecontroleerd terwijl u slaapt. U kunt de ademhalingsscore bekijken in de app.
+Door toezicht te houden op uw ademhaling, wordt de levensduur van de batterij aanzienlijk verkort. Toch inschakelen?
+Meer informatie
+Draag uw band naar bed om de slaap bij te houden. U kunt de 3 meest recente slaapgeschiedenisrecords op uw band zien. De meest gedetailleerde slaapgeschiedenis is beschikbaar in de app op uw telefoon. Schakel Geavanceerde toezicht in Instellingen in om snelle oogbewegingen te volgen en nauwkeurigere slaapinformatie te krijgen. Als u minimaal 3 uur ononderbroken slaapt, kan uw band uw gemiddelde hartslag en bloedzuurstof registreren. Voor kortere dutjes worden alleen de tijden van inslapen en wakker worden geregistreerd. Dutjes van minder dan 20 minuten worden niet geregistreerd. Een slechte slaapkwaliteit en overmatige polsbewegingen tijdens de slaap kunnen leiden tot onnauwkeurige hartslaggegevens en het niet meten van de bloedzuurstof.
+%02u:%02u
+Stress
+Geen gegevens
+Meten
+%u
+Ontspannen
+Mild
+Gemiddeld
+Ernstig
+Zojuist
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%02u:%02u
+Houd de band stil en naar boven gericht
+%u
+Meten
+Blijf stil
+Blijf stil
+Houd de band tegen uw huid
+Houd uw pols plat en het scherm naar boven gericht
+Span de bandriem aan en probeer het opnieuw
+Span de bandriem aan en probeer het opnieuw
+Blijf tijdens het meten stil
+Span de bandriem aan en probeer het opnieuw
+Opnieuw proberen
+OК
+Sessie onderbroken. Nu annuleren?
+Tips
+Draag uw band boven uw polsbeen.
+Houd uw band afgesteld en niet bewegend.
+Metingen zijn afhankelijk van lage temperatuur, huidperfusie en meer.
+Deze functie is niet bedoeld voor medische doeleinden.
+Hevige stress
+%u
+Ernstig
+Probeer ademhalingsoefeningen.
+Ademen
+Begrepen
+Vandaag afwijzen
+Stress
+%u
+%u
+Ontspannen
+Mild
+Gemiddeld
+Ernstig
+Zojuist
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%02u:%02u
+Meten
+Geen gegevens
+Details
+Ontspannen
+Mild
+Gemiddeld
+Ernstig
+%u%%
+Laatste 7 dagen
+%02u/%02u
+Vandaag
+%u
+gem.
+Instellingen
+Meer informatie
+Stress
+De hele dag toezicht
+Aan
+Uit
+Ontspan herinnering
+De hele dag toezicht
+Deze functie houdt uw stressniveau bij wanneer u niet beweegt.
+Ontspan herinnering
+Voer een ademhalingsoefening uit wanneer uw stressniveau boven de 80 blijft terwijl u wakker bent
+Als u deze functie inschakelt, wordt de levensduur van de batterij aanzienlijk verkort. Toch inschakelen?
+Meer informatie
+Stress is de reactie van uw lichaam op uitdagingen en eisen.
+Stress wordt alleen gemeten tijdens rustperiodes. Stressniveaus worden als volgt gedefinieerd:
+Ontspannen: 1-25 
+Mild: 26-50 
+Gemiddeld: 51-80 
+Ernstig: 81-100
+Meerdere factoren kunnen de nauwkeurigheid beïnvloeden. Resultaten zijn alleen ter referentie.
+%02u:%02u
+SpO₂
+Geen gegevens
+Meten
+%u
+%
+Zojuist
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%02u:%02u
+Houd de band stil en naar boven gericht
+%u
+SpO₂
+Meten
+Kalibreren
+Blijf stil
+Blijf stil
+Houd de band tegen uw huid
+Houd uw pols plat en het scherm naar boven gericht
+Span de bandriem aan en probeer het opnieuw
+Opnieuw proberen
+Span de bandriem aan en probeer het opnieuw
+Blijf tijdens het meten stil
+Span de bandriem aan en probeer het opnieuw
+Houd uw pols plat en het scherm naar boven gericht
+Houd de band afgesteld en niet bewegend
+Begrepen
+Begrepen
+Tips
+1. Draag uw band boven uw polsbeen.
+2. Houd uw band afgesteld en niet bewegend.
+3. Metingen zijn afhankelijk van lage temperatuur, huidperfusie en meer.
+Deze functie is niet bedoeld voor medische doeleinden.
+SpO₂
+%u
+%u
+%
+Zojuist
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%u min. geleden
+%02u:%02u
+Meten
+Waarschuwingen
+Instellingen
+Meer informatie
+Meer informatie
+Uw band ondersteunt een bereik van 75%–100%.
+Lage SpO₂
+1. SpO₂ staat voor het percentage zuurstof in uw bloed.
+%02u:%02u
+2. Meetwaarden lager dan 95% wanneer actief of lager dan 90% wanneer u slaapt, worden als laag beschouwd.
+%u
+%u%% - %u%%
+3. Er zijn meerdere factoren die metingen inconsistent of onbetrouwbaar kunnen maken. Ze kunnen huidperfusie, permanente of tijdelijke huidveranderingen, beweging of houding tijdens de slaap omvatten. Al het bovenstaande kan leiden tot een vals alarm voor een laag zuurstofgehalte in het bloed. Onthoud dat dit geen medisch hulpmiddel is en dat de gegevens die het genereert niet kunnen worden gebruikt voor diagnose en behandeling.
+Meer informatie
+Wanneer uw zuurstofverzadigingsniveau gedurende een bepaalde tijd onder de ingestelde waarde blijft, ontvangt u een waarschuwing. Uw band toont de 3 meest recente opnames. Bekijk meer in de app.
+Als u last krijgt van kortademigheid, hoofdpijn, vermoeidheid of concentratieverlies, zoek dan professionele medische hulp.
+Het meetbereik van de band is 75%-100%. Deze functie is niet bedoeld voor medische doeleinden en mag alleen ter referentie worden gebruikt.
+Sessie onderbroken. Nu annuleren?
+Instellingen
+Hele dag volgen
+Aan
+Uit
+Waarschuwingen
+Uit
+%d%%
+%d%%
+%d%%
+Hele dag volgen
+Deze functie meet uw SpO₂ wanneer u in rust bent.
+Waarschuwingen
+Ontvang een herinnering wanneer uw SpO₂ onder een bepaald niveau daalt terwijl u wakker bent
+Uit
+0.8
+0.85
+0.9
+ 
+Als u deze functie inschakelt, wordt de levensduur van de batterij aanzienlijk verkort. Toch inschakelen?
+Waarschuwingen
+%u
+%
+Uw huidige SpO₂ is lager dan %u%%
+Afwijzen
+Vandaag afwijzen
+%02d:%02d
+Cycli
+%02d/%02d
+%02d/%02d
+Geen gegevens vandaag
+Registreren
+Dag %d
+Dag %d
+Dag %d
+Dag %d
+Dag %d
+Dag %d
+Dag %d
+Geschatte menstruatie
+%02d/%02d-%02d/%02d
+Annuleren
+Menstruatie is beëindigd
+Menstruatie
+Cycli
+%02d/%02d
+%02d/%02d
+Geen gegevens vandaag
+Menstruatie gestart
+Annuleren
+Menstruatie is beëindigd
+Voorspellingen
+Schakel Menstruatievoorspelling in de app in
+Meer informatie
+Dag %02d
+Dag %02d
+Dag %02d
+Dag %02d
+Dag %02d
+Dag %02d
+Dag %02d
+Vruchtbaar
+Geschatte menstruatie
+Menstruatie
+%02d/%02d-%02d/%02d
+Vruchtbaar
+%02d/%02d-%02d/%02d
+Menstruatie
+Ovulerend
+%02d/%02d
+Ovulatie
+Over %d dag
+Over %d dag
+Over %d dag
+Over %d dagen
+Over %d dagen
+Over %d dagen
+Over %d dagen
+Meer informatie
+1. Kleuren
+Menstruatie
+Geschatte menstruatie
+Vruchtbaar
+Ovulatie
+2. Tip
+Om voorspellingen nauwkeuriger te maken, legt u menstruaties vast en bewerkt u de cyclusduur in de app.
+Aankomende menstruatie
+Aankomende vruchtbare periode
+Aankomende ovulatie
+Morgen
+Over 2 dagen
+Over %u dag
+Over %u dag
+Over %u dag
+Over %u dag
+Over %u dagen
+Over %u dagen
+Over %u dagen
+Over %u dagen
+Volgende menstruatie op %u/%u
+Volgende vruchtbare periode op %u/%u
+Volgende ovulatiedag op %u/%u
+%02u:%02u
+AM
+PM
+Begrepen
+Buiten hardlopen
+Lopen
+Snelwandelen
+Loopband
+Indoor wandelen
+Buiten fietsen
+Trekking
+Trailrunning
+Wandelen
+Freestyle
+Indoor fitness
+Yoga
+Zwembad zwemmen
+Open water
+Elliptische
+Roeier
+Touwtje springen
+HIIT
+Tennis
+Basketbal
+Snowboarden
+Skiën
+Langlaufen
+Golf
+Andere sporten
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Doel
+%d%
+Voltooiing van het doel
+%u.%02u
+km
+Doel
+Voltooid
+Samenvatting
+%u'%02u"
+Gem. tempo
+Tempo
+%d
+Gem. cadans (SPM)
+Gem. stapafstand (cm)
+Calorieën
+Gem. hartslag
+Max. hartslag
+Stappen
+VO₂ max
+Banen
+Hoofdstijl
+Gem. SWOLF
+Totaal aantal slagen
+Gem. SPM
+Work-out tijd
+Rusttijd
+Sets
+Totaal aantal slagen
+Totaal aantal sprongen
+Gem. freq (JPM)
+Borstslag
+Vrije slag
+Vlinderslag
+Rugslag
+Hartslag zone
+VO₂ max
+Anaërobe
+Aerobic
+Intensief
+Licht
+%d u %d min.
+%d u %d min.
+%d u %d min.
+%d u %d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d u
+%d u
+%d u
+%d u
+%d u
+%d u
+%d u
+Trainingseffect
+%d.%d
+In stand houden
+Aërobe work-out
+%d.%d
+Anaërobe work-out
+Bekijk meer details in de app
+%d
+Trainingsbelasting
+Goed
+Laag
+Hoog
+Afgelopen 7 dagen
+%d
+ml/kg/min
+VO₂ max
+Erg slecht
+Slecht
+Redelijk
+Gemiddeld
+Goed
+Uitstekend
+Uitmuntend
+Niveau
+Verbeteren
+In stand houden
+Afnemend
+Atletisch vermogen
+ 
+Trainingsbelasting wordt berekend op basis van uw overmatige zuurstofverbruik na de training (EPOC) in de afgelopen 7 dagen. Pas uw werkdruk daarop aan. Meer informatie in Help in de app.
+%02d:%02d
+Meer informatie
+VO₂ max is een belangrijke indicator van de aërobe capaciteit van het lichaam. Het apparaat beoordeelt uw atletisch vermogen op basis van factoren zoals leeftijd, geslacht en hartslag tijdens het sporten, en de VO₂ max zal veranderen naarmate uw atletisch vermogen verbetert.
+Vind uw VO₂ max
+1. Vul uw persoonlijke informatie in de app in. 2. Draag de band en ren 10+ minuten buiten om 75% van uw max. hartslag te bereiken.
+%d
+Hersteltijd (uur)
+Volledig hersteld
+Grotendeels hersteld
+Intensiteit verminderen
+Rust vereist
+%02d:%02d
+Bijgewerkt
+Zojuist
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d
+Hersteltijd (uur)
+U kunt de trainingsintensiteit verhogen
+Train zoals gewoonlijk
+Train met een lagere intensiteit
+Rust goed en pauzeer de training
+Activiteit
+%d record niet gesynchroniseerd
+%d record niet gesynchroniseerd
+%d record niet gesynchroniseerd
+%d records niet gesynchroniseerd
+%d records niet gesynchroniseerd
+%d records niet gesynchroniseerd
+%d records niet gesynchroniseerd
+Buiten hardlopen
+Lopen
+Snelwandelen
+Loopband
+Indoor wandelen
+Buiten fietsen
+Trekking
+Trailrunning
+Wandelen
+Freestyle
+Indoor fitness
+Yoga
+Zwembad zwemmen
+Open water
+Elliptische
+Roeier
+Touwtje springen
+HIIT
+Tennis
+Basketbal
+Snowboarden
+Skiën
+Langlaufen
+Golf
+Andere sporten
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Tempo
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Licht
+Intensief
+Aerobic
+Anaërobe
+VO₂ max
+kcal
+Cadans (SPM)
+Stappen
+Gem. tempo
+Voltooiing van het doel
+%lu.%02lu
+km achter
+mi achter
+%d'%d"
+%d%%
+Tempo
+km vooruit
+mijl voor
+Sets voltooid
+Rusttijd
+Totale tijd
+Zwembad zwemmen
+Zeilen
+Paddle boarding
+Waterpolo
+Andere watersporten
+Waterskiën
+Kajakken
+Raften
+Roeien
+Motorboten
+Vinnen zwemmen
+Schoonspringen
+Artistiek zwemmen
+Snorkelen
+Kitesurfen
+Flowboarden
+Drakenboot
+Buiten hardlopen
+Lopen
+Wandelen
+Buiten fietsen
+Trekking
+Trailrunning
+Rotsklimmen
+Skateboarden
+Rolschaatsen
+Parkour
+ATV
+Paragliden
+BMX
+Snelwandelen
+Freestyle
+Loopband
+Touwtje springen
+HIIT
+Yoga
+Indoor fietsen
+Elliptische
+Roeier
+Trap klimmer
+Stepper
+Spinning
+Kerntraining
+Flexibiliteit
+Pilates
+Gymnastiek
+Rekken
+Krachttraining
+Crosstraining
+Trappen lopen
+Aerobics
+Fysieke training
+Wall ball
+Halter
+Barbell
+Gewichtheffen
+Deadlift
+Burpee
+Sit ups
+Functionele training
+Bovenlichaam
+Onderlichaam
+Buikspieren
+Rug
+Air walker
+Rekstok
+Brug met gelijke leggers
+Stepper
+Massagymnastiek
+Cardio combat
+Battle rope
+Aërobe combinatie
+Indoor wandelen
+Indoor fitness
+Park dansen
+Buik dans
+Ballet
+Street Dance
+Zumba
+Volksdans
+Jazz dans
+Latijnse dans
+Hiphop
+Paaldansen
+Breakdance
+Ballroomdans
+Moderne dans
+Dans
+Boksen
+Worstelen
+Vechtsporten
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboksen
+Kendo
+Schermen
+Jujitsu
+Tennis
+Basketbal
+Golf
+Voetbal
+Volleybal
+Honkbal
+Softbal
+Amerikaans voetbal
+Hockey
+Tafeltennis
+Badminton
+Cricket
+Handbal
+Bowling
+Squash
+Biljart
+Shuttle
+Strandvoetbal
+Strand volleybal
+Sepak takraw
+Zaalvoetbal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Trefbal
+Snowboarden
+Skiën
+Langlaufen
+Schaatsen
+Indoor schaatsen
+Curling
+Andere wintersporten
+Sneeuwscooter
+Ijshockey
+Bobslee
+Sleeën
+Boogschieten
+Darts
+Paardrijden
+Touwtrekken
+Hoelahoep
+Vliegeren
+Vissen
+Frisbee
+Shuttle
+Schommelen
+Somatosensorisch spel
+Tafelvoetbal
+Shuffleboard
+E-sport
+Schaken
+Dammen
+Go
+Bridge
+Bordspel
+Paardensport
+Atletiek
+Auto racen
+Lokaliseren…
+Succesvol gelokaliseerd
+Intervallen
+Opwarmen
+Training
+%d:%02d
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d
+Rust uit
+Sets
+Afkoelen
+Opwarmen
+Afkoelen
+Training
+Tijd
+Afstand
+Banen
+Slagen
+Sprongen
+Waarschuwingen
+Afstand
+%d km
+%d mi
+Tempo
+%d'%02d"
+Snelheid
+%d km/u
+Doel Hartslag zone
+Licht
+Intensief
+Aerobic
+Anaërobe
+VO₂ max
+Hoge hartslag
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hydratatie
+Alles uitschakelen
+Uit
+Afstand
+Herinnering
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Snelheid
+Herinnering
+%d km/u
+Tempo
+Herinnering
+%d'%02d"
+Doel Hartslag zone
+Hartslag zone
+Licht
+Intensief
+Aerobic
+Anaërobe
+VO₂ max
+Doel Hartslag zone
+Licht
+Intensief
+Aerobic
+Anaërobe
+VO₂ max
+%d–%d BPM
+Zwembad zwemmen
+Zeilen
+Paddle boarding
+Waterpolo
+Andere watersporten
+Waterskiën
+Kajakken
+Raften
+Roeien
+Motorboten
+Vinnen zwemmen
+Schoonspringen
+Artistiek zwemmen
+Snorkelen
+Kitesurfen
+Flowboarden
+Drakenboot
+Buiten hardlopen
+Lopen
+Wandelen
+Buiten fietsen
+Trekking
+Trailrunning
+Rotsklimmen
+Skateboarden
+Rolschaatsen
+Parkour
+ATV
+Paragliden
+BMX
+Snelwandelen
+Freestyle
+Loopband
+Touwtje springen
+HIIT
+Yoga
+Indoor fietsen
+Elliptische
+Roeier
+Trap klimmer
+Stepper
+Spinning
+Kerntraining
+Flexibiliteit
+Pilates
+Gymnastiek
+Rekken
+Krachttraining
+Crosstraining
+Trappen lopen
+Aerobics
+Fysieke training
+Wall ball
+Halter
+Barbell
+Gewichtheffen
+Deadlift
+Burpee
+Sit ups
+Functionele training
+Bovenlichaam
+Onderlichaam
+Buikspieren
+Rug
+Air walker
+Rekstok
+Brug met gelijke leggers
+Stepper
+Massagymnastiek
+Cardio combat
+Battle rope
+Aërobe combinatie
+Indoor wandelen
+Indoor fitness
+Park dansen
+Buik dans
+Ballet
+Street Dance
+Zumba
+Volksdans
+Jazz dans
+Latijnse dans
+Hiphop
+Paaldansen
+Breakdance
+Ballroomdans
+Moderne dans
+Dans
+Boksen
+Worstelen
+Vechtsporten
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboksen
+Kendo
+Schermen
+Jujitsu
+Tennis
+Basketbal
+Golf
+Voetbal
+Volleybal
+Honkbal
+Softbal
+Amerikaans voetbal
+Hockey
+Tafeltennis
+Badminton
+Cricket
+Handbal
+Bowling
+Squash
+Biljart
+Shuttle
+Strandvoetbal
+Strand volleybal
+Sepak takraw
+Zaalvoetbal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Trefbal
+Snowboarden
+Skiën
+Langlaufen
+Schaatsen
+Indoor schaatsen
+Curling
+Andere wintersporten
+Sneeuwscooter
+Ijshockey
+Bobslee
+Sleeën
+Darts
+Paardrijden
+Touwtrekken
+Hoelahoep
+Vliegeren
+Vissen
+Frisbee
+Shuttle
+Schommelen
+Somatosensorisch spel
+Tafelvoetbal
+Shuffleboard
+E-sport
+Schaken
+Dammen
+Go
+Bridge
+Bordspel
+Paardensport
+Boogschieten
+Atletiek
+Auto racen
+Meer
+Meer
+Watersport
+Outdoor activiteiten
+Training
+Wintersport
+Recreatieve sporten
+Kaart/bordspellen
+Overige
+%d sport
+%d sport
+%d sport
+Dans
+%d sporten
+Vechtsporten
+%d sporten
+Balsporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+%d sport
+%d sport
+%d sport
+%d sporten
+%d sporten
+%d sporten
+%d sporten
+Het lijkt erop dat u aan het sporten bent
+Buiten hardlopen
+Loopband
+Lopen
+Fietsen
+Elliptische
+Roeier
+Touwtje springen
+Afwijzen
+Pauze
+Einde
+Volgende set
+Pauze
+Einde
+Overgang
+Gepauzeerd
+%d/%d
+Opwarmen
+%02d:%02d:%02d
+ 
+Voltooid
+Training
+%d
+%d
+Slagen deze set
+Resterend
+Doel
+Resterend
+Doel
+Resterend
+Sprongen deze set
+Resterend
+Overslaan
+Rust uit
+%02d:%02d:%02d
+Rusttijd
+%02d:%02d:%02d
+Resterend
+Overslaan
+Afkoelen
+%02d:%02d:%02d
+ 
+Beëindigen
+Goed gedaan
+Versnellen
+%d
+Doel BPM
+%d–%d
+Ga zo door
+Langzamer
+Versnellen
+%d
+Doel:
+%d km/u
+Ga zo door
+Langzamer
+Versnellen
+%d'%d"
+Doel
+%d'%d"
+Ga zo door
+Langzamer
+-- 
+km/u
+%d
+%
+Voltooiing van het doel
+%d
+km
+km
+km
+km
+km
+km
+km
+Doel: %d km
+Nieuw record!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Verbind uw band met uw telefoon om route-informatie op te nemen.
+Geen toegang tot locatiegegevens. Kan de trainingsroute op dit moment niet opnemen.
+Satellietsignaal is zwak. Ga naar een open ruimte.
+Verbind uw band met uw telefoon om nauwkeurige locatie en route-informatie te behouden.
+Verbinding hersteld
+Locatie hersteld
+Opslag is vol. Deze work-out wordt beëindigd en er worden geen gegevens meer geregistreerd. Verbind uw telefoon om ruimte vrij te maken.
+Hardlopen
+Beginner
+Basis hardlopen/lopen
+Geavanceerd hardlopen/lopen
+Onvoldoende opslag. Sluit uw telefoon aan en maak ruimte vrij om te voorkomen dat gegevens worden overschreven.
+Basis joggen
+Vetverbranding
+Vetverbrandingsloop (Basis)
+Vetverbrandingsloop (Geavanceerd)
+MIIT
+Uithoudingsvermogen
+Duurloop (Basis)
+Duurloop (Geavanceerd)
+Interval
+Intervalloop (Basis)
+Intervalloop (Geavanceerd)
+%02d:%02d
+Basis hardlopen/lopen
+Geavanceerd hardlopen/lopen
+Basis joggen
+Vetverbrandingsloop (Basis)
+Vetverbrandingsloop (Geavanceerd)
+MIIT
+Duurloop (Basis)
+Duurloop (Geavanceerd)
+Intervalloop (Basis)
+Intervalloop (Geavanceerd)
+Succesvol gelokaliseerd
+%02d:%02d
+Basis hardlopen/lopen
+Geavanceerd hardlopen/lopen
+Basis joggen
+Vetverbrandingsloop (Basis)
+Vetverbrandingsloop (Geavanceerd)
+MIIT
+Duurloop (Basis)
+Duurloop (Geavanceerd)
+Intervalloop (Basis)
+Intervalloop (Geavanceerd)
+Introductie
+Combineert wandelen en joggen met intervallen.
+Combineert wandelen en joggen met intervallen.
+Joggen met een lage tot gemiddelde intensiteit.
+Korter joggen voor vetverbranding en gewichtsverlies.
+Lage tot gemiddelde intensiteit, langdurig joggen voor vetverbranding.
+Gemiddelde tot hoge intensiteit intervaltraining.
+Jog van gemiddelde lengte voor uithoudingsvermogen.
+Langer joggen voor uithoudingsvermogen.
+Kortere intervaltraining voor hart- en longgezondheid.
+Langere intervaltraining voor hart- en longgezondheid.
+Trainingsplan
+Snel lopen
+Joggen
+Rennen
+Sprint
+%02d:%02d
+%02d:%02d
+%d/%d
+Snel lopen
+Joggen
+Rennen
+Sprint
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d-%d
+Doel BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Tempo
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ max
+Anaërobe
+Aerobic
+Intensief
+Licht
+%d
+SPM
+%d
+Stappen
+%d'%d"
+Gem. tempo
+Meer informatie
+Stappen
+Calorieën
+Beweging
+Staand
+"Stappen" toont een dagelijkse stappentelling. Een actief persoon loopt tussen de 8000 en 10.000 stappen per dag.
+"Calorieën" toont het aantal actieve calorieën dat is verbrand door te bewegen en te sporten.
+"Beweging" toont aan hoeveel tijd u besteedt aan matige en krachtige activiteit. Streef naar ten minste 30 minuten per dag, 5 keer per week matige activiteit of 75 minuten per week intensieve activiteit. U ziet uw voortgang bij "Beweging" wanneer uw cadans hoger is dan 100 SPM of uw hartslag hoger is dan 65% van uw maximale hartslag.
+"Staand" toont de uren waarin u staat en beweegt. Probeer gedurende 12 verschillende uren van de dag op te staan ​​en te bewegen.
+%d stap
+Stap doel bereikt
+Stap doel bereikt. Mooi werk!
+U hebt het stappendoel van vandaag bereikt!
+%d stap
+%d stap
+%d stappen
+%d stappen
+%d stappen
+%d stappen
+%d kcal
+Calorie doel bereikt
+Calorie doel bereikt. Ga zo door!
+U hebt het caloriedoel van vandaag bereikt. Goed werk!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min.
+Bewegingsdoel bereikt
+Bewegingsdoel bereikt. Goed werk!
+Goed gedaan, u hebt het bewegingsdoel van vandaag bereikt!
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d uur
+Staand doel bereikt
+Staand doel bereikt. Mooi werk!
+Mooi werk! U hebt het staan doel van vandaag bereikt!
+%d uur
+%d uur
+%d uur
+%d uur
+%d uur
+%d uur
+Doelen bereikt!
+Alle doelen bereikt
+U hebt alle doelen voor vandaag bereikt! Goed gedaan!
+Alle doelen bereikt! Goed gedaan!
+Doelen bereikt!
+Instellingen
+Doel
+Intervallen
+Waarschuwingen
+Automatisch pauzeren
+AI-pacer
+Lengte zwembad
+Resetten
+Doel
+Open doel
+Afstand
+Duur
+Calorieën
+Banen
+Slagen
+Sprongen
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d baan
+%d baan
+%d baan
+%d banen
+%d banen
+%d banen
+%d banen
+%d slag
+%d slag
+%d slag
+%d slagen
+%d slagen
+%d slagen
+%d slagen
+%d sprong
+%d sprong
+%d sprong
+%d sprongen
+%d sprongen
+%d sprongen
+%d sprongen
+Afstand
+km
+Duur
+HH:mm
+Calorieën
+kcal
+Banen
+Slagen
+Sprongen
+Automatisch pauzeren
+AI-pacer
+Tempo
+%d‘%2d’’
+Tempo
+   
+Lengte zwembad
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Aangepast
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Lengte zwembad
+m
+Alle trainingsinstellingen resetten?
+Hoge hartslag
+Alert
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Alert
+Hydratatie
+Herinnering
+Afstand, %d km
+Afstand, %d km
+Afstand, %d km
+Afstand, %d km
+Afstand, %d km
+Afstand, %d km
+Afstand, %d km
+Afstand, %d mi
+Afstand, %d mi
+Afstand, %d mi
+Afstand, %d mi
+Afstand, %d mi
+Afstand, %d mi
+Afstand, %d mi
+Duur, %d min.
+Duur, %d min.
+Duur, %d min.
+Duur, %d min.
+Duur, %d min.
+Duur, %d min.
+Duur, %d min.
+Training
+Tijd
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Afstand
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Tijd
+HH/mm
+Afstand
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Afstand
+km
+Snelheid
+km/u
+Tempo
+   
+Kom in beweging
+Opstaan
+Begrepen
+Vandaag afwijzen
+Opstaanherinneringen van vandaag uitschakelen?
+Opstaan
+Alle trainingsinstellingen resetten?
+Ga zo door!
+U hebt gisteren uw doel bereikt. Ga zo door vandaag!
+U hebt gisteren uw doel bereikt. Ga zo door vandaag!
+U hebt gisteren 2 van de 3 doelen bereikt. U kunt het!
+U hebt gisteren 2 van de 3 doelen bereikt. U kunt het!
+U hebt uw doelen gisteren niet gehaald. Laat vandaag tellen!
+U hebt uw doelen gisteren niet gehaald. Laat vandaag tellen!
+Uw doelen zijn binnen bereik - vandaag is een nieuwe dag!
+Uw doelen zijn binnen bereik - vandaag is een nieuwe dag!
+Begrepen
+Zojuist
+%d min. geleden
+%d min. geleden
+Tijd om in beweging te komen
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+Bijgewerkt: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+stap
+stap
+stap
+stappen
+stappen
+stappen
+stappen
+%d
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+%d
+ min.
+%02d:%02d
+%02d:%02d
+Instellingen
+Meer informatie
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Activiteit
+Status
+Stress
+Slaap
+Weer
+Muziek
+Alarm
+Evenementen
+Kalender
+Kaarten
+Meer
+Zaklamp
+Cycli
+Ademen
+Stopwatch
+Timer
+Zoek telefoon
+Wereldklok
+Waarschuwingen
+Focus
+Mi AI
+Alles wissen
+%02d:%02d AM
+%02d:%02d PM
+Gisteren %02d:%02d
+%02d/%02d %02d:%02d
+%d melding
+%d melding
+%d melding
+%d meldingen
+%d meldingen
+%d meldingen
+%d meldingen
+%02d:%02d AM
+%02d:%02d PM
+Gisteren %02d:%02d
+%02d/%02d %02d:%02d
+Wissen
+%02d:%02d AM
+%02d:%02d PM
+Gisteren %02d:%02d
+%02d/%02d %02d:%02d
+Afwijzen
+Afwijzen
+Veeg omhoog om te antwoorden
+Verzenden
+Verzonden
+Kon niet verzenden
+In een vergadering. Zal spoedig antwoorden.
+Kan nu niet praten. Wat is er aan de hand?
+Kan nu niet praten. Bel me later.
+Deze band weergave gebruiken?
+Deze band weergave verwijderen？
+Synchroniseren
+Kon niet synchroniseren
+Niet storen
+Uit
+Hele dag
+Aangepast
+Antwoorden op berichten toestaan in de app
+%02d:%02d-%02d:%02d
+Synchroniseren met telefoon
+Aan
+Begintijd
+AM
+%02d
+%02d:%02d
+Begintijd
+PM
+Synchroniseren met telefoon
+Wanneer ingeschakeld, volgt de Niet storen status van de band die van de telefoon
+Niet storen is ingeschakeld
+Trilling
+Standaard
+Krachtig
+Uit
+App-meldingen
+Scherm ontwaken bij melding
+Aan
+Meldingen alleen wanneer gedragen wordt
+Aan
+Meldingen alleen wanneer de telefoon is vergrendeld
+Aan
+Scherm ontwaken bij melding
+Scherm ontwaken bij het ontvangen van meldingen
+Meldingen alleen wanneer gedragen wordt
+Schakel meldingen uit wanneer de band van de pols wordt gehaald
+Meldingen alleen wanneer de telefoon is vergrendeld
+Meer informatie
+Zorg ervoor dat meldingen zijn ingeschakeld in Mi Fitness >App-meldingen.
+Instellingen
+Band weergaves
+Scherm
+Niet storen instellingen
+Trilling
+App-meldingen
+Automatische detectie
+PIN
+Batterij
+Voorkeuren
+Systeem
+Over band
+PIN
+PIN instellen
+Voer een 6-cijferige PIN in
+%d
+%d
+De pincodes komen niet overeen
+PIN ingesteld
+PIN
+PIN uitschakelen
+PIN wijzigen
+Nieuwe PIN
+%d
+PIN uitgeschakeld
+Niet correct
+Probeer het opnieuw in %d s
+Probeer het opnieuw in %d s
+Probeer het opnieuw in %d s
+Probeer het opnieuw in %d s
+Probeer het opnieuw in %d s
+Probeer het opnieuw in %d s
+Probeer het opnieuw in %d s
+Help
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+Probeer het opnieuw in %d min.
+ 
+Om PIN te resetten, ga naar Apparaat > PIN in de app.
+ 
+PIN kan niet worden uitgeschakeld wanneer bankkaarten worden toegevoegd.
+Automatische detectie
+Automatische detectie
+U krijgt geen trainingsherinneringen als Niet storen is ingeschakeld.
+Voorkeuren
+Wekmethode
+Houd scherm ingedrukt
+Tik op scherm
+Veeg omhoog
+Houd scherm ingedrukt
+Wanneer ingeschakeld, houdt u Bewerken ingedrukt om de band weergave te bewerken
+Batterij
+%d
+%
+Resterende batterij
+≈%d dag %d uur
+Resterende batterij
+≈%d dagen %d uur
+Resterende batterij
+≈%d dag %d uur
+Resterende batterij
+≈%d dagen %d uur
+Batterijbesparing
+Optimalisatie
+Gebruik
+Resterende batterijduur
+ongeveer %d dag %d uur
+Eenmaal ingeschakeld, blijven alleen de tijd-, stappenteller- en NFC-functies over. Houd het scherm ingedrukt of laad op om uit te schakelen.
+Batterijbesparing
+%d
+%02d:%02d
+AM
+PM
+%d
+Batterijbesparing afsluiten
+Meer informatie
+Batterijduur
+De geschatte levensduur van de batterij wordt alleen ter referentie verstrekt. De daadwerkelijke levensduur van de batterij hangt af van factoren zoals de hoeveelheid tijd die uw apparaat doorbrengt met het scherm aan, trillen of het volgen van work-outs.
+Optimalisatie
+Optimalisatie identificeert functies die een aanzienlijke levensduur van de batterij gebruiken.
+Optimalisatie
+Goed
+Niet nodig om te optimaliseren
+Optimalisatie
+Slecht
+De volgende functies zijn van invloed op de levensduur van de batterij
+Altijd-aan-display
+Pak op om te wekken
+Ademhalingsscore
+Hele dag volgen
+Onregelmatige BPM
+Altijd-aan-display
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d uur verlengd.
+Wekmethode
+Ontvang herinneringen om een work-out te starten.
+Ondersteunde work-out types zijn lopen, hardlopen, fietsen, touwtje springen, elliptische en roeien.
+Scherm
+Helderheid
+Automatische vergrendeling
+Pak op om te wekken
+Scherm aan voor
+Altijd-aan-display
+Dek af om te slapen
+Automatisch
+%d seconde
+%d seconde
+%d seconde
+%d seconden
+%d seconden
+%d seconden
+%d seconden
+Aan
+Uit
+Aan
+Uit
+Aan
+Uit
+Gepland
+Gepland
+Automatisch
+Aangepast
+Helderheid
+Automatisch
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Automatische vergrendeling
+ 
+Als u het scherm gedurende lange perioden aan laat staan, wordt de levensduur van de batterij verkort. Doorgaan?
+Pak op om te wekken
+Uit
+Gepland
+%02d:%02d-%02d:%02d
+ 
+"Altijd-aan-display" is ingeschakeld. Als u "Pak op om te wekken" inschakelt, wordt de levensduur van de batterij verkort. Toch inschakelen?
+Scherm aan voor
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Hierdoor blijft het scherm elke keer %d min. aan, wat de levensduur van de batterij beïnvloedt. Toch doorgaan?
+Altijd-aan-display
+Uit
+Slim
+Gepland
+%02d:%02d-%02d:%02d
+   
+Als u "Altijd-aan-display" inschakelt, kan de levensduur van de batterij worden gehalveerd. "Pak op om te wekken" wordt dan uitgeschakeld. Doorgaan?
+Meer informatie
+Altijd-aan-display
+De tijd wordt ook weergegeven als het scherm is vergrendeld.
+Slim
+Altijd-aan wordt uitgeschakeld wanneer u gaat slapen of uw band afdoet.
+Dek af om te slapen
+Start
+AM
+PM
+%02d:%02d
+%02d:%02d
+Complicatie
+Fitness
+Basis
+Mi Smart Hub
+Mijn telefoon
+Luidspreker
+TV
+Oortelefoons
+Ruisonderdrukking
+Transparantie
+Uit
+Apparaat
+Band weergave gebruiken?
+Oortelefoons
+Band weergave verwijderen?
+Modus
+Veeg naar rechts op de band weergave om wijzigingen op te slaan.
+Ruisonderdrukking
+Transparantie
+Uit
+ 
+ 
+Een ogenblik geduld…
+Weeralarmen
+预警！
+Begrepen
+%02d:%02d AM
+%02d:%02d PM
+Maak verbinding via Bluetooth en schakel "Weerupdates" in de app in.
+Maak verbinding met Bluetooth en schakel Weermeldingen in om weersinformatie te krijgen voor uw geselecteerde locaties.
+Maak verbinding met Bluetooth en probeer het opnieuw
+%02d:%02d
+Weer
+Niet storen
+Niet storen is ingeschakeld
+Niet storen is uitgeschakeld
+Zoek telefoon
+Instellingen
+Geen gegevens
+Zeilen
+Paddle boarding
+Waterpolo
+Andere watersporten
+Waterskiën
+Kajakken
+Raften
+Roeien
+Motorboten
+Vinnen zwemmen
+Schoonspringen
+Artistiek zwemmen
+Snorkelen
+Kitesurfen
+Flowboarden
+Drakenboot
+Rotsklimmen
+Skateboarden
+Rolschaatsen
+Parkour
+ATV
+Paragliden
+BMX
+Indoor fietsen
+Trap klimmer
+Stepper
+Spinning
+Kerntraining
+Flexibiliteit
+Pilates
+Gymnastiek
+Rekken
+Krachttraining
+Crosstraining
+Trappen lopen
+Aerobics
+Fysieke training
+Squash
+Halter
+Barbell
+Gewichtheffen
+Deadlift
+Burpee
+Sit ups
+Functionele training
+Bovenlichaam
+Onderlichaam
+Buikspieren
+Rug
+Air walker
+Rekstok
+Brug met gelijke leggers
+Stepper
+Massagymnastiek
+Cardio combat
+Battle rope
+Aërobe combinatie
+Indoor fitness
+Park dansen
+Buik dans
+Ballet
+Street Dance
+Zumba
+Volksdans
+Jazz dans
+Latijnse dans
+Hiphop
+Paaldansen
+Breakdance
+Ballroomdans
+Moderne dans
+Dans
+Boksen
+Worstelen
+Vechtsporten
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboksen
+Kendo
+Schermen
+Jujitsu
+Voetbal
+Volleybal
+Honkbal
+Softbal
+Amerikaans voetbal
+Hockey
+Tafeltennis
+Badminton
+Cricket
+Handbal
+Bowling
+Wall ball
+Biljart
+Shuttle
+Strandvoetbal
+Strand volleybal
+Sepak takraw
+Zaalvoetbal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Trefbal
+Schaatsen
+Indoor schaatsen
+Curling
+Andere wintersporten
+Sneeuwscooter
+Ijshockey
+Bobslee
+Sleeën
+Boogschieten
+Darts
+Paardrijden
+Touwtrekken
+Hoelahoep
+Vliegeren
+Vissen
+Frisbee
+Shuttle
+Schommelen
+Somatosensorisch spel
+Tafelvoetbal
+Shuffleboard
+E-sport
+Schaken
+Dammen
+Go
+Bridge
+Bordspel
+Paardensport
+Atletiek
+Auto racen
+Zeilen
+Paddle boarding
+Waterpolo
+Andere watersporten
+Waterskiën
+Kajakken
+Raften
+Roeien
+Motorboten
+Vinnen zwemmen
+Schoonspringen
+Artistiek zwemmen
+Snorkelen
+Kitesurfen
+Flowboarden
+Drakenboot
+Rotsklimmen
+Skateboarden
+Rolschaatsen
+Parkour
+ATV
+Paragliden
+BMX
+Indoor fietsen
+Trap klimmer
+Stepper
+Spinning
+Kerntraining
+Flexibiliteit
+Pilates
+Gymnastiek
+Rekken
+Krachttraining
+Crosstraining
+Trappen lopen
+Aerobics
+Fysieke training
+Wall ball
+Halter
+Barbell
+Gewichtheffen
+Deadlift
+Burpee
+Sit ups
+Functionele training
+Bovenlichaam
+Onderlichaam
+Buikspieren
+Rug
+Air walker
+Rekstok
+Brug met gelijke leggers
+Stepper
+Massagymnastiek
+Cardio combat
+Battle rope
+Aërobe combinatie
+Indoor fitness
+Park dansen
+Buik dans
+Ballet
+Street Dance
+Zumba
+Volksdans
+Jazz dans
+Latijnse dans
+Hiphop
+Paaldansen
+Breakdance
+Ballroomdans
+Moderne dans
+Dans
+Boksen
+Worstelen
+Vechtsporten
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboksen
+Kendo
+Schermen
+Jujitsu
+Voetbal
+Volleybal
+Honkbal
+Softbal
+Amerikaans voetbal
+Hockey
+Tafeltennis
+Badminton
+Cricket
+Handbal
+Bowling
+Squash
+Biljart
+Shuttle
+Strandvoetbal
+Strand volleybal
+Sepak takraw
+Zaalvoetbal
+Hacky sack
+Bocce
+Jai alai
+Gateball
+Trefbal
+Schaatsen
+Indoor schaatsen
+Curling
+Andere wintersporten
+Sneeuwscooter
+Ijshockey
+Bobslee
+Sleeën
+Boogschieten
+Darts
+Paardrijden
+Touwtrekken
+Hoelahoep
+Vliegeren
+Vissen
+Frisbee
+Shuttle
+Schommelen
+Somatosensorisch spel
+Tafelvoetbal
+Shuffleboard
+E-sport
+Schaken
+Dammen
+Go
+Bridge
+Bordspel
+Paardensport
+Atletiek
+Auto racen
+Een ogenblik geduld…
+%02d:%02d
+Pauze
+Einde
+Vergrendel scherm
+Casten
+Casten
+Zoeken
+Xiaomi TV
+Verbinden
+Apparaat niet gevonden
+TV-naam
+Verbonden
+Verbinding verbreken
+Kon niet verbinden
+Opnieuw proberen
+%02d:%02d
+Work-outs synchroniseren
+Draag uw band zoals afgebeeld en start met work-out in de app
+Terug
+%02d:%02d
+Instellingen
+Hardloopmodi
+Scherm
+Niet storen
+Trilling
+%02d:%02d
+Hardloopmodus
+Kiezelmodus
+Kettingmodus
+Kiezelmodus
+Met Kiezelmodus kunt u gegevens krijgen over uw hardloopvorm. Start een work-out (hardlopen of fietsen) in de app.
+App-meldingen, hartslagmeting wordt uitgeschakeld. Uw band reageert niet op onbedoelde aanrakingen.
+Inschakelen
+Terug
+Start work-out in de app
+Work-out bezig
+Verbinding is verbroken van apparaat
+Veeg omhoog om Kiezelmodus te verlaten
+Veeg omhoog om af te sluiten
+Kiezelmodus afsluiten?
+Gegevens van hardloopvorm worden niet geregistreerd als u afsluit.
+Afsluiten
+Annuleren
+Kettingmodus afsluiten?
+Afsluiten
+Annuleren
+Kettingmodus
+In de Kettingmodus blijft het scherm aan, maar reageert het niet op onbedoelde aanrakingen.
+App-meldingen en hartslagmeting worden uitgeschakeld.
+Inschakelen
+Terug
+Leg cyclusdetails vast in de app
+%0.1f
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+Slaap
+Draag uw apparaat naar bed om slaapgegevens te genereren
+%u
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Doel: %u uur
+Doel: %u uur
+Doel: %u uur
+Doel: %u uur
+Doel: %u uur
+Doel: %u uur
+Doel: %u uur
+Hartslag
+Uw hartslag opnemen
+Starten
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Ademen
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Starten
+Ademen
+SpO₂
+Uw SpO₂ opnemen
+u%
+%
+Stress
+Registreer uw stress
+u%
+Stress
+%02d
+'
+"
+.
+:
+Opslaan…
+Kalibratie
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Work-out tijd te kort om op te nemen. Beëindigen?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Batterij laag. Laad op en probeer het opnieuw.
+Werk uw band met de app bij
+Kon niet bijwerken
+Bijwerken
+Bijgewerkt. Opnieuw opstarten.
+Update voorbereiden
+Update ontvangen
+Kon niet bijwerken. Probeer het opnieuw in de app.
+Update ontvangen. Opnieuw opstarten.
+Band wordt later vanavond of tijdens het opladen automatisch bijgewerkt.
+U gebruikt de nieuwste versie.
+Update herinnering
+Verwijderen
+
+%d
+
+%%
+Download de app om de band te koppelen
+%d
+Bevestig op uw telefoon
+Bevestig op uw telefoon
+Koppelen
+Kon niet koppelen. Probeer het opnieuw.
+Gekoppeld
+-
+-
+-
+-
+Rust uit
+min:sec
+Sets
+Ontvang herinneringen op gespecificeerde afstandsintervallen
+%d baan
+%d slag
+%d sprong
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+Begrepen
+%d
+Doel
+%02d:%02d:%02d
+Voltooid
+Doel
+%d
+kcal
+Voltooid
+Doel
+baan
+baan
+baan
+banen
+banen
+banen
+banen
+Voltooid
+Doel
+sprong
+sprong
+sprong
+sprongen
+sprongen
+sprongen
+sprongen
+Voltooid
+Doel
+slag
+slag
+slag
+slagen
+slagen
+slagen
+slagen
+Voltooid
+Bekijk meer records in de app
+Over band
+Naam
+Xiaomi Smart Band 8
+Model
+MAC-adres
+Regelgeving
+Regelgeving
+CMIIT ID
+Model
+Invoer
+Systeem
+Opnieuw opstarten
+Uitschakelen
+Resetten
+Nu opnieuw opstarten?
+Nu uitschakelen?
+%02d:%02d
+U moet uw band opnieuw koppelen nadat u een fabrieksreset hebt uitgevoerd. Doorgaan?
+Niet aan het dragen
+Kon niet meten
+Resultaat
+Meer informatie
+SpO₂
+Resultaat
+Niet aan het dragen
+Kon niet meten
+%02d:%02d
+Slaap lekker
+Niet storen is ingeschakeld. Pak op om te wekken is uitgeschakeld.
+Niet meer tonen
+%02d:%02d
+Tijd om wakker te worden
+Afwijzen
+Sluimeren
+%02d:%02d
+Slaap
+%d u%d min.
+%d u%d min.
+%d u%d min.
+%d u%d min.
+%d°/%d°
+Begrepen
+%02d:%02d
+Slaap
+Begrepen
+%02d:%02d
+%d°/%d°
+Begrepen
+Buiten trainen
+Draag uw band zoals afgebeeld en start met work-out in de app
+Terug
+Instellingen
+Hardloopmodi
+Scherm
+Niet storen
+Trilling
+Hardloopmodus
+Kiezelmodus
+Slaapmodus uit
+om %02d:%02d
+Kettingmodus
+Kiezelmodus
+Met Kiezelmodus kunt u gegevens krijgen over uw hardloopvorm. Start een work-out (hardlopen of fietsen) in de app.
+App-meldingen, hartslagmeting wordt uitgeschakeld. Uw band reageert niet op onbedoelde aanrakingen.
+Inschakelen
+Terug
+Start work-out in de app
+Work-out bezig
+Verbinding is verbroken van apparaat
+Kiezelmodus afsluiten?
+Gegevens van hardloopvorm worden niet geregistreerd als u afsluit.
+Afsluiten
+Annuleren
+Kiezelmodus
+Veeg omhoog om af te sluiten
+Kettingmodus
+Veeg omhoog om af te sluiten
+Kettingmodus
+In de Kettingmodus blijft het scherm aan, maar reageert het niet op onbedoelde aanrakingen.
+App-meldingen en hartslagmeting worden uitgeschakeld.
+Inschakelen
+Terug
+Kettingmodus afsluiten?
+Afsluiten
+Annuleren
+Als u deze functie inschakelt, neemt het batterijgebruik toe. Toch doorgaan?
+Geluid is aan
+Een ogenblik geduld…
+Geluid is uit
+Geluid is uit
+Een ogenblik geduld
+Geluid is aan
+Verbinding verbroken
+Uitschakelen
+Inschakelen
+Maak verbinding met Bluetooth en probeer het opnieuw
+Toestaan dat uw band de telefoon ontgrendelt?
+Voltooid!
+Kon niet autoriseren
+ 
+%d
+Timer
+Timer
+%d
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+Uur instellen
+%d
+%02d
+Min. instellen
+%02d:%02d
+%02d:%02d:%02d
+Tijd is om
+%02d:%02d geleden
+%02d:%02d:%02d geleden
+AQI %d %s
+Kon niet koppelen
+Voeg het apparaat opnieuw toe
+Over band
+Regelgeving
+Resetten
+Opnieuw opstarten
+%02d:%02d
+Over band
+Naam
+Xiaomi Smart Band 8
+Model
+MAC-adres
+%02d:%02d
+Regelgeving
+CMIIT ID
+Invoer
+Nu opnieuw opstarten?
+Nu uitschakelen?
+U moet uw band opnieuw koppelen nadat u een fabrieksreset hebt uitgevoerd. Doorgaan?
+Batterij onder %d
+--
+%02d:%02d
+Vitaliteit
+%d
+Afgelopen 7 dagen
+7 dagen vooruitgang
+%d
+Afgelopen 7 dagen
+Ma
+Di
+Wo
+Do
+Vr
+Za
+Zo
+Vandaag
+%d
+Vandaag
+%d
+Licht
+Gemiddeld
+Intens
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
++%d
+Instellingen
+Meer informatie
+Instellingen
+Continue toezicht
+Uw Vitaliteitsscore wordt berekend aan de hand van hartslag en activiteitsgegevens. Laat uw band uw hartslag vaker meten voor een nauwkeurigere Vitaliteitsscore.
+Meer informatie
+Vitaliteitsscore is een manier om de impact van uw work-outs op uw gezondheid te meten. Probeer voor de beste gezondheidsresultaten 100 punten te behalen gedurende een periode van 7 dagen.
+Vitaliteitsscores zijn gebaseerd op de aanbevelingen van de WHO-richtlijnen over fysieke activiteit en zittend gedrag.
+Dat wil zeggen dat volwassenen 150 tot 300 minuten aërobe activiteit met matige intensiteit of 75 tot 150 minuten aërobe activiteit met hoge intensiteit per week moeten krijgen, of een combinatie van beide, voor maximale gezondheidsvoordelen.
+Elke fysieke activiteit, inclusief activiteit met een lage intensiteit, is beter voor uw gezondheid dan zittend te blijven.
+%d
+Afgelopen 7 dagen
+%d
+Vandaag
+Afgelopen 7 dagen
+%d
+Blijf bewegen om nog meer resultaten te zien!
+Begrepen
+Vandaag afwijzen
+U bent op de goede weg!
+U bent niet te stoppen, ga zo door!
+U hebt vandaag het maximale aantal punten verdiend. Neem een pauze!
+Vergrendel scherm
+Nadat u het scherm heeft geactiveerd, veegt u omhoog om te ontgrendelen.
+%u
+7 dagen rust hartslag
+%02u/%02u
+Model
+Vandaag
+Vandaag
+Span de bandriem aan en probeer het opnieuw
+Koppelen met telefoon?
+Band wordt later vanavond of tijdens het opladen automatisch bijgewerkt
+U gebruikt de nieuwste versie
+Begrepen
+Kon niet bijwerken. Maak verbinding met de app en probeer het opnieuw.
+Openen op telefoon
+OК
+Antwoord
+Verzenden
+Verzonden
+Kon niet verzenden
+Verbinding verbroken
+Maak verbinding met Bluetooth en probeer het opnieuw
+Work-out tijd te kort om op te nemen. Beëindigen?
+Hervatten
+Einde
+Bekijk work-out rapporten in de app
+Voltooid
+%02d:%02d
+%02d
+Tempo
+kcal
+Snelheid (km/u)
+Snelheid (mph)
+Huidige afstand
+Huidige tijd
+Huidige kcal
+Huidige banen
+Huidige sprongen
+Huidige slagen
+Doel
+Doel
+Doel
+Doel
+Doel
+Doel
+Voltooiing van het doel
+%02d:%02d
+%d.%d
+Gem. snelheid (km/u)
+Gem. snelheid (mph)
+Frequentie (keren/min)
+Huidige sprongen
+Deze set
+Sprongen deze set
+Totaal
+Actieve kcal
+Deze set
+Calorieën
+%d.%d
+Gem. snelheid (km/u)
+Gem. snelheid (mph)
+Hoge hartslag
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Max. hartslag
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Camera
+Demp telefoon
+Vitaliteit
+Niet storen aan voor %d uur
+Niet storen aan voor %d uur
+Niet storen aan voor %d uur
+Niet storen aan voor %d uur
+Niet storen aan voor %d uur
+Niet storen aan voor %d uur
+Niet storen aan voor %d uur
+Uit
+Verbinding verbroken
+:
+%02d:%02d - volgende dag %02d:%02d
+Niet storen is uitgeschakeld
+Als u de telefoon gebruikt, ontvangt u geen telefoonmeldingen op de band.
+Uit
+Uit
+Uit
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Statistieken
+Hartslag
+SpO₂
+Work-out
+Sluit de oplader correct aan
+-
+Work-outs
+Statistieken
+Stappen
+Calorieën
+Beweging
+Hartslag
+SpO₂
+Stress
+Batterij
+Datum
+Weer
+UVI
+AQI
+Vochtigheid
+Kaarten
+Alarm
+Stopwatch
+Camera
+Gereedschappen
+Weer
+baan
+baan
+baan
+banen
+banen
+banen
+banen
+--'--"
+Versie Nr.
+Serienummer
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Drink water
+%02d:%02d:%02d
+Hervatten
+Pak op om te wekken
+Ademhalingsscore
+Hele dag volgen
+Onregelmatige BPM
+%d
+Doel: %d kcal
+Doel: %d kcal
+Doel: %d kcal
+Doel: %d kcal
+Doel: %d kcal
+Doel: %d kcal
+Doel: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Doel: %d baan
+Doel: %d baan
+Doel: %d baan
+Doel: %d banen
+Doel: %d banen
+Doel: %d banen
+Doel: %d banen
+baan
+baan
+baan
+banen
+banen
+banen
+banen
+Doel: %d slag
+Doel: %d slag
+Doel: %d slag
+Doel: %d slagen
+Doel: %d slagen
+Doel: %d slagen
+Doel: %d slagen
+slag
+slag
+slag
+slagen
+slagen
+slagen
+slagen
+Doel: %d sprong
+Doel: %d sprong
+Doel: %d sprong
+Doel: %d sprongen
+Doel: %d sprongen
+Doel: %d sprongen
+Doel: %d sprongen
+sprong
+sprong
+sprong
+sprongen
+sprongen
+sprongen
+sprongen
+%d.%d
+Doel: %d.%d km
+Doel: %d.%d km
+Doel: %d min.
+Doel: %d min.
+Doel: %d u %d min.
+Doel: %d u %d min.
+Doel: %d u %d min.
+Doel: %d u %d min.
+PIN bevestigen
+PIN invoeren
+Niet correct
+Verbinding verbroken
+%d
+%
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+%d
+stap
+stap
+stap
+stappen
+stappen
+stappen
+stappen
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+%d
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+Afstandsrecord
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+baan
+baan
+baan
+banen
+banen
+banen
+banen
+sprong
+sprong
+sprong
+sprongen
+sprongen
+sprongen
+sprongen
+slag
+slag
+slag
+slagen
+slagen
+slagen
+slagen
+km
+Tijdrecord
+Gepauzeerd
+Trainingsafstand te kort om op te nemen. Beëindigen?
+--'--"
+Hardlopen
+Zojuist
+Zojuist
+Zojuist
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d min. geleden
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Borstslag
+Vrije slag
+Rugslag
+Vlinderslag
+Medley
+Waarschuwingen
+Apparaat zoeken…
+Stoppen
+Bewolkt
+Volledig bewolkt
+Bui
+Onweersbui
+Hagel
+Natte sneeuw
+Lichte regenval
+Gematigde regenval
+Zware regenval
+Regenstorm
+Stortbui
+Hevige regenval
+Sneeuwbuien
+Lichte sneeuwval
+Matige sneeuwval
+Zware sneeuwval
+Sneeuwstorm
+Mistig
+IJzel
+Zandstorm
+Lichte tot gematigde regenval
+Gematigde tot zware regenval
+Zware regen tot regenbui
+Regenbui tot stortbui
+Stortbui tot hevige regenval
+Lichte tot gematigde sneeuwval
+Gematigde tot zware sneeuwval
+Zware sneeuw tot sneeuwstorm
+Stof
+Winderig
+Zware zandstorm
+Mist
+Dikke mist
+Nevel
+Gematigde nevel
+Zware nevel
+Hevige nevel
+Zware mist
+Hevige mist
+Geen
+Regen
+Sneeuw
+Aan voor %d uur
+Aan voor %d uur
+Aan voor %d uur
+Aan voor %d uur
+Aan voor %d uur
+Aan voor %d uur
+Aan voor %d uur
+--'--"
+Een ogenblik geduld
+Niet afspelen
+Verbinding verbroken
+Gering
+Herstel
+Verbeteren
+Sterk verbeterend
+Overbelast
+Het scherm wordt vergrendeld wanneer u start. Veeg omhoog en vervolgens omlaag om te ontgrendelen.
+Geen gegevens
+Een ogenblik geduld…
+--°
+%d°
+-
+uur
+uur
+uur
+uur
+uur
+uur
+uur
+Herstel
+Bijgewerkt: %02d:%02d
+Staand
+Helder
+Geen meldingen
+Stopwatch
+Timer
+Zaklamp
+Basis hardlopen/lopen
+Geavanceerd hardlopen/lopen
+Basis joggen
+Vetverbrandingsloop (Basis)
+Vetverbrandingsloop (Geavanceerd)
+MIIT-run
+Duurloop (Basis)
+Duurloop (Geavanceerd)
+Intervalloop (Basis)
+Intervalloop (Geavanceerd)
+Basis hardlopen/lopen
+Geavanceerd hardlopen/lopen
+Basis joggen
+Vetverbrandingsloop (Basis)
+Vetverbrandingsloop (Geavanceerd)
+MIIT-run
+Duurloop (Basis)
+Duurloop (Geavanceerd)
+Intervalloop (Basis)
+Intervalloop (Geavanceerd)
+Snel lopen
+Joggen
+Rennen
+Sprint
+%d:%02d
+%d
+Resterend
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Work-out
+Tijd
+Huidige hartslag
+Parkour voltooid. Doorgaan met sporten?
+Doorgaan in %d s
+Doorgaan in %d s
+Freestyle
+Voltooid!
+(Geen titel)
+%02u:%02u AM–
+%02u:%02u PM–
+%02u:%02u AM
+%02u:%02u PM
+%u-%u-%u
+%u/%u
+%02u:%02u
+Vandaag
+Morgen
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+In %d uur
+Over %d dag
+Over %d dag
+Over %d dag
+Over %d dagen
+Over %d dagen
+Over %d dagen
+Over %d dagen
+Over %d dag
+Over %d dag
+Over %d dag
+Over %d dagen
+Over %d dagen
+Over %d dagen
+Over %d dagen
+Nu
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+In %d min.
+Te laat
+--
+Voltooid!
+Kon niet autoriseren
+Banen deze set
+Resterend
+%ld . %ld
+km
+m
+%02d : %02d
+Hele dag stresstoezicht
+Geavanceerde slaaptoezicht
+Hele dag stresstoezicht
+Geavanceerde slaaptoezicht
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Scherm aan voor
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Het scherm blijft elke keer %d min. aan. Dit heeft invloed op de levensduur van de batterij. Toch inschakelen?
+Slim
+Gepland
+Weer
+Alert
+预警。
+%02d:%02d AM
+%02d:%02d PM
+Veeg omhoog om te ontgrendelen
+Heel hoog
+AQI %d
+%s
+Scherm aan voor
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Mexico-Stad
+Winnipeg
+Guatemala
+San Salvador
+Tegucigalpa
+Managua
+Havana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Toestaan dat uw band de telefoon ontgrendelt?
+Buenos Aires
+Montevideo
+Brazilië
+Praia
+Reykjavik
+Lissabon
+Casablanca
+Dublin
+Madrid
+Lagos
+Algiers
+Brussel
+Genève
+Frankfurt
+Oslo
+Kopenhagen
+Rome
+Berlijn
+Praag
+Zagreb
+Wenen
+Stockholm
+Boedapest
+Warschau
+Windhoek
+Sofia
+Tallinn
+Helsinki
+Boekarest
+Kiev
+Harare
+Jeruzalem
+Beiroet
+Kaliningrad
+Amman
+Khartoum
+Minsk
+Istanboel
+Ankara
+Sint-Petersburg
+Nairobi
+Addis Abeba
+Bagdad
+Aden
+Riyad
+Antananarivo
+Koeweit
+Abu Dhabi
+Muscat
+Samara
+Kaboel
+Karachi
+Mumbai
+Kathmandu
+Dhaka
+Alma-Ata
+Novosibirsk
+Phnom Penh
+Hanoi
+Jakarta
+Kuala Lumpur
+Taiwan, China
+Taiwan
+Perth
+Irkutsk
+Manilla
+Pyongyang
+Tokio
+Chita
+Darwin
+Vladivostok
+Brisbane
+Adelaide
+Magadan
+Kamtsjatka
+Suva
+Auckland
+Kiritimati
+Washington D.C.
+San Francisco
+Nog niets hier
+Vandaag
+--
+OK
+m achter
+m voor
+Meten
+%d melding
+%d melding
+%d melding
+%d meldingen
+%d meldingen
+%d meldingen
+%d meldingen
+Geen audio afspelen
+Amsterdam
+Batterij laag
+Batterij onder %d%%. Laad nu op.
+Snelkoppelingen
+De work-out tijd is te kort om op te nemen.
+Wereldklok
+Doel: %d m
+Doel: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Slaap
+Herstel
+Vitaliteit
+Weixin Pay
+Alipay
+Gisteren %02d:%02d AM
+Gisteren %02d:%02d PM
+%02d/%02d %02d:%02d AM
+%02d/%02d %02d:%02d PM
+Wanneer u uw band in bed draagt, registreert deze automatisch informatie over uw slaap. Het apparaat geeft de laatste 3 opnames weer; u kunt meer gedetailleerde informatie bekijken in de app.
+Schakel Geavanceerde toezicht in Instellingen in om nauwkeurigere slaapinformatie te krijgen, zoals het herkennen van REM slaap.
+Als u langer dan 3 uur slaapt, geeft uw apparaat uw gemiddelde hartslag, SpO₂-niveau en slaapscore weer. Voor dutjes van minder dan 3 uur wordt alleen de tijd waarop u in slaap valt en wakker wordt weergegeven. Dutjes van minder dan 20 minuten worden niet geregistreerd.
+Een slechte slaapkwaliteit en overmatige beweging tijdens de slaap kunnen onnauwkeurige hartslag- en SpO₂-metingen veroorzaken.
+...
+Gemiddeld
+Slecht
+%02d:%02d:%02d.%02d
+Voer PIN in om te ontgrendelen
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth verbroken. Verbind om work-out gegevens te synchroniseren.
+Over %u dag
+Over %u dag
+Over %u dag
+Over %u dag
+Over %u dagen
+Over %u dagen
+Over %u dagen
+Uitstekend
+Onbekend
+Onbekend
+Geen informatie over nummer
+Starten
+Einde
+%.2F
+Verbinding verbroken
+Maak verbinding via Bluetooth en probeer het opnieuw
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/u
+%d km/u
+%d km/u
+%d km/u
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Meer informatie
+.
+-
+Product naam
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Doel BPM:
+Doel:
+Geen evenementen vandaag
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Ernstig
+%u Ernstig
+%u Ernstig
+%u%%
+--°
+--
+AQI --
+Maak verbinding met de app om weersinformatie te verkrijgen
+.
+Hartslag
+Set
+Set
+Set
+Set
+Set
+Tijd
+Tijd
+Tijd
+Tijd
+Tijd
+Stappen
+Slagen
+Sprongen
+Banen
+Rondes
+Xiaomi Smart Band 8 NFC
+/
+-
+U kunt uw band weergave nu bewerken. Tik om de bewerking te bevestigen.
+Veeg naar rechts op de band weergave om wijzigingen op te slaan.
+Taal wisselen
+Alleen de klok en het aantal stappen zijn beschikbaar als Batterijbesparing is ingeschakeld. Houd het scherm ingedrukt of laad op om uit te schakelen.
+Apparaat raakt oververhit. Uitschakelen.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d dag %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d dagen %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d dag %d uur verlengd.
+Als u deze functie uitschakelt, wordt de levensduur van de batterij met ongeveer %d dagen %d uur verlengd.
+Trainingsbelasting
+Hersteltijd (uur)
+Vitaliteit
++%u
+Om widgets te bewerken, ga naar Apparaat > Widgets in de app.
+Alarm
+Verleen Niet storen toestemmingen in de app
+OК
+%d min. geleden bijgewerkt
+%d min. geleden bijgewerkt
+%d°/%d°
+Gegevens verlopen
+Bijgewerkt: %02d:%02d
+Gisteren bijgewerkt, %02d:%02d
+Evenementen
+Zojuist
+Meting verlopen. Zorg ervoor dat uw band goed past.
+,
+%ld,%ld
+%d
+km/u
+Huidige hartslag
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Einde
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Tenen deze richting
+Locatietoestemmingen zijn vereist om uw route te kunnen vastleggen.
+Geef Mi Fitness in de instellingen van uw telefoon toestemming voor toegang tot uw locatie en selecteer "Altijd toestaan".
+%02d:%02d:%02d
+Voor nauwkeurige hartslagmetingen draag u uw apparaat nauwsluitend, ongeveer een vingerbreedte vanaf het polsbeen. Als het wegglijdt terwijl u sport, stel het dan onmiddellijk bij.
+Deze activiteit registreert alleen gegevens over frisbee-worpen van één hand. Draag het apparaat om de pols waarmee u gaat gooien.
+Tips
+Worpen
+Worp
+Worp
+Worp
+Worpen
+Worpen
+Worpen
+Worpen
+Werpende kracht
+Laag
+Gemiddeld
+Hoog
+%d worp
+%d worp
+%d worp
+%d worpen
+%d worpen
+%d worpen
+%d worpen
+Niet storen instellingen
+Slaapmodus
+Wanneer het apparaat herkent dat u slaapt, wordt Niet storen automatisch ingeschakeld.
+Slaapmodus
+%d uur
+%d uur
+%d uur
+%d uur
+%d uur
+%d uur
+%d uur
+Hele dag
+Aangepast
+Instellingen

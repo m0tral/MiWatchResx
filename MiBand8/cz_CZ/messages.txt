@@ -1,0 +1,4322 @@
+Najít telefon
+Váš telefon zazvoní
+Vyhledat
+Zastavit
+Dokončeno
+Hledat znovu
+Odpojeno
+Připojte se pomocí Bluetooth a zkuste to znovu
+Otevřete Fotoaparát na telefonu
+OK
+Spárujte zařízení v nastavení Fotoaparátu v aplikaci
+OK
+Odpojeno
+Připojte se pomocí Bluetooth a zkuste to znovu
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Nyní
+Budík
+Žádné budíky
+dop.
+odp.
+%02d:%02d
+Jednou
+Denně
+Pracovní dny
+Státní svátky
+ 
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+Můžete přidat až 10 budíků
+Čas
+dop.
+odp.
+%02d
+%02d
+:
+Inteligentní probuzení
+Náramek automaticky vybere nejlepší čas pro probuzení v rozmezí 10 minut před nastaveným budíkem
+Opakovat
+Jednou
+Denně
+Pracovní dny
+Státní svátky
+Vlastní
+Vlastní
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+Odložit
+%02d:%02d
+%02d:%02d dop.
+%02d:%02d odp.
+Vyp.
+Odložit o 10 minut
+Čas
+%02d:%02d
+%02d:%02d dop.
+%02d:%02d odp.
+Opakovat
+Jednou
+Denně
+Pracovní dny
+Státní svátky
+ 
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+Inteligentní probuzení
+Zap.
+Vyp.
+%d%%
+%02d:%02d
+Baterie má méně než %d%%
+Baterie má méně než %d%%. Zapnout Spořič baterie?
+Spořič baterie
+Zbývající baterie
+přibližně %d den %d hod.
+Po zapnutí Spořiče baterie budou dostupné pouze hodiny, krokoměr a NFC. Pro vypnutí Spořiče baterie stiskněte a přidržte displej nebo zařízení nabijte.
+Náramek je pro nabití příliš horký. Sundejte jej ze zápěstí.
+Náramek je pro nabití příliš studený. Sundejte jej ze zápěstí.
+%02d:%02d
+Stopky
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Žádné oblasti/regiony
+%02d:%02d
+Wellington
+Sydney
+Tokio
+Soul
+Peking
+Hongkong
+Singapur
+Bangkok
+Nové Dillí
+Islámábád
+Dubaj
+Moskva
+Káhira
+Kapské město
+Paříž
+Londýn
+New York
+Chicago
+Los Angeles
+Honolulu
+Athény
+Teherán
+Rangún
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Soul
+Peking
+Hongkong
+Singapur
+Bangkok
+Nové Dillí
+Islámábád
+Dubaj
+Moskva
+Káhira
+Kapské město
+Paříž
+Londýn
+New York
+Chicago
+Los Angeles
+Honolulu
+Athény
+Teherán
+Rangún
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Soul
+Peking
+Hongkong
+Singapur
+Bangkok
+Nové Dillí
+Islámábád
+Dubaj
+Moskva
+Káhira
+Kapské město
+Paříž
+Londýn
+New York
+Chicago
+Los Angeles
+Honolulu
+Athény
+Teherán
+Rangún
+Rio de Janeiro
+Údaje o letním čase jsou zastaralé. Pro aktualizaci se připojte k aplikaci.
+%02d:%02d
++%d hod.
++%.1f hod.
++%d hod.
++%d hod.
++%d hod.
++%d hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%d hod.
++%d hod.
+-%d hod.
+-%.1f hod.
+-%d hod.
+-%d hod.
+-%d hod.
+-%d hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%d hod.
+-%d hod.
+%u.%u.
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%.1f hod.
+-%d hod.
+-%d hod.
+-%d hod.
+-%d hod.
+-%d hod.
+-%d hod.
+-%d hod.
++%d hod.
++%.1f hod.
++%d hod.
++%d hod.
++%d hod.
++%d hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%.1f hod.
++%d hod.
++%d hod.
+Přidat oblast
+Více oblastí můžete přidat v aplikaci
+Můžete přidat až
+20 oblastí
+%02d:%02d
+Soustředění
+Odpočinek
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Odpočinek
+%02d:%02d
+Trvání
+Odpočinek
+Pozastaveno
+Odpočinek
+Dnes
+%02d:%02d:%02d
+Soustředění
+Soustředění
+Soustředění
+
+Režim Nerušit je během relace zapnutý
+Soustřeďte se
+Více
+Soustředění
+Funkce "Soustředění" vám pomůže soustředit se a pracovat efektivněji.
+
+Relace soustředění běžně trvá 25 minut. Po spuštění relace se zaměřte pouze na daný úkol, dokud zařízení nezačne vibrovat. Poté si na 5 minut odpočiňte.
+
+Po dokončení 4 relací soustředění doporučujeme odpočinout si na 15-20 minut.
+Soustředení
+Ještě chvilku
+Nepřehrává se
+Odpojeno
+Chybějící oprávnění
+Zapněte oznámení v aplikaci
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Pig)
+ 
+ 
+ 
+ 
+ 
+%d.%d.
+%d. týden
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Zapněte funkci Události v aplikaci
+Žádné události
+%02d.%02d.
+Po
+%02d.%02d.
+Út
+%02d.%02d.
+St
+%02d.%02d.
+Čt
+%02d.%02d.
+Pá
+%02d.%02d.
+So
+%02d.%02d.
+Ne
+Celý den
+%02d:%02d-%02d:%02d
+Odložit
+Zrušit
+Odloženo
+o 10 minut
+Zapnout
+Žádné události
+Přidejte oblast v aplikaci
+Dnes
+Nadcházející
+%02d:%02d dop.
+%02d:%02d odp.
+Po, %d.%d.
+Út, %d.%d.
+St, %d.%d.
+Čt, %d.%d.
+Pá, %d.%d.
+So, %d.%d.
+Ne, %d.%d.
+Odložit
+Zrušit
+%02d:%02d dop.
+%02d:%02d odp.
+Událost
+Odloženo
+o 10 minut
+Podrobnosti
+Vyhledávání zařízení…
+Zastavit
+Poslouchám
+Začněte vyslovením
+Pro nastavení funkce Mi AI přejděte do aplikace
+Zkontrolujte nastavení sítě a zkuste to znovu
+Odpojeno.
+Připojte se pomocí Bluetooth.
+Band is uploading
+ data. Can't use Mi AI
+ right now.
+Tato funkce není prozatím podporována
+You were saying?
+Couldn't wake Mi AI. Try again.
+Pondělí
+Úterý
+Středa
+Čtvrtek
+Pátek
+Sobota
+Neděle
+Tap to wake Mi AI
+Ask Mi AI on your phone
+Funkce Mi AI je dostupná pouze na pevninské Číně.
+Výborná
+Dobrá
+Průměrná
+Nezdravá
+Nebezpečná
+Hazardní
+Výborná
+Dobrá
+Průměrná
+Nezdravá
+Nebezpečná
+Hazardní
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Zítra
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+AQI %d
+Východ slunce
+Západ slunce
+%02d:%02d
+Vítr
+%d
+Vlhkost
+%d%%
+UV
+%lu
+%d°/%d°
+Změnit oblast
+Zvolte region v nastavení
+počasí v aplikaci
+%d
+℃
+℉
+Karty
+Přidejte karty v aplikaci
+Ještě chvilku
+  
+Zůstatek
+Přiložte ke čtečce karet
+Ještě chvilku
+Aktivace se nezdařila.
+Zkuste to znovu.
+Úspěšně zaplaceno
+-%.2F
+Zůstatek
+-%.2F
+Nízký zůstatek. Dobijte kartu.
+Dýchání
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Start
+Uvolněte se
+Soustřeďte se na svůj dech
+Začínáme
+Dýchejte podle animace bubliny
+Nádech
+Výdech
+Skvělá práce
+Relace: %d min.
+Relace: %d min.
+Relace: %d min.
+Relace: %d min.
+Relace: %d min.
+Relace: %d min.
+Relace: %d min.
+%2d:%2d
+Výsledky
+Aktuální ST
+%d
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+Počáteční ST
+Relace
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Hotovo
+Délka
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+%d
+%d
+%d nadechnutí
+%d nadechnutí
+%d nadechnutí
+%d nadechnutí
+%d nadechnutí
+%d nadechnutí
+%d nadechnutí
+%02u:%02u
+Srdeční tep
+Měření
+Nehýbejte se
+%02u
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+Právě teď
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+%02u:%02u
+Zkuste to znovu
+Změřit
+Zařízení není nasazeno
+Žádná data
+Zařízení není nasazeno
+OK
+%u
+%u
+Tipy
+1. Mějte náramek nasazen nad zápěstní kůstkou
+2. Mějte náramek pohodlně utažen a nehýbejte se
+3. Měření může být ovlivněno způsobem nošení náramku, změnami na vaší kůži, okolním prostředím, atd.
+*Tato funkce není určena k lékařským účelům ani k diagnostice, léčbě nebo prevenci jakéhokoli onemocnění nebo stavu.
+Vysoký ST
+Vysoký ST
+%u
+%02u:%02u
+%u-%u
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+Více
+Váš náramek vás upozorní, pokud váš srdeční tep v době nečinnosti překročí nastavenou hodnotu. Krátkodobé zvýšení vaší tepové frekvence jako reakce na stres, příjem kofeinu nebo nachlazení je normální. Lidé, kteří pociťují závratě, dušnost nebo bušení srdce, by však měli vyhledat lékařskou pomoc. Upozorňujeme, že údaje o vysokém srdečním tepu nejsou určeny k jakýmkoli lékařským účelům ani k diagnostice, léčbě nebo prevenci jakéhokoli onemocnění nebo stavu. Náramek zobrazuje pouze poslední 3 záznamy vysokého ST. Více informací naleznete v aplikaci.
+Nízký ST
+Nízký ST
+Více
+Váš náramek vás upozorní, pokud váš srdeční tep klesne pod nastavenou hodnotu. Srdeční tep může běžně klesnout pod tuto hodnotu během spánku. Srdeční frekvence trénovaných sportovců se může taktéž běžně pohybovat pod těmito hodnotami. Lidé, kteří pociťují závratě, dušnost nebo bušení srdce, by však měli vyhledat lékařskou pomoc. Upozorňujeme, že údaje o nízkém srdečním tepu nejsou určeny k jakýmkoli lékařským účelům ani k diagnostice, léčbě nebo prevenci jakéhokoli onemocnění nebo stavu. Náramek zobrazuje pouze poslední 3 záznamy nízkého ST. Více informací naleznete v aplikaci.
+Nepravidelný tep
+Nepravidelný
+%02u:%02u-%02u:%02u
+Více podrobností v aplikaci
+Více
+Váš náramek bude měřit váš puls a zaznamenávat jakékoli nepravidelnosti, když nejste aktivní. Pokud se necítíte dobře, vyhledejte lékařskou pomoc.
+Zóna ST
+%u hod. %u min.
+%u hod. %u min.
+%u hod. %u min.
+%u hod. %u min.
+%u hod.
+%u hod.
+%u hod.
+%u hod.
+%u hod.
+%u hod.
+%u hod.
+%1u hod.
+%1u hod.
+%1u hod.
+%1u hod.
+%1u hod.
+%1u hod.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%2u min.
+%2u min.
+%2u min.
+%2u min.
+%2u min.
+%2u min.
+VO₂ max
+Anaerobní
+Aerobní
+Intenzivní
+Lehká
+Více
+Lehká
+50%-60% max. kapacity srdečního tepu. Cvičení v této zóně je vhodné pro zahřívání a vyklusání.
+Intenzivní
+61%-70% max. kapacity srdečního tepu. Vhodné pro spalování tuků.
+Aerobní
+71%-80% max. kapacity srdečního tepu. V této zóně dochází k posílení kardiopulmonálních funkcí.
+Anaerobní
+Při dosažení 81%-90% max. kapacity srdečního tepu dochází ke zvyšování tolerance vašeho těla na kyselinu mléčnou.
+VO₂ max
+Cvičení v zóně 91%-100% max. srdečního tepu je vhodné pouze pro zkušené či profesionální sportovce.
+Nastavení
+Srdeční tep
+Nepřetržité měření
+Vyp.
+Autom.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+Nepřetržité měření
+Nepřetržité sledování srdečního tepu po celý den.
+Vyp.
+Autom.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+%u min.
+Nepravidelný tep
+Zap.
+Nepravidelný tep
+Tato funkce měří váš srdeční tep v reálném čase a zaznamenává jakékoli nepravidelnosti.
+
+Zapnutí této funkce výrazně sníží výdrž baterie. Přesto zapnout?
+Vysoký ST
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+Vysoký ST
+Zvolte hodnotu, při jejíž dosažení bude zobrazeno upozornění
+Vyp.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+%u tepů/min.
+Vysoký ST
+%u
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep vyšší než %u tepů/min.
+Zrušit
+Dnes nezobrazovat
+Nízký ST
+Nízký ST
+Zvolte hodnotu, při jejíž dosažení bude zobrazeno upozornění
+Nízký ST
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+V %02u:%02u byl váš klidový srdeční tep nižší než %u tepů/min.
+Více
+Více
+Srdeční tep
+Srdeční tep představuje počet úderů srdce za minutu (tepů/min.). Klidový tep se obvykle pohybuje v rozmezí 55 až 80 tepů/min. Liší se však podle věku, pohlaví a dalších faktorů. Vaše zařízení podporuje rozsah 30–240 tepů/min
+Spánek
+Pro záznam údajů o spánku mějte náramek nasazen během spánku
+%02u
+hod.
+min.
+Cíl: %2u hod.
+Cíl: %2u hod.
+Cíl: %2u hod.
+Cíl: %2u hod.
+Cíl: %2u hod.
+Cíl: %2u hod.
+Cíl: %2u hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Cíl: %02u hod. %2u min.
+Aktualizováno: %02u:%02u
+Zdřímnutí
+%02u
+%02u:%02u-%02u:%02u
+Spánek
+Hluboký
+%u%%
+Lehký
+REM
+Probuzení
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+Prům. ST
+%u
+Prům. SpO₂
+Nastavení
+Více
+Nastavení
+Rozšířené měření
+Vyp.
+Skóre dýchání
+Zap.
+Rozšířené měření
+Po zapnutí této funkce bude zařízení zaznamenávat REM fázi vašeho spánku.
+
+Zapnutí Rozšířeného měření výrazně sníží výdrž baterie. Přesto zapnout?
+Skóre dýchání
+Po zapnutí této funkce bude zařízení sledovat vaše dýchání během spánku. Skóre dýchání můžete zobrazit v aplikaci.
+Zapnutí Skóre dýchání výrazně sníží výdrž baterie. Přesto zapnout?
+Více
+Před spaním si nasaďte náramek. Na náramku lze zobrazit poslední 3 záznamy o vašem spánku. Detailnější historii spánku můžete zobrazit v aplikaci na vašem telefonu. Pro přesnější údaje a sledování REM fáze spánku zapněte Rozšířené měření v Nastavení. Pro měření prům. srdečního tepu a hladiny kyslíku v krvi jsou vyžadovány alespoň 3 hodiny nepřerušovaného spánku. Při kratším spánku budou zaznamenány pouze časy usnutí a probuzení. Zdřímnutí kratší než 20 minut nebudou zaznamenána. Špatná kvalita spánku a přílišný pohyb zápěstí může způsobit nesprávné výsledky měření srdečního tepu a neschopnost zařízení změřit hladinu kyslíku v krvi.
+%02u:%02u
+Míra stresu
+Žádná data
+Změřit
+%u
+Nízká
+Normální
+Vyšší
+Vysoká
+Právě teď
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+%02u:%02u
+Nehýbejte se. Displej musí směřovat vzhůru.
+%u
+Měření
+Nehýbejte se
+Nehýbejte se
+Náramek se musí dotýkat vaší kůže
+Mějte zápěstí v rovné poloze. Displej náramku musí směřovat nahoru.
+Utáhněte řemínek a zkuste to znovu
+Utáhněte řemínek a zkuste to znovu
+Během měření se nehýbejte
+Utáhněte řemínek a zkuste to znovu
+Zkuste to znovu
+OK
+Relace byla přerušena. Zrušit nyní?
+Tipy
+Mějte náramek nasazen nad zápěstní kůstkou.
+Mějte náramek pohodlně utažen a nehýbejte se.
+Měření může být ovlivněno nízkou teplotou, prokrvením kůže, apod.
+Tato funkce není určena pro lékařské účely.
+Vysoká míra stresu
+%u
+Vysoká
+Vyzkoušejte dechové cvičení.
+Vyzkoušet
+Rozumím
+Dnes nezobrazovat
+Míra stresu
+%u
+%u
+Nízká
+Normální
+Vyšší
+Vysoká
+Právě teď
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+%02u:%02u
+Změřit
+Žádná data
+Podrobnosti
+Nízká
+Normální
+Vyšší
+Vysoká
+%u%%
+Posledních 7d
+%02u.%02u.
+Dnes
+%u
+prům.
+Nastavení
+Více
+Míra stresu
+Celodenní měření
+Zap.
+Vyp.
+Připomenutí odpočinku
+Celodenní měření
+Tato funkce sleduje vaši míru stresu v době, kdy se nehýbete.
+Připomenutí odpočinku
+Zobrazit výzvu k provedení dechového cvičení, pokud míra stresu zůstane vyšší než 80 po dobu, kdy jste vzhůru
+Zapnutí této funkce výrazně sníží výdrž baterie. Přesto zapnout?
+Více
+Stres je přirozeným mechanismem, kterým vaše tělo reaguje na vypjaté situace.
+Míra stresu je měřena pouze v době, kdy nejste aktivní. Úrovně stresu jsou rozděleny následovně:
+Nízká: 1-25 
+Normální: 26-50 
+Vyšší: 51-80 
+Vysoká: 81-100
+Přesnost měření může být ovlivněna několika faktory. Výsledky jsou pouze informační.
+%02u:%02u
+SpO₂
+Žádná data
+Změřit
+%u
+%
+Právě teď
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+%02u:%02u
+Nehýbejte se. Displej musí směřovat vzhůru.
+%u
+SpO₂
+Měření
+Kalibrace
+Nehýbejte se
+Nehýbejte se
+Náramek se musí dotýkat vaší kůže
+Mějte zápěstí v rovné poloze. Displej náramku musí směřovat nahoru.
+Utáhněte řemínek a zkuste to znovu
+Zkuste to znovu
+Utáhněte řemínek a zkuste to znovu
+Během měření se nehýbejte
+Utáhněte řemínek a zkuste to znovu
+Mějte zápěstí v rovné poloze. Displej náramku musí směřovat nahoru.
+Mějte náramek pohodlně utažen a nehýbejte se
+Rozumím
+Rozumím
+Tipy
+1. Mějte náramek nasazen nad zápěstní kůstkou.
+2. Mějte náramek pohodlně utažen a nehýbejte se.
+3. Měření může být ovlivněno nízkou teplotou, prokrvením kůže, apod.
+Tato funkce není určena pro lékařské účely.
+SpO₂
+%u
+%u
+%
+Právě teď
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+Před %u min.
+%02u:%02u
+Změřit
+Upozornění
+Nastavení
+Více
+Více
+Náramek podporuje rozsah měření 75–100 %.
+Nízká hladina SpO₂
+1. SpO₂ představuje procento kyslíku v krvi.
+%02u:%02u
+2. Hodnoty pod 95 %, když jste aktivní a pod 90 % během spánku jsou považovány za nízké.
+%u
+%u%% - %u%%
+3. Přesnost a spolehlivost měření může být ovlivněna několika faktory. Mezi tyto faktory patří např. prokrvení kůže, trvalé nebo dočasné změny na kůži, pohyb nebo poloha během spánku. Všechny výše uvedené faktory mohou mít za následek falešně nízkou hodnotu kyslíku v krvi. Nezapomeňte, že tato funkce není určena pro lékařské účely. Pokud se necítíte dobře, vyhledejte lékařskou pomoc.
+Více
+Pokud hodnoty hladiny kyslíku v krvi klesnou pod nastavenou hodnotu po určitou dobu, obdržíte upozornění. Váš náramek zobrazí poslední 3 záznamy. Více informací naleznete v aplikaci.
+Pokud pociťujete dušnost, bolest hlavy, únavu nebo snížení pozornosti, vyhledejte lékařskou pomoc.
+Rozmezí měření náramku je 75-100 %. Tato funkce slouží pouze pro referenční účely a v žádném případě není určena pro lékařské účely nebo diagnostiku.
+Relace byla přerušena. Zrušit nyní?
+Nastavení
+Celodenní sledování
+Zap.
+Vyp.
+Upozornění
+Vyp.
+%d%%
+%d%%
+%d%%
+Celodenní sledování
+Tato funkce měří hladinu SpO₂ v době, kdy nejste aktivní.
+Upozornění
+Zobrazit upozornění, pokud hladina SpO₂ během dne klesne pod určitou hodnotu
+Vyp.
+0.8
+0.85
+0.9
+ 
+Zapnutí této funkce výrazně sníží výdrž baterie. Přesto zapnout?
+Upozornění
+%u
+%
+Aktuální hladina SpO₂ je pod %u %%
+Zrušit
+Dnes nezobrazovat
+%02d:%02d
+Cyklus
+%02d/%02d
+%02d.%02d.
+Žádné údaje
+Zapsat
+%d. den
+%d. den
+%d. den
+%d. den
+%d. den
+%d. den
+%d. den
+Predikce menstruace
+%02d/%02d-%02d/%02d
+Zrušit
+Konec menstruace
+Menstruace
+Cyklus
+%02d/%02d
+%02d/%02d
+Žádné údaje
+Začátek menstruace
+Zrušit
+Konec menstruace
+Predikce
+Zapněte funkci Predikce menstruace v aplikaci
+Více
+%02d. den
+%02d. den
+%02d. den
+%02d. den
+%02d. den
+%02d. den
+%02d. den
+Plodné období
+Nadcházející menstruace
+Menstruace
+%02d/%02d-%02d/%02d
+Plodné období
+%02d/%02d-%02d/%02d
+Menstruace
+Ovulace
+%02d/%02d
+Ovulace
+Za %d den
+Za %d den
+Za %d den
+Za %d dny
+Za %d dny
+Za %d dne
+Za %d dní
+Více
+1. Barvy
+Menstruace
+Nadcházející menstruace
+Plodné období
+Ovulace
+2. Tip
+Pro zlepšení přesnosti predikce upravte délku menstruace a cyklu v aplikaci.
+Příští menstruace
+Příští plodné období
+Příští ovulace
+Zítra
+Za 2 dny
+Za %u den
+Za %u den
+Za %u den
+Za %u den
+Za %u dny
+Za %u dny
+Za %u dne
+Za %u dní
+Příští menstruace %u.%u.
+Příští plodné období %u.%u.
+Příští ovulace %u.%u.
+%02u:%02u
+dop.
+odp.
+Rozumím
+Venkovní běh
+Chůze
+Sportovní chůze
+Běžecký pás
+Chůze uvnitř
+Jízda na kole
+Pěší turistika
+Terénní běh
+Pěší turistika
+Volný styl
+Posilovna
+Jóga
+Plavání v bazénu
+Otevřená voda
+Eliptický trenažér
+Veslování
+Švihadlo
+HIIT
+Tenis
+Basketbal
+Snowboarding
+Lyžování
+Běh na lyžích
+Golf
+Ostatní sporty
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Cíl
+%d%
+Dokončení cíle
+%u.%02u
+km
+Cíl
+Dokončeno
+Shrnutí
+%u'%02u"
+Prům. tempo
+Tempo
+%d
+Prům. rytmus (kroků/min.)
+Prům. krok (cm)
+Kalorie
+Prům. ST
+Max. ST
+Kroky
+VO₂ max
+Délek
+Hlavní styl
+Prům. SWOLF
+Celkem temp
+Prům. temp/min.
+Čas cvičení
+Odpočinek
+Série
+Celkem temp
+Celkem přeskoků
+Prům. frekvence (přeskoků/min.)
+Prsa
+Volný styl
+Motýlek
+Znak
+Zóna ST
+VO₂ max
+Anaerobní
+Aerobní
+Intenzivní
+Lehká
+%d hod. %d min.
+%d hod. %d min.
+%d hod. %d min.
+%d hod. %d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+Tréninkový efekt
+%d.%d
+Udržovací
+Aerobní cvičení
+%d.%d
+Anaerobní cvičení
+Více podrobností v aplikaci
+%d
+Tréninková zátěž
+Dobrá
+Nízká
+Vysoká
+Posledních 7 dní
+%d
+ml/kg/min.
+VO₂ max
+Velmi špatná
+Špatná
+Dostačující
+Průměrná
+Dobrá
+Výborná
+Perfektní
+Úroveň
+Zlepšující
+Udržovací
+Zhoršující
+Pohybové schopnosti
+ 
+Výpočet tréninkové zátěže je založen na vašem kyslíkovém dluhu (EPOC) za posledních 7 dní. Upravte svůj trénink v závislosti na této hodnotě. Více informací najdete v Nápovědě v aplikaci.
+%02d:%02d
+Více
+VO₂ max je klíčovým ukazatelem aerobní kapacity vašeho těla. Zařízení vyhodnotí vaše pohybové schopnosti na základě faktorů, jako je věk, pohlaví a tepová frekvence během cvičení. Se zlepšováním vašich pohybových schopností se bude také měnit vaše VO₂ max.
+Zjistěte své VO₂ max
+1. Vyplňte své osobní informace v aplikaci. 2. Nasaďte si náramek a běhejte venku alespoň 10+ min. pro získání 75 % max. srdečního tepu.
+%d
+Zotavení (hod.)
+Úplná regenerace
+Částečná regenerace
+Snižte intenzitu
+Vyžadován odpočinek
+%02d:%02d
+Aktualizováno
+Právě teď
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+%d
+Zotavení (hod.)
+Můžete zvýšit intenzitu zátěže
+Trénujte jako obvykle
+Snižte intenzitu tréninku
+Pozastavte trénink a odpočiňte si
+Aktivity
+%d záznam nebyl synchronizován
+%d záznam nebyl synchronizován
+%d záznam nebyl synchronizován
+%d záznamy nebyly synchronizovány
+%d záznamy nebyly synchronizovány
+%d záznamu nebylo synchronizováno
+%d záznamů nebylo synchronizováno
+Venkovní běh
+Chůze
+Sportovní chůze
+Běžecký pás
+Chůze uvnitř
+Jízda na kole
+Pěší turistika
+Terénní běh
+Pěší turistika
+Volný styl
+Posilovna
+Jóga
+Plavání v bazénu
+Otevřená voda
+Eliptický trenažér
+Veslování
+Švihadlo
+HIIT
+Tenis
+Basketbal
+Snowboarding
+Lyžování
+Běh na lyžích
+Golf
+Ostatní sporty
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Tempo
+%u
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+Lehká
+Intenzivní
+Aerobní
+Anaerobní
+VO₂ max
+kcal
+Rytmus (kroků/min.)
+Kroky
+Prům. tempo
+Dokončení cíle
+%lu.%02lu
+km pozadu
+mi pozadu
+%d'%d"
+%d%%
+Tempo
+km napřed
+mi napřed
+Dokončené série
+Odpočinek
+Celkový čas
+Plavání v bazénu
+Plachtění
+Paddleboarding
+Vodní pólo
+Ostatní vodní sporty
+Vodní lyžování
+Jízda na kajaku
+Rafting
+Veslování
+Motorový člun
+Ploutvové plavání
+Skoky do vody
+Synchronizované plavání
+Šnorchlování
+Kitesurfing
+Flowriding
+Dračí lodě
+Venkovní běh
+Chůze
+Pěší turistika
+Jízda na kole
+Pěší turistika
+Terénní běh
+Horolezectví
+Skateboarding
+Kolečkové brusle
+Parkour
+Čtyřkolky
+Paragliding
+BMX
+Sportovní chůze
+Volný styl
+Běžecký pás
+Švihadlo
+HIIT
+Jóga
+Jízda v hale
+Eliptický trenažér
+Veslování
+Fitness schody
+Stepper
+Spinning
+Core trénink
+Flexibilita
+Pilates
+Gymnastika
+Strečink
+Silový trénink
+Kruhový trénink
+Běh do schodů
+Aerobik
+Fitness
+Wall ball
+Jednoruční činky
+Činky
+Vzpírání
+Mrtvý tah
+Angličáky
+Sedy-lehy
+Funkční trénink
+Horní část těla
+Dolní část těla
+Břišní svalstvo
+Záda
+Air walker
+Hrazda
+Bradla
+Stepper
+Skupinová gymnastika
+Bojové kardio
+Posilovací lano
+Kombinace aerobiku
+Chůze uvnitř
+Posilovna
+Tančení v parku
+Břišní tance
+Balet
+Street dance
+Zumba
+Lidový tanec
+Jazzový tanec
+Latinskoamerické tance
+Hip Hop
+Pole dance
+Breakdance
+Společenský tanec
+Moderní tanec
+Tanec
+Box
+Zápas
+Bojová umění
+Tchaj-ťi
+Muaythai
+Judo
+Taekwondo
+Karate
+Kickbox
+Kendó
+Sportovní šerm
+Džiu-džitsu
+Tenis
+Basketbal
+Golf
+Fotbal
+Volejbal
+Baseball
+Softball
+Americký fotbal
+Hokej
+Stolní tenis
+Badminton
+Kriket
+Házená
+Bowling
+Squash
+Kulečník
+Košíček
+Plážový fotbal
+Plážový volejbal
+Sepak takraw
+Futsal
+Hakysák
+Bocce
+Pelota
+Gateball
+Vybíjená
+Snowboarding
+Lyžování
+Běh na lyžích
+Bruslení
+Bruslení v hale
+Curling
+Ostatní zimní sporty
+Sněžný skútr
+Lední hokej
+Boby
+Sáňkování
+Lukostřelba
+Šipky
+Jízda na koni
+Přetahování lanem
+Hula hoop
+Pouštění draků
+Rybaření
+Létající talíř
+Košíček
+Houpání
+Somatosenzorické hry
+Stolní fotbal
+Šoupaná
+Esports
+Šachy
+Dáma
+Go (Wej-čchi)
+Bridž
+Stolní hry
+Jezdectví
+Atletika
+Automobilové sporty
+Určování polohy…
+Poloha určena
+Intervaly
+Zahřívání
+Trénink
+%d:%02d
+%d,%02d km
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d
+Odpočinek
+Série
+Vyklusání
+Zahřívání
+Vyklusání
+Trénink
+Čas
+Vzdálenost
+Délek
+Tempa
+Přeskoky
+Upozornění
+Vzdálenost
+%d km
+%d mi
+Tempo
+%d'%02d"
+Rychlost
+%d km/h
+Cílová zóna ST
+Lehká
+Intenzivní
+Aerobní
+Anaerobní
+VO₂ max
+Vysoký ST
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+Pitný režim
+Vypnout vše
+Vyp.
+Vzdálenost
+Připomenutí
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Rychlost
+Připomenutí
+%d km/h
+Tempo
+Připomenutí
+%d'%02d"
+Cílová zóna ST
+Zóna ST
+Lehká
+Intenzivní
+Aerobní
+Anaerobní
+VO₂ max
+Cílová zóna ST
+Lehká
+Intenzivní
+Aerobní
+Anaerobní
+VO₂ max
+%d–%d tepů/min.
+Plavání v bazénu
+Plachtění
+Paddleboarding
+Vodní pólo
+Ostatní vodní sporty
+Vodní lyžování
+Jízda na kajaku
+Rafting
+Veslování
+Motorový člun
+Ploutvové plavání
+Skoky do vody
+Synchronizované plavání
+Šnorchlování
+Kitesurfing
+Flowriding
+Dračí lodě
+Venkovní běh
+Chůze
+Pěší turistika
+Jízda na kole
+Pěší turistika
+Terénní běh
+Horolezectví
+Skateboarding
+Kolečkové brusle
+Parkour
+Čtyřkolky
+Paragliding
+BMX
+Sportovní chůze
+Volný styl
+Běžecký pás
+Švihadlo
+HIIT
+Jóga
+Jízda v hale
+Eliptický trenažér
+Veslování
+Fitness schody
+Stepper
+Spinning
+Core trénink
+Flexibilita
+Pilates
+Gymnastika
+Strečink
+Silový trénink
+Kruhový trénink
+Běh do schodů
+Aerobik
+Fitness
+Wall ball
+Jednoruční činky
+Činky
+Vzpírání
+Mrtvý tah
+Angličáky
+Sedy-lehy
+Funkční trénink
+Horní část těla
+Dolní část těla
+Břišní svalstvo
+Záda
+Air walker
+Hrazda
+Bradla
+Stepper
+Skupinová gymnastika
+Bojové kardio
+Posilovací lano
+Kombinace aerobiku
+Chůze uvnitř
+Posilovna
+Tančení v parku
+Břišní tance
+Balet
+Street dance
+Zumba
+Lidový tanec
+Jazzový tanec
+Latinskoamerické tance
+Hip Hop
+Pole dance
+Breakdance
+Společenský tanec
+Moderní tanec
+Tanec
+Box
+Zápas
+Bojová umění
+Tchaj-ťi
+Muaythai
+Judo
+Taekwondo
+Karate
+Kickbox
+Kendó
+Sportovní šerm
+Džiu-džitsu
+Tenis
+Basketbal
+Golf
+Fotbal
+Volejbal
+Baseball
+Softball
+Americký fotbal
+Hokej
+Stolní tenis
+Badminton
+Kriket
+Házená
+Bowling
+Squash
+Kulečník
+Košíček
+Plážový fotbal
+Plážový volejbal
+Sepak takraw
+Futsal
+Hakysák
+Bocce
+Pelota
+Gateball
+Vybíjená
+Snowboarding
+Lyžování
+Běh na lyžích
+Bruslení
+Bruslení v hale
+Curling
+Ostatní zimní sporty
+Sněžný skútr
+Lední hokej
+Boby
+Sáňkování
+Šipky
+Jízda na koni
+Přetahování lanem
+Hula hoop
+Pouštění draků
+Rybaření
+Létající talíř
+Košíček
+Houpání
+Somatosenzorické hry
+Stolní fotbal
+Šoupaná
+Esports
+Šachy
+Dáma
+Go (Wej-čchi)
+Bridž
+Stolní hry
+Jezdectví
+Lukostřelba
+Atletika
+Automobilové sporty
+Více
+Více
+Vodní sporty
+Venkovní aktivity
+Trénink
+Zimní sporty
+Rekreační sporty
+Karetní/stolní hry
+Ostatní
+%d sport
+%d sport
+%d sport
+Tanec
+%d sporty
+Bojové sporty
+%d sporty
+Míčové sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportu
+%d sportů
+Zdá se, že cvičíte
+Venkovní běh
+Běžecký pás
+Chůze
+Jízda na kole
+Eliptický trenažér
+Veslování
+Švihadlo
+Zrušit
+Pozastavit
+Ukončit
+Další série
+Pozastavit
+Ukončit
+Přechod
+Pozastaveno
+%d/%d
+Zahřívání
+%02d:%02d:%02d
+ 
+Hotovo
+Trénink
+%d
+%d
+Tempa v této sérii
+Zbývá
+Cílový
+Zbývá
+Cílová
+Zbývá
+Přeskoků v sérii
+Zbývá
+Přeskočit
+Odpočinek
+%02d:%02d:%02d
+Odpočinek
+%02d:%02d:%02d
+Zbývá
+Přeskočit
+Vyklusání
+%02d:%02d:%02d
+ 
+Ukončit
+Skvělý výkon
+Zrychlete
+%d
+Cílový ST
+%d–%d
+Jen tak dál
+Zpomalte
+Zrychlete
+%d
+Cíl:
+%d km/h
+Jen tak dál
+Zpomalte
+Zrychlete
+%d'%d"
+Cílové
+%d'%d"
+Jen tak dál
+Zpomalte
+-- 
+km/h
+%d
+%
+Dokončení cíle
+%d
+km
+km
+km
+km
+km
+km
+km
+Cíl: %d km
+Nový rekord!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Pro záznam údajů o trase připojte náramek k telefonu.
+Žádné informace o poloze. Trasu cvičení momentálně nelze zaznamenat.
+Slabý satelitní signál. Přesuňte se do otevřeného prostoru.
+Pro získání správných údajů o vaší poloze a trase připojte náramek k telefonu.
+Připojení obnoveno
+Poloha určena
+Úložiště je plné. Toto cvičení bude ukončeno a více údajů již nebude zaznamenáno. Pro uvolnění místa se připojte k telefonu.
+Běh
+Začátečník
+Základní běh/chůze
+Pokročilý běh/chůze
+Nedostatek místa na úložišti. Připojte se k telefonu a synchr. data pro zamezení jejich přepsání.
+Základní jogging
+Spalování tuků
+Spalování tuků (Základní)
+Spalování tuků (Pokročilý)
+MIIT
+Vytrvalost
+Vytrvalostní běh (Základní)
+Vytrvalostní běh (Pokročilý)
+Intervalový
+Intervalový běh (Základní)
+Intervalový běh (Pokročilý)
+%02d:%02d
+Základní běh/chůze
+Pokročilý běh/chůze
+Základní jogging
+Spalování tuků (Základní)
+Spalování tuků (Pokročilý)
+MIIT
+Vytrvalostní běh (Základní)
+Vytrvalostní běh (Pokročilý)
+Intervalový běh (Základní)
+Intervalový běh (Pokročilý)
+Poloha určena
+%02d:%02d
+Základní běh/chůze
+Pokročilý běh/chůze
+Základní jogging
+Spalování tuků (Základní)
+Spalování tuků (Pokročilý)
+MIIT
+Vytrvalostní běh (Základní)
+Vytrvalostní běh (Pokročilý)
+Intervalový běh (Základní)
+Intervalový běh (Pokročilý)
+Úvod
+Kombinace chůze a joggingu v intervalech.
+Kombinace chůze a joggingu v intervalech.
+Jogging nízké a střední intenzity.
+Kratší běh vhodný pro spalování tuků.
+Středně intenzivní prodloužený běh pro spalování tuků.
+Středně intenzivní intervalový trénink.
+Středně dlouhý vytrvalostní běh.
+Delší vytrvalostní běh.
+Kratší intervalový trénink pro posílení srdce a plic.
+Delší intervalový trénink pro posílení srdce a plic.
+Tréninkový plán
+Rychlá chůze
+Jogging
+Běh
+Sprint
+%02d:%02d
+%02d:%02d
+%d/%d
+Rychlá chůze
+Jogging
+Běh
+Sprint
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d-%d
+Cílový ST
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Tempo
+%d
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+VO₂ max
+Anaerobní
+Aerobní
+Intenzivní
+Lehká
+%d
+kroků/min.
+%d
+Kroky
+%d'%d"
+Prům. tempo
+Více
+Kroky
+Kalorie
+V pohybu
+Stání
+"Kroky" ukazují váš každodenní počet kroků. Osoby s aktivním životním stylem ujdou mezi 8000-10 000 kroky každý den.
+"Kalorie" představují počet aktivních kalorií, které spálíte pohybem a cvičením.
+Funkce "V pohybu" vyjadřuje čas, který strávíte prováděním aktivit s mírnou či intenzivní zátěží. Zaměřte se na aktivity s mírnou zátěží alespoň 30 minut denně, 5krát týdně. Alternativně můžete rozložit 75 minut intenzivních aktivit během celého týdne. Funkce "V pohybu" zaznamená pokrok, pokud váš rytmus překročí 100 kroků/min. nebo pokud váš srdeční tep dosáhne a překročí 65 % hodnoty max. srdečního tepu.
+"Státní" vyjadřuje hodiny, ve kterých jste se během dne postavili a pohybovali se. Postavte se a projděte se alespoň 12krát za den pokaždé v jinou hodinu.
+%d krok
+Dosaženo cíle "Kroky"
+Dosaženo cíle "Kroky". Skvělý výkon!
+Dosáhli jste dnešního cíle počtu kroků!
+%d krok
+%d krok
+%d kroky
+%d kroky
+%d kroku
+%d kroků
+%d kcal
+Dosaženo cíle "Kalorie"
+Dosáhli jste cíle spálených kalorií. Jen tak dál!
+Dosáhli jste dnešního cíle pro "Kalorie". Skvělý výkon!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min.
+Dosaženo cíle "V pohybu"
+Dosaženo cíle "V pohybu". Skvělý výkon!
+Dosáhli jste dnešního cíle "V pohybu". Skvělá práce!
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d hod.
+Dosaženo cíle "Stání"
+Dosaženo cíle "Stání". Skvělý výkon!
+Dosáhli jste dnešního cíle "Stání". Jen tak dál!
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+Dosaženo cíle!
+Dosáhli jste všech cílů
+Dosáhli jste všech cílů pro dnešní den. Gratulujeme!
+Dosáhli jste všech cílů! Skvělá práce!
+Dosáhli jste všech cílů!
+Nastavení
+Cíl
+Intervaly
+Upozornění
+Autom. pozastavení
+AI pacer
+Délka bazénu
+Resetovat
+Cíl
+Cíl nenastaven
+Vzdálenost
+Čas
+Kalorie
+Délek
+Tempa
+Přeskoky
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d délka
+%d délka
+%d délka
+%d délky
+%d délky
+%d délek
+%d délek
+%d tempo
+%d tempo
+%d tempo
+%d tempa
+%d tempa
+%d tempa
+%d temp
+%d přeskok
+%d přeskok
+%d přeskok
+%d přeskoky
+%d přeskoky
+%d přeskoku
+%d přeskoků
+Vzdálenost
+km
+Čas
+HH:mm
+Kalorie
+kcal
+Délek
+Tempa
+Přeskoky
+Autom. pozastavení
+AI pacer
+Tempo
+%d‘%2d’’
+Tempo
+  
+Délka bazénu
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Vlastní
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Délka bazénu
+m
+Resetovat všechna nastavení cvičení?
+Vysoký ST
+Upozornění
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+Upozornění
+Pitný režim
+Připomenutí
+Vzdálenost, %d km
+Vzdálenost, %d km
+Vzdálenost, %d km
+Vzdálenost, %d km
+Vzdálenost, %d km
+Vzdálenost, %d km
+Vzdálenost, %d km
+Vzdálenost, %d mi
+Vzdálenost, %d mi
+Vzdálenost, %d mi
+Vzdálenost, %d mi
+Vzdálenost, %d mi
+Vzdálenost, %d mi
+Vzdálenost, %d mi
+Čas, %d min.
+Čas, %d min.
+Čas, %d min.
+Čas, %d min.
+Čas, %d min.
+Čas, %d min.
+Čas, %d min.
+Trénink
+Čas
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Vzdálenost
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Čas
+HH/mm
+Vzdálenost
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Vzdálenost
+km
+Rychlost
+km/h
+Tempo
+  
+Zacvičte si
+Postavte se
+Rozumím
+Dnes nezobrazovat
+Vypnout dnešní upozornění nečinnosti?
+Postavte se
+Resetovat všechna nastavení cvičení?
+Jen tak dál!
+Včera jste dosáhli nastaveného cíle. Jen tak dál!
+Včera jste dosáhli nastaveného cíle. Jen tak dál!
+Včera jste dosáhli 2 ze 3 nastavených cílů. Opřete se do toho!
+Včera jste dosáhli 2 ze 3 nastavených cílů. Opřete se do toho!
+Včera jste nedosáhli nastaveného cíle. Zkuste to dnes znovu!
+Včera jste nedosáhli nastaveného cíle. Zkuste to dnes znovu!
+Vaše cíle jsou na dosah ruky - opřete se do toho!
+Vaše cíle jsou na dosah ruky - opřete se do toho!
+Rozumím
+Právě teď
+Před %d min.
+Před %d min.
+Protáhněte se
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Aktualizováno: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+krok
+krok
+krok
+kroky
+kroky
+kroku
+kroků
+%d
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+%d
+min.
+%02d:%02d
+%02d:%02d
+Nastavení
+Více
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Aktivity
+Stav
+Míra stresu
+Spánek
+Počasí
+Hudba
+Budík
+Události
+Kalendář
+Karty
+Více
+Svítilna
+Cyklus
+Dýchání
+Stopky
+Časovač
+Najít telefon
+Světové hodiny
+Upozornění
+Soustředění
+Mi AI
+Vymazat vše
+%02d:%02d dop.
+%02d:%02d odp.
+Včera, %02d:%02d
+%u.%u. %02d:%02d
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%02d:%02d dop.
+%02d:%02d odp.
+Včera, %02d:%02d
+%02d.%02d %02d:%02d
+Vymazat
+%02d:%02d dop.
+%02d:%02d odp.
+Včera, %02d:%02d
+%02d.%02d %02d:%02d
+Zavřít
+Zavřít
+Potáhněte nahoru pro odpověď
+Odesílání
+Odesláno
+Odeslání se nezdařilo
+Jsem na schůzi. Odpovím později.
+Nemohu teď mluvit. O co jde?
+Nemohu teď mluvit. Zavolejte mi později.
+Použít tento styl displeje?
+Smazat tento styl displeje？
+Synchronizuji
+Synchronizace se nezdařila
+Nerušit
+Vyp.
+Celý den
+Vlastní
+Povolte odpovídání na zprávy v aplikaci
+%02d:%02d-%02d:%02d
+Synchronizovat s telefonem
+Zap.
+Začátek
+dop.
+%02d
+%02d:%02d
+Začátek
+odp.
+Synchronizovat s telefonem
+Po zapnutí bude režim Nerušit na náramku upraven podle režimu na telefonu
+Režim Nerušit zap.
+Vibrace
+Výchozí
+Silné
+Vyp.
+Oznámení aplikace
+Probudit při novém oznámení
+Zap.
+Upozornit pouze při nasazení
+Zap.
+Upozornit pouze pokud je telefon uzamčen
+Zap.
+Probudit při novém oznámení
+Probudit displej při přijetí nového oznámení
+Upozornit pouze při nasazení
+Nepřijímat oznámení, pokud náramek není nasazen na zápěstí
+Upozornit pouze pokud je telefon uzamčen
+Více
+Ujistěte se, že jsou zapnuta oznámení v aplikaci >Oznámení aplikací.
+Nastavení
+Styly displeje náramku
+Displej
+Nastavení režimu Nerušit
+Vibrace
+Oznámení aplikace
+Autom. detekce
+PIN
+Baterie
+Předvolby
+Systém
+O náramku
+PIN
+Nastavit PIN
+Zadejte 6místný PIN
+%d
+%d
+PIN kódy se neshodují
+PIN nastaven
+PIN
+Vypnout PIN
+Změnit PIN
+Nový PIN
+%d
+PIN byl vypnut
+Nesprávný
+Zkuste to znovu za %d s
+Zkuste to znovu za %d s
+Zkuste to znovu za %d s
+Zkuste to znovu za %d s
+Zkuste to znovu za %d s
+Zkuste to znovu za %d s
+Zkuste to znovu za %d s
+Nápověda
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+Zkuste to znovu za %d min.
+ 
+PIN můžete resetovat v aplikaci v záložce Zařízení > PIN.
+ 
+PIN nemůže být po přidání bankovní karty vypnut.
+Autom. detekce
+Autom. detekce
+V režimu Nerušit nebudete přijímat upozornění na cvičení.
+Předvolby
+Způsob probuzení
+Stisknutí a přidržení
+Klepnutí
+Potažení nahoru
+Stisknutí a přidržení
+Po zapnutí stiskněte a přidržte "Upravit" pro úpravu stylu displeje náramku
+Baterie
+%d
+%
+Zbývající baterie
+zhruba %d den %d hod.
+Zbývající baterie
+zhruba %d dne %d hod.
+Zbývající baterie
+zhruba %d den %d hod.
+Zbývající baterie
+zhruba %d dne %d hod.
+Spořič baterie
+Optimalizace
+Využití
+Zbývající baterie
+přibližně %d den %d hod.
+Po zapnutí budou dostupné pouze funkce času, krokoměr a NFC. Pro vypnutí stiskněte a přidržte displej nebo náramek nabijte.
+Spořič baterie
+%d
+%02d:%02d
+dop.
+odp.
+%d
+Ukončování Spořiče baterie
+Více
+Výdrž baterie
+Přibližná výdrž baterie je uváděna pouze pro referenci. Skutečná výdrž baterie závisí na faktorech jako je doba, po kterou je displej vašeho zařízení zapnutý, délka vibrací nebo záznam cvičení.
+Optimalizace
+Optimalizace identifikuje funkce, které výrazně zatěžují baterii.
+Optimalizace
+Dobrá
+Nevyžadována optimalizace
+Optimalizace
+Špatná
+Následující funkce ovlivní výdrž baterie
+Aktivní displej
+Zvednutím probudit
+Skóre dýchání
+Celodenní sledování
+Nepravidelný tep
+Aktivní displej
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Vypnutí této funkce prodlouží výdrž baterie o %d hod.
+Způsob probuzení
+Přijímat upozornění na zahájení cvičení.
+Podporovaná cvičení zahrnují chůzi, běh, jízdu na kole, skákání přes švihadlo, veslování a eliptický trenažér.
+Displej
+Jas
+Autom. uzamknutí
+Zvednutím probudit
+Doba zapnutí displeje
+Aktivní displej
+Zakrytím uspat
+Autom.
+%d sekunda
+%d sekunda
+%d sekunda
+%d sekundy
+%d sekundy
+%d sekundy
+%d sekund
+Zap.
+Vyp.
+Zap.
+Vyp.
+Zap.
+Vyp.
+Vlastní
+Vlastní
+Autom.
+Vlastní
+Jas
+Autom.
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Autom. uzamknutí
+ 
+Zapnutí displeje po delší dobu sníží výdrž baterie. Pokračovat?
+Zvednutím probudit
+Vyp.
+Vlastní
+%02d:%02d-%02d:%02d
+ 
+"Aktivní displej" je zapnutý. Zapnutí "Zvednutím probudit" sníží výdrž baterie. Přesto zapnout?
+Doba zapnutí displeje
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Displej bude ponechán zapnutý po dobu %d min., což výrazně zvýší spotřebu baterie. Přesto pokračovat?
+Aktivní displej
+Vyp.
+Inteligentní
+Vlastní
+%02d:%02d-%02d:%02d
+    
+Zapnutí "Aktivního displeje" výrazně sníží výdrž baterie. "Zvednutím probudit" bude vypnuto. Pokračovat?
+Více
+Aktivní displej
+Čas bude zobrazen i po uzamknutí displeje.
+Inteligentní
+Aktivní displej bude vypnut, pokud si náramek sundáte nebo pokud usnete.
+Zakrytím uspat
+Začátek
+dop.
+odp.
+%02d:%02d
+%02d:%02d
+Komplikace
+Fitness
+Základní
+Mi Smart Hub
+Můj telefon
+Reproduktor
+Televize
+Sluchátka
+Potlačení hluku
+Transparentní
+Vyp.
+Zařízení
+Použít tento styl displeje?
+Sluchátka
+Smazat tento styl displeje?
+Režim
+Pro uložení změn potáhněte po displeji doprava.
+Potlačení hluku
+Transparentní
+Vyp.
+ 
+ 
+Ještě chvilku…
+Výstrahy počasí
+预警！
+Rozumím
+%02d:%02d dop.
+%02d:%02d odp.
+Připojte se pomocí Bluetooth a zapněte "Aktualizace počasí" v aplikaci.
+Pro příjem informací o počasí zapněte Bluetooth a udělte zařízení přístup k vaší poloze v aplikaci.
+Připojte se k Bluetooth a zkuste to znovu
+%02d:%02d
+Počasí
+Nerušit
+Režim Nerušit zap.
+Režim Nerušit vyp.
+Najít telefon
+Nastavení
+Žádná data
+Plachtění
+Paddleboarding
+Vodní pólo
+Ostatní vodní sporty
+Vodní lyžování
+Jízda na kajaku
+Rafting
+Veslování
+Motorový člun
+Ploutvové plavání
+Skoky do vody
+Synchronizované plavání
+Šnorchlování
+Kitesurfing
+Flowriding
+Dračí lodě
+Horolezectví
+Skateboarding
+Kolečkové brusle
+Parkour
+Čtyřkolky
+Paragliding
+BMX
+Jízda v hale
+Fitness schody
+Stepper
+Spinning
+Core trénink
+Flexibilita
+Pilates
+Gymnastika
+Strečink
+Silový trénink
+Kruhový trénink
+Běh do schodů
+Aerobik
+Fitness
+Squash
+Jednoruční činky
+Činky
+Vzpírání
+Mrtvý tah
+Angličáky
+Sedy-lehy
+Funkční trénink
+Horní část těla
+Dolní část těla
+Břišní svalstvo
+Záda
+Air walker
+Hrazda
+Bradla
+Stepper
+Skupinová gymnastika
+Bojové kardio
+Posilovací lano
+Kombinace aerobiku
+Posilovna
+Tančení v parku
+Břišní tance
+Balet
+Street dance
+Zumba
+Lidový tanec
+Jazzový tanec
+Latinskoamerické tance
+Hip Hop
+Pole dance
+Breakdance
+Společenský tanec
+Moderní tanec
+Tanec
+Box
+Zápas
+Bojová umění
+Tchaj-ťi
+Muaythai
+Judo
+Taekwondo
+Karate
+Kickbox
+Kendó
+Sportovní šerm
+Džiu-džitsu
+Fotbal
+Volejbal
+Baseball
+Softball
+Americký fotbal
+Hokej
+Stolní tenis
+Badminton
+Kriket
+Házená
+Bowling
+Wall ball
+Kulečník
+Košíček
+Plážový fotbal
+Plážový volejbal
+Sepak takraw
+Futsal
+Hakysák
+Bocce
+Pelota
+Gateball
+Vybíjená
+Bruslení
+Bruslení v hale
+Curling
+Ostatní zimní sporty
+Sněžný skútr
+Lední hokej
+Boby
+Sáňkování
+Lukostřelba
+Šipky
+Jízda na koni
+Přetahování lanem
+Hula hoop
+Pouštění draků
+Rybaření
+Létající talíř
+Košíček
+Houpání
+Somatosenzorické hry
+Stolní fotbal
+Šoupaná
+Esports
+Šachy
+Dáma
+Go (Wej-čchi)
+Bridž
+Stolní hry
+Jezdectví
+Atletika
+Automobilové sporty
+Plachtění
+Paddleboarding
+Vodní pólo
+Ostatní vodní sporty
+Vodní lyžování
+Jízda na kajaku
+Rafting
+Veslování
+Motorový člun
+Ploutvové plavání
+Skoky do vody
+Synchronizované plavání
+Šnorchlování
+Kitesurfing
+Flowriding
+Dračí lodě
+Horolezectví
+Skateboarding
+Kolečkové brusle
+Parkour
+Čtyřkolky
+Paragliding
+BMX
+Jízda v hale
+Fitness schody
+Stepper
+Spinning
+Core trénink
+Flexibilita
+Pilates
+Gymnastika
+Strečink
+Silový trénink
+Kruhový trénink
+Běh do schodů
+Aerobik
+Fitness
+Wall ball
+Jednoruční činky
+Činky
+Vzpírání
+Mrtvý tah
+Angličáky
+Sedy-lehy
+Funkční trénink
+Horní část těla
+Dolní část těla
+Břišní svalstvo
+Záda
+Air walker
+Hrazda
+Bradla
+Stepper
+Skupinová gymnastika
+Bojové kardio
+Posilovací lano
+Kombinace aerobiku
+Posilovna
+Tančení v parku
+Břišní tance
+Balet
+Street dance
+Zumba
+Lidový tanec
+Jazzový tanec
+Latinskoamerické tance
+Hip Hop
+Pole dance
+Breakdance
+Společenský tanec
+Moderní tanec
+Tanec
+Box
+Zápas
+Bojová umění
+Tchaj-ťi
+Muaythai
+Judo
+Taekwondo
+Karate
+Kickbox
+Kendó
+Sportovní šerm
+Džiu-džitsu
+Fotbal
+Volejbal
+Baseball
+Softball
+Americký fotbal
+Hokej
+Stolní tenis
+Badminton
+Kriket
+Házená
+Bowling
+Squash
+Kulečník
+Košíček
+Plážový fotbal
+Plážový volejbal
+Sepak takraw
+Futsal
+Hakysák
+Bocce
+Pelota
+Gateball
+Vybíjená
+Bruslení
+Bruslení v hale
+Curling
+Ostatní zimní sporty
+Sněžný skútr
+Lední hokej
+Boby
+Sáňkování
+Lukostřelba
+Šipky
+Jízda na koni
+Přetahování lanem
+Hula hoop
+Pouštění draků
+Rybaření
+Létající talíř
+Košíček
+Houpání
+Somatosenzorické hry
+Stolní fotbal
+Šoupaná
+Esports
+Šachy
+Dáma
+Go (Wej-čchi)
+Bridž
+Stolní hry
+Jezdectví
+Atletika
+Automobilové sporty
+Ještě chvilku…
+%02d:%02d
+Pozastavit
+Ukončit
+Uzamknout displej
+Přenos obrazu
+Přenos obrazu
+Hledání
+Xiaomi TV
+Připojování
+Zařízení nenalezeno
+Název televize
+Připojeno
+Odpojit
+Připojení se nezdařilo
+Opakovat
+%02d:%02d
+Synchr. Cvičení
+Nasaďte si náramek podle ilustrace níže a spusťte cvičení v aplikaci
+Zpět
+%02d:%02d
+Nastavení
+Běžecký režim
+Displej
+Nerušit
+Vibrace
+%02d:%02d
+Běžecký režim
+Kapsle
+Přívěsek
+Kapsle
+V režimu Kapsle můžete získat informace o vaší běžecké formě. Spusťte cvičení (běh nebo jízda na kole) v aplikaci.
+Oznámení aplikace a měření srdečního tepu bude vypnuto. Váš náramek nebude reagovat na nechtěný dotyk.
+Zapnout
+Zpět
+Spusťte cvičení v aplikaci
+Probíhá cvičení
+Zařízení je odpojeno
+Potáhněte nahoru pro ukončení
+Potáhněte nahoru pro ukončení
+Ukončit režim Kapsle?
+Údaje o běžecké formě nebudou po ukončení uloženy.
+Ukončit
+Zrušit
+Ukončit režim Přívěsek?
+Ukončit
+Zrušit
+Přívěsek
+V režimu Přívěsek zůstane displej zapnutý, avšak nebude reagovat na nechtěný dotyk.
+Oznámení aplikace a měření srdečního tepu bude vypnuto.
+Zapnout
+Zpět
+Zaznamenejte svůj cyklus v aplikaci
+%0.1f
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+Spánek
+Pro záznam údajů o spánku mějte náramek nasazen během spánku
+%u
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+Cíl: %u hod.
+Cíl: %u hod.
+Cíl: %u hod.
+Cíl: %u hod.
+Cíl: %u hod.
+Cíl: %u hod.
+Cíl: %u hod.
+Srdeční tep
+Změřte svůj srdeční tep
+Změřit
+%u
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+--
+Dýchání
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Start
+Dýchání
+SpO₂
+Hladina kyslíku v krvi
+u%
+%
+Míra stresu
+Zjistěte svou míru stresu
+u%
+Míra stresu
+%02d
+'
+"
+.
+:
+Ukládání…
+Kalibrace
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Příliš krátký čas pro uložení záznamu. Ukončit?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Slabá baterie. Nabijte zařízení a zkuste to znovu.
+Aktualizujte náramek pomocí aplikace
+Aktualizace se nezdařila
+Aktualizování
+Aktualizace dokončena. Restartování.
+Příprava aktualizace
+Příjem aktualizace
+Aktualizace se nezdařila. Zkuste to znovu v aplikaci.
+Aktualizace přijata. Restartování.
+Náramek bude aktualizován během noci nebo během nabíjení.
+Používáte nejnovější verzi.
+Připomenutí aktualizace
+Smazat
+
+%d
+
+%%
+Pro spárování si stáhněte aplikaci
+%d
+Potvrďte na telefonu
+Potvrďte na telefonu
+Párování
+Spárování se nezdařilo. Zkuste to znovu.
+Spárováno
+-
+-
+-
+-
+Odpočinek
+min:s
+Série
+Upozornění v určitých vzdálenostních intervalech
+%d délka
+%d tempo
+%d přeskok
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+Rozumím
+%d
+Cíl
+%02d:%02d:%02d
+Dokončeno
+Cíl
+%d
+kcal
+Dokončeno
+Cíl
+délka
+délka
+délka
+délky
+délky
+délky
+délek
+Dokončeno
+Cíl
+přeskok
+přeskok
+přeskok
+přeskoky
+přeskoky
+přeskoku
+přeskoků
+Dokončeno
+Cíl
+tempo
+tempo
+tempo
+tempa
+tempa
+tempa
+temp
+Dokončeno
+Více záznamů v aplikaci
+O náramku
+Název
+Xiaomi Smart Band 8
+Model
+Adresa MAC
+Dohled
+Dohled
+CMIIT ID
+Model
+Vstup
+Systém
+Restartovat
+Vypnout
+Resetovat
+Restartovat nyní?
+Vypnout nyní?
+%02d:%02d
+Po obnovení do továrního režimu budete muset náramek spárovat znovu. Pokračovat?
+Zařízení není nasazeno
+Měření se nezdařilo
+Výsledek
+Více
+SpO₂
+Výsledek
+Zařízení není nasazeno
+Měření se nezdařilo
+%02d:%02d
+Dobrou noc
+Režim Nerušit zapnutý. Zvednutím probudit vypnuto.
+Znovu nezobrazovat
+%02d:%02d
+Dobré ráno
+Zrušit
+Odložit
+%02d:%02d
+Spánek
+%d hod.%d min.
+%d hod.%d min.
+%d hod.%d min.
+%d hod.%d min.
+%d°/%d°
+Rozumím
+%02d:%02d
+Spánek
+Rozumím
+%02d:%02d
+%d°/%d°
+Rozumím
+Venkovní cvičení
+Nasaďte si náramek podle ilustrace níže a spusťte cvičení v aplikaci
+Zpět
+Nastavení
+Běžecký režim
+Displej
+Nerušit
+Vibrace
+Běžecký režim
+Kapsle
+Režim spánku bude vypnut
+v %02d:%02d
+Přívěsek
+Kapsle
+V režimu Kapsle můžete získat informace o vaší běžecké formě. Spusťte cvičení (běh nebo jízda na kole) v aplikaci.
+Oznámení aplikace a měření srdečního tepu bude vypnuto. Váš náramek nebude reagovat na nechtěný dotyk.
+Zapnout
+Zpět
+Spusťte cvičení v aplikaci
+Probíhá cvičení
+Zařízení je odpojeno
+Ukončit režim Kapsle?
+Údaje o běžecké formě nebudou po ukončení uloženy.
+Ukončit
+Zrušit
+Kapsle
+Potáhněte nahoru pro ukončení
+Přívěsek
+Potáhněte nahoru pro ukončení
+Přívěsek
+V režimu Přívěsek zůstane displej zapnutý, avšak nebude reagovat na nechtěný dotyk.
+Oznámení aplikace a měření srdečního tepu bude vypnuto.
+Zapnout
+Zpět
+Ukončit režim Přívěsek?
+Ukončit
+Zrušit
+Zapnutí této funkce zvýší spotřebu baterie. Přesto pokračovat?
+Zvuk je zapnutý
+Ještě chvilku…
+Zvuk je vypnutý
+Zvuk je vypnutý
+Ještě chvilku
+Zvuk je zapnutý
+Odpojeno
+Vypnout
+Zapnout
+Připojte se k Bluetooth a zkuste to znovu
+Povolit náramku odemknout váš telefon?
+Hotovo!
+Ověření se nezdařilo
+ 
+%d
+Časovač
+Časovač
+%d
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+Nastavit hod.
+%d
+%02d
+Nastavit min.
+%02d:%02d
+%02d:%02d:%02d
+Čas vypršel
+Před %02d:%02d
+Před %02d:%02d:%02d
+AQI %d %s
+Spárování se nezdařilo
+Přidejte zařízení znovu
+O náramku
+Dohled
+Resetovat
+Restartovat
+%02d:%02d
+O náramku
+Název
+Xiaomi Smart Band 8
+Model
+Adresa MAC
+%02d:%02d
+Dohled
+CMIIT ID
+Vstup
+Restartovat nyní?
+Vypnout nyní?
+Po obnovení do továrního režimu budete muset náramek spárovat znovu. Pokračovat?
+Baterie má méně než %d
+--
+%02d:%02d
+Vitalita
+%d
+Posledních 7 dní
+7 dní
+%d
+Posledních 7 dní
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+Dnes
+%d
+Dnes
+%d
+Nízká
+Vyšší
+Intenzivní
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
++%d
+Nastavení
+Více
+Nastavení
+Nepřetržité měření
+Skóre Vitality je vypočítáno pomocí údajů o vašem srdeční tepu. Pro přesnější výsledky povolte vašemu náramku častější měření vašeho tepu.
+Více
+Pomocí skóre Vitality můžete změřit vliv tréninku na vaše zdraví a fitness. Pro dosažení nejlepšího výsledku se pokuste získat skóre 100 během 7 dní.
+Skóre Vitality vychází z doporučení směrnic WHO o fyzické aktivitě a sedavém chování.
+Dospělí by se měli týdně věnovat 150-300 min. aerobní aktivity střední intenzity nebo 75-150 min. aerobní aktivity vysoké intenzity, případně jejich kombinaci.
+Jakákoli aktivita, včetně aktivit s nízkou zátěží, je pro vaše zdraví lepší než dlouhé sezení.
+%d
+Posledních 7 dní
+%d
+Dnes
+Posledních 7 dní
+%d
+Rozpohybujte své tělo a srdce!
+Rozumím
+Dnes nezobrazovat
+Skvělá práce. Jen tak dál!
+Už jste skoro v cíli. Jen tak dál!
+Pro dnešní den jste již získali max. skóre Vitality. Odpočiňte si!
+Uzamknout displej
+Po probuzení displeje potáhněte nahoru pro odemknutí.
+%u
+7denní KST
+%02u/%02u
+Model
+Dnes
+Dnes
+Utáhněte řemínek a zkuste to znovu
+Spárovat s telefonem?
+Náramek bude aktualizován během noci nebo během nabíjení
+Používáte nejnovější verzi
+Rozumím
+Aktualizace se nezdařila. Připojte se k aplikaci a zkuste to znovu.
+Otevřít v telefonu
+OK
+Odpovědět
+Odesílání
+Odesláno
+Odeslání se nezdařilo
+Odpojeno
+Připojte se k Bluetooth a zkuste to znovu
+Příliš krátký čas pro uložení. Ukončit?
+Pokračovat
+Ukončit
+Záznamy cvičení zobrazíte v aplikaci
+Hotovo
+%02d:%02d
+%02d
+Tempo
+kcal
+Rychlost (km/h)
+Rychlost (mph)
+Aktuální vzdálenost
+Aktuální čas
+Aktuální kcal
+Aktuální délky
+Aktuální přeskoky
+Aktuální tempa
+Cíl
+Cíl
+Cíl
+Cíl
+Cíl
+Cíl
+Dokončení cíle
+%02d:%02d
+%d.%d
+Prům. rychlost (km/h)
+Prům. rychlost (mph)
+Frekvence (počet/min.)
+Aktuální přeskoky
+Tato série
+Přeskoků v sérii
+Celkem
+Aktivní kcal
+Tato série
+Kalorie
+%d.%d
+Prům. rychlost (km/h)
+Prům. rychlost (mph)
+Vysoký ST
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+Max. ST
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+%d tepů/min.
+Mi Smart Hub
+Fotoaparát
+Ztišit telefon
+Vitalita
+Režim Nerušit %d hod.
+Režim Nerušit %d hod.
+Režim Nerušit %d hod.
+Režim Nerušit %d hod.
+Režim Nerušit %d hod.
+Režim Nerušit %d hod.
+Režim Nerušit %d hod.
+Vyp.
+Odpojeno
+:
+%02d:%02d - další den %02d:%02d
+Režim Nerušit vyp.
+Při využívání telefonu neobdržíte upozornění na vašem náramku.
+Vyp.
+Vyp.
+Vyp.
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Statistiky
+Srdeční tep
+SpO₂
+Cvičení
+Připojte nabíječku správně
+-
+Cvičení
+Statistiky
+Kroky
+Kalorie
+V pohybu
+Srdeční tep
+SpO₂
+Míra stresu
+Baterie
+Datum
+Počasí
+UV index
+AQI
+Vlhkost
+Karty
+Budík
+Stopky
+Fotoaparát
+Nástroje
+Počasí
+délka
+délka
+délka
+délky
+délky
+délky
+délek
+--'--"
+Verze
+Sériové číslo
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Napijte se
+%02d:%02d:%02d
+Pokračovat
+Zvednutím probudit
+Skóre dýchání
+Celodenní sledování
+Upozornění na nepravidelný tep
+%d
+Cíl: %d kcal
+Cíl: %d kcal
+Cíl: %d kcal
+Cíl: %d kcal
+Cíl: %d kcal
+Cíl: %d kcal
+Cíl: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Cíl: %d délka
+Cíl: %d délka
+Cíl: %d délka
+Cíl: %d délky
+Cíl: %d délky
+Cíl: %d délky
+Cíl: %d délek
+délka
+délka
+délka
+délky
+délky
+délky
+délek
+Cíl: %d tempo
+Cíl: %d tempo
+Cíl: %d tempo
+Cíl: %d tempa
+Cíl: %d tempa
+Cíl: %d tempa
+Cíl: %d temp
+tempo
+tempo
+tempo
+tempa
+tempa
+tempa
+temp
+Cíl: %d přeskok
+Cíl: %d přeskok
+Cíl: %d přeskok
+Cíl: %d přeskoky
+Cíl: %d přeskoky
+Cíl: %d přeskoku
+Cíl: %d přeskoků
+přeskok
+přeskok
+přeskok
+přeskoky
+přeskoky
+přeskoku
+přeskoků
+%d.%d
+Cíl: %d,%d km
+Cíl: %d,%d km
+Cíl: %d min.
+Cíl: %d min.
+Cíl: %d hod. %d min.
+Cíl: %d hod. %d min.
+Cíl: %d hod. %d min.
+Cíl: %d hod. %d min.
+Potvrďte PIN
+Zadejte PIN
+Nesprávný
+Odpojeno
+%d
+%
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+%d
+krok
+krok
+krok
+kroky
+kroky
+kroku
+kroků
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min.
+min.
+min.
+min.
+min.
+min.
+min.
+%d
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+Vzdálenostní rekord
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+délka
+délka
+délka
+délky
+délky
+délky
+délek
+přeskok
+přeskok
+přeskok
+přeskoky
+přeskoky
+přeskoku
+přeskoků
+tempo
+tempo
+tempo
+tempa
+tempa
+tempa
+temp
+km
+Časový rekord
+Pozastaveno
+Příliš krátká vzdálenost pro uložení. Ukončit?
+--'--"
+Běh
+Právě teď
+Právě teď
+Právě teď
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+Před %02d min.
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Prsa
+Volný styl
+Znak
+Motýlek
+Kombinovaný
+Upozornění
+Vyhledávání zařízení…
+Zastavit
+Oblačno
+Zataženo
+Přeháňky
+Bouřka
+Krupobití
+Déšť se sněhem
+Slabý déšť
+Mírný déšť
+Silný déšť
+Bouřka s deštěm
+Průtrž
+Přívalový déšť
+Sněhové přeháňky
+Slabé sněžení
+Mírné sněžení
+Silné sněžení
+Vánice
+Mlha
+Mrznoucí déšť
+Písečná bouře
+Slabý až mírný déšť
+Mírný až silný déšť
+Silný déšť až bouřky
+Bouřky až přívalový déšť
+Přívalový déšť až silné bouřky
+Slabé až mírné sněžení
+Mírné až silné sněžení
+Silné sněžení až vánice
+Prašno
+Větrno
+Silná písečná bouře
+Mlha
+Hustá mlha
+Opar
+Mírný opar
+Těžký opar
+Velmi těžký opar
+Hustá mlha
+Velmi hustá mlha
+Žádné
+Déšť
+Sníh
+Zap. na %d hod.
+Zap. na %d hod.
+Zap. na %d hod.
+Zap. na %d hod.
+Zap. na %d hod.
+Zap. na %d hod.
+Zap. na %d hod.
+--'--"
+Ještě chvilku
+Nepřehrává se
+Odpojeno
+Nepatrný
+Zotavení
+Zlepšující
+Výrazně zlepšující
+Přehnaný
+Jakmile začnete plavat, displej bude uzamknut. Pro odemknutí potáhněte nahoru a dolů.
+Žádná data
+Ještě chvilku…
+--°
+%d°
+-
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+hod.
+Zotavení
+Aktualizováno: %02d:%02d
+Stání
+Jasno
+Žádná oznámení
+Stopky
+Časovač
+Svítilna
+Základní běh/chůze
+Pokročilý běh/chůze
+Základní jogging
+Spalování tuků (Základní)
+Spalování tuků (Pokročilý)
+MIIT
+Vytrvalostní běh (Základní)
+Vytrvalostní běh (Pokročilý)
+Intervalový běh (Základní)
+Intervalový běh (Pokročilý)
+Základní běh/chůze
+Pokročilý běh/chůze
+Základní jogging
+Spalování tuků (Základní)
+Spalování tuků (Pokročilý)
+MIIT
+Vytrvalostní běh (Základní)
+Vytrvalostní běh (Pokročilý)
+Intervalový běh (Základní)
+Intervalový běh (Pokročilý)
+Rychlá chůze
+Jogging
+Běh
+Sprint
+%d:%02d
+%d
+Zbývá
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+tepů/min.
+%d/%d
+Cvičení
+Čas
+Aktuální ST
+Kurz dokončen. Pokračovat ve cvičení?
+Pokračovat za %d s
+Pokračovat za %d s
+Volný styl
+Dokončeno!
+(Žádný název)
+%02u:%02u dop.–
+%02u:%02u odp.–
+%02u:%02u dop.
+%02u:%02u odp.
+%u.%u.%u
+%u.%u.
+%02u:%02u
+Dnes
+Zítra
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d hod.
+Za %d den
+Za %d den
+Za %d den
+Za %d dny
+Za %d dny
+Za %d den
+Za %d dní
+Za %d den
+Za %d den
+Za %d den
+Za %d dny
+Za %d dny
+Za %d den
+Za %d dní
+Nyní
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Za %d min.
+Zpožděné
+--
+Hotovo!
+Ověření se nezdařilo
+Délek v sérii
+Zbývá
+%ld . %ld
+km
+m
+%02d : %02d
+Celodenní měření míry stresu
+Rozšířené měření spánku
+Celodenní měření míry stresu
+Rozšířené měření spánku
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+%d min.
+Doba zapnutí displeje
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Displej zůstane pokaždé zapnut na %d min. Zapnutí ovlivní výdrž baterie. Přesto zapnout?
+Inteligentní
+Vlastní
+Počasí
+Upozornění
+预警。
+%02d:%02d dop.
+%02d:%02d odp.
+Potáhněte nahoru pro odemknutí
+Velmi vysoká
+AQI %d
+%s
+Doba zapnutí displeje
+Aljaška
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Mexico City
+Winnipeg
+Guatemala
+San Salvador
+Tegucigalpa
+Managua
+Havana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Povolit náramku odemknout váš telefon?
+Buenos Aires
+Montevideo
+Brasília
+Praia
+Reykjavík
+Lisabon
+Casablanca
+Dublin
+Madrid
+Lagos
+Alžír
+Brusel
+Ženeva
+Frankfurt nad Mohanem
+Oslo
+Kodaň
+Řím
+Berlín
+Praha
+Záhřeb
+Vídeň
+Stockholm
+Budapešť
+Varšava
+Windhoek
+Sofie
+Tallinn
+Helsinky
+Bukurešť
+Kyjev
+Harare
+Jeruzalém
+Bejrút
+Kaliningrad
+Ammán
+Chartúm
+Minsk
+Istanbul
+Ankara
+Petrohrad
+Nairobi
+Addis Abeba
+Bagdád
+Aden
+Rijád
+Antananarivo
+Kuvajt
+Abú Dhabí
+Maskat
+Samara
+Kábul
+Karáčí
+Bombaj
+Káthmándú
+Dháka
+Almaty
+Novosibirsk
+Phnompenh
+Hanoj
+Jakarta
+Kuala Lumpur
+Tchaj-wan, Čína
+Tchaj-wan
+Perth
+Irkutsk
+Manila
+Pchjongjang
+Tokio
+Čita
+Darwin
+Vladivostok
+Brisbane
+Adelaide
+Magadan
+Kamčatka
+Suva
+Auckland
+Kiritimati
+Washington, D. C.
+San Francisco
+Žádné položky
+Dnes
+--
+OK
+m pozadu
+m napřed
+Měření
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+%d oznámení
+Zvuk není přehráván
+Amsterdam
+Slabá baterie
+Slabá baterie %d %%. Nabijte náramek.
+Zkratky
+Příliš krátký čas pro uložení záznamu.
+Světové hodiny
+Cíl: %d m
+Cíl: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Spánek
+Zotavení
+Vitalita
+Weixin Pay
+Alipay
+Včera, %02d:%02d dop.
+Včera, %02d:%02d odp.
+%02d.%02d. %02d:%02d dop.
+%02d.%02d. %02d:%02d odp.
+Při nasazení náramku během spánku, bude zařízení automaticky zaznamenávat údaje o vašem spánku. Zařízení zobrazí pouze 3 poslední záznamy spánku. Podrobnější informace naleznete v aplikaci.
+Pro přesnější informace o spánku, jako např. rozpoznání REM fáze, zapněte "Rozšířené měření" v Nastavení.
+Pokud spíte déle než 3 hodiny, zařízení zaznamená váš průměrný srdeční tep, úroveň SpO₂ a skóre spánku. Při spánku kratším než 3 hodiny bude zaznamenán pouze čas usnutí a probuzení. Zdřímnutí kratší než 20 minut nebudou zaznamenána.
+Špatná kvalita spánku a nadměrný pohyb během spánku mohou způsobit nepřesné měření srdečního tepu a SpO₂.
+...
+Průměrná
+Špatná
+%02d:%02d:%02d.%02d
+Pro odemknutí zadejte PIN
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth je odpojeno. Pro synchronizaci dat se připojte.
+Za %u den
+Za %u den
+Za %u den
+Za %u dny
+Za %u dny
+Za %u dne
+Za %u dní
+Výborná
+Neznámé
+Neznámé
+Žádné informace
+Začátek
+Konec
+%.2F
+Odpojeno
+Připojte se pomocí Bluetooth a zkuste to znovu
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Více
+.
+-
+Název produktu
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Cílový ST:
+Cíl:
+Žádné události
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u tepů/min.
+%u Vysoká
+%u Vysoká
+%u Vysoká
+%u%%
+--°
+--
+AQI --
+Pro získání informací o počasí se připojte k aplikaci
+.
+Srdeční tep
+Série
+Série
+Série
+Série
+Série
+Čas
+Čas
+Čas
+Čas
+Čas
+Kroky
+Tempa
+Přeskoky
+Délek
+Sjezdy
+Xiaomi Smart Band 8 NFC
+/
+-
+Nyní můžete upravit styl displeje. Klepněte pro potvrzení.
+Pro uložení změn potáhněte po displeji doprava.
+Změna jazyka
+Po zapnutí Spořiče baterie budou dostupné pouze hodiny a krokoměr. Pro vypnutí Spořiče baterie stiskněte a přidržte displej nebo zařízení nabijte.
+Zařízení se přehřívá. Vypínání.
+Vypnutí této funkce prodlouží výdrž baterie až o %d den %d hod.
+Vypnutí této funkce prodlouží výdrž baterie až o %d dne %d hod.
+Vypnutí této funkce prodlouží výdrž baterie až o %d den %d hod.
+Vypnutí této funkce prodlouží výdrž baterie až o %d dne %d hod.
+Tréninková zátěž
+Zotavení (hod.)
+Vitalita
++%u
+Úpravu widgetů můžete provést v aplikaci v záložce Zařízení > Widgety.
+Budík
+Udělte oprávnění režimu Nerušit v aplikaci
+OK
+Aktualizováno před %d min.
+Aktualizováno před %d min.
+%d°/%d°
+Platnost údajů vypršela
+Aktualizováno: %02d:%02d
+Aktualizováno včera v %02d:%02d
+Události
+Právě teď
+Platnost měření vypršela. Ujistěte se, že je váš náramek dostatečně utažen.
+,
+%ld,%ld
+%d
+km/h
+Aktuální ST
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Konec
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Tímto směrem k prstům
+K zaznamenávání trasy je nutné oprávnění pro přístup k poloze.
+Udělte aplikaci Mi Fitness v Nastavení vašeho telefonu toto oprávnění a vyberte „Vždy povolit“.
+%02d:%02d:%02d
+Pro zajištění přesného měření srdečního tepu noste náramek tak, aby dobře přiléhal k ruce a byl vzdálený zhruba na šířku prstu od výstupků předloketních kostí. Pokud při cvičení sklouzne, hned jej upravte.
+Tato aktivita bude zaznamenávat údaje o házení létajícího talíře pouze pro jednu ruku. Noste zařízení na ruce, se kterou budete házet.
+Tipy
+Hody
+Hod
+Hod
+Hod
+Hody
+Hody
+Hodu
+Hodů
+Síla hodu
+Nízký
+Vyšší
+Vysoká
+%d hod
+%d hod
+%d hod
+%d hody
+%d hody
+%d hodu
+%d hodů
+Nastavení režimu Nerušit
+Režim spánku
+Režim Nerušit se automaticky zapne, když zařízení zjistí, že spíte.
+Režim spánku
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+%d hod.
+Celý den
+Vlastní
+Nastavení

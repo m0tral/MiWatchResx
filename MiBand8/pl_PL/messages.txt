@@ -1,0 +1,4324 @@
+Znajdź telefon
+Twój telefon zadzwoni
+Szukaj
+Zatrzymaj
+Zakończono
+Szukaj ponownie
+Rozłączono
+Połącz przez Bluetooth i spróbuj ponownie
+Otwórz Aparat w telefonie
+OK
+Paruj z aparatem w aplikacji
+OK
+Rozłączono
+Połącz przez Bluetooth i spróbuj ponownie
+%d sek.
+%d sek.
+%d sek.
+%d sek.
+%d sek.
+%d sek.
+%d sek.
+Teraz
+Alarm
+Brak alarmów
+AM
+PM
+%02d:%02d
+Raz
+Codziennie
+Dni robocze
+Wakacje
+ 
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+Dodaj do 10 alarmów
+Czas
+AM
+PM
+%02d
+%02d
+:
+Inteligentna pobudka
+Pozwól opasce wybrać moment w ciągu 10 minut przed alarmem, aby Cię obudzić
+Powtarzaj
+Raz
+Codziennie
+Dni robocze
+Wakacje
+Własne
+Własne
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+Odłóż
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Wył.
+Odłóż na 10 min
+Czas
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Powtarzaj
+Raz
+Codziennie
+Dni robocze
+Wakacje
+ 
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+Inteligentna pobudka
+Wł.
+Wył.
+%d%%
+%02d:%02d
+Bateria poniżej %d%%
+Poziom baterii: poniżej %d%%. Włączyć Oszczędzanie baterii?
+Oszczędzanie baterii
+Pozostały czas pracy baterii
+około %d dzień %d godz.
+Gdy Oszczędzanie baterii jest włączone, dostępne będą tylko zegar, liczba kroków i NFC. Naciśnij i przytrzymaj ekran lub ładuj, aby wyłączyć.
+Opaska jest zbyt gorąca, aby ją naładować. Nie zakładaj jej w tej chwili.
+Opaska jest za zimna, aby ją naładować. Nie zakładaj jej w tej chwili.
+%02d:%02d
+Stoper
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Nie dodano lokalizacji
+%02d:%02d
+Wellington
+Sydney
+Tokio
+Seul
+Pekin
+Hong Kong
+Singapur
+Bangkok
+Nowe Delhi
+Islamabad
+Dubaj
+Moskwa
+Kair
+Kapsztad
+Paryż
+Londyn
+Nowy Jork
+Chicago
+Los Angeles
+Honolulu
+Ateny
+Teheran
+Rangun
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Seul
+Pekin
+Hong Kong
+Singapur
+Bangkok
+Nowe Delhi
+Islamabad
+Dubaj
+Moskwa
+Kair
+Kapsztad
+Paryż
+Londyn
+Nowy Jork
+Chicago
+Los Angeles
+Honolulu
+Ateny
+Teheran
+Rangun
+Rio de Janeiro
+Wellington
+Sydney
+Tokio
+Seul
+Pekin
+Hong Kong
+Singapur
+Bangkok
+Nowe Delhi
+Islamabad
+Dubaj
+Moskwa
+Kair
+Kapsztad
+Paryż
+Londyn
+Nowy Jork
+Chicago
+Los Angeles
+Honolulu
+Ateny
+Teheran
+Rangun
+Rio de Janeiro
+Dane dotyczące czasu letniego są nieaktualne. Połącz się z aplikacją, aby zaktualizować.
+%02d:%02d
++%d godz.
++%.1f godz.
++%d godz.
++%d godz.
++%d godz.
++%d godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%d godz.
++%d godz.
+-%d godz.
+-%.1f godz.
+-%d godz.
+-%d godz.
+-%d godz.
+-%d godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%d godz.
+-%d godz.
+%u.%u
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%.1f godz.
+-%d godz.
+-%d godz.
+-%d godz.
+-%d godz.
+-%d godz.
+-%d godz.
+-%d godz.
++%d godz.
++%.1f godz.
++%d godz.
++%d godz.
++%d godz.
++%d godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%.1f godz.
++%d godz.
++%d godz.
+Dodaj lokalizację
+Dodaj więcej lokalizacji w aplikacji
+Dodaj do
+20 lokalizacji
+%02d:%02d
+Skupienie
+Odpoczynek
+min
+min
+min
+min
+min
+min
+min
+Odpoczynek
+%02d:%02d
+Ustaw czas trwania
+Odpoczynek
+Wstrzymano
+Czas odpoczynku
+Dzisiaj
+%02d:%02d:%02d
+Skupienie
+Skupienie
+Skupienie
+
+Tryb Nie przeszkadzać jest włączony podczas tej sesji
+Skup się
+Dowiedz się więcej
+Skupienie
+Skupienie pomaga skoncentrować się przez krótki czas, aby pracować wydajniej.
+
+Sesja skupienia trwa zwykle 25 minut. Po rozpoczęciu, skoncentruj się całkowicie na swoim zadaniu, aż urządzenie zacznie wibrować. W tym momencie możesz odpocząć przez 5 minut.
+
+ Zalecamy zrobienie 15-20 minut przerwy po każdych 4 sesjach.
+Czas, aby się skoncentrować
+Chwileczkę
+Nie odtwarza się
+Rozłączono
+Brakujące uprawnienia
+Włącz powiadomienia w aplikacji
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Pig)
+ 
+ 
+ 
+ 
+ 
+%d.%d
+Tydzień %d
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+Włącz Wydarzenia w aplikacji
+Brak wydarzeń
+Pon.
+%02d.%02d
+Wt.
+%02d.%02d
+Śr.
+%02d.%02d
+Czw.
+%02d.%02d
+Pt.
+%02d.%02d
+Sob.
+%02d.%02d
+Niedz.
+%02d.%02d
+Cały dzień
+%02d:%02d-%02d:%02d
+Odłóż
+Odrzuć
+Odłożono
+na 10 min
+Włącz
+Brak wydarzeń
+Dodaj w aplikacji
+Dzisiaj
+Nadchodzące
+%02d:%02d AM
+%02d:%02d PM
+Pon. %d.%d
+Wt. %d.%d
+Śr. %d.%d
+Czw. %d.%d
+Pt. %d.%d
+Sob. %d.%d
+Niedz. %d.%d
+Odłóż
+Odrzuć
+%02d:%02d AM
+%02d:%02d PM
+Wydarzenie
+Odłożono
+na 10 min
+Szczegóły
+Wyszukiwanie urządzenia…
+Zatrzymaj
+Słuchanie
+Rozpocznij mówiąc
+Skonfiguruj Mi SI w aplikacji
+Sprawdź swoje 
+połączenie sieciowe 
+i spróbuj ponownie później
+Rozłączono.
+ Połącz za pomocą Bluetooth.
+Band is uploading
+ data. Can't use Mi AI
+ right now.
+Ta funkcja nie jest jeszcze obsługiwana
+Przepraszam, czy możesz powtórzyć?
+Couldn't wake Mi AI. Try again.
+Poniedziałek
+Wtorek
+Środa
+Czwartek
+Piątek
+Sobota
+Niedziela
+Dotknij, aby wybudzić Mi SI
+Ask Mi AI on your phone
+Obecnie Mi SI jest dostępne tylko w Chinach kontynentalnych.
+Bardzo dobrze
+Dobrze
+Umiarkowanie
+Niezdrowo
+Źle
+Niebezpiecznie
+Bardzo dobrze
+Dobrze
+Umiarkowanie
+Niezdrowo
+Źle
+Niebezpiecznie
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Jutro
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+AQI %d
+Wschód
+Zachód
+%02d:%02d
+Wiatr
+%d
+Wilgotność
+%d%%
+UV
+%lu
+%d°/%d°
+Zmień lokalizację
+Ustaw lokalizację w ustawieniach
+pogodowych aplikacji
+%d
+℃
+℉
+Karty
+Dodaj karty w aplikacji
+Chwileczkę
+     
+Stan środków
+Trzymaj blisko czytnika
+Chwileczkę
+Nie udało się aktywować.
+Spróbuj ponownie.
+Pomyślnie zapłacono
+-%.2F
+Saldo
+-%.2F
+Niski stan środków. Doładuj.
+Oddychanie
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Rozpocznij
+Zrelaksuj się
+Skup się na oddychaniu
+Zaczynajmy
+Śledź bańkę
+Wdech
+Wydech
+Dobra robota
+Sesja: %d min
+Sesja: %d min
+Sesja: %d min
+Sesja: %d min
+Sesja: %d min
+Sesja: %d min
+Sesja: %d min
+%2d:%2d
+Wyniki
+Bieżące tętno
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Tętno początkowe
+Sesja
+min
+min
+min
+min
+min
+min
+min
+Gotowe
+Czas trwania
+min
+min
+min
+min
+min
+min
+min
+%d
+%d
+%d oddech
+%d oddech
+%d oddech
+%d oddechy
+%d oddechy
+%d oddechów
+%d oddechu
+%02u:%02u
+Tętno
+Mierzenie
+Nie ruszaj się
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Przed chwilą
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%02u:%02u
+Spróbuj ponownie
+Zmierz
+Niezałożony
+Brak danych
+Urządzenie nie jest założone
+OK
+%u
+%u
+Wskazówki
+1. Noś opaskę powyżej kości nadgarstka
+2. Trzymaj opaskę dobrze dopasowaną i nieruchomą
+3. Dokładność pomiaru może zależeć od sposobu noszenia opaski, zmian na skórze i w otoczeniu itp.
+*Ta funkcja nie jest przeznaczona do celów medycznych ani do diagnozowania, leczenia lub zapobiegania jakiejkolwiek chorobie.
+Wysokie tętno
+Wysokie tętno
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Dowiedz się więcej
+Twoja opaska poinformuje Cię, gdy tętno przekroczy ustawiony poziom, gdy odpoczywasz. Normalnym jest, że tętno przyspiesza w odpowiedzi na stres, spożycie kofeiny lub przeziębienie. Jednak osoby doświadczające zawrotów głowy, duszności lub kołatania serca powinny zasięgnąć porady lekarza. Pamiętaj, że dane o wysokim tętnie nie są przeznaczone do celów medycznych ani nie są przeznaczone do diagnozowania, leczenia lub zapobiegania jakiejkolwiek chorobie. Opaska wyświetla wyłącznie 3 najnowsze zapisy o wysokim tętnie. Więcej informacji znajdziesz w aplikacji.
+Niskie tętno
+Niskie tętno
+Dowiedz się więcej
+Twoja opaska poinformuje Cię, gdy tętno zejdzie poniżej ustawionego poziomu. Taki spadek tętna jest normalnym zjawiskiem podczas snu lub gdy dana osoba jest fizycznie aktywna. Osoby doświadczające zawrotów głowy, duszności lub kołatania serca powinny zasięgnąć porady lekarskiej. Należy pamiętać, że dane dotyczące niskiego tętna nie są przeznaczone do celów medycznych ani do diagnozowania, leczenia lub zapobiegania jakiejkolwiek chorobie. Opaska wyświetla tylko 3 najnowsze zapisy. Więcej informacji znajdziesz w aplikacji.
+Zaburzenia tętna
+Zaburzenia
+%02u:%02u-%02u:%02u
+Zobacz szczegóły w aplikacji
+Dowiedz się więcej
+Opaska zmierzy puls i zarejestruje nieprawidłowości, gdy odpoczywasz. W przypadku złego samopoczucia zasięgnij porady lekarza.
+Strefa tętna
+%u godz. %u min
+%u godz. %u min
+%u godz. %u min
+%u godz. %u min
+%u godz.
+%u godz.
+%u godz.
+%u godz.
+%u godz.
+%u godz.
+%u godz.
+%1u godz.
+%1u godz.
+%1u godz.
+%1u godz.
+%1u godz.
+%1u godz.
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%2u min
+%2u min
+%2u min
+%2u min
+%2u min
+%2u min
+VO₂ max
+Anaerobowa
+Aerobowa
+Intensywna
+Regeneracyjna
+Dowiedz się więcej
+Regeneracyjna
+50-60% tętna maksymalnego jest odpowiednie dla rozgrzewek przed bieganiem i schłodzeń po nim.
+Intensywna
+Okno w przedziale 61%-70% jest idealne do spalania tłuszczu.
+Aerobowa
+W przedziale 71%-80% zostają wzmocnione funkcje krążeniowo-oddechowe.
+Anaerobowa
+Po osiągnięciu okna w przedziale 81%-90% poprawia się tolerancja kwasu mlekowego.
+VO₂ max
+Ćwiczenia wykonywane w przedziale 91%-100% maksymalnego tętna są odpowiednie tylko dla doświadczonych sportowców.
+Ustawienia
+Tętno
+Ciągłe monitorowanie
+Wył.
+Auto
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+Ciągłe monitorowanie
+Monitoruj swoje tętno przez całą dobę.
+Wył.
+Auto
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+Zaburzenia tętna
+Wł.
+Zaburzenia tętna
+Ta funkcja monitoruje tętno w czasie rzeczywistym i zapisuje wszystkie jego zaburzenia.
+ 
+Włączenie tej funkcji znacznie skróci żywotność baterii. Włączyć mimo to?
+Wysokie tętno
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Wysokie tętno
+Wybierz tętno, powyżej którego będziesz otrzymywać alert
+Wył.
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+Wysokie tętno
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe przekraczało %u BPM.
+Odwołaj
+Odwołaj na dziś
+Niskie tętno
+Niskie tętno
+Wybierz tętno, poniżej którego będziesz otrzymywać alert
+Niskie tętno
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Rozpoczynając o %02u:%02u Twoje tętno spoczynkowe było poniżej %u BPM.
+Dowiedz się więcej
+Dowiedz się więcej
+Tętno
+Tętno to liczba uderzeń serca na minutę (BPM). Zazwyczaj tętno spoczynkowe waha się od 55 do 80 uderzeń na minutę. Jednak zależy to od wieku, płci i innych czynników. Twoje urządzenie obsługuje zakres od 30 do 240 uderzeń na minutę
+Sen
+Załóż urządzenie przed pójściem spać, aby wygenerować dane o śnie
+%02u
+godz.
+min
+Cel: %2u godz.
+Cel: %2u godz.
+Cel: %2u godz.
+Cel: %2u godz.
+Cel: %2u godz.
+Cel: %2u godz.
+Cel: %2u godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+Cel: %02u godz. %2u min
+Zaktualizowano: %02u:%02u
+Drzemka
+%02u
+%02u:%02u-%02u:%02u
+Sen
+Głęboki
+%u%%
+Lekki
+Faza REM
+Pobudki
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Śr. tętno
+%u
+Śr. SpO₂
+Ustawienia
+Dowiedz się więcej
+Ustawienia
+Zaawansowane monitorowanie
+Wył.
+Punkty oddychania
+Wł.
+Zaawansowane monitorowanie
+Gdy ta funkcja jest włączona, urządzenie będzie śledzić Twój sen w fazie REM.
+
+Włączenie Zaawansowanego monitorowania znacznie skróci żywotność baterii. Włączyć mimo to?
+Punkty oddychania
+Po włączeiu ten funkcji Twój oddech będzie monitorowany w nocy podczas snu. Możesz wyświetlić wynik oddechu w aplikacji.
+Monitorowanie oddechu znacznie skróci żywotność baterii. Włączyć mimo to?
+Dowiedz się więcej
+Załóż opaskę przed pójściem spać, aby monitorować sen. Będzie możliwe wyświetlenie 3 najnowszych zapisów w hitorii snu na opasce. Bardziej szczegółowa historia snu jest dostępna w aplikacji na telefonie. Włącz Zaawansowane monitorowanie w Ustawieniach, aby śledzić szybki ruch gałek ocznych i uzyskać dokładniejsze informacje o śnie. Co najmniej 3 godziny nieprzerwanego snu pozwolą opasce na zarejestrowanie średniego tętna i tlenu we krwi. W przypadku snu poniżej 3 godzin rejestrowane będą tylko czas zasypiania i pobudki. Drzemki trwające mniej niż 20 minut nie będą rejestrowane. Niska jakość snu i nadmierne ruchy nadgarstka podczas snu mogą powodować niedokładne dane dotyczące tętna i brak pomiaru tlenu we krwi.
+%02u:%02u
+Stres
+Brak danych
+Zmierz
+%u
+Zrelaksowany
+Łagodny
+Umiarkowany
+Silny
+Przed chwilą
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%02u:%02u
+Trzymaj opaskę nieruchomo i skierowaną do góry
+%u
+Mierzenie
+Nie ruszaj się
+Nie ruszaj się
+Opaska podczas noszenia powinna dotykać skóry
+Trzymaj nadgarstek płasko, a ekran skierowany do góry
+Zaciśnij pasek opaski i spróbuj ponownie
+Zaciśnij pasek opaski i spróbuj ponownie
+Nie ruszaj się podczas pomiaru
+Zaciśnij pasek opaski i spróbuj ponownie
+Spróbuj ponownie
+OK
+Sesja przerwana. Anulować teraz?
+Wskazówki
+Noś opaskę powyżej kości nadgarstka.
+Trzymaj opaskę dobrze dopasowaną i nieruchomą.
+Pomiary zależą od niskiej temperatury, ukrwienia skóry i innych.
+Ta funkcja nie jest przeznaczona do celów medycznych.
+Duży stres
+%u
+Silny
+Spróbuj ćwiczeń oddechowych.
+Oddychanie
+Rozumiem
+Odwołaj na dziś
+Stres
+%u
+%u
+Zrelaksowany
+Łagodny
+Umiarkowany
+Silny
+Przed chwilą
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%02u:%02u
+Zmierz
+Brak danych
+Szczegóły
+Zrelaksowany
+Łagodny
+Umiarkowany
+Silny
+%u%%
+Ostatnie 7 dni
+%02u.%02u
+Dzisiaj
+%u
+śr.
+Ustawienia
+Dowiedz się więcej
+Stres
+Całodobowe monitorowanie
+Wł.
+Wył.
+Przypomnienie o odpoczynku
+Całodobowe monitorowanie
+Ta funkcja śledzi Twój poziom stresu podczas spoczynku.
+Przypomnienie o odpoczynku
+Rozpocznij wykonywanie ćwiczeń oddechowych, gdy poziom stresu utrzymuje się powyżej 80
+Włączenie tej funkcji znacznie skróci żywotność baterii. Włączyć mimo to?
+Dowiedz się więcej
+Stres to naturalna reakcja organizmu na codzienne wyzwania.
+Stres mierzy się tylko w okresach odpoczynku. Poziomy stresu definiuje się w następujący sposób:
+Zrelaksowany: 1-25 
+Łagodny: 26-50 
+Umiarkowany: 51-80 
+Silny: 81-100
+Na dokładność może wpływać wiele czynników. Wyniki mają wyłącznie charakter informacyjny.
+%02u:%02u
+SpO₂
+Brak danych
+Zmierz
+%u
+%
+Przed chwilą
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%02u:%02u
+Trzymaj opaskę nieruchomo i skierowaną do góry
+%u
+SpO₂
+Mierzenie
+Kalibrowanie
+Nie ruszaj się
+Nie ruszaj się
+Opaska podczas noszenia powinna dotykać skóry
+Trzymaj nadgarstek płasko, a ekran skierowany do góry
+Zaciśnij pasek opaski i spróbuj ponownie
+Spróbuj ponownie
+Zaciśnij pasek opaski i spróbuj ponownie
+Nie ruszaj się podczas pomiaru
+Zaciśnij pasek opaski i spróbuj ponownie
+Trzymaj nadgarstek płasko, a ekran skierowany do góry
+Trzymaj opaskę dobrze dopasowaną i nieruchomą
+Rozumiem
+Rozumiem
+Wskazówki
+1. Noś opaskę powyżej kości nadgarstka.
+2. Trzymaj opaskę dobrze dopasowaną i nieruchomą.
+3. Pomiary zależą od niskiej temperatury, ukrwienia skóry i innych.
+Ta funkcja nie jest przeznaczona do celów medycznych.
+SpO₂
+%u
+%u
+%
+Przed chwilą
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%u min temu
+%02u:%02u
+Zmierz
+Alerty
+Ustawienia
+Dowiedz się więcej
+Dowiedz się więcej
+Twoja opaska obsługuje zakres 75%–100%.
+Niskie SpO₂
+1. SpO₂ oznacza procent tlenu we krwi.
+%02u:%02u
+2. Odczyty poniżej 95% podczas bycia aktywnym i poniżej 90% podczas snu są uznawane za niskie.
+%u
+%u%% - %u%%
+3. Istnieje wiele czynników, które mogą spowodować niespójność lub niewiarygodność pomiarów. Są to czynnik takie jak: perfuzja skóry, trwałe lub tymczasowe zmiany na skórze, ruch lub poza podczas snu. Mogą one spowodować wysłanie alertu o niskim poziomie tlenu we krwi. Pamiętaj, że nie jest to urządzenie medyczne, a generowane przez nie dane nie mogą być wykorzystywane do diagnozy i leczenia.
+Dowiedz się więcej
+Otrzymasz alert, gdy poziom nasycenia tlenem pozostaje przez pewien czas poniżej ustawionej wartości. Twoja opaska będzie wyświetlać tylko 3 najnowsze wpisy. Zobacz więcej w aplikacji.
+W przypadku duszności, bólu głowy, zmęczenia lub problemów z koncentracją zasięgnij profesjonalnej pomocy lekarskiej.
+Opaska obsługuje zakres 75%-100%. Ta funkcja nie jest przeznaczona do celów medycznych i należy jej używać wyłącznie w celach informacyjnych.
+Sesja przerwana. Anulować teraz?
+Ustawienia
+Całodobowe monitorowanie
+Wł.
+Wył.
+Alerty
+Wył.
+%d%%
+%d%%
+%d%%
+Całodobowe monitorowanie
+Ta funkcja mierzy SpO₂ podczas spoczynku.
+Alerty
+Otrzymuj przypomnienie, gdy poziom SpO₂ spadnie poniżej ustawionego poziomu w ciągu dnia
+Wył.
+0.8
+0.85
+0.9
+ 
+Włączenie tej funkcji znacznie skróci żywotność baterii. Włączyć mimo to?
+Alerty
+%u
+%
+Twoje obecne SpO₂ jest poniżej %u%%
+Odwołaj
+Odwołaj na dziś
+%02d:%02d
+Cykle
+%02d/%02d
+%02d/%02d
+Brak danych z dzisiaj
+Zapisz
+Dzień %d
+Dzień %d
+Dzień %d
+Dzień %d
+Dzień %d
+Dzień %d
+Dzień %d
+Spodziewany okres
+%02d/%02d-%02d/%02d
+Anuluj
+Okres się zakończył
+Okres
+Cykle
+%02d/%02d
+%02d/%02d
+Brak danych z dzisiaj
+Okres się rozpoczął
+Anuluj
+Okres się zakończył
+Przewidywania
+Włącz Przewidywanie okresu w aplikacji
+Dowiedz się więcej
+Dzień %02d
+Dzień %02d
+Dzień %02d
+Dzień %02d
+Dzień %02d
+Dzień %02d
+Dzień %02d
+Dni płodne
+Spodziewany okres
+Okres
+%02d/%02d-%02d/%02d
+Dni płodne
+%02d/%02d-%02d/%02d
+Okres
+Owulacja
+%02d/%02d
+Owulacja
+Za %d dzień
+Za %d dzień
+Za %d dzień
+Za %d dni
+Za %d dni
+Za %d dni
+Za %d dnia
+Dowiedz się więcej
+1. Kolory
+Okres
+Spodziewany okres
+Dni płodne
+Owulacja
+2. Wskazówka
+Aby prognozy były dokładniejsze, rejestruj okresy i edytuj długość cyklu w aplikacji.
+Nadchodzący okres
+Nadchodzące dni płodne
+Nadchodząca owulacja
+Jutro
+Za 2 dni
+Za %u dzień
+Za %u dzień
+Za %u dzień
+Za %u dzień
+Za %u dni
+Za %u dni
+Za %u dni
+Za %u dnia
+Data następnego okresu: %u.%u
+Data rozpoczęcia następnych dni płodnych: %u.%u
+Data następnej owulacji: %u.%u
+%02u:%02u
+AM
+PM
+Rozumiem
+Bieganie
+Chodzenie
+Chód sportowy
+Bieżnia
+Chodzenie w pomieszczeniu
+Jazda na rowerze
+Trekking
+Bieg przełajowy
+Wspinaczka
+Styl dowolny
+Trening w pomieszczeniu
+Joga
+Pływanie w basenie
+Trening open water
+Orbitrek
+Ergometr
+Skakanka
+Trening HIIT
+Tenis
+Koszykówka
+Jazda na snowboardzie
+Jazda na nartach
+Biegi narciarskie
+Golf
+Inne sporty
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Cel
+%d%
+Realizacja celu
+%u.%02u
+km
+Cel
+Zakończono
+Podsumowanie
+%u'%02u"
+Śr. tempo
+Tempo
+%d
+Śr. kadencja (kroki/min)
+Śr. krok (cm)
+Kalorie
+Śr. tętno
+Maks. tętno
+Kroki
+VO₂ max
+Długości
+Główny styl
+Śr. SWOLF
+Łącznie uderzeń
+Śr. uderzeń/min
+Czas treningu
+Czas odpoczynku
+Serie
+Łącznie uderzeń
+Łącznie podskoków
+Śr. częstotliwość (skoki/min)
+Styl klasyczny
+Styl dowolny
+Styl motylkowy
+Styl grzbietowy
+Strefa tętna
+VO₂ max
+Anaerobowa
+Aerobowa
+Intensywna
+Regeneracyjna
+%d godz. %d min
+%d godz. %d min
+%d godz. %d min
+%d godz. %d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+Wynik treningu
+%d.%d
+Utrzymanie
+Trening aerobowy
+%d.%d
+Trening anaerobowy
+Zobacz więcej szczegółów w aplikacji
+%d
+Obciążenie treningowe
+Dobrze
+Niskie
+Wysokie
+Ostatnie 7 dni
+%d
+ml/kg/min
+VO₂ max
+Bardzo zły
+Zły
+Niezły
+Średni
+Dobry
+Bardzo dobry
+Wybitny
+Poziom
+Poprawa
+Utrzymanie
+Spadek
+Umiejętności sportowe
+ 
+Obciążenie treningowe jest obliczane na podstawie zwiększonego poboru tlenu po wysiłku (EPOC) w ciągu ostatnich 7 dni. Pamiętaj, aby odpowiednio dostosować obciążenie. Dowiedz się więcej przechodząc w aplikacji do zakładki Pomoc.
+%02d:%02d
+Dowiedz się więcej
+VO₂ max jest kluczowym wskaźnikiem wydolności tlenowej organizmu. Urządzenie oceni Twoje zdolności sportowe na podstawie takich czynników, jak wiek, płeć i tętno podczas ćwiczeń, a VO₂ max zmieni się wraz z poprawą Twoich zdolności sportowych.
+Znajdź swoje VO₂ max
+1. Wpisz swoje dane osobowe w aplikacji. 2. Załóż opaskę i biegaj na zewnątrz przez ponad 10 minut, aby osiągnąć 75% tętna maksymalnego.
+%d
+Czas regeneracji (godz.)
+W pełni zregenerowany
+Prawie zregenerowany
+Zmniejsz intensywność
+Wymagany odpoczynek
+%02d:%02d
+Zaktualizowano
+Przed chwilą
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d
+Czas regeneracji (godz.)
+Zwiększ intensywność treningu
+Trenuj jak zwykle
+Trenuj z mniejszą intensywnością
+Wstrzymaj trening i porządnie odpocznij
+Aktywność
+%d zapisy nie zostały zsynchronizowane
+%d zapisy nie zostały zsynchronizowane
+%d zapisy nie zostały zsynchronizowane
+%d zapisy nie zostały zsynchronizowane
+%d zapisy nie zostały zsynchronizowane
+%d zapisów nie zostało zsynchronizowanych
+%d zapisu nie zostało zsynchronizowane
+Bieganie
+Chodzenie
+Chód sportowy
+Bieżnia
+Chodzenie w pomieszczeniu
+Jazda na rowerze
+Trekking
+Bieg przełajowy
+Wspinaczka
+Styl dowolny
+Trening w pomieszczeniu
+Joga
+Pływanie w basenie
+Trening open water
+Orbitrek
+Ergometr
+Skakanka
+Trening HIIT
+Tenis
+Koszykówka
+Jazda na snowboardzie
+Jazda na nartach
+Biegi narciarskie
+Golf
+Inne sporty
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Tempo
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Regeneracyjna
+Intensywna
+Aerobowa
+Anaerobowa
+VO₂ max
+kcal
+Kadencja (kroki/min)
+Kroki
+Śr. tempo
+Realizacja celu
+%lu.%02lu
+km za
+mil za
+%d'%d"
+%d%%
+Tempo
+km naprzód
+mil naprzód
+Zakończone serie
+Czas odpoczynku
+Całkowity czas
+Pływanie w basenie
+Żeglarstwo
+SUP
+Wodne polo
+Inne sporty wodne
+Narciarstwo wodne
+Spływy kajakowe
+Rafting
+Wioślarstwo
+Motorówka
+Pływanie w płetwach
+Skoki do wody
+Pływanie synchroniczne
+Snurkowanie
+Kitesurfing
+Sztuczna fala
+Smocza łódź
+Bieganie
+Chodzenie
+Wspinaczka
+Jazda na rowerze
+Trekking
+Bieg przełajowy
+Wspinaczka skałkowa
+Jazda na deskorolce
+Jazda na rolkach
+Parkour
+Quad
+Paralotniarstwo
+BMX
+Chód sportowy
+Styl dowolny
+Bieżnia
+Skakanka
+Trening HIIT
+Joga
+Rower stacjonarny
+Orbitrek
+Ergometr
+Schody treningowe
+Stepper
+Spinning
+Trening mięśni głębokich
+Rozciąganie
+Pilates
+Gimnastyka
+Rozciąganie
+Trening siłowy
+Trening obwodowy
+Wchodzenie po schodach
+Aerobik
+Trening fizyczny
+Piłka lekarska
+Hantle
+Sztanga
+Podnoszenie ciężarów
+Martwy ciąg
+Burpees
+Brzuszki
+Trening funkcjonalny
+Górne partie ciała
+Dolne partie ciała
+Mięśnie brzucha
+Plecy
+Air walker
+Drążek
+Poręcze symetryczne
+Stepper
+Gimnastyka masowa
+Cardio combat
+Lina treningowa
+Aerobic combo
+Chodzenie w pomieszczeniu
+Trening w pomieszczeniu
+Taniec synchroniczny
+Taniec brzucha
+Balet
+Street dance
+Zumba
+Taniec ludowy
+Taniec jazzowy
+Taniec latynoski
+Hip hop
+Taniec na rurze
+Breakdance
+Taniec towarzyski
+Taniec nowoczesny
+Taniec
+Boks
+Zapasy
+Sztuki walki
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Szermierka
+Jujitsu
+Tenis
+Koszykówka
+Golf
+Piłka nożna
+Siatkówka
+Baseball
+Softball
+Futbol amerykański
+Hokej
+Tenis stołowy
+Badminton
+Krykiet
+Piłka ręczna
+Kręgle
+Squash
+Bilard
+Zośka
+Piłka plażowa
+Siatkówka plażowa
+Siatkówka kopana
+Futsal
+Zośka
+Bocce
+Jai alai
+Gateball
+Dwa ognie
+Jazda na snowboardzie
+Jazda na nartach
+Biegi narciarskie
+Jazda na łyżwach
+Jazda na łyżwach
+Curling
+Inne sporty zimowe
+Skuter śnieżny
+Hokej na lodzie
+Bobslej
+Jazda na sankach
+Łucznictwo
+Rzutki
+Jazda konna
+Przeciąganie liny
+Hula-hoop
+Puszczanie latawca
+Łowienie ryb
+Frisbee
+Zośka
+Huśtanie
+Gra somatosensoryczna
+Piłkarzyki
+Shuffleboard
+E-sport
+Szachy
+Warcaby
+Go
+Brydż
+Gra planszowa
+Jeździectwo
+Lekkoatletyka
+Wyścigi samochodowe
+Lokalizowanie…
+Pomyślnie zlokalizowano
+Interwały
+Rozgrzewka
+Trening
+%d:%02d
+%d,%02d km
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d
+Odpoczynek
+Serie
+Schłodzenie
+Rozgrzewka
+Schłodzenie
+Trening
+Czas
+Dystans
+Długości
+Uderzenia
+Podskoki
+Alerty
+Dystans
+%d km
+%d mi
+Tempo
+%d'%02d"
+Prędkość
+%d km/h
+Docelowa strefa tętna
+Regeneracyjna
+Intensywna
+Aerobowa
+Anaerobowa
+VO₂ max
+Wysokie tętno
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Nawodnienie
+Wyłącz wszystko
+Wył.
+Dystans
+Przypomnienie
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Prędkość
+Przypomnienie
+%d km/h
+Tempo
+Przypomnienie
+%d'%02d"
+Docelowa strefa tętna
+Strefa tętna
+Regeneracyjna
+Intensywna
+Aerobowa
+Anaerobowa
+VO₂ max
+Docelowa strefa tętna
+Regeneracyjna
+Intensywna
+Aerobowa
+Anaerobowa
+VO₂ max
+%d–%d BPM
+Pływanie w basenie
+Żeglarstwo
+SUP
+Wodne polo
+Inne sporty wodne
+Narciarstwo wodne
+Spływy kajakowe
+Rafting
+Wioślarstwo
+Motorówka
+Pływanie w płetwach
+Skoki do wody
+Pływanie synchroniczne
+Snurkowanie
+Kitesurfing
+Sztuczna fala
+Smocza łódź
+Bieganie
+Chodzenie
+Wspinaczka
+Jazda na rowerze
+Trekking
+Bieg przełajowy
+Wspinaczka skałkowa
+Jazda na deskorolce
+Jazda na rolkach
+Parkour
+Quad
+Paralotniarstwo
+BMX
+Chód sportowy
+Styl dowolny
+Bieżnia
+Skakanka
+Trening HIIT
+Joga
+Rower stacjonarny
+Orbitrek
+Ergometr
+Schody treningowe
+Stepper
+Spinning
+Trening mięśni głębokich
+Rozciąganie
+Pilates
+Gimnastyka
+Rozciąganie
+Trening siłowy
+Trening obwodowy
+Wchodzenie po schodach
+Aerobik
+Trening fizyczny
+Piłka lekarska
+Hantle
+Sztanga
+Podnoszenie ciężarów
+Martwy ciąg
+Burpees
+Brzuszki
+Trening funkcjonalny
+Górne partie ciała
+Dolne partie ciała
+Mięśnie brzucha
+Plecy
+Air walker
+Drążek
+Poręcze symetryczne
+Stepper
+Gimnastyka masowa
+Cardio combat
+Lina treningowa
+Aerobic combo
+Chodzenie w pomieszczeniu
+Trening w pomieszczeniu
+Taniec synchroniczny
+Taniec brzucha
+Balet
+Street dance
+Zumba
+Taniec ludowy
+Taniec jazzowy
+Taniec latynoski
+Hip hop
+Taniec na rurze
+Breakdance
+Taniec towarzyski
+Taniec nowoczesny
+Taniec
+Boks
+Zapasy
+Sztuki walki
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Szermierka
+Jujitsu
+Tenis
+Koszykówka
+Golf
+Piłka nożna
+Siatkówka
+Baseball
+Softball
+Futbol amerykański
+Hokej
+Tenis stołowy
+Badminton
+Krykiet
+Piłka ręczna
+Kręgle
+Squash
+Bilard
+Zośka
+Piłka plażowa
+Siatkówka plażowa
+Siatkówka kopana
+Futsal
+Zośka
+Bocce
+Jai alai
+Gateball
+Dwa ognie
+Jazda na snowboardzie
+Jazda na nartach
+Biegi narciarskie
+Jazda na łyżwach
+Jazda na łyżwach
+Curling
+Inne sporty zimowe
+Skuter śnieżny
+Hokej na lodzie
+Bobslej
+Jazda na sankach
+Rzutki
+Jazda konna
+Przeciąganie liny
+Hula-hoop
+Puszczanie latawca
+Łowienie ryb
+Frisbee
+Zośka
+Huśtanie
+Gra somatosensoryczna
+Piłkarzyki
+Shuffleboard
+E-sport
+Szachy
+Warcaby
+Go
+Brydż
+Gra planszowa
+Jeździectwo
+Łucznictwo
+Lekkoatletyka
+Wyścigi samochodowe
+Więcej
+Więcej
+Sporty wodne
+Aktywność na zewnątrz
+Trening
+Sporty zimowe
+Sporty rekreacyjne
+Karty/gry planszowe
+Inne
+%d sport
+%d sport
+%d sport
+Taniec
+%d sporty
+Sporty walki
+%d sporty
+Sporty z piłką
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+%d sport
+%d sport
+%d sport
+%d sporty
+%d sporty
+%d sportów
+%d sportu
+Wygląda na to, że ćwiczysz
+Bieganie
+Bieżnia
+Chodzenie
+Jazda rowerem
+Orbitrek
+Ergometr
+Skakanka
+Odrzuć
+Pauza
+Zakończ
+Następna seria
+Pauza
+Zakończ
+Zmiana
+Wstrzymano
+%d/%d
+Rozgrzewka
+%02d:%02d:%02d
+ 
+Gotowe
+Trening
+%d
+%d
+Uderzeń w tym zestawie
+Pozostało
+Cel
+Pozostało
+Cel
+Pozostało
+Podskoków w tej serii
+Pozostało
+Pomiń
+Odpoczynek
+%02d:%02d:%02d
+Czas odpoczynku
+%02d:%02d:%02d
+Pozostało
+Pomiń
+Schłodzenie
+%02d:%02d:%02d
+ 
+Zakończ
+Bardzo dobrze
+Przyspiesz
+%d
+Docelowe BPM
+%d–%d
+Tak trzymaj
+Zwolnij
+Przyspiesz
+%d
+Docelowe:
+%d km/h
+Tak trzymaj
+Zwolnij
+Przyspiesz
+%d'%d"
+Cel
+%d'%d"
+Tak trzymaj
+Zwolnij
+-- 
+km/h
+%d
+%
+Realizacja celu
+%d
+km
+km
+km
+km
+km
+km
+km
+Cel: %d km
+Nowy rekord!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Połącz opaskę z telefonem, aby móc rejestrować informacje o trasie.
+Brak dostępu do informacji o lokalizacji. W tej chwili nie można zarejestrować trasy treningu.
+Sygnał satelitarny jest słaby. Wyjdź na otwartą przestrzeń.
+Połącz opaskę z telefonem, aby móc zachować dokładne informacje o lokalizacji i trasie.
+Przywrócono połączenie
+Przywrócono lokalizację
+Pamięć jest pełna. Po zakończeniu tego treningu więcej danych nie będzie zapisywanych. Połącz z telefonem, aby zwolnić miejsce.
+Bieganie
+Początkujący
+Bieg/chód (początkujący)
+Bieg/chód (zaawansowany)
+Brak miejsca. Połącz swój telefon i zwolnij miejsce, aby uniknąć nadpisania danych.
+Bieg truchtem
+Spalanie tłuszczu
+Bieg na spalenie tkanki tłuszczowej (początkujący)
+Bieg na spalenie tkanki tłuszczowej (zaawansowany)
+MIIT
+Wytrzymałość
+Bieg na wytrzymałość (początkujący)
+Bieg na wytrzymałość (zaawansowany)
+Interwał
+Bieg interwałowy (początkujący)
+Bieg interwałowy (zaawansowany)
+%02d:%02d
+Bieg/chód (początkujący)
+Bieg/chód (zaawansowany)
+Bieg truchtem
+Bieg na spalenie tkanki tłuszczowej (początkujący)
+Bieg na spalenie tkanki tłuszczowej (zaawansowany)
+Trening MIIT
+Bieg na wytrzymałość (początkujący)
+Bieg na wytrzymałość (zaawansowany)
+Bieg interwałowy (początkujący)
+Bieg interwałowy (zaawansowany)
+Pomyślnie zlokalizowano
+%02d:%02d
+Bieg/chód (początkujący)
+Bieg/chód (zaawansowany)
+Bieg truchtem
+Bieg na spalenie tkanki tłuszczowej (początkujący)
+Bieg na spalenie tkanki tłuszczowej (zaawansowany)
+Trening MIIT
+Bieg na wytrzymałość (początkujący)
+Bieg na wytrzymałość (zaawansowany)
+Bieg interwałowy (początkujący)
+Bieg interwałowy (zaawansowany)
+Wprowadzenie
+Połączenie chodu i biegu w interwałach.
+Połączenie chodu i biegu w interwałach.
+Bieg o niskiej intensywności.
+Krótszy bieg na spalanie tłuszczu i odchudzanie.
+Wydłużony bieg o niskiej intensywności w celu spalania tłuszczu.
+Trening interwałowy o wysokiej intensywności.
+Bieg o średniej długości dla wytrzymałości.
+Dłuższy bieg na wytrzymałość.
+Krótszy trening interwałowy dla zdrowia serca i płuc.
+Dłuższy trening interwałowy dla zdrowia serca i płuc.
+Plan treningowy
+Szybki chód
+Bieg truchtem
+Bieg
+Sprint
+%02d:%02d
+%02d:%02d
+%d/%d
+Szybki chód
+Bieg truchtem
+Bieg
+Sprint
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d-%d
+Docelowe BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Tempo
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ max
+Anaerobowa
+Aerobowa
+Intensywna
+Regeneracyjna
+%d
+kroki/min
+%d
+Kroki
+%d'%d"
+Śr. tempo
+Dowiedz się więcej
+Kroki
+Kalorie
+W ruchu
+Stanie
+Funkcja „Stanie” wywietla dzienną liczbę kroków. Osoba aktywna pokonuje od 8 do 10 tysięcy kroków dziennie.
+Funkcja „Kalorie” pokazuje liczbę aktywnych kalorii spalanych poprzez poruszanie się i ćwiczenia.
+Funkcja „W ruchu” pokazuje Twoją umiarkowaną i wysoką aktywność. Staraj się przez co najmniej 30 minut dziennie, 5 razy w tygodniu wykonywać umiarkowaną aktywność lub intensywną aktywność 75 minut w tygodniu. Postęp w funkcji „W ruchu” będzie widoczny, gdy kadencja przekroczy 100 kroków/min lub gdy tętno przekroczy 65% tętna maksymalnego.
+„Stanie” pokazuje godziny, w których wstajesz i jesteś w ruchu. Staraj się wstawać i poruszać co godzinę.
+%d krok
+Osiągnięto cel w funkcji „Kroki”
+Osiągnięto cel w funkcji „Kroki”. Dobra robota!
+Osiągnięto dzisiejszy cel kroków!
+%d krok
+%d krok
+%d kroki
+%d kroki
+%d kroków
+%d kroku
+%d kcal
+Osiągnięto cel w funkcji „Kalorie”
+Osiągnięto cel w funkcji „Kalorie”. Tak trzymaj!
+Osiągnięto dzisiejszy cel kalorii. Świetna robota!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min
+Osiągnięto cel w funkcji „W ruchu”
+Osiągnięto cel funkcji „W ruchu”. Świetna robota!
+Dobra robota! Osiągnięto dzisiejszy cel „W ruchu”!
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d godz.
+Osiągnięto cel w funkcji „Stanie”
+Osiągnięto cel w funkcji „Stanie”. Dobra robota!
+Dobra robota! Osiągnięto dzisiejszy cel w funkcji „Stanie”!
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+Osiągnięto cele!
+Osiągnięto wszystkie cele
+Osiągnięto wszystkie dzisiejsze cele! Tak trzymaj!
+Osiągnięto wszystkie cele! Tak trzymaj!
+Cele osiągnięte!
+Ustawienia
+Cel
+Interwały
+Alerty
+Automatyczne zatrzymywanie
+Symulator SI
+Długość basenu
+Resetuj
+Cel
+Brak celu
+Dystans
+Czas trwania
+Kalorie
+Długości
+Uderzenia
+Podskoki
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d km
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d,%02d mi
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d długość
+%d długość
+%d długość
+%d długości
+%d długości
+%d długości
+%d długości
+%d uderzenie
+%d uderzenie
+%d uderzenie
+%d uderzenia
+%d uderzenia
+%d uderzeń
+%d uderzenia
+%d podskok
+%d podskok
+%d podskok
+%d podskoki
+%d podskoki
+%d podskoków
+%d podskoku
+Dystans
+km
+Czas trwania
+HH:mm
+Kalorie
+kcal
+Długości
+Uderzenia
+Podskoki
+Automatyczne zatrzymywanie
+Symulator SI
+Tempo
+%d‘%2d’’
+Tempo
+     
+Długość basenu
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Własne
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Długość basenu
+m
+Zresetować wszystkie ustawienia treningu?
+Wysokie tętno
+Alert
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Alert
+Nawodnienie
+Przypomnienie
+Dystans, %d km
+Dystans, %d km
+Dystans, %d km
+Dystans, %d km
+Dystans, %d km
+Dystans, %d km
+Dystans, %d km
+Dystans, %d mi
+Dystans, %d mi
+Dystans, %d mi
+Dystans, %d mi
+Dystans, %d mi
+Dystans, %d mi
+Dystans, %d mi
+Czas trwania, %d min
+Czas trwania, %d min
+Czas trwania, %d min
+Czas trwania, %d min
+Czas trwania, %d min
+Czas trwania, %d min
+Czas trwania, %d min
+Trening
+Czas
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Dystans
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Czas
+HH/mm
+Dystans
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Dystans
+km
+Prędkość
+km/h
+Tempo
+     
+Poćwicz
+Wstań
+Rozumiem
+Odwołaj na dziś
+Wyłączyć dzisiejsze przypomnienia o wstawaniu?
+Wstań
+Zresetować wszystkie ustawienia treningu?
+Tak trzymaj!
+Udało Ci się wczoraj osiągnąć cel. Oby tak dalej!
+Udało Ci się wczoraj osiągnąć cel. Oby tak dalej!
+Udało Ci się wczoraj osiągnąć 2 z 3 celów. Nie poddawaj się!
+Udało Ci się wczoraj osiągnąć 2 z 3 celów. Nie poddawaj się!
+Nie udało Ci się wczoraj osiągnąć wyznaczonych celów. Spróbuj dzisiaj!
+Nie udało Ci się wczoraj osiągnąć wyznaczonych celów. Spróbuj dzisiaj!
+Twoje cele są w zasięgu ręki!
+Twoje cele są w zasięgu ręki!
+Rozumiem
+Przed chwilą
+%d min temu
+%d min temu
+Pora się poruszać
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+Zaktualizowano: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+krok
+krok
+krok
+kroki
+kroki
+kroków
+kroku
+%d
+godzina
+godzina
+godzina
+godziny
+godziny
+godzin
+godziny
+%d
+ min
+%02d:%02d
+%02d:%02d
+Ustawienia
+Dowiedz się więcej
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Aktywność
+Status
+Stres
+Sen
+Pogoda
+Muzyka
+Alarm
+Wydarzenia
+Kalendarz
+Karty
+Więcej
+Latarka
+Cykle
+Oddychanie
+Stoper
+Minutnik
+Znajdź telefon
+Zegar światowy
+Alerty
+Skupienie
+Mi SI
+Wyczyść wszystko
+%02d:%02d AM
+%02d:%02d PM
+Wczoraj o %02d:%02d
+%u.%u %02d:%02d
+%d powiadomienie
+%d powiadomienie
+%d powiadomienie
+%d powiadomienia
+%d powiadomienia
+%d powiadomień
+%d powiadomienia
+%02d:%02d AM
+%02d:%02d PM
+Wczoraj o %02d:%02d
+%02d.%02d %02d:%02d
+Wyczyść
+%02d:%02d AM
+%02d:%02d PM
+Wczoraj o %02d:%02d
+%02d.%02d %02d:%02d
+Odrzuć
+Odrzuć
+Przesuń w górę, aby odpowiedzieć
+Wysyłanie
+Wysłano
+Nie udało się wysłać
+Na spotkaniu. Odpowiem później.
+Nie mogę teraz rozmawiać. Co się stało?
+Nie mogę teraz rozmawiać. Zadzwoń później.
+Użyć tego wyświetlacza opaski?
+Usunąć ten wyświetlacz opaski?
+Synchronizowanie
+Nie udało się zsynchronizować
+Nie przeszkadzać
+Wył.
+Cały dzień
+Własne
+Zezwalaj na odpowiadanie na wiadomości w aplikacji
+%02d:%02d-%02d:%02d
+Synchronizuj z telefonem
+Wł.
+Czas rozpoczęcia
+AM
+%02d
+%02d:%02d
+Czas zakończenia
+PM
+Synchronizuj z telefonem
+Po włączeniu, status Nie przeszkadzać na opasce zostanie zsynchronizowany z telefonem
+Nie przeszkadzać - wł.
+Wibracje
+Domyślne
+Silne
+Wył.
+Powiadomienia aplikacji
+Wybudź ekran po otrzymaniu powiadomienia
+Wł.
+Powiadamiaj tylko, gdy opaska jest założona
+Wł.
+Powiadamiaj tylko, gdy telefon jest zablokowany
+Wł.
+Wybudź ekran po otrzymaniu powiadomienia
+Wybudzaj ekran przy otrzymywaniu powiadomień
+Powiadamiaj tylko, gdy opaska jest założona
+Wyłącz powiadomienia po zdjęciu opaski
+Powiadamiaj tylko, gdy telefon jest zablokowany
+Dowiedz się więcej
+Upewnij się, że powiadomienia są włączone w Mi Fitness >Powiadomienia aplikacji.
+Ustawienia
+Wyświetlacze opaski
+Wyświetlacz
+Ustawienia trybu Nie przeszkadzać
+Wibracje
+Powiadomienia aplikacji
+Automatyczne wykrywanie
+Kod PIN
+Bateria
+Preferencje
+System
+O opasce
+Kod PIN
+Ustaw PIN
+Wprowadź 6-cyfrowy kod PIN
+%d
+%d
+Kody PIN nie są takie same
+Ustawiono PIN
+Kod PIN
+Wyłącz PIN
+Zmień PIN
+Nowy PIN
+%d
+Wyłączono PIN
+Nieprawidłowy
+Spróbuj ponownie za %d sek.
+Spróbuj ponownie za %d sek.
+Spróbuj ponownie za %d sek.
+Spróbuj ponownie za %d sek.
+Spróbuj ponownie za %d sek.
+Spróbuj ponownie za %d sek.
+Spróbuj ponownie za %d sek.
+Pomoc
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+Spróbuj ponownie za %d min
+ 
+Aby zresetować PIN, przejdź w aplikacji do Urządzenie > kod PIN.
+ 
+Nie można wyłączyć kodu PIN po dodaniu kart bankowych.
+Automatyczne wykrywanie
+Automatyczne wykrywanie
+Nie otrzymasz przypomnień, jeśli tryb Nie przeszkadzać jest włączony.
+Preferencje
+Sposób wybudzania
+Naciśnij i przytrzymaj ekran
+Dotknij ekranu
+Przesuń w górę
+Naciśnij i przytrzymaj ekran
+Po włączeniu, naciśnij i przytrzymaj opcję Edytuj, aby edytować wyświetlacz opaski
+Bateria
+%d
+%
+Pozostały czas pracy baterii
+≈%d dzień %d godz.
+Pozostały czas pracy baterii
+≈%d dni %d godz.
+Pozostały czas pracy baterii
+≈%d dzień %d godz.
+Pozostały czas pracy baterii
+≈%d dni %d godz.
+Oszczędzanie baterii
+Optymalizacja
+Użytkowanie
+Pozostały czas pracy baterii
+około %d dzień %d godz.
+Po włączeniu, pozostanie włączony tylko czas, krokomierz i funkcja NFC. Naciśnij i przytrzymaj ekran lub naładuj, by wyłączyć.
+Oszczędzanie baterii
+%d
+%02d:%02d
+AM
+PM
+%d
+Opuszczanie Oszczędzania baterii
+Dowiedz się więcej
+Żywotność baterii
+Szacowana żywotność baterii jest podana wyłącznie w celach informacyjnych. Rzeczywista żywotność baterii zależy od czynników, takich jak czas, jaki urządzenie spędza z włączonym wyświetlaczem, wibracjami lub monitorując treningi.
+Optymalizacja
+Optymalizacja identyfikuje funkcje, które znacznie zużywają baterię.
+Optymalizacja
+Dobra
+Brak konieczności optymalizacji
+Optymalizacja
+Zła
+Następujące funkcje wpłyną na żywotność baterii
+Ekran zawsze włączony
+Podnieś, aby wybudzić
+Punkty oddychania
+Całodobowe monitorowanie
+Zaburzenia tętna
+Ekran zawsze włączony
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d godz.
+Sposób wybudzania
+Otrzymuj przypomnienia o rozpoczęciu treningu.
+Obsługiwane rodzaje treningu to spacer, bieganie, jazda na rowerze, skakanka, orbitrek i wioślarstwo.
+Wyświetlacz
+Jasność
+Automatyczne blokowanie
+Podnieś, aby wybudzić
+Ekran włączony przez
+Ekran zawsze włączony
+Zakryj, aby uśpić
+Auto
+%d sekunda
+%d sekunda
+%d sekunda
+%d sekundy
+%d sekundy
+%d sekund
+%d sekundy
+Wł.
+Wył.
+Wł.
+Wył.
+Wł.
+Wył.
+Zaplanowane
+Zaplanowane
+Auto
+Własne
+Jasność
+Auto
+%dsek.
+%dsek.
+%dsek.
+%dsek.
+%dsek.
+%dsek.
+%dsek.
+Automatyczne blokowanie
+ 
+Włączony ekran przez długi czas skróci żywotność baterii. Kontynuować?
+Podnieś, aby wybudzić
+Wył.
+Zaplanowane
+%02d:%02d-%02d:%02d
+ 
+Funkcja „Ekran zawsze włączony” jest włączona. Włączenie funkcji „Podnieś, aby wybudzić” skróci żywotność baterii. Kontynuować mimo to?
+Ekran włączony przez
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Spowoduje to, że ekran będzie za każdym razem włączony przez %d min, co wpłynie na żywotność baterii. Kontynuować mimo to?
+Ekran zawsze włączony
+Wył.
+Inteligentne
+Zaplanowane
+%02d:%02d-%02d:%02d
+     
+Włączenie funkcji „Ekran zawsze włączony” może skrócić czas pracy baterii o połowę. Opcja „Podnieś, aby wybudzić” zostanie wyłączona. Kontynuować?
+Dowiedz się więcej
+Ekran zawsze włączony
+Czas będzie wyświetlany nawet przy zablokowanym ekranie.
+Inteligentne
+Funkcja Zawsze włączony zostanie wyłączona, gdy pójdziesz spać lub zdejmiesz opaskę.
+Zakryj, aby uśpić
+Początek
+AM
+PM
+%02d:%02d
+%02d:%02d
+Komplikacje
+Fitness
+Podstawowe
+Mi Smart Hub
+Mój telefon
+Głośnik
+Telewizor
+Słuchawki
+Redukcja szumów
+Tryb kontaktu
+Wył.
+Urządzenie
+Użyć wyświetlacza opaski?
+Słuchawki
+Usunąć wyświetlacz opaski?
+Tryb
+Przesuń w prawo na wyświetlaczu opaski, aby zapisać zmiany.
+Redukcja szumów
+Tryb kontaktu
+Wył.
+ 
+ 
+Chwileczkę…
+Alerty pogodowe
+预警！
+Rozumiem
+%02d:%02d AM
+%02d:%02d PM
+Połącz przez Bluetooth i włącz w aplikacji „Aktualizacje pogody”.
+Połącz przez Bluetooth i włącz w aplikacji powiadomienia o pogodzie, aby otrzymywać informacja o pogodzie dla wybranych lokalizacji.
+Połącz z Bluetooth i spróbuj ponownie
+%02d:%02d
+Pogoda
+Nie przeszkadzać
+Tryb Nie przeszkadzać jest włączony
+Tryb Nie przeszkadzać jest wyłączony
+Znajdź telefon
+Ustawienia
+Brak danych
+Żeglarstwo
+SUP
+Wodne polo
+Inne sporty wodne
+Narciarstwo wodne
+Spływy kajakowe
+Rafting
+Wioślarstwo
+Motorówka
+Pływanie w płetwach
+Skoki do wody
+Pływanie synchroniczne
+Snurkowanie
+Kitesurfing
+Sztuczna fala
+Smocza łódź
+Wspinaczka skałkowa
+Jazda na deskorolce
+Jazda na rolkach
+Parkour
+Quad
+Paralotniarstwo
+BMX
+Rower stacjonarny
+Schody treningowe
+Stepper
+Spinning
+Trening mięśni głębokich
+Rozciąganie
+Pilates
+Gimnastyka
+Rozciąganie
+Trening siłowy
+Trening obwodowy
+Wchodzenie po schodach
+Aerobik
+Trening fizyczny
+Squash
+Hantle
+Sztanga
+Podnoszenie ciężarów
+Martwy ciąg
+Burpees
+Brzuszki
+Trening funkcjonalny
+Górne partie ciała
+Dolne partie ciała
+Mięśnie brzucha
+Plecy
+Air walker
+Drążek
+Poręcze symetryczne
+Stepper
+Gimnastyka masowa
+Cardio combat
+Lina treningowa
+Aerobic combo
+Trening w pomieszczeniu
+Taniec synchroniczny
+Taniec brzucha
+Balet
+Street dance
+Zumba
+Taniec ludowy
+Taniec jazzowy
+Taniec latynoski
+Hip hop
+Taniec na rurze
+Breakdance
+Taniec towarzyski
+Taniec nowoczesny
+Taniec
+Boks
+Zapasy
+Sztuki walki
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Szermierka
+Jujitsu
+Piłka nożna
+Siatkówka
+Baseball
+Softball
+Futbol amerykański
+Hokej
+Tenis stołowy
+Badminton
+Krykiet
+Piłka ręczna
+Kręgle
+Piłka lekarska
+Bilard
+Zośka
+Piłka plażowa
+Siatkówka plażowa
+Siatkówka kopana
+Futsal
+Zośka
+Bocce
+Jai alai
+Gateball
+Dwa ognie
+Jazda na łyżwach
+Jazda na łyżwach
+Curling
+Inne sporty zimowe
+Skuter śnieżny
+Hokej na lodzie
+Bobslej
+Jazda na sankach
+Łucznictwo
+Rzutki
+Jazda konna
+Przeciąganie liny
+Hula-hoop
+Puszczanie latawca
+Łowienie ryb
+Frisbee
+Zośka
+Huśtanie
+Gra somatosensoryczna
+Piłkarzyki
+Shuffleboard
+E-sport
+Szachy
+Warcaby
+Go
+Brydż
+Gra planszowa
+Jeździectwo
+Lekkoatletyka
+Wyścigi samochodowe
+Żeglarstwo
+SUP
+Wodne polo
+Inne sporty wodne
+Narciarstwo wodne
+Spływy kajakowe
+Rafting
+Wioślarstwo
+Motorówka
+Pływanie w płetwach
+Skoki do wody
+Pływanie synchroniczne
+Snurkowanie
+Kitesurfing
+Sztuczna fala
+Smocza łódź
+Wspinaczka skałkowa
+Jazda na deskorolce
+Jazda na rolkach
+Parkour
+Quad
+Paralotniarstwo
+BMX
+Rower stacjonarny
+Schody treningowe
+Stepper
+Spinning
+Trening mięśni głębokich
+Rozciąganie
+Pilates
+Gimnastyka
+Rozciąganie
+Trening siłowy
+Trening obwodowy
+Wchodzenie po schodach
+Aerobik
+Trening fizyczny
+Piłka lekarska
+Hantle
+Sztanga
+Podnoszenie ciężarów
+Martwy ciąg
+Burpees
+Brzuszki
+Trening funkcjonalny
+Górne partie ciała
+Dolne partie ciała
+Mięśnie brzucha
+Plecy
+Air walker
+Drążek
+Poręcze symetryczne
+Stepper
+Gimnastyka masowa
+Cardio combat
+Lina treningowa
+Aerobic combo
+Trening w pomieszczeniu
+Taniec synchroniczny
+Taniec brzucha
+Balet
+Street dance
+Zumba
+Taniec ludowy
+Taniec jazzowy
+Taniec latynoski
+Hip hop
+Taniec na rurze
+Breakdance
+Taniec towarzyski
+Taniec nowoczesny
+Taniec
+Boks
+Zapasy
+Sztuki walki
+Tai chi
+Muay Thai
+Judo
+Taekwondo
+Karate
+Kickboxing
+Kendo
+Szermierka
+Jujitsu
+Piłka nożna
+Siatkówka
+Baseball
+Softball
+Futbol amerykański
+Hokej
+Tenis stołowy
+Badminton
+Krykiet
+Piłka ręczna
+Kręgle
+Squash
+Bilard
+Zośka
+Piłka plażowa
+Siatkówka plażowa
+Siatkówka kopana
+Futsal
+Zośka
+Bocce
+Jai alai
+Gateball
+Dwa ognie
+Jazda na łyżwach
+Jazda na łyżwach
+Curling
+Inne sporty zimowe
+Skuter śnieżny
+Hokej na lodzie
+Bobslej
+Jazda na sankach
+Łucznictwo
+Rzutki
+Jazda konna
+Przeciąganie liny
+Hula-hoop
+Puszczanie latawca
+Łowienie ryb
+Frisbee
+Zośka
+Huśtanie
+Gra somatosensoryczna
+Piłkarzyki
+Shuffleboard
+E-sport
+Szachy
+Warcaby
+Go
+Brydż
+Gra planszowa
+Jeździectwo
+Lekkoatletyka
+Wyścigi samochodowe
+Chwileczkę…
+%02d:%02d
+Pauza
+Zakończ
+Zablokuj ekran
+Projekcja
+Projekcja
+Wyszukiwanie
+Xiaomi TV
+Łączenie
+Nie znaleziono urządzenia
+Nazwa telewizora
+Połączono
+Rozłącz
+Nie udało się połączyć
+Spróbuj ponownie
+%02d:%02d
+Synchronizuj treningi
+Załóż opaskę zgodnie z ilustracją i rozpocznij trening w aplikacji
+Wstecz
+%02d:%02d
+Ustawienia
+Tryby biegu
+Wyświetlacz
+Nie przeszkadzać
+Wibracje
+%02d:%02d
+Tryb biegu
+Tryb kamyczka
+Tryb naszyjnika
+Tryb kamyczka
+Tryb kamyczka zapewnia dane o Twojej posturze podczas biegu. Rozpocznij trening (bieganie lub jazda na rowerze) w aplikacji.
+Powiadomienia aplikacji i pomiar tętna zostaną wyłączone. Twoja opaska nie będzie reagowała na przypadkowe dotknięcia.
+Włącz
+Wróć
+Rozpocznij trening w aplikacji
+Trwa trening
+Urządzenie jest rozłączone
+Przesuń w górę, aby wyjść z Trybu kamyczka
+Przesuń w górę, aby wyjść
+Wyjść z Trybu kamyczka?
+Dane o posturze podczas biegu nie zostaną zapisane, jeśli teraz wyjdziesz.
+Wyjdź
+Anuluj
+Wyjść z Trybu naszyjnika?
+Wyjdź
+Anuluj
+Tryb naszyjnika
+W Trybie naszyjnika ekran pozostanie włączony, ale nie będzie reagował na przypadkowe dotknięcia.
+Powiadomienia aplikacji i pomiar tętna zostaną wyłączone.
+Włącz
+Wstecz
+Zarejestruj swoje dane dotyczące cyklu w aplikacji
+%0.1f
+godzina
+godzina
+godzina
+godziny
+godziny
+godzin
+godziny
+Sen
+Załóż urządzenie przed pójściem spać, aby wygenerować dane o śnie
+%u
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+min
+min
+min
+min
+min
+min
+min
+Cel: %u godz.
+Cel: %u godz.
+Cel: %u godz.
+Cel: %u godz.
+Cel: %u godz.
+Cel: %u godz.
+Cel: %u godz.
+Tętno
+Zarejestruj swoje tętno
+Rozpocznij
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Oddychanie
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Rozpocznij
+Oddychanie
+SpO₂
+Zarejestruj SpO₂
+u%
+%
+Stres
+Zarejestruj poziom stresu
+u%
+Stres
+%02d
+'
+"
+.
+:
+Zapisywanie…
+Kalibracja
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Czas treningu jest za krótki, żeby zapisać. Zakończyć?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Niski poziom baterii. Naładuj baterię i spróbuj ponownie.
+Zaktualizuj swoją opaskę za pomocą aplikacji
+Nie udało się zaktualizować
+Aktualizowanie
+Zaktualizowano. Ponowne uruchamianie.
+Przygotowywanie aktualizacji
+Odbieranie aktualizacji
+Nie udało się zaktualizować. Spróbuj ponownie w aplikacji.
+Odebrano aktualizację. Ponowne uruchamianie.
+Opaska automatycznie zaktualizuje się wieczorem lub podczas ładowania.
+Korzystasz z najnowszej wersji.
+Przypomnienie o aktualizacji
+Usuń
+
+%d
+
+%%
+Pobierz aplikację, aby sparować opaskę
+%d
+Potwierdź na swoim telefonie
+Potwierdź na swoim telefonie
+Parowanie
+Nie udało się sparować. Spróbuj ponownie.
+Sparowano
+-
+-
+-
+-
+Odpoczynek
+min:sek.
+Serie
+Otrzymuj przypomnienia w określonych odstępach
+%d długość
+%d uderzenie
+%d podskok
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d km
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+%d,%d mi
+Connect to the app to customize holidays
+Saturday and Sunday are marked as holidays by default.
+Rozumiem
+%d
+Cel
+%02d:%02d:%02d
+Zakończono
+Cel
+%d
+kcal
+Zakończono
+Cel
+długość
+długość
+długość
+długości
+długości
+długości
+długości
+Zakończono
+Cel
+podskok
+podskok
+podskok
+podskoki
+podskoki
+podskoków
+podskoku
+Zakończono
+Cel
+uderzenie
+uderzenie
+uderzenie
+uderzenia
+uderzenia
+uderzeń
+uderzenia
+Zakończono
+Zobacz więcej zapisów w aplikacji
+O opasce
+Nazwa
+Xiaomi Smart Band 8
+Model
+Adres MAC
+Regulacje
+Regulacje
+CMIIT ID
+Model
+Wejście
+System
+Uruchom ponownie
+Wyłącz
+Resetuj
+Uruchomić ponownie teraz?
+Wyłączyć?
+%02d:%02d
+Po przywróceniu ustawień fabrycznych wymagane będzie ponowne sparowanie opaski. Kontynuować?
+Urządzenie nie jest założone
+Nie udało się zmierzyć
+Wynik
+Dowiedz się więcej
+SpO₂
+Wynik
+Urządzenie nie jest założone
+Nie udało się zmierzyć
+%02d:%02d
+Śpij dobrze
+Nie przeszkadzać jest włączone. Funkcja Podnieś, aby wybudzić jest wyłączona.
+Nie pokazuj ponownie
+%02d:%02d
+Czas wstawać
+Odrzuć
+Odłóż
+%02d:%02d
+Sen
+%d godz.%d min
+%d godz.%d min
+%d godz.%d min
+%d godz.%d min
+%d°/%d°
+Rozumiem
+%02d:%02d
+Sen
+Rozumiem
+%02d:%02d
+%d°/%d°
+Rozumiem
+Trening na zewnątrz
+Załóż opaskę zgodnie z ilustracją i rozpocznij trening w aplikacji
+Wstecz
+Ustawienia
+Tryby biegu
+Wyświetlacz
+Nie przeszkadzać
+Wibracje
+Tryb biegu
+Tryb kamyczka
+Tryb uśpienia wyłaczy się
+o %02d:%02d
+Tryb naszyjnika
+Tryb kamyczka
+Tryb kamyczka zapewnia dane o Twojej posturze podczas biegu. Rozpocznij trening (bieganie lub jazda na rowerze) w aplikacji.
+Powiadomienia aplikacji, pomiar tętna zostaną wyłączone. Twoja opaska nie będzie reagowała na przypadkowe dotknięcia.
+Włącz
+Wstecz
+Rozpocznij trening w aplikacji
+Trwa trening
+Urządzenie jest rozłączone
+Wyjść z Trybu kamyczka?
+Dane o posturze podczas biegu nie zostaną zapisane, jeśli teraz wyjdziesz.
+Wyjdź
+Anuluj
+Tryb kamyczka
+Przesuń w górę, aby wyjść
+Tryb naszyjnika
+Przesuń w górę, aby wyjść
+Tryb naszyjnika
+W Trybie naszyjnika ekran pozostanie włączony, ale nie będzie reagował na przypadkowe dotknięcia.
+Powiadomienia aplikacji i pomiar tętna zostaną wyłączone.
+Włącz
+Wstecz
+Wyjść z Trybu naszyjnika?
+Wyjdź
+Anuluj
+Włączenie ten funkcji zwiększy zużycie baterii. Kontynuować mimo to?
+Dźwięk jest włączony
+Chwileczkę…
+Dźwięk jest wyłączony
+Dźwięk jest wyłączony
+Chwileczkę
+Dźwięk jest włączony
+Rozłączono
+Wyłącz
+Włącz
+Połącz z Bluetooth i spróbuj ponownie
+Zezwolić opasce na odblokowanie telefonu?
+Zakończono!
+Nie udało się autoryzować
+ 
+%d
+Minutnik
+Minutnik
+%d
+min
+min
+min
+min
+min
+min
+min
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+Ustaw godzinę
+%d
+%02d
+Ustaw minuty
+%02d:%02d
+%02d:%02d:%02d
+Czas minął
+%02d:%02d temu
+%02d:%02d:%02d temu
+AQI %d %s
+Nie udało się sparować
+Dodaj urządzenie ponownie
+O opasce
+Regulacje
+Resetuj
+Uruchom ponownie
+%02d:%02d
+O opasce
+Nazwa
+Xiaomi Smart Band 8
+Model
+Adres MAC
+%02d:%02d
+Regulacje
+CMIIT ID
+Wejście
+Uruchomić ponownie teraz?
+Wyłączyć?
+Po przywróceniu ustawień fabrycznych wymagane będzie ponowne sparowanie opaski. Kontynuować?
+Bateria poniżej %d
+--
+%02d:%02d
+Witalność
+%d
+Ostatnie 7 dni
+7-dniowy postęp
+%d
+Ostatnie 7 dni
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.
+Ndz.
+Dzisiaj
+%d
+Dzisiaj
+%d
+Niska
+Umiarkowana
+Intensywna
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
++%d
+Ustawienia
+Dowiedz się więcej
+Ustawienia
+Ciągłe monitorowanie
+Wynik Witalności jest obliczany na podstawie danych dotyczących tętna i aktywności. Pozwól opasce częściej mierzyć tętno, aby uzyskać dokładniejszy wynik Witalności.
+Dowiedz się więcej
+Wynik Witalności to sposób mierzenia wpływu ćwiczeń na zdrowie. Aby uzyskać najlepsze wyniki zdrowotne, spróbuj osiągnąć 100 punktów w ciągu 7 dni.
+Wyniki Witalności są oparte na zaleceniach wytycznych WHO dotyczących aktywności fizycznej i siedzącego trybu życia.
+Oznacza to, że dorośli powinni wykonywać 150-300 minut ćwiczeń aerobowych o umiarkowanej intensywności lub 75-150 minut ćwiczeń aerobowych o wysokiej intensywności tygodniowo, lub kombinację tych dwóch, aby uzyskać maksymalne korzyści zdrowotne.
+Każda aktywność fizyczna, w tym aktywność o niskiej intensywności, jest lepsza dla twojego zdrowia niż siedzenie.
+%d
+Ostatnie 7 dni
+%d
+Dzisiaj
+Ostatnie 7 dni
+%d
+Ruszaj się, aby zobaczyć jeszcze więcej wyników!
+Rozumiem
+Odwołaj na dziś
+Jesteś na dobrej drodze!
+Jesteś nie do zatrzymania, tak trzymaj!
+Zdobyto maksymalną liczbę punktów dzisiaj. Odpocznij!
+Zablokuj ekran
+Po wybudzeniu ekranu przesuń w górę, aby odblokować.
+%u
+Tętno spoczynkowe z ostatnich 7 dni
+%02u/%02u
+Model
+Dzisiaj
+Dzisiaj
+Zaciśnij pasek opaski i spróbuj ponownie
+Sparować z telefonem?
+Opaska automatycznie zaktualizuje się wieczorem lub podczas ładowania
+Korzystasz z najnowszej wersji
+Rozumiem
+Nie udało się zaktualizować. Połącz z aplikacją i spróbuj ponownie.
+Otwórz na telefonie
+OK
+Odpowiedz
+Wysyłanie
+Wysłano
+Nie udało się wysłać
+Rozłączono
+Połącz z Bluetooth i spróbuj ponownie
+Czas treningu jest za krótki, żeby zapisać. Zakończyć?
+Wznów
+Zakończ
+Zobacz raporty o treningach w aplikacji
+Gotowe
+%02d:%02d
+%02d
+Tempo
+kcal
+Prędkość (km/h)
+Prędkość (mph)
+Obecny dystans
+Aktualny czas
+Obecne kcal
+Obecne długości
+Obecne podskoki
+Obecne uderzenia
+Cel
+Cel
+Cel
+Cel
+Cel
+Cel
+Realizacja celu
+%02d:%02d
+%d.%d
+Śr. prędkość (km/h)
+Śr. prędkość (mph)
+Częstotliwość (razy/min)
+Obecne podskoki
+Ta seria
+Podskoków w tej serii
+Łącznie
+Aktywne kcal
+Ta seria
+Kalorie
+%d.%d
+Śr. prędkość (km/h)
+Śr. prędkość (mph)
+Wysokie tętno
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Maks. tętno
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Aparat
+Wycisz telefon
+Witalność
+Tryb Nie przeszkadzać włączony na %d godz.
+Tryb Nie przeszkadzać włączony na %d godz.
+Tryb Nie przeszkadzać włączony na %d godz.
+Tryb Nie przeszkadzać włączony na %d godz.
+Tryb Nie przeszkadzać włączony na %d godz.
+Tryb Nie przeszkadzać włączony na %d godz.
+Tryb Nie przeszkadzać włączony na %d godz.
+Wył.
+Rozłączono
+:
+%02d:%02d - nast. dnia %02d:%02d
+Tryb Nie przeszkadzać jest wyłączony
+Podczas korzystania z telefonu powiadomienia nie będą wysyłane na opaskę.
+Wył.
+Wył.
+Wył.
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Statystyki
+Tętno
+SpO₂
+Trening
+Podłącz prawidłowo ładowarkę
+-
+Treningi
+Statystyki
+Kroki
+Kalorie
+W ruchu
+Tętno
+SpO₂
+Stres
+Bateria
+Data
+Pogoda
+Indeks UV
+AQI
+Wilgotność
+Karty
+Alarm
+Stoper
+Aparat
+Narzędzia
+Pogoda
+długość
+długość
+długość
+długości
+długości
+długości
+długości
+--'--"
+Nr wersji
+Nr seryjny
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Napij się wody
+%02d:%02d:%02d
+Wznów
+Podnieś, aby wybudzić
+Punkty oddychania
+Całodobowe monitorowanie
+Zaburzenia tętna
+%d
+Cel: %d kcal
+Cel: %d kcal
+Cel: %d kcal
+Cel: %d kcal
+Cel: %d kcal
+Cel: %d kcal
+Cel: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Cel: %d długość
+Cel: %d długość
+Cel: %d długość
+Cel: %d długości
+Cel: %d długości
+Cel: %d długości
+Cel: %d długości
+długość
+długość
+długość
+długości
+długości
+długości
+długości
+Cel: %d uderzenie
+Cel: %d uderzenie
+Cel: %d uderzenie
+Cel: %d uderzenia
+Cel: %d uderzenia
+Cel: %d uderzeń
+Cel: %d uderzenia
+uderzenie
+uderzenie
+uderzenie
+uderzenia
+uderzenia
+uderzeń
+uderzenia
+Cel: %d podskok
+Cel: %d podskok
+Cel: %d podskok
+Cel: %d podskoki
+Cel: %d podskoki
+Cel: %d podskoków
+Cel: %d podskoku
+podskok
+podskok
+podskok
+podskoki
+podskoki
+podskoków
+podskoku
+%d.%d
+Cel: %d,%d km
+Cel: %d,%d km
+Cel: %d min
+Cel: %d min
+Cel: %d godz. %d min
+Cel: %d godz. %d min
+Cel: %d godz. %d min
+Cel: %d godz. %d min
+Potwierdź PIN
+Wprowadź PIN
+Nieprawidłowe
+Rozłączono
+%d
+%
+min
+min
+min
+min
+min
+min
+min
+%d
+krok
+krok
+krok
+kroki
+kroki
+kroków
+kroku
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min
+min
+min
+min
+min
+min
+min
+%d
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+Najlepsza odległość
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+długość
+długość
+długość
+długości
+długości
+długości
+długości
+podskok
+podskok
+podskok
+podskoki
+podskoki
+podskoków
+podskoku
+uderzenie
+uderzenie
+uderzenie
+uderzenia
+uderzenia
+uderzeń
+uderzenia
+km
+Najlepszy czas
+Wstrzymano
+Dystans treningu jest za krótki, żeby zapisać. Zakończyć?
+--'--"
+Bieganie
+Przed chwilą
+Przed chwilą
+Przed chwilą
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d min temu
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Styl klasyczny
+Styl dowolny
+Styl grzbietowy
+Styl motylkowy
+Styl zmienny
+Alerty
+Wyszukiwanie urządzenia…
+Zatrzymaj
+Pochmurno
+Zachmurzenie
+Przelotny deszcz
+Burza z piorunami
+Grad
+Deszcz ze śniegiem
+Mżawka
+Umiarkowany deszcz
+Intensywne opady deszczu
+Ulewa
+Ulewa
+Silna ulewa
+Przelotne opady śniegu
+Lekkie opady śniegu
+Umiarkowane opady śniegu
+Duże opady śniegu
+Burza śnieżna
+Mgła
+Marznący deszcz
+Burza piaskowa
+Mżawka lub przelotne opady deszczu
+Przelotne lub intensywne opady deszczu
+Ulewny deszcz do burzy
+Burze i ulewy
+Ulewy i silne burze
+Lekkie lub umiarkowane opady śniegu
+Umiarkowane lub silne opady śniegu
+Silne opady śniegu przechodzące w śnieżycę
+Pył
+Wietrznie
+Silna burza piaskowa
+Mgła
+Gęsta mgła
+Mgła
+Umiarkowana mgła
+Gęsta mgła
+Bardzo silna mgła
+Gęsta mgła
+Bardzo gęsta mgła
+Brak
+Deszcz
+Śnieg
+Wł. na %d godz.
+Wł. na %d godz.
+Wł. na %d godz.
+Wł. na %d godz.
+Wł. na %d godz.
+Wł. na %d godz.
+Wł. na %d godz.
+--'--"
+Chwileczkę
+Nie odtwarza się
+Rozłączono
+Niewielki
+Wyrównanie
+Poprawa
+Wyraźna poprawa
+Przetrenowanie
+Ekran zostanie zablokowany po rozpoczęciu. Przesuń w górę, a następnie w dół, aby odblokować.
+Brak danych
+Chwileczkę…
+--°
+%d°
+-
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+godz.
+Regeneracja
+Zaktualizowano: %02d:%02d
+Stanie
+Bezchmurnie
+Brak powiadomień
+Stoper
+Minutnik
+Latarka
+Bieg/chód (początkujący)
+Bieg/chód (zaawansowany)
+Bieg truchtem
+Bieg na spalenie tkanki tłuszczowej (początkujący)
+Bieg na spalenie tkanki tłuszczowej (zaawansowany)
+Bieg MIIT
+Bieg na wytrzymałość (początkujący)
+Bieg na wytrzymałość (zaawansowany)
+Bieg interwałowy (początkujący)
+Bieg interwałowy (zaawansowany)
+Bieg/chód (początkujący)
+Bieg/chód (zaawansowany)
+Bieg truchtem
+Bieg na spalenie tkanki tłuszczowej (początkujący)
+Bieg na spalenie tkanki tłuszczowej (zaawansowany)
+Bieg MIIT
+Bieg na wytrzymałość (początkujący)
+Bieg na wytrzymałość (zaawansowany)
+Bieg interwałowy (początkujący)
+Bieg interwałowy (zaawansowany)
+Szybki chód
+Bieg truchtem
+Bieg
+Sprint
+%d:%02d
+%d
+Pozostało
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Trening
+Czas
+Bieżące tętno
+Kurs zakończony. Kontynuować ćwiczenia?
+Kontynuuj za %d sek.
+Kontynuuj za %d sek.
+Styl dowolny
+Zakończono!
+(Brak tytułu)
+%02u:%02u rano–
+%02u:%02u po południu–
+%02u:%02u rano
+%02u:%02u po południu
+%u.%u.%u
+%u.%u
+%02u:%02u
+Dzisiaj
+Jutro
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d godz.
+Za %d dzień
+Za %d dzień
+Za %d dzień
+Za %d dni
+Za %d dni
+Za %d dni
+Za %d dnia
+Za %d dzień
+Za %d dzień
+Za %d dzień
+Za %d dni
+Za %d dni
+Za %d dni
+Za %d dnia
+Teraz
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Za %d min
+Zaległe
+--
+Gotowe!
+Nie udało się autoryzować
+Długości w tej serii
+Pozostało
+%ld . %ld
+km
+m
+%02d : %02d
+Całodobowe monitorowanie stresu
+Zaawansowane monitorowanie snu
+Całodobowe monitorowanie stresu
+Zaawansowane monitorowanie snu
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Ekran włączony przez
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Ekran będzie włączony przez %d min za każdym razem. Wpłynie to na żywotność baterii. Włączyć mimo to?
+Inteligentne
+Zaplanowane
+Pogoda
+Alert
+预警。
+%02d:%02d AM
+%02d:%02d PM
+Przesuń w górę, aby odblokować
+Bardzo wysokie
+AQI %d
+%s
+Ekran włączony przez
+Alaska
+Vancouver
+Monterey
+Edmonton
+Phoenix
+Meksyk
+Winnipeg
+Gwatemala
+San Salvador
+Tegucigalpa
+Managua
+Hawana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+La Paz
+San Juan
+Caracas
+Santiago
+Asunción
+St. John's
+Zezwolić opasce na odblokowanie telefonu?
+Buenos Aires
+Montevideo
+Brasilia
+Praia
+Reykjavik
+Lizbona
+Casablanca
+Dublin
+Madryt
+Lagos
+Algier
+Bruksela
+Genewa
+Frankfurt
+Oslo
+Kopenhaga
+Rzym
+Berlin
+Praga
+Zagrzeb
+Wiedeń
+Sztokholm
+Budapeszt
+Warszawa
+Windhuk
+Sofia
+Talin
+Helsinki
+Bukareszt
+Kijów
+Harare
+Jerozolima
+Bejrut
+Kaliningrad
+Amman
+Chartum
+Mińsk
+Stambuł
+Ankara
+Petersburg
+Nairobi
+Addis Abeba
+Bagdad
+Aden
+Rijad
+Antananarywa
+Kuwejt
+Abu Zabi
+Muscat
+Samara
+Kabul
+Karaczi
+Mumbaj
+Katmandu
+Dhaka
+Ałmaty
+Nowosybirsk
+Phnom Penh
+Hanoi
+Dżakarta
+Kuala Lumpur
+Tajwan, Chiny
+Tajwan
+Perth
+Irkuck
+Manila
+Pjongjang
+Tokio
+Chita
+Darwin
+Władywostok
+Brisbane
+Adelaide
+Magadan
+Kamczatka
+Suva
+Auckland
+Kiritimati
+Waszyngton
+San Francisco
+Nic tu jeszcze nie ma
+Dzisiaj
+--
+OK
+m za
+m naprzód
+Mierzenie
+%d powiadomienie
+%d powiadomienie
+%d powiadomienie
+%d powiadomienia
+%d powiadomienia
+%d powiadomień
+%d powiadomienia
+Brak odtwarzania dźwięku
+Amsterdam
+Niski poziom baterii
+Poziom baterii poniżej %d%%. Naładuj.
+Skróty
+Czas treningu jest za krótki, żeby zapisać.
+Zegar światowy
+Cel: %d m
+Cel: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Sen
+Regeneracja
+Witalność
+Weixin Pay
+Alipay
+Wczoraj o %02d:%02d AM
+Wczoraj o %02d:%02d PM
+%02d.%02d %02d:%02d AM
+%02d.%02d %02d:%02d PM
+Opaska założona do snu będzie automatycznie rejestrowała informacje dotyczące Twojego snu. Urządzenie będzie wyświetlać 3 ostatnie zapisy; bardziej szczegółowe dane dotyczące snu możesz sprawdzić w aplikacji.
+Włącz w Ustawieniach Zaawansowane monitorowanie, aby uzyskać dokładniejsze informacje dotyczące snu, takie jak np. rozpoznawanie fazy REM.
+Urządzenie wyświetli średnie tętno, poziom SpO₂ i wynik snu, gdy sen będzie trwał powyżej 3 godzin. Dla drzemek trwających krócej niż 3 godziny tylko czas zaśnięcia i wybudzenia zostanie wyświetlony. Drzemki trwające poniżej 20 minut nie będą rejestrowane.
+Słaba jakość snu i nadmierne ruchy podczas snu mogą powodować niedokładne pomiary tętna i SpO₂.
+...
+Średnia
+Zła
+%02d:%02d:%02d.%02d
+Wprowadź PIN, aby odblokować
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Rozłączono Bluetooth. Połącz, aby zsynchronizować dane treningu.
+Za %u dzień
+Za %u dzień
+Za %u dzień
+Za %u dni
+Za %u dni
+Za %u dni
+Za %u dnia
+Bardzo dobra
+Nieznany
+Nieznany
+Brak informacji o utworze
+Początek
+Koniec
+%.2F
+Rozłączono
+Połącz przez Bluetooth i spróbuj ponownie
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Dowiedz się więcej
+.
+-
+Nazwa produktu
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+Docelowe BPM:
+Cel:
+Brak wydarzeń dzisiaj
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Silny
+%u Silny
+%u Silny
+%u%%
+--°
+--
+AQI --
+Połącz się z aplikacją, aby uzyskać informacje o pogodzie
+.
+Tętno
+Seria
+Seria
+Seria
+Seria
+Seria
+Czas
+Czas
+Czas
+Czas
+Czas
+Kroki
+Uderzenia
+Podskoki
+Długości
+Okrążenia
+Xiaomi Smart Band 8 NFC
+/
+-
+Możesz teraz edytować wyświetlacz opaski. Dotknij, aby potwierdzić edycję.
+Przesuń w prawo na wyświetlaczu opaski, aby zapisać zmiany.
+Zmiana języka
+Gdy Oszczędzanie baterii jest włączone, dostępne będą tylko zegar i licznik kroków. Naciśnij i przytrzymaj ekran lub ładuj, aby wyłączyć.
+Urządzenie jest przegrzane. Wyłączanie.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d dzień i %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d dni i %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d dzień i %d godz.
+Wyłączenie tej funkcji wydłuży żywotność baterii o %d dni i %d godz.
+Obciążenie treningowe
+Czas regeneracji (godz.)
+Witalność
++%u
+Przejdź w aplikacji do Urządzenie > Widżety, aby móc edytować widżety.
+Alarm
+Nadaj uprawnienia Trybowi Nie przeszkadzać w aplikacji
+OK
+Zaktualizowano %d min temu
+Zaktualizowano %d min temu
+%d°/%d°
+Dane wygasły
+Zaktualizowano: %02d:%02d
+Zaktualizowano wczoraj o %02d:%02d
+Wydarzenia
+Przed chwilą
+Upłynął limit czasu pomiaru. Upewnij się, że opaska jest dobrze dopasowana.
+,
+%ld,%ld
+%d
+km/h
+Bieżące tętno
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Koniec
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Stopy w tym kierunku
+Wymagane są uprawnienia do lokalizacji, aby móc rejestrować trasę.
+W ustawieniach telefonu zezwól Mi Fitness na dostęp do Twojej lokalizacji i wybierz „Zawsze zezwalaj”.
+%02d:%02d:%02d
+Noś urządzenie ciasno, mniej więcej na szerokość palca od kości nadgarstka, aby uzyskać dokładne pomiary tętna. Jeśli ześlizgnie się podczas ćwiczeń, natychmiast je wyreguluj.
+Ta aktywność rejestruje dane dotyczące rzutów frisbee tylko jedną ręką. Noś urządzenie na nadgarstku, którym będziesz rzucać.
+Wskazówki
+Rzuty
+Rzut
+Rzut
+Rzut
+Rzuty
+Rzuty
+Rzutów
+Rzutu
+Siła rzutu
+Mała
+Średnia
+Duża
+%d rzut
+%d rzut
+%d rzut
+%d rzuty
+%d rzuty
+%d rzutów
+%d rzutu
+Ustawienia trybu Nie przeszkadzać
+Tryb uśpienia
+Tryb Nie przeszkadzać włączy się automatycznie, gdy urządzenie rozpozna, że śpisz.
+Tryb uśpienia
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+%d godz.
+Cały dzień
+Własne
+Ustawienia

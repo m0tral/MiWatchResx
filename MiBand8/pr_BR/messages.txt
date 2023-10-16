@@ -1,0 +1,4324 @@
+Encontrar telefone
+Seu telefone tocará
+Procurar
+Parar
+Concluído
+Procurar novamente
+Desconectado
+Conecte-se via Bluetooth e tente novamente
+Abra a Câmera no seu telefone
+OK
+Emparelhe a câmera no app
+OK
+Desconectado
+Conecte-se via Bluetooth e tente novamente
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+%d s
+Agora
+Alarme
+Nenhum alarme
+AM
+PM
+%02d:%02d
+Uma vez
+Diariamente
+Dias úteis
+Feriados
+ 
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+Adicione até 10 alarmes
+Hora
+AM
+PM
+%02d
+%02d
+:
+Acordar inteligente
+Permite que sua pulseira escolha dentro de uma janela de 10 minutos antes do seu alarme para acordá-lo(a)
+Repetir
+Uma vez
+Diariamente
+Dias úteis
+Feriados
+Personalizado
+Personalizado
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+Adiar
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Desativado
+Adiar por 10 min
+Hora
+%02d:%02d
+%02d:%02d AM
+%02d:%02d PM
+Repetir
+Uma vez
+Diariamente
+Dias úteis
+Feriados
+ 
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+Acordar inteligente
+Ativado
+Desativado
+%d%%
+%02d:%02d
+Bateria abaixo de %d%%
+Bateria abaixo de %d%%. Ativar a Economia de bateria?
+Economia de bateria
+Cerca de %d dia %d h
+de bateria restante
+Apenas o relógio, contador de passos e o NFC estarão disponíveis com a Economia de bateria ativada. Pressione e segure a tela ou carregue para desativar.
+A pulseira está muito quente para carregar. Não utilize-a agora.
+A pulseira está muito fria para carregar. Não utilize-a agora.
+%02d:%02d
+Cronômetro
+%02d:%02d.%02d
+%02d:%02d:%02d
+%02d:%02d:%02d.%02d
+Nenhum local adicionado
+%02d:%02d
+Wellington
+Sydney
+Tóquio
+Seul
+Pequim
+Hong Kong
+Singapura
+Banguecoque
+Nova Deli
+Islamabad
+Dubai
+Moscou
+Cairo
+Cidade do Cabo
+Paris
+Londres
+Nova Iorque
+Chicago
+Los Angeles
+Honolulu
+Atenas
+Teerã
+Rangum
+Rio de Janeiro
+Wellington
+Sydney
+Tóquio
+Seul
+Pequim
+Hong Kong
+Singapura
+Banguecoque
+Nova Deli
+Islamabad
+Dubai
+Moscou
+Cairo
+Cidade do Cabo
+Paris
+Londres
+Nova Iorque
+Chicago
+Los Angeles
+Honolulu
+Atenas
+Teerã
+Rangum
+Rio de Janeiro
+Wellington
+Sydney
+Tóquio
+Seul
+Pequim
+Hong Kong
+Singapura
+Banguecoque
+Nova Deli
+Islamabad
+Dubai
+Moscou
+Cairo
+Cidade do Cabo
+Paris
+Londres
+Nova Iorque
+Chicago
+Los Angeles
+Honolulu
+Atenas
+Teerã
+Rangum
+Rio de Janeiro
+Dados de horário de verão desatualizados. Conecte-se ao app para atualizar.
+%02d:%02d
++%d h
++%.1f h
++%d h
++%d h
++%d h
++%d h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%d h
++%d h
+-%d h
+-%.1f h
+-%d h
+-%d h
+-%d h
+-%d h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%d h
+-%d h
+%02d/%02d
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%.1f h
+-%d h
+-%d h
+-%d h
+-%d h
+-%d h
+-%d h
+-%d h
++%d h
++%.1f h
++%d h
++%d h
++%d h
++%d h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%.1f h
++%d h
++%d h
+Adicionar localização
+Adicione mais localizações no app
+Adicione até
+20 localizações
+%02d:%02d
+Foco
+Descanso
+min
+min
+min
+min
+min
+min
+min
+Descanso
+%02d:%02d
+Definir duração
+Repouso
+Pausado
+Tempo de descanso
+Hoje
+%02d:%02d:%02d
+Hora de foco
+Foco
+Foco
+
+O Não perturbe está ativo durante esta sessão
+Permaneça focado
+Saiba mais
+Foco
+O Foco ajuda você a se concentrar dentro de um período curto de tempo para trabalhar de forma mais eficiente.
+
+Uma sessão de Foco geralmente dura 25 minutos. Quando começar, concentre-se integralmente na sua tarefa até o seu dispositivo vibrar, e neste ponto você poderá descansar por 5 minutos.
+
+Nós recomendamos uma pausa de 15 a 20 minutos para cada 4 sessões de Foco.
+Hora de focar
+Aguarde
+Não está reproduzindo
+Desconectado
+Permissões ausentes
+Ative as notificações no app
+OK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hai (Porco)
+ 
+ 
+ 
+ 
+ 
+%d/%d
+Semana %d
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%u%%
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Ative os Eventos no app
+Não há eventos
+%02d/%02d
+Seg.
+%02d/%02d
+Ter.
+%02d/%02d
+Qua.
+%02d/%02d
+Qui
+%02d/%02d
+Sex.
+%02d/%02d
+Sáb.
+%02d/%02d
+Dom.
+O dia inteiro
+%02d:%02d-%02d:%02d
+Adiar
+Dispensar
+Adiado
+por 10 min
+Ativar
+Não há eventos
+Adicione no app
+Hoje
+A seguir
+%02d:%02d AM
+%02d:%02d PM
+%d/%dSeg.
+%d/%dTer.
+%d/%dQua.
+%d/%dQui.
+%d/%dSex.
+%d/%dSáb.
+%d/%dDom.
+Adiar
+Dispensar
+%02d:%02d AM
+%02d:%02d PM
+Evento
+Adiado
+por 10 min
+Detalhes
+Encontrando o dispositivo…
+Parar
+Ouvindo
+Comece dizendo
+Configure a Mi AI no app
+Verifique sua 
+conexãod e rede 
+ou tente atualizar mais tarde
+Desconectado.
+ Conecte-se via Bluetooth.
+A pulseira está enviando 
+dados. Não é possível 
+utilizar o Mi AI agora.
+Este recurso ainda não é suportado
+O que você disse?
+Não foi possível acionar a Mi AI. Tente novamente.
+Segunda-feira
+Terça-feira
+Quarta-feira
+Quinta-feira
+Sexta-feira
+Sábado
+Domingo
+Toque para acionar a Mi AI
+Pergunte à Mi AI no seu telefone
+A Mi AI só está disponível na China continental no momento.
+Excelente
+Bom
+Moderado
+Insalubre
+Perigoso
+Tóxico
+Excelente
+Bom
+Moderado
+Insalubre
+Perigoso
+Tóxico
+℃
+℉
+%d°
+%d
+℃
+℉
+%d°
+Amanhã
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+IQA %d
+Nascer do sol
+Pôr do sol
+%02d:%02d
+Vento
+%d
+Umidade
+%d%%
+UV
+%lu
+%d°/%d°
+Alterar localização
+Defina as localizações nas 
+configurações de clima do app
+%d
+℃
+℉
+Cartões
+Adicione cartões no app
+Aguarde
+   
+Saldo
+Segure próximo do leitor
+Aguarde
+Não foi possível ativar.
+Tente novamente.
+Pago com sucesso
+-%.2F
+Saldo
+-%.2F
+Saldo baixo. Recarregue em breve.
+Respiração
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Iniciar
+Relaxe
+Foque na sua respiração
+Vamos lá
+Siga a bolha
+Inspire
+Expire
+Bom trabalho
+Sessão: %d min
+Sessão: %d min
+Sessão: %d min
+Sessão: %d min
+Sessão: %d min
+Sessão: %d min
+Sessão: %d min
+%2d:%2d
+Resultados
+FC atual
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+FC Inicial
+Sessão
+min
+min
+min
+min
+min
+min
+min
+Concluído
+Duração
+min
+min
+min
+min
+min
+min
+min
+%d
+%d
+%d respiração
+%d respiração
+%d respiração
+%d respirações
+%d respirações
+%d respirações
+%d respirações
+%02u:%02u
+Frequência cardíaca
+Medindo
+Não se mova
+%02u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Agora mesmo
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%02u:%02u
+Tente novamente
+Medir
+Não usando
+Não há dados
+Não usando
+OK
+%u
+%u
+Dicas
+1. Use sua pulseira acima do osso do pulso
+2. Mantenha sua pulseira bem ajustada e não se mova
+3. A precisão da medição pode ser afetada de acordo como a pulseira é utilizada, por alteração na sua pele, no ambiente, etc.
+*Este recurso não é indicado para finalidades médicas, e não é indicado para diagnosticas, tratar, curar ou prevenir qualquer doença ou condição.
+FC alta
+FC alta
+%u
+%02u:%02u
+%u-%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Saiba mais
+A sua pulseira lhe notifica quando a sua frequência cardíaca está acima de um nível definido enquanto você estiver em repouso. É normal que a sua frequência cardíaca suba em resposta a estresse, ingestão de cafeína, ou um resfriado. No entanto, pessoas com sensação de tontura, respiração superficial ou palpitações devem procurar aconselhamento médico. Observe que os dados de frequência cardíaca alta não são indicados para finalidades médicas, e não é indicado para diagnosticar, tratar, curar ou prevenir qualquer doença ou condição. A pulseira só exibe os 3 registros mais recentes de frequência cardíaca alta. Para maiores informações, verifique no app.
+FC baixa
+FC baixa
+Saiba mais
+A sua pulseira notifica quando a sua frequência cardíaca está abaixo de um nível definido. Isto é comum durante o sono ou em pessoas que são fisicamente ativas. Pessoas com sensação de tontura, respiração superficial ou palpitações devem procurar aconselhamento médico. Observe que os dados de frequência cardíaca baixa não são indicados para finalidades médicas, tampouco indicados para diagnosticar, tratar, curar ou prevenir qualquer doença ou condição. A pulseira só exibe o dado mais recente de frequência cardíaca baixa. Para mais informações, verifique no app.
+Arritmia cardíaca
+Irregular
+%02u:%02u-%02u:%02u
+Veja detalhes no app
+Saiba mais
+A sua pulseira medirá seu pulso e registrará qualquer anormalidade quando você estiver inativo(a). Caso não se sinta bem, procure ajuda médica.
+Zona de FC
+%uh %umin
+%uh %umin
+%uh %umin
+%uh %umin
+%uh
+%uh
+%uh
+%uh
+%uh
+%uh
+%uh
+%1uh
+%1uh
+%1uh
+%1uh
+%1uh
+%1uh
+%umin
+%umin
+%umin
+%umin
+%umin
+%umin
+%umin
+%2umin
+%2umin
+%2umin
+%2umin
+%2umin
+%2umin
+VO₂ máximo
+Anaeróbico
+Aeróbico
+Intensivo
+Leve
+Saiba mais
+Leve
+50%-60% da capacidade máxima da frequência cardíaca é adequada para aquecimento e desaquecimento.
+Intensivo
+A janela de 61%-70% é perfeita para queimar gordura.
+Aeróbico
+Em 71%-80%, as funções cardiorrespiratórias são fortalecidas.
+Anaeróbico
+Quando a janela de 81%-90% é alcançada, a tolerância ao ácido lático está sendo melhorada.
+VO₂ máximo
+Exercitar-se a 91%-100% da capacidade máxima de frequência cardíaca é adequado para pessoas experientes.
+Configurações
+Frequência cardíaca
+Monitoramento contínuo
+Desativado
+Automático
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+Monitoramento contínuo
+Analise sua frequência cardíaca o dia inteiro.
+Desativado
+Automático
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+%u min
+Arritmia cardíaca
+Ativado
+Arritmia cardíaca
+Este recurso monitora sua frequência cardíaca em tempo real e registra qualquer arritmia cardíaca.
+ 
+Ativar este recurso reduzirá significativamente a duração da bateria. Ativar mesmo assim?
+FC alta
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+FC alta
+Selecione uma frequência cardíaca acima onde você receberá um alerta
+Desativado
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+%u BPM
+FC alta
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Iniciando às %02u:%02u, sua FC em repouso estava acima de %u BPM.
+Dispensar
+Dispensar hoje
+FC baixa
+FC baixa
+Selecione uma frequência cardíaca abaixo na qual você receberá um alerta
+FC baixa
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Iniciando às %02u:%02u sua FC em repouso estava abaixo de %u BPM.
+Saiba mais
+Saiba mais
+Frequência cardíaca
+A frequência cardíaca é o número de vezes que o coração bate por minuto (BPM). Geralmente, uma frequência cardíaca em repouso varia de 55 a 80 BPM. No entanto, ela varia com a idade, gênero e outros fatores. O seu dispositivo suporta uma faixa de 30-240 BPM
+Sono
+Use o seu dispositivo ao dormir para gerar dados de sono
+%02u
+h
+min
+Meta: %2u h
+Meta: %2u h
+Meta: %2u h
+Meta: %2u h
+Meta: %2u h
+Meta: %2u h
+Meta: %2u h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+min
+Meta: %02uh %2umin
+Atualizado: %02u:%02u
+Soneca
+%02u
+%02u:%02u-%02u:%02u
+Sono
+Profundo
+%u%%
+Leve
+REM
+Acordou
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+FC média
+%u
+SpO₂ médio
+Configurações
+Saiba mais
+Configurações
+Monitoramento avançado
+Desativado
+Pontuação de respiração
+Ativado
+Monitoramento avançado
+Quando este recurso está ativado, o seu dispositivo acompanhará o seu sono REM.
+
+Ativar o Monitoramento avançado reduzirá significativamente a duração da bateria. Ativar mesmo assim?
+Pontuação de respiração
+Quando este recurso está ativado, sua respiração noturna será monitorada quando você estiver dormindo. Você pode ver a pontuação de respiração no app.
+Monitorar sua respiração reduzirá significativamente a duração da bateria. Ativar mesmo assim?
+Saiba mais
+Use sua pulseira ao dormir para acompanhar o sono. Você poderá visualizar os 3 últimos registros do histórico de sono na sua pulseira. O histórico detalhado está disponível no app em seu telefone. Ative o Monitoramento avançado nas Configurações para monitorar o sono REM e obter informações de sono mais precisas. Pelo menos 3 horas de sono ininterrupto permitirá que sua pulseira registre a frequência cardíaca média e o oxigênio no sangue. Para sonecas mais curtas, apenas o horário em que você dormiu e acordou serão registrados. Sonecas que duram menos de 20 minutos não serão registradas. Uma qualidade de sono ruim e movimentos excessivos no pulso durante o sono podem causar dados imprecisos de frequência cardíaca e falha no monitoramento do oxigênio no sangue.
+%02u:%02u
+Estresse
+Não há dados
+Medir
+%u
+Relaxado(a)
+Leve
+Moderado
+Severo
+Agora mesmo
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%02u:%02u
+Mantenha a pulseira parada e com a tela virada para cima
+%u
+Medindo
+Não se mova
+Não se mova
+Mantenha a pulseira tocando sua pele
+Mantenha seu pulso reto e a tela virada para cima
+Aperte mais a pulseira e tente novamente
+Aperte mais a pulseira e tente novamente
+Fique imóvel ao medir
+Aperte mais a pulseira e tente novamente
+Tente novamente
+OK
+Sessão interrompida. Cancelar agora?
+Dicas
+Use sua pulseira acima do osso do pulso.
+Mantenha sua pulseira bem ajustada e não se mova.
+As medições dependem de temperatura baixa, perfusão da pele, e mais.
+Este recurso não é indicado para finalidades médicas.
+Estresse alto
+%u
+Severo
+Experimente fazer exercícios de respiração.
+Respiração
+Entendido
+Dispensar hoje
+Estresse
+%u
+%u
+Relaxado(a)
+Leve
+Moderado
+Severo
+Agora mesmo
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%02u:%02u
+Medir
+Não há dados
+Detalhes
+Relaxado(a)
+Leve
+Moderado
+Severo
+%u%%
+Últimos 7d
+%02u/%02u
+Hoje
+%u
+média
+Configurações
+Saiba mais
+Estresse
+Monitorar durante todo o dia
+Ativado
+Desativado
+Lembrete para relaxar
+Monitorar durante todo o dia
+Este recurso monitora o seu nível de estresse quando você não está se movendo.
+Lembrete para relaxar
+Indicar um exercício de respiração quando seu nível de estresse ficar acima de 80 enquanto acordado
+Ativar este recurso reduzirá significativamente a duração da bateria. Ativar mesmo assim?
+Saiba mais
+Estresse é a reação do seu corpo aos desafios e demandas.
+O estresse é medido apenas durante períodos de repouso. Níveis de estresse são definidos como:
+Relaxado(a): 1-25 
+Leve: 26-50 
+Moderado: 51-80 
+Severo: 81-100
+Vários fatores podem afetar a precisão. Os resultados são apenas para referência.
+%02u:%02u
+SpO₂
+Não há dados
+Medir
+%u
+%
+Agora mesmo
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%02u:%02u
+Mantenha a pulseira parada e com a tela virada para cima
+%u
+SpO₂
+Medindo
+Calibrando
+Não se mova
+Não se mova
+Mantenha a pulseira tocando sua pele
+Mantenha seu pulso reto e a tela virada para cima
+Aperte mais a pulseira e tente novamente
+Tente novamente
+Aperte mais a pulseira e tente novamente
+Fique imóvel ao medir
+Aperte mais a pulseira e tente novamente
+Mantenha seu pulso reto e a tela virada para cima
+Mantenha a pulseira bem ajustada e não se mova
+Entendido
+Entendido
+Dicas
+1. Use sua pulseira acima do osso do pulso.
+2. Mantenha sua pulseira bem ajustada e não se mova.
+3. As medições dependem de temperatura baixa, perfusão da pele e mais.
+Este recurso não é indicado para finalidades médicas.
+SpO₂
+%u
+%u
+%
+Agora mesmo
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%umin atrás
+%02u:%02u
+Medir
+Alertas
+Configurações
+Saiba mais
+Saiba mais
+Sua pulseira suporta uma faixa de 75% a 100%.
+SpO₂ baixo
+1. O SpO₂ representa o percentual de oxigênio em seu sangue.
+%02u:%02u
+2. Leituras abaixo de 95% quando ativo ou abaixo de 90% ao dormir são consideradas baixas.
+%u
+%u%% - %u%%
+3. Há vários fatores que podem tornar as medições inconsistentes ou não confiáveis. Eles podem incluir perfusão da pele, mudanças permanentes ou temporárias em sua pele, movimento ou postura durante o sono. Todos os fatores acima podem resultar em um alerta de oxigênio no sangue falsamente baixo. Lembre-se que este não é um dispositivo médico, e os dados que ele gera não podem ser usados para diagnóstico e tratamento.
+Saiba mais
+Quando seu nível de saturação de oxigênio estiver abaixo do valor definido por um longo período, você receberá um alerta. Sua pulseira exibirá os 3 registros mais recentes. Veja mais no app.
+Caso sinta falta de ar, dor de cabeça, fadiga ou perda de concentração, procure atendimento médico.
+A faixa de medição da pulseira é de 75% a 100%. Este recurso não é indicado para finalidades médicas e deve ser utilizado apenas como referência.
+Sessão interrompida. Cancelar agora?
+Configurações
+Acompanhamento 24h
+Ativado
+Desativado
+Alertas
+Desativado
+%d%%
+%d%%
+%d%%
+Acompanhamento 24h
+Este recurso mede o seu SpO₂ quando você está em repouso.
+Alertas
+Receba um alerta quando seu SpO₂ ficar abaixo de um certo nível quando acordado
+Desativado
+0.8
+0.85
+0.9
+  
+Ativar este recurso reduzirá significativamente a duração da bateria. Ativar mesmo assim?
+Alertas
+%u
+%
+Seu SpO₂ atual está abaixo de %u%%
+Dispensar
+Dispensar hoje
+%02d:%02d
+Ciclos
+%02d/%02d
+%02d/%02d
+Não há dados hoje
+Registrar
+Dia %d
+Dia %d
+Dia %d
+Dia %d
+Dia %d
+Dia %d
+Dia %d
+Período estimado
+%02d/%02d-%02d/%02d
+Cancelar
+Término do período
+Período
+Ciclos
+%02d/%02d
+%02d/%02d
+Não há dados hoje
+Início do período
+Cancelar
+Término do período
+Previsões
+Ative a Previsão de períodos no app
+Saiba mais
+Dia %02d
+Dia %02d
+Dia %02d
+Dia %02d
+Dia %02d
+Dia %02d
+Dia %02d
+Fértil
+Período estimado
+Período
+%02d/%02d-%02d/%02d
+Fértil
+%02d/%02d-%02d/%02d
+Período
+Ovulando
+%02d/%02d
+Ovulação
+Em %d dia
+Em %d dia
+Em %d dias
+Em %d dias
+Em %d dias
+Em %d dias
+Em %d dias
+Saiba mais
+1. Cores
+Período
+Período estimado
+Fértil
+Ovulação
+2. Dica
+Para tornar as previsões mais precisas, registre os períodos e edite a duração do ciclo no app.
+Próximo período
+Próximo período fértil
+Próxima ovulação
+Amanhã
+Em 2 dias
+Em %u dia
+Em %u dia
+Em %u dia
+Em %u dia
+Em %u dias
+Em %u dias
+Em %u dias
+Em %u dias
+Próximo período em %u/%u
+Próximo período fértil em %u/%u
+Próximo dia de ovulação em %u/%u
+%02u:%02u
+AM
+PM
+Entendido
+Corrida ao ar livre
+Caminhada
+Marcha atlética
+Esteira
+Caminhada indoor
+Ciclismo ao ar livre
+Trekking
+Corrida em trilha
+Escalada
+Livre
+Fitness indoor
+Ioga
+Natação em piscina
+Natação em águas abertas
+Elíptico
+Remo seco
+Pular corda
+HIIT
+Tênis
+Basquete
+Snowboarding
+Esqui
+Esqui cross-country
+Golfe
+Outros esportes
+%02d/%02d
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Meta
+%d%
+Conclusão de meta
+%u.%02u
+km
+Meta
+Concluído
+Resumo
+%u'%02u"
+Ritmo médio
+Ritmo
+%d
+Cadência média (SPM)
+Passada média (cm)
+Calorias
+FC média
+FC máxima
+Passos
+VO₂ máximo
+Voltas
+Estilo principal
+SWOLF médio
+Total de braçadas
+SPM médio
+Duração do treino
+Tempo de descanso
+Conjuntos
+Total de remadas
+Total de saltos
+Freq. méd. (SPM)
+Bruços
+Livre
+Borboleta
+Costas
+Zona de FC
+VO₂ máximo
+Anaeróbico
+Aeróbico
+Intensivo
+Leve
+%dh %dmin
+%dh %dmin
+%dh %dmin
+%dh %dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%dmin
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Efeito do treino
+%d.%d
+Manutenção
+Treino aeróbico
+%d.%d
+Treino anaeróbico
+Veja mais detalhes no app
+%d
+Carga de treino
+Boa
+Baixa
+Alta
+Últimos 7 dias
+%d
+ml/kg/min
+VO₂ máximo
+Muito ruim
+Ruim
+Razoável
+Normal
+Bom
+Excelente
+Excepcional
+Nível
+Melhoria
+Manutenção
+Declínio
+Capacidade atlética
+ 
+A carga de treino é calculada com base em seu consumo excessivo de oxigênio pós-exercício (EPOC) nos últimos 7 dias. Ajuste sua carga de treino de acordo. Saiba mais em Ajuda no app.
+%02d:%02d
+Saiba mais
+O VO₂ máximo é um indicador chave da capacidade aeróbica do corpo. O dispositivo avaliará sua capacidade atlética com base em fatores como idade, gênero e frequência cardíaca durante o exercício, e o VO₂ máximo mudará à medida que sua capacidade atlética melhorar.
+Encontre seu VO₂ máximo
+1. Preencha suas informações pessoais no app. 2. Utilize a pulseira e corra ao ar livre por 10+ minutos para alcançar 75% da sua frequência cardíaca máxima.
+%d
+Tempo de recuperação (h)
+Totalmente recuperado(a)
+Quase recuperado(a)
+Reduza a intensidade
+Descanso necessário
+%02d:%02d
+Atualizado
+Agora mesmo
+%dm atrás
+%dm atrás
+%dm atrás
+%dm atrás
+%dm atrás
+%dm atrás
+%dm atrás
+%d
+Tempo de recuperação (h)
+Você pode aumentar a intensidade do treino
+Treinando como de costume
+Treinando em baixa intensidade
+Descanse adequadamente e pause os treinos
+Atividade
+%d registro não sincronizado
+%d registro não sincronizado
+%d registro não sincronizado
+%d registros não sincronizados
+%d registros não sincronizados
+%d registros não sincronizados
+%d registros não sincronizados
+Corrida ao ar livre
+Caminhada
+Marcha atlética
+Esteira
+Caminhada indoor
+Ciclismo ao ar livre
+Trekking
+Corrida em trilha
+Escalada
+Livre
+Fitness indoor
+Ioga
+Natação em piscina
+Natação em águas abertas
+Elíptico
+Remo seco
+Pular corda
+HIIT
+Tênis
+Basquete
+Snowboarding
+Esqui
+Esqui cross-country
+Golfe
+Outros esportes
+%02d:%02d
+%d/%02d/%02d
+%02d:%02d:%02d
+%d.%d
+%d
+km
+km
+km
+km
+km
+km
+km
+m
+mi
+m
+m
+m
+m
+m
+m
+%u'%02u"
+--
+Ritmo
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+Leve
+Intensivo
+Aeróbico
+Anaeróbico
+VO₂ máximo
+kcal
+Cadência (PPM)
+Passos
+Ritmo médio
+Conclusão de meta
+%lu.%02lu
+km atrás
+mi atrás
+%d'%d"
+%d%%
+Ritmo
+km à frente
+mi à frente
+Sets concluídos
+Tempo de descanso
+Tempo total
+Natação em piscina
+Vela
+Stand Up Paddle
+Polo aquático
+Outros esportes aquáticos
+Esqui aquático
+Caiaque
+Rafting
+Remo
+Motonáutica
+Natação com nadadeiras
+Salto ornamental
+Natação artística
+Snorkeling
+Kitesurfing
+Flowriding
+Barco Dragão
+Corrida ao ar livre
+Caminhada
+Escalada
+Ciclismo ao ar livre
+Trekking
+Corrida em trilha
+Escalada em rocha
+Skateboard
+Patins
+Parkour
+ATV
+Parapente
+BMX
+Marcha atlética
+Livre
+Esteira
+Pular corda
+HIIT
+Ioga
+Ciclismo indoor
+Elíptico
+Remo seco
+Subida em escada
+Stepper
+Spinning
+Treinamento de base
+Flexibilidade
+Pilates
+Ginástica
+Alongamento
+Força
+Treinamento cruzado
+Subir escadas
+Aeróbica
+Treino físico
+Bola na parede
+Halteres
+Barra
+Levantamento de peso
+Levantamento terra
+Burpee
+Agachamentos
+Treino funcional
+Tronco
+Pernas
+Abdômen
+Costas
+Simulador de caminhada
+Barra horizontal
+Barras paralelas
+Stepper
+Ginástica rítmica
+Cardio de Combate
+Corda de batalha
+Combo Aeróbico
+Caminhada indoor
+Fitness indoor
+Quadrilha
+Dança do ventre
+Balé
+Dança de rua
+Zumba
+Dança folclórica
+Dança de Jazz
+Dança latina
+Hip hop
+Pole dance
+Break dance
+Dança de salão
+Dança moderna
+Dança
+Boxe
+Luta livre
+Artes marciais
+Tai chi
+Muay Thai
+Judô
+Taekwondo
+Karatê
+Kickboxing
+Kendo
+Esgrima
+Jiu-jitsu
+Tênis
+Basquete
+Golfe
+Futebol
+Vôlei
+Beisebol
+Softball
+Futebol Americano
+Hóquei
+Tênis de mesa
+Badminton
+Críquete
+Handebol
+Boliche
+Squash
+Bilhar
+Peteca
+Futebol de areia
+Vôlei de praia
+Sepak takraw
+Futsal
+Footbag
+Bocha
+Jai alai
+Gateball
+Queimada
+Snowboarding
+Esqui
+Esqui cross-country
+Patinação no gelo
+Esqui no gelo indoor
+Curling
+Outros esportes de inverno
+Moto de neve
+Hóquei no gelo
+Bobsleigh
+Trenó
+Arco e flecha
+Dardos
+Andar a cavalo
+Cabo de guerra
+Bambolê
+Voo de pipa
+Pescaria
+Frisbee
+Peteca
+Balanço
+Jogo Somatosensorial
+Futebol de mesa
+Shuffleboard
+E-Sports
+Xadrez
+Damas
+Weiqi
+Bridge
+Jogos de Tabuleiro
+Equitação
+Atletismo
+Corrida de automóvel
+Localizando…
+Localizado com sucesso
+Intervalos
+Aquecimento
+Treino
+%d:%02d
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d
+Descanso
+Sets
+Desaquecimento
+Aquecimento
+Desaquecimento
+Treino
+Hora
+Distância
+Voltas
+Remadas
+Saltos
+Alertas
+Distância
+%d km
+%d mi
+Ritmo
+%d'%02d"
+Velocidade
+%d km/h
+Zona de FC alvo
+Leve
+Intensivo
+Aeróbico
+Anaeróbico
+VO₂ máximo
+FC alta
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Hidratação
+Desativar tudo
+Desativado
+Distância
+Lembrete
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+Velocidade
+Lembrete
+%d km/h
+Ritmo
+Lembrete
+%d'%02d"
+Zona de FC alvo
+Zona de FC
+Leve
+Intensivo
+Aeróbico
+Anaeróbico
+VO₂ máximo
+Zona de FC alvo
+Leve
+Intensivo
+Aeróbico
+Anaeróbico
+VO₂ máximo
+%d–%d BPM
+Natação em piscina
+Vela
+Stand Up Paddle
+Polo aquático
+Outros esportes aquáticos
+Esqui aquático
+Caiaque
+Rafting
+Remo
+Motonáutica
+Natação com nadadeiras
+Salto ornamental
+Natação artística
+Snorkeling
+Kitesurfing
+Flowriding
+Barco Dragão
+Corrida ao ar livre
+Caminhada
+Escalada
+Ciclismo ao ar livre
+Trekking
+Corrida em trilha
+Escalada em rocha
+Skateboard
+Patins
+Parkour
+ATV
+Parapente
+BMX
+Marcha atlética
+Livre
+Esteira
+Pular corda
+HIIT
+Ioga
+Ciclismo indoor
+Elíptico
+Remo seco
+Subida em escada
+Stepper
+Spinning
+Treinamento de base
+Flexibilidade
+Pilates
+Ginástica
+Alongamento
+Força
+Treinamento cruzado
+Subir escadas
+Aeróbica
+Treino físico
+Bola na parede
+Halteres
+Barra
+Levantamento de peso
+Levantamento terra
+Burpee
+Agachamentos
+Treino funcional
+Tronco
+Pernas
+Abdômen
+Costas
+Simulador de caminhada
+Barra horizontal
+Barras paralelas
+Stepper
+Ginástica rítmica
+Cardio de Combate
+Corda de batalha
+Combo Aeróbico
+Caminhada indoor
+Fitness indoor
+Quadrilha
+Dança do ventre
+Balé
+Dança de rua
+Zumba
+Dança folclórica
+Dança de Jazz
+Dança latina
+Hip hop
+Pole dance
+Break dance
+Dança de salão
+Dança moderna
+Dança
+Boxe
+Luta livre
+Artes marciais
+Tai chi
+Muay Thai
+Judô
+Taekwondo
+Karatê
+Kickboxing
+Kendo
+Esgrima
+Jiu-jitsu
+Tênis
+Basquete
+Golfe
+Futebol
+Vôlei
+Beisebol
+Softball
+Futebol Americano
+Hóquei
+Tênis de mesa
+Badminton
+Críquete
+Handebol
+Boliche
+Squash
+Bilhar
+Peteca
+Futebol de areia
+Vôlei de praia
+Sepak takraw
+Futsal
+Footbag
+Bocha
+Jai alai
+Gateball
+Queimada
+Snowboarding
+Esqui
+Esqui cross-country
+Patinação no gelo
+Esqui no gelo indoor
+Curling
+Outros esportes de inverno
+Moto de neve
+Hóquei no gelo
+Bobsleigh
+Trenó
+Dardos
+Andar a cavalo
+Cabo de guerra
+Bambolê
+Voo de pipa
+Pescaria
+Frisbee
+Peteca
+Balanço
+Jogo Somatosensorial
+Futebol de mesa
+Shuffleboard
+E-Sports
+Xadrez
+Damas
+Weiqi
+Bridge
+Jogos de Tabuleiro
+Equitação
+Arco e flecha
+Atletismo
+Corrida de automóvel
+Mais
+Mais
+Esportes aquáticos
+Atividades ao ar livre
+Treino
+Esportes de inverno
+Esportes recreativos
+Jogos de carta/tabuleiro
+Outros
+%d esporte
+%d esporte
+%d esporte
+Dança
+%d esportes
+Esportes de combate
+%d esportes
+Esportes com bola
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+%d esporte
+%d esporte
+%d esporte
+%d esportes
+%d esportes
+%d esportes
+%d esportes
+Parece que você está se exercitando
+Corrida ao ar livre
+Esteira
+Caminhada
+Ciclismo
+Elíptico
+Remo seco
+Pular corda
+Dispensar
+Pausar
+Encerrar
+Próximo set
+Pausar
+Encerrar
+Transição
+Pausado
+%d/%d
+Aquecimento
+%02d:%02d:%02d
+ 
+Concluído
+Treino
+%d
+%d
+Remadas neste set
+Restante
+Alvo
+Restante
+Alvo
+Restante
+Saltos neste set
+Restante
+Pular
+Descanso
+%02d:%02d:%02d
+Tempo de descanso
+%02d:%02d:%02d
+Restante
+Pular
+Desaquecimento
+%02d:%02d:%02d
+ 
+Encerrar
+Muito bem
+Acelere
+%d
+BPM alvo
+%d–%d
+Continue assim
+Mais devagar
+Acelere
+%d
+Alvo:
+%d km/h
+Continue assim
+Mais devagar
+Acelere
+%d'%d"
+Alvo
+%d'%d"
+Continue assim
+Mais devagar
+-- 
+km/h
+%d
+%
+Conclusão de meta
+%d
+km
+km
+km
+km
+km
+km
+km
+Meta: %d km
+Novo recorde!
+%02d:%02d:%02d
+%d:%02d:%02d
+%d
+km
+km
+km
+km
+km
+km
+km
+%d'%d"
+ 
+Conecte sua pulseira ao seu telefone para registrar informações da rota.
+Não é possível acessar as informações de localização. Não é possível registrar a rota do treino desta vez.
+Sinal do satélite fraco. Vá para uma área aberta.
+Conecte sua pulseira ao seu telefone para poder registrar informações precisas de localização e rotas.
+Conexão restaurada
+Localização restaurada
+O armazenamento está cheio. Este treino encerrará e nenhum outro dado será registrado. Conecte-se ao seu telefone para liberar espaço.
+Corrida
+Iniciante
+Corrida/caminhada básica
+Corrida/caminhada avançada
+Armazenamento insuficiente. Conecte-se ao seu telefone e libere espaço para evitar sobrescrever os dados.
+corrida básica
+Queima de gordura
+Corrida de queima de gordura (Básica)
+Corrida de queima de gordura (Avançada)
+MIIT
+Resistência
+Corrida de resistência (Básica)
+Corrida de resistência (Avançada)
+Intervalo
+Corrida intervalada (Básica)
+Corrida intervalada (Avançada)
+%02d:%02d
+Corrida/caminhada básica
+Corrida/caminhada avançada
+corrida básica
+Corrida de queima de gordura (Básica)
+Corrida de queima de gordura (Avançada)
+MIIT
+Corrida de resistência (Básica)
+Corrida de resistência (Avançada)
+Corrida intervalada (Básica)
+Corrida intervalada (Avançada)
+Localizado com sucesso
+%02d:%02d
+Corrida/caminhada básica
+Corrida/caminhada avançada
+Corrida básica
+Corrida de queima de gordura (Básica)
+Corrida de queima de gordura (Avançada)
+MIIT
+Corrida de resistência (Básica)
+Corrida de resistência (Avançada)
+Corrida intervalada (Básica)
+Corrida intervalada (Avançada)
+Introdução
+Combina caminhada e corrida em intervalos.
+Combina caminhada e corrida em intervalos.
+Corrida de intensidade baixa a moderada.
+Corrida curta para queima de gordura e perda de peso.
+Intensidade baixa a média, corrida estendida para queima de gordura.
+Treino com intervalo de média a alta intensidade.
+Corrida de duração média para resistência.
+Corrida mais longa para resistência.
+Treino com intervalos curtos para a saúde do coração e pulmões.
+Treino com intervalos longos para a saúde do coração e pulmões.
+Plano de treino
+Caminhada rápida
+Corrida
+Corrida média
+Corrida rápida
+%02d:%02d
+%02d:%02d
+%d/%d
+Caminhada rápida
+Corrida
+Corrida média
+Corrida rápida
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d-%d
+Meta de BPM
+%02d:%02d
+%02d:%02d:%02d
+%d.%d
+km
+kcal
+%d'%d"
+Ritmo
+%d
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+VO₂ máximo
+Anaeróbico
+Aeróbico
+Intensivo
+Leve
+%d
+PPM
+%d
+Passos
+%d'%d"
+Ritmo médio
+Saiba mais
+Passos
+Calorias
+Movimento
+Em pé
+"Passos" exibe uma contagem diária de passos. Uma pessoa ativa dá de 8000 a 10000 passos por dia.
+"Calorias" mostra o número de calorias ativas queimadas através de movimentos e exercícios.
+"Movimento" mostra seu tempo fazendo atividades moderadas e intensas. Procure fazer atividade moderada pelo menos 30 minutos por dia, 5 vezes por semana, ou tente fazer 75 minutos por semana de atividade intensa. Você verá seu progresso de "Movimento" quando sua cadência exceder 100 SPM ou sua frequência cardíaca exceder 65% de sua frequência cardíaca máxima.
+"Em pé" exibe as horas nas quais você se levantou e se moveu um pouco. Tente se levantar e se mover durante 12 horas diferentes no dia.
+%d passo
+Meta de passos alcançada
+Meta de passos alcançada. Bom trabalho!
+Você alcançou a meta de passos de hoje!
+%d passo
+%d passo
+%d passos
+%d passos
+%d passos
+%d passos
+%d kcal
+Meta de calorias alcançada
+Meta de calorias alcançada. Continue assim!
+Você alcançou a meta de calorias de hoje. Ótimo trabalho!
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d min
+Meta de movimento alcançada
+Meta de movimento alcançada. Ótimo trabalho!
+Muito bem, você alcançou a meta de movimento de hoje!
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d h
+Meta de Em pé alcançada
+Meta de Em pé alcançada. Bom trabalho!
+Bom trabalho! Você alcançou a meta de Em pé para hoje!
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+Metas alcançadas!
+Todas as metas alcançadas
+Você alcançou todas as metas para hoje! Bom trabalho!
+Todas as metas alcançadas! Muito bem!
+Metas alcançadas!
+Configurações
+Meta
+Intervalos
+Alertas
+Pausa automática
+Ritmo IA
+Comprimento da piscina
+Redefinir
+Meta
+Meta aberta
+Distância
+Duração
+Calorias
+Voltas
+Remadas
+Saltos
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d km
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d.%02d mi
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d kcal
+%d volta
+%d volta
+%d volta
+%d voltas
+%d voltas
+%d voltas
+%d voltas
+%d remada
+%d remada
+%d remada
+%d remadas
+%d remadas
+%d remadas
+%d remadas
+%d salto
+%d salto
+%d salto
+%d saltos
+%d saltos
+%d saltos
+%d saltos
+Distância
+km
+Duração
+HH:mm
+Calorias
+kcal
+Voltas
+Remadas
+Saltos
+Pausa automática
+Ritmo IA
+Ritmo
+%d‘%2d’’
+Ritmo
+   
+Comprimento da piscina
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Personalizado
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Comprimento da piscina
+m
+Redefinir todas as configurações de treino?
+FC alta
+Alerta
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Alerta
+Hidratação
+Lembrete
+Distância, %d km
+Distância, %d km
+Distância, %d km
+Distância, %d km
+Distância, %d km
+Distância, %d km
+Distância, %d km
+Distância, %d mi
+Distância, %d mi
+Distância, %d mi
+Distância, %d mi
+Distância, %d mi
+Distância, %d mi
+Distância, %d mi
+Duração, %d min
+Duração, %d min
+Duração, %d min
+Duração, %d min
+Duração, %d min
+Duração, %d min
+Duração, %d min
+Treino
+Hora
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Distância
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d km
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+%d mi
+Hora
+HH/mm
+Distância
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Distância
+km
+Velocidade
+km/h
+Ritmo
+   
+Mova-se
+Levante-se
+Entendido
+Dispensar hoje
+Desativar os lembretes de levantar-se hoje?
+Levante-se
+Redefinir todas as configurações de treino?
+Continue assim!
+Você atingiu seu objetivo ontem. Continue assim hoje!
+Você atingiu seu objetivo ontem. Continue assim hoje!
+Você alcançou 2 de 3 objetivos ontem. Você consegue!
+Você alcançou 2 de 3 objetivos ontem. Você consegue!
+Você não alcançou seus objetivos ontem. Faça o dia de hoje valer a pena!
+Você não alcançou suas metas ontem. Faça o dia de hoje valer a pena!
+Seus objetivos estão a seu alcance - hoje é um novo dia!
+Seus objetivos estão a seu alcance - hoje é um novo dia!
+Entendido
+Agora mesmo
+%d min atrás
+%d min atrás
+Hora de mover-se
+%d min atrás
+%d min atrás
+%d min atrás
+%d min atrás
+%d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+Atualizado: %02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+passo
+passo
+passo
+passos
+passos
+passos
+passos
+%d
+hora
+hora
+hora
+horas
+horas
+horas
+horas
+%d
+min
+%02d:%02d
+%02d:%02d
+Configurações
+Saiba mais
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%02d:%02d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+%d
+Atividade
+Status
+Estresse
+Sono
+Clima
+Música
+Alarme
+Eventos
+Agenda
+Cartões
+Mais
+Lanterna
+Ciclos
+Respiração
+Cronômetro
+Timer
+Encontrar telefone
+Relógio mundial
+Alertas
+Foco
+Mi AI
+Limpar tudo
+%02d:%02d AM
+%02d:%02d PM
+Ontem %02d:%02d
+%02d/%02d %02d:%02d
+%d notificação
+%d notificação
+%d notificação
+%d notificações
+%d notificações
+%d notificações
+%d notificações
+%02d:%02d AM
+%02d:%02d PM
+Ontem %02d:%02d
+%02d/%02d %02d:%02d
+Limpar
+%02d:%02d AM
+%02d:%02d PM
+Ontem %02d:%02d
+%02d/%02d %02d:%02d
+Dispensar
+Dispensar
+Deslize para cima para responder
+Enviando
+Enviado
+Não foi possível enviar
+Em uma reunião, te respondo em breve.
+Não posso falar agora. Precisa de algo?
+Não posso falar agora. Me ligue mais tarde.
+Utilizar esta tela da pulseira?
+Excluir esta tela da pulseira?
+Sincronizando
+Não foi possível sincronizar
+Não perturbe
+Desativado
+O dia inteiro
+Personalizado
+Permita respostas às mensagens no app
+%02d:%02d-%02d:%02d
+Sincronizar com o telefone
+Ativado
+Hora de início
+AM
+%02d
+%02d:%02d
+Hora de início
+PM
+Sincronizar com o telefone
+Quando ativado, o status do Não perturbe da pulseira seguirá o do telefone
+Não perturbe ativado
+Vibração
+Padrão
+Forte
+Desativado
+Notificações de apps
+Ligar tela para notificações
+Ativado
+Notificar apenas quando utilizando
+Ativado
+Notificar só se o telefone estiver bloqueado
+Ativado
+Ligar tela para notificações
+Ligar tela ao receber notificações
+Notificar apenas quando utilizando
+Desativar notificações quando a pulseira for retirada do pulso
+Notificar só se o telefone estiver bloqueado
+Saiba mais
+Certifique-se de que as notificações estão ativadas no Mi Fitness >Notificações de apps.
+Configurações
+Telas da pulseira
+Tela
+Configurações do Não perturbe
+Vibração
+Notificações de apps
+Detecção automática
+PIN
+Bateria
+Preferências
+Sistema
+Sobre a pulseira
+PIN
+Definir PIN
+Insira o PIN de 6 dígitos
+%d
+%d
+Os PINs não correspondem
+PIN definido
+PIN
+Desativar PIN
+Alterar PIN
+Novo PIN
+%d
+PIN desativado
+Incorreto
+Tente novamente em %d s
+Tente novamente em %d s
+Tente novamente em %d s
+Tente novamente em %d s
+Tente novamente em %d s
+Tente novamente em %d s
+Tente novamente em %d s
+Ajuda
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+Tente novamente em %d min
+ 
+Para redefinir o PIN, vá em Dispositivo > PIN no app.
+ 
+O PIN não pode ser desativado quando cartões bancários são adicionados.
+Detecção automática
+Detecção automática
+Você não receberá lembrete de treinos quando o Não perturbe estiver ativado.
+Preferências
+Método de acionamento
+Pressionar e segurar a tela
+Tocar na tela
+Deslizar para cima
+Pressionar e segurar a tela
+Quando ativado, pressione e segure Editar para editar a tela da pulseira
+Bateria
+%d
+%
+Bateria restante
+≈%d dia %d h
+Bateria restante
+≈%d dias %d h
+Bateria restante
+≈%d dia %d h
+Bateria restante
+≈%d dias %d h
+Economia de bateria
+Otimização
+Utilização
+Cerca de %d dia %d h
+de bateria restante
+Uma vez ativado, apenas as horas, o pedômetro e o NFC ficarão ativos. Pressione e segure a tela ou carregue para desativar.
+Economia de bateria
+%d
+%02d:%02d
+AM
+PM
+%d
+Saindo da Economia de bateria
+Saiba mais
+Duração da bateria
+A estimativa de duração da bateria é fornecida apenas para a sua referência. A duração real da bateria depende de fatores como o tempo que o dispositivo fica com a tela ligada, vibrando ou monitorando treinos.
+Otimização
+A otimização identifica recursos que estão utilizando muita bateria.
+Otimização
+Boa
+Não é necessário otimizar
+Otimização
+Ruim
+Os seguintes recursos afetarão a duração da bateria
+Tela sempre ativa
+Levantar para ligar tela
+Pontuação de respiração
+Acompanhamento 24h
+Arritmia cardíaca
+Tela sempre ativa
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d h.
+Método de acionamento
+Receba lembretes para iniciar um treino.
+Tipos suportados de treino incluem caminhada, corrida, ciclismo, pular corda, elíptico e remo seco.
+Tela
+Brilho
+Bloqueio automático
+Levantar para ligar tela
+Ligar tela por
+Tela sempre ativa
+Cobrir para suspender
+Automático
+%d segundo
+%d segundo
+%d segundo
+%d segundos
+%d segundos
+%d segundos
+%d segundos
+Ativado
+Desativado
+Ativado
+Desativado
+Ativado
+Desativado
+Programado
+Programado
+Automático
+Personalizado
+Brilho
+Automático
+%ds
+%ds
+%ds
+%ds
+%ds
+%ds
+%ds
+Bloqueio automático
+ 
+Manter a tela ligada por longos períodos reduzirá a duração da bateria. Continuar?
+Levantar para ligar tela
+Desativado
+Programado
+%02d:%02d-%02d:%02d
+ 
+A "Tela sempre ativa" está ativada. Ativar o "Levantar para ligar tela" reduzirá a duração da bateria. Ativar mesmo assim?
+Ligar tela por
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+
+Isto fará que a tela fique ligada por %d minuto por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Isto fará que a tela fique ligada por %d minuto por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Isto fará que a tela fique ligada por %d minuto por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Isto fará que a tela fique ligada por %d minutos por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Isto fará que a tela fique ligada por %d minutos por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Isto fará que a tela fique ligada por %d minutos por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Isto fará que a tela fique ligada por %d minutos por vez, o que afetará a duração da bateria. Continuar mesmo assim?
+Tela sempre ativa
+Desativado
+Inteligente
+Programado
+%02d:%02d-%02d:%02d
+   
+Ativar a "Tela sempre ativa" pode reduzir a duração da bateria pela metade. O "Levantar para ligar tela" será desativado. Continuar?
+Saiba mais
+Tela sempre ativa
+A hora será exibida mesmo quando a tela estiver bloqueada.
+Inteligente
+A Tela sempre ligada vai desligar quando você for dormir ou tirar a pulseira.
+Cobrir para suspender
+Início
+AM
+PM
+%02d:%02d
+%02d:%02d
+Complicação
+Condicionamento físico
+Básica
+Mi Smart Hub
+Meu telefone
+Alto-falante
+TV
+Fones de ouvido
+Cancelamento de ruído
+Transparência
+Desativado
+Dispositivo
+Utilizar tela da pulseira?
+Fones de ouvido
+Excluir tela da pulseira?
+Modo
+Para salvar as alterações, deslize para a direita na tela da pulseira.
+Cancelamento de ruído
+Transparência
+Desativado
+ 
+ 
+Aguarde…
+Alertas de clima
+预警！
+Entendido
+%02d:%02d AM
+%02d:%02d PM
+Conecte-se via Bluetooth e ative as "Atualizações de clima" no app.
+Conecte-se ao Bluetooth e ative as Notificações de clima para obter a previsão de tempo para suas localizações selecionadas.
+Conecte-se ao Bluetooth e tente novamente
+%02d:%02d
+Clima
+Não perturbe
+Não perturbe ativado
+Não perturbe desativado
+Encontrar telefone
+Configurações
+Não há dados
+Vela
+Stand Up Paddle
+Polo aquático
+Outros esportes aquáticos
+Esqui aquático
+Caiaque
+Rafting
+Remo
+Motonáutica
+Natação com nadadeiras
+Salto ornamental
+Natação artística
+Snorkeling
+Kitesurfing
+Flowriding
+Barco Dragão
+Escalada em rocha
+Skateboard
+Patins
+Parkour
+ATV
+Parapente
+BMX
+Ciclismo indoor
+Subida em escada
+Stepper
+Spinning
+Treinamento de base
+Flexibilidade
+Pilates
+Ginástica
+Alongamento
+Força
+Treinamento cruzado
+Subir escadas
+Aeróbica
+Treino físico
+Squash
+Halteres
+Barra
+Levantamento de peso
+Levantamento terra
+Burpee
+Agachamentos
+Treino funcional
+Tronco
+Pernas
+Abdômen
+Costas
+Simulador de caminhada
+Barra horizontal
+Barras paralelas
+Stepper
+Ginástica rítmica
+Cardio de Combate
+Corda de batalha
+Combo Aeróbico
+Fitness indoor
+Quadrilha
+Dança do ventre
+Balé
+Dança de rua
+Zumba
+Dança folclórica
+Dança de Jazz
+Dança latina
+Hip hop
+Pole dance
+Break dance
+Dança de salão
+Dança moderna
+Dança
+Boxe
+Luta livre
+Artes marciais
+Tai chi
+Muay Thai
+Judô
+Taekwondo
+Karatê
+Kickboxing
+Kendo
+Esgrima
+Jiu-jitsu
+Futebol
+Vôlei
+Beisebol
+Softball
+Futebol Americano
+Hóquei
+Tênis de mesa
+Badminton
+Críquete
+Handebol
+Boliche
+Bola na parede
+Bilhar
+Peteca
+Futebol de areia
+Vôlei de praia
+Sepak takraw
+Futsal
+Footbag
+Bocha
+Jai alai
+Gateball
+Queimada
+Patinação no gelo
+Esqui no gelo indoor
+Curling
+Outros esportes de inverno
+Moto de neve
+Hóquei no gelo
+Bobsleigh
+Trenó
+Arco e flecha
+Dardos
+Andar a cavalo
+Cabo de guerra
+Bambolê
+Voo de pipa
+Pescaria
+Frisbee
+Peteca
+Balanço
+Jogo Somatosensorial
+Futebol de mesa
+Shuffleboard
+E-Sports
+Xadrez
+Damas
+Weiqi
+Bridge
+Jogos de Tabuleiro
+Equitação
+Atletismo
+Corrida de automóvel
+Vela
+Stand Up Paddle
+Polo aquático
+Outros esportes aquáticos
+Esqui aquático
+Caiaque
+Rafting
+Remo
+Motonáutica
+Natação com nadadeiras
+Salto ornamental
+Natação artística
+Snorkeling
+Kitesurfing
+Flowriding
+Barco Dragão
+Escalada em rocha
+Skateboard
+Patins
+Parkour
+ATV
+Parapente
+BMX
+Ciclismo indoor
+Subida em escada
+Stepper
+Spinning
+Treinamento de base
+Flexibilidade
+Pilates
+Ginástica
+Alongamento
+Força
+Treinamento cruzado
+Subir escadas
+Aeróbica
+Treino físico
+Bola na parede
+Halteres
+Barra
+Levantamento de peso
+Levantamento terra
+Burpee
+Agachamentos
+Treino funcional
+Tronco
+Pernas
+Abdômen
+Costas
+Simulador de caminhada
+Barra horizontal
+Barras paralelas
+Stepper
+Ginástica rítmica
+Cardio de Combate
+Corda de batalha
+Combo Aeróbico
+Fitness indoor
+Quadrilha
+Dança do ventre
+Balé
+Dança de rua
+Zumba
+Dança folclórica
+Dança de Jazz
+Dança latina
+Hip hop
+Pole dance
+Break dance
+Dança de salão
+Dança moderna
+Dança
+Boxe
+Luta livre
+Artes marciais
+Tai chi
+Muay Thai
+Judô
+Taekwondo
+Karatê
+Kickboxing
+Kendo
+Esgrima
+Jiu-jitsu
+Futebol
+Vôlei
+Beisebol
+Softball
+Futebol Americano
+Hóquei
+Tênis de mesa
+Badminton
+Críquete
+Handebol
+Boliche
+Squash
+Bilhar
+Peteca
+Futebol de areia
+Vôlei de praia
+Sepak takraw
+Futsal
+Footbag
+Bocha
+Jai alai
+Gateball
+Queimada
+Patinação no gelo
+Esqui no gelo indoor
+Curling
+Outros esportes de inverno
+Moto de neve
+Hóquei no gelo
+Bobsleigh
+Trenó
+Arco e flecha
+Dardos
+Andar a cavalo
+Cabo de guerra
+Bambolê
+Voo de pipa
+Pescaria
+Frisbee
+Peteca
+Balanço
+Jogo Somatosensorial
+Futebol de mesa
+Shuffleboard
+E-Sports
+Xadrez
+Damas
+Weiqi
+Bridge
+Jogos de Tabuleiro
+Equitação
+Atletismo
+Corrida de automóvel
+Aguarde…
+%02d:%02d
+Pausar
+Encerrar
+Bloquear tela
+Transmitir
+Transmitir
+Procurando
+Xiaomi TV
+Conectando
+Dispositivo não encontrado
+Nome da TV
+Conectado
+Desconectado
+Não foi possível conectar-se
+Tentar novamente
+%02d:%02d
+Sincronizar treinos
+Utilize a sua pulseira como mostrado e comece um treino no app
+Voltar
+%02d:%02d
+Configurações
+Modos de corrida
+Tela
+Não perturbe
+Vibração
+%02d:%02d
+Modos de corrida
+Modo calçado
+Modo cordão
+Modo calçado
+Com o Modo calçado, você pode obter dados na forma que você corre. Comece um treino (corrida ou ciclismo) no app.
+Notificações de apps e a medição de frequência cardíaca serão desativados. Sua pulseira não responderá a toques acidentais.
+Ativar
+Voltar
+Comece o treino no app
+Treino em andamento
+O dispositivo está desconectado
+Deslize para cima para sair do Modo calçado
+Deslize para cima para sair
+Sair do Modo calçado?
+Os dados do tipo de corrida não serão registrados se você sair.
+Sair
+Cancelar
+Sair do Modo cordão?
+Sair
+Cancelar
+Modo cordão
+Com o Modo cordão, a tela permanecerá ligada mas não responderá a toques acidentais.
+As notificações de apps e medição de frequência cardíaca serão desativadas.
+Ativar
+Voltar
+Registre detalhes do ciclo no app
+%0.1f
+hora
+hora
+hora
+horas
+horas
+horas
+horas
+Sono
+Use o seu dispositivo ao dormir para gerar dados de sono
+%u
+h
+h
+h
+h
+h
+h
+h
+min
+min
+min
+min
+min
+min
+min
+Meta: %u h
+Meta: %u h
+Meta: %u h
+Meta: %u h
+Meta: %u h
+Meta: %u h
+Meta: %u h
+Frequência cardíaca
+Registre sua FC
+Iniciar
+%u
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+--
+Respiração
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Iniciar
+Respiração
+SpO₂
+Registre seu SpO₂
+u%
+%
+Estresse
+Registre o seu estresse
+u%
+Estresse
+%02d
+'
+"
+.
+:
+Salvando…
+Calibração
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Tempo de treino muito curto para registrar. Encerrar?
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+m
+m
+m
+m
+m
+m
+m
+Bateria fraca. Carregue e tente novamente.
+Atualize sua pulseira usando o app
+Não foi possível atualizar
+Atualizando
+Atualizado. Reiniciando.
+Preparando a atualização
+Recebendo atualização
+Não foi possível atualizar. Tente novamente no app.
+Atualização recebida. Reiniciando.
+A pulseira atualizará automaticamente durante a noite ou quando estiver carregando.
+Você está utilizando a versão mais recente.
+Lembrete de atualização
+Excluir
+
+%d
+
+%%
+Baixe o app para emparelhar a pulseira
+%d
+Confirme no seu telefone
+Confirme no seu telefone
+Emparelhando
+Não foi possível emparelhar. Tente novamente.
+Emparelhado
+-
+-
+-
+-
+Descanso
+min:s
+Sets
+Receba lembretes em intervalos de distância especificados
+%d volta
+%d remada
+%d salto
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d km
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+%d.%d mi
+Conecte-se ao app para personalizar feriados
+Sábados e Domingos são marcados como feriados por padrão.
+Entendido
+%d
+Meta
+%02d:%02d:%02d
+Concluído
+Meta
+%d
+kcal
+Concluído
+Meta
+volta
+volta
+volta
+voltas
+voltas
+voltas
+voltas
+Concluído
+Meta
+salto
+salto
+salto
+saltos
+saltos
+saltos
+saltos
+Concluído
+Meta
+remada
+remada
+remada
+remadas
+remadas
+remadas
+remadas
+Concluído
+Veja mais registros no app
+Sobre a pulseira
+Nome
+Xiaomi Smart Band 8
+Modelo
+Endereço MAC
+Certificação
+Certificação
+CMIIT ID
+Modelo
+Entrada
+Sistema
+Reiniciar
+Desligar
+Redefinir
+Reiniciar agora?
+Desligar agora?
+%02d:%02d
+Você terá que emparelhar novamente sua pulseira ao redefinir para os dados de fábrica. Continuar?
+Não usando
+Não foi possível medir
+Resultado
+Saiba mais
+SpO₂
+Resultado
+Não usando
+Não foi possível medir
+%02d:%02d
+Durma bem
+O Não perturbe está ativado. Levantar para ligar a tela está desativado.
+Não mostrar novamente
+%02d:%02d
+Hora de acordar
+Dispensar
+Adiar
+%02d:%02d
+Sono
+%dh%dmin
+%dh%dmin
+%dh%dmin
+%dh%dmin
+%d°/%d°
+Entendido
+%02d:%02d
+Sono
+Entendido
+%02d:%02d
+%d°/%d°
+Entendido
+Treino ao ar livre
+Utilize a sua pulseira como mostrado e comece um treino no app
+Voltar
+Configurações
+Modos de corrida
+Tela
+Não perturbe
+Vibração
+Modos de corrida
+Modo calçado
+Modo sono desativado
+às %02d:%02d
+Modo cordão
+Modo calçado
+Com o Modo calçado, você pode obter dados na forma que você corre. Comece um treino (corrida ou ciclismo) no app.
+Notificações de apps e a medição de frequência cardíaca serão desativados. Sua pulseira não responderá a toques acidentais.
+Ativar
+Voltar
+Comece o treino no app
+Treino em andamento
+O dispositivo está desconectado
+Sair do Modo calçado?
+Os dados do tipo de corrida não serão registrados se você sair.
+Sair
+Cancelar
+Modo calçado
+Deslize para cima para sair
+Modo cordão
+Deslize para cima para sair
+Modo cordão
+Com o Modo cordão, a tela permanecerá ligada mas não responderá a toques acidentais.
+As notificações de apps e medição de frequência cardíaca serão desativadas.
+Ativar
+Voltar
+Sair do Modo cordão?
+Sair
+Cancelar
+Ativar este recurso aumentará o consumo da bateria. Continuar mesmo assim?
+O som está ativado
+Aguarde…
+O som está desativado
+O som está desativado
+Aguarde
+O som está ativado
+Desconectado
+Desativar
+Ativar
+Conecte-se ao Bluetooth e tente novamente
+Permitir que a sua pulseira desbloqueie o telefone?
+Concluído!
+Não foi possível autorizar
+ 
+%d
+Timer
+Timer
+%d
+min
+min
+min
+min
+min
+min
+min
+h
+h
+h
+h
+h
+h
+h
+Definir hora
+%d
+%02d
+Definir min
+%02d:%02d
+%02d:%02d:%02d
+Tempo esgotado
+%02d:%02d atrás
+%02d:%02d:%02d atrás
+AQI %d %s
+Não foi possível emparelhar
+Adicione o dispositivo novamente
+Sobre a pulseira
+Certificação
+Redefinir
+Reiniciar
+%02d:%02d
+Sobre a pulseira
+Nome
+Xiaomi Smart Band 8
+Modelo
+Endereço MAC
+%02d:%02d
+Certificação
+CMIIT ID
+Entrada
+Reiniciar agora?
+Desligar agora?
+Você terá que emparelhar novamente sua pulseira ao redefinir para os dados de fábrica. Continuar?
+Bateria abaixo de %d
+--
+%02d:%02d
+Vitalidade
+%d
+Últimos 7 dias
+Progresso de 7 dias
+%d
+Últimos 7 dias
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.
+Dom.
+Hoje
+%d
+Hoje
+%d
+Leve
+Moderada
+Intensa
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
++%d
+Configurações
+Saiba mais
+Configurações
+Monitoramento contínuo
+Sua pontuação de Vitalidade é calculada utilizando a frequência cardíaca e dados de atividades. Permita que sua pulseira meça a sua frequência cardíaca mais vezes para uma pontuação de Vitalidade mais precisa.
+Saiba mais
+A pontuação de Vitalidade é uma forma de medir o impacto dos seus treinos à sua saúde. Para melhores resultados, tente alcançar 100 pontos em um período de 7 dias.
+As pontuações de Vitalidade são baseadas em recomendações de diretrizes da OMS em atividades físicas e comportamento sedentário.
+Sendo assim, adultos devem realizar cerca de 150 a 300 minutos de atividade moderada a intensa ou de 75 a 150 minutos de atividades aeróbicas de alta intensidade por semana, ou uma combinação de ambos, para o máximo de benefícios à saúde.
+Qualquer atividade física, incluindo atividades de baixa intensidade, são melhores para a sua saúde do que permanecer sedentário(a).
+%d
+Últimos 7 dias
+%d
+Hoje
+Últimos 7 dias
+%d
+Continue se movendo para ver ainda mais resultados!
+Entendido
+Dispensar hoje
+Você está no caminho certo!
+Você é imparável, continue assim!
+Você ganhou a quantidade máxima de Vitalidade hoje. Faça uma pausa!
+Bloquear tela
+Depois de acionar a tela, deslize para cima para desbloquear.
+%u
+FC em repouso por 7 dias
+%02u/%02u
+Modelo
+Hoje
+Hoje
+Aperte mais a pulseira e tente novamente
+Emparelhar com o telefone?
+A pulseira atualizará automaticamente durante a noite ou quando estiver carregando
+Você está utilizando a versão mais recente
+Entendido
+Não foi possível atualizar. Conecte-se ao app e tente novamente.
+Abrir no telefone
+OK
+Responder
+Enviando
+Enviado
+Não foi possível enviar
+Desconectado
+Conecte-se ao Bluetooth e tente novamente
+Tempo de treino muito curto para registrar. Encerrar?
+Retomar
+Encerrar
+Veja relatórios dos treinos no app
+Concluído
+%02d:%02d
+%02d
+Ritmo
+kcal
+Velocidade (km/h)
+Velocidade (mph)
+Distância atual
+Hora atual
+Kcal atual
+Volta atual
+Saltos atuais
+Remadas atuais
+Meta
+Meta
+Meta
+Meta
+Meta
+Meta
+Conclusão de meta
+%02d:%02d
+%d.%d
+Vel. média (km/h)
+Vel. média (mph)
+Freq. (vezes/min)
+Saltos atuais
+Este set
+Saltos neste set
+Total
+Kcal ativas
+Este set
+Calorias
+%d.%d
+Vel. média (km/h)
+Vel. média (mph)
+FC alta
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+FC máxima
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+%d BPM
+Mi Smart Hub
+Câmera
+Silenciar telefone
+Vitalidade
+Não perturbe por %d h
+Não perturbe por %d h
+Não perturbe por %d h
+Não perturbe por %d h
+Não perturbe por %d h
+Não perturbe por %d h
+Não perturbe por %d h
+Desativado
+Desconectado
+:
+%02d:%02d - dia seguinte %02d:%02d
+Não perturbe desativado
+Ao utilizar o telefone, você não receberá notificações do telefone na pulseira.
+Desativado
+Desativado
+Desativado
+English
+Deutsch
+Italiano
+Français
+Español
+日本語
+한국어
+Nederlands
+Português PT
+Türkçe
+العربية
+Polski
+Українська
+Română
+Čeština
+Eλληνικά
+עברית
+Русский
+ไทย
+Tiếng Việt
+Português BR
+Indonesia
+繁體中文
+Svenska
+Suomi
+Norsk bokmål
+Dansk
+简体中文
+Estatísticas
+Frequência cardíaca
+SpO₂
+Treino
+Conecte o carregador adequadamente
+-
+Treinos
+Estatísticas
+Passos
+Calorias
+Movimento
+Frequência cardíaca
+SpO₂
+Estresse
+Bateria
+Data
+Clima
+IUV
+IQA
+Umidade
+Cartões
+Alarme
+Cronômetro
+Câmera
+Ferramentas
+Clima
+volta
+volta
+volta
+voltas
+voltas
+voltas
+voltas
+--'--"
+No. da versão
+No. de série
+%d
+km
+km
+km
+km
+km
+km
+km
+mi
+mi
+mi
+mi
+mi
+mi
+mi
+Beber água
+%02d:%02d:%02d
+Retomar
+Levantar para ligar tela
+Pontuação de respiração
+Acompanhamento 24h
+Arritmia cardíaca
+%d
+Meta: %d kcal
+Meta: %d kcal
+Meta: %d kcal
+Meta: %d kcal
+Meta: %d kcal
+Meta: %d kcal
+Meta: %d kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+Meta: %d volta
+Meta: %d volta
+Meta: %d volta
+Meta: %d voltas
+Meta: %d voltas
+Meta: %d voltas
+Meta: %d voltas
+volta
+volta
+volta
+voltas
+voltas
+voltas
+voltas
+Meta: %d remada
+Meta: %d remada
+Meta: %d remada
+Meta: %d remadas
+Meta: %d remadas
+Meta: %d remadas
+Meta: %d remadas
+remada
+remada
+remada
+remada
+remada
+remada
+remada
+Meta: %d salto
+Meta: %d salto
+Meta: %d salto
+Meta: %d saltos
+Meta: %d saltos
+Meta: %d saltos
+Meta: %d saltos
+salto
+salto
+salto
+saltos
+saltos
+saltos
+saltos
+%d.%d
+Meta: %d.%d km
+Meta: %d.%d km
+Meta: %d min
+Meta: %d min
+Meta: %dh %dmin
+Meta: %dh %dmin
+Meta: %dh %dmin
+Meta: %dh %dmin
+Confirmar PIN
+Inserir PIN
+Incorreto
+Desconectado
+%d
+%
+min
+min
+min
+min
+min
+min
+min
+%d
+passo
+passo
+passo
+passos
+passos
+passos
+passos
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+%d
+min
+min
+min
+min
+min
+min
+min
+%d
+h
+h
+h
+h
+h
+h
+h
+Recorde de distância
+%d.%d
+%d
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+kcal
+volta
+volta
+volta
+voltas
+voltas
+voltas
+voltas
+salto
+salto
+salto
+saltos
+saltos
+saltos
+saltos
+remada
+remada
+remada
+remadas
+remadas
+remadas
+remadas
+km
+Recorde de tempo
+Pausado
+Distância do treino muito curta para registrar. Encerrar?
+--'--"
+Corrida
+Agora mesmo
+Agora mesmo
+Agora mesmo
+%d min atrás
+%d min atrás
+%d min atrás
+%d min atrás
+%d min atrás
+%d min atrás
+%d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d min atrás
+%02d:%02d
+%02d:%02d
+%02d:%02d
+Bruços
+Livre
+Costas
+Borboleta
+Medley
+Alertas
+Encontrando o dispositivo…
+Parar
+Nublado
+Muito nublado
+Chuvas
+Trovoada
+Granizo
+Granizo
+Chuva fraca
+Chuva moderada
+Chuva forte
+Tempestade
+Chuva torrencial
+Tempestade intensa
+Chuva com neve
+Neve fraca
+Neve moderada
+Neve intensa
+Nevasca
+Névoa
+Chuva congelada
+Tempestade de areia
+Chuva fraca a moderada
+Chuva moderada a intensa
+Chuva intensa a tempestade
+Tempestade a chuva torrencial
+Chuva torrencial a tempestade forte
+Neve fraca a moderada
+Neve moderada a intensa
+Neve intensa a nevasca
+Poeira
+Ventania
+Tempestade de areia intensa
+Nevoeiro
+Nevoeiro espesso
+Neblina
+Neblina moderada
+Neblina intensa
+Neblina severa
+Nevoeiro forte
+Nevoeiro severo
+N/A
+Chuva
+Neve
+Ativado por %d h
+Ativado por %d h
+Ativado por %d h
+Ativado por %d h
+Ativado por %d h
+Ativado por %d h
+Ativado por %d h
+--'--"
+Aguarde
+Não está reproduzindo
+Desconectado
+Baixo
+Recuperação
+Melhoria
+Alta melhoria
+Excesso de exercícios
+A tela bloqueará quando você começar. Deslize para cima, e então para baixo para desbloquear.
+Não há dados
+Aguarde…
+--°
+%d°
+-
+h
+h
+h
+h
+h
+h
+h
+Recuperação
+Atualizado: %02d:%02d
+Em pé
+Limpo
+Nenhuma notificação
+Cronômetro
+Timer
+Lanterna
+Corrida/caminhada básica
+Corrida/caminhada avançada
+corrida básica
+Corrida de queima de gordura (Básica)
+Corrida de queima de gordura (Avançada)
+Corrida MIIT
+Corrida de resistência (Básica)
+Corrida de resistência (Avançada)
+Corrida intervalada (Básica)
+Corrida intervalada (Avançada)
+Corrida/caminhada básica
+Corrida/caminhada avançada
+corrida básica
+Corrida de queima de gordura (Básica)
+Corrida de queima de gordura (Avançada)
+Corrida MIIT
+Corrida de resistência (Básica)
+Corrida de resistência (Avançada)
+Corrida intervalada (Básica)
+Corrida intervalada (Avançada)
+Caminhada rápida
+Corrida
+Corrida média
+Corrida rápida
+%d:%02d
+%d
+Restante
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+BPM
+%d/%d
+Treino
+Hora
+FC atual
+Curso finalizado. Continuar treinando?
+Continuar em %ds
+Continuar em %ds
+Livre
+Finalizado!
+(Sem título)
+%02u:%02uAM-
+%02u:%02uPM-
+%02u:%02uAM
+%02u:%02uPM
+%u/%u/%u
+%u/%u
+%02u:%02u
+Hoje
+Amanhã
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d h
+Em %d dia
+Em %d dia
+Em %d dia
+Em %d dias
+Em %d dias
+Em %d dias
+Em %d dias
+Em %d dia
+Em %d dia
+Em %d dia
+Em %d dias
+Em %d dias
+Em %d dias
+Em %d dias
+Agora
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Em %d min
+Atrasado
+--
+Concluído!
+Não foi possível autorizar
+Voltas neste set
+Restante
+%ld . %ld
+km
+m
+%02d : %02d
+Monitoramento contínuo de estresse
+Monitoramento de sono avançado
+Monitoramento contínuo de estresse
+Monitoramento de sono avançado
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+%d min
+Ligar tela por
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+A tela permanecerá ligada por %d min a cada vez. Isto afetará a duração da bateria. Ativar mesmo assim?
+Inteligente
+Programado
+Clima
+Alerta
+预警。
+%02d:%02d AM
+%02d:%02d PM
+Deslize para cima para desbloquear
+Muito alta
+AQI %d
+%s
+Ligar tela por
+Alaska
+Vancouver
+Monterrey
+Edmonton
+Phoenix
+Cidade do México
+Winnipeg
+Guatemala
+San Salvador
+Tegucigalpa
+Manágua
+Havana
+Atlanta
+Toronto
+Nassau
+Lima
+Kingston
+Nuestra Señora de La Paz
+San Juan
+Caracas
+Santiago
+Assunção
+St. John's
+Permitir que a sua pulseira desbloqueie o telefone?
+Buenos Aires
+Montevidéu
+Brasília
+Praia
+Reykjavík
+Lisboa
+Casablanca
+Dublin
+Madri
+Lagos
+Argel
+Bruxelas
+Genebra
+Frankfurt
+Oslo
+Copenhague
+Roma
+Berlim
+Praga
+Zagreb
+Viena
+Estocolmo
+Budapeste
+Varsóvia
+Vinduque
+Sofia
+Tallinn
+Helsinque
+Bucareste
+Kiev
+Harare
+Jerusalém
+Beirute
+Kaliningrado
+Amã
+Cartum
+Minsk
+Istambul
+Ankara
+São Petersburgo
+Nairóbi
+Adis Abeba
+Bagdá
+Adem
+Riade
+Antananarivo
+Kuwait
+Abu Dhabi
+Mascate
+Samara
+Cabul
+Karachi
+Mumbai
+Catmandu
+Daca
+Almaty
+Novosibirsk
+Phnom Penh
+Hanoi
+Jacarta
+Kuala Lumpur
+Taiwan, China
+Taiwan
+Perth
+Irkutsk
+Manila
+Pyongyang
+Tóquio
+Chita
+Darwin
+Vladivostoque
+Brisbane
+Adelaide
+Magadan
+Kamtchatka
+Suva
+Auckland
+Kiritimati
+Washington, D. C.
+San Francisco
+Nada aqui por enquanto
+Hoje
+--
+OK
+m atrás
+m à frente
+Medindo
+%d notificação
+%d notificação
+%d notificação
+%d notificações
+%d notificações
+%d notificações
+%d notificações
+Não está reproduzindo
+Amsterdã
+Bateria fraca
+Bateria abaixo de %d%%. Carregue agora.
+Atalhos
+A duração do treino é muito curta para ser registrada.
+Relógio mundial
+Meta: %d m
+Meta: %d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+%d m
+Sono
+Recuperação
+Vitalidade
+Weixin Pay
+Alipay
+Ontem %02d:%02d AM
+Ontem %02d:%02d PM
+%02d/%02d %02d:%02d AM
+%02d/%02d %02d:%02d PM
+Ao utilizar a sua pulseira para dormir, ela registrará automaticamente informações sobre o seu sono. O dispositivo exibirá os últimos 3 registros; você pode ver informações mais detalhadas no app.
+Ative o Monitoramento avançado nas Configurações para obter informações de sono mais precisas, como reconhecimento de sono REM.
+Quando você dorme por mais de 3 horas, o seu dispositivo exibirá a média da sua frequência cardíaca, o nível de SpO₂ e a pontuação do sono. Para cochilos com menos de 3 horas, somente a hora em que você dormiu e acordou serão exibidas. Cochilos de menos de 20 minutos não serão registrados.
+Uma má qualidade de sono e movimento excessivo ao dormir podem causar leituras imprecisas de frequência cardíaca e SpO₂.
+...
+Normal
+Ruim
+%02d:%02d:%02d.%02d
+Insira o PIN para desbloquear
+-
+%u:%02u'%02u"
+%u:%02u'%02u"
+%u.%u
+.
+.
+Bluetooth desconectado. Conecte-se para sincronizar os dados de treino.
+Em %u dia
+Em %u dia
+Em %u dia
+Em %u dias
+Em %u dias
+Em %u dias
+Em %u dias
+Excelente
+Desconhecido
+Desconhecido
+Sem informações da faixa
+Iniciar
+Encerrar
+%.2F
+Desconectado
+Conecte-se via Bluetooth e tente novamente
+%02d:%02d
+.
+.
+.
+%d~%d
+%d km/h
+%d km/h
+%d km/h
+%d km/h
+%d°
+%d
+%d
+%d
+%d
+  
+.
+.
+Saiba mais
+.
+-
+Nome do produto
+智能手环
+小米通讯技术有限公司
+中国制造
+5.0V DC
+400mA Max
+BPM alvo:
+Alvo:
+Nenhum evento para hoje
+%u
+%
+%02u
+.
+%u
+%02u:%02u:%02u
+%02u:%02u:%02u
+%02d:%02d
+.
+%u BPM
+%u Severo
+%u Severo
+%u Severo
+%u%%
+--°
+--
+AQI --
+Conecte-se ao app para obter informações de clima
+.
+Frequência cardíaca
+Conjunto
+Conjunto
+Conjunto
+Conjunto
+Conjunto
+Hora
+Hora
+Hora
+Hora
+Hora
+Passos
+Remadas
+Saltos
+Voltas
+Voltas
+Xiaomi Smart Band 8 NFC
+/
+-
+Você pode editar sua tela da pulseira agora. Toque para confirmar a edição.
+Para salvar as alterações, deslize para a direita na tela da pulseira.
+Alterando o idioma
+Apenas o relógio e o contador de passos estarão disponíveis com a Economia de bateria ativada. Pressione e segure a tela ou carregue para desativar.
+Dispositivo superaquecendo. Desligando.
+Desativar este recurso vai estender a duração da bateria por cerca de %d dia %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d dias %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d dia %d h.
+Desativar este recurso vai estender a duração da bateria por cerca de %d dias %d h.
+Carga de treino
+Tempo de recuperação (h)
+Vitalidade
++%u
+Para editar os widgets, vá em Dispositivo > Widgets no app.
+Alarme
+Conceda as permissões de Não perturbe no app
+OK
+Atualizado %dm atrás
+Atualizado %dm atrás
+%d°/%d°
+Dados expirados
+Atualizado: %02d:%02d
+Atualizado ontem, %02d:%02d
+Eventos
+Agora mesmo
+Tempo limite da aferição. Certifique-se de que a pulseira está bem ajustada.
+,
+%ld,%ld
+%d
+km/h
+FC atual
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Encerrar
+Max force (G)
+Max speed (ms)
+Start punching when the countdown ends
+Test the speed and strength of your punch! Wear your band and punch as hard as you can to get information about your punch speed and force.
+Make sure you're wearing your band correctly and punch as hard as you can
+Dedos nesta direção
+A permissão de localização é necessária para registrar a sua rota.
+Nas Configurações do seu telefone, conceda permissão ao Mi Fitness para acesasr a sua localização, e selecione "Permitir sempre".
+%02d:%02d:%02d
+Para aferição precisa da frequência cardíaca, prenda firmemente o seu dispositivo, a cerca de um dedo acima do osso do pulso. Caso ele saia de posição ao exercitar-se, reajuste-o o quanto antes.
+Esta atividade só registrará dados de frisbees lançados de uma mão. Utilize o dispositivo no pulso que você utilizará para lançar.
+Dicas
+Lançamentos
+Lançamento
+Lançamento
+Lançamento
+Lançamentos
+Lançamentos
+Lançamentos
+Lançamentos
+Força de lançamento
+Baixa
+Média
+Alta
+%d lançamento
+%d lançamento
+%d lançamento
+%d lançamentos
+%d lançamentos
+%d lançamentos
+%d lançamentos
+Configurações do Não perturbe
+Modo sono
+Quando o dispositivo detectar que você está dormindo, o Não perturbe será ativado automaticamente.
+Modo sono
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+%d h
+O dia todo
+Personalizado
+Configurações
