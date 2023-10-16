@@ -1276,9 +1276,9 @@
 [muay_thai.sport|1]: Муай Тай
 [multi_connect.share|1]: multi_connect.share
 [musicController|1]: Музыка
-[mute.appname|1]: Беззвучный режим
+[mute.appname|1]: Беззвучный\nрежим
 [mute_mode.mute|1]: Звук выключен
-[mute_title.mute|1]: Беззвучный режим
+[mute_title.mute|1]: Беззвучный\nрежим
 [mute_toast.mute|1]: Звук включен
 [my_family.mihome|1]: Дома
 [mz_lunar.calendar|1]: Сезон мангровых зарослей
