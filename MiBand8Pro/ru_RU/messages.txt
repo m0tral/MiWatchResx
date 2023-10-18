@@ -713,8 +713,8 @@
 [day_pressure.settings|1]: Круглосуточный мониторинг стресса
 [deadlift.sport|1]: Становая тяга
 [deep.sleep|1]: Глубокий
-[default_aod.settings|1]: AOD по умолчанию
-[default_aod.watchface|1]: AOD по умолчанию
+[default_Активный экран.settings|1]: Активный экран по умолчанию
+[default_Активный экран.watchface|1]: Активный экран по умолчанию
 [del_all.common|1]: Очистить все
 [del_tip.watchface|1]: Удалить циферблат?
 [delay.calendar|1]: Отложить
@@ -737,7 +737,7 @@
 [disconnect.common|1]: Отключить
 [disconnect.sport|1]: Отключить
 [disconnect_retry.common|1]: Bluetooth не подключен\n Пожалуйста подключите Bluetooth и повторите попытку.
-[disp_reminder.settings|1]: Если включена функция AOD приоритет будет отдан отображению часов по умолчанию.
+[disp_reminder.settings|1]: Если включена функция Активный экран приоритет будет отдан отображению часов по умолчанию.
 [display.settings|1]: Экран
 [display_on.sport|1]: Всегда включен
 [display_title.settings|1]: Экран
@@ -1265,8 +1265,8 @@
 [more_add.worldclock|1]: Добавьте новое местоположение\nв приложении
 [more_sport.sport|1]: Больше
 [motion.settings|1]: Автоопределение
-[motion_disturb.settings|1]: Невозможно отправить напоминание о тренировке при включенном DND
-[motion_info.settings|1]: Получайте напоминания о начале тренировки.\nПоддерживаются такие виды тренировок как ходьба прыжки со скакалкой гребля велотренажер эллиптический тренажер и бег.
+[motion_disturb.settings|1]: Невозможно отправить напоминание о тренировке при включенном "не беспокоить"
+[motion_info.settings|1]: Получайте напоминания о начале тренировки.\nПоддерживаются тренировки на велосипеде, орбитреке, гребном тренажере, а также ходьба, бег и прыжки со скакалкой.
 [motion_reminder.settings|1]: Включение напоминаний о тренировках влияет на время работы аккумулятора.
 [motion_sensing_game.sport|1]: Соматосенсорная игра
 [motion_title.settings|1]: Автоопределение
@@ -1497,8 +1497,8 @@
 [quality_box.sleep|1]: Контроль дыхания значительно сокращает время работы от аккумулятора. Включить в любом случае?
 [qx_festival.calendar|1]: Праздник двойной семерки
 [racing_car.sport|1]: Автогонки
-[raise_bright_close.ctrl|1]: "Поднять для пробуждения” выключено
-[raise_bright_open.ctrl|1]: "Поднять для пробуждения” включено
+[raise_bright_close.ctrl|1]: "Поднять для активации” выключено
+[raise_bright_open.ctrl|1]: "Поднять для активации” включено
 [reach_1.act|1]: Все цели достигнуты
 [reach_2.act|1]: Все цели достигнуты
 [read_card.nfc|1]: Чтение карты
@@ -1564,11 +1564,11 @@
 [rest.hr|1]: За 30 дней
 [rest.tomatotimer|1]: Отдых
 [rest_day.calendar|1]: Выходные
-[rest_disp.settings|1]: AOD
-[rest_disp_info.settings|1]: Включение AOD может сократить время работы от аккумулятора вдвое. Функция "Активировать по поднятию руки" будет отключена. Продолжить?
+[rest_disp.settings|1]: Активный экран
+[rest_disp_info.settings|1]: Включение Активный экран может сократить время работы от аккумулятора вдвое. Функция "Активировать по поднятию руки" будет отключена. Продолжить?
 [rest_disp_reminder1.settings|1]: Время будет отображаться даже при заблокированном экране.
-[rest_disp_reminder2.settings|1]: Режим AOD отключается когда вы ложитесь спать или снимаете часы.
-[rest_disp_title.settings|1]: AOD
+[rest_disp_reminder2.settings|1]: Режим Активный экран отключается когда вы ложитесь спать или снимаете часы.
+[rest_disp_title.settings|1]: Активный экран
 [rest_time.settings|1]: Авто блокировка
 [rest_time.tomatotimer|1]: Отдых
 [rest_time_out.tomatotimer|1]: Время вышло
@@ -1644,7 +1644,7 @@
 [schedule.calendar|1]: События
 [screen_bright.settings|1]: Включить экран для
 [screen_bright_title.settings|1]: Включить экран для
-[screen_cover.settings|1]: Накрыть для отключения
+[screen_cover.settings|1]: Накрыть для откл. экрана
 [screen_toast.settings|1]: Выключите чтобы продлить срок службы батареи на %d часов.
 [screen_up.health|1]: Держите запястье горизонтально а экран направьте вверх
 [searching.common|1]: Поиск
@@ -1744,7 +1744,7 @@
 [start_warmup.sport|1]: Разминка
 [starting.alexa|1]: Загрузка Alexa
 [state.settings|1]: Отлично
-[state_screen.settings|1]: AOD
+[state_screen.settings|1]: Активный экран
 [status1.training|1]: Низкая
 [status2.training|1]: Хорошая
 [status3.training|1]: Высокая
@@ -2029,10 +2029,10 @@
 [workday.common|1]: Будни
 [workday.todo|1]: Будни
 [wrestling.sport|1]: Борьба
-[wrist_screen.settings|1]: Поднять для пробуждения
-[wristlift.settings|1]: Поднять для пробуждения
-[wristlift_info.settings|1]: AOD включён. Включение функции "Поднять для пробуждения" уменьшит время автономной работы. Продолжить?
-[wristlift_title.settings|1]: Поднять для пробуждения
+[wrist_screen.settings|1]: Поднять для активации
+[wristlift.settings|1]: Поднять для активации
+[wristlift_info.settings|1]: Включен Активный экран. Включение функции "Поднять для активации" снизит время работы устройства от аккумулятора. Включить функцию?
+[wristlift_title.settings|1]: Поднять для активации
 [wxpay.appname|1]: Weixin Pay
 [xh_lunar.calendar|1]: прохладная погода
 [xiaomitv.share|1]: TV
