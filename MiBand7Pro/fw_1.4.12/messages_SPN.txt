@@ -1,0 +1,1803 @@
+0032FD2E|1|Configuración
+0032FD2E|1|Pantallas de banda
+0032FD2E|1|Pantalla
+0032FD2E|1|Vibración
+00333162|1|Predeterminado
+00333162|1|Fuerte
+0032FD2E|1|Detección automática
+00333162|1|Apagado
+00333162|1|Activado
+0032FD2E|1|NOM
+00333162|1|Apagado
+00333162|1|Inteligente
+00333162|1|Todo el día
+0032FD2E|1|Diseño de aplicación
+00333162|1|Modo icono
+00333162|1|Modo lista
+0032FD2E|1|PIN
+0032FD2E|1|Sistema
+0032FD2E|1|Acerca de la banda
+0032FD2E|1|Brillo
+0032FD2E|1|Siempre encendido
+0032FD2E|1|Bloqueo automático
+0032FD2E|1|Cubrir para dormir
+0032FD2E|1|Levantar para despertar
+00333162|1|Automático
+00335358|1|Automático
+0032FD2E|1|Cerrar
+0032FD2E|1|Inteligente
+0032FD2E|1|Programado
+0032FD2E|1|Todo el día
+0032FD2E|1|Más información
+003388DC|1|Siempre encendido
+003388DC|1|Inteligente
+0033B0A2|1|La hora se mostrará incluso cuando la pantalla esté bloqueada.
+0033B0A2|1|Siempre encendido se apagará cuando te vayas a dormir o te quites la pulsera.
+0032FD2E|1|Activar esta función reducirá la duración de la batería en más del 50%. ¿Encender de todos modos?
+0032FD2E|1|Inicio
+0032FD2E|1|Fin
+0032FD2E|1|Estado
+0033D911|1|-%d
+003407C7|1|%d
+0032FD2E|1|Sensibilidad
+00333162|1|Inteligente
+003414C3|1|Alto
+003414C3|1|Predeterminado
+0032FD2E|1|Esto afectará la duración de la batería, ¿continuar?
+0034453B|1|s
+0034453B|1|m
+0032FD2E|1|Detección automática
+0032FD2E|1|Detección de entrenamiento
+0033B0A2|1|Entendido
+0033B0A2|1|Entendido
+00333162|1|Para establecer una frecuencia de monitoreo, desactive BPM irregular.
+003407C7|1|%d:%02d
+00346086|1|Esto afectará la duración de la batería, ¿continuar?
+0032FD2E|1|Apagado
+0032FD2E|1|Inteligente
+0033B0A2|1|Siempre encendido se apagará cuando te vayas a dormir o te quites la pulsera.
+0032FD2E|1|Modo icono
+0032FD2E|1|Modo lista
+0032FD2E|1|Sistema
+0032FD2E|1|Reiniciar
+0032FD2E|1|Apagar
+0032FD2E|1|Reiniciar
+0032FD2E|1|¿Reiniciar ahora?
+0032FD2E|1|¿Apagar ahora?
+00346086|1|¿Borrar todos los datos?
+003388DC|1|Nombre
+003388DC|1|Modelo
+003388DC|1|Dirección MAC
+003388DC|1|Nº de versión.
+003388DC|1|Nº de serie
+003388DC|1|Regulatorio
+0032FD2E|1|Vibración
+003414C3|1|Fuerte
+00335358|1|Predeterminado
+00335358|1|Fuerte
+003492D7|1|%d
+00333162|1|%d/%d
+0032FD2E|1|Calentamiento
+0033B0A2|1|Hecho
+0033D911|1|%2d:%2d:%2d
+0032FD2E|1|Trabajo
+0033D911|1|%d
+0034B734|1|Golpes objetivo
+0034B734|1|Restante
+0033B0A2|1|Omitir
+0032FD2E|1|Descanso
+0034B734|1|Descanso
+0034B734|1|Restante
+0032FD2E|1|Enfriamiento
+0033B0A2|1|Fin
+00346086|1|En ejecución
+00346086|1|Quemar grasa
+0032FD2E|1|Avanzado
+0034B734|1|Introducción
+0034B734|1|Plan de entrenamiento
+0034453B|1|Caminar
+0034453B|1|Desplazamiento básico
+0033B0A2|1|Inicio
+0032FD2E|1|Reciente
+003414C3|1|Caminar
+003388DC|1|BPM objetivo
+0033B0A2|1|%d~%dbpm
+003388DC|1|Caminar
+0033D911|1|%d:%02d
+0034B734|1|Temporizador
+0034DEA7|1|BPM
+0032FD2E|1|Parece que estás haciendo ejercicio
+0033B0A2|1|Exterior
+0033B0A2|1|Cinta de correr
+0033B0A2|1|Descartar (%ds)
+0033B0A2|1|km
+0033B0A2|1|Pausa
+0033B0A2|1|Continuar
+00346086|1|La distancia de entrenamiento es demasiado corta para registrarla. ¿Fin?
+00346086|1|Tiempo de entrenamiento demasiado corto para registrarlo. ¿Fin?
+0033B0A2|1|Continuar
+0033B0A2|1|Fin
+0032FD2E|1|Calibración
+0033D911|1|.
+0034EFA8|1|km
+00346086|1|La pantalla se bloquea al iniciar
+0032FD2E|1|Respiración
+003505DD|1|Respiración
+0032FD2E|1|Tiempo
+0034EFA8|1|min
+0034EFA8|1|minutos
+00354565|1|%d
+00356963|1|%d
+003505DD|1|Relájate
+0033B0A2|1|Concéntrate en tu respiración
+003505DD|1|Vamos
+0033B0A2|1|Sigue la burbuja
+003505DD|1|Inhalar
+003505DD|1|Exhala
+003505DD|1|Buen trabajo
+0033B0A2|1|Sesión: %d mín.
+0033B0A2|1|Sesión: %d minutos
+0032FD2E|1|Resultados
+0033B0A2|1|FC actual
+00354565|1|89
+0034EFA8|1|BPM
+0033B0A2|1|Iniciando FC
+0033B0A2|1|Sesión
+0034EFA8|1|min
+0034EFA8|1|minutos
+0032FD2E|1|Configuración
+0032FD2E|1|Objetivo
+0032FD2E|1|Intervalos
+0032FD2E|1|Alertas
+0032FD2E|1|Longitud de la piscina
+0032FD2E|1|Pausa automática
+0034B734|1|Abierto
+0035910D|1|1,5 kilometros
+0032FD2E|1|Abierto
+0032FD2E|1|Distancia
+0032FD2E|1|Tiempo
+0032FD2E|1|Calorías
+0032FD2E|1|Saltos
+0032FD2E|1|Longitudes
+0034B734|1|5 kilómetros
+0032FD2E|1|Los intervalos se apagarán. ¿Continuar?
+0032FD2E|1|Se eliminará el objetivo del entrenamiento. ¿Continuar?
+0032FD2E|1|Distancia
+0032FD2E|1|Tiempo
+0032FD2E|1|Calorías
+0032FD2E|1|Saltos
+0032FD2E|1|Longitudes
+0034EFA8|1|m
+0034EFA8|1|kcal
+0034EFA8|1|
+0034EFA8|1|
+0032FD2E|1|Conjuntos
+0032FD2E|1|Descanso
+0034EFA8|1|s
+0034EFA8|1|
+0032FD2E|1|Distancia
+0032FD2E|1|Ritmo
+0032FD2E|1|Velocidad
+0032FD2E|1|Zona FC
+0032FD2E|1|FC alta
+0033B0A2|1|Apagar todo
+0035910D|1|Apagado
+0035910D|1|Intensivo
+0032FD2E|1|Marcapasos virtual
+0033D911|1|5'00"
+003492D7|1|4'50"
+0032FD2E|1|%d km/h
+0034EFA8|1|km/h
+0032FD2E|1|Apagado
+0032FD2E|1|Luz
+0032FD2E|1|Intensivo
+0032FD2E|1|Aeróbico
+0032FD2E|1|Anaeróbico
+0032FD2E|1|VO2 máx.
+0035910D|1|%u–%u BPM
+0032FD2E|1|FC alta
+0034EFA8|1|BPM
+0032FD2E|1|25 metros
+0032FD2E|1|Personalizado
+0032FD2E|1|Personalizado
+0034EFA8|1|m
+0032FD2E|1|Establecer PIN
+0035ACFA|1|Introducir PIN
+0035ACFA|1|Confirmar PIN
+0035ACFA|1|Incorrecto
+0032FD2E|1|¿Borrar todos los datos?
+0032FD2E|1|Desactivar PIN
+0032FD2E|1|Cambiar PIN
+0032FD2E|1|PIN cambiado
+0032FD2E|1|PIN desactivado
+00333162|1|Tu pulsera se bloqueará automáticamente cuando te la quites.
+0035CA4E|1|Acelerar
+0035CA4E|1|Continúa
+0035CA4E|1|Disminución de velocidad
+0035F3D3|1|%u'%02u''
+003505DD|1|FC alta
+0033B0A2|1|Calorías
+00360C60|1|345
+0033B0A2|1|Pasos
+0033B0A2|1|En movimiento
+00361C12|1|323
+0032FD2E|1|Pasos
+0034EFA8|1|
+0032FD2E|1|De pie
+0032FD2E|1|En movimiento
+0032FD2E|1|Recordatorios
+003388DC|1|Pasos
+003388DC|1|Calorías
+0035ACFA|1|De pie
+0035ACFA|1|En movimiento
+0032FD2E|1|Sueño
+00362E83|1|10
+0035CA4E|1|h
+0035CA4E|1|m
+0033B0A2|1|Objetivo:
+00365791|1|24:33
+0033B0A2|1|Sin datos
+003388DC|1|Dormir
+0033B0A2|1|1. Para realizar un seguimiento del sueño REM, active la monitorización avanzada.\n2. Apriete la correa.\n3. Las lecturas de frecuencia cardíaca y SpO₂ dependen de los movimientos, la calidad del sueño y más.
+003505DD|1|h
+003505DD|1|m
+0033B0A2|1|Sin datos
+0032FD2E|1|Monitorización avanzada
+0032FD2E|1|Puntuación de respiración
+0032FD2E|1|Puntuación de respiración
+00333162|1|Al activar esta función se realizará un seguimiento del sueño REM, pero se reducirá la duración de la batería en más de un 50 %.
+0032FD2E|1|Puntuación de respiración
+00333162|1|Monitorizar la respiración nocturna
+0032FD2E|1|Sueño
+0034B734|1|BPM promedio
+0032FD2E|1|
+0034B734|1|Promedio SpO₂
+0032FD2E|1|Siesta
+0032FD2E|1|Frecuencia cardíaca
+00365791|1|126
+00365E39|1|hace %dm
+0032FD2E|1|FC alta
+0032FD2E|1|FC baja
+0032FD2E|1|BPM irregulares
+0032FD2E|1|Zona FC
+0034B734|1|VO₂ máx.
+0034B734|1|VO₂ máx.
+0034B734|1|Anaeróbico
+0034B734|1|Intensivo
+0034B734|1|Luz
+0034B734|1|Relajado
+0034B734|1|Relajado
+0032FD2E|1|%02d:%02d
+0033B0A2|1|Medición
+00367B7D|1|144-224
+00365E39|1|BPM
+00367B7D|1|12: 24-12: 25
+0033B0A2|1|Inténtalo de nuevo
+0033B0A2|1|Medida
+003388DC|1|Frecuencia cardíaca
+0033B0A2|1|La frecuencia cardíaca es el número de veces que el corazón late por minuto (BPM).\nNormalmente, una frecuencia cardíaca en reposo oscila entre 40 y 100 BPM. Sin embargo, varía según la edad, el sexo y otros factores.\nTu pulsera admite un rango de 30 a 220 BPM.
+0032FD2E|1|Más información
+0033B0A2|1|Apriete la correa y vuelva a intentarlo
+0032FD2E|1|Consejos
+0033B0A2|1|Use la pulsera por encima del hueso de la muñeca.
+0033B0A2|1|Mantén tu banda cómoda y quieta.
+0033B0A2|1|Las medidas dependen de la baja temperatura, la perfusión de la piel y más.
+0034453B|1|Esta función no está diseñada para fines médicos.
+0033B0A2|1|La monitorización continua está desactivada.
+0033B0A2|1|Encender
+0032FD2E|1|Monitorización continua
+0032FD2E|1|BPM irregulares
+0032FD2E|1|Encendido/Apagado
+0032FD2E|1|FC alta
+0032FD2E|1|FC baja
+00333162|1|Para establecer una frecuencia de monitoreo, desactive BPM irregular.
+0032FD2E|1|1 minuto
+0032FD2E|1|10 minutos
+0032FD2E|1|Automático
+0032FD2E|1|Consejos
+0033B0A2|1|Medir la frecuencia cardíaca cada 10 minutos
+003388DC|1|Automático
+0033B0A2|1|Aumentar la frecuencia de seguimiento durante los entrenamientos
+0032FD2E|1|BPM irregulares
+00333162|1|Recibe alertas de latidos cardíacos irregulares
+0032FD2E|1|Esto afectará la duración de la batería, ¿continuar?
+0032FD2E|1|100 BPM
+003505DD|1|FC baja
+003388DC|1|12: 30-12: 40
+0033B0A2|1|Detalles
+003505DD|1|BPM irregulares
+003505DD|1|Medición
+0033B0A2|1|Quédate quieto
+0033B0A2|1|Medido: %02d:%02d
+0033B0A2|1|Inténtalo de nuevo
+0034B734|1|Gol acertado
+0034B734|1|Gol acertado
+0034B734|1|Gol acertado
+0034B734|1|Gol acertado
+003505DD|1|Goles alcanzados
+0034B734|1|¡Bravo!
+003505DD|1|¡Muévete!
+003505DD|1|Levántate
+0033B0A2|1|Levántate y camina
+00346086|1|Conecta tu teléfono para actualizar los datos del GPS.
+00346086|1|El almacenamiento está lleno. No se puede grabar este entrenamiento.
+0032FD2E|1|GPS
+003505DD|1|Correr al aire libre
+00346086|1|Localizando. Dirígete a un área abierta y espera para comenzar a entrenar.
+0033B0A2|1|Espera
+0033B0A2|1|Inicio
+00346086|1|Ejercicio en zona abierta
+0033B0A2|1|Descartar
+0032FD2E|1|Ciclos
+00365E39|1|%u/%u/%u
+0032FD2E|1|Predicciones
+0034B734|1|Fértil
+0032FD2E|1|05.23-06.23
+00369D3B|1|Día de la ovulación
+0036ABFA|1|Periodo
+0032FD2E|1|Más información
+0033B0A2|1|Registrar detalles del ciclo en la APP
+003388DC|1|1. Colores
+0033B0A2|1|Período
+0032FD2E|1|Período día %d
+0033B0A2|1|Periodo estimado
+0032FD2E|1|Período día %d
+0033B0A2|1|Fértil
+0033B0A2|1|Periodo día %d
+0033B0A2|1|Día de ovulación
+0032FD2E|1|Día de la ovulación
+003388DC|1|2. Consejo
+0033B0A2|1|Cuanto más registres, más predicciones precisas obtendrás.
+003505DD|1|Natación en piscina
+003505DD|1|Aguas abiertas
+003505DD|1|Navegación
+003505DD|1|Paddleboarding
+003505DD|1|Waterpolo
+003505DD|1|Deportes acuáticos
+003505DD|1|Esquí acuático
+003505DD|1|Kayak
+003505DD|1|Rafting
+003505DD|1|Remo
+003505DD|1|Navegar a motor
+003505DD|1|Natación con aletas
+003505DD|1|Buceo
+003505DD|1|Natación artística
+003505DD|1|Snorkel
+003505DD|1|Kitesurf
+003505DD|1|Caminar
+003505DD|1|Senderismo
+003505DD|1|Ciclismo al aire libre
+003505DD|1|Senderismo
+003505DD|1|Ruta de sendero
+003505DD|1|Escalada en roca
+003505DD|1|Patinaje
+003505DD|1|Patinaje sobre ruedas
+003505DD|1|Parkour
+003505DD|1|Cuatriciclo
+003505DD|1|Parapente
+003505DD|1|Estilo libre
+003505DD|1|Cinta de correr
+003505DD|1|Saltar la cuerda
+003505DD|1|HIIT
+003505DD|1|Yoga
+003505DD|1|Ciclismo indoor
+003505DD|1|Elíptica
+003505DD|1|Remero
+003505DD|1|Sube escaleras
+003505DD|1|Paso a paso
+003505DD|1|Entrenamiento básico
+003505DD|1|Flexibilidad
+003505DD|1|Pilates
+003505DD|1|Gimnasia
+003505DD|1|Estiramiento
+003505DD|1|Fuerza
+003505DD|1|Entrenamiento cruzado
+003505DD|1|Subir escaleras
+003505DD|1|Aeróbicos
+003505DD|1|Entrenamiento físico
+003505DD|1|Bola de pared
+003505DD|1|Mancuerna
+003505DD|1|Barra
+003505DD|1|Levantamiento de pesas
+003505DD|1|Peso muerto
+003505DD|1|Burpee
+003505DD|1|Sentadillas
+003505DD|1|Entrenamiento funcional
+003505DD|1|Parte superior del cuerpo
+003505DD|1|Cuerpo inferior
+003505DD|1|Abdominales
+003505DD|1|Volver
+003505DD|1|Baile de cuadrilla
+003505DD|1|Danza del vientre
+003505DD|1|Ballet
+003505DD|1|Baile callejero
+003505DD|1|Zumba
+003505DD|1|Danza folklórica
+003505DD|1|Baile jazz
+003505DD|1|baile latino
+003505DD|1|Boxeo
+003505DD|1|Lucha libre
+003505DD|1|Artes marciales
+003505DD|1|Tai chi
+003505DD|1|Muay tailandés
+003505DD|1|Judo
+003505DD|1|Taekwondo
+003505DD|1|Kárate
+003505DD|1|Kickboxing
+003505DD|1|Kendo
+003505DD|1|Vallas
+003505DD|1|Tenis
+003505DD|1|Baloncesto
+003505DD|1|Fútbol
+003505DD|1|Voleibol
+003505DD|1|Béisbol
+003505DD|1|Softbol
+003505DD|1|Fútbol americano
+003505DD|1|Hockey
+003505DD|1|Tenis de mesa
+003505DD|1|Bádminton
+003505DD|1|Críquet
+003505DD|1|Balonmano
+003505DD|1|Bolos
+003505DD|1|Calabaza
+003505DD|1|Billar
+003505DD|1|Volante
+003505DD|1|Fútbol playa
+003505DD|1|Voleibol de playa
+003505DD|1|Sepak takraw
+003505DD|1|Patinaje sobre hielo
+003505DD|1|Rizado
+003505DD|1|Otros deportes de invierno
+003505DD|1|Moto de nieve
+003505DD|1|Hockey sobre hielo
+003505DD|1|Bobsleigh
+003505DD|1|Trineo
+003505DD|1|Tiro con arco
+003505DD|1|Dardos
+003505DD|1|Equitación
+003505DD|1|Tira y afloja
+003505DD|1|Hula-hoop
+003505DD|1|Vuelo de cometas
+003505DD|1|Pesca
+003505DD|1|Frisbee
+003505DD|1|Ecuestre
+003505DD|1|Atletismo
+003505DD|1|Carreras de autos
+00333162|1|Recibe recordatorios para iniciar y finalizar un entrenamiento de carrera, caminata, cinta de correr, remo o salto.
+0033B0A2|1|Posponer
+0032FD2E|1|Sincronización
+0032FD2E|1|Notificaciones
+0033B0A2|1|Sin notificaciones
+0033B0A2|1|Responder
+0033B0A2|1|Enviar
+0032FD2E|1|Enviado
+0032FD2E|1|No se pudo enviar
+00346086|1|Permitir que esta APP envíe mensajes SMS
+00346086|1|Permite que esta APP lea tus contactos
+0032FD2E|1|Enviando
+0036B4AF|1|Enfoque
+00346086|1|DND está activado durante esta sesión
+0032FD2E|1|Enfoque
+0034B734|1|Manténgase concentrado
+0034B734|1|En pausa
+0034B734|1|Descanso
+0034B734|1|Reposando
+0034B734|1|En pausa
+0034B734|1|Es hora de concentrarse
+0034B734|1|Se acabó el tiempo
+0034B734|1|¡Lo lograste!
+0034B734|1|Enfoque de hoy
+0034B734|1|El descanso de hoy
+0033B0A2|1|Tiempo de descanso
+0033B0A2|1|Tiempo de enfoque
+0033D911|1|%02d:%02d
+0034B734|1|Cuando usas Focus, el temporizador generalmente está configurado en 25 minutos, durante los cuales puedes concentrarte en una tarea.
+0034B734|1|Cuando tu dispositivo vibre, es momento de un descanso de 5 minutos.
+0034B734|1|Después de cuatro sesiones de 25 minutos, tómate un descanso de 15 a 20 minutos.
+003492D7|1|%02d:%02d:%02d
+0036D9F4|1|Alarma
+0034B734|1|Sin alarmas
+0034B734|1|Tiempo
+0034B734|1|Repetir
+0032FD2E|1|Editar
+0032FD2E|1|Tiempo
+0032FD2E|1|Repetir
+0033B0A2|1|Eliminar
+0033B0A2|1|OK
+0034B734|1|soy
+0034B734|1|PM
+0033B0A2|1|Posponer
+0033B0A2|1|Parar
+0033B0A2|1|Agregar alarma
+0034B734|1|Agregar hasta 10 alarmas
+0032FD2E|1|Buscar teléfono
+0032FD2E|1|Tu teléfono sonará
+0032FD2E|1|Desconectado
+0032FD2E|1|No se puede encontrar
+0033B0A2|1|Buscar
+0033B0A2|1|Parar
+0033B0A2|1|Volver
+0032FD2E|1|Música
+0032FD2E|1|Permisos
+0032FD2E|1|Solo un segundo
+00333162|1|Empareja tu pulsera con la APP
+00333162|1|Activar acceso a notificaciones para la APLICACIÓN
+00346086|1|Activar acceso a notificaciones para la aplicación
+0033B0A2|1|No emparejado
+0032FD2E|1|No jugando
+0032FD2E|1|Desconectado
+0032FD2E|1|Permisos
+0032FD2E|1|Cámara
+0034B734|1|Abre la cámara en tu teléfono
+0032FD2E|1|No emparejado
+00346086|1|Desconectado
+00333162|1|Vaya a Dispositivo > Cámara en la APLICACIÓN
+00333162|1|Empareja tu pulsera con la APP
+0034B734|1|Encender
+0033B0A2|1|No hay eventos hoy
+0032FD2E|1|Detalles
+0032FD2E|1|Detalles
+00346086|1|Activar Eventos en la APP
+00346086|1|Posponer durante 10 minutos
+0032FD2E|1|Cronómetro
+0036E9D5|1|%02d
+00346086|1|El cronómetro no se puede ejecutar en segundo plano, ¿salir?
+0032FD2E|1|Temporizador
+0035F3D3|1|%d
+00365E39|1|min
+00365E39|1|minutos
+00365E39|1|hora
+00365E39|1|horas
+0033B0A2|1|Personalizado
+0032FD2E|1|Reciente
+003492D7|1|%02d:%02d:%02d
+00333162|1|Personalizado
+0032FD2E|1|Tiempo
+0032FD2E|1|Previsión
+0036F49B|1|25°
+0032FD2E|1|Calidad del aire
+00333162|1|ICA
+0034DEA7|1|Muévete
+0032FD2E|1|Índices
+00365E39|1|
+0035910D|1|UVI
+0035910D|1|Humedad
+0032FD2E|1|Amanecer y atardecer
+0032FD2E|1|Ubicaciones
+0032FD2E|1|Tarjetas
+0033B0A2|1|Añadir tarjetas en la APP
+0033B0A2|1|Solo un segundo
+0034B734|1|Mantener cerca del lector
+0033B0A2|1|Saldo:
+0034B734|1|Solo un segundo
+0034B734|1|No se pudo cargar. Intentar otra vez.
+0032FD2E|1|Pagado exitosamente
+0032FD2E|1|Alipay
+00346086|1|Una vez agregado, escanea el código QR en tu pulsera para pagar
+00346086|1|Lea y acepte el Acuerdo de servicio de dispositivos inteligentes
+0033B0A2|1|Agregar
+0033B0A2|1|Continuar
+0033B0A2|1|Cancelar
+00333162|1|Escanear con Alipay
+00346086|1|Añadido
+00346086|1|No se pudo emparejar
+0032FD2E|1|Emparejamiento
+00333162|1|Toque para actualizar el código de barras
+0032FD2E|1|Quitar
+00346086|1|No podrás utilizar Alipay
+00333162|1|Mantener cerca del lector
+0033B0A2|1|Quitar
+0032FD2E|1|WeChat
+00346086|1|Su dirección de Bluetooth y modelo de dispositivo se enviarán a WeChat cuando active el pago de WeChat.
+0034B734|1|Para habilitarlo, use WeiXin para escanear el código QR.
+0033B0A2|1|No
+00346086|1|Configuración incompleta. ¿Salir ahora?
+00346086|1|No habilitado
+00346086|1|Activar PIN
+00346086|1|Habilitando… Finaliza el proceso en tu teléfono.
+00346086|1|Después de desvincular el dispositivo, no podrá realizar pagos con Weixin Pay.
+00346086|1|Por razones de seguridad, escanee el código QR con Weixin para habilitarlo nuevamente.
+00346086|1|No puedo pagar
+0033B0A2|1|Sí
+0033B0A2|1|Ahora no
+0033B0A2|1|Habilitar nuevamente
+0033B0A2|1|Inténtalo de nuevo más tarde
+00346086|1|Desvinculado
+0036B4AF|1|Que duermas bien
+00346086|1|No molestar está activado. La opción Levantar para despertar está desactivada.
+0033B0A2|1|Descartar
+0033B0A2|1|Hora
+003492D7|1|%02d:%02d
+0033B0A2|1|Dormir
+0035CA4E|1|%dh%dm
+00367B7D|1|%d℃/%d℃
+0032FD2E|1|SpO₂
+0036FCC2|1|98
+0033B0A2|1|Medida
+0033B0A2|1|Sin datos
+00373688|1|98%
+0034B734|1|Use la pulsera por encima del hueso de la muñeca.
+0034B734|1|Apriete la correa y vuelva a intentarlo
+0034B734|1|Quédate quieto
+00354565|1|98%
+003505DD|1|SpO₂
+003388DC|1|85%
+0033B0A2|1|Detalles
+0033B0A2|1|Descartar
+0032FD2E|1|Seguimiento durante todo el día
+0032FD2E|1|Alerta
+0032FD2E|1|Más información
+0032FD2E|1|Seguimiento durante todo el día
+0034B734|1|Apagado
+0034B734|1|80%
+00333162|1|Mida SpO₂ cuando no esté en movimiento
+0033B0A2|1|Use la pulsera por encima del hueso de la muñeca.
+0033B0A2|1|Mantén tu banda cómoda y quieta.
+0034453B|1|Esta función no está diseñada para fines médicos.
+0034B734|1|SpO₂ representa el porcentaje de oxígeno en la sangre.
+0034B734|1|Las lecturas inferiores al 90% se consideran bajas.
+0034B734|1|Su banda admite un rango de 75 a 100 %.
+0034B734|1|Existen múltiples factores que pueden hacer que las mediciones sean inconsistentes o poco confiables. Pueden incluir perfusión de la piel, cambios permanentes o temporales en la piel, movimiento o postura durante el sueño. Todo lo anterior podría resultar en una alerta falsa de nivel bajo de oxígeno en sangre. Recuerde que este no es un dispositivo médico y los datos que genera no se pueden utilizar para diagnóstico y tratamiento.
+0032FD2E|1|Alertas
+0032FD2E|1|Entrenamiento
+0032FD2E|1|Categorías
+0032FD2E|1|Más
+0032FD2E|1|Deportes acuáticos
+0032FD2E|1|Natación en piscina
+0032FD2E|1|Aguas abiertas
+0032FD2E|1|Navegación
+0032FD2E|1|Remo
+0032FD2E|1|Waterpolo
+0032FD2E|1|Esquí acuático
+0032FD2E|1|Kayak
+0032FD2E|1|Rafting
+0032FD2E|1|Remo
+0032FD2E|1|Navegación a motor
+0032FD2E|1|Natación con aletas
+0032FD2E|1|Buceo
+0032FD2E|1|Natación artística
+0032FD2E|1|Snorkel
+0032FD2E|1|Kitesurf
+0032FD2E|1|Actividades al aire libre
+0032FD2E|1|Correr al aire libre
+0032FD2E|1|Caminar
+0032FD2E|1|Senderismo
+0032FD2E|1|Ciclismo al aire libre
+0032FD2E|1|Senderismo
+0032FD2E|1|Ruta de sendero
+0032FD2E|1|Escalada en roca
+0032FD2E|1|Patinaje
+0032FD2E|1|Patinaje sobre ruedas
+0032FD2E|1|Parkour
+0032FD2E|1|Cuatriciclo
+0032FD2E|1|Parapente
+0032FD2E|1|Estilo libre
+0032FD2E|1|Cinta de correr
+0032FD2E|1|Saltar la cuerda
+0032FD2E|1|HIIT
+0032FD2E|1|Yoga
+0032FD2E|1|Ciclismo indoor
+0032FD2E|1|Elíptica
+0032FD2E|1|Remero
+0032FD2E|1|Sube escaleras
+0032FD2E|1|Paso a paso
+0032FD2E|1|Entrenamiento básico
+0032FD2E|1|Flexibilidad
+0032FD2E|1|Pilates
+0032FD2E|1|Gimnasia
+0032FD2E|1|Estiramiento
+0032FD2E|1|Fuerza
+0032FD2E|1|Entrenamiento cruzado
+0032FD2E|1|Subir escaleras
+0032FD2E|1|Aeróbicos
+0032FD2E|1|Entrenamiento físico
+0032FD2E|1|Bola de pared
+0032FD2E|1|Mancuerna
+0032FD2E|1|Barra
+0032FD2E|1|Levantamiento de pesas
+0032FD2E|1|Peso muerto
+0032FD2E|1|Burpee
+0032FD2E|1|Sentadillas
+0032FD2E|1|Entrenamiento funcional
+0032FD2E|1|Parte superior del cuerpo
+0032FD2E|1|Cuerpo inferior
+0032FD2E|1|Abdominales
+0032FD2E|1|Volver
+0032FD2E|1|Danza
+0032FD2E|1|Baile de cuadrilla
+0032FD2E|1|Danza del vientre
+0032FD2E|1|Ballet
+0032FD2E|1|Baile callejero
+0032FD2E|1|Zumba
+0032FD2E|1|Danza folklórica
+0032FD2E|1|Baile jazz
+0032FD2E|1|baile latino
+0032FD2E|1|Deportes de combate
+0032FD2E|1|Boxeo
+0032FD2E|1|Lucha libre
+0032FD2E|1|Artes marciales
+0032FD2E|1|Tai chi
+0032FD2E|1|Muay Thai
+0032FD2E|1|Judo
+0032FD2E|1|Taekwondo
+0032FD2E|1|Kárate
+0032FD2E|1|Kickboxing
+0032FD2E|1|Kendo
+0032FD2E|1|Vallas
+0032FD2E|1|Deportes de pelota
+0032FD2E|1|Tenis
+0032FD2E|1|Baloncesto
+0032FD2E|1|Fútbol
+0032FD2E|1|Voleibol
+0032FD2E|1|Béisbol
+0032FD2E|1|Softbol
+0032FD2E|1|Fútbol americano
+0032FD2E|1|Hockey
+0032FD2E|1|Tenis de mesa
+0032FD2E|1|Bádminton
+0032FD2E|1|Críquet
+0032FD2E|1|Balonmano
+0032FD2E|1|Bolos
+0032FD2E|1|Calabaza
+0032FD2E|1|Billar
+0032FD2E|1|Volante
+0032FD2E|1|Fútbol playa
+0032FD2E|1|Voleibol playa
+0032FD2E|1|Sepak takraw
+0032FD2E|1|Deportes de invierno
+0032FD2E|1|Patinaje sobre hielo
+0032FD2E|1|Rizado
+0032FD2E|1|Otros deportes de invierno
+0032FD2E|1|Moto de nieve
+0032FD2E|1|Hockey sobre hielo
+0032FD2E|1|Bobsleigh
+0032FD2E|1|Trineo
+0032FD2E|1|Deportes recreativos
+0032FD2E|1|Tiro con arco
+0032FD2E|1|Dardos
+0032FD2E|1|Equitación
+0032FD2E|1|Tira de cuerda
+0032FD2E|1|Hula-hoop
+0032FD2E|1|Vuelo de cometas
+0032FD2E|1|Pesca
+0032FD2E|1|Frisbee
+0032FD2E|1|Otro
+0032FD2E|1|Ecuestre
+0032FD2E|1|Atletismo
+0032FD2E|1|Carreras de autos
+0034B734|1|Abierto
+0033D911|1|%02d:%02d:%02d
+0033D911|1|%d.%d
+00374EB0|1|km
+0033D911|1|%d'%d"
+0034453B|1|Luz
+0034453B|1|Intensivo
+0034453B|1|Aeróbico
+0034453B|1|Anaeróbico
+0034453B|1|VO₂ máx.
+003492D7|1|%d
+00374EB0|1|kcal
+00374EB0|1|SPM
+00374EB0|1|paso
+00374EB0|1|paso
+00374EB0|1|pasos
+00374EB0|1|pasos
+003492D7|1|0
+0034453B|1|/km
+00374EB0|1|km/h
+00374EB0|1|longitud
+00374EB0|1|longitud
+00374EB0|1|longitudes
+00374EB0|1|longitudes
+00374EB0|1|golpe
+00374EB0|1|golpes
+00374EB0|1|saltar
+00374EB0|1|salta
+00374EB0|1|SPM
+0034DEA7|1|/km
+0034DEA7|1|km detrás
+00375E71|1|%u'%02u''
+0032FD2E|1|Estrés
+0034EFA8|1|Moderado
+0032FD2E|1|Detalles
+0034B734|1|Relajado
+0034B734|1|Leve
+0034B734|1|Moderado
+0034B734|1|Severo
+0032FD2E|1|Últimos 7 días
+00365791|1|05.12
+0033B0A2|1|Sin datos
+0034453B|1|Moderado
+0032FD2E|1|Monitoreo durante todo el día
+0032FD2E|1|Recordatorio de relajación
+0033B0A2|1|Activado
+0032FD2E|1|Monitoreo durante todo el día
+0032FD2E|1|Encendido/Apagado
+0034453B|1|Lleva un registro cuando estés sedentario
+0034453B|1|Ejercicio de respiración rápido cuando el nivel de estrés permanece por encima de 80 durante 10 minutos
+0032FD2E|1|Más información
+0033B0A2|1|El estrés es la reacción del cuerpo ante los desafíos y exigencias.
+0033B0A2|1|Tu pulsera mide tu nivel de estrés cuando estás inactivo.\nNiveles:\nRelajado: 1–25\nLeve: 25–50\nModerado: 51–80\nSevero: 81–100.\nEsta característica no destinado a fines médicos.
+0033B0A2|1|Las medidas dependen de la baja temperatura, la perfusión de la piel y más.
+003388DC|1|99.0
+0033B0A2|1|Respiración
+00346086|1|Frecuencia cardíaca
+00346086|1|Alarma
+00346086|1|SpO₂
+00346086|1|Configuración
+00346086|1|Alipay
+00346086|1|Pago Weixin
+00346086|1|Tiempo
+00346086|1|Añadir dispositivo
+00346086|1|Estadísticas
+0032FD2E|1|¿Eliminar visualización de banda?
+0032FD2E|1|Para guardar los cambios, deslícese hacia la derecha en la pantalla de la banda.
+0032FD2E|1|Resumen
+0032FD2E|1|Frecuencia cardíaca
+0032FD2E|1|Ritmo
+0032FD2E|1|Cadencia
+0033B0A2|1|Ver detalles en la APP
+0032FD2E|1|Velocidad
+0032FD2E|1|Frecuencia de carreras
+0032FD2E|1|Saltar la cuerda
+0032FD2E|1|Frecuencia
+0032FD2E|1|LOBO
+0032FD2E|1|Senderismo
+0033D911|1|2:23.1
+0032FD2E|1|Golpes
+0032FD2E|1|Estadísticas
+0032FD2E|1|De pie
+0032FD2E|1|En movimiento
+0032FD2E|1|Batería
+0032FD2E|1|Fecha
+0032FD2E|1|UVI
+0033B0A2|1|Sincronización
+0032FD2E|1|No se pudo sincronizar
+0032FD2E|1|Error
+00333162|1|Quitar visualizaciones de banda e intentar nuevamente
+0032FD2E|1|¿Guardar cambios?
+0032FD2E|1|Una vez
+0034B734|1|Una vez
+0032FD2E|1|Lun
+0032FD2E|1|Mar
+0032FD2E|1|miércoles
+0032FD2E|1|Jueves
+0032FD2E|1|viernes
+0032FD2E|1|Sáb
+0032FD2E|1|Sol
+0034B734|1|
+0034B734|1|M
+0034B734|1|T
+0034B734|1|W
+0034B734|1|T
+0034B734|1|F
+0034B734|1|S
+0034B734|1|S
+0034B734|1|Diario
+00346086|1|Dormir
+00346086|1|Cronómetro
+00346086|1|Respiración
+00346086|1|Ciclos
+00346086|1|Estrés
+00346086|1|Entrenamiento
+00333162|1|Escanear para descargar
+00346086|1|¿Emparejar con teléfono?
+0032FD2E|1|Regulatorio
+0033B0A2|1|De pie
+0032FD2E|1|Dormita
+0032FD2E|1|La alarma está apagada
+0032FD2E|1|Perdido
+003492D7|1|%02lu:%02lu
+0033B0A2|1|
+0033B0A2|1|
+0033B0A2|1|
+00361C12|1|8000
+003505DD|1|paso
+003505DD|1|pasos
+00361C12|1|500
+003505DD|1|kcal
+00361C12|1|30
+003505DD|1|min
+003505DD|1|minutos
+00361C12|1|12
+003505DD|1|golpe
+003505DD|1|golpes
+0034B734|1|"Steps" muestra un recuento de pasos diario.
+0034B734|1|"Calorías" muestra el número de calorías activas quemadas al moverse y hacer ejercicio.
+0034B734|1|"Moving" muestra el tiempo que dedicas a una actividad moderada y vigorosa.
+0034B734|1|"De pie" muestra las horas en las que estás de pie y moviéndote.
+0034453B|1|km/h
+0032FD2E|1|80%
+0032FD2E|1|85%
+0032FD2E|1|90%
+0032FD2E|1|Entrenamiento
+0032FD2E|1|Calorías
+0032FD2E|1|Pasos
+0032FD2E|1|Frecuencia cardíaca
+0032FD2E|1|Estrés
+0032FD2E|1|Alarma
+0032FD2E|1|Tiempo
+0035910D|1|%u
+0035910D|1|%u
+0034B734|1|%u km
+0035910D|1|%u km
+0035910D|1|%um
+0034B734|1|%u mín.
+0034B734|1|%u minutos
+0034B734|1|%u kcal
+0035910D|1|%ukcal
+0035910D|1|%u mín.
+0034B734|1|%u
+0035910D|1|%u
+0035910D|1|%u
+0034B734|1|%u
+0035910D|1|%u
+0035910D|1|%u
+0034EFA8|1|
+0032FD2E|1|Golpes
+0032FD2E|1|50 metros
+0035910D|1|Luz
+0035910D|1|VO₂ máx.
+0035910D|1|Aeróbico
+0035910D|1|Anaeróbico
+0032FD2E|1|%u km
+0032FD2E|1|%u km/h
+0032FD2E|1|%u BPM
+0034B734|1|Hecho
+00335358|1|km
+0032FD2E|1|%
+0034B734|1|%d.%d kilómetros
+0035910D|1|%d'%02d"
+0032FD2E|1|Enfoque
+0032FD2E|1|Descanso
+0034B734|1|%d mín.
+0034B734|1|%d minutos
+0033D911|1|%02d:%02d
+003407C7|1|%02d:%02d
+00365E39|1|hace %dm
+00365E39|1|hace %dm
+00365E39|1|Justo ahora
+00365E39|1|Justo ahora
+00365E39|1|%02dm hace
+00365E39|1|%02dm hace
+00365E39|1|Medido: %02d:%02d
+0033B0A2|1|Descanso: %02d
+0033B0A2|1|Descanso: --
+0032FD2E|1|30 minutos
+0033B0A2|1|Medir la frecuencia cardíaca cada 1 min
+003388DC|1|10 minutos
+003388DC|1|30 minutos
+0033B0A2|1|Medir la frecuencia cardíaca cada 30 minutos
+0032FD2E|1|40 BPM
+0032FD2E|1|45 BPM
+0032FD2E|1|50 BPM
+0032FD2E|1|110 BPM
+0032FD2E|1|120 BPM
+0032FD2E|1|130 BPM
+0032FD2E|1|140 BPM
+0032FD2E|1|150 BPM
+0036B4AF|1|Se acabó el tiempo
+00333162|1|%d hora
+00333162|1|%d horas
+00333162|1|%d mín.
+00333162|1|%d minutos
+003505DD|1|Muévete
+0033B0A2|1|¡Sacúdelo!
+0032FD2E|1|¿Desactivar los recordatorios de stand-up de hoy?
+0034B734|1|Apagado
+0034B734|1|100 BPM
+0034B734|1|110 BPM
+0034B734|1|120 BPM
+0034B734|1|130 BPM
+0034B734|1|140 BPM
+0034B734|1|150 BPM
+0034B734|1|40 BPM
+0034B734|1|45 BPM
+0034B734|1|50 BPM
+0034B734|1|Activado
+0034B734|1|Apagado
+0034B734|1|1 minuto
+0034B734|1|10 minutos
+0034B734|1|30 minutos
+0034B734|1|Automático
+00375E71|1|%d%%
+00346086|1|Actividad
+00346086|1|Mi IA
+00346086|1|Tarjetas
+00346086|1|Notificaciones
+00346086|1|Eventos
+00346086|1|Música
+00346086|1|Cámara
+00346086|1|Temporizador
+00346086|1|Linterna
+00346086|1|Buscar teléfono
+00346086|1|Ayuda
+00346086|1|Enfoque
+00374EB0|1|"Levantar para despertar" está activado
+00374EB0|1|"Levantar para despertar" está desactivado
+00374EB0|1|DND está activado
+00374EB0|1|DND está desactivado
+0032FD2E|1|Resumen
+0034B734|1|Sin datos
+0033B0A2|1|Ver detalles en la APP
+00354565|1|--
+0034B734|1|%d
+0034B734|1|%d–%d BPM
+003388DC|1|%d-%d
+003388DC|1|%02d:%02d-%02d:%02d
+00377458|1|%d
+0033D911|1|%02d:%02d:%02d
+0033D911|1|:
+0033D911|1|%02d:%02d.%02d
+00367B7D|1|%02d:%02d:%02d.%02d
+00377C36|1|%02d:%02d:%02d.%02d
+00377C36|1|%02d:%02d.%02d
+00333162|1|%02u-%02u %02u:%02u
+0033D911|1|%02u:%02u:%02u
+00367B7D|1|%lu.%02lu
+00333162|1|km
+0032FD2E|1|Objetivo
+0035910D|1|%u%%
+0035910D|1|Completado
+00367B7D|1|% lu
+0035910D|1|Objetivo
+0035910D|1|Kcal activas
+00367B7D|1|%lu'%02lu''
+0035910D|1|Ritmo medio
+0035910D|1|Pasos
+0035910D|1|BPM promedio
+0035910D|1|Promedio de GPM
+00354565|1|%u'%02u''
+00365791|1|%02u:%02u
+00354565|1|%u
+0033B0A2|1|Ver detalles en la APP
+0033B0A2|1|Volver
+0035910D|1|Objetivo
+0035910D|1|Completado
+0035910D|1|Objetivo
+0035910D|1|Completado
+0035910D|1|Objetivo
+0035910D|1|Completado
+0035910D|1|Objetivo
+0035910D|1|Completado
+0035910D|1|Objetivo
+0035910D|1|Completado
+0035910D|1|m
+0035910D|1|kcal
+0035910D|1|longitud
+0035910D|1|saltar
+0035910D|1|golpe
+0035910D|1|longitudes
+0035910D|1|saltos
+0035910D|1|golpes
+003388DC|1|1 minuto
+003388DC|1|Conectando a Mi AI
+003388DC|1|Escuchando
+003388DC|1|Empieza diciendo
+0033B0A2|1|Configurar Mi AI en la aplicación
+0033B0A2|1|Compruebe la conexión de red.
+0033B0A2|1|Conecta tu pulsera con la aplicación
+0033B0A2|1|La banda está cargando datos. No puedo usar Mi AI en este momento.
+003388DC|1|Esta característica no es compatible actualmente.
+003388DC|1|No se pudo captar eso. ¿Podrías decirlo de nuevo?
+003388DC|1|No se pudo despertar Mi AI, inténtalo de nuevo
+00365791|1|%u
+0032FD2E|1|Sin datos hoy
+0034B734|1|Hoy
+0034B734|1|Mañana
+0034B734|1|Apagado
+0033B0A2|1|Siguiente
+0033B0A2|1|Activar predicción de período en la APP
+0035910D|1|Justo ahora
+0035910D|1|hace %dm
+0035910D|1|%d:%02d
+0035910D|1|Ayer, %d:%02d
+0035910D|1|%02d/%02d %d:%02d
+003388DC|1|%d notificación
+0033B0A2|1|Borrar
+00365791|1|00:00
+00365791|1|12:00
+00365791|1|24:00
+0034B734|1|Todo el día
+0033B0A2|1|El seguimiento durante todo el día está desactivado.
+0033B0A2|1|Apriete la correa y vuelva a intentarlo
+00365791|1|%02u:%02u
+00367B7D|1|%02u:%02u-%02u:%02u
+0032FD2E|1|Alertas
+0034B734|1|Su pulsera le notifica cuando detecta lecturas por debajo del nivel establecido. Puedes ver más datos en la APP. Si no se siente bien, busque atención médica.
+0033B0A2|1|Quédate quieto
+0033B0A2|1|50% hecho
+0033B0A2|1|Calibración
+0033B0A2|1|Mantenerse quieto durante la medición
+0033B0A2|1|Apriete la correa y vuelva a intentarlo
+0033B0A2|1|Apriete la correa y vuelva a intentarlo
+00374EB0|1|m
+0033B0A2|1|Conéctate a la APP para actualizar el tiempo
+0034453B|1|Establecer ubicaciones en la APP
+00360C60|1|%d
+0032FD2E|1|Solo un segundo
+0034B734|1|Bueno
+0034B734|1|Moderado
+0034B734|1|Contaminación lumínica
+0034B734|1|No saludable
+0034B734|1|Peligroso
+0034B734|1|Peligroso
+003388DC|1|Bueno
+003388DC|1|Moderado
+003388DC|1|Contaminación lumínica
+003388DC|1|No saludable
+003388DC|1|Peligroso
+003388DC|1|Peligroso
+00333162|1|Viento variable
+00333162|1|Torbellino
+00333162|1|viento N
+00333162|1|viento del NE
+00333162|1|viento del este
+00333162|1|viento del SE
+00333162|1|S viento
+00333162|1|Viento del SO
+00333162|1|O viento
+00333162|1|Viento del NO
+0032FD2E|1|Borrar
+0032FD2E|1|Nublado
+0032FD2E|1|Nublado
+0032FD2E|1|Duchas
+0032FD2E|1|Tormenta
+0032FD2E|1|Salve
+0032FD2E|1|Aguanieve
+0032FD2E|1|Lluvia ligera
+0032FD2E|1|Lluvia moderada
+0032FD2E|1|Lluvia intensa
+0032FD2E|1|Tormenta
+0032FD2E|1|Aguacero
+0032FD2E|1|Fuerte tormenta
+0032FD2E|1| Chubascos de nieve
+0032FD2E|1|Nieve ligera
+0032FD2E|1|Nieve moderada
+0032FD2E|1|Nieve intensa
+0032FD2E|1|Ventisca
+0032FD2E|1|Niebla
+0032FD2E|1|Lluvia helada
+0032FD2E|1|Tormenta de arena
+0032FD2E|1|Lluvia ligera a moderada
+0032FD2E|1|Lluvias moderadas a intensas
+0032FD2E|1|Lluvia fuerte a tormenta
+0032FD2E|1|Tormenta a aguacero
+0032FD2E|1|Aguacero a fuerte tormenta
+0032FD2E|1|Nieve ligera a moderada
+0032FD2E|1|Nieve moderada a fuerte
+0032FD2E|1|Nieve intensa hasta ventisca
+0032FD2E|1|Polvo
+0032FD2E|1|Viento
+0032FD2E|1|Fuerte tormenta de arena
+0032FD2E|1|Niebla
+0032FD2E|1|Niebla espesa
+0032FD2E|1|Leve neblina
+0032FD2E|1|Neblina moderada
+0032FD2E|1|Fuerte neblina
+0032FD2E|1|Niebla severa
+0032FD2E|1|Niebla
+0032FD2E|1|Niebla intensa
+0032FD2E|1|Sin informe
+0032FD2E|1|Lluvia
+0032FD2E|1|Nieve
+00333162|1|Hoy
+00333162|1|lunes
+00333162|1|Mar
+00333162|1|miércoles
+00333162|1|jueves
+00333162|1|viernes
+00333162|1|sáb
+00333162|1|sol
+00361C12|1|%d%%
+00361C12|1|%d
+00333162|1|UVI
+00333162|1|Humedad
+0036FCC2|1|%02d:%02d
+00378A6F|1|%02d:%02d
+00333162|1|Modo de suspensión desactivado en %02d:%02d
+0032FD2E|1|BPM irregulares requieren una frecuencia de 1 min. ¿Continuar?
+0035910D|1|BPM máx.
+0035910D|1|Trabajo
+0035910D|1|Descanso
+0035910D|1|Juegos
+0035910D|1|Trazos
+0035910D|1|Saltos
+0035910D|1|Velocidad
+0035910D|1|Frecuencia de carreras
+0035910D|1|Longitudes
+0035910D|1|Estilo principal
+0035910D|1|Promedio SWOLF
+0035910D|1|Promedio de GPM
+00367B7D|1|%02lu:%02lu:%02lu
+0035CA4E|1|Braza
+0035CA4E|1|Mezcla
+0035CA4E|1|Estilo libre
+0035CA4E|1|Espalda
+0035CA4E|1|Mariposa
+00367B7D|1|%lu.%lu
+0034B734|1|Máx.
+0034B734|1|Máx.
+0036E9D5|1|%u
+0032FD2E|1|Conjuntos
+0032FD2E|1|Habilitado
+0033B0A2|1|Levantar para despertar se apagará cuando te vayas a dormir o te quites la pulsera.
+00379A45|1|℃
+00379A45|1|℉
+0034EFA8|1|%d:%02d
+0036FCC2|1|%u'%02u''
+0035F3D3|1|%u'%02u''
+0033B0A2|1|Objetivo: %u'%02u''
+0036B4AF|1|%u km/h
+0033B0A2|1|Objetivo: %u km/h
+0035F3D3|1|%u
+0033B0A2|1|BPM objetivo: %d–%d
+003388DC|1|%d
+0033B0A2|1|Umbral: %d BPM
+0035F3D3|1|--
+00367B7D|1|%d℉/%d℉
+0033B0A2|1|Entendido
+003492D7|1|%u
+0036D9F4|1|%%
+00346086|1|Batería por debajo de %u%%. Cargue ahora.
+0034B734|1|VO₂ máx.
+0034B734|1|Anaeróbico
+0034B734|1|Intensivo
+0034B734|1|Aeróbico
+0034B734|1|Luz
+00365791|1|%02lu:%02lu:%02lu
+0032FD2E|1|%02lu:%02lu:%02lu
+0034EFA8|1|BPM
+00377C36|1|%u
+0035CA4E|1|%d℃/%d℃
+0035CA4E|1|%d℉/%d℉
+0033B0A2|1|%d℃/%d℃
+0033B0A2|1|%d℉/%d℉
+0035CA4E|1|℃
+0035CA4E|1|℉
+0035CA4E|1|-
+0033B0A2|1|-
+0032FD2E|1|Agregar
+003388DC|1|Apodo:
+0033B0A2|1|Ciclo
+0033B0A2|1|Remero
+0032FD2E|1|Conéctate con la APP y vuelve a intentarlo
+00346086|1|Principiante
+00346086|1|Resistencia
+00346086|1|Intervalo
+00346086|1|Correr/caminar básico
+00346086|1|Correr/caminar avanzado
+00346086|1|Desplazamiento básico
+00346086|1|Básico
+00346086|1|Avanzado
+00346086|1|MIIT
+00346086|1|Básico
+00346086|1|Avanzado
+00346086|1|Básico
+00346086|1|Avanzado
+0034453B|1|Combina caminar y correr a intervalos.
+0034453B|1|Combina caminar y correr a intervalos.
+0034453B|1|Jogging de intensidad baja-media.
+0034453B|1|Trote más corto para quemar grasa y perder peso.
+0034453B|1|Trote prolongado de intensidad baja-media para quemar grasa.
+0034453B|1|Entrenamiento interválico de intensidad media-alta.
+0034453B|1|Trote de longitud media para resistencia.
+0034453B|1|Trote más largo para mayor resistencia.
+0034453B|1|Entrenamiento en intervalos más cortos para la salud del corazón y los pulmones.
+0034453B|1|Entrenamiento en intervalos más largos para la salud del corazón y los pulmones.
+0032FD2E|1|%02u/%02u
+0032FD2E|1|Ahora
+0032FD2E|1|En %u mín.
+0032FD2E|1|En %u minutos
+0032FD2E|1|Vencido
+0033B0A2|1|Lun
+0033B0A2|1|Mar
+0033B0A2|1|miércoles
+0033B0A2|1|Jueves
+0033B0A2|1|viernes
+0033B0A2|1|sáb
+0033B0A2|1|Sol
+0033B0A2|1|%u/%u
+0033B0A2|1|%02u:%02u
+0033B0A2|1|Hoy
+0033B0A2|1|Mañana
+0036FCC2|1|02d%:02d%
+0034DEA7|1|km por delante
+0035F3D3|1|--'--"
+0033D911|1|--'--"
+0033B0A2|1|%02u:%02u-
+0032FD2E|1|En %u h
+0032FD2E|1|En %u horas
+0032FD2E|1|En %u día
+0032FD2E|1|En %u días
+003505DD|1|Batería baja
+0034453B|1|Ejecutar
+00333162|1|%d mín.
+00333162|1|%d minutos
+0034B734|1|%d mín.
+0034B734|1|%d minutos
+00346086|1|Preparando actualización
+00346086|1|No se pudo actualizar.\nIntente nuevamente en la APLICACIÓN.
+00377C36|1|%
+0033B0A2|1|Hora
+0034453B|1|Relajado
+0034453B|1|Leve
+0034453B|1|Severo
+0033B0A2|1|El monitoreo durante todo el día está desactivado.
+0033B0A2|1|%02u:%02u SOY–
+0033B0A2|1|%02u:%02u PM–
+0033B0A2|1|%02u:%02u soy
+0033B0A2|1|%02u:%02u PM
+00346086|1|Te llamo más tarde.
+00346086|1|No puedo hablar ahora. ¿Qué pasa?
+00346086|1|No puedo hablar ahora. ¿Llámame luego?
+00379AB2|1|--
+0033D911|1|%u%%
+0034B734|1|Objetivo
+0033D911|1|%u
+00346086|1|km
+00346086|1|kcal
+00346086|1|longitud
+00346086|1|golpe
+00346086|1|saltar
+00369D3B|1|¡Nuevo récord!
+0033D911|1|%02u:%02u:%02u
+00377C36|1|%lu.%lu.%lu
+0034B734|1|Objetivo: %u km
+0034B734|1|Objetivo: %02u:%02u:%02u
+0034B734|1|Objetivo: %ukcal
+0034B734|1|Objetivo: %u longitud
+0034B734|1|Objetivo: %u longitudes
+0034B734|1|Objetivo: %u golpe
+0034B734|1|Objetivo: %u salto
+0033B0A2|1|Su pulsera le notifica cuando su frecuencia cardíaca supera un BPM establecido. Su frecuencia cardíaca aumenta bajo estrés.
+0033B0A2|1|Su pulsera le notifica cuando su frecuencia cardíaca desciende por debajo de un BPM establecido. Su ritmo cardíaco disminuye durante el sueño.\nSi no se siente bien, busque atención médica.
+003388DC|1|FC alta
+003388DC|1|FC baja
+0032FD2E|1|Más información
+003388DC|1|Avanzar
+003388DC|1|Ejecutar
+003388DC|1|Correr
+0033D911|1|%d
+003414C3|1|Avanzar
+003414C3|1|Ejecutar
+003414C3|1|Correr
+0034453B|1|Ejecutar
+0034453B|1|Correr
+0033D911|1|%02d
+0035F3D3|1|%02d
+0035F3D3|1|:
+0033B0A2|1|Ver detalles en la aplicación
+0032FD2E|1|¡Lo lograste!
+0033B0A2|1|Hecho
+0033B0A2|1|Continuar (%lus)
+0032FD2E|1|Entrenamiento
+0034B734|1|Tiempo
+0034B734|1|Frecuencia cardíaca
+00375E71|1|%lu.%02lu
+00379ADA|1|Automático
+00335358|1|Automático
+0032FD2E|1|Configurado correctamente
+0033B0A2|1|Entendido
+0032FD2E|1|Sobrecalentamiento. Apagando.
+0035910D|1|promedio
+003388DC|1|Batería baja
+00333162|1|lunes
+00333162|1|Mar
+00333162|1|miércoles
+00333162|1|jueves
+00333162|1|viernes
+00333162|1|sáb
+00333162|1|sol
+0033B0A2|1|soy
+0033B0A2|1|PM
+00367B7D|1|%lu:%02lu
+0035910D|1|%u.%02u km
+0033B0A2|1|DND se activará cuando te vayas a dormir o te quites la pulsera.
+00333162|1|Notificar cuando las lecturas de SpO₂ estén por debajo del nivel establecido durante el tiempo de vigilia
+00365E39|1|%d:%02d soy
+00365E39|1|%d:%02d PM
+00365E39|1|Ayer, %d:%02d a.m.
+00365E39|1|Ayer, %d:%02d PM
+00365E39|1|%02d/%02d, %d:%02d soy
+00365E39|1|%02d/%02d, %d:%02d PM
+00346086|1|En ejecución
+0034453B|1|Objetivo: %ukcal
+0034453B|1|Objetivo: %u paso
+0034453B|1|Objetivo: %u golpes
+0034453B|1|Objetivo: %u mín.
+0035ACFA|1|0123456789•
+0035910D|1|Hoy
+0032FD2E|1|Periodo en %ud
+0032FD2E|1|Periodo en %ud
+0032FD2E|1|Ovulación en %ud
+0034453B|1|Escanear para ver ayuda
+0035910D|1|Ayer
+0035910D|1|hace 2d
+0033B0A2|1|Apretar la correa de la banda
+0032FD2E|1|Más información
+00365E39|1|Establecer una alarma para las 8 a.m.
+00365E39|1|Buscar teléfono
+00365E39|1|Programar un temporizador de 5 minutos
+00365E39|1|¿Cuál es la temperatura?
+00365E39|1|我爱你用英语怎么说
+00365E39|1|Salta esta canción
+00365E39|1|Contar un chiste
+00365E39|1|Reproducir una canción
+00365E39|1|Comprobar mi frecuencia cardíaca
+00365E39|1|Háblame del Palacio de Verano
+00365E39|1|¿Cuál es la fecha lunar hoy?
+00365E39|1|Receta de panceta de cerdo estofada roja
+00365E39|1|Despiértame a las 8 a.m.
+00365E39|1|Pago por tránsito
+00365E39|1|Comprobar mi sueño
+00365E39|1|Comprobar mi nivel de oxígeno en sangre
+00365E39|1|Empezar a correr al aire libre
+00365E39|1|Cambiar visualización de una banda
+00365E39|1|Ver pasos
+00365E39|1|Encender linterna
+00365E39|1|Abrir Alipay
+00365E39|1|Tarjetas abiertas
+0035CA4E|1|Desconocido
+003505DD|1|Carrera/caminata básica
+003505DD|1|Correr/caminar avanzado
+003505DD|1|Desplazamiento básico
+003505DD|1|Básico
+003505DD|1|Avanzado
+003505DD|1|MIIT
+003505DD|1|Básico
+003505DD|1|Avanzado
+003505DD|1|Básico
+003505DD|1|Avanzado
+003505DD|1|Severo
+0033B0A2|1|Respiración
+0033B0A2|1|Caminar
+0032FD2E|1|¿Permitir que tu pulsera desbloquee el teléfono?
+0032FD2E|1|Permitido
+0032FD2E|1|No se pudo permitir
+0032FD2E|1|Ayuda
+00346086|1|Pagar a través de Weixin Pay
+00346086|1|Habilitar pago Weixin
+0032FD2E|1|Regulatorio
+003388DC|1|Modelo
+003388DC|1|ID CMIIT
+0034DEA7|1|ene
+0034DEA7|1|febrero
+0034DEA7|1|Mar
+0034DEA7|1|abr
+0034DEA7|1|Mayo
+0034DEA7|1|junio
+0034DEA7|1|julio
+0034DEA7|1|agosto
+0034DEA7|1|septiembre
+0034DEA7|1|Oct
+0034DEA7|1|nov
+0034DEA7|1|diciembre
+0034DEA7|1|Punto en 1d
+0034DEA7|1|Punto en 2d
+0034DEA7|1|Punto en %ud
+0034B734|1|Ovulación en 1d
+0034B734|1|Ovulación en 2d
+0034B734|1|Ovulación en %ud
+0032FD2E|1|Encendido/Apagado
+0032FD2E|1|Encendido/Apagado
+003505DD|1|Llamada perdida
+0033B0A2|1|Entendido
+00333162|1|%02d:%02d-%02d:%02d
+00333162|1|%02d:%02d-%02d:%02d
+0034EFA8|1|Relajado
+0034EFA8|1|Leve
+0034EFA8|1|Severo
+003505DD|1|Moderado
+0032FD2E|1|Diario
+00365E39|1|Golpes
+0033B0A2|1|Promedio
+0034EFA8|1|SPM
+0034EFA8|1|km/h
+0034EFA8|1|JPM
+0032FD2E|1|Más información
+0033B0A2|1|Batería baja. La linterna está apagada.
+0033B0A2|1|Cerrar
+00354565|1|%.1f
+0036E9D5|1|%.1f
+00354565|1|%u:%02u'%02u"
+0036E9D5|1|%u:%02u'%02u"
+00367B7D|1|%u:%02u'%02u"
+0034453B|1|Reproduciendo sonido
+003388DC|1|Los PIN no coinciden
+003388DC|1|Ingrese PIN
+003388DC|1|Nuevo PIN
+0035ACFA|1|Nuevo PIN
+0035ACFA|1|Confirmar PIN
+0035ACFA|1|Los PIN no coinciden
+0035ACFA|1|Introducir PIN
+00335358|1|%d
+00379ADA|1|%d
+0034B734|1|%dh %dm
+0034B734|1|%d hora
+0034B734|1|%d horas
+0034B734|1|%d mín.
+0034B734|1|%d minutos
+00346086|1|%d'%02d"
+0035910D|1|%02u/%02u
+0035910D|1|%02u:%02u
+0034B734|1|%s%.2f
+0033D911|1|.
+0035CA4E|1|--℃/--℃
+0035CA4E|1|--℉/--℉
+0033B0A2|1|--℃/--℃
+0033B0A2|1|--℉/--℉
+0033B0A2|1|Mostrar código
+0034B734|1|Gol acertado
+0034B734|1|Gol acertado
+0034B734|1|Golpe de portería en movimiento
+0034B734|1|Goleada a portería parada
+0034B734|1|Paso objetivo alcanzado
+0034B734|1|Objetivo de calorías alcanzado
+0034B734|1|Gol acertado
+0034B734|1|Gol acertado
+0034B734|1|Todos los goles alcanzados
+0034B734|1|Así se hace
+0034B734|1|Metas alcanzadas
+0034B734|1|Goles alcanzados
+0034EFA8|1|km/h
+0034EFA8|1|/km
+0032FD2E|1|AM
+0032FD2E|1|PM
+0032FD2E|1|Distancia de entrenamiento demasiado corta para registrarla.
+0035ACFA|1|(Sin título)
+0034B734|1|¿Olvidó su PIN?
+00346086|1|Inténtalo de nuevo en %d segundos
+00346086|1|Inténtalo de nuevo en %d segundos
+00346086|1|Inténtalo de nuevo en 5 minutos
+00346086|1|Inténtalo de nuevo en 10 minutos
+00346086|1|Restablecer PIN en la aplicación
+0034B734|1|Entendido
+0035ACFA|1|Ingrese PIN para desbloquear
+0034B734|1|%d notificación
+0034B734|1|%d notificaciones
+0037B7C5|1|--:--
+0035910D|1|%u km/h
+0035ACFA|1|Ingrese PIN para desbloquear
+0035ACFA|1|Ingrese PIN para desbloquear
+00365E39|1|%d℃/%d℃
+00365E39|1|%d℉/%d℉
+0034B734|1|%d
+00375E71|1|%02d:%02d.%02d
+00346086|1|m
+0033B0A2|1|Conecta tu pulsera con la aplicación
+00365E39|1|-
+0033B0A2|1|Ver detalles en la aplicación
+0037B81F|1|设备系统已损坏,请联系售后返厂维修
+0033B0A2|1|OK
+0033B0A2|1|Hecho
+0033B0A2|1|Desvincular
+0033B0A2|1|Desvincular
+0034B734|1|Pago Weixin
+0035ACFA|1|ID de Weixin vinculado
+00333162|1|Realiza un seguimiento de tu frecuencia cardíaca las 24 horas del día
+0035ACFA|1|Configurar PIN
+00333162|1|Recibe recordatorios para iniciar y finalizar un entrenamiento de carrera, caminata o remo.
+0032FD2E|1|Cargando
+00346086|1|.
+0034EFA8|1|型号
+0034EFA8|1|M2140B1
+0034EFA8|1|制造商
+0034EFA8|1|小米通讯技术有限公司
+0034EFA8|1|输入信息
+0034EFA8|1|5Vcc 350mA Máx.
+0034EFA8|1|ID CMIIT:
+0034EFA8|1|2022DP2646
+0037F561|1|中国制造
+003388DC|1|Xiaomi Banda Inteligente 7 Pro
+0033B0A2|1|No mostrar hoy
+0033B0A2|1|Remero
+0033B0A2|1|Elíptica
+0033B0A2|1|Saltar la cuerda
+003505DD|1|Bien hecho
+0034B734|1|
+0034B734|1|
+0034B734|1|Objetivo
+0034B734|1|Restante
+0034B734|1|Objetivo
+0034B734|1|Restante
+0034B734|1|Longitudes objetivo
+0034B734|1|Restante
+0034B734|1|Saltos de objetivo
+0034B734|1|Restante
+0032FD2E|1|Tiempo
+0032FD2E|1|Distancia
+0032FD2E|1|Golpes
+0032FD2E|1|Saltos
+0032FD2E|1|Longitudes
+0037B81F|1|SpO₂
+00346086|1|El tiempo de entrenamiento es demasiado corto para registrarlo.
+0037B81F|1|Aplicaciones
+0037F96F|1|Aptitud física
+0037F96F|1|Básico
+0037F96F|1|Tiempo
+0037F96F|1|Herramientas
+0037B81F|1|Cronómetro
+0037B81F|1|Temporizador
+0037B81F|1|Cámara
+0037B81F|1|Tarjetas
+0034EFA8|1|
+0035910D|1|%d:%02d
+0035910D|1|%dm
+0035910D|1|%dm %02ds
+0032FD2E|1|¡Tú puedes hacerlo!
+0032FD2E|1|Estadísticas
+0033B0A2|1|Ayer alcanzaste tu objetivo. ¡Sigue así hoy!
+0033B0A2|1|Ayer acertaste en 2 de 3 objetivos. ¡Puedes hacerlo!
+0033B0A2|1|Ayer no alcanzaste tus objetivos. ¡Haz que hoy cuente!
+0033B0A2|1|Tus objetivos están a tu alcance: ¡hoy es un nuevo día!
+0033B0A2|1|Estás a sólo 1000 pasos de tu objetivo.
+0033B0A2|1|Estás a sólo 50 kcal de tu objetivo.
+0033B0A2|1|Aún estás a tiempo de alcanzar el objetivo de hoy, ¡sigue adelante!
+0033B0A2|1|Levántate dos veces más hoy para alcanzar tu objetivo.
+0033B0A2|1|Levántate una vez más hoy para alcanzar tu objetivo.
+0033B0A2|1|Ayer alcanzaste tu objetivo. ¡Sigue así hoy!
+0033B0A2|1|Ayer acertaste en 2 de 3 objetivos. ¡Puedes hacerlo!
+0033B0A2|1|Ayer no alcanzaste tus objetivos. ¡Haz que hoy cuente!
+0033B0A2|1|Tus objetivos están a tu alcance: ¡hoy es un nuevo día!
+0033B0A2|1|Estás a sólo 1000 pasos de tu objetivo.
+0033B0A2|1|Estás a sólo 50 kcal de tu objetivo.
+0033B0A2|1|Ya casi has alcanzado tu objetivo, ¡termina fuerte!
+0033B0A2|1|Levántate dos veces más hoy para alcanzar tu objetivo.
+0033B0A2|1|Levántate una vez más hoy para alcanzar tu objetivo.
+003505DD|1|¡Objetivo alcanzado!
+0035910D|1|apagado
+0035910D|1|%d seg.
+0035910D|1|%d segundos
+0033B0A2|1|Habilitar
+0032FD2E|1|Snowboard
+0032FD2E|1|Esquí
+003505DD|1|Snowboard
+003505DD|1|Esquí
+0032FD2E|1|Automático
+0032FD2E|1|Personalizado
+00333162|1|Personalizado
+0037B81F|1|接收中···
+003806C8|1|正在准备更新\n校验中
+0033B0A2|1|Entendido
+0032FD2E|1|Alertas meteorológicas
+003388DC|1|Alerta
+0033B0A2|1|%u/%u/%u
+0035910D|1|VO₂ máx.
+00333162|1|Alto
+0033B0A2|1|alerta
+00379ADA|1|--
+0033B0A2|1|Tu pulsera medirá tu pulso y registrará cualquier anomalía cuando estés inactivo. Si no se siente bien, busque atención médica.
+003388DC|1|Irregulares
+0032FD2E|1|Más información
+003388DC|1|Toca para despertar Mi AI
+0032FD2E|1|Mantener la pantalla encendida durante períodos prolongados afecta la duración de la batería. ¿Cambia ahora?
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|Hai (Cerdo)
+0033B0A2|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0033B0A2|1|    
+00335358|1|    
+00335358|1|%d/%d
+0033B0A2|1|Semana %d
+0033B0A2|1|Lun
+0033B0A2|1|Mar
+0033B0A2|1|miércoles
+0033B0A2|1|Jueves
+0033B0A2|1|viernes
+0033B0A2|1|sáb
+0033B0A2|1|Sol
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0033B0A2|1|    
+0032FD2E|1|    
+0032FD2E|1|    
+0032FD2E|1|Preferencias
+0032FD2E|1|Preferencias
+0032FD2E|1|Mantener presionada la pantalla
+0032FD2E|1|Mantener presionada la pantalla
+0032FD2E|1|Mantener presionada la pantalla
+00333162|1|Cuando esté encendido, mantenga presionado Editar para editar la visualización de la banda
+00333162|1|Datos caducados
+00333162|1|Justo ahora
+0032FD2E|1|Buscar dispositivo
+0034B734|1|Conéctese a Bluetooth y vuelva a intentarlo
+0034B734|1|Conéctese a Bluetooth y active las notificaciones meteorológicas para obtener información meteorológica de las ubicaciones seleccionadas.
+00333162|1|Actualizado hace %d minutos
+00333162|1|Actualizado: %02d:%02d
+00346086|1|Calendario
+00333162|1|Actualizado %02d:%02d a.m.
+00333162|1|Actualizado %02d:%02d PM
+00333162|1|Actualizado hace %d minutos
+00333162|1|Actualizado hace %d minutos
