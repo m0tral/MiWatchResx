@@ -52,7 +52,7 @@
 0038D7F8|1|Entendido
 003858AF|1|Para definir uma frequência de monitoramento, desative BPM Irregular.
 003407C7|1|%d:%02d
-00346086|1|Isto afetará a duração da bateria, continuar?
+0039AC33|1|Isto afetará a duração da bateria, continuar?
 00381A69|1|Desativado
 00381A69|1|Inteligente
 0038D7F8|1|A Tela sempre ligada vai desligar quando você for dormir ou tirar a pulseira.
@@ -64,7 +64,7 @@
 00381A69|1|Redefinir
 00381A69|1|Reiniciar agora?
 00381A69|1|Desligar agora?
-00346086|1|Apagar todos os dados?
+0039AC33|1|Apagar todos os dados?
 0038AFE3|1|Nome
 0038AFE3|1|Modelo
 0038AFE3|1|Endereço MAC
@@ -82,19 +82,19 @@
 0033D911|1|%2d:%2d:%2d
 00381A69|1|Trabalho
 0033D911|1|%d
-0034B734|1|Traços alvo
-0034B734|1|Restante
+0039F45B|1|Traços alvo
+0039F45B|1|Restante
 0038D7F8|1|Pular
 00381A69|1|Descanso
-0034B734|1|Descanso
-0034B734|1|Restante
+0039F45B|1|Descanso
+0039F45B|1|Restante
 00381A69|1|Resfriamento
 0038D7F8|1|Fim
-00346086|1|Em execução
-00346086|1|Queima de gordura
+0039AC33|1|Em execução
+0039AC33|1|Queima de gordura
 00381A69|1|Avançado
-0034B734|1|Introdução
-0034B734|1|Plano de treinamento
+0039F45B|1|Introdução
+0039F45B|1|Plano de treino
 00396200|1|Caminhada
 00396200|1|Jogo básico
 0038D7F8|1|Iniciar
@@ -104,7 +104,7 @@
 0038D7F8|1|%d~%dbpm
 0038AFE3|1|Caminhada
 0033D911|1|%d:%02d
-0034B734|1|Temporizador
+0039F45B|1|Timer
 0034DEA7|1|BPM
 00381A69|1|Parece que você está se exercitando
 0038D7F8|1|Exterior
@@ -113,14 +113,14 @@
 0038D7F8|1|km
 0038D7F8|1|Pausa
 0038D7F8|1|Continuar
-00346086|1|Distância de treino muito curta para ser registrada. Fim?
-00346086|1|Tempo de treino muito curto para ser registrado. Fim?
+0039AC33|1|Distância de treino muito curta para ser registrada. Fim?
+0039AC33|1|Tempo de treino muito curto para ser registrado. Fim?
 0038D7F8|1|Continuar
 0038D7F8|1|Fim
 00381A69|1|Calibração
 0033D911|1|.
 0034EFA8|1|km
-00346086|1|A tela é bloqueada quando você inicia
+0039AC33|1|A tela é bloqueada quando você inicia
 00381A69|1|Respiração
 003A3B47|1|Respiração
 00381A69|1|Tempo
@@ -151,7 +151,7 @@
 00381A69|1|Alertas
 00381A69|1|Comprimento da piscina
 00381A69|1|Pausa automática
-0034B734|1|Abrir
+0039F45B|1|Abrir
 0035910D|1|1,5km
 00381A69|1|Abrir
 00381A69|1|Distância
@@ -159,7 +159,7 @@
 00381A69|1|Calorias
 00381A69|1|Saltos
 00381A69|1|Comprimentos
-0034B734|1|5km
+0039F45B|1|5km
 00381A69|1|Os intervalos serão desativados. Continuar?
 00381A69|1|A meta do treino será removida. Continuar?
 00381A69|1|Distância
@@ -249,9 +249,9 @@
 00381A69|1|Pontuação de respiração
 003858AF|1|Monitorar a respiração noturna
 00381A69|1|Sono
-0034B734|1|BPM médio
+0039F45B|1|BPM médio
 00381A69|1|
-0034B734|1|SpO₂ Médio
+0039F45B|1|SpO₂ Médio
 00381A69|1|Cochilo
 00381A69|1|Frequência cardíaca
 00365791|1|126
@@ -260,13 +260,13 @@
 00381A69|1|Baixa FC
 00381A69|1|BPM irregular
 00381A69|1|Zona HR
-0034B734|1|VO₂ máx.
-0034B734|1|VO₂ máx.
-0034B734|1|Anaeróbico
-0034B734|1|Intensivo
-0034B734|1|Luz
-0034B734|1|Descontraído
-0034B734|1|Descontraído
+0039F45B|1|VO₂ máx.
+0039F45B|1|VO₂ máx.
+0039F45B|1|Anaeróbico
+0039F45B|1|Intensivo
+0039F45B|1|Luz
+0039F45B|1|Descontraído
+0039F45B|1|Descontraído
 00381A69|1|%02d:%02d
 0038D7F8|1|Medindo
 00367B7D|1|144-224
@@ -310,28 +310,28 @@
 0038D7F8|1|Fique quieto
 0038D7F8|1|Medido: %02d:%02d
 0038D7F8|1|Tente novamente
-0034B734|1|Meta atingida
-0034B734|1|Meta atingida
-0034B734|1|Meta atingida
-0034B734|1|Meta atingida
+0039F45B|1|Meta atingida
+0039F45B|1|Meta atingida
+0039F45B|1|Meta atingida
+0039F45B|1|Meta atingida
 003A3B47|1|Metas atingidas
-0034B734|1|Bravo!
+0039F45B|1|Bravo!
 003A3B47|1|Movimente-se!
 003A3B47|1|Levante-se
 0038D7F8|1|Levante-se e ande
-00346086|1|Conecte seu telefone para atualizar os dados do GPS.
-00346086|1|O armazenamento está cheio. Não é possível gravar este treino.
+0039AC33|1|Conecte seu telefone para atualizar os dados do GPS.
+0039AC33|1|O armazenamento está cheio. Não é possível gravar este treino.
 00381A69|1|GPS
 003A3B47|1|Corrida ao ar livre
-00346086|1|Localização. Vá para uma área aberta e espere para começar o treino.
+0039AC33|1|Localização. Vá para uma área aberta e espere para começar o treino.
 0038D7F8|1|Espere
 0038D7F8|1|Iniciar
-00346086|1|Exercício em área aberta
+0039AC33|1|Exercício em área aberta
 0038D7F8|1|Dispensar
 00381A69|1|Ciclos
 00365E39|1|%u/%u/%u
 00381A69|1|Previsões
-0034B734|1|Fértil
+0039F45B|1|Fértil
 00381A69|1|05.23-06.23
 00369D3B|1|Dia da ovulação
 0036ABFA|1|Período
@@ -472,44 +472,44 @@
 0038D7F8|1|Enviar
 00381A69|1|Enviado
 00381A69|1|Não foi possível enviar
-00346086|1|Permitir que este APP envie mensagens SMS
-00346086|1|Permitir que este APP leia seus contatos
+0039AC33|1|Permitir que este APP envie mensagens SMS
+0039AC33|1|Permitir que este APP leia seus contatos
 00381A69|1|Enviando
 0036B4AF|1|Foco
-00346086|1|DND está ativado durante esta sessão
+0039AC33|1|DND está ativado durante esta sessão
 00381A69|1|Foco
-0034B734|1|Mantenha o foco
-0034B734|1|Pausado
-0034B734|1|Descanso
-0034B734|1|Descansando
-0034B734|1|Pausado
-0034B734|1|Hora de focar
-0034B734|1|Tempo esgotado
-0034B734|1|Você conseguiu!
-0034B734|1|Foco de hoje
-0034B734|1|Descanso de hoje
+0039F45B|1|Mantenha o foco
+0039F45B|1|Pausado
+0039F45B|1|Descanso
+0039F45B|1|Descansando
+0039F45B|1|Pausado
+0039F45B|1|Hora de focar
+0039F45B|1|Tempo esgotado
+0039F45B|1|Você conseguiu!
+0039F45B|1|Foco de hoje
+0039F45B|1|Descanso de hoje
 0038D7F8|1|Tempo de descanso
 0038D7F8|1|Tempo de foco
 0033D911|1|%02d:%02d
-0034B734|1|Ao usar o Foco, o cronômetro geralmente é definido para 25 minutos, durante os quais você pode se concentrar em uma tarefa.
-0034B734|1|Quando o seu dispositivo vibra, é hora de fazer uma pausa de 5 minutos.
-0034B734|1|Após quatro sessões de 25 minutos, faça uma pausa de 15 a 20 minutos.
+0039F45B|1|Ao usar o Foco, o cronômetro geralmente é definido para 25 minutos, durante os quais você pode se concentrar em uma tarefa.
+0039F45B|1|Quando o seu dispositivo vibra, é hora de fazer uma pausa de 5 minutos.
+0039F45B|1|Após quatro sessões de 25 minutos, faça uma pausa de 15 a 20 minutos.
 003492D7|1|%02d:%02d:%02d
 0036D9F4|1|Alarme
-0034B734|1|Sem alarmes
-0034B734|1|Hora
-0034B734|1|Repetir
+0039F45B|1|Sem alarmes
+0039F45B|1|Hora
+0039F45B|1|Repetir
 00381A69|1|Editar
 00381A69|1|Tempo
 00381A69|1|Repetir
 0038D7F8|1|Excluir
 0038D7F8|1|OK
-0034B734|1|da manhã
-0034B734|1|PM
+0039F45B|1|da manhã
+0039F45B|1|PM
 0038D7F8|1|Suspender
 0038D7F8|1|Parar
 0038D7F8|1|Adicionar alarme
-0034B734|1|Adicionar até 10 alarmes
+0039F45B|1|Adicionar até 10 alarmes
 00381A69|1|Encontrar telefone
 00381A69|1|Seu telefone tocará
 00381A69|1|Desconectado
@@ -522,26 +522,26 @@
 00381A69|1|Só um segundo
 003858AF|1|Emparelhe sua band com o APP
 003858AF|1|Ativar acesso a notificações para o APP
-00346086|1|Ativar acesso a notificações para o APP
+0039AC33|1|Ativar acesso a notificações para o APP
 0038D7F8|1|Não emparelhado
 00381A69|1|Não está jogando
 00381A69|1|Desconectado
 00381A69|1|Permissões
 00381A69|1|Câmera
-0034B734|1|Abra a câmera no seu telefone
+0039F45B|1|Abra a câmera no seu telefone
 00381A69|1|Não emparelhado
-00346086|1|Desconectado
+0039AC33|1|Desconectado
 003858AF|1|Vá para Dispositivo > Câmera no APP
 003858AF|1|Emparelhe sua band com o APP
-0034B734|1|Ligar
+0039F45B|1|Ligar
 0038D7F8|1|Não há eventos hoje
 00381A69|1|Detalhes
 00381A69|1|Detalhes
-00346086|1|Ativar eventos no APP
-00346086|1|Adiar por 10 minutos
+0039AC33|1|Ativar eventos no APP
+0039AC33|1|Adiar por 10 minutos
 00381A69|1|Cronômetro
 0036E9D5|1|%02d
-00346086|1|O cronômetro não pode ser executado em segundo plano, sair?
+0039AC33|1|O cronômetro não pode ser executado em segundo plano, sair?
 00381A69|1|Temporizador
 0035F3D3|1|%d
 00365E39|1|min
@@ -567,44 +567,44 @@
 00381A69|1|Cartões
 0038D7F8|1|Adicionar cartões no APP
 0038D7F8|1|Só um segundo
-0034B734|1|Segure próximo ao leitor
+0039F45B|1|Segure próximo ao leitor
 0038D7F8|1|Saldo:
-0034B734|1|Só um segundo
-0034B734|1|Não foi possível carregar. Tente novamente.
+0039F45B|1|Só um segundo
+0039F45B|1|Não foi possível carregar. Tente novamente.
 00381A69|1|Pago com sucesso
 00381A69|1|Alipay
-00346086|1|Uma vez adicionado, escaneie o código QR na sua band para pagar
-00346086|1|Leia e concorde com o Contrato de Serviço de Dispositivos Inteligentes
+0039AC33|1|Uma vez adicionado, escaneie o código QR na sua band para pagar
+0039AC33|1|Leia e concorde com o Contrato de Serviço de Dispositivos Inteligentes
 0038D7F8|1|Adicionar
 0038D7F8|1|Continuar
 0038D7F8|1|Cancelar
 003858AF|1|Digitalizar com Alipay
-00346086|1|Adicionado
-00346086|1|Não foi possível emparelhar
+0039AC33|1|Adicionado
+0039AC33|1|Não foi possível emparelhar
 00381A69|1|Emparelhamento
 003858AF|1|Toque para atualizar o código de barras
 00381A69|1|Remover
-00346086|1|Você não poderá usar Alipay
+0039AC33|1|Você não poderá usar Alipay
 003858AF|1|Segure próximo ao leitor
 0038D7F8|1|Remover
 00381A69|1|WeChat
-00346086|1|Seu endereço Bluetooth e modelo do dispositivo serão enviados ao WeChat quando você ativar o pagamento do WeChat.
-0034B734|1|Para ativar, use o WeiXin para escanear o código QR.
+0039AC33|1|Seu endereço Bluetooth e modelo do dispositivo serão enviados ao WeChat quando você ativar o pagamento do WeChat.
+0039F45B|1|Para ativar, use o WeiXin para escanear o código QR.
 0038D7F8|1|Não
-00346086|1|Configuração incompleta. Saia agora?
-00346086|1|Não habilitado
-00346086|1|Ativar PIN
-00346086|1|Ativando… Conclua o processo no seu telefone.
-00346086|1|Depois de desvincular o dispositivo, você não poderá efetuar pagamentos usando o Weixin Pay.
-00346086|1|Por razões de segurança, leia o código QR com Weixin para ativar novamente.
-00346086|1|Não é possível pagar
+0039AC33|1|Configuração incompleta. Saia agora?
+0039AC33|1|Não habilitado
+0039AC33|1|Ativar PIN
+0039AC33|1|Ativando… Conclua o processo no seu telefone.
+0039AC33|1|Depois de desvincular o dispositivo, você não poderá efetuar pagamentos usando o Weixin Pay.
+0039AC33|1|Por razões de segurança, leia o código QR com Weixin para ativar novamente.
+0039AC33|1|Não é possível pagar
 0038D7F8|1|Sim
 0038D7F8|1|Agora não
 0038D7F8|1|Ativar novamente
 0038D7F8|1|Tente novamente mais tarde
-00346086|1|Desvinculado
+0039AC33|1|Desvinculado
 0036B4AF|1|Durma bem
-00346086|1|DND está ativado. Aumentar para acordar está desativado.
+0039AC33|1|DND está ativado. Aumentar para acordar está desativado.
 0038D7F8|1|Dispensar
 0038D7F8|1|Hora
 003492D7|1|%02d:%02d
@@ -616,9 +616,9 @@
 0038D7F8|1|Medida
 0038D7F8|1|Sem dados
 00373688|1|98%
-0034B734|1|Use a pulseira acima do osso do pulso.
-0034B734|1|Aperte a tira e tente novamente
-0034B734|1|Fique quieto
+0039F45B|1|Use a pulseira acima do osso do pulso.
+0039F45B|1|Aperte a tira e tente novamente
+0039F45B|1|Fique quieto
 00354565|1|98%
 003A3B47|1|SpO₂
 0038AFE3|1|85%
@@ -628,16 +628,16 @@
 00381A69|1|Alerta
 00381A69|1|Saiba mais
 00381A69|1|Rastreamento durante todo o dia
-0034B734|1|Desligado
-0034B734|1|80%
+0039F45B|1|Desligado
+0039F45B|1|80%
 003858AF|1|Meça SpO₂ quando você não estiver se movendo
 0038D7F8|1|Use a pulseira acima do osso do pulso.
 0038D7F8|1|Mantenha sua pulseira confortável e imóvel.
 00396200|1|Este recurso não se destina a fins médicos.
-0034B734|1|SpO₂ representa a porcentagem de oxigênio no sangue.
-0034B734|1|Leituras abaixo de 90% são consideradas baixas.
-0034B734|1|Sua band suporta uma faixa de 75–100%.
-0034B734|1|Existem vários fatores que podem tornar as medições inconsistentes ou não confiáveis. Eles podem incluir perfusão da pele, alterações permanentes ou temporárias na pele, movimento ou postura durante o sono. Todos os itens acima podem resultar em um alerta falsamente baixo de oxigênio no sangue. Lembre-se de que este não é um dispositivo médico e os dados que ele gera não podem ser usados ​​para diagnóstico e tratamento.
+0039F45B|1|SpO₂ representa a porcentagem de oxigênio no sangue.
+0039F45B|1|Leituras abaixo de 90% são consideradas baixas.
+0039F45B|1|Sua band suporta uma faixa de 75–100%.
+0039F45B|1|Existem vários fatores que podem tornar as medições inconsistentes ou não confiáveis. Eles podem incluir perfusão da pele, alterações permanentes ou temporárias na pele, movimento ou postura durante o sono. Todos os itens acima podem resultar em um alerta falsamente baixo de oxigênio no sangue. Lembre-se de que este não é um dispositivo médico e os dados que ele gera não podem ser usados ​​para diagnóstico e tratamento.
 00381A69|1|Alertas
 00381A69|1|Treino
 00381A69|1|Categorias
@@ -765,7 +765,7 @@
 00381A69|1|Equestre
 00381A69|1|Atletismo
 00381A69|1|Automobilismo
-0034B734|1|Abrir
+0039F45B|1|Abrir
 0033D911|1|%02d:%02d:%02d
 0033D911|1|%d.%d
 00374EB0|1|km
@@ -800,10 +800,10 @@
 00381A69|1|Estresse
 0034EFA8|1|Moderado
 00381A69|1|Detalhes
-0034B734|1|Descontraído
-0034B734|1|Leve
-0034B734|1|Moderado
-0034B734|1|Grave
+0039F45B|1|Descontraído
+0039F45B|1|Leve
+0039F45B|1|Moderado
+0039F45B|1|Grave
 00381A69|1|Últimos 7 dias
 00365791|1|05.12
 0038D7F8|1|Sem dados
@@ -821,15 +821,15 @@
 0038D7F8|1|As medições dependem da baixa temperatura, perfusão da pele e muito mais.
 0038AFE3|1|99,0
 0038D7F8|1|Respiração
-00346086|1|Frequência cardíaca
-00346086|1|Alarme
-00346086|1|SpO₂
-00346086|1|Configurações
-00346086|1|Alipay
-00346086|1|Weixin Pagamento
-00346086|1|Tempo
-00346086|1|Adicionar dispositivo
-00346086|1|Estatísticas
+0039AC33|1|Frequência cardíaca
+0039AC33|1|Alarme
+0039AC33|1|SpO₂
+0039AC33|1|Configurações
+0039AC33|1|Alipay
+0039AC33|1|Weixin Pagamento
+0039AC33|1|Tempo
+0039AC33|1|Adicionar dispositivo
+0039AC33|1|Estatísticas
 00381A69|1|Excluir exibição de band?
 00381A69|1|Para salvar as alterações, deslize para a direita no display da band.
 00381A69|1|Resumo
@@ -857,7 +857,7 @@
 003858AF|1|Remova as exibições de band e tente novamente
 00381A69|1|Salvar alterações?
 00381A69|1|Uma vez
-0034B734|1|Uma vez
+0039F45B|1|Uma vez
 00381A69|1|Seg
 00381A69|1|Terça
 00381A69|1|Quarta
@@ -865,23 +865,23 @@
 00381A69|1|Sexta
 00381A69|1|Sábado
 00381A69|1|Sol
-0034B734|1|
-0034B734|1|M
-0034B734|1|T
-0034B734|1|W
-0034B734|1|T
-0034B734|1|F
-0034B734|1|S
-0034B734|1|S
-0034B734|1|Diariamente
-00346086|1|Sono
-00346086|1|Cronômetro
-00346086|1|Respiração
-00346086|1|Ciclos
-00346086|1|Estresse
-00346086|1|Treino
+0039F45B|1|
+0039F45B|1|M
+0039F45B|1|T
+0039F45B|1|W
+0039F45B|1|T
+0039F45B|1|F
+0039F45B|1|S
+0039F45B|1|S
+0039F45B|1|Diariamente
+0039AC33|1|Sono
+0039AC33|1|Cronômetro
+0039AC33|1|Respiração
+0039AC33|1|Ciclos
+0039AC33|1|Estresse
+0039AC33|1|Treino
 003858AF|1|Digitalizar para baixar
-00346086|1|Parear com telefone?
+0039AC33|1|Parear com telefone?
 00381A69|1|Regulamento
 0038D7F8|1|Em pé
 00381A69|1|Soneca
@@ -902,10 +902,10 @@
 00361C12|1|12
 003A3B47|1|curso
 003A3B47|1|traços
-0034B734|1|"Passos" mostra uma contagem diária de passos.
-0034B734|1|"Calorias" mostra o número de calorias ativas queimadas durante movimentos e exercícios.
-0034B734|1|"Movimento" mostra o tempo gasto em atividades moderadas e vigorosas.
-0034B734|1|"Standing" mostra as horas em que você se levanta e se movimenta.
+0039F45B|1|"Passos" mostra uma contagem diária de passos.
+0039F45B|1|"Calorias" mostra o número de calorias ativas queimadas durante movimentos e exercícios.
+0039F45B|1|"Movimento" mostra o tempo gasto em atividades moderadas e vigorosas.
+0039F45B|1|"Standing" mostra as horas em que você se levanta e se movimenta.
 00396200|1|km/h
 00381A69|1|80%
 00381A69|1|85%
@@ -919,18 +919,18 @@
 00381A69|1|Tempo
 0035910D|1|%u
 0035910D|1|%u
-0034B734|1|%u km
+0039F45B|1|%u km
 0035910D|1|%u km
 0035910D|1|%um
-0034B734|1|%u min
-0034B734|1|%u minutos
-0034B734|1|%ukcal
+0039F45B|1|%u min
+0039F45B|1|%u minutos
+0039F45B|1|%ukcal
 0035910D|1|%u kcal
 0035910D|1|%u min
-0034B734|1|%u
+0039F45B|1|%u
 0035910D|1|%u
 0035910D|1|%u
-0034B734|1|%u
+0039F45B|1|%u
 0035910D|1|%u
 0035910D|1|%u
 0034EFA8|1|
@@ -943,15 +943,15 @@
 00381A69|1|%u km
 00381A69|1|%u km/h
 00381A69|1|%uBPM
-0034B734|1|Concluído
+0039F45B|1|Concluído
 00387B50|1|km
 00381A69|1|%
-0034B734|1|%d.%d km
+0039F45B|1|%d.%d km
 0035910D|1|%d'%02d"
 00381A69|1|Foco
 00381A69|1|Descanso
-0034B734|1|%d min
-0034B734|1|%d minutos
+0039F45B|1|%d min
+0039F45B|1|%d minutos
 0033D911|1|%02d:%02d
 003407C7|1|%02d:%02d
 00365E39|1|%dm atrás
@@ -984,45 +984,45 @@
 003A3B47|1|Movimente-se
 0038D7F8|1|Agite!
 00381A69|1|Desativar os lembretes de stand-up de hoje?
-0034B734|1|Desligado
-0034B734|1|100 BPM
-0034B734|1|110 BPM
-0034B734|1|120 BPM
-0034B734|1|130 BPM
-0034B734|1|140 BPM
-0034B734|1|150 BPM
-0034B734|1|40 BPM
-0034B734|1|45 BPM
-0034B734|1|50 BPM
-0034B734|1|Ligado
-0034B734|1|Desligado
-0034B734|1|1 min
-0034B734|1|10 minutos
-0034B734|1|30 minutos
-0034B734|1|Automático
+0039F45B|1|Desligado
+0039F45B|1|100 BPM
+0039F45B|1|110 BPM
+0039F45B|1|120 BPM
+0039F45B|1|130 BPM
+0039F45B|1|140 BPM
+0039F45B|1|150 BPM
+0039F45B|1|40 BPM
+0039F45B|1|45 BPM
+0039F45B|1|50 BPM
+0039F45B|1|Ligado
+0039F45B|1|Desligado
+0039F45B|1|1 min
+0039F45B|1|10 minutos
+0039F45B|1|30 minutos
+0039F45B|1|Automático
 00375E71|1|%d%%
-00346086|1|Atividade
-00346086|1|Mi AI
-00346086|1|Cartões
-00346086|1|Notificações
-00346086|1|Eventos
-00346086|1|Música
-00346086|1|Câmera
-00346086|1|Temporizador
-00346086|1|Lanterna
-00346086|1|Encontrar telefone
-00346086|1|Ajuda
-00346086|1|Foco
-00374EB0|1|"Aumentar para acordar" está ativado
-00374EB0|1|"Aumentar para despertar" está desativado
-00374EB0|1|DND está ativado
-00374EB0|1|DND está desativado
+0039AC33|1|Atividade
+0039AC33|1|Mi AI
+0039AC33|1|Cartões
+0039AC33|1|Notificações
+0039AC33|1|Eventos
+0039AC33|1|Música
+0039AC33|1|Câmera
+0039AC33|1|Temporizador
+0039AC33|1|Lanterna
+0039AC33|1|Encontrar telefone
+0039AC33|1|Ajuda
+0039AC33|1|Foco
+00374EB0|1|"Levantar para ligar tela" ativado
+00374EB0|1|"Levantar para ligar tela" desativado
+00374EB0|1|Não perturbe ativado
+00374EB0|1|Não perturbe desativado
 00381A69|1|Resumo
-0034B734|1|Sem dados
+0039F45B|1|Não há dados
 0038D7F8|1|Ver detalhes no APP
 00354565|1|--
-0034B734|1|%d
-0034B734|1|%d–%d BPM
+0039F45B|1|%d
+0039F45B|1|%d–%d BPM
 0038AFE3|1|%d-%d
 0038AFE3|1|%02d:%02d-%02d:%02d
 00377458|1|%d
@@ -1083,9 +1083,9 @@
 0038AFE3|1|Não foi possível ativar o Mi AI, tente novamente
 00365791|1|%u
 00381A69|1|Não há dados hoje
-0034B734|1|Hoje
-0034B734|1|Amanhã
-0034B734|1|Desligado
+0039F45B|1|Hoje
+0039F45B|1|Amanhã
+0039F45B|1|Desligado
 0038D7F8|1|Próximo
 0038D7F8|1|Ativar previsão de período no APP
 0035910D|1|Agora mesmo
@@ -1098,13 +1098,13 @@
 00365791|1|00:00
 00365791|1|12:00
 00365791|1|24:00
-0034B734|1|Todo o dia
+0039F45B|1|Todo o dia
 0038D7F8|1|O rastreamento diário está desativado.
 0038D7F8|1|Aperte a tira e tente novamente
 00365791|1|%02u:%02u
 00367B7D|1|%02u:%02u-%02u:%02u
 00381A69|1|Alertas
-0034B734|1|Sua band notifica você quando detecta leituras abaixo do nível definido. Você pode visualizar mais dados no APP. Se você não se sentir bem, procure orientação médica.
+0039F45B|1|Sua band notifica você quando detecta leituras abaixo do nível definido. Você pode visualizar mais dados no APP. Se você não se sentir bem, procure orientação médica.
 0038D7F8|1|Fique quieto
 0038D7F8|1|50% concluído
 0038D7F8|1|Calibrando
@@ -1116,12 +1116,12 @@
 00396200|1|Definir locais no APP
 00360C60|1|%d
 00381A69|1|Só um segundo
-0034B734|1|Bom
-0034B734|1|Moderado
-0034B734|1|Poluição luminosa
-0034B734|1|Insalubre
-0034B734|1|Perigoso
-0034B734|1|Perigoso
+0039F45B|1|Bom
+0039F45B|1|Moderado
+0039F45B|1|Poluição luminosa
+0039F45B|1|Insalubre
+0039F45B|1|Perigoso
+0039F45B|1|Perigoso
 0038AFE3|1|Bom
 0038AFE3|1|Moderado
 0038AFE3|1|Poluição luminosa
@@ -1216,8 +1216,8 @@
 0035CA4E|1|Nado Costas
 0035CA4E|1|Borboleta
 00367B7D|1|%lu.%lu
-0034B734|1|Máx.
-0034B734|1|Máx.
+0039F45B|1|Máx.
+0039F45B|1|Máx.
 0036E9D5|1|%u
 00381A69|1|Conjuntos
 00381A69|1|Ativado
@@ -1239,12 +1239,12 @@
 0038D7F8|1|Entendi
 003492D7|1|%u
 0036D9F4|1|%%
-00346086|1|Bateria abaixo de %u%%. Carregue agora.
-0034B734|1|VO₂ máx.
-0034B734|1|Anaeróbico
-0034B734|1|Intensivo
-0034B734|1|Aeróbico
-0034B734|1|Luz
+0039AC33|1|Bateria abaixo de %u%%. Carregue agora.
+0039F45B|1|VO₂ máx.
+0039F45B|1|Anaeróbico
+0039F45B|1|Intensivo
+0039F45B|1|Aeróbico
+0039F45B|1|Luz
 00365791|1|%02lu:%02lu:%02lu
 00381A69|1|%02lu:%02lu:%02lu
 0034EFA8|1|BPM
@@ -1262,19 +1262,19 @@
 0038D7F8|1|Ciclo
 0038D7F8|1|Remador
 00381A69|1|Conecte-se ao APP e tente novamente
-00346086|1|Iniciante
-00346086|1|Resistência
-00346086|1|Intervalo
-00346086|1|Corrida/caminhada básica
-00346086|1|Corrida/caminhada avançada
-00346086|1|Corrida básica
-00346086|1|Básico
-00346086|1|Avançado
-00346086|1|MIIT
-00346086|1|Básico
-00346086|1|Avançado
-00346086|1|Básico
-00346086|1|Avançado
+0039AC33|1|Iniciante
+0039AC33|1|Resistência
+0039AC33|1|Intervalo
+0039AC33|1|Corrida/caminhada básica
+0039AC33|1|Corrida/caminhada avançada
+0039AC33|1|Corrida básica
+0039AC33|1|Básico
+0039AC33|1|Avançado
+0039AC33|1|MIIT
+0039AC33|1|Básico
+0039AC33|1|Avançado
+0039AC33|1|Básico
+0039AC33|1|Avançado
 00396200|1|Combina caminhada e corrida em intervalos.
 00396200|1|Combina caminhada e corrida em intervalos.
 00396200|1|Corrida de intensidade baixa a média.
@@ -1314,10 +1314,10 @@
 00396200|1|Executar
 003858AF|1|%d min
 003858AF|1|%d minutos
-0034B734|1|%d min
-0034B734|1|%d minutos
-00346086|1|Preparando atualização
-00346086|1|Não foi possível atualizar.\nTente novamente no APP.
+0039F45B|1|%d min
+0039F45B|1|%d minutos
+0039AC33|1|Preparando atualização
+0039AC33|1|Não foi possível atualizar.\nTente novamente no APP.
 00377C36|1|%
 0038D7F8|1|Hora
 00396200|1|Descontraído
@@ -1328,28 +1328,28 @@
 0038D7F8|1|%02u:%02u PM–
 0038D7F8|1|%02u:%02u AM
 0038D7F8|1|%02u:%02u PM
-00346086|1|Te ligo mais tarde.
-00346086|1|Não posso falar agora. E aí?
-00346086|1|Não posso falar agora. Me ligue mais tarde?
+0039AC33|1|Te ligo mais tarde.
+0039AC33|1|Não posso falar agora. E aí?
+0039AC33|1|Não posso falar agora. Me ligue mais tarde?
 00379AB2|1|--
 0033D911|1|%u%%
-0034B734|1|Meta
+0039F45B|1|Meta
 0033D911|1|%u
-00346086|1|km
-00346086|1|kcal
-00346086|1|comprimento
-00346086|1|curso
-00346086|1|pular
+0039AC33|1|km
+0039AC33|1|kcal
+0039AC33|1|comprimento
+0039AC33|1|curso
+0039AC33|1|pular
 00369D3B|1|Novo registro!
 0033D911|1|%02u:%02u:%02u
 00377C36|1|%lu.%lu.%lu
-0034B734|1|Meta: %u km
-0034B734|1|Meta: %02u:%02u:%02u
-0034B734|1|Meta: %u kcal
-0034B734|1|Meta: %u comprimento
-0034B734|1|Meta: %u comprimentos
-0034B734|1|Meta: %u golpe
-0034B734|1|Meta: %u salto
+0039F45B|1|Meta: %u km
+0039F45B|1|Meta: %02u:%02u:%02u
+0039F45B|1|Meta: %u kcal
+0039F45B|1|Meta: %u comprimento
+0039F45B|1|Meta: %u comprimentos
+0039F45B|1|Meta: %u golpe
+0039F45B|1|Meta: %u salto
 0038D7F8|1|Sua pulseira notifica você quando sua frequência cardíaca ultrapassa um BPM definido. Sua frequência cardíaca aumenta sob estresse.
 0038D7F8|1|Sua pulseira notifica você quando sua frequência cardíaca fica abaixo de um BPM definido. Sua frequência cardíaca diminui durante o sono.\nSe você não se sentir bem, procure orientação médica.
 0038AFE3|1|Alto RH
@@ -1372,8 +1372,8 @@
 0038D7F8|1|Concluído
 0038D7F8|1|Continuar (%lus)
 00381A69|1|Treino
-0034B734|1|Hora
-0034B734|1|Frequência cardíaca
+0039F45B|1|Hora
+0039F45B|1|Frequência cardíaca
 00375E71|1|%lu.%02lu
 00379ADA|1|Automático
 00387B50|1|Automático
@@ -1401,7 +1401,7 @@
 00365E39|1|Ontem, %d:%02d PM
 00365E39|1|%02d/%02d, %d:%02d AM
 00365E39|1|%02d/%02d, %d:%02d PM
-00346086|1|Em execução
+0039AC33|1|Em execução
 00396200|1|Meta: %u kcal
 00396200|1|Meta: %u passo
 00396200|1|Meta: %u golpe
@@ -1456,8 +1456,8 @@
 00381A69|1|Permitido
 00381A69|1|Não foi possível permitir
 00381A69|1|Ajuda
-00346086|1|Pagar via Weixin Pay
-00346086|1|Ativar pagamento Weixin
+0039AC33|1|Pagar via Weixin Pay
+0039AC33|1|Ativar pagamento Weixin
 00381A69|1|Regulamento
 0038AFE3|1|Modelo
 0038AFE3|1|ID CMIIT
@@ -1476,9 +1476,9 @@
 0034DEA7|1|Período em 1d
 0034DEA7|1|Período em 2d
 0034DEA7|1|Período em %ud
-0034B734|1|Ovulação em 1d
-0034B734|1|Ovulação em 2d
-0034B734|1|Ovulação em %ud
+0039F45B|1|Ovulação em 1d
+0039F45B|1|Ovulação em 2d
+0039F45B|1|Ovulação em %ud
 00381A69|1|Ligar/Desligar
 00381A69|1|Ligar/Desligar
 003A3B47|1|Chamada perdida
@@ -1513,58 +1513,58 @@
 0035ACFA|1|Insira o PIN
 00387B50|1|%d
 00379ADA|1|%d
-0034B734|1|%dh %dm
-0034B734|1|%d hora
-0034B734|1|%d horas
-0034B734|1|%d min
-0034B734|1|%d minutos
-00346086|1|%d'%02d"
+0039F45B|1|%dh %dm
+0039F45B|1|%d hora
+0039F45B|1|%d horas
+0039F45B|1|%d min
+0039F45B|1|%d minutos
+0039AC33|1|%d'%02d"
 0035910D|1|%02u/%02u
 0035910D|1|%02u:%02u
-0034B734|1|%s%.2f
+0039F45B|1|%s%.2f
 0033D911|1|.
 0035CA4E|1|--℃/--℃
 0035CA4E|1|--℉/--℉
 0038D7F8|1|--℃/--℃
 0038D7F8|1|--℉/--℉
 0038D7F8|1|Mostrar código
-0034B734|1|Meta atingida
-0034B734|1|Meta atingida
-0034B734|1|Meta em movimento atingida
-0034B734|1|Gol em pé atingido
-0034B734|1|Meta de passos atingida
-0034B734|1|Meta de calorias atingida
-0034B734|1|Meta atingida
-0034B734|1|Meta atingida
-0034B734|1|Todas as metas atingidas
-0034B734|1|Muito bem
-0034B734|1|Metas alcançadas
-0034B734|1|Metas atingidas
+0039F45B|1|Meta atingida
+0039F45B|1|Meta atingida
+0039F45B|1|Meta em movimento atingida
+0039F45B|1|Gol em pé atingido
+0039F45B|1|Meta de passos atingida
+0039F45B|1|Meta de calorias atingida
+0039F45B|1|Meta atingida
+0039F45B|1|Meta atingida
+0039F45B|1|Todas as metas atingidas
+0039F45B|1|Muito bem
+0039F45B|1|Metas alcançadas
+0039F45B|1|Metas atingidas
 0034EFA8|1|km/h
 0034EFA8|1|/km
 00381A69|1|AM
 00381A69|1|PM
 00381A69|1|Distância de treino muito curta para ser registrada.
 0035ACFA|1|(Sem título)
-0034B734|1|Esqueceu o PIN?
-00346086|1|Tente novamente em %d segundos
-00346086|1|Tente novamente em %d segundos
-00346086|1|Tente novamente em 5 minutos
-00346086|1|Tente novamente em 10 minutos
-00346086|1|Redefinir PIN no aplicativo
-0034B734|1|Entendi
+0039F45B|1|Esqueceu o PIN?
+0039AC33|1|Tente novamente em %d segundos
+0039AC33|1|Tente novamente em %d segundos
+0039AC33|1|Tente novamente em 5 minutos
+0039AC33|1|Tente novamente em 10 minutos
+0039AC33|1|Redefinir PIN no aplicativo
+0039F45B|1|Entendi
 0035ACFA|1|Digite o PIN para desbloquear
-0034B734|1|%d notificação
-0034B734|1|%d notificações
+0039F45B|1|%d notificação
+0039F45B|1|%d notificações
 0037B7C5|1|--:--
 0035910D|1|%u km/h
 0035ACFA|1|Digite o PIN para desbloquear
 0035ACFA|1|Digite o PIN para desbloquear
 00365E39|1|%d℃/%d℃
 00365E39|1|%d℉/%d℉
-0034B734|1|%d
+0039F45B|1|%d
 00375E71|1|%02d:%02d.%02d
-00346086|1|m
+0039AC33|1|m
 0038D7F8|1|Conecte sua band com o aplicativo
 00365E39|1|-
 0038D7F8|1|Ver detalhes no aplicativo
@@ -1573,13 +1573,13 @@
 0038D7F8|1|Concluído
 0038D7F8|1|Desvincular
 0038D7F8|1|Desvincular
-0034B734|1|Weixin Pagamento
+0039F45B|1|Weixin Pagamento
 0035ACFA|1|ID do Weixin vinculado
 003858AF|1|Monitore sua frequência cardíaca 24 horas por dia
 0035ACFA|1|Conjunto de PIN
 003858AF|1|Receba lembretes para iniciar e terminar um treino de corrida, caminhada ou remo.
 00381A69|1|Carregando
-00346086|1|.
+0039AC33|1|.
 0034EFA8|1|Modelo
 0034EFA8|1|M2140B1
 0034EFA8|1|Fabricante
@@ -1595,23 +1595,23 @@
 0038D7F8|1|Elíptico
 0038D7F8|1|Pular corda
 003A3B47|1|Muito bem
-0034B734|1|
-0034B734|1|
-0034B734|1|Alvo
-0034B734|1|Restante
-0034B734|1|Alvo
-0034B734|1|Restante
-0034B734|1|Comprimentos alvo
-0034B734|1|Restante
-0034B734|1|Saltos alvo
-0034B734|1|Restante
+0039F45B|1|
+0039F45B|1|
+0039F45B|1|Alvo
+0039F45B|1|Restante
+0039F45B|1|Alvo
+0039F45B|1|Restante
+0039F45B|1|Comprimentos alvo
+0039F45B|1|Restante
+0039F45B|1|Saltos alvo
+0039F45B|1|Restante
 00381A69|1|Tempo
 00381A69|1|Distância
 00381A69|1|Traços
 00381A69|1|Saltos
 00381A69|1|Comprimentos
 0037B81F|1|SpO₂
-00346086|1|O tempo de treino é muito curto para ser registrado.
+0039AC33|1|O tempo de treino é muito curto para ser registrado.
 0037B81F|1|Aplicativos
 0037F96F|1|Academia
 0037F96F|1|Básico
@@ -1792,11 +1792,11 @@
 003858AF|1|Dados expirados
 003858AF|1|Agora mesmo
 00381A69|1|Encontrar dispositivo
-0034B734|1|Conecte ao Bluetooth e tente novamente
-0034B734|1|Conecte-se ao Bluetooth e ative as notificações meteorológicas para obter informações meteorológicas para os locais selecionados.
+0039F45B|1|Conecte ao Bluetooth e tente novamente
+0039F45B|1|Conecte-se ao Bluetooth e ative as notificações meteorológicas para obter informações meteorológicas para os locais selecionados.
 003858AF|1|Atualizado há %d minutos
 003858AF|1|Atualizado: %02d:%02d
-00346086|1|Calendário
+0039AC33|1|Calendário
 003858AF|1|Atualizado %02d:%02d AM
 003858AF|1|Atualizado %02d:%02d PM
 003858AF|1|Atualizado há %d minutos
