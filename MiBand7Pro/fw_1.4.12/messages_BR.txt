@@ -57,20 +57,20 @@
 00381A69|1|Inteligente
 0038D7F8|1|A Tela sempre ligada vai desligar quando você for dormir ou tirar a pulseira.
 00381A69|1|Modo Ícone
-00381A69|1|Modo lista
+00381A69|1|Modo Lista
 00381A69|1|Sistema
 00381A69|1|Reiniciar
 00381A69|1|Desligar
-00381A69|1|Reiniciar
+00381A69|1|Redefinir
 00381A69|1|Reiniciar agora?
 00381A69|1|Desligar agora?
 00346086|1|Apagar todos os dados?
 0038AFE3|1|Nome
 0038AFE3|1|Modelo
 0038AFE3|1|Endereço MAC
-0038AFE3|1|Versão (m0tral)
+0038AFE3|1|m0tral versão
 0038AFE3|1|No. de série
-0038AFE3|1|Regulamento
+0038AFE3|1|Certificação
 00381A69|1|Vibração
 003414C3|1|Forte
 00387B50|1|Padrão
