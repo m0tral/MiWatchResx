@@ -41,18 +41,18 @@
 003407C7|1|%d
 00381A69|1|Sensibilidade
 003858AF|1|Inteligente
-003414C3|1|Alto
-003414C3|1|Padrão
+0039AC33|1|Alto
+0039AC33|1|Padrão
 00381A69|1|Isto afetará a duração da bateria, continuar?
-00396200|1|s
-00396200|1|m
+00394211|1|s
+00394211|1|m
 00381A69|1|Detecção automática
 00381A69|1|Detecção de treino
 0038D7F8|1|Entendido
 0038D7F8|1|Entendido
 003858AF|1|Para definir uma frequência de monitoramento, desative BPM Irregular.
 003407C7|1|%d:%02d
-0039AC33|1|Isto afetará a duração da bateria, continuar?
+00396200|1|Isto afetará a duração da bateria, continuar?
 00381A69|1|Desativado
 00381A69|1|Inteligente
 0038D7F8|1|A Tela sempre ligada vai desligar quando você for dormir ou tirar a pulseira.
@@ -64,7 +64,7 @@
 00381A69|1|Redefinir
 00381A69|1|Reiniciar agora?
 00381A69|1|Desligar agora?
-0039AC33|1|Apagar todos os dados?
+00396200|1|Apagar todos os dados?
 0038AFE3|1|Nome
 0038AFE3|1|Modelo
 0038AFE3|1|Endereço MAC
@@ -72,7 +72,7 @@
 0038AFE3|1|No. de série
 0038AFE3|1|Certificação
 00381A69|1|Vibração
-003414C3|1|Forte
+0039AC33|1|Forte
 00387B50|1|Padrão
 00387B50|1|Forte
 003492D7|1|%d
@@ -90,16 +90,16 @@
 0039F45B|1|Restante
 00381A69|1|Resfriamento
 0038D7F8|1|Fim
-0039AC33|1|Em execução
-0039AC33|1|Queima de gordura
+00396200|1|Em execução
+00396200|1|Queima de gordura
 00381A69|1|Avançado
 0039F45B|1|Introdução
 0039F45B|1|Plano de treino
-00396200|1|Caminhada
-00396200|1|Jogo básico
+00394211|1|Caminhada
+00394211|1|Jogo básico
 0038D7F8|1|Iniciar
 00381A69|1|Recente
-003414C3|1|Caminhar
+0039AC33|1|Caminhar
 0038AFE3|1|BPM alvo
 0038D7F8|1|%d~%dbpm
 0038AFE3|1|Caminhada
@@ -113,14 +113,14 @@
 0038D7F8|1|km
 0038D7F8|1|Pausa
 0038D7F8|1|Continuar
-0039AC33|1|Distância de treino muito curta para ser registrada. Fim?
-0039AC33|1|Tempo de treino muito curto para ser registrado. Fim?
+00396200|1|Distância de treino muito curta para ser registrada. Fim?
+00396200|1|Tempo de treino muito curto para ser registrado. Fim?
 0038D7F8|1|Continuar
 0038D7F8|1|Fim
 00381A69|1|Calibração
 0033D911|1|.
 0034EFA8|1|km
-0039AC33|1|A tela é bloqueada quando você inicia
+00396200|1|A tela é bloqueada quando você inicia
 00381A69|1|Respiração
 003A3B47|1|Respiração
 00381A69|1|Tempo
@@ -282,7 +282,7 @@
 0038D7F8|1|Use a pulseira acima do osso do pulso.
 0038D7F8|1|Mantenha sua pulseira confortável e imóvel.
 0038D7F8|1|As medições dependem da baixa temperatura, perfusão da pele e muito mais.
-00396200|1|Este recurso não se destina a fins médicos.
+00394211|1|Este recurso não se destina a fins médicos.
 0038D7F8|1|O monitoramento contínuo está desligado.
 0038D7F8|1|Ligar
 00381A69|1|Monitoramento contínuo
@@ -319,14 +319,14 @@
 003A3B47|1|Movimente-se!
 003A3B47|1|Levante-se
 0038D7F8|1|Levante-se e ande
-0039AC33|1|Conecte seu telefone para atualizar os dados do GPS.
-0039AC33|1|O armazenamento está cheio. Não é possível gravar este treino.
+00396200|1|Conecte seu telefone para atualizar os dados do GPS.
+00396200|1|O armazenamento está cheio. Não é possível gravar este treino.
 00381A69|1|GPS
 003A3B47|1|Corrida ao ar livre
-0039AC33|1|Localização. Vá para uma área aberta e espere para começar o treino.
+00396200|1|Localização. Vá para uma área aberta e espere para começar o treino.
 0038D7F8|1|Espere
 0038D7F8|1|Iniciar
-0039AC33|1|Exercício em área aberta
+00396200|1|Exercício em área aberta
 0038D7F8|1|Dispensar
 00381A69|1|Ciclos
 00365E39|1|%u/%u/%u
@@ -472,11 +472,11 @@
 0038D7F8|1|Enviar
 00381A69|1|Enviado
 00381A69|1|Não foi possível enviar
-0039AC33|1|Permitir que este APP envie mensagens SMS
-0039AC33|1|Permitir que este APP leia seus contatos
+00396200|1|Permitir que este APP envie mensagens SMS
+00396200|1|Permitir que este APP leia seus contatos
 00381A69|1|Enviando
 0036B4AF|1|Foco
-0039AC33|1|DND está ativado durante esta sessão
+00396200|1|DND está ativado durante esta sessão
 00381A69|1|Foco
 0039F45B|1|Mantenha o foco
 0039F45B|1|Pausado
@@ -522,7 +522,7 @@
 00381A69|1|Só um segundo
 003858AF|1|Emparelhe sua band com o APP
 003858AF|1|Ativar acesso a notificações para o APP
-0039AC33|1|Ativar acesso a notificações para o APP
+00396200|1|Ativar acesso a notificações para o APP
 0038D7F8|1|Não emparelhado
 00381A69|1|Não está jogando
 00381A69|1|Desconectado
@@ -530,18 +530,18 @@
 00381A69|1|Câmera
 0039F45B|1|Abra a câmera no seu telefone
 00381A69|1|Não emparelhado
-0039AC33|1|Desconectado
+00396200|1|Desconectado
 003858AF|1|Vá para Dispositivo > Câmera no APP
 003858AF|1|Emparelhe sua band com o APP
 0039F45B|1|Ligar
 0038D7F8|1|Não há eventos hoje
 00381A69|1|Detalhes
 00381A69|1|Detalhes
-0039AC33|1|Ativar eventos no APP
-0039AC33|1|Adiar por 10 minutos
+00396200|1|Ativar eventos no APP
+00396200|1|Adiar por 10 minutos
 00381A69|1|Cronômetro
 0036E9D5|1|%02d
-0039AC33|1|O cronômetro não pode ser executado em segundo plano, sair?
+00396200|1|O cronômetro não pode ser executado em segundo plano, sair?
 00381A69|1|Temporizador
 0035F3D3|1|%d
 00365E39|1|min
@@ -573,38 +573,38 @@
 0039F45B|1|Não foi possível carregar. Tente novamente.
 00381A69|1|Pago com sucesso
 00381A69|1|Alipay
-0039AC33|1|Uma vez adicionado, escaneie o código QR na sua band para pagar
-0039AC33|1|Leia e concorde com o Contrato de Serviço de Dispositivos Inteligentes
+00396200|1|Uma vez adicionado, escaneie o código QR na sua band para pagar
+00396200|1|Leia e concorde com o Contrato de Serviço de Dispositivos Inteligentes
 0038D7F8|1|Adicionar
 0038D7F8|1|Continuar
 0038D7F8|1|Cancelar
 003858AF|1|Digitalizar com Alipay
-0039AC33|1|Adicionado
-0039AC33|1|Não foi possível emparelhar
+00396200|1|Adicionado
+00396200|1|Não foi possível emparelhar
 00381A69|1|Emparelhamento
 003858AF|1|Toque para atualizar o código de barras
 00381A69|1|Remover
-0039AC33|1|Você não poderá usar Alipay
+00396200|1|Você não poderá usar Alipay
 003858AF|1|Segure próximo ao leitor
 0038D7F8|1|Remover
 00381A69|1|WeChat
-0039AC33|1|Seu endereço Bluetooth e modelo do dispositivo serão enviados ao WeChat quando você ativar o pagamento do WeChat.
+00396200|1|Seu endereço Bluetooth e modelo do dispositivo serão enviados ao WeChat quando você ativar o pagamento do WeChat.
 0039F45B|1|Para ativar, use o WeiXin para escanear o código QR.
 0038D7F8|1|Não
-0039AC33|1|Configuração incompleta. Saia agora?
-0039AC33|1|Não habilitado
-0039AC33|1|Ativar PIN
-0039AC33|1|Ativando… Conclua o processo no seu telefone.
-0039AC33|1|Depois de desvincular o dispositivo, você não poderá efetuar pagamentos usando o Weixin Pay.
-0039AC33|1|Por razões de segurança, leia o código QR com Weixin para ativar novamente.
-0039AC33|1|Não é possível pagar
+00396200|1|Configuração incompleta. Saia agora?
+00396200|1|Não habilitado
+00396200|1|Ativar PIN
+00396200|1|Ativando… Conclua o processo no seu telefone.
+00396200|1|Depois de desvincular o dispositivo, você não poderá efetuar pagamentos usando o Weixin Pay.
+00396200|1|Por razões de segurança, leia o código QR com Weixin para ativar novamente.
+00396200|1|Não é possível pagar
 0038D7F8|1|Sim
 0038D7F8|1|Agora não
 0038D7F8|1|Ativar novamente
 0038D7F8|1|Tente novamente mais tarde
-0039AC33|1|Desvinculado
+00396200|1|Desvinculado
 0036B4AF|1|Durma bem
-0039AC33|1|DND está ativado. Aumentar para acordar está desativado.
+00396200|1|DND está ativado. Aumentar para acordar está desativado.
 0038D7F8|1|Dispensar
 0038D7F8|1|Hora
 003492D7|1|%02d:%02d
@@ -633,7 +633,7 @@
 003858AF|1|Meça SpO₂ quando você não estiver se movendo
 0038D7F8|1|Use a pulseira acima do osso do pulso.
 0038D7F8|1|Mantenha sua pulseira confortável e imóvel.
-00396200|1|Este recurso não se destina a fins médicos.
+00394211|1|Este recurso não se destina a fins médicos.
 0039F45B|1|SpO₂ representa a porcentagem de oxigênio no sangue.
 0039F45B|1|Leituras abaixo de 90% são consideradas baixas.
 0039F45B|1|Sua band suporta uma faixa de 75–100%.
@@ -770,11 +770,11 @@
 0033D911|1|%d.%d
 00374EB0|1|km
 0033D911|1|%d'%d"
-00396200|1|Luz
-00396200|1|Intensivo
-00396200|1|Aeróbico
-00396200|1|Anaeróbico
-00396200|1|VO₂ máx.
+00394211|1|Luz
+00394211|1|Intensivo
+00394211|1|Aeróbico
+00394211|1|Anaeróbico
+00394211|1|VO₂ máx.
 003492D7|1|%d
 00374EB0|1|kcal
 00374EB0|1|SPM
@@ -783,7 +783,7 @@
 00374EB0|1|etapas
 00374EB0|1|etapas
 003492D7|1|0
-00396200|1|/km
+00394211|1|/km
 00374EB0|1|km/h
 00374EB0|1|comprimento
 00374EB0|1|comprimento
@@ -807,29 +807,29 @@
 00381A69|1|Últimos 7 dias
 00365791|1|05.12
 0038D7F8|1|Sem dados
-00396200|1|Moderado
+00394211|1|Moderado
 00381A69|1|Monitoramento durante todo o dia
 00381A69|1|Lembrete de relaxamento
 0038D7F8|1|Ligado
 00381A69|1|Monitoramento durante todo o dia
 00381A69|1|Ligar/Desligar
-00396200|1|Acompanhe quando estiver sedentário
-00396200|1|Exercício respiratório imediato quando o nível de estresse permanecer acima de 80 por 10 minutos
+00394211|1|Acompanhe quando estiver sedentário
+00394211|1|Exercício respiratório imediato quando o nível de estresse permanecer acima de 80 por 10 minutos
 00381A69|1|Saiba mais
 0038D7F8|1|O estresse é a reação do seu corpo aos desafios e demandas.
 0038D7F8|1|Sua pulseira mede seu nível de estresse quando você está inativo.\nNíveis:\nRelaxado: 1–25\nLeve: 25–50\nModerado: 51–80\nGrave: 81–100.\nEste recurso não é destinado a fins médicos.
 0038D7F8|1|As medições dependem da baixa temperatura, perfusão da pele e muito mais.
 0038AFE3|1|99,0
 0038D7F8|1|Respiração
-0039AC33|1|Frequência cardíaca
-0039AC33|1|Alarme
-0039AC33|1|SpO₂
-0039AC33|1|Configurações
-0039AC33|1|Alipay
-0039AC33|1|Weixin Pagamento
-0039AC33|1|Tempo
-0039AC33|1|Adicionar dispositivo
-0039AC33|1|Estatísticas
+00396200|1|Frequência cardíaca
+00396200|1|Alarme
+00396200|1|SpO₂
+00396200|1|Configurações
+00396200|1|Alipay
+00396200|1|Weixin Pagamento
+00396200|1|Tempo
+00396200|1|Adicionar dispositivo
+00396200|1|Estatísticas
 00381A69|1|Excluir exibição de band?
 00381A69|1|Para salvar as alterações, deslize para a direita no display da band.
 00381A69|1|Resumo
@@ -874,14 +874,14 @@
 0039F45B|1|S
 0039F45B|1|S
 0039F45B|1|Diariamente
-0039AC33|1|Sono
-0039AC33|1|Cronômetro
-0039AC33|1|Respiração
-0039AC33|1|Ciclos
-0039AC33|1|Estresse
-0039AC33|1|Treino
+00396200|1|Sono
+00396200|1|Cronômetro
+00396200|1|Respiração
+00396200|1|Ciclos
+00396200|1|Estresse
+00396200|1|Treino
 003858AF|1|Digitalizar para baixar
-0039AC33|1|Parear com telefone?
+00396200|1|Parear com telefone?
 00381A69|1|Regulamento
 0038D7F8|1|Em pé
 00381A69|1|Soneca
@@ -906,7 +906,7 @@
 0039F45B|1|"Calorias" mostra o número de calorias ativas queimadas durante movimentos e exercícios.
 0039F45B|1|"Movimento" mostra o tempo gasto em atividades moderadas e vigorosas.
 0039F45B|1|"Standing" mostra as horas em que você se levanta e se movimenta.
-00396200|1|km/h
+00394211|1|km/h
 00381A69|1|80%
 00381A69|1|85%
 00381A69|1|90%
@@ -1001,18 +1001,18 @@
 0039F45B|1|30 minutos
 0039F45B|1|Automático
 00375E71|1|%d%%
-0039AC33|1|Atividade
-0039AC33|1|Mi AI
-0039AC33|1|Cartões
-0039AC33|1|Notificações
-0039AC33|1|Eventos
-0039AC33|1|Música
-0039AC33|1|Câmera
-0039AC33|1|Temporizador
-0039AC33|1|Lanterna
-0039AC33|1|Encontrar telefone
-0039AC33|1|Ajuda
-0039AC33|1|Foco
+00396200|1|Atividade
+00396200|1|Mi AI
+00396200|1|Cartões
+00396200|1|Notificações
+00396200|1|Eventos
+00396200|1|Música
+00396200|1|Câmera
+00396200|1|Temporizador
+00396200|1|Lanterna
+00396200|1|Encontrar telefone
+00396200|1|Ajuda
+00396200|1|Foco
 00374EB0|1|"Levantar para ligar tela" ativado
 00374EB0|1|"Levantar para ligar tela" desativado
 00374EB0|1|Não perturbe ativado
@@ -1113,7 +1113,7 @@
 0038D7F8|1|Aperte a tira e tente novamente
 00374EB0|1|m
 0038D7F8|1|Conecte-se ao APP para atualizar o clima
-00396200|1|Definir locais no APP
+00394211|1|Definir locais no APP
 00360C60|1|%d
 00381A69|1|Só um segundo
 0039F45B|1|Bom
@@ -1239,7 +1239,7 @@
 0038D7F8|1|Entendi
 003492D7|1|%u
 0036D9F4|1|%%
-0039AC33|1|Bateria abaixo de %u%%. Carregue agora.
+00396200|1|Bateria abaixo de %u%%. Carregue agora.
 0039F45B|1|VO₂ máx.
 0039F45B|1|Anaeróbico
 0039F45B|1|Intensivo
@@ -1262,29 +1262,29 @@
 0038D7F8|1|Ciclo
 0038D7F8|1|Remador
 00381A69|1|Conecte-se ao APP e tente novamente
-0039AC33|1|Iniciante
-0039AC33|1|Resistência
-0039AC33|1|Intervalo
-0039AC33|1|Corrida/caminhada básica
-0039AC33|1|Corrida/caminhada avançada
-0039AC33|1|Corrida básica
-0039AC33|1|Básico
-0039AC33|1|Avançado
-0039AC33|1|MIIT
-0039AC33|1|Básico
-0039AC33|1|Avançado
-0039AC33|1|Básico
-0039AC33|1|Avançado
-00396200|1|Combina caminhada e corrida em intervalos.
-00396200|1|Combina caminhada e corrida em intervalos.
-00396200|1|Corrida de intensidade baixa a média.
-00396200|1|Corrida mais curta para queimar gordura e perder peso.
-00396200|1|Intensidade baixa-média, corrida prolongada para queima de gordura.
-00396200|1|Treinamento intervalado de média-alta intensidade.
-00396200|1|Corrida de comprimento médio para resistência.
-00396200|1|Corrida mais longa para resistência.
-00396200|1|Treinamento com intervalos mais curtos para a saúde do coração e dos pulmões.
-00396200|1|Treinamento intervalado mais longo para a saúde do coração e dos pulmões.
+00396200|1|Iniciante
+00396200|1|Resistência
+00396200|1|Intervalo
+00396200|1|Corrida/caminhada básica
+00396200|1|Corrida/caminhada avançada
+00396200|1|Corrida básica
+00396200|1|Básico
+00396200|1|Avançado
+00396200|1|MIIT
+00396200|1|Básico
+00396200|1|Avançado
+00396200|1|Básico
+00396200|1|Avançado
+00394211|1|Combina caminhada e corrida em intervalos.
+00394211|1|Combina caminhada e corrida em intervalos.
+00394211|1|Corrida de intensidade baixa a média.
+00394211|1|Corrida mais curta para queimar gordura e perder peso.
+00394211|1|Intensidade baixa-média, corrida prolongada para queima de gordura.
+00394211|1|Treinamento intervalado de média-alta intensidade.
+00394211|1|Corrida de comprimento médio para resistência.
+00394211|1|Corrida mais longa para resistência.
+00394211|1|Treinamento com intervalos mais curtos para a saúde do coração e dos pulmões.
+00394211|1|Treinamento intervalado mais longo para a saúde do coração e dos pulmões.
 00381A69|1|%02u/%02u
 00381A69|1|Agora
 00381A69|1|Em %u min
@@ -1311,35 +1311,35 @@
 00381A69|1|Em %u dia
 00381A69|1|Em %u dias
 003A3B47|1|Bateria fraca
-00396200|1|Executar
+00394211|1|Executar
 003858AF|1|%d min
 003858AF|1|%d minutos
 0039F45B|1|%d min
 0039F45B|1|%d minutos
-0039AC33|1|Preparando atualização
-0039AC33|1|Não foi possível atualizar.\nTente novamente no APP.
+00396200|1|Preparando atualização
+00396200|1|Não foi possível atualizar.\nTente novamente no APP.
 00377C36|1|%
 0038D7F8|1|Hora
-00396200|1|Descontraído
-00396200|1|Leve
-00396200|1|Grave
+00394211|1|Descontraído
+00394211|1|Leve
+00394211|1|Grave
 0038D7F8|1|O monitoramento durante todo o dia está desativado.
 0038D7F8|1|%02u:%02u AM–
 0038D7F8|1|%02u:%02u PM–
 0038D7F8|1|%02u:%02u AM
 0038D7F8|1|%02u:%02u PM
-0039AC33|1|Te ligo mais tarde.
-0039AC33|1|Não posso falar agora. E aí?
-0039AC33|1|Não posso falar agora. Me ligue mais tarde?
+00396200|1|Te ligo mais tarde.
+00396200|1|Não posso falar agora. E aí?
+00396200|1|Não posso falar agora. Me ligue mais tarde?
 00379AB2|1|--
 0033D911|1|%u%%
 0039F45B|1|Meta
 0033D911|1|%u
-0039AC33|1|km
-0039AC33|1|kcal
-0039AC33|1|comprimento
-0039AC33|1|curso
-0039AC33|1|pular
+00396200|1|km
+00396200|1|kcal
+00396200|1|comprimento
+00396200|1|curso
+00396200|1|pular
 00369D3B|1|Novo registro!
 0033D911|1|%02u:%02u:%02u
 00377C36|1|%lu.%lu.%lu
@@ -1359,11 +1359,11 @@
 0038AFE3|1|Executar
 0038AFE3|1|Corrida
 0033D911|1|%d
-003414C3|1|Correr
-003414C3|1|Executar
-003414C3|1|Corrida
-00396200|1|Executar
-00396200|1|Corrida
+0039AC33|1|Correr
+0039AC33|1|Executar
+0039AC33|1|Corrida
+00394211|1|Executar
+00394211|1|Corrida
 0033D911|1|%02d
 0035F3D3|1|%02d
 0035F3D3|1|:
@@ -1401,17 +1401,17 @@
 00365E39|1|Ontem, %d:%02d PM
 00365E39|1|%02d/%02d, %d:%02d AM
 00365E39|1|%02d/%02d, %d:%02d PM
-0039AC33|1|Em execução
-00396200|1|Meta: %u kcal
-00396200|1|Meta: %u passo
-00396200|1|Meta: %u golpe
-00396200|1|Meta: %u min
+00396200|1|Em execução
+00394211|1|Meta: %u kcal
+00394211|1|Meta: %u passo
+00394211|1|Meta: %u golpe
+00394211|1|Meta: %u min
 0035ACFA|1|0123456789•
 0035910D|1|Hoje
 00381A69|1|Período em %ud
 00381A69|1|Período em %ud
 00381A69|1|Ovulação em %ud
-00396200|1|Digitalize para ver a ajuda
+00394211|1|Digitalize para ver a ajuda
 0035910D|1|Ontem
 0035910D|1|2d atrás
 0038D7F8|1|Apertar a cinta
@@ -1456,8 +1456,8 @@
 00381A69|1|Permitido
 00381A69|1|Não foi possível permitir
 00381A69|1|Ajuda
-0039AC33|1|Pagar via Weixin Pay
-0039AC33|1|Ativar pagamento Weixin
+00396200|1|Pagar via Weixin Pay
+00396200|1|Ativar pagamento Weixin
 00381A69|1|Regulamento
 0038AFE3|1|Modelo
 0038AFE3|1|ID CMIIT
@@ -1503,7 +1503,7 @@
 00354565|1|%u:%02u'%02u"
 0036E9D5|1|%u:%02u'%02u"
 00367B7D|1|%u:%02u'%02u"
-00396200|1|Reproduzindo som
+00394211|1|Reproduzindo som
 0038AFE3|1|PINs não coincidem
 0038AFE3|1|Insira o PIN
 0038AFE3|1|Novo PIN
@@ -1518,7 +1518,7 @@
 0039F45B|1|%d horas
 0039F45B|1|%d min
 0039F45B|1|%d minutos
-0039AC33|1|%d'%02d"
+00396200|1|%d'%02d"
 0035910D|1|%02u/%02u
 0035910D|1|%02u:%02u
 0039F45B|1|%s%.2f
@@ -1547,11 +1547,11 @@
 00381A69|1|Distância de treino muito curta para ser registrada.
 0035ACFA|1|(Sem título)
 0039F45B|1|Esqueceu o PIN?
-0039AC33|1|Tente novamente em %d segundos
-0039AC33|1|Tente novamente em %d segundos
-0039AC33|1|Tente novamente em 5 minutos
-0039AC33|1|Tente novamente em 10 minutos
-0039AC33|1|Redefinir PIN no aplicativo
+00396200|1|Tente novamente em %d segundos
+00396200|1|Tente novamente em %d segundos
+00396200|1|Tente novamente em 5 minutos
+00396200|1|Tente novamente em 10 minutos
+00396200|1|Redefinir PIN no aplicativo
 0039F45B|1|Entendi
 0035ACFA|1|Digite o PIN para desbloquear
 0039F45B|1|%d notificação
@@ -1564,7 +1564,7 @@
 00365E39|1|%d℉/%d℉
 0039F45B|1|%d
 00375E71|1|%02d:%02d.%02d
-0039AC33|1|m
+00396200|1|m
 0038D7F8|1|Conecte sua band com o aplicativo
 00365E39|1|-
 0038D7F8|1|Ver detalhes no aplicativo
@@ -1579,7 +1579,7 @@
 0035ACFA|1|Conjunto de PIN
 003858AF|1|Receba lembretes para iniciar e terminar um treino de corrida, caminhada ou remo.
 00381A69|1|Carregando
-0039AC33|1|.
+00396200|1|.
 0034EFA8|1|Modelo
 0034EFA8|1|M2140B1
 0034EFA8|1|Fabricante
@@ -1611,7 +1611,7 @@
 00381A69|1|Saltos
 00381A69|1|Comprimentos
 0037B81F|1|SpO₂
-0039AC33|1|O tempo de treino é muito curto para ser registrado.
+00396200|1|O tempo de treino é muito curto para ser registrado.
 0037B81F|1|Aplicativos
 0037F96F|1|Academia
 0037F96F|1|Básico
@@ -1796,7 +1796,7 @@
 0039F45B|1|Conecte-se ao Bluetooth e ative as notificações meteorológicas para obter informações meteorológicas para os locais selecionados.
 003858AF|1|Atualizado há %d minutos
 003858AF|1|Atualizado: %02d:%02d
-0039AC33|1|Calendário
+00396200|1|Calendário
 003858AF|1|Atualizado %02d:%02d AM
 003858AF|1|Atualizado %02d:%02d PM
 003858AF|1|Atualizado há %d minutos
