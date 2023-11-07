@@ -1,0 +1,2071 @@
+006C5342|1|Ustawienia
+006C5342|1|Wyświetlacze opaski
+006C5342|1|Wyświetlacz
+006C5342|1|Wibracje
+006C936C|1|Domyślne
+006C936C|1|Silne
+006C5342|1|Automatyczne wykrywanie
+006C936C|1|Wył.
+006C936C|1|Wł.
+006C5342|1|Nie przeszkadzać
+006C936C|1|Wył.
+006C936C|1|Inteligentny
+006C936C|1|Cały dzień
+006C5342|1|Układ aplikacji
+006C936C|1|Ikony
+006C936C|1|Lista
+006C5342|1|PIN
+006C5342|1|System
+006C5342|1|O opasce
+006C5342|1|Jasność
+006C5342|1|Zawsze włączony
+006C5342|1|Automatyczne blokowanie
+006C5342|1|Zakryj, aby uśpić
+006C5342|1|Podnieś, aby wybudzić
+006C936C|1|Auto
+006CB700|1|Auto
+006C5342|1|Zamknij
+006C5342|1|Inteligentne
+006C5342|1|Zaplanowane
+006C5342|1|Cały dzień
+006C5342|1|Dowiedz się więcej
+006CF357|1|Zawsze włączony
+006CF357|1|Inteligentne
+006D1EF2|1|Czas będzie wyświetlany nawet przy zablokowanym ekranie.
+006D1EF2|1|Funkcja Zawsze włączony zostanie wyłączona, gdy pójdziesz spać lub zdejmiesz opaskę.
+006C5342|1|Wpłynie to na żywotność baterii, kontynuować?
+006C5342|1|Początek
+006C5342|1|Koniec
+006C5342|1|Status
+006D4C3C|1|-%d
+006D7AF2|1|%d
+006C5342|1|Czułość
+006C936C|1|Inteligentne
+006CB700|1|Wysoka
+006CB700|1|Domyślna
+006C5342|1|Wpłynie to na żywotność baterii, kontynuować?
+006D8812|1|sek.
+006D8812|1|min
+006C5342|1|Automatyczne wykrywanie
+006C5342|1|Wykrywa-\nnie treningu
+006D1EF2|1|Rozumiem
+006D1EF2|1|Rozumiem
+006C936C|1|Wyłącz funkcję Zaburzenia tętna, aby ustawić częstotliwość monitorowania.
+006D7AF2|1|%d:%02d
+006DAA62|1|Wpłynie to na żywotność baterii, kontynuować?
+006C5342|1|Wył.
+006C5342|1|Inteligentny
+006D1EF2|1|Funkcja Zawsze włączony zostanie wyłączona, gdy pójdziesz spać lub zdejmiesz opaskę.
+006C5342|1|Ikony
+006C5342|1|Lista
+006C5342|1|System
+006C5342|1|Uruchom ponownie
+006C5342|1|Wyłącz
+006C5342|1|Resetuj
+006C5342|1|Uruchomić ponownie teraz?
+006C5342|1|Wyłączyć teraz?
+006DAA62|1|Wyczyścić wszystkie dane?
+006CF357|1|Nazwa
+006CF357|1|Model
+006CF357|1|Adres MAC
+006CF357|1|Nr wersji
+006CF357|1|Nr seryjny
+006CF357|1|Regulacje
+006C5342|1|Wibracje
+006DFB23|1|Silne
+006CB700|1|Domyślne
+006CB700|1|Silne
+006E1D90|1|%d
+006C936C|1|%d/%d
+006C5342|1|Rozgrzewka
+006D1EF2|1|Zakończono
+006D4C3C|1|%2d:%2d:%2d
+006C5342|1|Trening
+006D4C3C|1|%d
+006E4231|1|Uderzenia
+006E4231|1|Pozostało
+006D1EF2|1|Pomiń
+006C5342|1|Odpoczynek
+006E4231|1|Odpoczynek
+006E4231|1|Pozostało
+006C5342|1|Schłodzenie
+006D1EF2|1|Zakończ
+006C5342|1|Bieganie
+006C5342|1|Spalanie tłuszczu
+006C5342|1|Zaawansowany
+006E4231|1|Wprowadzenie
+006E4231|1|Plan treningowy
+006D8812|1|Spacer
+006D8812|1|Bieg o niskiej intensywności
+006D1EF2|1|Rozpocznij
+006C5342|1|Ostatnie
+006DFB23|1|Spacer
+006CF357|1|Docelowe BPM
+006D1EF2|1|%d-%dbpm
+006CF357|1|Spacer
+006D4C3C|1|%d:%02d
+006E4231|1|Minutnik
+006E6F6C|1|BPM
+006C5342|1|Wygląda na to, że ćwiczysz
+006D1EF2|1|Na zewnątrz
+006D1EF2|1|Na bieżni
+006D1EF2|1|Odrzuć (%d s)
+006D1EF2|1|km
+006D1EF2|1|Pauza
+006D1EF2|1|Kontynuuj
+006DAA62|1|Dystans treningu jest za krótki, żeby zapisać. Zakończyć?
+006DAA62|1|Czas treningu jest za krótki, żeby zapisać. Zakończyć?
+006D1EF2|1|Kontynuuj
+006D1EF2|1|Zakończ
+006C5342|1|Kalibrowanie
+006D4C3C|1|.
+006E7FEE|1|km
+006DAA62|1|Ekran blokuje się po uruchomieniu
+006C5342|1|Oddychanie
+006E8EDC|1|Oddychanie
+006C5342|1|Czas
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006ED89D|1|%d
+006EFC9B|1|%d
+006E8EDC|1|Zrelaksuj się
+006D1EF2|1|Skup się na oddychaniu
+006E8EDC|1|Zaczynajmy
+006D1EF2|1|Śledź bańkę
+006E8EDC|1|Wdech
+006E8EDC|1|Wydech
+006E8EDC|1|Dobra robota
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006D1EF2|1|Sesja: %d min
+006C5342|1|Wyniki
+006D1EF2|1|Bieżące tętno
+006ED89D|1|89
+006E7FEE|1|BPM
+006D1EF2|1|Tętno początkowe
+006D1EF2|1|Sesja
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006E7FEE|1|min
+006C5342|1|Ustawienia
+006C5342|1|Cel
+006C5342|1|Interwały
+006C5342|1|Alerty
+006C5342|1|Długość basenu
+006C5342|1|Automatyczne zatrzymywanie
+006E4231|1|Otwarty
+006F2445|1|1,5 km
+006C5342|1|Otwarty
+006C5342|1|Dystans
+006C5342|1|Czas
+006C5342|1|Kalorie
+006C5342|1|Podskoki
+006C5342|1|Długości
+006E4231|1|5 km
+006C5342|1|Interwały zostaną wyłączone. Kontynuować?
+006C5342|1|Trening zostanie usunięty. Kontynuować?
+006C5342|1|Dystans
+006C5342|1|Czas
+006C5342|1|Kalorie
+006C5342|1|Podskoki
+006C5342|1|Długości
+006E7FEE|1|m
+006E7FEE|1|kcal
+006E7FEE|1| 
+006E7FEE|1| 
+006C5342|1|Serie
+006C5342|1|Odpoczynek
+006E7FEE|1|sek.
+006E7FEE|1| 
+006C5342|1|Dystans
+006C5342|1|Tempo
+006C5342|1|Prędkość
+006C5342|1|Strefy tętna
+006C5342|1|Wysokie tętno
+006D1EF2|1|Wyłącz wszystkie
+006F2445|1|Wył.
+006F2445|1|Intensywna
+006C5342|1|Symulator
+006D4C3C|1|5'00"
+006E1D90|1|4'50"
+006C5342|1|%d km/h
+006E7FEE|1|km/h
+006C5342|1|Wył.
+006C5342|1|Regeneracyjna
+006C5342|1|Intensywna
+006C5342|1|Aerobowa
+006C5342|1|Anaerobowa
+006C5342|1|VO₂  max
+006F2445|1|%u–%u BPM
+006C5342|1|Wysokie tętno
+006E7FEE|1|BPM
+006C5342|1|25 m
+006C5342|1|Własne
+006C5342|1|Własne
+006E7FEE|1|m
+006C5342|1|Ustaw PIN
+006F42A5|1|Wprowadź PIN
+006F42A5|1|Potwierdź PIN
+006F42A5|1|Nieprawidłowy
+006C5342|1|Wyczyścić wszystkie dane?
+006C5342|1|Wyłącz PIN
+006C5342|1|Zmień PIN
+006C5342|1|Zmieniono PIN
+006C5342|1|Wyłączono PIN
+006C936C|1|Opaska automatycznie się zablokuje, gdy ją zdejmiesz.
+006F606E|1|Przyspiesz
+006F606E|1|Tak trzymaj
+006F606E|1|Zwolnij
+006F8C9F|1|%u'%02u''
+006E8EDC|1|Wysokie tętno
+006D1EF2|1|Kalorie
+006FA56B|1|345
+006D1EF2|1|Kroki
+006D1EF2|1|W ruchu
+006FB54F|1|323
+006C5342|1|Kroki
+006E7FEE|1| 
+006C5342|1|Stanie
+006C5342|1|W ruchu
+006C5342|1|Przypomnienia
+006CF357|1|Kroki
+006CF357|1|Kalorie
+006F42A5|1|Stanie
+006F42A5|1|W ruchu
+006C5342|1|Sen
+006FC7F2|1|10
+006F606E|1|godz.
+006F606E|1|min
+006D1EF2|1|Cel:
+006FF100|1|24:33
+006D1EF2|1|Brak danych
+006CF357|1|Sen
+006D1EF2|1|1. Włącz Zaawansowane Monitorowanie, aby śledzić sen w fazie REM.\n2. Zaciśnij pasek opaski.\n3. Odczyty tętna  i SpO₂ zależą od ruchów, jakości snu i innych czynników.
+006E8EDC|1|godz.
+006E8EDC|1|min
+006D1EF2|1|Brak danych
+006C5342|1|Zaawansowane monitorowanie
+006C5342|1|Punkty oddychania
+006C5342|1|Punkty oddychania
+006C936C|1|Śledź sen w fazie REM
+006C5342|1|Punkty oddychania
+006C936C|1|Monitoruj oddychanie w nocy
+006C5342|1|Sen
+006E4231|1|Śr. BPM
+006C5342|1| 
+006E4231|1|Śr. SpO₂
+006C5342|1|Drzemka
+006C5342|1|Tętno
+006FF100|1|126
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006C5342|1|Wysokie tętno
+006C5342|1|Niskie tętno
+006C5342|1|Zaburzenia tętna
+006C5342|1|Strefa tętna
+006E4231|1|VO₂ max
+006E4231|1|VO₂ max
+006E4231|1|Anaerobowa
+006E4231|1|Intensywna
+006E4231|1|Regeneracyjna
+006E4231|1|Relaxed
+006E4231|1|Relaxed
+006C5342|1|%02d:%02d
+006D1EF2|1|Mierzenie
+00700B3F|1|144-224
+006FF7A8|1|BPM
+00700B3F|1|12: 24-12: 25
+006D1EF2|1|Spróbuj ponownie
+006D1EF2|1|Zmierz
+006CF357|1|Tętno
+006D1EF2|1|Tętno to liczba uderzeń serca na minutę (BPM).\nZazwyczaj tętno spoczynkowe wynosi od 40 do 100 BPM. Różni się jednak w zależności od wieku, płci i innych czynników.\nTwoja opaska obsługuje zakres od 30 do 220 BPM.
+006C5342|1|Dowiedz się więcej
+006D1EF2|1|Zaciśnij pasek opaski i spróbuj ponownie
+006C5342|1|Wskazówki
+006D1EF2|1|Noś opaskę powyżej kości nadgarstka.
+006D1EF2|1|Trzymaj opaskę dobrze dopasowaną i nieruchomą.
+006D1EF2|1|Pomiary zależą od niskiej temperatury, ukrwienia skóry i innych.
+006D8812|1|Ta funkcja nie jest przeznaczona do celów medycznych.
+006D1EF2|1|Ciągłe monitorowanie jest wyłączone.
+006D1EF2|1|Włącz
+006C5342|1|Ciągłe monitorowanie
+006C5342|1|Zaburzenia tętna
+006C5342|1|Wł./Wył.
+006C5342|1|Wysokie tętno
+006C5342|1|Niskie tętno
+006C936C|1|Wyłącz funkcję Zaburzenia tętna, aby ustawić częstotliwość monitorowania.
+006C5342|1|1 min
+006C5342|1|10 min
+006C5342|1|Automatyczne
+006C5342|1|Wskazówki
+006D1EF2|1|Measure heart rate every 10 mins
+006CF357|1|Automatyczne
+006D1EF2|1|Zwiększ częstotliwość monitorowania podczas treningów
+006C5342|1|Zaburzenia tętna
+006C936C|1|Otrzymuj alerty o zaburzeniach tętna
+006C5342|1|Wpłynie to na żywotność baterii, kontynuować?
+006C5342|1|100 BPM
+006E8EDC|1|Niskie tętno
+006CF357|1|12: 30-12: 40
+006D1EF2|1|Szczegóły
+006E8EDC|1|Zaburzenia tętna
+006E8EDC|1|Mierzenie
+006D1EF2|1|Nie ruszaj się
+006D1EF2|1|Zmierzono: %02d:%02d
+006D1EF2|1|Spróbuj ponownie
+006E4231|1|Goal hit
+006E4231|1|Goal hit
+006E4231|1|Goal hit
+006E4231|1|Goal hit
+006E8EDC|1|Osiągnięte cele
+006E4231|1|Bravo!
+006E8EDC|1|Poruszaj się!
+006E8EDC|1|Wstań
+006D1EF2|1|Wstań i przejdź się
+006DAA62|1|Połącz z telefonem, aby zaktualizować dane GPS.
+006DAA62|1|Pamięć jest pełna. Nie można zapisać treningu.
+006C5342|1|GPS
+006E8EDC|1|Bieganie na zewnątrz
+006DAA62|1|Lokalizowanie. Wyjdź na otwartą przestrzeń i poczekaj na rozpoczęcie treningu.
+006D1EF2|1|Poczekaj
+006D1EF2|1|Rozpocznij
+006DAA62|1|Ćwicz na otwartej przestrzeni
+006D1EF2|1|Odrzuć
+006C5342|1|Cykle
+006FF7A8|1|%u/%u/%u
+006C5342|1|Przewidywania
+006E4231|1|Dni płodne
+006C5342|1|05.23-06.23
+00702CFD|1|Dzień owulacji
+00703D1E|1|Okres
+006C5342|1|Dowiedz się więcej
+006D1EF2|1|Zarejestruj swoje dane dotyczące cyklu w aplikacji
+006CF357|1|1. Kolory
+006D1EF2|1|Okres
+006C5342|1|%d. dzień okresu
+006D1EF2|1|Spodziewany okres
+006C5342|1|%d. dzień okresu
+006D1EF2|1|Dni płodne
+006D1EF2|1|%d. dzień płodny
+006D1EF2|1|Dzień owulacji
+006C5342|1|Dzień owulacji
+006CF357|1|2. Wskazówka
+006D1EF2|1|Im więcej informacji podasz, tym bardziej dokładne przewidywania otrzymasz.
+006E8EDC|1|Pływanie w basenie
+006E8EDC|1|Trening open water
+006E8EDC|1|Żeglarstwo
+006E8EDC|1|SUP
+006E8EDC|1|Wodne polo
+006E8EDC|1|Sporty wodne
+006E8EDC|1|Narciarstwo wodne
+006E8EDC|1|Spływy kajakowe
+006E8EDC|1|Rafting
+006E8EDC|1|Wioślarstwo
+006E8EDC|1|Motorówka
+006E8EDC|1|Pływanie w płetwach
+006E8EDC|1|Skoki do wody
+006E8EDC|1|Pływanie synchroniczne
+006E8EDC|1|Snurkowanie
+006E8EDC|1|Kitesurfing
+006E8EDC|1|Chodzenie
+006E8EDC|1|Wspinaczka
+006E8EDC|1|Jazda na rowerze
+006E8EDC|1|Trekking
+006E8EDC|1|Bieg przełajowy
+006E8EDC|1|Wspinaczka skałkowa
+006E8EDC|1|Jazda na deskorolce
+006E8EDC|1|Jazda na rolkach
+006E8EDC|1|Parkour
+006E8EDC|1|Quad
+006E8EDC|1|Paralotniarstwo
+006E8EDC|1|Styl dowolny
+006E8EDC|1|Bieżnia
+006E8EDC|1|Skakanka
+006E8EDC|1|HIIT
+006E8EDC|1|Joga
+006E8EDC|1|Rower stacjonarny
+006E8EDC|1|Orbitrek
+006E8EDC|1|Ergometr
+006E8EDC|1|Schody treningowe
+006E8EDC|1|Stepper
+006E8EDC|1|Trening mięśni głębokich
+006E8EDC|1|Rozciąganie
+006E8EDC|1|Pilates
+006E8EDC|1|Gimnastyka
+006E8EDC|1|Rozciąganie
+006E8EDC|1|Trening siłowy
+006E8EDC|1|Trening obwodowy
+006E8EDC|1|Schody treningowe
+006E8EDC|1|Aerobik
+006E8EDC|1|Trening fizyczny
+006E8EDC|1|Piłka lekarska
+006E8EDC|1|Hantle
+006E8EDC|1|Sztanga
+006E8EDC|1|Podnoszenie ciężarów
+006E8EDC|1|Martwy ciąg
+006E8EDC|1|Burpees
+006E8EDC|1|Brzuszki
+006E8EDC|1|Trening funkcjonalny
+006E8EDC|1|Górne partie ciała
+006E8EDC|1|Dolne partie ciała
+006E8EDC|1|Mięśnie brzucha
+006E8EDC|1|Plecy
+006E8EDC|1|Taniec synchroniczny
+006E8EDC|1|Taniec brzucha
+006E8EDC|1|Balet
+006E8EDC|1|Street dance
+006E8EDC|1|Zumba
+006E8EDC|1|Taniec ludowy
+006E8EDC|1|Taniec jazzowy
+006E8EDC|1|Taniec latynoski
+006E8EDC|1|Boks
+006E8EDC|1|Zapasy
+006E8EDC|1|Sztuki walki
+006E8EDC|1|Tai chi
+006E8EDC|1|Muay Thai
+006E8EDC|1|Judo
+006E8EDC|1|Taekwondo
+006E8EDC|1|Karate
+006E8EDC|1|Kickboxing
+006E8EDC|1|Kendo
+006E8EDC|1|Szermierka
+006E8EDC|1|Tenis
+006E8EDC|1|Koszykówka
+006E8EDC|1|Piłka nożna
+006E8EDC|1|Siatkówka
+006E8EDC|1|Baseball
+006E8EDC|1|Softball
+006E8EDC|1|Futbol amerykański
+006E8EDC|1|Hokej
+006E8EDC|1|Tenis stołowy
+006E8EDC|1|Badminton
+006E8EDC|1|Krykiet
+006E8EDC|1|Piłka ręczna
+006E8EDC|1|Kręgle
+006E8EDC|1|Squash
+006E8EDC|1|Bilard
+006E8EDC|1|Zośka
+006E8EDC|1|Piłka plażowa
+006E8EDC|1|Siatkówka plażowa
+006E8EDC|1|Siatkówka kopana
+006E8EDC|1|Jazda na łyżwach
+006E8EDC|1|Curling
+006E8EDC|1|Inne sporty zimowe
+006E8EDC|1|Skuter śnieżny
+006E8EDC|1|Hokej na lodzie
+006E8EDC|1|Bobslej
+006E8EDC|1|Jazda na sankach
+006E8EDC|1|Łucznictwo
+006E8EDC|1|Rzutki
+006E8EDC|1|Jazda konna
+006E8EDC|1|Przeciąganie liny
+006E8EDC|1|Hula-hoop
+006E8EDC|1|Puszczanie latawca
+006E8EDC|1|Łowienie ryb
+006E8EDC|1|Frisbee
+006E8EDC|1|Jeździectwo
+006E8EDC|1|Lekkoatletyka
+006E8EDC|1|Wyścigi samochodowe
+006C936C|1|Otrzymuj przypomnienia o rozpoczęciu i zakończeniu biegu, spaceru, skakania oraz treningu na bieżni bądź ergometrze.
+006D1EF2|1|Odłóż
+006C5342|1|Synchronizowanie
+006C5342|1|Powiadomienia
+006D1EF2|1|Brak powiadomień
+006D1EF2|1|Odpowiedz
+006D1EF2|1|Wyślij
+006C5342|1|Wysłano
+006C5342|1|Nie udało się wysłać
+006DAA62|1|Zezwól aplikacji na wysyłanie wiadomości SMS
+006DAA62|1|Zezwól aplikacji na odczytywanie kontaktów
+006C5342|1|Wysyłanie
+00704557|1|Alarm
+006E4231|1|Brak alarmów
+006E4231|1|Czas
+006E4231|1|Powtarzaj
+006C5342|1|Edytuj
+006C5342|1|Czas
+006C5342|1|Powtarzaj
+006D1EF2|1|Usuń
+006D1EF2|1|OK
+006E4231|1|Rano
+006E4231|1|Po południu
+006D1EF2|1|Odłóż
+006D1EF2|1|Zatrzymaj
+006D1EF2|1|Nie można dodać alarmu
+006E4231|1|Dodaj maks. 10 alarmów
+006C5342|1|Znajdź telefon
+006C5342|1|Twój telefon zadzwoni
+006C5342|1|Rozłączono
+006C5342|1|Nie można znaleźć
+006D1EF2|1|Szukaj
+006D1EF2|1|Zatrzymaj
+006D1EF2|1|Wróć
+006C5342|1|Muzyka
+006C5342|1|Uprawnienia
+006C5342|1|Chwileczkę
+006C936C|1|Sparuj opaskę z aplikacją
+006C936C|1|Włącz dostęp do powiadomień dla aplikacji
+006DAA62|1|Włącz dostęp do powiadomień dla aplikacji
+006D1EF2|1|Nie sparowano
+006C5342|1|Nie odtwarza się
+006C5342|1|Rozłączono
+006C5342|1|Uprawnienia
+006C5342|1|Aparat
+006E4231|1|Otwórz Aparat w telefonie
+006C5342|1|Nie sparowano
+006DAA62|1|Rozłączono
+006C936C|1|Przejdź w aplikacji do Urządzenie > Aparat
+006C936C|1|Sparuj opaskę z aplikacją
+006E4231|1|Włącz
+006D1EF2|1|Brak wydarzeń dzisiaj
+006C5342|1|Szczegóły
+006C5342|1|Szczegóły
+006DAA62|1|Włącz Wydarzenia w aplikacji
+006DAA62|1|Odłóż na 10 min
+006DAA62|1|Odłóż na 10 min
+006DAA62|1|Odłóż na 10 min
+006DAA62|1|Odłóż na 10 min
+006DAA62|1|Odłóż na 10 min
+006DAA62|1|Odłóż na 10 min
+006DAA62|1|Odłóż na 10 min
+006C5342|1|Stoper
+0070555F|1|%02d
+006DAA62|1|Stoper nie może działać w tle, wyjść?
+006C5342|1|Minutnik
+006F8C9F|1|%d
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|min
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006FF7A8|1|godz.
+006D1EF2|1|Własne
+006C5342|1|Ostatnie
+006E1D90|1|%02d:%02d:%02d
+006C936C|1|Własne
+006C5342|1|Pogoda
+006C5342|1|Prognoza
+00706025|1|25°
+006C5342|1|Jakość powietrza
+006C936C|1|AQI
+006E6F6C|1|Poruszaj się
+006C5342|1|Wskaźniki
+006FF7A8|1| 
+006F2445|1|Indeks UV
+006F2445|1|Wilgotność
+006C5342|1|Wschód i zachód słońca
+006C5342|1|Lokalizacje
+00706870|1|Śpij dobrze
+006DAA62|1|Nie przeszkadzać jest włączone. Funkcja Podnieś, aby wybudzić jest wyłączona.
+006D1EF2|1|Odrzuć
+006D1EF2|1|Czas
+006E1D90|1|%02d:%02d
+006D1EF2|1|Sen
+006F606E|1|%d godz. %d min
+00700B3F|1|%d℃/%d℃
+006C5342|1|SpO₂
+007093CE|1|98
+006D1EF2|1|Zmierz
+006D1EF2|1|Brak danych
+0070CD94|1|98%
+006E4231|1|Noś opaskę powyżej kości nadgarstka.
+006E4231|1|Zaciśnij pasek opaski i spróbuj ponownie
+006E4231|1|Pozostań nieruchomy(-a)
+006ED89D|1|98%
+006E8EDC|1|SpO₂
+006CF357|1|85%
+006D1EF2|1|Szczegóły
+006D1EF2|1|Odrzuć
+006C5342|1|Całodobowe monitorowanie
+006C5342|1|Alert
+006C5342|1|Dowiedz się więcej
+006C5342|1|Całodobowe monitorowanie
+006E4231|1|Wył.
+006E4231|1|80%
+006C936C|1|Zmierz SpO₂ podczas odpoczynku
+006D1EF2|1|Noś opaskę powyżej kości nadgarstka.
+006D1EF2|1|Trzymaj opaskę dobrze dopasowaną i nieruchomą.
+006D8812|1|Ta funkcja nie jest przeznaczona do celów medycznych.
+006E4231|1|SpO₂ reprezentuje procent tlenu we krwi.
+006E4231|1|Odczyty zwykle nie spadają poniżej 95%, gdy jest się aktywnym lub poniżej 90% podczas snu. Podejmij niezbędne środki, jeśli poziom tlenu we krwi spadnie poniżej 90%.
+006E4231|1|Twoja opaska obsługuje zakres 75-100%
+006E4231|1|Istnieje wiele czynników, które mogą spowodować niespójność lub niewiarygodność pomiarów. Są to czynnik takie jak: perfuzja skóry, trwałe lub tymczasowe zmiany na skórze, ruch lub poza podczas snu. Mogą one spowodować wysłanie alertu o niskim poziomie tlenu we krwi. Pamiętaj, że nie jest to urządzenie medyczne, a generowane przez nie dane nie mogą być wykorzystywane do diagnozy i leczenia.
+006C5342|1|Alerty
+006C5342|1|Trening
+006C5342|1|Kategorie
+006C5342|1|Więcej
+006C5342|1|Sporty wodne
+006C5342|1|Pływanie w basenie
+006C5342|1|Trening open water
+006C5342|1|Żeglarstwo
+006C5342|1|SUP
+006C5342|1|Wodne polo
+006C5342|1|Narciarstwo wodne
+006C5342|1|Spływy kajakowe
+006C5342|1|Rafting
+006C5342|1|Wioślarstwo
+006C5342|1|Motorówka
+006C5342|1|Pływanie w płetwach
+006C5342|1|Skoki do wody
+006C5342|1|Pływanie synchroniczne
+006C5342|1|Snurkowanie
+006C5342|1|Kitesurfing
+006C5342|1|Aktywność na zewnątrz
+006C5342|1|Bieganie na zewnątrz
+006C5342|1|Chodzenie
+006C5342|1|Wspinaczka
+006C5342|1|Jazda na rowerze
+006C5342|1|Trekking
+006C5342|1|Bieg przełajowy
+006C5342|1|Wspinaczka skałkowa
+006C5342|1|Jazda na deskorolce
+006C5342|1|Jazda na rolkach
+006C5342|1|Parkour
+006C5342|1|Quad
+006C5342|1|Paralotniarstwo
+006C5342|1|Styl dowolny
+006C5342|1|Bieżnia
+006C5342|1|Skakanka
+006C5342|1|HIIT
+006C5342|1|Joga
+006C5342|1|Rower stacjonarny
+006C5342|1|Orbitrek
+006C5342|1|Ergometr
+006C5342|1|Schody treningowe
+006C5342|1|Stepper
+006C5342|1|Trening mięśni głębokich
+006C5342|1|Rozciąganie
+006C5342|1|Pilates
+006C5342|1|Gimnastyka
+006C5342|1|Rozciąganie
+006C5342|1|Trening siłowy
+006C5342|1|Trening obwodowy
+006C5342|1|Schody treningowe
+006C5342|1|Aerobik
+006C5342|1|Trening fizyczny
+006C5342|1|Piłka lekarska
+006C5342|1|Hantle
+006C5342|1|Sztanga
+006C5342|1|Podnoszenie ciężarów
+006C5342|1|Martwy ciąg
+006C5342|1|Burpees
+006C5342|1|Brzuszki
+006C5342|1|Trening funkcjonalny
+006C5342|1|Górne partie ciała
+006C5342|1|Dolne partie ciała
+006C5342|1|Mięśnie brzucha
+006C5342|1|Plecy
+006C5342|1|Taniec
+006C5342|1|Taniec synchroniczny
+006C5342|1|Taniec brzucha
+006C5342|1|Balet
+006C5342|1|Street dance
+006C5342|1|Zumba
+006C5342|1|Taniec ludowy
+006C5342|1|Taniec jazzowy
+006C5342|1|Taniec latynoski
+006C5342|1|Sporty walki
+006C5342|1|Boks
+006C5342|1|Zapasy
+006C5342|1|Sztuki walki
+006C5342|1|Tai chi
+006C5342|1|Muay Thai
+006C5342|1|Judo
+006C5342|1|Taekwondo
+006C5342|1|Karate
+006C5342|1|Kickboxing
+006C5342|1|Kendo
+006C5342|1|Szermierka
+006C5342|1|Sporty z piłką
+006C5342|1|Tenis
+006C5342|1|Koszykówka
+006C5342|1|Piłka nożna
+006C5342|1|Siatkówka
+006C5342|1|Baseball
+006C5342|1|Softball
+006C5342|1|Futbol amerykański
+006C5342|1|Hokej
+006C5342|1|Tenis stołowy
+006C5342|1|Badminton
+006C5342|1|Krykiet
+006C5342|1|Piłka ręczna
+006C5342|1|Kręgle
+006C5342|1|Squash
+006C5342|1|Bilard
+006C5342|1|Zośka
+006C5342|1|Piłka plażowa
+006C5342|1|Siatkówka plażowa
+006C5342|1|Siatkówka kopana
+006C5342|1|Sporty zimowe
+006C5342|1|Jazda na łyżwach
+006C5342|1|Curling
+006C5342|1|Inne sporty zimowe
+006C5342|1|Skuter śnieżny
+006C5342|1|Hokej na lodzie
+006C5342|1|Bobslej
+006C5342|1|Jazda na sankach
+006C5342|1|Sporty rekreacyjne
+006C5342|1|Łucznictwo
+006C5342|1|Rzutki
+006C5342|1|Jazda konna
+006C5342|1|Przeciąganie liny
+006C5342|1|Hula-hoop
+006C5342|1|Puszczanie latawca
+006C5342|1|Łowienie ryb
+006C5342|1|Frisbee
+006C5342|1|Inne
+006C5342|1|Jeździectwo
+006C5342|1|Lekkoatletyka
+006C5342|1|Wyścigi samochodowe
+006E4231|1|Otwarty
+006D4C3C|1|%02d:%02d:%02d
+006D4C3C|1|%d.%d
+0070EA14|1|km
+006D4C3C|1|%d'%d"
+006D8812|1|Regeneracyjna
+006D8812|1|Intensywna
+006D8812|1|Aerobowa
+006D8812|1|Anaerobowa
+006D8812|1|VO₂ max
+006E1D90|1|%d
+0070EA14|1|kcal
+0070EA14|1|kroki/min
+0070EA14|1|krok
+0070EA14|1|krok
+0070EA14|1|kroki
+0070EA14|1|kroki
+0070EA14|1|krok
+0070EA14|1|krok
+0070EA14|1|kroki
+0070EA14|1|kroki
+0070EA14|1|kroków
+0070EA14|1|kroków
+0070EA14|1|krok
+0070EA14|1|krok
+0070EA14|1|kroki
+0070EA14|1|kroki
+0070EA14|1|kroków
+0070EA14|1|kroków
+006E1D90|1|0
+006D8812|1|/km
+0070EA14|1|km/h
+0070EA14|1|długość
+0070EA14|1|długość
+0070EA14|1|długość
+0070EA14|1|długość
+0070EA14|1|długość
+0070EA14|1|długość
+0070EA14|1|długości
+0070EA14|1|długości
+0070EA14|1|długości
+0070EA14|1|długości
+0070EA14|1|długość
+0070EA14|1|długość
+0070EA14|1|długości
+0070EA14|1|długości
+0070EA14|1|długości
+0070EA14|1|długości
+0070EA14|1|uderzenie
+0070EA14|1|uderzeń
+0070EA14|1|podskok
+0070EA14|1|podskok
+0070EA14|1|podskok
+0070EA14|1|podskok
+0070EA14|1|podskoki
+0070EA14|1|podskoki
+0070EA14|1|podskoków
+0070EA14|1|podskoków
+0070EA14|1|uderzenie
+0070EA14|1|uderzenie
+0070EA14|1|uderzenia
+0070EA14|1|uderzenia
+0070EA14|1|uderzeń
+0070EA14|1|uderzeń
+0070EA14|1|uderzenia/min
+006E6F6C|1|/km
+006E6F6C|1|km za
+0070FD73|1|%u'%02u''
+006C5342|1|Stres
+006E7FEE|1|Umiarkowany
+006C5342|1|Szczegóły
+006E4231|1|Zrelaksowany
+006E4231|1|Lekki
+006E4231|1|Umiarkowany
+006E4231|1|Silny
+006C5342|1|Ostatnie 7 dni
+006FF100|1|05.12
+006D1EF2|1|Brak danych
+006D8812|1|Umiarkowany
+006C5342|1|Całodobowe monitorowanie
+006C5342|1|Przypomnienie o odpoczynku
+006D1EF2|1|Wł.
+006C5342|1|Całodobowe monitorowanie
+006C5342|1|Wł./Wył.
+006D8812|1|Monitoruj ile czasu spędzasz siedząc
+006D8812|1|Rozpocznij wykonywanie ćwiczeń oddechowych, gdy poziom stresu utrzymuje się powyżej 80
+006C5342|1|Dowiedz się więcej
+006D1EF2|1|Stres to naturalna reakcja organizmu na codzienne wyzwania.
+006D1EF2|1|Opaska mierzy poziom stresu podczas spoczynku.\nPoziomy:\nZrelaksowany: 1–25\nLekki: 25–50\nUmiarkowany: 51–80\nSilny: 81–100.\nTa funkcja nie jest przeznaczona do celów medycznych.
+006D1EF2|1|Pomiary zależą od niskiej temperatury, ukrwienia skóry i innych.
+006CF357|1|99.0
+006D1EF2|1|Oddychanie
+006DAA62|1|Tętno
+006DAA62|1|Alarm
+006DAA62|1|SpO₂
+006DAA62|1|Ustawienia
+006DAA62|1|Pogoda
+006DAA62|1|Dodaj urządzenie
+006DAA62|1|Statystyki
+006C5342|1|Usunąć wyświetlacz opaski?
+006C5342|1|Przesuń w prawo na wyświetlaczu opaski, aby zapisać zmiany.
+006C5342|1|Podsumowanie
+006C5342|1|Tętno
+006C5342|1|Tempo
+006C5342|1|Kadencja
+006D1EF2|1|Zobacz szczegóły w aplikacji
+006C5342|1|Prędkość
+006C5342|1|Częstotliwość uderzeń
+006C5342|1|Skakanka
+006C5342|1|Częstotliwość
+006C5342|1|SWOLF
+006C5342|1|Wspinaczka
+006D4C3C|1|2:23.1
+006C5342|1|Uderzenia
+006C5342|1|Statystyki
+006C5342|1|Stanie
+006C5342|1|W ruchu
+006C5342|1|Bateria
+006C5342|1|Data
+006C5342|1|UV
+006D1EF2|1|Synchronizowanie
+006C5342|1|Nie udało się zsynchronizować
+006C5342|1|Błąd
+006C936C|1|Usuń wyświetlacz opaski i spróbuj ponownie
+006C5342|1|Zapisać zmiany?
+006C5342|1|Raz
+006E4231|1|Raz
+006C5342|1|Pon.
+006C5342|1|Wt.
+006C5342|1|Śr.
+006C5342|1|Czw.
+006C5342|1|Pt.
+006C5342|1|Sob.
+006C5342|1|Niedz.
+006E4231|1| 
+006E4231|1|P
+006E4231|1|W
+006E4231|1|Ś
+006E4231|1|C
+006E4231|1|P
+006E4231|1|S
+006E4231|1|N
+006E4231|1|Codziennie
+006DAA62|1|Sen
+006DAA62|1|Stoper
+006DAA62|1|Oddychanie
+006DAA62|1|Cykle
+006DAA62|1|Stres
+006DAA62|1|Trening
+006C936C|1|Zeskanuj, aby pobrać
+006DAA62|1|Sparować z telefonem?
+006C5342|1|Regulacje
+006D1EF2|1|Stanie
+006C5342|1|Odłożone
+006C5342|1|Alarm jest wyłączony
+006C5342|1|Przegapiono
+006E1D90|1|%02lu:%02lu
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006D1EF2|1| 
+006FB54F|1|8000
+006E8EDC|1|krok
+006E8EDC|1|krok
+006E8EDC|1|krok
+006E8EDC|1|krok
+006E8EDC|1|kroki
+006E8EDC|1|kroki
+006E8EDC|1|kroków
+006E8EDC|1|kroków
+006FB54F|1|500
+006E8EDC|1|kcal
+006E8EDC|1|kcal
+006E8EDC|1|kcal
+006E8EDC|1|kcal
+006E8EDC|1|kcal
+006E8EDC|1|kcal
+006E8EDC|1|kcal
+006FB54F|1|30
+006E8EDC|1|min
+006E8EDC|1|min
+006E8EDC|1|min
+006E8EDC|1|min
+006E8EDC|1|min
+006E8EDC|1|min
+006E8EDC|1|min
+006E8EDC|1|min
+006FB54F|1|12
+006E8EDC|1|uderzenie
+006E8EDC|1|uderzenie
+006E8EDC|1|uderzenie
+006E8EDC|1|uderzenie
+006E8EDC|1|uderzenia
+006E8EDC|1|uderzenia
+006E8EDC|1|uderzeń
+006E8EDC|1|uderzeń
+006E4231|1|Funkcja "Kroki" pokazuje dzienną liczbę kroków.
+006E4231|1|Funkcja „Kalorie” pokazuje liczbę aktywnych kalorii spalanych poprzez poruszanie się i ćwiczenia.
+006E4231|1|Funkcja „W ruchu” pokazuje czas wykonywania umiarkowanej i energicznej aktywności.
+006E4231|1|Funkcja "Stanie" pokazuje godziny, w których wstawano i poruszano się.
+006D8812|1|km/h
+006C5342|1|80%
+006C5342|1|85%
+006C5342|1|90%
+006C5342|1|Trening
+006C5342|1|Kalorie
+006C5342|1|Kroki
+006C5342|1|Tętno
+006C5342|1|Stres
+006C5342|1|Alarm
+006C5342|1|Pogoda
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006E4231|1|%u km
+006F2445|1|%u km
+006F2445|1|%u m
+006F2445|1|%u m
+006F2445|1|%u m
+006F2445|1|%u m
+006F2445|1|%u m
+006F2445|1|%u m
+006F2445|1|%u m
+006E4231|1|%u min
+006E4231|1|%u min
+006E4231|1|%u kcal
+006F2445|1|%u kcal
+006F2445|1|%u min
+006E4231|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006E4231|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006F2445|1|%u
+006E7FEE|1| 
+006C5342|1|Uderzenia
+006C5342|1|50 m
+006F2445|1|Lekka
+006F2445|1|VO₂ max
+006F2445|1|Aerobowa
+006F2445|1|Anaerobowa
+006C5342|1|%u km
+006C5342|1|%u km/h
+006C5342|1|%u BPM
+006E4231|1|Zakończono
+006CB700|1|km
+006C5342|1|%
+006E4231|1|%d.%d km
+006F2445|1|%d'%02d"
+006C5342|1|Focus
+006C5342|1|Rest
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006D4C3C|1|%02d:%02d
+006D7AF2|1|%02d:%02d
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|%d min temu
+006FF7A8|1|Przed chwilą
+006FF7A8|1|Przed chwilą
+006FF7A8|1|%02d min temu
+006FF7A8|1|%02d min temu
+006FF7A8|1|%02d min temu
+006FF7A8|1|%02d min temu
+006FF7A8|1|Zmierzono: %02d:%02d
+006D1EF2|1|Spoczynkowe: %02d
+006D1EF2|1|Spoczynkowe: --
+006C5342|1|30 min
+006D1EF2|1| 
+006CF357|1| 
+006CF357|1| 
+006D1EF2|1| 
+006C5342|1|40 BPM
+006C5342|1|45 BPM
+006C5342|1|50 BPM
+006C5342|1|110 BPM
+006C5342|1|120 BPM
+006C5342|1|130 BPM
+006C5342|1|140 BPM
+006C5342|1|150 BPM
+00706870|1|Czas minął
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d godz.
+006C936C|1|%d min
+006C936C|1|%d min
+006C936C|1|%d min
+006C936C|1|%d min
+006C936C|1|%d min
+006C936C|1|%d min
+006C936C|1|%d min
+006C936C|1|%d min
+006E8EDC|1|Poruszaj się
+006D1EF2|1|Porozciągaj się!
+006C5342|1|Wyłączyć dzisiejsze przypomnienia o wstawaniu?
+006E4231|1|Wył.
+006E4231|1|100 BPM
+006E4231|1|110 BPM
+006E4231|1|120 BPM
+006E4231|1|130 BPM
+006E4231|1|140 BPM
+006E4231|1|150 BPM
+006E4231|1|40 BPM
+006E4231|1|45 BPM
+006E4231|1|50 BPM
+006E4231|1|Wł.
+006E4231|1|Wył.
+006E4231|1|1 min
+006E4231|1|10 min
+006E4231|1|30 min
+006E4231|1|Automatyczne
+0070FD73|1|%d%%
+006DAA62|1|Aktywność
+006DAA62|1|Mi AI
+006DAA62|1|Karty
+006DAA62|1|Powiadomienia
+006DAA62|1|Wydarzenia
+006DAA62|1|Muzyka
+006DAA62|1|Aparat
+006DAA62|1|Minutnik
+006DAA62|1|Latarka
+006DAA62|1|Znajdź telefon
+006DAA62|1|Pomoc
+0070EA14|1|"Podnieś, aby wybudzić" jest włączone
+0070EA14|1|"Podnieś, aby wybudzić" jest wyłączone
+0070EA14|1|Tryb Nie przeszkadzać jest włączony
+0070EA14|1|Tryb Nie przeszkadzać jest wyłączony
+006C5342|1|Podsumowanie
+006E4231|1|Brak danych
+006D1EF2|1|Zobacz szczegóły w aplikacji
+006ED89D|1|--
+006E4231|1|%d
+006E4231|1|%d
+006E4231|1|%d
+006E4231|1|%d
+006E4231|1|%d
+006E4231|1|%d
+006E4231|1|%d
+006E4231|1|%d–%d BPM
+006CF357|1|%d-%d
+006CF357|1|%02d:%02d-%02d:%02d
+0071135A|1|%d
+006D4C3C|1|%02d:%02d:%02d
+006D4C3C|1|:
+006D4C3C|1|%02d:%02d.%02d
+00700B3F|1|%02d:%02d:%02d.%02d
+00711B5C|1|%02d:%02d:%02d.%02d
+00711B5C|1|%02d:%02d.%02d
+006C936C|1|%02u-%02u %02u:%02u
+006D4C3C|1|%02u:%02u:%02u
+00700B3F|1|%lu.%02lu
+006C936C|1|km
+006C5342|1|Cel
+006F2445|1|%u%%
+006F2445|1|Ukończono
+00700B3F|1|%lu
+006F2445|1|Cel
+006F2445|1|Aktywne kcal
+00700B3F|1|%lu'%02lu''
+006F2445|1|Śr. tempo
+006F2445|1|Kroki
+006F2445|1|Śr. BPM
+006F2445|1|Śr. kroków/min
+006ED89D|1|%u'%02u''
+006FF100|1|%02u:%02u
+006ED89D|1|%u
+006D1EF2|1|Zobacz szczegóły w aplikacji
+006D1EF2|1|Wróć
+006F2445|1|Cel
+006F2445|1|Osiągnięto
+006F2445|1|Cel
+006F2445|1|Osiągnięto
+006F2445|1|Cel
+006F2445|1|Osiągnięto
+006F2445|1|Cel
+006F2445|1|Osiągnięto
+006F2445|1|Cel
+006F2445|1|Osiągnięto
+006F2445|1|m
+006F2445|1|m
+006F2445|1|m
+006F2445|1|m
+006F2445|1|m
+006F2445|1|m
+006F2445|1|m
+006F2445|1|kcal
+006F2445|1|kcal
+006F2445|1|kcal
+006F2445|1|kcal
+006F2445|1|kcal
+006F2445|1|kcal
+006F2445|1|kcal
+006F2445|1|długość
+006F2445|1|podskok
+006F2445|1|uderzenie
+006F2445|1|długość
+006F2445|1|długość
+006F2445|1|długość
+006F2445|1|długości
+006F2445|1|długości
+006F2445|1|długości
+006F2445|1|długości
+006F2445|1|podskok
+006F2445|1|podskok
+006F2445|1|podskok
+006F2445|1|podskoki
+006F2445|1|podskoki
+006F2445|1|podskoków
+006F2445|1|podskoków
+006F2445|1|uderzeń
+006F2445|1|uderzenie
+006F2445|1|uderzenie
+006F2445|1|uderzenia
+006F2445|1|uderzenia
+006F2445|1|uderzeń
+006F2445|1|uderzeń
+006CF357|1|1 min
+006FF100|1|%u
+006C5342|1|Brak danych z dzisiaj
+006E4231|1|Dzisiaj
+006E4231|1|Jutro
+006E4231|1|Wył.
+006D1EF2|1|Dalej
+006D1EF2|1|Włącz Przewidywanie okresu w aplikacji
+006F2445|1|Przed chwilą
+006F2445|1|%d min temu
+006F2445|1|%d min temu
+006F2445|1|%d min temu
+006F2445|1|%d min temu
+006F2445|1|%d min temu
+006F2445|1|%d min temu
+006F2445|1|%d min temu
+006F2445|1|%d:%02d
+006F2445|1|Wczoraj, %d:%02d
+006F2445|1|%02d/%02d %d:%02d
+006CF357|1|%d powiadomienie
+006CF357|1|%d powiadomienie
+006CF357|1|%d powiadomienie
+006CF357|1|%d powiadomienia
+006CF357|1|%d powiadomienia
+006CF357|1|%d powiadomień
+006CF357|1|%d powiadomień
+006D1EF2|1|Wyczyść
+006FF100|1|00:00
+006FF100|1|12:00
+006FF100|1|24:00
+006E4231|1|Cały dzień
+006D1EF2|1|Całodobowe śledzenie jest wyłączone.
+006D1EF2|1|Zaciśnij pasek opaski i spróbuj ponownie
+006FF100|1|%02u:%02u
+00700B3F|1|%02u:%02u-%02u:%02u
+006C5342|1|Alerty
+006E4231|1|Opaska powiadomi Cię, gdy wykryje odczyty poniżej ustawionego poziomu. Możesz wyświetlić więcej danych w aplikacji. W przypadku złego samopoczucia zasięgnij porady lekarza.
+006D1EF2|1|Pozostań nieruchomy(-a)
+006D1EF2|1|Ukończono 50%
+006D1EF2|1|Kalibrowanie
+006D1EF2|1|Nie ruszaj się podczas pomiaru
+006D1EF2|1|Zaciśnij pasek opaski i spróbuj ponownie
+006D1EF2|1|Zaciśnij pasek opaski i spróbuj ponownie
+0070EA14|1|m
+006D1EF2|1|Połącz się z aplikacją, aby zaktualizować pogodę
+006D8812|1|Ustaw lokalizację w aplikacji
+006FA56B|1|%d
+006C5342|1|Chwileczkę
+006E4231|1|Dobra
+006E4231|1|Umiarkowana
+006E4231|1|Lekkie zanieczyszczenie
+006E4231|1|Niezdrowo
+006E4231|1|Źle
+006E4231|1|Niebezpiecznie
+006CF357|1|Dobra
+006CF357|1|Umiarkowana
+006CF357|1|Lekkie zanieczyszczenie
+006CF357|1|Niezdrowo
+006CF357|1|Źle
+006CF357|1|Niebezpiecznie
+006C936C|1|Wiatr zmienny
+006C936C|1|Trąba powietrzna
+006C936C|1|Wiatr płn.
+006C936C|1|Wiatr płn.-wsch.
+006C936C|1|Wiatr wsch.
+006C936C|1|Wiatr płd.-wsch.
+006C936C|1|Wiatr płd.
+006C936C|1|Wiatr płd.-zach.
+006C936C|1|Wiatr zach.
+006C936C|1|Wiatr płn.-zach.
+006C5342|1|Bezchmurnie
+006C5342|1|Pochmurno
+006C5342|1|Zachmurzenie
+006C5342|1|Przelotny deszcz
+006C5342|1|Burza z piorunami
+006C5342|1|Grad
+006C5342|1|Deszcz ze śniegiem
+006C5342|1|Mżawka
+006C5342|1|Umiarkowany deszcz
+006C5342|1|Intensywne opady deszczu
+006C5342|1|Ulewa
+006C5342|1|Ulewa
+006C5342|1|Ulewne deszcze
+006C5342|1|Przelotne opady śniegu
+006C5342|1|Lekkie opady śniegu
+006C5342|1|Umiarkowane opady śniegu
+006C5342|1|Duże opady śniegu
+006C5342|1|Burza śnieżna
+006C5342|1|Mgła
+006C5342|1|Marznący deszcz
+006C5342|1|Burza piaskowa
+006C5342|1|Mżawka lub przelotne opady deszczu
+006C5342|1|Przelotne lub intensywne opady deszczu
+006C5342|1|Ulewny deszcz do burzy
+006C5342|1|Burze i ulewy
+006C5342|1|Ulewy i silne burze
+006C5342|1|Lekkie lub umiarkowane opady śniegu
+006C5342|1|Umiarkowane lub silne opady śniegu
+006C5342|1|Silne opady śniegu przechodzące w śnieżycę
+006C5342|1|Pył
+006C5342|1|Wietrznie
+006C5342|1|Silna burza piaskowa
+006C5342|1|Mgła
+006C5342|1|Gęsta mgła
+006C5342|1|Lekkie zamglenie
+006C5342|1|Umiarkowane zamglenie
+006C5342|1|Silne zamglenie
+006C5342|1|Bardzo silne zamglenie
+006C5342|1|Mgła
+006C5342|1|Bardzo gęsta mgła
+006C5342|1|Brak zapisu
+006C5342|1|Deszcz
+006C5342|1|Śnieg
+006C936C|1|Dzisiaj
+006C936C|1|Pon.
+006C936C|1|Wt.
+006C936C|1|Śr.
+006C936C|1|Czw.
+006C936C|1|Pt.
+006C936C|1|Sob.
+006C936C|1|Niedz.
+006FB54F|1|%d%%
+006FB54F|1|%d
+006C936C|1|Indeks UV
+006C936C|1|Wilgotność
+007093CE|1|%02d:%02d
+00712995|1|%02d:%02d
+006C936C|1|Tryb snu wyłączy się o %02d:%02d
+006C5342|1|Zaburzenia tętna wymagają ustawienia 1-minutowej częstotliwości. Kontynuować?
+006F2445|1|Maks. BPM
+006F2445|1|Trening
+006F2445|1|Odpoczynek
+006F2445|1|Serie
+006F2445|1|Uderzenia
+006F2445|1|Podskoki
+006F2445|1|Prędkość
+006F2445|1|Częstotliwość uderzeń
+006F2445|1|Długości
+006F2445|1|Główny styl
+006F2445|1|Śr. SWOLF
+006F2445|1|Śr. uderzeń/min
+00700B3F|1|%02lu:%02lu:%02lu
+006F606E|1|Styl klasyczny
+006F606E|1|Styl zmienny
+006F606E|1|Styl dowolny
+006F606E|1|Styl grzbietowy
+006F606E|1|Motylek
+00700B3F|1|%lu.%lu
+006E4231|1|Maks.
+006E4231|1|Maks.
+0070555F|1|%u
+006C5342|1|Serie
+006C5342|1|On
+006D1EF2|1|Funkcja "Podnieś, aby wybudzić" wyłączy się, gdy zdejmiesz opaskę lub pójdziesz spać.
+0071398F|1|℃
+0071398F|1|℉
+006E7FEE|1|%d:%02d
+007093CE|1|%u'%02u''
+006F8C9F|1|%u'%02u''
+006D1EF2|1|Cel: %u'%02u''
+00706870|1|%u km/h
+006D1EF2|1|Cel: %u km/h
+006F8C9F|1|%u
+006D1EF2|1|Docelowe BPM: %d–%d
+006CF357|1|%d
+006D1EF2|1|Threshold: %d BPM
+006F8C9F|1|--
+00700B3F|1|%d℉/%d℉
+006D1EF2|1|Rozumiem
+006E1D90|1|%u
+00704557|1|%%
+006DAA62|1|Poziom baterii jest poniżej %u%%. Naładuj.
+006E4231|1|VO₂ max
+006E4231|1|Anaerobowa
+006E4231|1|Intensywna
+006E4231|1|Aerobowa
+006E4231|1|Lekka
+006FF100|1|%02lu:%02lu:%02lu
+006C5342|1|%02lu:%02lu:%02lu
+006E7FEE|1|BPM
+00711B5C|1|%u
+006F606E|1|%d℃/%d℃
+006F606E|1|%d℉/%d℉
+006D1EF2|1|%d℃/%d℃
+006D1EF2|1|%d℉/%d℉
+006F606E|1|℃
+006F606E|1|℉
+006F606E|1|-
+006D1EF2|1|-
+006D1EF2|1|Jazda na rowerze
+006D1EF2|1|Ergometr
+006C5342|1|Połącz się z aplikacją i spróbuj ponownie
+006C5342|1|Początkujący
+006C5342|1|Wytrzymałość
+006C5342|1|Interwał
+006C5342|1|Początkujący bieg/chód
+006C5342|1|Zaawansowany bieg/chód
+006C5342|1|Bieg o niskiej intensywności
+006C5342|1|Początkujący
+006C5342|1|Zaawansowany
+006C5342|1|MIIT
+006C5342|1|Początkujący
+006C5342|1|Zaawansowany
+006C5342|1|Początkujący
+006C5342|1|Zaawansowany
+006D8812|1|Połączenie chodu i biegu w interwałach.
+006D8812|1|Połączenie chodu i biegu w interwałach.
+006D8812|1|Bieg o niskiej intensywności.
+006D8812|1|Krótszy bieg na spalanie tłuszczu i odchudzanie.
+006D8812|1|Wydłużony bieg o niskiej intensywności w celu spalania tłuszczu.
+006D8812|1|Trening interwałowy o wysokiej intensywności.
+006D8812|1|Bieg o średniej długości dla wytrzymałości.
+006D8812|1|Dłuższy bieg na wytrzymałość.
+006D8812|1|Krótszy trening interwałowy dla zdrowia serca i płuc.
+006D8812|1|Dłuższy trening interwałowy dla zdrowia serca i płuc.
+006C5342|1|%02u/%02u
+006C5342|1|Teraz
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Za %u min
+006C5342|1|Zaległe
+006D1EF2|1|Pon. 
+006D1EF2|1|Wt. 
+006D1EF2|1|Śr. 
+006D1EF2|1|Czw. 
+006D1EF2|1|Pt. 
+006D1EF2|1|Sob. 
+006D1EF2|1|Niedz. 
+006D1EF2|1|%u/%u 
+006D1EF2|1|%02u:%02u 
+006D1EF2|1|Dzisiaj 
+006D1EF2|1|Jutro 
+007093CE|1|02d%:02d%
+006E6F6C|1|km przed
+006F8C9F|1|--'--"
+006D4C3C|1|--'--"
+006D1EF2|1|%02u:%02u-
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u godz.
+006C5342|1|Za %u dzień
+006C5342|1|Za %u dzień
+006C5342|1|Za %u dzień
+006C5342|1|Za %u dzień
+006C5342|1|Za %u dni
+006C5342|1|Za %u dni
+006C5342|1|Za %u dni
+006C5342|1|Za %u dni
+006E8EDC|1|Niski poziom baterii
+006D8812|1|Bieg
+006C936C|1|%d min
+006C936C|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006DAA62|1|Przygotowywanie aktualizacji
+006DAA62|1|Nie udało się zaktualizować.\nSpróbuj ponownie.
+00711B5C|1|%
+006D1EF2|1|Czas
+006D8812|1|Zrelaksowany
+006D8812|1|Lekki
+006D8812|1|Silny
+006D1EF2|1|Całodobowe monitorowanie jest wyłączone.
+006D1EF2|1|%02u:%02u rano–
+006D1EF2|1|%02u:%02u po południu–
+006D1EF2|1|%02u:%02u rano
+006D1EF2|1|%02u:%02u po południu
+006DAA62|1|Oddzwonię później.
+006DAA62|1|Nie mogę teraz rozmawiać. Co tam?
+006DAA62|1|Nie mogę teraz rozmawiać. Zadzwoń później.
+00713A20|1|--
+006D4C3C|1|%u%%
+006E4231|1|Cel
+006D4C3C|1|%u
+006DAA62|1|km
+006DAA62|1|kcal
+006DAA62|1|długość
+006DAA62|1|długość
+006DAA62|1|długość
+006DAA62|1|długości
+006DAA62|1|długości
+006DAA62|1|długości
+006DAA62|1|długości
+006DAA62|1|uderzenie
+006DAA62|1|uderzenie
+006DAA62|1|uderzenie
+006DAA62|1|uderzenia
+006DAA62|1|uderzenia
+006DAA62|1|uderzeń
+006DAA62|1|uderzeń
+006DAA62|1|podskok
+006DAA62|1|podskok
+006DAA62|1|podskok
+006DAA62|1|podskoki
+006DAA62|1|podskoki
+006DAA62|1|podskoków
+006DAA62|1|podskoków
+00702CFD|1|Nowy rekord!
+006D4C3C|1|%02u:%02u:%02u
+00711B5C|1|%lu.%lu.%lu
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %lu.%lu km
+006E4231|1|Cel: %02u:%02u:%02u
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u kcal
+006E4231|1|Cel: %u długość
+006E4231|1|Cel: %u długość
+006E4231|1|Cel: %u długość
+006E4231|1|Cel: %u długość
+006E4231|1|Cel: %u długości
+006E4231|1|Cel: %u długości
+006E4231|1|Cel: %u długości
+006E4231|1|Cel: %u długości
+006E4231|1|Cel: %u uderzenie
+006E4231|1|Cel: %u uderzenie
+006E4231|1|Cel: %u uderzenie
+006E4231|1|Cel: %u uderzenia
+006E4231|1|Cel: %u uderzenia
+006E4231|1|Cel: %u uderzeń
+006E4231|1|Cel: %u uderzeń
+006E4231|1|Cel: %u podskok
+006E4231|1|Cel: %u podskok
+006E4231|1|Cel: %u podskok
+006E4231|1|Cel: %u podskoki
+006E4231|1|Cel: %u podskoki
+006E4231|1|Cel: %u podskoków
+006E4231|1|Cel: %u podskoków
+006D1EF2|1|Opaska powiadomi Cię, gdy Twoje tętno przekroczy ustalony poziom. Twoje tętno wzrasta pod wpływem stresu.
+006D1EF2|1|Opaska powiadomi Cię, gdy tętno spadnie poniżej ustawionego poziomu. Tętno zwalnia podczas snu. W przypadku złego samopoczucia zasięgnij porady lekarza.
+006CF357|1|Wysokie tętno
+006CF357|1|Niskie tętno
+006C5342|1|Dowiedz się więcej
+006CF357|1|Bieg truchtem
+006CF357|1|Bieg
+006CF357|1|Bieg sprintem
+006D4C3C|1|%d
+006DFB23|1|Bieg truchtem
+006DFB23|1|Bieg
+006DFB23|1|Bieg sprintem
+006D8812|1|Bieg
+006D8812|1|Bieg sprintem
+006D4C3C|1|%02d
+006F8C9F|1|%02d
+006F8C9F|1|:
+006D1EF2|1|Zobacz szczegóły w aplikacji
+006C5342|1|Zrobiłeś(-aś) to!
+006D1EF2|1|Zakończono
+006D1EF2|1|Kontynuuj (%lu s)
+006C5342|1|Trening
+006E4231|1|Czas
+006E4231|1|Tętno
+0070FD73|1|%lu.%02lu
+00713A62|1|Automatyczne
+006CB700|1|Automatyczne
+006C5342|1|Pomyślnie ustawiono
+006D1EF2|1|Rozumiem
+006C5342|1|Przegrzanie. Wyłączanie urządzenia.
+006F2445|1|śr.
+006CF357|1|Niski poziom baterii
+006D1EF2|1|Rano
+006D1EF2|1|Po południu
+00700B3F|1|%lu:%02lu
+006F2445|1|%u,%02u km
+006F2445|1|%u,%02u km
+006F2445|1|%u,%02u km
+006D1EF2|1|Tryb Nie przeszkadzać zostanie włączony, gdy pójdziesz spać lub zdejmiesz opaskę.
+006C936C|1|Powiadom, gdy odczyty SpO₂ podczas czuwania są poniżej ustawionego poziomu
+006FF7A8|1|%d:%02d Rano
+006FF7A8|1|%d:%02d Po południu
+006FF7A8|1|Wczoraj, %d:%02d rano
+006FF7A8|1|Wczoraj, %d:%02d po południu
+006FF7A8|1|%02d/%02d %d:%02d rano
+006FF7A8|1|%02d/%02d %d:%02d po południu
+006DAA62|1|Bieganie
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u kcal
+006D8812|1|Cel: %u krok
+006D8812|1|Cel: %u krok
+006D8812|1|Cel: %u krok
+006D8812|1|Cel: %u kroki
+006D8812|1|Cel: %u kroki
+006D8812|1|Cel: %u kroków
+006D8812|1|Cel: %u kroków
+006D8812|1|Cel: %u uderzenie
+006D8812|1|
+006D8812|1|
+006D8812|1|
+006D8812|1|
+006D8812|1|
+006D8812|1|
+006D8812|1|Cel: %u uderzenie
+006D8812|1|Cel: %u uderzenie
+006D8812|1|Cel: %u uderzenie
+006D8812|1|Cel: %u uderzenia
+006D8812|1|Cel: %u uderzenia
+006D8812|1|Cel: %u uderzeń
+006D8812|1|Cel: %u uderzeń
+006F42A5|1|0123456789•
+006F2445|1|Dzisiaj
+006C5342|1|Okres za %u dzień
+006C5342|1|Okres za %u dzień
+006C5342|1|Okres za %u dzień
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dzień
+006C5342|1|Okres za %u dzień
+006C5342|1|Okres za %u dzień
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dni
+006C5342|1|Okres za %u dni
+006C5342|1|Okres płodny za %u dzień
+006C5342|1|Okres płodny za %u dzień
+006C5342|1|Okres płodny za %u dzień
+006C5342|1|Okres płodny za %u dni
+006C5342|1|Okres płodny za %u dni
+006C5342|1|Okres płodny za %u dni
+006C5342|1|Okres płodny za %u dni
+006D8812|1|Zeskanuj, aby wyświetlić pomoc
+006F2445|1|Wczoraj
+006F2445|1|2 dni temu
+006D1EF2|1|Zaciśnij pasek opaski
+006C5342|1|Dowiedz się więcej
+006F606E|1|Nieznany
+006E8EDC|1|Początkujący bieg/chód
+006E8EDC|1|Zaawansowany bieg/chód
+006E8EDC|1|Bieg o niskiej intensywności
+006E8EDC|1|Początkujący
+006E8EDC|1|Zaawansowany
+006E8EDC|1|MIIT
+006E8EDC|1|Początkujący
+006E8EDC|1|Zaawansowany
+006E8EDC|1|Początkujący
+006E8EDC|1|Zaawansowany
+006E8EDC|1|Silny
+006D1EF2|1|Oddychanie
+006D1EF2|1|Chodzenie
+006C5342|1|Zezwolić opasce na odblokowanie telefonu?
+006C5342|1|Zezwolono
+006C5342|1|Nie udało się zezwolić
+006C5342|1|Pomoc
+006C5342|1|Regulacje
+006CF357|1|Model
+006CF357|1|CMIIT ID
+006E6F6C|1|Sty.
+006E6F6C|1|Lut.
+006E6F6C|1|Mar.
+006E6F6C|1|Kwi.
+006E6F6C|1|Maj
+006E6F6C|1|Cze.
+006E6F6C|1|Lip.
+006E6F6C|1|Sie.
+006E6F6C|1|Wrz.
+006E6F6C|1|Paź.
+006E6F6C|1|Lis.
+006E6F6C|1|Gru.
+006E4231|1|Okres za 1 dzień
+006E4231|1|Okres za 2 dni
+006E4231|1|Okres za %u dzień
+006E4231|1|Okres za %u dzień
+006E4231|1|Okres za %u dzień
+006E4231|1|Okres za %u dni
+006E4231|1|Okres za %u dni
+006E4231|1|Okres za %u dni
+006E4231|1|Okres za %u dni
+006E4231|1|Owulacja za 1 dzień
+006E4231|1|Owulacja za 2 dni
+006E4231|1|Owulacja za %u dzień
+006E4231|1|Owulacja za %u dzień
+006E4231|1|Owulacja za %u dzień
+006E4231|1|Owulacja za %u dni
+006E4231|1|Owulacja za %u dni
+006E4231|1|Owulacja za %u dni
+006E4231|1|Owulacja za %u dni
+006C5342|1|Wł./Wył.
+006C5342|1|Wł./Wył.
+006E8EDC|1|Nieodebrane połączenie
+006D1EF2|1|Rozumiem
+006D1EF2|1|Zezwól aplikacji działać w tle
+006D1EF2|1|Skonfiguruj Amazon Alexa w aplikacji
+006D1EF2|1|Zaloguj się na swoje konto Amazon w aplikacji
+006D1EF2|1|Nie można odtwarzać filmów i dźwięku na Twojej opasce
+006D1EF2|1|Łączenie…
+006D1EF2|1|Słuchanie…
+006D1EF2|1|Myślenie…
+006D1EF2|1|Set a timer for 2 minutes
+006D1EF2|1|What's the weather?
+006C936C|1|%02d:%02d-%02d:%02d
+006C936C|1|%02d:%02d-%02d:%02d
+006E7FEE|1|Zrelaksowany
+006E7FEE|1|Łagodny
+006E7FEE|1|Silny
+006E8EDC|1|Umiarkowany
+006C5342|1|Codziennie
+006C5342|1|Nie udało się połączyć
+006C5342|1|Błąd sieci
+006C5342|1|Wymagana konfiguracja
+006C5342|1|Zaloguj się
+006FF7A8|1|Uderzenia
+006D1EF2|1|Śr.
+006E7FEE|1|kroki/min
+006E7FEE|1|km/h
+006E7FEE|1|przeskoki/min
+006C5342|1|Dowiedz się więcej
+006D1EF2|1|Niski poziom baterii. Latarka jest wyłączona.
+006D1EF2|1|Zamknij
+006ED89D|1|%.1f
+0070555F|1|%.1f
+006ED89D|1|%u:%02u'%02u"
+0070555F|1|%u:%02u'%02u"
+00700B3F|1|%u:%02u'%02u"
+006D8812|1|Odtwarzanie dźwięków
+006CF357|1|Kody PIN nie są takie same
+006CF357|1|Wprowadź PIN
+006CF357|1|Nowy kod PIN
+006D1EF2|1|Nie udało się połączyć
+006D1EF2|1|Błąd sieci
+006D1EF2|1|Wymagana konfiguracja
+006D1EF2|1|Zaloguj się
+006D1EF2|1|Niedostępne
+006F42A5|1|Nowy kod PIN
+006F42A5|1|Potwierdź PIN
+006F42A5|1|   Kody PIN nie są takie same  
+006F42A5|1|Wprowadź PIN
+006CB700|1|%d
+00713A62|1|%d
+006E4231|1|%d godz. %d min
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d godz.
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006E4231|1|%d min
+006DAA62|1|%d'%02d"
+006F2445|1|%02u/%02u
+006F2445|1|%02u:%02u
+006F606E|1|--℃/--℃
+006F606E|1|--℉/--℉
+006D1EF2|1|--℃/--℃
+006D1EF2|1|--℉/--℉
+006E4231|1|Cel osiągnięty
+006E4231|1|Cel osiągnięty
+006E4231|1|Osiągnięto cel w funkcji "W ruchu"
+006E4231|1|Osiągnięto cel w funkcji "Stanie"
+006E4231|1|Osiągnięto cel w funkcji "Kroki"
+006E4231|1|Osiągnięto cel w funkcji "Kalorie"
+006E4231|1|Cel osiągnięty
+006E4231|1|Cel osiągnięty
+006E4231|1|Wszystkie cele zdobyte
+006E4231|1|Tak trzymaj
+006E4231|1|Cele osiągnięte
+006E4231|1|Osiągnięte cele
+006E7FEE|1|km/h
+006E7FEE|1|/km
+006C5342|1|Rano
+006C5342|1|Po południu
+006C5342|1|Dystans treningu jest za krótki, żeby zapisać.
+006CF357|1|(Brak tytułu)
+006E4231|1|Zapomniałeś hasła?
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za %d sek.
+006DAA62|1|Spróbuj ponownie za 5 min.
+006DAA62|1|Spróbuj ponownie za 10 min.
+006DAA62|1|Zresetuj kod PIN w aplikacji
+006E4231|1|Rozumiem
+006F42A5|1|Wprowadź PIN, aby odblokować
+006E4231|1|%d powiadomienie
+006E4231|1|%d powiadomienie
+006E4231|1|%d powiadomienie
+006E4231|1|%d powiadomienia
+006E4231|1|%d powiadomienia
+006E4231|1|%d powiadomień
+006E4231|1|%d powiadomień
+0071681C|1|--:--
+006C5342|1|Alexa
+006DAA62|1|Niedostępne
+006E4231|1|Amazon Alexa nie jest dostępna w Twoim regionie
+006E4231|1|Sprawdź połączenie sieciowe
+006C5342|1|Przepraszam, czy możesz powtórzyć?
+006E4231|1|Rozpocznij mówiąc
+006D8812|1|Pon.
+006D8812|1|Wt.
+006D8812|1|Śr.
+006D8812|1|Czw.
+006D8812|1|Pt.
+006D8812|1|Sob.
+006D8812|1|Niedz.
+006F2445|1|%u km/h
+006C5342|1|Parowanie
+006DAA62|1|Nie udało się sparować
+006F42A5|1|Wprowadź PIN, aby odblokować
+006F42A5|1|Wprowadź PIN, aby odblokować
+006FF7A8|1|%d℃/%d℃
+006FF7A8|1|%d℉/%d℉
+006E4231|1|%d
+0070FD73|1|%02d:%02d.%02d
+006DAA62|1|m
+006E4231|1|Połącz swoją opaskę z aplikacją
+006FF7A8|1|-
+006D1EF2|1|Zobacz szczegóły w aplikacji
+006C5342|1|Contact customer support to get your device repaired
+006C936C|1|Monitoruj swoje tętno przez całą dobę
+006DAA62|1|Ustawiono PIN
+006C936C|1|Otrzymuj przypomnienia o rozpoczęciu i zakończeniu biegu, spaceru oraz treningu na ergometrze.
+006C5342|1|Ładowanie
+006E6F6C|1|.
+006E7FEE|1|.
+006FF100|1|.
+0071681C|1|.
+006F2445|1|.
+006FF7A8|1|.
+00716897|1|.
+007168BB|1|.
+006C936C|1|.
+006D8812|1|.
+007168E6|1|.
+0071135A|1|.
+006E4231|1|.
+006D1EF2|1|.
+0070555F|1|.
+0071398F|1|.
+00713A20|1|.
+0070EA14|1|.
+0071690C|1|.
+00706025|1|.
+006F42A5|1|.
+006CF357|1|.
+00716937|1|.
+00716962|1|.
+006DAA62|1|.
+006C5342|1|.
+00711B5C|1|.
+00704557|1|.
+00716990|1|.
+007169BB|1|.
+006D7AF2|1|.
+007169DF|1|.
+00702CFD|1|.
+006F606E|1|.
+00712995|1|.
+006FA56B|1|.
+00716A17|1|.
+006E8EDC|1|.
+0070FD73|1|.
+006FB54F|1|.
+0071773D|1|.
+00706870|1|.
+00717771|1|.
+006F8C9F|1|.
+00703D1E|1|.
+00713A62|1|.
+0070CD94|1|.
+00700B3F|1|.
+00718E9D|1|.
+006CB700|1|.
+006ED89D|1|.
+006E1D90|1|.
+006C5342|1|godz.
+006C5342|1|min
+006D1EF2|1|Nie pokazuj dziś
+006DAA62|1|Niedostępne
+006E4231|1|Amazon Alexa nie jest dostępna w Twoim regionie
+006D1EF2|1|Ergometr
+006D1EF2|1|Orbitrek
+006D1EF2|1|Skakanka
+006C5342|1|Bardzo dobrze
+006E4231|1| 
+006E4231|1| 
+006E4231|1|Cel
+006E4231|1|Pozostało
+006E4231|1|Cel
+006E4231|1|Pozostało
+006E4231|1|Długości
+006E4231|1|Pozostało
+006E4231|1|Podskoki
+006E4231|1|Pozostało
+006C5342|1|Czas
+006C5342|1|Dystans
+006C5342|1|Długości
+006C5342|1|Uderzenia
+006C5342|1|Podskoki
+006E7FEE|1| 
+006F2445|1|%d:%02d
+006F2445|1|%d min
+006F2445|1|%dmin %02dsek.
+006C5342|1|Aplikacje
+006CF357|1|Fitness
+006CF357|1|Podstawowe
+006CF357|1|Pogoda
+006CF357|1|Narzędzia
+006C5342|1|Stoper
+006C5342|1|Minutnik
+006C5342|1|Aparat
+006C5342|1|Karty
+006DAA62|1|Czas treningu jest za krótki, żeby zapisać.
+00718ED5|1|Stoper
+00718ED5|1|Minutnik
+00713A62|1|%d℃
+00713A62|1|%d℉
+00713A62|1|-
+00713A62|1|--℃
+00713A62|1|--℉
+006D1EF2|1|Chwileczkę
+006F606E|1|Oddychanie
+00713A62|1|--
+006C5342|1|Auto
+006C5342|1|Własne
+00713A62|1|%d%%
+006D1EF2|1|Chwileczkę
+006D1EF2|1|Nie odtwarza się
+006D1EF2|1|Rozłączono
+006E6F6C|1|Przeciągnij w górę, aby wyświetlić kod kreskowy
+006E6F6C|1|Przeciągnij w dół, aby wyświetlić kod QR
+00718ED5|1|Ergometr
+00718ED5|1|Chodzenie
+00718ED5|1|HIIT
+00718ED5|1|Jazda na rowerze
+00718ED5|1|Rower stacjonarny
+00718ED5|1|Skakanka
+00718ED5|1|Trekking
+00718ED5|1|Wspinaczka
+00718ED5|1|Orbitrek
+00718ED5|1|Bieganie na zewnątrz
+00718ED5|1|Pływanie w basenie
+00718ED5|1|Bieżnia
+00718ED5|1|Bieg przełajowy
+00718ED5|1|Styl dowolny
+00717771|1|%lu
+0070CD94|1|%lu
+006D1EF2|1|Brak danych
+00713A62|1|--
+006D1EF2|1|min
+006C5342|1|SpO₂
+006E4231|1|Udało Ci się wczoraj osiągnąć cel. Oby tak dalej!
+006E4231|1|Udało Ci się wczoraj osiągnąć 2 z 3 celów. Nie poddawaj się!
+006E4231|1|Nie udało Ci się wczoraj osiągnąć wyznaczonych celów. Spróbuj dzisiaj!
+006E4231|1|Twoje cele są w zasięgu ręki!
+006E4231|1|Od wyznaczonego celu dzieli Cię zaledwie tysiąc kroków.
+006E4231|1|Od wyznaczonego celu dzieli Cię zaledwie 50 kcal.
+006E4231|1|Wciąż jest czas, aby osiągnąć dzisiejszy cel! Nie poddawaj się!
+006E4231|1|Wstań dzisiaj jeszcze dwa razy, aby osiągnąć cel.
+006E4231|1|Wstań dzisiaj jeszcze jeden raz, aby osiągnąć cel.
+006E4231|1|Udało Ci się wczoraj osiągnąć cel. Oby tak dalej!
+006E4231|1|Udało Ci się wczoraj osiągnąć 2 z 3 celów. Nie poddawaj się!
+006E4231|1|Nie udało Ci się wczoraj osiągnąć wyznaczonych celów. Spróbuj dzisiaj!
+006E4231|1|Twoje cele są w zasięgu ręki!
+006E4231|1|Od wyznaczonego celu dzieli Cię zaledwie tysiąc kroków.
+006E4231|1|Od wyznaczonego celu dzieli Cię zaledwie 50 kcal.
+006E4231|1|Prawie osiągnięto cel!
+006E4231|1|Wstań dzisiaj jeszcze dwa razy, aby osiągnąć cel.
+006E4231|1|Wstań dzisiaj jeszcze jeden raz, aby osiągnąć cel.
+00716A17|1|Cel osiągnięty!
+006DAA62|1|Dasz radę!
+006DAA62|1|Statystyki
+006F2445|1|Własne
+006DAA62|1|Nie udało się sparować
+006C936C|1|Spróbuj ponownie
+006E4231|1|Paruj
+006DAA62|1|Potwierdź na swoim telefonie
+006DAA62|1|Parowanie...
+006DAA62|1|Sparowano
+006C936C|1|Zeskanuj, aby pobrać aplikację
+006C936C|1|Potwierdź na swoim telefonie
+0071B206|1|繁體中文
+006DAA62|1|English
+006DAA62|1|Deutsch
+0071BB0D|1|한국어
+0071C0DA|1|עברית
+0071C4AA|1|ไทย
+0071C6DE|1|日本語
+0071CD11|1|العربية
+006DAA62|1|Italiano
+006DAA62|1|Français
+006DAA62|1|Español
+006DAA62|1|Polski
+006DAA62|1|Українська
+006DAA62|1|Čeština
+006DAA62|1|Русский
+006DAA62|1|Nederlands
+006DAA62|1|Português PT
+006DAA62|1|Türkçe
+006DAA62|1|Română
+006DAA62|1|Eλληνικά
+006DAA62|1|Português BR
+006DAA62|1|Indonesia
+006DAA62|1|Tiếng Việt
+006DAA62|1|Norsk bokmål
+006DAA62|1|Suomi
+006DAA62|1|Svenska
+006DAA62|1|Dansk
+006F2445|1|Wył.
+006F2445|1|%d sekunda
+006F2445|1|%d sekunda
+006F2445|1|%d sekunda
+006F2445|1|%d sekundy
+006F2445|1|%d sekundy
+006F2445|1|%d sekund
+006F2445|1|%d sekundy
+006D1EF2|1|%u/%u/%u 
+006CF357|1|Xiaomi Smart Band 7 Pro
+006D1EF2|1|OK
+006F42A5|1|If the number of words is too long, please check it on the APP side
+006C5342|1|Jazda na snowboardzie
+006C5342|1|Jazda na nartach
+006E8EDC|1|Jazda na snowboardzie
+006E8EDC|1|Jazda na nartach
+006C936C|1|Własne
+006C5342|1|Syncing
+006DAA62|1|Preparing update
+006F2445|1|VO₂ max
+006C936C|1|Wysoka

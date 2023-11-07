@@ -1,0 +1,2071 @@
+0077D4DF|1|Nastavení
+0077D4DF|1|Styly displeje náramku
+0077D4DF|1|Displej
+0077D4DF|1|Vibrace
+00781893|1|Výchozí
+00781893|1|Silné
+0077D4DF|1|Autom. detekce
+00781893|1|Vyp.
+00781893|1|Zap.
+0077D4DF|1|Nerušit
+00781893|1|Vyp.
+00781893|1|Inteligentní
+00781893|1|Celý den
+0077D4DF|1|Rozložení aplikací
+00781893|1|Ikony
+00781893|1|Seznam
+0077D4DF|1|PIN
+0077D4DF|1|Systém
+0077D4DF|1|O náramku
+0077D4DF|1|Jas
+0077D4DF|1|Aktivní displej
+0077D4DF|1|Autom. uzamknutí
+0077D4DF|1|Zakrytím uspat
+0077D4DF|1|Zvednutím probudit
+00781893|1|Autom.
+00783D82|1|Autom.
+0077D4DF|1|Zavřít
+0077D4DF|1|Inteligentní
+0077D4DF|1|Vlastní
+0077D4DF|1|Celý den
+0077D4DF|1|Více
+00787BA0|1|Aktivní displej
+00787BA0|1|Inteligentní
+0078A7DF|1|Čas bude zobrazen i po uzamknutí displeje.
+0078A7DF|1|Aktivní displej bude vypnut, pokud si náramek sundáte nebo pokud usnete.
+0077D4DF|1|Zapnutí sníží výkon baterie. Pokračovat?
+0077D4DF|1|Začátek
+0077D4DF|1|Konec
+0077D4DF|1|Stav
+0078D92D|1|-%d
+007907E3|1|%d
+0077D4DF|1|Citlivost
+00781893|1|Inteligentní
+00783D82|1|Vysoká
+00783D82|1|Výchozí
+0077D4DF|1|Zapnutí sníží výkon baterie. Pokračovat?
+00791503|1|s
+00791503|1|min.
+0077D4DF|1|Autom. detekce
+0077D4DF|1|Detekce cvičení
+0078A7DF|1|Rozumím
+0078A7DF|1|Rozumím
+00781893|1|Pro nastavení frekvence vypněte funkci Upozornění na nepravidelný tep.
+007907E3|1|%d:%02d
+0079376F|1|Zapnutí sníží výkon baterie. Pokračovat?
+0077D4DF|1|Vyp.
+0077D4DF|1|Inteligentní
+0078A7DF|1|Aktivní displej bude vypnut, pokud si náramek sundáte nebo pokud usnete.
+0077D4DF|1|Ikony
+0077D4DF|1|Seznam
+0077D4DF|1|Systém
+0077D4DF|1|Restartovat
+0077D4DF|1|Vypnout
+0077D4DF|1|Resetovat
+0077D4DF|1|Restartovat nyní?
+0077D4DF|1|Vypnout nyní?
+0079376F|1|Vymazat všechna data?
+00787BA0|1|Název
+00787BA0|1|Model
+00787BA0|1|Adresa MAC
+00787BA0|1|Verze
+00787BA0|1|Sériové číslo
+00787BA0|1|Dohled
+0077D4DF|1|Vibrace
+0079881C|1|Silné
+00783D82|1|Výchozí
+00783D82|1|Silné
+0079B1F4|1|%d
+00781893|1|%d/%d
+0077D4DF|1|Zahřívání
+0078A7DF|1|Dokončeno
+0078D92D|1|%2d:%2d:%2d
+0077D4DF|1|Trénink
+0078D92D|1|%d
+0079D695|1|Cílový počet temp
+0079D695|1|Zbývá
+0078A7DF|1|Přeskočit
+0077D4DF|1|Odpočinek
+0079D695|1|Odpočinek
+0079D695|1|Zbývá
+0077D4DF|1|Vyklusání
+0078A7DF|1|Ukončit
+0077D4DF|1|Běh
+0077D4DF|1|Spalování tuků
+0077D4DF|1|Středně pokročilý
+0079D695|1|Úvod
+0079D695|1|Tréninkový plán
+00791503|1|Chůze
+00791503|1|Základní jogging
+0078A7DF|1|Start
+0077D4DF|1|Nedávné
+0079881C|1|Chůze
+00787BA0|1|Cílový srdeční tep
+0078A7DF|1|%d-%dbpm
+00787BA0|1|Chůze
+0078D92D|1|%d:%02d
+0079D695|1|Časovač
+007A058D|1|tepů/min.
+0077D4DF|1|Zdá se, že cvičíte
+0078A7DF|1|Venkovní
+0078A7DF|1|Běžecký pás
+0078A7DF|1|Zavřít (%d s)
+0078A7DF|1|km
+0078A7DF|1|Pozastavit
+0078A7DF|1|Pokračovat
+0079376F|1|Příliš krátká vzdálenost pro uložení záznamu. Ukončit?
+0079376F|1|Příliš krátký čás pro uložení záznamu. Ukončit?
+0078A7DF|1|Pokračovat
+0078A7DF|1|Ukončit
+0077D4DF|1|Kalibrace
+0078D92D|1|.
+007A12B6|1|km
+0079376F|1|Jakmile začnete, displej bude uzamknut
+0077D4DF|1|Dýchání
+007A20C0|1|Dýchání
+0077D4DF|1|Čas
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A729B|1|%d
+007A9699|1|%d
+007A20C0|1|Uvolněte se
+0078A7DF|1|Soustřeďte se na svůj dech
+007A20C0|1|Začínáme
+0078A7DF|1|Dýchejte podle animace bubliny
+007A20C0|1|Nádech
+007A20C0|1|Výdech
+007A20C0|1|Skvělá práce
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0078A7DF|1|Relace: %d min.
+0077D4DF|1|Výsledky
+0078A7DF|1|Aktuální ST
+007A729B|1|89
+007A12B6|1|tepů/min.
+0078A7DF|1|Počáteční ST
+0078A7DF|1|Relace
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+007A12B6|1|min.
+0077D4DF|1|Nastavení
+0077D4DF|1|Cíl
+0077D4DF|1|Intervaly
+0077D4DF|1|Výstrahy
+0077D4DF|1|Délka bazénu
+0077D4DF|1|Autom. pozastavení
+0079D695|1|Žádný
+007ABE43|1|1,5 km
+0077D4DF|1|Žádný
+0077D4DF|1|Vzdálenost
+0077D4DF|1|Čas
+0077D4DF|1|Kalorie
+0077D4DF|1|Přeskoky
+0077D4DF|1|Délek
+0079D695|1|5 km
+0077D4DF|1|Intervaly budou vypnuty. Pokračovat?
+0077D4DF|1|Cíl cvičení bude odebrán. Pokračovat?
+0077D4DF|1|Vzdálenost
+0077D4DF|1|Čas
+0077D4DF|1|Kalorie
+0077D4DF|1|Přeskoky
+0077D4DF|1|Délek
+007A12B6|1|min.
+007A12B6|1|kcal
+007A12B6|1| 
+007A12B6|1| 
+0077D4DF|1|Série
+0077D4DF|1|Odpočinek
+007A12B6|1|s
+007A12B6|1| 
+0077D4DF|1|Vzdálenost
+0077D4DF|1|Tempo
+0077D4DF|1|Rychlost
+0077D4DF|1|Zóna ST
+0077D4DF|1|Vysoký ST
+0078A7DF|1|Vypnout vše
+007ABE43|1|Vyp.
+007ABE43|1|Intenzivní
+0077D4DF|1|Pacer
+0078D92D|1|5'00"
+0079B1F4|1|4'50"
+0077D4DF|1|%d km/h
+007A12B6|1|km/h
+0077D4DF|1|Vyp.
+0077D4DF|1|Lehká
+0077D4DF|1|Intenzivní
+0077D4DF|1|Aerobní
+0077D4DF|1|Anaerobní
+0077D4DF|1|VO₂ max
+007ABE43|1|%u–%u tepů/min.
+0077D4DF|1|Vysoký ST
+007A12B6|1|tepů/min.
+0077D4DF|1|25 m
+0077D4DF|1|Vlastní
+0077D4DF|1|Vlastní
+007A12B6|1|m
+0077D4DF|1|Nastavit PIN
+007ADBA2|1|Zadejte PIN
+007ADBA2|1|Potvrďte PIN
+007ADBA2|1|Nesprávný
+0077D4DF|1|Vymazat všechna data?
+0077D4DF|1|Vypnout PIN
+0077D4DF|1|Změnit PIN
+0077D4DF|1|PIN byl změněn
+0077D4DF|1|PIN byl vypnut
+00781893|1|Náramek se při sejmutí ze zápěstí automaticky uzamkne.
+007AFC31|1|Zrychlete
+007AFC31|1|Jen tak dál
+007AFC31|1|Zpomalte
+007B2B82|1|%u'%02u''
+007A20C0|1|Vysoký ST
+0078A7DF|1|Kalorie
+007B444E|1|345
+0078A7DF|1|Kroky
+0078A7DF|1|V pohybu
+007B5432|1|323
+0077D4DF|1|Kroky
+007A12B6|1| 
+0077D4DF|1|Stání
+0077D4DF|1|V pohybu
+0077D4DF|1|Připomenutí
+00787BA0|1|Kroky
+00787BA0|1|Kalorie
+007ADBA2|1|Stání
+007ADBA2|1|V pohybu
+0077D4DF|1|Spánek
+007B66D5|1|10
+007AFC31|1|hod.
+007AFC31|1|min.
+0078A7DF|1|Cíl:
+007B8FE3|1|24:33
+0078A7DF|1|Žádná data
+00787BA0|1|Spánek
+0078A7DF|1|1. Pro sledování REM fáze spánku zapněte Rozšířené měření.\n2. Utáhněte řemínek náramku.\n3. Výsledky měření srdečního tepu a hladiny SpO₂ závisí na množství pohybu, kvalitě spánku, apod.
+007A20C0|1|hod.
+007A20C0|1|min.
+0078A7DF|1|Žádná data
+0077D4DF|1|Rozšířené měření
+0077D4DF|1|Skóre dýchání
+0077D4DF|1|Skóre dýchání
+00781893|1|Sledování REM spánku
+0077D4DF|1|Skóre dýchání
+00781893|1|Sledování dýchání během spánku
+0077D4DF|1|Spánek
+0079D695|1|Prům. tepů/min.
+0077D4DF|1| 
+0079D695|1|Prům. SpO₂
+0077D4DF|1|Zdřímnutí
+0077D4DF|1|Srdeční tep
+007B8FE3|1|126
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+0077D4DF|1|Vysoký ST
+0077D4DF|1|Nízký ST
+0077D4DF|1|Upozornění na nepravidelný tep
+0077D4DF|1|Zóna ST
+0079D695|1|VO₂ max
+0079D695|1|VO₂ max
+0079D695|1|Anaerobní
+0079D695|1|Intenzivní
+0079D695|1|Lehká
+0079D695|1|Relaxed
+0079D695|1|Relaxed
+0077D4DF|1|%02d:%02d
+0078A7DF|1|Měření
+007BA895|1|144-224
+007B968B|1|tepů/min.
+007BA895|1|12: 24-12: 25
+0078A7DF|1|Opakovat
+0078A7DF|1|Změřit
+00787BA0|1|Srdeční tep
+0078A7DF|1|Srdeční tep představuje počet úderů srdce za minutu (tepů/min.).\nKlidový tep se obvykle pohybuje v rozmezí 40 až 100 tepů/min. Liší se však podle věku, pohlaví a dalších faktorů.\nVáš náramek podporuje rozsah 30–220 tepů/min.
+0077D4DF|1|Více
+0078A7DF|1|Utáhněte řemínek a zkuste to znovu
+0077D4DF|1|Tipy
+0078A7DF|1|Mějte náramek nasazen nad zápěstní kůstkou.
+0078A7DF|1|Mějte náramek pohodlně utažen a nehýbejte se.
+0078A7DF|1|Měření může být ovlivněno nízkou teplotou, prokrvením kůže, apod.
+00791503|1|Tato funkce není určena pro lékařské účely.
+0078A7DF|1|Nepřetržité měření vypnuto.
+0078A7DF|1|Zapnout
+0077D4DF|1|Nepřetržité měření
+0077D4DF|1|Upozornění na nepravidelný tep
+0077D4DF|1|Zap./Vyp.
+0077D4DF|1|Vysoký ST
+0077D4DF|1|Nízký ST
+00781893|1|Pro nastavení frekvence vypněte funkci Upozornění na nepravidelný tep.
+0077D4DF|1|1 min.
+0077D4DF|1|10 min.
+0077D4DF|1|Autom.
+0077D4DF|1|Tipy
+0078A7DF|1|Measure heart rate every 10 mins
+00787BA0|1|Autom.
+0078A7DF|1|Zvýšení frekvence měření během cvičení
+0077D4DF|1|Upozornění na nepravidelný tep
+00781893|1|Upozornění na nepravidelný tep
+0077D4DF|1|Zapnutí sníží výkon baterie. Pokračovat?
+0077D4DF|1|100tepů/min.
+007A20C0|1|Nízký ST
+00787BA0|1|12: 30-12: 40
+0078A7DF|1|Podrobnosti
+007A20C0|1|Upozornění na nepravidelný tep
+007A20C0|1|Měření
+0078A7DF|1|Nehýbejte se
+0078A7DF|1|Změřeno: %02d:%02d
+0078A7DF|1|Opakovat
+0079D695|1|Goal hit
+0079D695|1|Goal hit
+0079D695|1|Goal hit
+0079D695|1|Goal hit
+007A20C0|1|Dosaženo cíle
+0079D695|1|Bravo!
+007A20C0|1|Protáhněte se!
+007A20C0|1|Postavte se
+0078A7DF|1|Postavte se a projděte se
+0079376F|1|Pro aktualizaci GPS připojte náramek k telefonu.
+0079376F|1|Úložiště je plné. Toto cvičení nelze zaznamenat.
+0077D4DF|1|GPS
+007A20C0|1|Venkovní běh
+0079376F|1|Určování polohy. Cvičte v otevřeném prostoru.
+0078A7DF|1|Počkat
+0078A7DF|1|Start
+0079376F|1|Cvičte v otevřeném prostoru
+0078A7DF|1|Zavřít
+0077D4DF|1|Cyklus
+007B968B|1|%u/%u/%u
+0077D4DF|1|Predikce
+0079D695|1|Plodné období
+0077D4DF|1|05.23-06.23
+007BCA53|1|Ovulace
+007BD783|1|Menstruace
+0077D4DF|1|Více
+0078A7DF|1|Zaznamenejte svůj cyklus v aplikaci
+00787BA0|1|1. Barvy
+0078A7DF|1|Menstruace
+0077D4DF|1|%d. den menstruace
+0078A7DF|1|Predikce menstruace
+0077D4DF|1|%d. den menstruace
+0078A7DF|1|Plodné období
+0078A7DF|1|%d. den plodného období
+0078A7DF|1|Ovulace
+0077D4DF|1|Ovulace
+00787BA0|1|2. Tip
+0078A7DF|1|Čím více záznamů zapíšete, tím přesnější predikce budou.
+007A20C0|1|Plavání v bazénu
+007A20C0|1|Otevřená voda
+007A20C0|1|Plachtění
+007A20C0|1|Paddleboarding
+007A20C0|1|Vodní pólo
+007A20C0|1|Vodní sporty
+007A20C0|1|Vodní lyžování
+007A20C0|1|Jízda na kajaku
+007A20C0|1|Rafting
+007A20C0|1|Veslování
+007A20C0|1|Motorový člun
+007A20C0|1|Ploutvové plavání
+007A20C0|1|Skoky do vody
+007A20C0|1|Synchronizované plavání
+007A20C0|1|Šnorchlování
+007A20C0|1|Kitesurfing
+007A20C0|1|Chůze
+007A20C0|1|Pěší turistika
+007A20C0|1|Jízda na kole
+007A20C0|1|Pěší turistika
+007A20C0|1|Terénní běh
+007A20C0|1|Horolezectví
+007A20C0|1|Skateboarding
+007A20C0|1|Kolečkové brusle
+007A20C0|1|Parkour
+007A20C0|1|Čtyřkolky
+007A20C0|1|Paragliding
+007A20C0|1|Volný styl
+007A20C0|1|Běžecký pás
+007A20C0|1|Švihadlo
+007A20C0|1|HIIT
+007A20C0|1|Jóga
+007A20C0|1|Jízda v hale
+007A20C0|1|Eliptický trenažér
+007A20C0|1|Veslování
+007A20C0|1|Fitness schody
+007A20C0|1|Stepper
+007A20C0|1|Core trénink
+007A20C0|1|Flexibilita
+007A20C0|1|Pilates
+007A20C0|1|Gymnastika
+007A20C0|1|Strečink
+007A20C0|1|Silový trénink
+007A20C0|1|Kruhový trénink
+007A20C0|1|Běh do schodů
+007A20C0|1|Aerobik
+007A20C0|1|Fitness
+007A20C0|1|Wall ball
+007A20C0|1|Jednoruční činky
+007A20C0|1|Činky
+007A20C0|1|Vzpírání
+007A20C0|1|Mrtvý tah
+007A20C0|1|Angličáky
+007A20C0|1|Sedy-lehy
+007A20C0|1|Funkční trénink
+007A20C0|1|Horní část těla
+007A20C0|1|Dolní část těla
+007A20C0|1|Břišní svalstvo
+007A20C0|1|Záda
+007A20C0|1|Tančení v parku
+007A20C0|1|Břišní tance
+007A20C0|1|Balet
+007A20C0|1|Street dance
+007A20C0|1|Zumba
+007A20C0|1|Lidový tanec
+007A20C0|1|Jazzový tanec
+007A20C0|1|Latinskoamerické tance
+007A20C0|1|Box
+007A20C0|1|Zápas
+007A20C0|1|Bojová umění
+007A20C0|1|Tchaj-ťi
+007A20C0|1|Muaythai
+007A20C0|1|Judo
+007A20C0|1|Taekwondo
+007A20C0|1|Karate
+007A20C0|1|Kickbox
+007A20C0|1|Kendó
+007A20C0|1|Sportovní šerm
+007A20C0|1|Tenis
+007A20C0|1|Basketbal
+007A20C0|1|Fotbal
+007A20C0|1|Volejbal
+007A20C0|1|Baseball
+007A20C0|1|Softball
+007A20C0|1|Americký fotbal
+007A20C0|1|Hokej
+007A20C0|1|Stolní tenis
+007A20C0|1|Badminton
+007A20C0|1|Kriket
+007A20C0|1|Házená
+007A20C0|1|Bowling
+007A20C0|1|Squash
+007A20C0|1|Kulečník
+007A20C0|1|Košíček
+007A20C0|1|Plážový fotbal
+007A20C0|1|Plážový volejbal
+007A20C0|1|Sepak takraw
+007A20C0|1|Bruslení
+007A20C0|1|Curling
+007A20C0|1|Ostatní zimní sporty
+007A20C0|1|Sněžný skútr
+007A20C0|1|Lední hokej
+007A20C0|1|Boby
+007A20C0|1|Sáňkování
+007A20C0|1|Lukostřelba
+007A20C0|1|Šipky
+007A20C0|1|Jízda na koni
+007A20C0|1|Přetahování lanem
+007A20C0|1|Hula hoop
+007A20C0|1|Pouštění draků
+007A20C0|1|Rybaření
+007A20C0|1|Létající talíř
+007A20C0|1|Jezdectví
+007A20C0|1|Atletika
+007A20C0|1|Automobilové sporty
+00781893|1|Upozornění na spuštění a ukončení běhu, chůze, skákání přes švihadlo, veslování a běhu na běžeckém páse.
+0078A7DF|1|Odložit
+0077D4DF|1|Synchronizuji
+0077D4DF|1|Oznámení
+0078A7DF|1|Žádná oznámení
+0078A7DF|1|Odpovědět
+0078A7DF|1|Odeslat
+0077D4DF|1|Odesláno
+0077D4DF|1|Odeslání se nezdařilo
+0079376F|1|Povolte této aplikaci odesílat SMS
+0079376F|1|Povolte aplikaci přístup k vašim kontaktům
+0077D4DF|1|Odesílání
+007BE519|1|Budík
+0079D695|1|Žádné budíky
+0079D695|1|Čas
+0079D695|1|Opakovat
+0077D4DF|1|Upravit
+0077D4DF|1|Čas
+0077D4DF|1|Opakovat
+0078A7DF|1|Smazat
+0078A7DF|1|OK
+0079D695|1|dop.
+0079D695|1|odp.
+0078A7DF|1|Odložit
+0078A7DF|1|Zastavit
+0078A7DF|1|Budík nelze přidat
+0079D695|1|Můžete přidat max. 10 budíků
+0077D4DF|1|Najít telefon
+0077D4DF|1|Váš telefon zazvoní
+0077D4DF|1|Odpojeno
+0077D4DF|1|Nelze najít
+0078A7DF|1|Vyhledat
+0078A7DF|1|Zastavit
+0078A7DF|1|Zpět
+0077D4DF|1|Hudba
+0077D4DF|1|Oprávnění
+0077D4DF|1|Ještě chvilku
+00781893|1|Spárujte náramek s aplikací
+00781893|1|Povolte aplikaci přístup k oznámením
+0079376F|1|Povolte aplikaci přístup k oznámením
+0078A7DF|1|Nespárováno
+0077D4DF|1|Nepřehrává se
+0077D4DF|1|Odpojeno
+0077D4DF|1|Oprávnění
+0077D4DF|1|Fotoaparát
+0079D695|1|Otevřete Fotoaparát na telefonu
+0077D4DF|1|Nespárováno
+0079376F|1|Odpojeno
+00781893|1|Přejděte do Zařízení > Fotoaparát v aplikaci
+00781893|1|Spárujte náramek s aplikací
+0079D695|1|Zapnout
+0078A7DF|1|Žádné události
+0077D4DF|1|Podrobnosti
+0077D4DF|1|Podrobnosti
+0079376F|1|Zapněte funkci Události v aplikaci
+0079376F|1|Odložit o 10 minut
+0079376F|1|Odložit o 10 minut
+0079376F|1|Odložit o 10 minut
+0079376F|1|Odložit o 10 minut
+0079376F|1|Odložit o 10 minut
+0079376F|1|Odložit o 10 minut
+0079376F|1|Odložit o 10 minut
+0077D4DF|1|Stopky
+007BF521|1|%02d
+0079376F|1|Stopky nemohou běžet na pozadí. Ukončit?
+0077D4DF|1|Časovač
+007B2B82|1|%d
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|min.
+007B968B|1|hod.
+007B968B|1|hod.
+007B968B|1|hod.
+007B968B|1|hod.
+007B968B|1|hod.
+007B968B|1|hod.
+007B968B|1|hod.
+007B968B|1|hod.
+0078A7DF|1|Vlastní
+0077D4DF|1|Nedávné
+0079B1F4|1|%02d:%02d:%02d
+00781893|1|Vlastní
+0077D4DF|1|Počasí
+0077D4DF|1|Předpověď
+007BFFE7|1|25°
+0077D4DF|1|Kvalita vzduchu
+00781893|1|AQI
+007A058D|1|Zacvičte si
+0077D4DF|1|Indexy
+007B968B|1| 
+007ABE43|1|UV index
+007ABE43|1|Vlhkost
+0077D4DF|1|Východ a západ slunce
+0077D4DF|1|Místa
+007C0832|1|Dobrou noc
+0079376F|1|Režim Nerušit zapnutý. Zvednutím probudit vypnuto.
+0078A7DF|1|Zavřít
+0078A7DF|1|Délka
+0079B1F4|1|%02d:%02d
+0078A7DF|1|Spánek
+007AFC31|1|%d hod. %d min.
+007BA895|1|%d℃/%d℃
+0077D4DF|1|SpO₂
+007C32AC|1|98
+0078A7DF|1|Změřit
+0078A7DF|1|Žádná data
+007C6C72|1|98%
+0079D695|1|Mějte náramek nasazen nad zápěstní kůstkou.
+0079D695|1|Utáhněte řemínek a zkuste to znovu
+0079D695|1|Nehýbejte se
+007A729B|1|98%
+007A20C0|1|SpO₂
+00787BA0|1|85%
+0078A7DF|1|Podrobnosti
+0078A7DF|1|Zavřít
+0077D4DF|1|Celodenní sledování
+0077D4DF|1|Upozornění
+0077D4DF|1|Více
+0077D4DF|1|Celodenní sledování
+0079D695|1|Vyp.
+0079D695|1|80%
+00781893|1|Provádějte měření ve chvílích, kdy se nehýbete
+0078A7DF|1|Mějte náramek nasazen nad zápěstní kůstkou.
+0078A7DF|1|Mějte náramek pohodlně utažen a nehýbejte se.
+00791503|1|Tato funkce není určena pro lékařské účely.
+0079D695|1|SpO₂ představuje procento kyslíku v krvi.
+0079D695|1|Výsledky měření běžně přesahují 95% v době, kdy jste aktivní nebo 90 % během spánku. Pokud hladina kyslíku ve vaší krvi klesne pod 90 % poraďte se se svým lékařem o vhodných opatřeních.
+0079D695|1|Náramek podporuje rozsah měření 75–100%.
+0079D695|1|Přesnost a spolehlivost měření může být ovlivněna několika faktory. Mezi tyto faktory patří např. prokrvení kůže, trvalé nebo dočasné změny na kůži, pohyb nebo poloha během spánku. Všechny výše uvedené faktory mohou mít za následek falešně nízkou hodnotu kyslíku v krvi. Nezapomeňte, že tato funkce není určena pro lékařské účely. Pokud se necítíte dobře, vyhledejte lékařskou pomoc.
+0077D4DF|1|Výstrahy
+0077D4DF|1|Cvičení
+0077D4DF|1|Kategorie
+0077D4DF|1|Více
+0077D4DF|1|Vodní sporty
+0077D4DF|1|Plavání v bazénu
+0077D4DF|1|Otevřená voda
+0077D4DF|1|Plachtění
+0077D4DF|1|Paddleboarding
+0077D4DF|1|Vodní pólo
+0077D4DF|1|Vodní lyžování
+0077D4DF|1|Jízda na kajaku
+0077D4DF|1|Rafting
+0077D4DF|1|Veslování
+0077D4DF|1|Motorový člun
+0077D4DF|1|Ploutvové plavání
+0077D4DF|1|Skoky do vody
+0077D4DF|1|Synchronizované plavání
+0077D4DF|1|Šnorchlování
+0077D4DF|1|Kitesurfing
+0077D4DF|1|Venkovní aktivity
+0077D4DF|1|Venkovní běh
+0077D4DF|1|Chůze
+0077D4DF|1|Pěší turistika
+0077D4DF|1|Jízda na kole
+0077D4DF|1|Pěší turistika
+0077D4DF|1|Terénní běh
+0077D4DF|1|Horolezectví
+0077D4DF|1|Skateboarding
+0077D4DF|1|Kolečkové brusle
+0077D4DF|1|Parkour
+0077D4DF|1|Čtyřkolky
+0077D4DF|1|Paragliding
+0077D4DF|1|Volný styl
+0077D4DF|1|Běžecký pás
+0077D4DF|1|Švihadlo
+0077D4DF|1|HIIT
+0077D4DF|1|Jóga
+0077D4DF|1|Jízda v hale
+0077D4DF|1|Eliptický trenažér
+0077D4DF|1|Veslování
+0077D4DF|1|Fitness schody
+0077D4DF|1|Stepper
+0077D4DF|1|Core trénink
+0077D4DF|1|Flexibilita
+0077D4DF|1|Pilates
+0077D4DF|1|Gymnastika
+0077D4DF|1|Strečink
+0077D4DF|1|Silový trénink
+0077D4DF|1|Kruhový trénink
+0077D4DF|1|Běh do schodů
+0077D4DF|1|Aerobik
+0077D4DF|1|Fitness
+0077D4DF|1|Wall ball
+0077D4DF|1|Jednoruční činky
+0077D4DF|1|Činky
+0077D4DF|1|Vzpírání
+0077D4DF|1|Mrtvý tah
+0077D4DF|1|Angličáky
+0077D4DF|1|Sedy-lehy
+0077D4DF|1|Funkční trénink
+0077D4DF|1|Horní část těla
+0077D4DF|1|Dolní část těla
+0077D4DF|1|Břišní svalstvo
+0077D4DF|1|Záda
+0077D4DF|1|Tanec
+0077D4DF|1|Tančení v parku
+0077D4DF|1|Břišní tance
+0077D4DF|1|Balet
+0077D4DF|1|Street dance
+0077D4DF|1|Zumba
+0077D4DF|1|Lidový tanec
+0077D4DF|1|Jazzový tanec
+0077D4DF|1|Latinskoamerické tance
+0077D4DF|1|Bojové sporty
+0077D4DF|1|Box
+0077D4DF|1|Zápas
+0077D4DF|1|Bojová umění
+0077D4DF|1|Tchaj-ťi
+0077D4DF|1|Muaythai
+0077D4DF|1|Judo
+0077D4DF|1|Taekwondo
+0077D4DF|1|Karate
+0077D4DF|1|Kickbox
+0077D4DF|1|Kendó
+0077D4DF|1|Sportovní šerm
+0077D4DF|1|Míčové sporty
+0077D4DF|1|Tenis
+0077D4DF|1|Basketbal
+0077D4DF|1|Fotbal
+0077D4DF|1|Volejbal
+0077D4DF|1|Baseball
+0077D4DF|1|Softball
+0077D4DF|1|Americký fotbal
+0077D4DF|1|Hokej
+0077D4DF|1|Stolní tenis
+0077D4DF|1|Badminton
+0077D4DF|1|Kriket
+0077D4DF|1|Házená
+0077D4DF|1|Bowling
+0077D4DF|1|Squash
+0077D4DF|1|Kulečník
+0077D4DF|1|Košíček
+0077D4DF|1|Plážový fotbal
+0077D4DF|1|Plážový volejbal
+0077D4DF|1|Sepak takraw
+0077D4DF|1|Zimní sporty
+0077D4DF|1|Bruslení
+0077D4DF|1|Curling
+0077D4DF|1|Ostatní zimní sporty
+0077D4DF|1|Sněžný skútr
+0077D4DF|1|Lední hokej
+0077D4DF|1|Boby
+0077D4DF|1|Sáňkování
+0077D4DF|1|Rekreační sporty
+0077D4DF|1|Lukostřelba
+0077D4DF|1|Šipky
+0077D4DF|1|Jízda na koni
+0077D4DF|1|Přetahování lanem
+0077D4DF|1|Hula hoop
+0077D4DF|1|Pouštění draků
+0077D4DF|1|Rybaření
+0077D4DF|1|Létající talíř
+0077D4DF|1|Ostatní
+0077D4DF|1|Jezdectví
+0077D4DF|1|Atletika
+0077D4DF|1|Automobilové sporty
+0079D695|1|Žádný
+0078D92D|1|%02d:%02d:%02d
+0078D92D|1|%d.%d
+007C88F2|1|km
+0078D92D|1|%d'%d"
+00791503|1|Lehká
+00791503|1|Intenzivní
+00791503|1|Aerobní
+00791503|1|Anaerobní
+00791503|1|VO₂ max
+0079B1F4|1|%d
+007C88F2|1|kcal
+007C88F2|1|kroků/min.
+007C88F2|1|krok
+007C88F2|1|krok
+007C88F2|1|krok
+007C88F2|1|krok
+007C88F2|1|krok
+007C88F2|1|krok
+007C88F2|1|kroky
+007C88F2|1|kroky
+007C88F2|1|kroku
+007C88F2|1|kroků
+007C88F2|1|krok
+007C88F2|1|krok
+007C88F2|1|kroky
+007C88F2|1|kroky
+007C88F2|1|kroku
+007C88F2|1|kroků
+0079B1F4|1|0
+00791503|1|/km
+007C88F2|1|km/h
+007C88F2|1|délka
+007C88F2|1|délka
+007C88F2|1|délka
+007C88F2|1|délka
+007C88F2|1|délka
+007C88F2|1|délka
+007C88F2|1|délky
+007C88F2|1|délky
+007C88F2|1|délek
+007C88F2|1|délek
+007C88F2|1|délka
+007C88F2|1|délka
+007C88F2|1|délky
+007C88F2|1|délky
+007C88F2|1|délek
+007C88F2|1|délek
+007C88F2|1|tempo
+007C88F2|1|temp
+007C88F2|1|přeskok
+007C88F2|1|přeskok
+007C88F2|1|přeskok
+007C88F2|1|přeskok
+007C88F2|1|přeskoky
+007C88F2|1|přeskoky
+007C88F2|1|přeskoku
+007C88F2|1|přeskoků
+007C88F2|1|tempo
+007C88F2|1|tempo
+007C88F2|1|tempa
+007C88F2|1|tempa
+007C88F2|1|tempa
+007C88F2|1|temp
+007C88F2|1|temp/min.
+007A058D|1|/km
+007A058D|1|km pozadu
+007C9A77|1|%u'%02u''
+0077D4DF|1|Míra stresu
+007A12B6|1|Vyšší
+0077D4DF|1|Podrobnosti
+0079D695|1|Nízká
+0079D695|1|Normální
+0079D695|1|Vyšší
+0079D695|1|Vysoká
+0077D4DF|1|Posledních 7 dní
+007B8FE3|1|05.12
+0078A7DF|1|Žádná data
+00791503|1|Vyšší
+0077D4DF|1|Celodenní měření
+0077D4DF|1|Připomenutí odpočinku
+0078A7DF|1|Zap.
+0077D4DF|1|Celodenní měření
+0077D4DF|1|Zap./Vyp.
+00791503|1|Měření během sezení
+00791503|1|Zobrazit výzvu k provedení dechového cvičení, pokud míra stresu zůstane vyšší než 80 po dobu, kdy jste vzhůru
+0077D4DF|1|Více
+0078A7DF|1|Stres je přirozeným mechanismem, kterým vaše tělo reaguje na vypjaté situace.
+0078A7DF|1|Náramek měří stres v době, kdy nejste aktivní.\nÚrovně:\nNízká: 1–25\nNormální: 25–50\nVyšší: 51–80\nVysoká: 81–100.\nTato funkce není určena pro lékařské účely.
+0078A7DF|1|Měření může být ovlivněno nízkou teplotou, prokrvením kůže, apod.
+00787BA0|1|99.0
+0078A7DF|1|Dýchání
+0079376F|1|Srdeční tep
+0079376F|1|Budík
+0079376F|1|SpO₂
+0079376F|1|Nastavení
+0079376F|1|Počasí
+0079376F|1|Přidat zařízení
+0079376F|1|Statistiky
+0077D4DF|1|Smazat styl displeje náramku?
+0077D4DF|1|Pro uložení změn potáhněte po displeji doprava.
+0077D4DF|1|Shrnutí
+0077D4DF|1|Srdeční tep
+0077D4DF|1|Tempo
+0077D4DF|1|Rytmus
+0078A7DF|1|Více podrobností v aplikaci
+0077D4DF|1|Rychlost
+0077D4DF|1|Počet temp
+0077D4DF|1|Švihadlo
+0077D4DF|1|Frekvence
+0077D4DF|1|SWOLF
+0077D4DF|1|Pěší turistika
+0078D92D|1|2:23.1
+0077D4DF|1|Tempa
+0077D4DF|1|Statistiky
+0077D4DF|1|Stání
+0077D4DF|1|V pohybu
+0077D4DF|1|Baterie
+0077D4DF|1|Datum
+0077D4DF|1|UV
+0078A7DF|1|Synchronizuji
+0077D4DF|1|Synchronizace se nezdařila
+0077D4DF|1|Chyba
+00781893|1|Odeberte styl displeje náramku a zkuste to znovu
+0077D4DF|1|Uložit změny?
+0077D4DF|1|Jednou
+0079D695|1|Jednou
+0077D4DF|1|Po
+0077D4DF|1|Út
+0077D4DF|1|St
+0077D4DF|1|Čt
+0077D4DF|1|Pá
+0077D4DF|1|So
+0077D4DF|1|Ne
+0079D695|1| 
+0079D695|1|P
+0079D695|1|Ú
+0079D695|1|S
+0079D695|1|Č
+0079D695|1|P
+0079D695|1|S
+0079D695|1|N
+0079D695|1|Denně
+0079376F|1|Spánek
+0079376F|1|Stopky
+0079376F|1|Dýchání
+0079376F|1|Cyklus
+0079376F|1|Míra stresu
+0079376F|1|Cvičení
+00781893|1|Naskenujte pro stažení
+0079376F|1|Spárovat s telefonem?
+0077D4DF|1|Dohled
+0078A7DF|1|Stání
+0077D4DF|1|Odložení
+0077D4DF|1|Budík je vypnut
+0077D4DF|1|Zmeškané
+0079B1F4|1|%02lu:%02lu
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+0078A7DF|1| 
+007B5432|1|8000
+007A20C0|1|krok
+007A20C0|1|krok
+007A20C0|1|krok
+007A20C0|1|krok
+007A20C0|1|kroky
+007A20C0|1|kroky
+007A20C0|1|kroku
+007A20C0|1|kroků
+007B5432|1|500
+007A20C0|1|kcal
+007A20C0|1|kcal
+007A20C0|1|kcal
+007A20C0|1|kcal
+007A20C0|1|kcal
+007A20C0|1|kcal
+007A20C0|1|kcal
+007B5432|1|30
+007A20C0|1|min.
+007A20C0|1|min.
+007A20C0|1|min.
+007A20C0|1|min.
+007A20C0|1|min.
+007A20C0|1|min.
+007A20C0|1|min.
+007A20C0|1|min.
+007B5432|1|12
+007A20C0|1|tempo
+007A20C0|1|tempo
+007A20C0|1|tempo
+007A20C0|1|tempo
+007A20C0|1|tempa
+007A20C0|1|tempa
+007A20C0|1|tempa
+007A20C0|1|temp
+0079D695|1|"Kroky" ukazují váš denní počet kroků.
+0079D695|1|"Kalorie" představují počet aktivních kalorií, které spálíte pohybem a cvičením.
+0079D695|1|Funkce "V pohybu" vyjadřuje čas, který strávíte prováděním aktivit s mírnou či intenzivní zátěží.
+0079D695|1|"Stání" ukazuje hodiny, během kterých jste se postavili a pohybovali se.
+00791503|1|km/h
+0077D4DF|1|80%
+0077D4DF|1|85%
+0077D4DF|1|90%
+0077D4DF|1|Cvičení
+0077D4DF|1|Kalorie
+0077D4DF|1|Kroky
+0077D4DF|1|Srdeční tep
+0077D4DF|1|Míra stresu
+0077D4DF|1|Budík
+0077D4DF|1|Počasí
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+0079D695|1|%u km
+007ABE43|1|%u km
+007ABE43|1|%u m
+007ABE43|1|%u m
+007ABE43|1|%u m
+007ABE43|1|%u m
+007ABE43|1|%u m
+007ABE43|1|%u m
+007ABE43|1|%u m
+0079D695|1|%u min.
+0079D695|1|%u min.
+0079D695|1|%u kcal
+007ABE43|1|%u kcal
+007ABE43|1|%u min.
+0079D695|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+0079D695|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007ABE43|1|%u
+007A12B6|1| 
+0077D4DF|1|Tempa
+0077D4DF|1|50 m
+007ABE43|1|Lehká
+007ABE43|1|VO₂ max
+007ABE43|1|Aerobní
+007ABE43|1|Anaerobní
+0077D4DF|1|%u km
+0077D4DF|1|%u km/h
+0077D4DF|1|%u tepů/min.
+0079D695|1|Hotovo
+00783D82|1|km
+0077D4DF|1|%
+0079D695|1|%d.%d km
+007ABE43|1|%d'%02d"
+0077D4DF|1|Focus
+0077D4DF|1|Rest
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0078D92D|1|%02d:%02d
+007907E3|1|%02d:%02d
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|před %d min.
+007B968B|1|Právě teď
+007B968B|1|Právě teď
+007B968B|1|před %02d min.
+007B968B|1|před %02d min.
+007B968B|1|před %02d min.
+007B968B|1|před %02d min.
+007B968B|1|Změřeno: %02d:%02d
+0078A7DF|1|Klidový: %02d
+0078A7DF|1|Klidový: --
+0077D4DF|1|30 min.
+0078A7DF|1| 
+00787BA0|1| 
+00787BA0|1| 
+0078A7DF|1| 
+0077D4DF|1|40 tepů/min.
+0077D4DF|1|45 tepů/min.
+0077D4DF|1|50 tepů/min.
+0077D4DF|1|110 tepů/min.
+0077D4DF|1|120 tepů/min.
+0077D4DF|1|130 tepů/min.
+0077D4DF|1|140 tepů/min.
+0077D4DF|1|150 tepů/min.
+007C0832|1|Čas vypršel
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d hod.
+00781893|1|%d min.
+00781893|1|%d min.
+00781893|1|%d min.
+00781893|1|%d min.
+00781893|1|%d min.
+00781893|1|%d min.
+00781893|1|%d min.
+00781893|1|%d min.
+007A20C0|1|Zacvičte si
+0078A7DF|1|Rozhýbejte se!
+0077D4DF|1|Vypnout dnešní připomenutí postavení?
+0079D695|1|Vyp.
+0079D695|1|100 tepů/min.
+0079D695|1|110 tepů/min.
+0079D695|1|120 tepů/min.
+0079D695|1|130 tepů/min.
+0079D695|1|140 tepů/min.
+0079D695|1|150 tepů/min.
+0079D695|1|40 tepů/min.
+0079D695|1|45 tepů/min.
+0079D695|1|50 tepů/min.
+0079D695|1|Zap.
+0079D695|1|Vyp.
+0079D695|1|1 min.
+0079D695|1|10 min.
+0079D695|1|30 min.
+0079D695|1|Autom.
+007C9A77|1|%d%%
+0079376F|1|Aktivity
+0079376F|1|Mi AI
+0079376F|1|Karty
+0079376F|1|Oznámení
+0079376F|1|Události
+0079376F|1|Hudba
+0079376F|1|Fotoaparát
+0079376F|1|Časovač
+0079376F|1|Svítilna
+0079376F|1|Najít telefon
+0079376F|1|Nápověda
+007C88F2|1|"Zvednutím probudit" zapnuto
+007C88F2|1|"Zvednutím probudit" vypnuto
+007C88F2|1|Režim Nerušit zap.
+007C88F2|1|Režim Nerušit vyp.
+0077D4DF|1|Shrnutí
+0079D695|1|Žádná data
+0078A7DF|1|Více podrobností v aplikaci
+007A729B|1|--
+0079D695|1|%d
+0079D695|1|%d
+0079D695|1|%d
+0079D695|1|%d
+0079D695|1|%d
+0079D695|1|%d
+0079D695|1|%d
+0079D695|1|%d–%d tepů/min.
+00787BA0|1|%d-%d
+00787BA0|1|%02d:%02d-%02d:%02d
+007CB05E|1|%d
+0078D92D|1|%02d:%02d:%02d
+0078D92D|1|:
+0078D92D|1|%02d:%02d.%02d
+007BA895|1|%02d:%02d:%02d.%02d
+007CB860|1|%02d:%02d:%02d.%02d
+007CB860|1|%02d:%02d.%02d
+00781893|1|%02u-%02u %02u:%02u
+0078D92D|1|%02u:%02u:%02u
+007BA895|1|%lu.%02lu
+00781893|1|km
+0077D4DF|1|Cíl
+007ABE43|1|%u%%
+007ABE43|1|Dokončeno
+007BA895|1|%lu
+007ABE43|1|Cíl
+007ABE43|1|Aktivní kcal
+007BA895|1|%lu'%02lu''
+007ABE43|1|Prům. tempo
+007ABE43|1|Kroky
+007ABE43|1|Prům. tepů/min.
+007ABE43|1|Prům. kroků/min.
+007A729B|1|%u'%02u''
+007B8FE3|1|%02u:%02u
+007A729B|1|%u
+0078A7DF|1|Více podrobností v aplikaci
+0078A7DF|1|Zpět
+007ABE43|1|Cíl
+007ABE43|1|Dokončeno
+007ABE43|1|Cíl
+007ABE43|1|Dokončeno
+007ABE43|1|Cíl
+007ABE43|1|Dokončeno
+007ABE43|1|Cíl
+007ABE43|1|Dokončeno
+007ABE43|1|Cíl
+007ABE43|1|Dokončeno
+007ABE43|1|m
+007ABE43|1|m
+007ABE43|1|m
+007ABE43|1|m
+007ABE43|1|m
+007ABE43|1|m
+007ABE43|1|m
+007ABE43|1|kcal
+007ABE43|1|kcal
+007ABE43|1|kcal
+007ABE43|1|kcal
+007ABE43|1|kcal
+007ABE43|1|kcal
+007ABE43|1|kcal
+007ABE43|1|délka
+007ABE43|1|přeskok
+007ABE43|1|tempo
+007ABE43|1|délka
+007ABE43|1|délka
+007ABE43|1|délka
+007ABE43|1|délky
+007ABE43|1|délky
+007ABE43|1|délky
+007ABE43|1|délek
+007ABE43|1|přeskok
+007ABE43|1|přeskok
+007ABE43|1|přeskok
+007ABE43|1|přeskoky
+007ABE43|1|přeskoky
+007ABE43|1|přeskoku
+007ABE43|1|přeskoků
+007ABE43|1|temp
+007ABE43|1|tempo
+007ABE43|1|tempo
+007ABE43|1|tempa
+007ABE43|1|tempa
+007ABE43|1|tempa
+007ABE43|1|temp
+00787BA0|1|1 min.
+007B8FE3|1|%u
+0077D4DF|1|Žádné údaje
+0079D695|1|Dnes
+0079D695|1|Zítra
+0079D695|1|Vyp.
+0078A7DF|1|Další
+0078A7DF|1|Zapněte funkci Predikce menstruace v aplikaci
+007ABE43|1|Právě teď
+007ABE43|1|před %d min.
+007ABE43|1|před %d min.
+007ABE43|1|před %d min.
+007ABE43|1|před %d min.
+007ABE43|1|před %d min.
+007ABE43|1|před %d min.
+007ABE43|1|před %d min.
+007ABE43|1|%d:%02d
+007ABE43|1|Včera, %d:%02d
+007ABE43|1|%02d/%02d %d:%02d
+00787BA0|1|%d oznámení
+00787BA0|1|%d oznámení
+00787BA0|1|%d oznámení
+00787BA0|1|%d oznámení
+00787BA0|1|%d oznámení
+00787BA0|1|%d oznámení
+00787BA0|1|%d oznámení
+0078A7DF|1|Smazat
+007B8FE3|1|00:00
+007B8FE3|1|12:00
+007B8FE3|1|24:00
+0079D695|1|Celý den
+0078A7DF|1|Celodenní sledování vypnuto.
+0078A7DF|1|Utáhněte řemínek a zkuste to znovu
+007B8FE3|1|%02u:%02u
+007BA895|1|%02u:%02u-%02u:%02u
+0077D4DF|1|Výstrahy
+0079D695|1|Náramek vás upozorní, pokud jsou výsledky měření pod nastavenou hodnotou. Podrobnosti můžete zobrazit v aplikaci. Pokud se necítíte dobře, vyhledejte lékařskou pomoc.
+0078A7DF|1|Nehýbejte se
+0078A7DF|1|Dokončeno 50%
+0078A7DF|1|Kalibrace
+0078A7DF|1|Během měření se nehýbejte
+0078A7DF|1|Utáhněte řemínek a zkuste to znovu
+0078A7DF|1|Utáhněte řemínek a zkuste to znovu
+007C88F2|1|m
+0078A7DF|1|Pro aktualizaci počasí se připojte k aplikaci
+00791503|1|Vyberte oblast v aplikaci
+007B444E|1|%d
+0077D4DF|1|Ještě chvilku
+0079D695|1|Dobrá
+0079D695|1|Průměrná
+0079D695|1|Slabé znečištění
+0079D695|1|Nezdravá
+0079D695|1|Nebezpečná
+0079D695|1|Hazardní
+00787BA0|1|Dobrá
+00787BA0|1|Průměrná
+00787BA0|1|Slabé znečištění
+00787BA0|1|Nezdravá
+00787BA0|1|Nebezpečná
+00787BA0|1|Hazardní
+00781893|1|Proměnlivý vítr
+00781893|1|Vichřice
+00781893|1|S vítr
+00781893|1|SV vítr
+00781893|1|V vítr
+00781893|1|JV vítr
+00781893|1|J vítr
+00781893|1|JZ vítr
+00781893|1|Z vítr
+00781893|1|SZ vítr
+0077D4DF|1|Jasno
+0077D4DF|1|Oblačno
+0077D4DF|1|Zataženo
+0077D4DF|1|Přeháňky
+0077D4DF|1|Bouřka
+0077D4DF|1|Krupobití
+0077D4DF|1|Déšť se sněhem
+0077D4DF|1|Slabý déšť
+0077D4DF|1|Mírný déšť
+0077D4DF|1|Silný déšť
+0077D4DF|1|Bouřka s deštěm
+0077D4DF|1|Průtrž
+0077D4DF|1|Přívalový déšť
+0077D4DF|1|Vánice
+0077D4DF|1|Slabé sněžení
+0077D4DF|1|Mírné sněžení
+0077D4DF|1|Silné sněžení
+0077D4DF|1|Vánice
+0077D4DF|1|Mlha
+0077D4DF|1|Mrznoucí déšť
+0077D4DF|1|Písečná bouře
+0077D4DF|1|Slabý až mírný déšť
+0077D4DF|1|Mírný až silný déšť
+0077D4DF|1|Silný déšť až bouřky
+0077D4DF|1|Bouřky až přívalový déšť
+0077D4DF|1|Přívalový déšť až silné bouřky
+0077D4DF|1|Slabé až mírné sněžení
+0077D4DF|1|Mírné až silné sněžení
+0077D4DF|1|Silné sněžení až vánice
+0077D4DF|1|Prašno
+0077D4DF|1|Větrno
+0077D4DF|1|Silná písečná bouře
+0077D4DF|1|Mlha
+0077D4DF|1|Hustá mlha
+0077D4DF|1|Lehký opar
+0077D4DF|1|Mírný opar
+0077D4DF|1|Silný opar
+0077D4DF|1|Těžký opar
+0077D4DF|1|Mlha
+0077D4DF|1|Těžká mlha
+0077D4DF|1|Žádné
+0077D4DF|1|Déšť
+0077D4DF|1|Sněžení
+00781893|1|Dnes
+00781893|1|Po
+00781893|1|Út
+00781893|1|St
+00781893|1|Čt
+00781893|1|Pá
+00781893|1|So
+00781893|1|Ne
+007B5432|1|%d%%
+007B5432|1|%d
+00781893|1|UV index
+00781893|1|Vlhkost
+007C32AC|1|%02d:%02d
+007CC699|1|%02d:%02d
+00781893|1|Vypnout Režim spánku v %02d:%02d
+0077D4DF|1|Upozornění na nepravidelný tep vyžaduje 1minutovou frekvenci měření. Pokračovat?
+007ABE43|1|Max. tepů/min.
+007ABE43|1|Cvičení
+007ABE43|1|Odpočinek
+007ABE43|1|Série
+007ABE43|1|Tempa
+007ABE43|1|Přeskoky
+007ABE43|1|Rychlost
+007ABE43|1|Počet temp
+007ABE43|1|Délek
+007ABE43|1|Hlavní styl
+007ABE43|1|Prům. SWOLF
+007ABE43|1|Prům. temp/min.
+007BA895|1|%02lu:%02lu:%02lu
+007AFC31|1|Prsa
+007AFC31|1|Kombinovaný
+007AFC31|1|Volný styl
+007AFC31|1|Znak
+007AFC31|1|Motýlek
+007BA895|1|%lu.%lu
+0079D695|1|Max.
+0079D695|1|Max.
+007BF521|1|%u
+0077D4DF|1|Série
+0077D4DF|1|On
+0078A7DF|1|Zvednutím probudit bude vypnuto, pokud si náramek sundáte nebo pokud usnete.
+007CD693|1|℃
+007CD693|1|℉
+007A12B6|1|%d:%02d
+007C32AC|1|%u'%02u''
+007B2B82|1|%u'%02u''
+0078A7DF|1|Cíl: %u' %02u''
+007C0832|1|%u km/h
+0078A7DF|1|Cíl: %u km/h
+007B2B82|1|%u
+0078A7DF|1|Cílový ST: %d–%d
+00787BA0|1|%d
+0078A7DF|1|Threshold: %d BPM
+007B2B82|1|--
+007BA895|1|%d℉/%d℉
+0078A7DF|1|Rozumím
+0079B1F4|1|%u
+007BE519|1|%%
+0079376F|1|Slabá baterie %u %%. Nabijte náramek.
+0079D695|1|VO₂ max
+0079D695|1|Anaerobní
+0079D695|1|Intenzivní
+0079D695|1|Aerobní
+0079D695|1|Lehká
+007B8FE3|1|%02lu:%02lu:%02lu
+0077D4DF|1|%02lu:%02lu:%02lu
+007A12B6|1|tepů/min.
+007CB860|1|%u
+007AFC31|1|%d℃/%d℃
+007AFC31|1|%d℉/%d℉
+0078A7DF|1|%d℃/%d℃
+0078A7DF|1|%d℉/%d℉
+007AFC31|1|℃
+007AFC31|1|℉
+007AFC31|1|-
+0078A7DF|1|-
+0078A7DF|1|Jízda na kole
+0078A7DF|1|Veslování
+0077D4DF|1|Připojte se k aplikaci a zkuste to znovu
+0077D4DF|1|Začátečník
+0077D4DF|1|Vytrvalost
+0077D4DF|1|Intervalový
+0077D4DF|1|Základní běh/chůze
+0077D4DF|1|Pokročilý běh/chůze
+0077D4DF|1|Základní jogging
+0077D4DF|1|Základní
+0077D4DF|1|Pokročilý
+0077D4DF|1|MIIT
+0077D4DF|1|Základní
+0077D4DF|1|Pokročilý
+0077D4DF|1|Základní
+0077D4DF|1|Pokročilý
+00791503|1|Kombinace chůze a joggingu v intervalech.
+00791503|1|Kombinace chůze a joggingu v intervalech.
+00791503|1|Jogging nízké a střední intenzity.
+00791503|1|Kratší běh vhodný pro spalování tuků.
+00791503|1|Středně intenzivní prodloužený běh pro spalování tuků.
+00791503|1|Středně intenzivní intervalový trénink.
+00791503|1|Středně dlouhý vytrvalostní běh.
+00791503|1|Delší vytrvalostní běh.
+00791503|1|Kratší intervalový trénink pro posílení srdce a plic.
+00791503|1|Delší intervalový trénink pro posílení srdce a plic.
+0077D4DF|1|%02u/%02u
+0077D4DF|1|Nyní
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Za %u min.
+0077D4DF|1|Zpožděné
+0078A7DF|1|Po 
+0078A7DF|1|Út 
+0078A7DF|1|St 
+0078A7DF|1|Čt 
+0078A7DF|1|Pá 
+0078A7DF|1|So 
+0078A7DF|1|Ne 
+0078A7DF|1|%u/%u 
+0078A7DF|1|%02u:%02u 
+0078A7DF|1|Dnes 
+0078A7DF|1|Zítra 
+007C32AC|1|02d%:02d%
+007A058D|1|km napřed
+007B2B82|1|--'--"
+0078D92D|1|--'--"
+0078A7DF|1|%02u:%02u-
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u hod.
+0077D4DF|1|Za %u den
+0077D4DF|1|Za %u den
+0077D4DF|1|Za %u den
+0077D4DF|1|Za %u den
+0077D4DF|1|Za %u dny
+0077D4DF|1|Za %u dny
+0077D4DF|1|Za %u dne
+0077D4DF|1|Za %u dní
+007A20C0|1|Slabá baterie
+00791503|1|Běh
+00781893|1|%d min.
+00781893|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079376F|1|Příprava aktualizace
+0079376F|1|Aktualizace se nezdařila.\nZkuste to znovu.
+007CB860|1|%
+0078A7DF|1|Délka
+00791503|1|Nízká
+00791503|1|Normální
+00791503|1|Vysoká
+0078A7DF|1|Celodenní měření vypnuto.
+0078A7DF|1|%02u:%02u dop.–
+0078A7DF|1|%02u:%02u odp.–
+0078A7DF|1|%02u:%02u dop.
+0078A7DF|1|%02u:%02u odp.
+0079376F|1|Zavolám později.
+0079376F|1|Nemohu teď mluvit. O co jde?
+0079376F|1|Nemohu teď mluvit. Zavolejte mi prosím později.
+007CD724|1|--
+0078D92D|1|%u%%
+0079D695|1|Cíl
+0078D92D|1|%u
+0079376F|1|km
+0079376F|1|kcal
+0079376F|1|délka
+0079376F|1|délka
+0079376F|1|délka
+0079376F|1|délky
+0079376F|1|délky
+0079376F|1|délky
+0079376F|1|délek
+0079376F|1|tempo
+0079376F|1|tempo
+0079376F|1|tempo
+0079376F|1|tempa
+0079376F|1|tempa
+0079376F|1|tempa
+0079376F|1|temp
+0079376F|1|přeskok
+0079376F|1|přeskok
+0079376F|1|přeskok
+0079376F|1|přeskoky
+0079376F|1|přeskoky
+0079376F|1|přeskoku
+0079376F|1|přeskoků
+007BCA53|1|Nový rekord!
+0078D92D|1|%02u:%02u:%02u
+007CB860|1|%lu.%lu.%lu
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %lu.%lu km
+0079D695|1|Cíl: %02u:%02u:%02u
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u kcal
+0079D695|1|Cíl: %u délka
+0079D695|1|Cíl: %u délka
+0079D695|1|Cíl: %u délka
+0079D695|1|Cíl: %u délka
+0079D695|1|Cíl: %u délky
+0079D695|1|Cíl: %u délky
+0079D695|1|Cíl: %u délky
+0079D695|1|Cíl: %u délek
+0079D695|1|Cíl: %u tempo
+0079D695|1|Cíl: %u tempo
+0079D695|1|Cíl: %u tempo
+0079D695|1|Cíl: %u tempa
+0079D695|1|Cíl: %u tempa
+0079D695|1|Cíl: %u tempa
+0079D695|1|Cíl: %u temp
+0079D695|1|Cíl: %u přeskok
+0079D695|1|Cíl: %u přeskok
+0079D695|1|Cíl: %u přeskok
+0079D695|1|Cíl: %u přeskoky
+0079D695|1|Cíl: %u přeskoky
+0079D695|1|Cíl: %u přeskoku
+0079D695|1|Cíl: %u přeskoků
+0078A7DF|1|Náramek vás upozorní, jakmile váš srdeční tep přesáhne nastavenou hodnotu. Stres zvyšuje srdeční tep.
+0078A7DF|1|Náramek vás upozorní, když váš srdeční tep klesne pod nastavenou hodnotu. Během spánku se vaše tepová frekvence zpomaluje.\nPokud se necítíte dobře, vyhledejte lékařskou pomoc.
+00787BA0|1|Vysoký ST
+00787BA0|1|Nízký ST
+0077D4DF|1|Více
+00787BA0|1|Jogging
+00787BA0|1|Běh
+00787BA0|1|Sprint
+0078D92D|1|%d
+0079881C|1|Jogging
+0079881C|1|Běh
+0079881C|1|Sprint
+00791503|1|Běh
+00791503|1|Sprint
+0078D92D|1|%02d
+007B2B82|1|%02d
+007B2B82|1|:
+0078A7DF|1|Více podrobností v aplikaci
+0077D4DF|1|Gratulujeme!
+0078A7DF|1|Hotovo
+0078A7DF|1|Pokračovat (%lu s)
+0077D4DF|1|Cvičení
+0079D695|1|Čas
+0079D695|1|Srdeční tep
+007C9A77|1|%lu.%02lu
+007CD766|1|Autom.
+00783D82|1|Autom.
+0077D4DF|1|Úspěšně nastaveno
+0078A7DF|1|Rozumím
+0077D4DF|1|Přehřívání zařízení. Vypínání.
+007ABE43|1|prům.
+00787BA0|1|Slabá baterie
+0078A7DF|1|dop.
+0078A7DF|1|odp.
+007BA895|1|%lu:%02lu
+007ABE43|1|%u,%02u km
+007ABE43|1|%u,%02u km
+007ABE43|1|%u,%02u km
+0078A7DF|1|Režim Nerušit bude zapnut, pokud si náramek sundáte nebo pokud usnete.
+00781893|1|Upozornit, pokud výsledky měření SpO₂ během dne klesnou pod nastavenou hodnotu
+007B968B|1|%d:%02d dop.
+007B968B|1|%d:%02d odp.
+007B968B|1|Včera, %d:%02d dop.
+007B968B|1|Včera, %d:%02d odp.
+007B968B|1|%02d/%02d, %d:%02d dop.
+007B968B|1|%02d/%02d, %d:%02d odp.
+0079376F|1|Běh
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u kcal
+00791503|1|Cíl: %u krok
+00791503|1|Cíl: %u krok
+00791503|1|Cíl: %u krok
+00791503|1|Cíl: %u kroky
+00791503|1|Cíl: %u kroky
+00791503|1|Cíl: %u kroku
+00791503|1|Cíl: %u kroků
+00791503|1|Cíl: %u tempo
+00791503|1|Cíl: %u tempo
+00791503|1|Cíl: %u tempo
+00791503|1|Cíl: %u tempa
+00791503|1|Cíl: %u tempa
+00791503|1|Cíl: %u tempa
+00791503|1|Cíl: %u temp
+00791503|1|Cíl: %u min.
+00791503|1|Cíl: %u min.
+00791503|1|Cíl: %u min.
+00791503|1|Cíl: %u min.
+00791503|1|Cíl: %u min.
+00791503|1|Cíl: %u min.
+00791503|1|Cíl: %u min.
+007ADBA2|1|0123456789•
+007ABE43|1|Dnes
+0077D4DF|1|Menstruace za %u den
+0077D4DF|1|Menstruace za %u den
+0077D4DF|1|Menstruace za %u den
+0077D4DF|1|Menstruace za %u dny
+0077D4DF|1|Menstruace za %u dny
+0077D4DF|1|Menstruace za %u dne
+0077D4DF|1|Menstruace za %u dní
+0077D4DF|1|Menstruace za %u den
+0077D4DF|1|Menstruace za %u den
+0077D4DF|1|Menstruace za %u den
+0077D4DF|1|Menstruace za %u dny
+0077D4DF|1|Menstruace za %u dny
+0077D4DF|1|Menstruace za %u dne
+0077D4DF|1|Menstruace za %u dní
+0077D4DF|1|Plodné období za %u den
+0077D4DF|1|Plodné období za %u den
+0077D4DF|1|Plodné období za %u den
+0077D4DF|1|Plodné období za %u dny
+0077D4DF|1|Plodné období za %u dny
+0077D4DF|1|Plodné období za %u dne
+0077D4DF|1|Plodné období za %u dní
+00791503|1|Naskenujte pro nápovědu
+007ABE43|1|Včera
+007ABE43|1|Před 2 dny
+0078A7DF|1|Utáhněte řemínek
+0077D4DF|1|Více
+007AFC31|1|Neznámé
+007A20C0|1|Základní běh/chůze
+007A20C0|1|Pokročilý běh/chůze
+007A20C0|1|Základní jogging
+007A20C0|1|Základní
+007A20C0|1|Pokročilý
+007A20C0|1|MIIT
+007A20C0|1|Základní
+007A20C0|1|Pokročilý
+007A20C0|1|Základní
+007A20C0|1|Pokročilý
+007A20C0|1|Vysoká
+0078A7DF|1|Dýchání
+0078A7DF|1|Chůze
+0077D4DF|1|Povolit náramku odemknout váš telefon?
+0077D4DF|1|Povoleno
+0077D4DF|1|Povolení se nezdařilo
+0077D4DF|1|Nápověda
+0077D4DF|1|Dohled
+00787BA0|1|Model
+00787BA0|1|CMIIT ID
+007A058D|1|led
+007A058D|1|úno
+007A058D|1|bře
+007A058D|1|dub
+007A058D|1|kvě
+007A058D|1|čer
+007A058D|1|čvc
+007A058D|1|srp
+007A058D|1|zář
+007A058D|1|říj
+007A058D|1|lis
+007A058D|1|pro
+0079D695|1|Menstruace za 1 den
+0079D695|1|Menstruace za 2 dny
+0079D695|1|Menstruace za %u den
+0079D695|1|Menstruace za %u den
+0079D695|1|Menstruace za %u den
+0079D695|1|Menstruace za %u dny
+0079D695|1|Menstruace za %u dny
+0079D695|1|Menstruace za %u dne
+0079D695|1|Menstruace za %u dní
+0079D695|1|Ovulace za 1 den
+0079D695|1|Ovulace za 2 dny
+0079D695|1|Ovulace za %u den
+0079D695|1|Ovulace za %u den
+0079D695|1|Ovulace za %u den
+0079D695|1|Ovulace za %u dny
+0079D695|1|Ovulace za %u dny
+0079D695|1|Ovulace za %u dne
+0079D695|1|Ovulace za %u dní
+0077D4DF|1|Zap./Vyp.
+0077D4DF|1|Zap./Vyp.
+007A20C0|1|Zmeškaný hovor
+0078A7DF|1|Rozumím
+0078A7DF|1|Povolte aplikaci běžet na pozadí
+0078A7DF|1|Pro nastavení Amazon Alexa přejděte do aplikace
+0078A7DF|1|Přihlaste se ke svému Amazon účtu v aplikaci
+0078A7DF|1|Na náramku nelze přehrát zvuk ani video
+0078A7DF|1|Připojování…
+0078A7DF|1|Poslouchám…
+0078A7DF|1|Přemýšlím…
+0078A7DF|1|Set a timer for 2 minutes
+0078A7DF|1|What's the weather?
+00781893|1|%02d:%02d-%02d:%02d
+00781893|1|%02d:%02d-%02d:%02d
+007A12B6|1|Nízká
+007A12B6|1|Normální
+007A12B6|1|Vysoká
+007A20C0|1|Vyšší
+0077D4DF|1|Denně
+0077D4DF|1|Připojení se nezdařilo
+0077D4DF|1|Chyba sítě
+0077D4DF|1|Vyžadováno nastavení
+0077D4DF|1|Přihlásit se
+007B968B|1|Tempa
+0078A7DF|1|Prům.
+007A12B6|1|kroků/min.
+007A12B6|1|km/h
+007A12B6|1|přeskoků/min.
+0077D4DF|1|Více
+0078A7DF|1|Slabá baterie. Svítilna vypnuta.
+0078A7DF|1|Zavřít
+007A729B|1|%.1f
+007BF521|1|%.1f
+007A729B|1|%u:%02u'%02u"
+007BF521|1|%u:%02u'%02u"
+007BA895|1|%u:%02u'%02u"
+00791503|1|Přehrávání zvuku
+00787BA0|1|PIN kódy se neshodují
+00787BA0|1|Zadejte PIN
+00787BA0|1|Nový PIN
+0078A7DF|1|Připojení se nezdařilo
+0078A7DF|1|Chyba sítě
+0078A7DF|1|Vyžadováno nastavení
+0078A7DF|1|Přihlásit se
+0078A7DF|1|Nedostupné
+007ADBA2|1|Nový PIN
+007ADBA2|1|Potvrďte PIN
+007ADBA2|1|   PIN kódy se neshodují  
+007ADBA2|1|Zadejte PIN
+00783D82|1|%d
+007CD766|1|%d
+0079D695|1|%d hod. %d min.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d hod.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079D695|1|%d min.
+0079376F|1|%d'%02d"
+007ABE43|1|%02u/%02u
+007ABE43|1|%02u:%02u
+007AFC31|1|--℃/--℃
+007AFC31|1|--℉/--℉
+0078A7DF|1|--℃/--℃
+0078A7DF|1|--℉/--℉
+0079D695|1|Dosaženo cíle
+0079D695|1|Dosaženo cíle
+0079D695|1|Dosaženo cíle "V pohybu"
+0079D695|1|Dosaženo cíle "Stání"
+0079D695|1|Dosaženo cíle "Kroky"
+0079D695|1|Dosaženo cíle "Kalorie"
+0079D695|1|Dosaženo cíle
+0079D695|1|Dosaženo cíle
+0079D695|1|Dosáhli jste všech cílů
+0079D695|1|Dobrá práce
+0079D695|1|Dosaženo cílů
+0079D695|1|Dosaženo cíle
+007A12B6|1|km/h
+007A12B6|1|/km
+0077D4DF|1|dop.
+0077D4DF|1|odp.
+0077D4DF|1|Příliš krátká vzdálenost pro uložení záznamu.
+00787BA0|1|(Žádný název)
+0079D695|1|Zapomněli jste PIN?
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za %d s
+0079376F|1|Zkuste to znovu za 5 min.
+0079376F|1|Zkuste to znovu za 10 min.
+0079376F|1|Resetujte PIN v aplikaci
+0079D695|1|Rozumím
+007ADBA2|1|Pro odemknutí zadejte PIN
+0079D695|1|%d oznámení
+0079D695|1|%d oznámení
+0079D695|1|%d oznámení
+0079D695|1|%d oznámení
+0079D695|1|%d oznámení
+0079D695|1|%d oznámení
+0079D695|1|%d oznámení
+007CFC71|1|--:--
+0077D4DF|1|Alexa
+0079376F|1|Nedostupné
+0079D695|1|Amazon Alexa není dostupná v zemi, ve které byl váš účet vytvořen
+0079D695|1|Zkontrolujte síťové připojení
+0077D4DF|1|Můžete to prosím zopakovat?
+0079D695|1|Začněte vyslovením:
+00791503|1|Po
+00791503|1|Út
+00791503|1|St
+00791503|1|Čt
+00791503|1|Pá
+00791503|1|So
+00791503|1|Ne
+007ABE43|1|%u km/h
+0077D4DF|1|Párování
+0079376F|1|Spárování se nezdařilo
+007ADBA2|1|Pro odemknutí zadejte PIN
+007ADBA2|1|Pro odemknutí zadejte PIN
+007B968B|1|%d℃/%d℃
+007B968B|1|%d℉/%d℉
+0079D695|1|%d
+007C9A77|1|%02d:%02d.%02d
+0079376F|1|m
+0079D695|1|Připojte náramek k aplikaci
+007B968B|1|-
+0078A7DF|1|Více podrobností v aplikaci
+0077D4DF|1|Contact customer support to get your device repaired
+00781893|1|Nepřetržité sledování srdečního tepu po celý den
+0079376F|1|PIN nastaven
+00781893|1|Přijímat upozornění na spuštění nebo ukončení běhu, chůze a veslování.
+0077D4DF|1|Načítání
+007A058D|1|.
+007A12B6|1|.
+007B8FE3|1|.
+007CFC71|1|.
+007ABE43|1|.
+007B968B|1|.
+007CFCEC|1|.
+007CFD10|1|.
+00781893|1|.
+00791503|1|.
+007CFD3B|1|.
+007CB05E|1|.
+0079D695|1|.
+0078A7DF|1|.
+007BF521|1|.
+007CD693|1|.
+007CD724|1|.
+007C88F2|1|.
+007CFD61|1|.
+007BFFE7|1|.
+007ADBA2|1|.
+00787BA0|1|.
+007CFD8C|1|.
+007CFDB7|1|.
+0079376F|1|.
+0077D4DF|1|.
+007CB860|1|.
+007BE519|1|.
+007CFDE5|1|.
+007CFE10|1|.
+007907E3|1|.
+007CFE34|1|.
+007BCA53|1|.
+007AFC31|1|.
+007CC699|1|.
+007B444E|1|.
+007CFE6C|1|.
+007A20C0|1|.
+007C9A77|1|.
+007B5432|1|.
+007D08EF|1|.
+007C0832|1|.
+007D0923|1|.
+007B2B82|1|.
+007BD783|1|.
+007CD766|1|.
+007C6C72|1|.
+007BA895|1|.
+007D204F|1|.
+00783D82|1|.
+007A729B|1|.
+0079B1F4|1|.
+0077D4DF|1|hod.
+0077D4DF|1|min.
+0078A7DF|1|Dnes již nezobrazovat
+0079376F|1|Nedostupné
+0079D695|1|Amazon Alexa není dostupná v zemi, ve které byl váš účet vytvořen
+0078A7DF|1|Veslování
+0078A7DF|1|Eliptický trenažér
+0078A7DF|1|Švihadlo
+0077D4DF|1|Skvělý výkon
+0079D695|1| 
+0079D695|1| 
+0079D695|1|Cílová
+0079D695|1|Zbývá
+0079D695|1|Cílový
+0079D695|1|Zbývá
+0079D695|1|Cílový počet
+0079D695|1|Zbývá
+0079D695|1|Cílový počet
+0079D695|1|Zbývá
+0077D4DF|1|Čas
+0077D4DF|1|Vzdálenost
+0077D4DF|1|Délek
+0077D4DF|1|Tempa
+0077D4DF|1|Přeskoky
+007A12B6|1| 
+007ABE43|1|%d:%02d
+007ABE43|1|%d min.
+007ABE43|1|%dmin. %02ds
+0077D4DF|1|Aplikace
+00787BA0|1|Fitness
+00787BA0|1|Základní
+00787BA0|1|Počasí
+00787BA0|1|Nástroje
+0077D4DF|1|Stopky
+0077D4DF|1|Časovač
+0077D4DF|1|Fotoaparát
+0077D4DF|1|Karty
+0079376F|1|Příliš krátký čas pro uložení záznamu.
+007D2087|1|Stopky
+007D2087|1|Časovač
+007CD766|1|%d℃
+007CD766|1|%d℉
+007CD766|1|-
+007CD766|1|--℃
+007CD766|1|--℉
+0078A7DF|1|Ještě chvilku
+007AFC31|1|Dýchání
+007CD766|1|--
+0077D4DF|1|Autom
+0077D4DF|1|Vlastní
+007CD766|1|%d%%
+0078A7DF|1|Ještě chvilku
+0078A7DF|1|Nepřehrává se
+0078A7DF|1|Odpojeno
+007A058D|1|Potáhněte nahoru pro čárový kód
+007A058D|1|Potáhněte dolů pro QR kód
+007D2087|1|Veslování
+007D2087|1|Chůze
+007D2087|1|HIIT
+007D2087|1|Jízda na kole
+007D2087|1|Jízda v hale
+007D2087|1|Švihadlo
+007D2087|1|Pěší turistika
+007D2087|1|Pěší turistika
+007D2087|1|Eliptický trenažér
+007D2087|1|Venkovní běh
+007D2087|1|Plavání v bazénu
+007D2087|1|Běžecký pás
+007D2087|1|Terénní běh
+007D2087|1|Volný styl
+007D0923|1|%lu
+007C6C72|1|%lu
+0078A7DF|1|Žádná data
+007CD766|1|--
+0078A7DF|1|min.
+0077D4DF|1|SpO₂
+0079D695|1|Včera jste dosáhli nastaveného cíle. Jen tak dál!
+0079D695|1|Včera jste dosáhli 2 ze 3 nastavených cílů. Opřete se do toho!
+0079D695|1|Včera jste nedosáhli nastaveného cíle. Zkuste to dnes znovu!
+0079D695|1|Vaše cíle jsou na dosah ruky - opřete se do toho!
+0079D695|1|Pro dosažení cíle zbývá 1000 kroků.
+0079D695|1|Pro dosažení cíle zbývá 50 kcal.
+0079D695|1|Stále máte čas dosáhnout dnešního cíle. Nevzdávejte to!
+0079D695|1|Pro dosažení cíle se dnes ještě alespoň dvakrát postavte.
+0079D695|1|Pro dosažení cíle se dnes ještě alespoň jednou postavte.
+0079D695|1|Včera jste dosáhli nastaveného cíle. Jen tak dál!
+0079D695|1|Včera jste dosáhli 2 ze 3 nastavených cílů. Opřete se do toho!
+0079D695|1|Včera jste nedosáhli nastaveného cíle. Zkuste to dnes znovu!
+0079D695|1|Vaše cíle jsou na dosah ruky - opřete se do toho!
+0079D695|1|Pro dosažení cíle zbývá 1000 kroků.
+0079D695|1|Pro dosažení cíle zbývá 50 kcal.
+0079D695|1|Ještě kousek a jste v cíli!
+0079D695|1|Pro dosažení cíle se dnes ještě alespoň dvakrát postavte.
+0079D695|1|Pro dosažení cíle se dnes ještě alespoň jednou postavte.
+007CFE6C|1|Dosaženo cíle!
+0079376F|1|Do toho!
+0079376F|1|Statistiky
+007ABE43|1|Vlastní
+0079376F|1|Spárování se nezdařilo
+00781893|1|Opakovat
+0079D695|1|Spárovat
+0079376F|1|Potvrďte na telefonu
+0079376F|1|Párování...
+0079376F|1|Spárováno
+00781893|1|Naskenujte pro stažení aplikace
+00781893|1|Potvrďte na telefonu
+007D451B|1|繁體中文
+0079376F|1|English
+0079376F|1|Deutsch
+007D4E22|1|한국어
+007D53EF|1|עברית
+007D57BF|1|ไทย
+007D59F3|1|日本語
+007D6026|1|العربية
+0079376F|1|Italiano
+0079376F|1|Français
+0079376F|1|Español
+0079376F|1|Polski
+0079376F|1|Українська
+0079376F|1|Čeština
+0079376F|1|Русский
+0079376F|1|Nederlands
+0079376F|1|Português PT
+0079376F|1|Türkçe
+0079376F|1|Română
+0079376F|1|Eλληνικά
+0079376F|1|Português BR
+0079376F|1|Indonesia
+0079376F|1|Tiếng Việt
+0079376F|1|Norsk bokmål
+0079376F|1|Suomi
+0079376F|1|Svenska
+0079376F|1|Dansk
+007ABE43|1|Vyp.
+007ABE43|1|%d sekunda
+007ABE43|1|%d sekunda
+007ABE43|1|%d sekunda
+007ABE43|1|%d sekundy
+007ABE43|1|%d sekundy
+007ABE43|1|%d sekundy
+007ABE43|1|%d sekund
+0078A7DF|1|%u/%u/%u 
+00787BA0|1|Xiaomi Smart Band 7 Pro
+0078A7DF|1|OK
+007ADBA2|1|If the number of words is too long, please check it on the APP side
+0077D4DF|1|Snowboarding
+0077D4DF|1|Lyžování
+007A20C0|1|Snowboarding
+007A20C0|1|Lyžování
+00781893|1|Vlastní
+0077D4DF|1|Syncing
+0079376F|1|Preparing update
+007ABE43|1|VO₂ max
+00781893|1|Vysoká
