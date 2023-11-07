@@ -1,0 +1,2071 @@
+00BA6BC0|1|Inställningar
+00BA6BC0|1|Armbandsskärmar
+00BA6BC0|1|Skärm
+00BA6BC0|1|Vibration
+00BAA857|1|Standard
+00BAA857|1|Stark
+00BA6BC0|1|Automatisk detektering
+00BAA857|1|Avaktiverad
+00BAA857|1|Aktiverad
+00BA6BC0|1|Stör ej
+00BAA857|1|Avaktiverad
+00BAA857|1|Smart
+00BAA857|1|Hela dagen
+00BA6BC0|1|Applayout
+00BAA857|1|Ikon-läge
+00BAA857|1|List-läge
+00BA6BC0|1|PIN
+00BA6BC0|1|System
+00BA6BC0|1|Om band
+00BA6BC0|1|Ljusstyrka
+00BA6BC0|1|Visas alltid
+00BA6BC0|1|Autolås
+00BA6BC0|1|Täck för att sova
+00BA6BC0|1|Lyft för att väcka
+00BAA857|1|Auto
+00BAC8EA|1|Auto
+00BA6BC0|1|Avaktiverad
+00BA6BC0|1|Smart
+00BA6BC0|1|Schemalagd
+00BA6BC0|1|Hela dagen
+00BA6BC0|1|Läs mer
+00BAFB62|1|Visas alltid
+00BAFB62|1|Smart
+00BB248A|1|Tiden kommer att visas även när skärmen är låst.
+00BB248A|1|Funktionen "Visas alltid" kommer att stängas av när du sover eller tar av ditt band.
+00BA6BC0|1|Det här kommer att påverka batteritiden, fortsätta?
+00BA6BC0|1|Starta
+00BA6BC0|1|Slut
+00BA6BC0|1|Status
+00BB5103|1|-%d
+00BB7FB9|1|%d
+00BA6BC0|1|Känslighet
+00BAA857|1|Smart
+00BAC8EA|1|Hög
+00BAC8EA|1|Standard
+00BA6BC0|1|Det här kommer att påverka batteritiden, fortsätta?
+00BB8CD9|1|s
+00BB8CD9|1|m
+00BA6BC0|1|Automatisk detektering
+00BA6BC0|1|Tränings-\nmätning
+00BB248A|1|Jag förstår
+00BB248A|1|Jag förstår
+00BAA857|1|Stäng av Oregelbunden hjärtrytm för att ställa in en övervakningsfrekvens.
+00BB7FB9|1|%d:%02d
+00BBA8BF|1|Det här kommer att påverka batteritiden, fortsätta?
+00BA6BC0|1|Avaktiverad
+00BA6BC0|1|Smart
+00BB248A|1|Funktionen "Visas alltid" kommer att stängas av när du sover eller tar av ditt band.
+00BA6BC0|1|Ikon-läge
+00BA6BC0|1|List-läge
+00BA6BC0|1|System
+00BA6BC0|1|Starta om
+00BA6BC0|1|Avaktivera
+00BA6BC0|1|Återställ
+00BA6BC0|1|Starta om nu?
+00BA6BC0|1|Stäng av nu?
+00BBA8BF|1|Radera all data?
+00BAFB62|1|Namn
+00BAFB62|1|Modell
+00BAFB62|1|MAC-adress
+00BAFB62|1|Versionsnr.
+00BAFB62|1|Serienummer
+00BAFB62|1|Reglerande
+00BA6BC0|1|Vibration
+00BBF2EA|1|Stark
+00BAC8EA|1|Standard
+00BAC8EA|1|Stark
+00BC1945|1|%d
+00BAA857|1|%d/%d
+00BA6BC0|1|Uppvärmning
+00BB248A|1|Klar
+00BB5103|1|%2d:%2d:%2d
+00BA6BC0|1|Träning
+00BB5103|1|%d
+00BC3DE6|1|Mål-roddtag
+00BC3DE6|1|Återstående
+00BB248A|1|Hoppa över
+00BA6BC0|1|Vila
+00BC3DE6|1|Vila
+00BC3DE6|1|Återstående
+00BA6BC0|1|Avslappning
+00BB248A|1|Avsluta
+00BA6BC0|1|Löpning
+00BA6BC0|1|Fettförbränning
+00BA6BC0|1|Avancerad nivå
+00BC3DE6|1|Introduktion
+00BC3DE6|1|Träningsplan
+00BB8CD9|1|Promenera
+00BB8CD9|1|Grundläggande joggning
+00BB248A|1|Starta
+00BA6BC0|1|Senaste
+00BBF2EA|1|Promenera
+00BAFB62|1|Mål-puls
+00BB248A|1|%d~%dbpm
+00BAFB62|1|Promenera
+00BB5103|1|%d:%02d
+00BC3DE6|1|Timer
+00BC6697|1|Slag/min
+00BA6BC0|1|Det verkar som om du tränar
+00BB248A|1|Utomhus
+00BB248A|1|Löpband
+00BB248A|1|Avfärda ( s%ds)
+00BB248A|1|km
+00BB248A|1|Pausa
+00BB248A|1|Fortsätt
+00BBA8BF|1|Träningens avstånd var för kort för att registerföra. Avsluta?
+00BBA8BF|1|Träningens tid var för kort för att registerföra. Avsluta?
+00BB248A|1|Fortsätt
+00BB248A|1|Avsluta
+00BA6BC0|1|Kalibrering
+00BB5103|1|.
+00BC7468|1|km
+00BBA8BF|1|Skärmen låser sig när du startar
+00BA6BC0|1|Andning
+00BC8181|1|Andning
+00BA6BC0|1|Tid
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BCC33F|1|%d
+00BCE73D|1|%d
+00BC8181|1|Slappna av
+00BB248A|1|Fokusera på din andning
+00BC8181|1|Då testar vi
+00BB248A|1|Följ bubblan
+00BC8181|1|Andas in
+00BC8181|1|Andas ut
+00BC8181|1|Bra jobbat
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BB248A|1|Session: %d min
+00BA6BC0|1|Reslutat
+00BB248A|1|Aktuell puls
+00BCC33F|1|89
+00BC7468|1|Slag/min
+00BB248A|1|Start-puls
+00BB248A|1|Session
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BC7468|1|min
+00BA6BC0|1|Inställningar
+00BA6BC0|1|Mål
+00BA6BC0|1|Intervall
+00BA6BC0|1|Varningar
+00BA6BC0|1|Poollängd
+00BA6BC0|1|Autopaus
+00BC3DE6|1|Obestämt
+00BD0EE7|1|1,5 km
+00BA6BC0|1|Obestämt
+00BA6BC0|1|Distans
+00BA6BC0|1|Tid
+00BA6BC0|1|Kalorier
+00BA6BC0|1|Hopp
+00BA6BC0|1|Längder
+00BC3DE6|1|5 km
+00BA6BC0|1|Intervall kommer att stängas av. Fortsätta?
+00BA6BC0|1|Träningsmål kommer att tas bort. Fortsätta?
+00BA6BC0|1|Distans
+00BA6BC0|1|Tid
+00BA6BC0|1|Kalorier
+00BA6BC0|1|Hopp
+00BA6BC0|1|Längder
+00BC7468|1|m
+00BC7468|1|kcal
+00BC7468|1| 
+00BC7468|1| 
+00BA6BC0|1|Set
+00BA6BC0|1|Vila
+00BC7468|1|s
+00BC7468|1| 
+00BA6BC0|1|Distans
+00BA6BC0|1|Tempo
+00BA6BC0|1|Hastighet
+00BA6BC0|1|Pulszon
+00BA6BC0|1|Hög puls
+00BB248A|1|Stäng av alla
+00BD0EE7|1|Avaktiverad
+00BD0EE7|1|Intensiv
+00BA6BC0|1|Stegräknare
+00BB5103|1|5'00"
+00BC1945|1|4'50"
+00BA6BC0|1|%d km/h
+00BC7468|1|km/h
+00BA6BC0|1|Avaktiverad
+00BA6BC0|1|Lätt
+00BA6BC0|1|Intensiv
+00BA6BC0|1|Aerob
+00BA6BC0|1|Anaerob
+00BA6BC0|1|VO₂ max
+00BD0EE7|1|%u–%u slag/minut
+00BA6BC0|1|Hög puls
+00BC7468|1|Slag/min
+00BA6BC0|1|25 m
+00BA6BC0|1|Anpassad
+00BA6BC0|1|Anpassad
+00BC7468|1|m
+00BA6BC0|1|Ställ in PIN-kod
+00BD28E0|1|Ange PIN-kod
+00BD28E0|1|Bekräfta PIN-kod
+00BD28E0|1|Fel
+00BA6BC0|1|Radera all data?
+00BA6BC0|1|Avaktivera PIN-kod
+00BA6BC0|1|Ändra PIN-kod
+00BA6BC0|1|Ändrad PIN-kod
+00BA6BC0|1|PIN-kod avaktiverad
+00BAA857|1|Ditt band kommer automatiskt att låsas när du tar av dig det.
+00BD4746|1|Skynda på
+00BD4746|1|Fortsätt
+00BD4746|1|Sakta ned
+00BD71C1|1|%u'%02u''
+00BC8181|1|Hög puls
+00BB248A|1|Kalorier
+00BD8A8D|1|345
+00BB248A|1|Steg
+00BB248A|1|Rörelse
+00BD9A71|1|323
+00BA6BC0|1|Steg
+00BC7468|1| 
+00BA6BC0|1|Stå
+00BA6BC0|1|Rörelse
+00BA6BC0|1|Påminnelser
+00BAFB62|1|Steg
+00BAFB62|1|Kalorier
+00BD28E0|1|Stå
+00BD28E0|1|Rörelse
+00BA6BC0|1|Sömn
+00BDAD14|1|10
+00BD4746|1|h
+00BD4746|1|m
+00BB248A|1|Mål:
+00BDD622|1|24:33
+00BB248A|1|Inga data
+00BAFB62|1|Sömn
+00BB248A|1|1. För att spåra REM-sömn behöver du starta Avancerad övervakning. \n2. Dra åt bandet.\n3. Pulsen och SpO₂ läses av beroende på rörelser, sömnkvalité med mera.
+00BC8181|1|h
+00BC8181|1|m
+00BB248A|1|Inga data
+00BA6BC0|1|Avancerad övervakning
+00BA6BC0|1|Andningspoäng
+00BA6BC0|1|Andningspoäng
+00BAA857|1|Spåra REM-sömn
+00BA6BC0|1|Andningspoäng
+00BAA857|1|Övervaka andning under natten
+00BA6BC0|1|Sömn
+00BC3DE6|1|Genomsn. puls
+00BA6BC0|1| 
+00BC3DE6|1|Genomsn. SpO₂
+00BA6BC0|1|Tupplur
+00BA6BC0|1|Puls
+00BDD622|1|126
+00BDDCCA|1|%dm sedan
+00BDDCCA|1|%dm sedan
+00BDDCCA|1|%dm sedan
+00BDDCCA|1|%d m sedan
+00BDDCCA|1|%d m sedan
+00BDDCCA|1|%d m sedan
+00BDDCCA|1|%d m sedan
+00BA6BC0|1|Hög puls
+00BA6BC0|1|Låg puls
+00BA6BC0|1|Oregelbunden puls
+00BA6BC0|1|Pulszon
+00BC3DE6|1|VO₂ max
+00BC3DE6|1|VO₂ max
+00BC3DE6|1|Anaerob
+00BC3DE6|1|Intensiv
+00BC3DE6|1|Lätt
+00BC3DE6|1|Relaxed
+00BC3DE6|1|Relaxed
+00BA6BC0|1|%02d:%02d
+00BB248A|1|Mäter
+00BDEDAA|1|144-224
+00BDDCCA|1|Slag/min
+00BDEDAA|1|12: 24-12: 25
+00BB248A|1|Försök igen
+00BB248A|1|Mått
+00BAFB62|1|Puls
+00BB248A|1|Pulsen är det antal gånger som hjärtat slår per minut (slag/minut).\nVanligen är en vilopuls på 40 till 100 slag/minut. Men det varierar med ålder och kön, samt andra faktorer.\n Ditt band stöder mellan 30 - 220 slag/ min.
+00BA6BC0|1|Läs mer
+00BB248A|1|Dra åt bandet och försök igen
+00BA6BC0|1|Tips
+00BB248A|1|Fäst bandet över handledsbenet.
+00BB248A|1|Håll bandet nära och stilla.
+00BB248A|1|Uppmätningen beror på låg temperatur, hudens beskaffenhet, med mera.
+00BB8CD9|1|Den här funktionen är inte avsedd för medicinska syften.
+00BB248A|1|Kontinuerlig övervakning är avstängd.
+00BB248A|1|Aktivera
+00BA6BC0|1|Kontinuerlig övervakning
+00BA6BC0|1|Oregelbundna slag/min
+00BA6BC0|1|På/av
+00BA6BC0|1|Hög puls
+00BA6BC0|1|Låg puls
+00BAA857|1|Stäng av Oregelbundna slag/min. för att ställa in en övervakningsfrekvens.
+00BA6BC0|1|1 min
+00BA6BC0|1|10 min
+00BA6BC0|1|Auto
+00BA6BC0|1|Tips
+00BB248A|1|Measure heart rate every 10 mins
+00BAFB62|1|Auto
+00BB248A|1|Öka övervakningsfrekvensen under träningspass
+00BA6BC0|1|Oregelbundna slag/min
+00BAA857|1|Få varningar för oregelbundna hjärtslag
+00BA6BC0|1|Det här kommer att påverka batteritiden, fortsätta?
+00BA6BC0|1|100 slag/min
+00BC8181|1|Låg puls
+00BAFB62|1|12: 30-12: 40
+00BB248A|1|Detaljer
+00BC8181|1|Oregelbunden hjärtrytm
+00BC8181|1|Mäter
+00BB248A|1|Var still
+00BB248A|1|Uppmätt: %02d:%02d
+00BB248A|1|Försök igen
+00BC3DE6|1|Goal hit
+00BC3DE6|1|Goal hit
+00BC3DE6|1|Goal hit
+00BC3DE6|1|Goal hit
+00BC8181|1|Uppnådda mål
+00BC3DE6|1|Bravo!
+00BC8181|1|Rör på dig!
+00BC8181|1|Ställ dig upp
+00BB248A|1|Res på dig och gå runt
+00BBA8BF|1|Anslut din telefon för att uppdatera GPS-information.
+00BBA8BF|1|Lagringen är full. Kan inte registerföra det här träningspasset.
+00BA6BC0|1|GPS
+00BC8181|1|Löpning utomhus
+00BBA8BF|1|Lokaliserar. Gå till en öppen plats och vänta med att påbörja träningen.
+00BB248A|1|Vänta
+00BB248A|1|Starta
+00BBA8BF|1|Träna i ett öppet område
+00BB248A|1|Avfärda
+00BA6BC0|1|Cykler
+00BDDCCA|1|%u/%u/%u
+00BA6BC0|1|Prognoser
+00BC3DE6|1|Fertil
+00BA6BC0|1|05.23-06.23
+00BE0F68|1|Ägglossningsdag
+00BE1E1F|1|Menstruation
+00BA6BC0|1|Läs mer
+00BB248A|1|Logga cykel-information i appen
+00BAFB62|1|1. Färger
+00BB248A|1|Menstruation
+00BA6BC0|1|Menstruationsdag %d
+00BB248A|1|Uppskattad menstruation
+00BA6BC0|1|Menstruationsdag %d
+00BB248A|1|Fertil
+00BB248A|1|Fertilitetsperiod dag %d
+00BB248A|1|Ägglossningsdag
+00BA6BC0|1|Ägglossningsdag
+00BAFB62|1|2. Tips
+00BB248A|1|Ju mer du läser av, ju träffsäkrare påminnelser får du.
+00BC8181|1|Simma i pool
+00BC8181|1|Öppet vatten
+00BC8181|1|Segling
+00BC8181|1|Paddelsurfing
+00BC8181|1|Vattenpolo
+00BC8181|1|Vattensporter
+00BC8181|1|Vattenskidåkning
+00BC8181|1|Kajakpaddling
+00BC8181|1|Forsränning
+00BC8181|1|Rodd
+00BC8181|1|Motorbåtsport
+00BC8181|1|Fensimning
+00BC8181|1|Simhopp
+00BC8181|1|Konstsim
+00BC8181|1|Snorkling
+00BC8181|1|Draksurfning
+00BC8181|1|Gång
+00BC8181|1|Vandring
+00BC8181|1|Cykling utomhus
+00BC8181|1|Trekking
+00BC8181|1|Terränglöpning
+00BC8181|1|Bergsklättring
+00BC8181|1|Skateboard
+00BC8181|1|Rullskridskor
+00BC8181|1|Parkour
+00BC8181|1|Terränghjuling
+00BC8181|1|Skärmflygning
+00BC8181|1|Fristil
+00BC8181|1|Löpband
+00BC8181|1|Hopprep
+00BC8181|1|HIIT
+00BC8181|1|Yoga
+00BC8181|1|Cykling inomhus
+00BC8181|1|Elliptisk träningsmaskin
+00BC8181|1|Roddmaskin
+00BC8181|1|Trappmaskin
+00BC8181|1|Stegmaskin
+00BC8181|1|Core-träning
+00BC8181|1|Flexibilitet
+00BC8181|1|Pilates
+00BC8181|1|Gymnastik
+00BC8181|1|Stretchning
+00BC8181|1|Styrka
+00BC8181|1|Cross-träning
+00BC8181|1|Trappklättring
+00BC8181|1|Aerob träning
+00BC8181|1|Fysisk träning
+00BC8181|1|Väggboll
+00BC8181|1|Hantel
+00BC8181|1|Skivstång
+00BC8181|1|Tyngdlyftning
+00BC8181|1|Marklyft
+00BC8181|1|Burpee
+00BC8181|1|Situps
+00BC8181|1|Funktionell träning
+00BC8181|1|Överkropp
+00BC8181|1|Underkropp
+00BC8181|1|Magmuskler
+00BC8181|1|Tillbaka
+00BC8181|1|Parkdans
+00BC8181|1|Magdans
+00BC8181|1|Balett
+00BC8181|1|Streetdance
+00BC8181|1|Zumba
+00BC8181|1|Folkdans
+00BC8181|1|Jazzdans
+00BC8181|1|Latinamerikansk dans
+00BC8181|1|Boxning
+00BC8181|1|Brottning
+00BC8181|1|Kampsport
+00BC8181|1|Tai chi
+00BC8181|1|Muay Thai
+00BC8181|1|Judo
+00BC8181|1|Taekwondo
+00BC8181|1|Karate
+00BC8181|1|Kickboxning
+00BC8181|1|Kendo
+00BC8181|1|Fäktning
+00BC8181|1|Tennis
+00BC8181|1|Basketboll
+00BC8181|1|Fotboll
+00BC8181|1|Volleyboll
+00BC8181|1|Baseboll
+00BC8181|1|Softboll
+00BC8181|1|Amerikansk fotboll
+00BC8181|1|Hockey
+00BC8181|1|Bordstennis
+00BC8181|1|Badminton
+00BC8181|1|Cricket
+00BC8181|1|Handboll
+00BC8181|1|Bowling
+00BC8181|1|Squash
+00BC8181|1|Biljard
+00BC8181|1|Fjäderboll
+00BC8181|1|Strandfotboll
+00BC8181|1|Strandvolleyboll
+00BC8181|1|Sepak takraw
+00BC8181|1|Skridskoåkning
+00BC8181|1|Curling
+00BC8181|1|Övriga vintersporter
+00BC8181|1|Snöskoter
+00BC8181|1|Ishockey
+00BC8181|1|Bob
+00BC8181|1|Kälksport
+00BC8181|1|Bågskytte
+00BC8181|1|Dart
+00BC8181|1|Hästridning
+00BC8181|1|Dragkamp
+00BC8181|1|Rockring
+00BC8181|1|Flyga drake
+00BC8181|1|Fiske
+00BC8181|1|Frisbee
+00BC8181|1|Ridsporter
+00BC8181|1|Friidrott
+00BC8181|1|Bilsport
+00BAA857|1|Få påminnelser om att börja och avsluta löprundor och promenader, samt även träning på löpband och rodd- och hopprepsträning.
+00BB248A|1|Snooza
+00BA6BC0|1|Synkroniserar
+00BA6BC0|1|Underrättelser
+00BB248A|1|Inga underrättelser
+00BB248A|1|Svara
+00BB248A|1|Skicka
+00BA6BC0|1|Skickat
+00BA6BC0|1|Kunde inte skicka
+00BBA8BF|1|Tillåt den här appen att skicka SMS-meddelanden
+00BBA8BF|1|Tillåt den här appen att läsa dina kontakter
+00BA6BC0|1|Skickar
+00BE2C8A|1|Alarm
+00BC3DE6|1|Inga alarm
+00BC3DE6|1|Tid
+00BC3DE6|1|Upprepa
+00BA6BC0|1|Redigera
+00BA6BC0|1|Tid
+00BA6BC0|1|Upprepa
+00BB248A|1|Ta bort
+00BB248A|1|OK
+00BC3DE6|1|FM
+00BC3DE6|1|EM
+00BB248A|1|Snooza
+00BB248A|1|Avbryt
+00BB248A|1|Kan inte lägga till alarm
+00BC3DE6|1|Lägg till max 10 alarm
+00BA6BC0|1|Hitta telefon
+00BA6BC0|1|Din telefon kommer att ringa
+00BA6BC0|1|Frånkopplad
+00BA6BC0|1|Kan inte hitta
+00BB248A|1|Sök
+00BB248A|1|Avbryt
+00BB248A|1|Tillbaka
+00BA6BC0|1|Musik
+00BA6BC0|1|Behörigheter
+00BA6BC0|1|Vänta en stund
+00BAA857|1|Koppla samman ditt band med appen
+00BAA857|1|Slå på notifikationsåtkomst för appen
+00BBA8BF|1|Slå på notifikationsåtkomst för appen
+00BB248A|1|Inte sammankopplad
+00BA6BC0|1|Spelar inte
+00BA6BC0|1|Frånkopplad
+00BA6BC0|1|Behörigheter
+00BA6BC0|1|Kamera
+00BC3DE6|1|Öppna Kamera på din telefon
+00BA6BC0|1|Inte sammankopplad
+00BBA8BF|1|Frånkopplad
+00BAA857|1|Gå till Enhet > Kamera i appen
+00BAA857|1|Koppla samman ditt band med appen
+00BC3DE6|1|Aktivera
+00BB248A|1|Inga händelser idag
+00BA6BC0|1|Detaljer
+00BA6BC0|1|Detaljer
+00BBA8BF|1|Starta Händelser i appen
+00BBA8BF|1|Snooza i 10 minuter
+00BBA8BF|1|Snooza i 10 minuter
+00BBA8BF|1|Snooza i 10 minuter
+00BBA8BF|1|Snooza i 10 minuter
+00BBA8BF|1|Snooza i 10 minuter
+00BBA8BF|1|Snooza i 10 minuter
+00BBA8BF|1|Snooza i 10 minuter
+00BA6BC0|1|Tidtagarur
+00BE3C92|1|%02d
+00BBA8BF|1|Stoppur kan inte köra i bakgrunden, avsluta?
+00BA6BC0|1|Timer
+00BD71C1|1|%d
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|min
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BDDCCA|1|tim.
+00BB248A|1|Anpassad
+00BA6BC0|1|Senaste
+00BC1945|1|%02d:%02d:%02d
+00BAA857|1|Anpassad
+00BA6BC0|1|Väder
+00BA6BC0|1|Prognos
+00BE4758|1|25°
+00BA6BC0|1|Luftkvalité
+00BAA857|1|AQI
+00BC6697|1|Börja röra på dig
+00BA6BC0|1|Index
+00BDDCCA|1| 
+00BD0EE7|1|UVI-index
+00BD0EE7|1|Luftfuktighet
+00BA6BC0|1|Soluppgång & solnedgång
+00BA6BC0|1|Platser
+00BE4FA3|1|Sov gott
+00BBA8BF|1|Stör ej är på. Höj för att väcka är av.
+00BB248A|1|Avfärda
+00BB248A|1|Tid
+00BC1945|1|%02d:%02d
+00BB248A|1|Sömn
+00BD4746|1|%dt %dm
+00BDEDAA|1|%d℃/%d℃
+00BA6BC0|1|SpO₂
+00BE7626|1|98
+00BB248A|1|Mått
+00BB248A|1|Inga data
+00BEAFEC|1|98%
+00BC3DE6|1|Fäst bandet över handledsbenet.
+00BC3DE6|1|Dra åt bandet och försök igen
+00BC3DE6|1|Var still
+00BCC33F|1|98%
+00BC8181|1|SpO₂
+00BAFB62|1|85%
+00BB248A|1|Detaljer
+00BB248A|1|Avfärda
+00BA6BC0|1|Spårning hela dagen
+00BA6BC0|1|Varning
+00BA6BC0|1|Läs mer
+00BA6BC0|1|Spårning hela dagen
+00BC3DE6|1|Avaktiverad
+00BC3DE6|1|80%
+00BAA857|1|Mät SpO₂ när du är stilla
+00BB248A|1|Fäst bandet över handledsbenet.
+00BB248A|1|Håll bandet nära och stilla.
+00BB8CD9|1|Den här funktionen är inte avsedd för medicinska syften.
+00BC3DE6|1|SpO₂ representerar procenten syre i ditt blod.
+00BC3DE6|1|Avläsningarna går normalt inte under 95% när du är aktiv eller 90% under sömnen. Vidta nödvändiga åtgärder om ditt syre i blodet går under 90%.
+00BC3DE6|1|Ditt band stöder ett intervall av 75 - 100%.
+00BC3DE6|1|Det finns många faktorer som kan göra att mätvärdena inte är konsekventa eller opålitliga. Det kan inkludera gropar i huden, permanenta eller temporära förändringar i din hud, rörelse, eller ställningen du sover i. Alla ovan nämnda kan resultera i felaktigt larm och lågt syre i blodet. Kom ihåg att det här inte är en medicinsk enhet och att datan som genereras inte kan användas för diagnostisering eller behandling.
+00BA6BC0|1|Varningar
+00BA6BC0|1|Träningspass
+00BA6BC0|1|Kategorier
+00BA6BC0|1|Mer
+00BA6BC0|1|Vattensporter
+00BA6BC0|1|Simma i pool
+00BA6BC0|1|Öppet vatten
+00BA6BC0|1|Segling
+00BA6BC0|1|Paddelsurfing
+00BA6BC0|1|Vattenpolo
+00BA6BC0|1|Vattenskidåkning
+00BA6BC0|1|Kajakpaddling
+00BA6BC0|1|Forsränning
+00BA6BC0|1|Rodd
+00BA6BC0|1|Motorbåtsport
+00BA6BC0|1|Fensimning
+00BA6BC0|1|Simhopp
+00BA6BC0|1|Konstsim
+00BA6BC0|1|Snorkling
+00BA6BC0|1|Draksurfning
+00BA6BC0|1|Utomhusaktiviteter
+00BA6BC0|1|Löpning utomhus
+00BA6BC0|1|Gång
+00BA6BC0|1|Vandring
+00BA6BC0|1|Cykling utomhus
+00BA6BC0|1|Trekking
+00BA6BC0|1|Terränglöpning
+00BA6BC0|1|Bergsklättring
+00BA6BC0|1|Skateboard
+00BA6BC0|1|Rullskridskor
+00BA6BC0|1|Parkour
+00BA6BC0|1|Terränghjuling
+00BA6BC0|1|Skärmflygning
+00BA6BC0|1|Fristil
+00BA6BC0|1|Löpband
+00BA6BC0|1|Hopprep
+00BA6BC0|1|HIIT
+00BA6BC0|1|Yoga
+00BA6BC0|1|Cykling inomhus
+00BA6BC0|1|Elliptisk träningsmaskin
+00BA6BC0|1|Roddmaskin
+00BA6BC0|1|Trappmaskin
+00BA6BC0|1|Stegmaskin
+00BA6BC0|1|Core-träning
+00BA6BC0|1|Flexibilitet
+00BA6BC0|1|Pilates
+00BA6BC0|1|Gymnastik
+00BA6BC0|1|Stretchning
+00BA6BC0|1|Styrka
+00BA6BC0|1|Cross-träning
+00BA6BC0|1|Trappklättring
+00BA6BC0|1|Aerob träning
+00BA6BC0|1|Fysisk träning
+00BA6BC0|1|Väggboll
+00BA6BC0|1|Hantel
+00BA6BC0|1|Skivstång
+00BA6BC0|1|Tyngdlyftning
+00BA6BC0|1|Marklyft
+00BA6BC0|1|Burpee
+00BA6BC0|1|Situps
+00BA6BC0|1|Funktionell träning
+00BA6BC0|1|Överkropp
+00BA6BC0|1|Underkropp
+00BA6BC0|1|Magmuskler
+00BA6BC0|1|Tillbaka
+00BA6BC0|1|Dans
+00BA6BC0|1|Parkdans
+00BA6BC0|1|Magdans
+00BA6BC0|1|Balett
+00BA6BC0|1|Streetdance
+00BA6BC0|1|Zumba
+00BA6BC0|1|Folkdans
+00BA6BC0|1|Jazzdans
+00BA6BC0|1|Latinamerikansk dans
+00BA6BC0|1|Kampsporter
+00BA6BC0|1|Boxning
+00BA6BC0|1|Brottning
+00BA6BC0|1|Kampsport
+00BA6BC0|1|Tai chi
+00BA6BC0|1|Muay Thai
+00BA6BC0|1|Judo
+00BA6BC0|1|Taekwondo
+00BA6BC0|1|Karate
+00BA6BC0|1|Kickboxning
+00BA6BC0|1|Kendo
+00BA6BC0|1|Fäktning
+00BA6BC0|1|Bollsporter
+00BA6BC0|1|Tennis
+00BA6BC0|1|Basketboll
+00BA6BC0|1|Fotboll
+00BA6BC0|1|Volleyboll
+00BA6BC0|1|Baseboll
+00BA6BC0|1|Softboll
+00BA6BC0|1|Amerikansk fotboll
+00BA6BC0|1|Hockey
+00BA6BC0|1|Bordstennis
+00BA6BC0|1|Badminton
+00BA6BC0|1|Cricket
+00BA6BC0|1|Handboll
+00BA6BC0|1|Bowling
+00BA6BC0|1|Squash
+00BA6BC0|1|Biljard
+00BA6BC0|1|Fjäderboll
+00BA6BC0|1|Strandfotboll
+00BA6BC0|1|Strandvolleyboll
+00BA6BC0|1|Sepak takraw
+00BA6BC0|1|Vintersporter
+00BA6BC0|1|Skridskoåkning
+00BA6BC0|1|Curling
+00BA6BC0|1|Övriga vintersporter
+00BA6BC0|1|Snöskoter
+00BA6BC0|1|Ishockey
+00BA6BC0|1|Bob
+00BA6BC0|1|Kälksport
+00BA6BC0|1|Fritidssporter
+00BA6BC0|1|Bågskytte
+00BA6BC0|1|Dart
+00BA6BC0|1|Hästridning
+00BA6BC0|1|Dragkamp
+00BA6BC0|1|Rockring
+00BA6BC0|1|Flyga drake
+00BA6BC0|1|Fiske
+00BA6BC0|1|Frisbee
+00BA6BC0|1|Övrigt
+00BA6BC0|1|Ridsporter
+00BA6BC0|1|Friidrott
+00BA6BC0|1|Bilsport
+00BC3DE6|1|Obestämt
+00BB5103|1|%02d:%02d:%02d
+00BB5103|1|%d.%d
+00BECC6C|1|km
+00BB5103|1|%d'%d"
+00BB8CD9|1|Lätt
+00BB8CD9|1|Intensiv
+00BB8CD9|1|Aerob
+00BB8CD9|1|Anaerob
+00BB8CD9|1|VO₂ max
+00BC1945|1|%d
+00BECC6C|1|kcal
+00BECC6C|1|Steg/min
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BECC6C|1|steg
+00BC1945|1|0
+00BB8CD9|1|/km
+00BECC6C|1|km/h
+00BECC6C|1|längd
+00BECC6C|1|längd
+00BECC6C|1|längd
+00BECC6C|1|längd
+00BECC6C|1|längd
+00BECC6C|1|längd
+00BECC6C|1|längder
+00BECC6C|1|längder
+00BECC6C|1|längder
+00BECC6C|1|längder
+00BECC6C|1|längd
+00BECC6C|1|längd
+00BECC6C|1|längder
+00BECC6C|1|längder
+00BECC6C|1|längder
+00BECC6C|1|längder
+00BECC6C|1|roddtag
+00BECC6C|1|roddtag
+00BECC6C|1|hoppa
+00BECC6C|1|hoppa
+00BECC6C|1|hoppa
+00BECC6C|1|hoppa
+00BECC6C|1|hopp
+00BECC6C|1|hopp
+00BECC6C|1|hopp
+00BECC6C|1|hopp
+00BECC6C|1|roddtag
+00BECC6C|1|roddtag
+00BECC6C|1|roddtag
+00BECC6C|1|roddtag
+00BECC6C|1|roddtag
+00BECC6C|1|roddtag
+00BECC6C|1|Steg/min
+00BC6697|1|/km
+00BC6697|1|km efter
+00BEDC9F|1|%u'%02u''
+00BA6BC0|1|Stress
+00BC7468|1|Måttlig
+00BA6BC0|1|Detaljer
+00BC3DE6|1|Avslappnad
+00BC3DE6|1|Mild
+00BC3DE6|1|Måttlig
+00BC3DE6|1|Svår
+00BA6BC0|1|Senaste 7 dagarna
+00BDD622|1|05.12
+00BB248A|1|Inga data
+00BB8CD9|1|Måttlig
+00BA6BC0|1|Övervakning hela dagen
+00BA6BC0|1|Avkopplingspåminnelse
+00BB248A|1|Aktiverad
+00BA6BC0|1|Övervakning hela dagen
+00BA6BC0|1|På/av
+00BB8CD9|1|Håll koll på när du är stillasittande
+00BB8CD9|1|Begär andningsövning när stressnivån håller sig kvar över 80 under vaken tid
+00BA6BC0|1|Läs mer
+00BB248A|1|Stress är din kropps reaktion på utmaningar och krav.
+00BB248A|1|Ditt band mäter din stressnivå när du är inaktiv.\nNivåer:\nAvslappnad:1-25\nMild: 25-50\nMåttlig: 51 -80\nAllvarlig:81-100.\nDen här funktionen är inte avsedd för medicinska syften.
+00BB248A|1|Uppmätningen beror på låg temperatur, hudens beskaffenhet, med mera.
+00BAFB62|1|99.0
+00BB248A|1|Andning
+00BBA8BF|1|Puls
+00BBA8BF|1|Alarm
+00BBA8BF|1|SpO₂
+00BBA8BF|1|Inställningar
+00BBA8BF|1|Väder
+00BBA8BF|1|Lägg till enhet
+00BBA8BF|1|Statistik
+00BA6BC0|1|Radera band-skärmen?
+00BA6BC0|1|För att spara ändringarna, vep höger på band-skärmen.
+00BA6BC0|1|Sammanfattning
+00BA6BC0|1|Puls
+00BA6BC0|1|Tempo
+00BA6BC0|1|Kadens
+00BB248A|1|Visa information i appen
+00BA6BC0|1|Hastighet
+00BA6BC0|1|Roddtagsfrekvens
+00BA6BC0|1|Hopprep
+00BA6BC0|1|Frekvens
+00BA6BC0|1|SWOLF
+00BA6BC0|1|Vandring
+00BB5103|1|2:23.1
+00BA6BC0|1|Roddtag
+00BA6BC0|1|Statistik
+00BA6BC0|1|Stå
+00BA6BC0|1|Rörelse
+00BA6BC0|1|Batteri
+00BA6BC0|1|Datum
+00BA6BC0|1|UV
+00BB248A|1|Synkroniserar
+00BA6BC0|1|Det gick inte att synkronisera
+00BA6BC0|1|Fel
+00BAA857|1|Ta bort band-skärmarna och försök igen
+00BA6BC0|1|Spara förändringarna?
+00BA6BC0|1|En gång
+00BC3DE6|1|En gång
+00BA6BC0|1|Mån.
+00BA6BC0|1|Tis.
+00BA6BC0|1|Ons.
+00BA6BC0|1|Tors.
+00BA6BC0|1|Fre.
+00BA6BC0|1|Lör.
+00BA6BC0|1|Sön.
+00BC3DE6|1| 
+00BC3DE6|1|M
+00BC3DE6|1|Ti.
+00BC3DE6|1|On.
+00BC3DE6|1|To.
+00BC3DE6|1|F
+00BC3DE6|1|S
+00BC3DE6|1|S
+00BC3DE6|1|Varje dag
+00BBA8BF|1|Sömn
+00BBA8BF|1|Tidtagarur
+00BBA8BF|1|Andning
+00BBA8BF|1|Cykler
+00BBA8BF|1|Stress
+00BBA8BF|1|Träningspass
+00BAA857|1|Skanna för att ladda ner
+00BBA8BF|1|Parkoppla med telefon?
+00BA6BC0|1|Reglerande
+00BB248A|1|Stå
+00BA6BC0|1|Snoozar
+00BA6BC0|1|Larmet är avstängt
+00BA6BC0|1|Missat
+00BC1945|1|%02lu:%02lu
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BB248A|1| 
+00BD9A71|1|8000
+00BC8181|1|steg
+00BC8181|1|steg
+00BC8181|1|steg
+00BC8181|1|steg
+00BC8181|1|steg
+00BC8181|1|steg
+00BC8181|1|steg
+00BC8181|1|steg
+00BD9A71|1|500
+00BC8181|1|kcal
+00BC8181|1|kcal
+00BC8181|1|kcal
+00BC8181|1|kcal
+00BC8181|1|kcal
+00BC8181|1|kcal
+00BC8181|1|kcal
+00BD9A71|1|30
+00BC8181|1|min
+00BC8181|1|min
+00BC8181|1|min
+00BC8181|1|min
+00BC8181|1|minuter
+00BC8181|1|minuter
+00BC8181|1|minuter
+00BC8181|1|minuter
+00BD9A71|1|12
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC8181|1|roddtag
+00BC3DE6|1|"Steg" visar antalet steg dagligen.
+00BC3DE6|1|"Kalorier" visas i antalet aktiva kalorier som du bränner genom att röra dig och genom att träna.
+00BC3DE6|1|"Rörelse" visar din tid av måttlig och högintensiv träning.
+00BC3DE6|1|"Stå" visar timmar då du står upp och rör på dig.
+00BB8CD9|1|km/h
+00BA6BC0|1|80%
+00BA6BC0|1|85%
+00BA6BC0|1|90%
+00BA6BC0|1|Träningspass
+00BA6BC0|1|Kalorier
+00BA6BC0|1|Steg
+00BA6BC0|1|Puls
+00BA6BC0|1|Stress
+00BA6BC0|1|Alarm
+00BA6BC0|1|Väder
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BC3DE6|1|%u km
+00BD0EE7|1|%u km
+00BD0EE7|1|%u m
+00BD0EE7|1|%u m
+00BD0EE7|1|%u m
+00BD0EE7|1|%u m
+00BD0EE7|1|%u m
+00BD0EE7|1|%u m
+00BD0EE7|1|%u m
+00BC3DE6|1|%u min
+00BC3DE6|1|%u min
+00BC3DE6|1|%u kcal
+00BD0EE7|1|%u kcal
+00BD0EE7|1|%u minuter
+00BC3DE6|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BC3DE6|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BD0EE7|1|%u
+00BC7468|1| 
+00BA6BC0|1|Roddtag
+00BA6BC0|1|50 m
+00BD0EE7|1|Lätt
+00BD0EE7|1|VO₂ max
+00BD0EE7|1|Aerob
+00BD0EE7|1|Anaerob
+00BA6BC0|1|%u km
+00BA6BC0|1|%u km/h
+00BA6BC0|1|%u slag/min
+00BC3DE6|1|Klar
+00BAC8EA|1|km
+00BA6BC0|1|%
+00BC3DE6|1|%d.%d km
+00BD0EE7|1|%d'%02d"
+00BA6BC0|1|Focus
+00BA6BC0|1|Rest
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d minuter
+00BC3DE6|1|%d minuter
+00BC3DE6|1|%d minuter
+00BC3DE6|1|%d minuter
+00BB5103|1|%02d:%02d
+00BB7FB9|1|%02d:%02d
+00BDDCCA|1|%dm sedan
+00BDDCCA|1|%dm sedan
+00BDDCCA|1|%dm sedan
+00BDDCCA|1|Just nu
+00BDDCCA|1|Just nu
+00BDDCCA|1|%02dm sedan
+00BDDCCA|1|%02dm sedan
+00BDDCCA|1|%02dm sedan
+00BDDCCA|1|%02dm sedan
+00BDDCCA|1|Uppmätt: %02d:%02d
+00BB248A|1|Resterande: %02d
+00BB248A|1|Resterande: -
+00BA6BC0|1|30 min
+00BB248A|1| 
+00BAFB62|1|Measure heart rate every 10 mins
+00BAFB62|1| 
+00BB248A|1| 
+00BA6BC0|1|40 slag/min
+00BA6BC0|1|45 slag/min
+00BA6BC0|1|50 slag/min
+00BA6BC0|1|110 slag/min
+00BA6BC0|1|120 slag/min
+00BA6BC0|1|130 slag/min
+00BA6BC0|1|140 slag/min
+00BA6BC0|1|150 slag/min
+00BE4FA3|1|Tiden är ute
+00BAA857|1|%d timme
+00BAA857|1|%d timme
+00BAA857|1|%d timme
+00BAA857|1|%d timme
+00BAA857|1|%d timmar
+00BAA857|1|%d timmar
+00BAA857|1|%d timmar
+00BAA857|1|%d timmar
+00BAA857|1|%d min
+00BAA857|1|%d min
+00BAA857|1|%d min
+00BAA857|1|%d min
+00BAA857|1|%d minuter
+00BAA857|1|%d minuter
+00BAA857|1|%d minuter
+00BAA857|1|%d minuter
+00BC8181|1|Rör på dig
+00BB248A|1|Skaka loss!
+00BA6BC0|1|Stäng av dagens påminnelser om att stå upp?
+00BC3DE6|1|Avaktiverad
+00BC3DE6|1|100 slag/min
+00BC3DE6|1|110 slag/min
+00BC3DE6|1|120 slag/min
+00BC3DE6|1|130 slag/min
+00BC3DE6|1|140 slag/min
+00BC3DE6|1|150 slag/min
+00BC3DE6|1|40 slag/min
+00BC3DE6|1|45 slag/min
+00BC3DE6|1|50 slag/min
+00BC3DE6|1|Aktiverad
+00BC3DE6|1|Avaktiverad
+00BC3DE6|1|1 min
+00BC3DE6|1|10 min
+00BC3DE6|1|30 minuter
+00BC3DE6|1|Auto
+00BEDC9F|1|%d%%
+00BBA8BF|1|Aktivitet
+00BBA8BF|1|Mi AI
+00BBA8BF|1|Kort
+00BBA8BF|1|Underrättelser
+00BBA8BF|1|Händelser
+00BBA8BF|1|Musik
+00BBA8BF|1|Kamera
+00BBA8BF|1|Timer
+00BBA8BF|1|Ficklampa
+00BBA8BF|1|Hitta telefon
+00BBA8BF|1|Hjälp
+00BECC6C|1|"Öka för att vakna" är på
+00BECC6C|1|"Öka för att vakna" är avstängt
+00BECC6C|1|DND är på
+00BECC6C|1|DND är avstängt
+00BA6BC0|1|Sammanfattning
+00BC3DE6|1|Inga data
+00BB248A|1|Visa information i appen
+00BCC33F|1|--
+00BC3DE6|1|%d
+00BC3DE6|1|%d
+00BC3DE6|1|%d
+00BC3DE6|1|%d
+00BC3DE6|1|%d
+00BC3DE6|1|%d
+00BC3DE6|1|%d
+00BC3DE6|1|%d–%d slag/minut
+00BAFB62|1|%d-%d
+00BAFB62|1|%02d:%02d-%02d:%02d
+00BEF286|1|%d
+00BB5103|1|%02d:%02d:%02d
+00BB5103|1|:
+00BB5103|1|%02d:%02d.%02d
+00BDEDAA|1|%02d:%02d:%02d.%02d
+00BEFA88|1|%02d:%02d:%02d.%02d
+00BEFA88|1|%02d:%02d.%02d
+00BAA857|1|%02u-%02u %02u:%02u
+00BB5103|1|%02u:%02u:%02u
+00BDEDAA|1|%lu.%02lu
+00BAA857|1|km
+00BA6BC0|1|Mål
+00BD0EE7|1|%u %%
+00BD0EE7|1|Avslutad
+00BDEDAA|1|%lu
+00BD0EE7|1|Mål
+00BD0EE7|1|Aktiva kcal
+00BDEDAA|1|%lu'%02lu''
+00BD0EE7|1|Genomsn. tempo
+00BD0EE7|1|Steg
+00BD0EE7|1|Genomsn. puls
+00BD0EE7|1|Genomsn. SPM
+00BCC33F|1|%u'%02u''
+00BDD622|1|%02u:%02u
+00BCC33F|1|%u
+00BB248A|1|Visa information i appen
+00BB248A|1|Tillbaka
+00BD0EE7|1|Mål
+00BD0EE7|1|Avslutad
+00BD0EE7|1|Mål
+00BD0EE7|1|Avslutad
+00BD0EE7|1|Mål
+00BD0EE7|1|Avslutad
+00BD0EE7|1|Mål
+00BD0EE7|1|Avslutad
+00BD0EE7|1|Mål
+00BD0EE7|1|Avslutad
+00BD0EE7|1|m
+00BD0EE7|1|m
+00BD0EE7|1|m
+00BD0EE7|1|m
+00BD0EE7|1|m
+00BD0EE7|1|m
+00BD0EE7|1|m
+00BD0EE7|1|kcal
+00BD0EE7|1|kcal
+00BD0EE7|1|kcal
+00BD0EE7|1|kcal
+00BD0EE7|1|kcal
+00BD0EE7|1|kcal
+00BD0EE7|1|kcal
+00BD0EE7|1|längd
+00BD0EE7|1|hopp
+00BD0EE7|1|roddtag
+00BD0EE7|1|längd
+00BD0EE7|1|längd
+00BD0EE7|1|längd
+00BD0EE7|1|längder
+00BD0EE7|1|längder
+00BD0EE7|1|längder
+00BD0EE7|1|längder
+00BD0EE7|1|hopp
+00BD0EE7|1|hopp
+00BD0EE7|1|hopp
+00BD0EE7|1|hopp
+00BD0EE7|1|hopp
+00BD0EE7|1|hopp
+00BD0EE7|1|hopp
+00BD0EE7|1|roddtag
+00BD0EE7|1|roddtag
+00BD0EE7|1|roddtag
+00BD0EE7|1|roddtag
+00BD0EE7|1|roddtag
+00BD0EE7|1|roddtag
+00BD0EE7|1|roddtag
+00BAFB62|1|1 min
+00BDD622|1|%u
+00BA6BC0|1|Inga data idag
+00BC3DE6|1|Idag
+00BC3DE6|1|Imorgon
+00BC3DE6|1|Avaktiverad
+00BB248A|1|Nästa
+00BB248A|1|Starta påminnelse om menstruation, i appen
+00BD0EE7|1|Just nu
+00BD0EE7|1|%dm sedan
+00BD0EE7|1|%dm sedan
+00BD0EE7|1|%dm sedan
+00BD0EE7|1|%d m sedan
+00BD0EE7|1|%d m sedan
+00BD0EE7|1|%d m sedan
+00BD0EE7|1|%d m sedan
+00BD0EE7|1|%d:%02d
+00BD0EE7|1|Igår, %d:%d
+00BD0EE7|1|%02d/%02d %d:%02dd
+00BAFB62|1|%d notis
+00BAFB62|1|%d notis
+00BAFB62|1|%d notis
+00BAFB62|1|%d notiser
+00BAFB62|1|%d notiser
+00BAFB62|1|%d notiser
+00BAFB62|1|%d notiser
+00BB248A|1|Rensa
+00BDD622|1|00:00
+00BDD622|1|12:00
+00BDD622|1|24:00
+00BC3DE6|1|Hela dagen
+00BB248A|1|Spårning hela dagen är avstängd.
+00BB248A|1|Dra åt bandet och försök igen
+00BDD622|1|%02u:%02u
+00BDEDAA|1|%02u:%02u-%02u:%02u
+00BA6BC0|1|Varningar
+00BC3DE6|1|Ditt armband underrättar dig när det upptäcker avläsningar under den angivna nivån. Du kan se mer information i appen. Om du känner dig dålig ska du rådfråga läkare.
+00BB248A|1|Var still
+00BB248A|1|50 % klart
+00BB248A|1|Kalibrerar
+00BB248A|1|Var stilla under mätningen
+00BB248A|1|Dra åt bandet och försök igen
+00BB248A|1|Dra åt bandet och försök igen
+00BECC6C|1|m
+00BB248A|1|Anslut till appen för att uppdatera väderinformation
+00BB8CD9|1|Ange platser i appen
+00BD8A8D|1|%d
+00BA6BC0|1|Vänta en stund
+00BC3DE6|1|Bra
+00BC3DE6|1|Måttlig
+00BC3DE6|1|Lätt förorening
+00BC3DE6|1|Ohälsosam
+00BC3DE6|1|Farlig
+00BC3DE6|1|Mycket farlig
+00BAFB62|1|Bra
+00BAFB62|1|Måttlig
+00BAFB62|1|Lätt förorening
+00BAFB62|1|Ohälsosam
+00BAFB62|1|Farlig
+00BAFB62|1|Mycket farlig
+00BAA857|1|Virvelvindar
+00BAA857|1|Virvelvind
+00BAA857|1|N-vind
+00BAA857|1|N/Ö-vind
+00BAA857|1|Ö-vind
+00BAA857|1|S/Ö-vind
+00BAA857|1|S-vind
+00BAA857|1|S/V-vind
+00BAA857|1|V-vind
+00BAA857|1|N/V-vind
+00BA6BC0|1|Klart
+00BA6BC0|1|Molnigt
+00BA6BC0|1|Mulet
+00BA6BC0|1|Skurar
+00BA6BC0|1|Åskväder
+00BA6BC0|1|Hagel
+00BA6BC0|1|Slask
+00BA6BC0|1|Duggregn
+00BA6BC0|1|Måttligt regn
+00BA6BC0|1|Kraftig regn
+00BA6BC0|1|Regnstorm
+00BA6BC0|1|Skyfall
+00BA6BC0|1|Kraftig regnstorm
+00BA6BC0|1|Snöbyar
+00BA6BC0|1|Lätt snö
+00BA6BC0|1|Måttligt snöfall
+00BA6BC0|1|Kraftigt snöfall
+00BA6BC0|1|Snöstorm
+00BA6BC0|1|Dimma
+00BA6BC0|1|Nedkylt regn
+00BA6BC0|1|Sandstorm
+00BA6BC0|1|Lätt till måttligt regn
+00BA6BC0|1|Måttligt till kraftigt regn
+00BA6BC0|1|Kraftigt regn till regnstorm
+00BA6BC0|1|Regnstorm till skyfall
+00BA6BC0|1|Skyfall till kraftig regnstorm
+00BA6BC0|1|Lätt till måttligt snöfall
+00BA6BC0|1|Måttligt till kraftigt snöfall
+00BA6BC0|1|Kraftigt snöfall till snöstorm
+00BA6BC0|1|Damm
+00BA6BC0|1|Blåsigt
+00BA6BC0|1|Kraftig sandstorm
+00BA6BC0|1|Dimma
+00BA6BC0|1|Tjock dimma
+00BA6BC0|1|Lätt dis
+00BA6BC0|1|Måttlig disighet
+00BA6BC0|1|Disighet
+00BA6BC0|1|Tjockt dis
+00BA6BC0|1|Dimma
+00BA6BC0|1|Tjock dimma
+00BA6BC0|1|Ingen rapport
+00BA6BC0|1|Regn
+00BA6BC0|1|Snö
+00BAA857|1|Idag
+00BAA857|1|Mån.
+00BAA857|1|Tis.
+00BAA857|1|Ons.
+00BAA857|1|Tors.
+00BAA857|1|Fre.
+00BAA857|1|Lör.
+00BAA857|1|Sön.
+00BD9A71|1|%d%%
+00BD9A71|1|%d
+00BAA857|1|UVI-index
+00BAA857|1|Luftfuktighet
+00BE7626|1|%02d:%02d
+00BF08C1|1|%02d:%02d
+00BAA857|1|Sovläge avstängt kl. %02d:%02d
+00BA6BC0|1|Oregelbunden puls kräver en frekvens på 1 min. Fortsätta?
+00BD0EE7|1|Max-puls
+00BD0EE7|1|Träningspass
+00BD0EE7|1|Vila
+00BD0EE7|1|Set
+00BD0EE7|1|Roddtag
+00BD0EE7|1|Hopp
+00BD0EE7|1|Hastighet
+00BD0EE7|1|Roddtagsfrekvens
+00BD0EE7|1|Längder
+00BD0EE7|1|Huvudstil
+00BD0EE7|1|Genoms. SWOLF
+00BD0EE7|1|Genomsn. SPM
+00BDEDAA|1|%02lu:%02lu:%02lu
+00BD4746|1|Bröstsim
+00BD4746|1|Medley
+00BD4746|1|Fristil
+00BD4746|1|Bröstsim
+00BD4746|1|Fjäril
+00BDEDAA|1|%lu.%lu
+00BC3DE6|1|Max.
+00BC3DE6|1|Max.
+00BE3C92|1|%u
+00BA6BC0|1|Set
+00BA6BC0|1|On
+00BB248A|1|Funktionen "Lyft för att vakna" kommer att stängas av när du sover eller tar av ditt band.
+00BF18BB|1|℃
+00BF18BB|1|℉
+00BC7468|1|%d:%02d
+00BE7626|1|%u'%02u''
+00BD71C1|1|%u'%02u''
+00BB248A|1|Mål: %u'%02u"
+00BE4FA3|1|%u km/h
+00BB248A|1|Mål: %u km/h
+00BD71C1|1|%u
+00BB248A|1|Målpuls: %d-%d
+00BAFB62|1|%d
+00BB248A|1|Threshold: %d BPM
+00BD71C1|1|--
+00BDEDAA|1|%d℉/%d℉
+00BB248A|1|Jag förstår
+00BC1945|1|%u
+00BE2C8A|1|%%
+00BBA8BF|1|Batteriet är under %u%%. Ladda nu.
+00BC3DE6|1|VO₂ max
+00BC3DE6|1|Anaerob
+00BC3DE6|1|Intensiv
+00BC3DE6|1|Aerob
+00BC3DE6|1|Lätt
+00BDD622|1|%02lu:%02lu:%02lu
+00BA6BC0|1|%02lu:%02lu:%02lu
+00BC7468|1|Slag/min
+00BEFA88|1|%u
+00BD4746|1|%d℃/%d℃
+00BD4746|1|%d℉/%d℉
+00BB248A|1|%d℃/%d℃
+00BB248A|1|%d℉/%d℉
+00BD4746|1|℃
+00BD4746|1|℉
+00BD4746|1|-
+00BB248A|1|-
+00BB248A|1|Cykla
+00BB248A|1|Roddmaskin
+00BA6BC0|1|Anslut med appen och försök igen
+00BA6BC0|1|Nybörjarnivå
+00BA6BC0|1|Uthållighet
+00BA6BC0|1|Intervall
+00BA6BC0|1|Alternerande joggning/gång
+00BA6BC0|1|Avancerat alternerande joggning/gång
+00BA6BC0|1|Grundläggande joggning
+00BA6BC0|1|Grundläggande
+00BA6BC0|1|Avancerad nivå
+00BA6BC0|1|Medium-hög Intervallträning
+00BA6BC0|1|Grundläggande
+00BA6BC0|1|Avancerad nivå
+00BA6BC0|1|Grundläggande
+00BA6BC0|1|Avancerad nivå
+00BB8CD9|1|Kombinerar gång och joggning i intervaller.
+00BB8CD9|1|Kombinerar gång och joggning i intervaller.
+00BB8CD9|1|Låg- medium-intensiv joggning.
+00BB8CD9|1|Kortare joggning för fettförbränning och viktminskning.
+00BB8CD9|1|Låg-medium-intensiv, långre joggning för fettförbränning.
+00BB8CD9|1|Medium-hög-intensitet i intervallträning.
+00BB8CD9|1|Medium-lång joggning för uthållighet.
+00BB8CD9|1|Längre joggning för uthållighet.
+00BB8CD9|1|Träning med kortare intervall för hjärt- och lunghälsa.
+00BB8CD9|1|Träning i längre intervall för hjärt- och lunghälsa.
+00BA6BC0|1|%02u/%02u
+00BA6BC0|1|Nu
+00BA6BC0|1|I %u  min.
+00BA6BC0|1|I %u  min.
+00BA6BC0|1|I %u  min.
+00BA6BC0|1|I %u  min.
+00BA6BC0|1|I %u min.
+00BA6BC0|1|I %u min.
+00BA6BC0|1|I %u min.
+00BA6BC0|1|I %u min.
+00BA6BC0|1|Försenad
+00BB248A|1|Mån. 
+00BB248A|1|Tis. 
+00BB248A|1|Ons. 
+00BB248A|1|Tors. 
+00BB248A|1|Fre. 
+00BB248A|1|Lör. 
+00BB248A|1|Sön. 
+00BB248A|1|%u/%u 
+00BB248A|1|%02u:%02u 
+00BB248A|1|Idag 
+00BB248A|1|Imorgon 
+00BE7626|1|02d%:02d%
+00BC6697|1|km framför
+00BD71C1|1|--'--"
+00BB5103|1|--'--"
+00BB248A|1|%02u:%02u-
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u t
+00BA6BC0|1|I %u dag
+00BA6BC0|1|I %u dag
+00BA6BC0|1|I %u dag
+00BA6BC0|1|I %u dag
+00BA6BC0|1|I%u dagar
+00BA6BC0|1|I%u dagar
+00BA6BC0|1|I%u dagar
+00BA6BC0|1|I%u dagar
+00BC8181|1|Låg batterinivå
+00BB8CD9|1|Spring
+00BAA857|1|%d min
+00BAA857|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BBA8BF|1|Förbereder uppdatering
+00BBA8BF|1|Det gick inte att uppdatera.\nFörsök igen.
+00BEFA88|1|%
+00BB248A|1|Tid
+00BB8CD9|1|Avslappnad
+00BB8CD9|1|Mild
+00BB8CD9|1|Svår
+00BB248A|1|Övervakning hela dagen är avstängd.
+00BB248A|1|%02u:%02u FM -
+00BB248A|1|%02u:%02u EM -
+00BB248A|1|%02u:%02u FM
+00BB248A|1|%02u:%02u EM
+00BBA8BF|1|Jag ringer senare.
+00BBA8BF|1|Kan inte prata just nu. Vad händer?
+00BBA8BF|1|Kan inte prata just nu. Ringer du sen?
+00BF194C|1|--
+00BB5103|1|%u%%
+00BC3DE6|1|Mål
+00BB5103|1|%u
+00BBA8BF|1|km
+00BBA8BF|1|kcal
+00BBA8BF|1|längd
+00BBA8BF|1|längd
+00BBA8BF|1|längd
+00BBA8BF|1|längder
+00BBA8BF|1|längder
+00BBA8BF|1|längder
+00BBA8BF|1|längder
+00BBA8BF|1|roddtag
+00BBA8BF|1|roddtag
+00BBA8BF|1|roddtag
+00BBA8BF|1|roddtag
+00BBA8BF|1|roddtag
+00BBA8BF|1|roddtag
+00BBA8BF|1|roddtag
+00BBA8BF|1|hoppa
+00BBA8BF|1|hoppa
+00BBA8BF|1|hoppa
+00BBA8BF|1|hopp
+00BBA8BF|1|hopp
+00BBA8BF|1|hopp
+00BBA8BF|1|hopp
+00BE0F68|1|Nytt rekord!
+00BB5103|1|%02u:%02u:%02u
+00BEFA88|1|%lu.%lu.%lu
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål %lu.%lu km
+00BC3DE6|1|Mål: %02u:%02u:%02u
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål %u kacl
+00BC3DE6|1|Mål: %u längd
+00BC3DE6|1|Mål: %u längd
+00BC3DE6|1|Mål: %u längd
+00BC3DE6|1|Mål: %u längd
+00BC3DE6|1|Mål: %u längder
+00BC3DE6|1|Mål: %u längder
+00BC3DE6|1|Mål: %u längder
+00BC3DE6|1|Mål: %u längder
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u roddtag
+00BC3DE6|1|Mål: %u hopp
+00BC3DE6|1|Mål: %u hopp
+00BC3DE6|1|Mål: %u hopp
+00BC3DE6|1|Mål: %u hopp
+00BC3DE6|1|Mål: %u hopp
+00BC3DE6|1|Mål: %u hopp
+00BC3DE6|1|Mål: %u hopp
+00BB248A|1|Ditt band underrättar dig när din puls överskrider ett angivet antal slag per minut. Din puls ökar vid stress.
+00BB248A|1|Ditt band underrättar dig när din puls underskrider ett angivet antal slag per minut. Din puls blir långsammare när du sover.\nOm du inte mår bra ska du be läkare om råd.
+00BAFB62|1|Hög puls
+00BAFB62|1|Låg puls
+00BA6BC0|1|Läs mer
+00BAFB62|1|Jogg
+00BAFB62|1|Spring
+00BAFB62|1|Löpa
+00BB5103|1|%d
+00BBF2EA|1|Jogg
+00BBF2EA|1|Spring
+00BBF2EA|1|Löpa
+00BB8CD9|1|Spring
+00BB8CD9|1|Löpa
+00BB5103|1|%02d
+00BD71C1|1|%02d
+00BD71C1|1|:
+00BB248A|1|Visa information i appen
+00BA6BC0|1|Du klarade det!
+00BB248A|1|Klar
+00BB248A|1|Fortsätt (%lu s)
+00BA6BC0|1|Träningspass
+00BC3DE6|1|Tid
+00BC3DE6|1|Puls
+00BEDC9F|1|%lu.%02lu
+00BF198E|1|Auto
+00BAC8EA|1|Auto
+00BA6BC0|1|Framgångsrikt satt
+00BB248A|1|Jag förstår
+00BA6BC0|1|Överhettning. Stäng av.
+00BD0EE7|1|medel
+00BAFB62|1|Låg batterinivå
+00BB248A|1|FM
+00BB248A|1|EM
+00BDEDAA|1|%lu:%02lu
+00BD0EE7|1|%u,%02u km
+00BD0EE7|1|%u,%02u km
+00BD0EE7|1|%u,%02u km
+00BB248A|1|Funktionen "Stör ej" kommer att starta när du sover eller tar av ditt band.
+00BAA857|1|Meddela när avläsningen av SpOding är under den angivna nivån under vaken tid
+00BDDCCA|1|%d:%02d FM
+00BDDCCA|1|%d:%02d EM
+00BDDCCA|1|Igår, %d:%02d FM
+00BDDCCA|1|Igår, %d:%02d EM
+00BDDCCA|1|%02d/%02d, %d:%02d FM
+00BDDCCA|1|%02d/%02d, %d:%02d EM
+00BBA8BF|1|Löpning
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål %u kacl
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u steg
+00BB8CD9|1|Mål: %u roddtag
+00BB8CD9|1|Mål: %u roddtag
+00BB8CD9|1|Mål: %u roddtag
+00BB8CD9|1|Mål: u% roddtag
+00BB8CD9|1|Mål: u% roddtag
+00BB8CD9|1|Mål: u% roddtag
+00BB8CD9|1|Mål: u% roddtag
+00BB8CD9|1|Mål: %u min.
+00BB8CD9|1|Mål: %u min.
+00BB8CD9|1|Mål: %u min.
+00BB8CD9|1|Mål: %u min.
+00BB8CD9|1|Mål: %u min.
+00BB8CD9|1|Mål: %u min.
+00BB8CD9|1|Mål: %u min.
+00BD28E0|1|0123456789•
+00BD0EE7|1|Idag
+00BA6BC0|1|Menstruation om %u dag
+00BA6BC0|1|Menstruation om %u dag
+00BA6BC0|1|Menstruation om %u dag
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dag
+00BA6BC0|1|Menstruation om %u dag
+00BA6BC0|1|Menstruation om %u dag
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Menstruation om %u dagar
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BA6BC0|1|Fertilitetsperiod om %u dag
+00BB8CD9|1|Skanna för att visa hjälpen
+00BD0EE7|1|Igår
+00BD0EE7|1|2 dgr sedan
+00BB248A|1|Dra åt armbandet
+00BA6BC0|1|Läs mer
+00BD4746|1|Okänd
+00BC8181|1|Alternerande joggning/gång
+00BC8181|1|Avancerat alternerande joggning/gång
+00BC8181|1|Grundläggande joggning
+00BC8181|1|Grundläggande
+00BC8181|1|Avancerad nivå
+00BC8181|1|Medium-hög intervallträning
+00BC8181|1|Grundläggande
+00BC8181|1|Avancerad nivå
+00BC8181|1|Grundläggande
+00BC8181|1|Avancerad nivå
+00BC8181|1|Svår
+00BB248A|1|Andning
+00BB248A|1|Gång
+00BA6BC0|1|Tillåt ditt band att låsa upp telefonen?
+00BA6BC0|1|Tillåtet
+00BA6BC0|1|Det gick inte tillåta
+00BA6BC0|1|Hjälp
+00BA6BC0|1|Reglerande
+00BAFB62|1|Modell
+00BAFB62|1|CMIIT-ID
+00BC6697|1|Jan.
+00BC6697|1|Feb.
+00BC6697|1|Mars
+00BC6697|1|April
+00BC6697|1|Maj
+00BC6697|1|Juni
+00BC6697|1|Juli
+00BC6697|1|Aug.
+00BC6697|1|Sep.
+00BC6697|1|Okt.
+00BC6697|1|Nov.
+00BC6697|1|Dec.
+00BC3DE6|1|Menstruation om 1 dag
+00BC3DE6|1|Menstruation om 2 dagar
+00BC3DE6|1|Menstruation om %u dag
+00BC3DE6|1|Menstruation om %u dag
+00BC3DE6|1|Menstruation om %u dag
+00BC3DE6|1|Menstruation om %u dagar
+00BC3DE6|1|Menstruation om %u dagar
+00BC3DE6|1|Menstruation om %u dagar
+00BC3DE6|1|Menstruation om %u dagar
+00BC3DE6|1|Ägglossning om 1 dag
+00BC3DE6|1|Ägglossning om 2 dagar
+00BC3DE6|1|Ägglossning om %u dag
+00BC3DE6|1|Ägglossning om %u dag
+00BC3DE6|1|Ägglossning om %u dag
+00BC3DE6|1|Ägglossning om %u dagar
+00BC3DE6|1|Ägglossning om %u dagar
+00BC3DE6|1|Ägglossning om %u dagar
+00BC3DE6|1|Ägglossning om %u dagar
+00BA6BC0|1|På/av
+00BA6BC0|1|På/av
+00BC8181|1|Missat samtal
+00BB248A|1|Jag förstår
+00BB248A|1|Tillåt appen att köra i bakgrunden
+00BB248A|1|Ställ in Amazon Alexa i appen
+00BB248A|1|Logga in på ditt Amazon-konto i appen
+00BB248A|1|Kan inte spela video eller ljud på ditt band
+00BB248A|1|Ansluter…
+00BB248A|1|Lyssnar…
+00BB248A|1|Tänker…
+00BB248A|1|Set a timer for 2 minutes
+00BB248A|1|What's the weather?
+00BAA857|1|%02d:%02d–%02d:%02d
+00BAA857|1|%02d:%02d-%02d:%02d
+00BC7468|1|Avslappnad
+00BC7468|1|Mild
+00BC7468|1|Svår
+00BC8181|1|Måttlig
+00BA6BC0|1|Dagligen
+00BA6BC0|1|Det gick inte att ansluta
+00BA6BC0|1|Nätverksfel
+00BA6BC0|1|Inställning krävs
+00BA6BC0|1|Logga in
+00BDDCCA|1|Simtag
+00BB248A|1|Genoms.
+00BC7468|1|Steg/min
+00BC7468|1|km/h
+00BC7468|1|hopp/min
+00BA6BC0|1|Läs mer
+00BB248A|1|Låg batterinivå. Ficklampan är avstängd.
+00BB248A|1|Stäng
+00BCC33F|1|%.1f
+00BE3C92|1|%.1f
+00BCC33F|1|%u:%02u'%02u"
+00BE3C92|1|%u:%02u'%02u"
+00BDEDAA|1|%u:%02u'%02u"
+00BB8CD9|1|Spelar ljud
+00BAFB62|1|PIN-koderna överensstämmer inte
+00BAFB62|1|Ange PIN-kod
+00BAFB62|1|Ny PIN-kod
+00BB248A|1|Det gick inte att ansluta
+00BB248A|1|Nätverksfel
+00BB248A|1|Inställning krävs
+00BB248A|1|Logga in
+00BB248A|1|Inte tillgänglig
+00BD28E0|1|Ny PIN-kod
+00BD28E0|1|Bekräfta PIN-kod
+00BD28E0|1|   PIN-koderna överensstämmer inte  
+00BD28E0|1|Ange PIN-kod
+00BAC8EA|1|%d
+00BF198E|1|%d
+00BC3DE6|1|%dt %dm
+00BC3DE6|1|%d timme
+00BC3DE6|1|%d timme
+00BC3DE6|1|%d timme
+00BC3DE6|1|%d timme
+00BC3DE6|1|%d timmar
+00BC3DE6|1|%d timmar
+00BC3DE6|1|%d timmar
+00BC3DE6|1|%d timmar
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d min
+00BC3DE6|1|%d minuter
+00BC3DE6|1|%d minuter
+00BC3DE6|1|%d minuter
+00BC3DE6|1|%d minuter
+00BBA8BF|1|%d'%02d"
+00BD0EE7|1|%02u/%02u
+00BD0EE7|1|%02u:%02u
+00BD4746|1|--℃/--℃
+00BD4746|1|--℉/--℉
+00BB248A|1|--℃/--℃
+00BB248A|1|--℉/--℉
+00BC3DE6|1|Uppnått mål
+00BC3DE6|1|Uppnått mål
+00BC3DE6|1|Rörelsemål uppnått
+00BC3DE6|1|Ståendemål uppnått
+00BC3DE6|1|Stegmål uppnått
+00BC3DE6|1|Kalorimål uppnått
+00BC3DE6|1|Uppnått mål
+00BC3DE6|1|Uppnått mål
+00BC3DE6|1|Alla mål uppnådda
+00BC3DE6|1|Bra jobbat
+00BC3DE6|1|Mål uppnådda
+00BC3DE6|1|Uppnådda mål
+00BC7468|1|km/h
+00BC7468|1|/km
+00BA6BC0|1|FM
+00BA6BC0|1|EM
+00BA6BC0|1|Träningens avstånd var för kort för att registerföra.
+00BAFB62|1|(Ingen titel)
+00BC3DE6|1|Glömt PIN?
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om %d sek
+00BBA8BF|1|Försök igen om 5 min
+00BBA8BF|1|Försök igen om 10 min
+00BBA8BF|1|Återställ PIN i appen
+00BC3DE6|1|Jag förstår
+00BD28E0|1|Ange PIN för att låsa upp
+00BC3DE6|1|%d notis
+00BC3DE6|1|%d notis
+00BC3DE6|1|%d notis
+00BC3DE6|1|%d notiser
+00BC3DE6|1|%d notiser
+00BC3DE6|1|%d notiser
+00BC3DE6|1|%d notiser
+00BF3C6B|1|--:--
+00BA6BC0|1|Alexa
+00BBA8BF|1|Inte tillgänglig
+00BC3DE6|1|Amazon Alexa är inte tillgänglig i ditt kontos region
+00BC3DE6|1|Kontrollera din nätverksanslutning
+00BA6BC0|1|Vad sa du?
+00BC3DE6|1|Starta genom att säga
+00BB8CD9|1|Mån.
+00BB8CD9|1|Tis.
+00BB8CD9|1|Ons.
+00BB8CD9|1|Tors.
+00BB8CD9|1|Fre.
+00BB8CD9|1|Lör.
+00BB8CD9|1|Sön.
+00BD0EE7|1|%u km/h
+00BA6BC0|1|Parkopplar
+00BBA8BF|1|Det gick inte att parkoppla
+00BD28E0|1|Ange PIN för att låsa upp
+00BD28E0|1|Ange PIN för att låsa upp
+00BDDCCA|1|%d℃/%d℃
+00BDDCCA|1|%d℉/%d℉
+00BC3DE6|1|%d
+00BEDC9F|1|%02d:%02d.%02d
+00BBA8BF|1|m
+00BC3DE6|1|Anslut ditt band med appen
+00BDDCCA|1|-
+00BB248A|1|Visa information i appen
+00BA6BC0|1|Contact customer support to get your device repaired
+00BAA857|1|Mät din puls dygnet runt
+00BBA8BF|1|PIN-inställning
+00BAA857|1|Få påminnelser om att starta och avsluta en löp-, promenad-, eller roddträning.
+00BA6BC0|1|Laddar
+00BC6697|1|.
+00BC7468|1|.
+00BDD622|1|.
+00BF3C6B|1|.
+00BD0EE7|1|.
+00BDDCCA|1|.
+00BF3CE6|1|.
+00BF3D0A|1|.
+00BAA857|1|.
+00BB8CD9|1|.
+00BF3D35|1|.
+00BEF286|1|.
+00BC3DE6|1|.
+00BB248A|1|.
+00BE3C92|1|.
+00BF18BB|1|.
+00BF194C|1|.
+00BECC6C|1|.
+00BF3D5B|1|.
+00BE4758|1|.
+00BD28E0|1|.
+00BAFB62|1|.
+00BF3D86|1|.
+00BF3DB1|1|.
+00BBA8BF|1|.
+00BA6BC0|1|.
+00BEFA88|1|.
+00BE2C8A|1|.
+00BF3DDF|1|.
+00BF3E0A|1|.
+00BB7FB9|1|.
+00BF3E2E|1|.
+00BE0F68|1|.
+00BD4746|1|.
+00BF08C1|1|.
+00BD8A8D|1|.
+00BF3E66|1|.
+00BC8181|1|.
+00BEDC9F|1|.
+00BD9A71|1|.
+00BF44B2|1|.
+00BE4FA3|1|.
+00BF44E6|1|.
+00BD71C1|1|.
+00BE1E1F|1|.
+00BF198E|1|.
+00BEAFEC|1|.
+00BDEDAA|1|.
+00BF5C12|1|.
+00BAC8EA|1|.
+00BCC33F|1|.
+00BC1945|1|.
+00BA6BC0|1|h
+00BA6BC0|1|m
+00BB248A|1|Visa inte idag
+00BBA8BF|1|Inte tillgänglig
+00BC3DE6|1|Amazon Alexa är inte tillgänglig i ditt kontos region
+00BB248A|1|Roddmaskin
+00BB248A|1|Elliptisk träningsmaskin
+00BB248A|1|Hopprep
+00BC8181|1|Bra jobbat
+00BC3DE6|1| 
+00BC3DE6|1| 
+00BC3DE6|1|Mål
+00BC3DE6|1|Återstående
+00BC3DE6|1|Mål
+00BC3DE6|1|Återstående
+00BC3DE6|1|Mål, antal längder
+00BC3DE6|1|Återstående
+00BC3DE6|1|Målsatt antal hopp
+00BC3DE6|1|Återstående
+00BA6BC0|1|Tid
+00BA6BC0|1|Distans
+00BA6BC0|1|Längder
+00BA6BC0|1|Roddtag
+00BA6BC0|1|Hopp
+00BC7468|1| 
+00BD0EE7|1|%d:%02d
+00BD0EE7|1|%d m
+00BD0EE7|1|%dm %02ds
+00BA6BC0|1|Appar
+00BAFB62|1|Fitness
+00BAFB62|1|Grundläggande
+00BAFB62|1|Väder
+00BAFB62|1|Verktyg
+00BA6BC0|1|Tidtagarur
+00BA6BC0|1|Timer
+00BA6BC0|1|Kamera
+00BA6BC0|1|Kort
+00BBA8BF|1|Träningstiden är för kort för att registrera.
+00BF5C4A|1|Tidtagarur
+00BF5C4A|1|Timer
+00BF198E|1|%d℃
+00BF198E|1|%d℉
+00BF198E|1|-
+00BF198E|1|--℃
+00BF198E|1|--℉
+00BB248A|1|Vänta en stund
+00BD4746|1|Andning
+00BF198E|1|--
+00BA6BC0|1|Auto
+00BA6BC0|1|Anpassad
+00BF198E|1|%d%%
+00BB248A|1|Vänta en stund
+00BB248A|1|Spelar inte
+00BB248A|1|Frånkopplad
+00BC6697|1|Svep upp för streckkod
+00BC6697|1|Svep ned för QR-kod
+00BF5C4A|1|Roddmaskin
+00BF5C4A|1|Gång
+00BF5C4A|1|HIIT
+00BF5C4A|1|Cykling utomhus
+00BF5C4A|1|Cykling inomhus
+00BF5C4A|1|Hopprep
+00BF5C4A|1|Trekking
+00BF5C4A|1|Vandring
+00BF5C4A|1|Elliptisk träningsmaskin
+00BF5C4A|1|Löpning utomhus
+00BF5C4A|1|Simma i pool
+00BF5C4A|1|Löpband
+00BF5C4A|1|Terränglöpning
+00BF5C4A|1|Fristil
+00BF44E6|1|%lu
+00BEAFEC|1|%lu
+00BB248A|1|Inga data
+00BF198E|1|--
+00BB248A|1|m
+00BA6BC0|1|SpO₂
+00BC3DE6|1|Du nådde ditt mål igår. Du kommer att klara det idag också!
+00BC3DE6|1|Du klarade 2 av 3 mål igår. Det här klarar du!
+00BC3DE6|1|Du klarade inte dina mål under gårdagen. Så idag är dagen du kommer klara dem!
+00BC3DE6|1|Dina mål är inom räckhåll nu - idag är en ny dag!
+00BC3DE6|1|Du är endast 1000 steg från ditt mål.
+00BC3DE6|1|Du är endast 50 kcal ifrån ditt mål.
+00BC3DE6|1|Det finns fortfarande tid att nå dagens mål, fortsätt!
+00BC3DE6|1|Ställ dig upp två gånger till idag, för att nå ditt mål.
+00BC3DE6|1|Stå upp en gång till idag för att nå ditt mål.
+00BC3DE6|1|Du nådde ditt mål igår. Du kommer att klara det idag också!
+00BC3DE6|1|Du klarade 2 av 3 mål igår. Det här klarar du!
+00BC3DE6|1|Du klarade inte dina mål under gårdagen. Så idag är dagen du kommer klara dem!
+00BC3DE6|1|Dina mål är inom räckhåll nu - idag är en ny dag!
+00BC3DE6|1|Du är endast 1000 steg från ditt mål.
+00BC3DE6|1|Du är endast 50 kcal ifrån ditt mål.
+00BC3DE6|1|Du har snart nått ditt mål, avsluta starkt!
+00BC3DE6|1|Ställ dig upp två gånger till idag, för att nå ditt mål.
+00BC3DE6|1|Stå upp en gång till idag för att nå ditt mål.
+00BF3E66|1|Mål nått!
+00BBA8BF|1|Du klara det!
+00BBA8BF|1|Statistik
+00BD0EE7|1|Anpassad
+00BBA8BF|1|Det gick inte att parkoppla
+00BAA857|1|Försök igen
+00BC3DE6|1|Parkoppla
+00BBA8BF|1|Bekräfta i din telefon
+00BBA8BF|1|Parkopplar...
+00BBA8BF|1|Parkopplad
+00BAA857|1|Skanna för att ladda ner appen
+00BAA857|1|Bekräfta i din telefon
+00BF7983|1|繁體中文
+00BBA8BF|1|English
+00BBA8BF|1|Deutsch
+00BF828A|1|한국어
+00BF8857|1|עברית
+00BF8C27|1|ไทย
+00BF8E5B|1|日本語
+00BF948E|1|العربية
+00BBA8BF|1|Italiano
+00BBA8BF|1|Français
+00BBA8BF|1|Español
+00BBA8BF|1|Polski
+00BBA8BF|1|Українська
+00BBA8BF|1|Čeština
+00BBA8BF|1|Русский
+00BBA8BF|1|Nederlands
+00BBA8BF|1|Português PT
+00BBA8BF|1|Türkçe
+00BBA8BF|1|Română
+00BBA8BF|1|Eλληνικά
+00BBA8BF|1|Português BR
+00BBA8BF|1|Indonesia
+00BBA8BF|1|Tiếng Việt
+00BBA8BF|1|Norsk bokmål
+00BBA8BF|1|Suomi
+00BBA8BF|1|Svenska
+00BBA8BF|1|Dansk
+00BD0EE7|1|Avaktiverad
+00BD0EE7|1|%d sekund
+00BD0EE7|1|%d sekund
+00BD0EE7|1|%d sekund
+00BD0EE7|1|%d sekunder
+00BD0EE7|1|%d sekunder
+00BD0EE7|1|%d sekunder
+00BD0EE7|1|%d sekunder
+00BB248A|1|%u/%u/%u 
+00BAFB62|1|Xiaomi Smart Band 7 Pro
+00BB248A|1|OK
+00BD28E0|1|If the number of words is too long, please check it on the APP side
+00BA6BC0|1|Snowboardåkning
+00BA6BC0|1|Skidåkning
+00BC8181|1|Snowboardåkning
+00BC8181|1|Skidåkning
+00BAA857|1|Anpassad
+00BA6BC0|1|Syncing
+00BBA8BF|1|Preparing update
+00BD0EE7|1|VO₂ max
+00BAA857|1|Hög

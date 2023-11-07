@@ -1,0 +1,2071 @@
+00671E08|1|Ajustes
+00671E08|1|Pantallas de la pulsera
+00671E08|1|Pantalla
+00671E08|1|Vibración
+00675C56|1|Predeterm
+00675C56|1|Fuerte
+00671E08|1|Detección automática
+00675C56|1|Desactivado
+00675C56|1|Activado
+00671E08|1|No molestar
+00675C56|1|Desactivado
+00675C56|1|Inteligente
+00675C56|1|Todo el día
+00671E08|1|Diseño de la aplicación
+00675C56|1|Modo iconos
+00675C56|1|Modo lista
+00671E08|1|PIN
+00671E08|1|Sistema
+00671E08|1|Sobre la pulsera
+00671E08|1|Brillo
+00671E08|1|Siempre activa
+00671E08|1|Bloqueo automático
+00671E08|1|Cubrir para apagar
+00671E08|1|Levantar para activar
+00675C56|1|Autom.
+00677D17|1|Autom.
+00671E08|1|Cerrar
+00671E08|1|Inteligente
+00671E08|1|Programado
+00671E08|1|Todo el día
+00671E08|1|Saber más
+0067B11B|1|Siempre activa
+0067B11B|1|Inteligente
+0067D79C|1|La hora se mostrará incluso cuando la pantalla esté bloqueada.
+0067D79C|1|Siempre activa se desactivará cuando te vayas a dormir o te quites la pulsera.
+00671E08|1|Esto afectará a la vida de la batería, ¿continuar?
+00671E08|1|Comenzar
+00671E08|1|Finalizar
+00671E08|1|Estado
+006802BF|1|-%d
+00683175|1|%d
+00671E08|1|Sensibilidad
+00675C56|1|Inteligente
+00677D17|1|Alta
+00677D17|1|Predeterminada
+00671E08|1|Esto afectará a la vida de la batería, ¿continuar?
+00683E95|1|s
+00683E95|1|min
+00671E08|1|Detección automática
+00671E08|1|Detección de entrenamiento
+0067D79C|1|Entendido
+0067D79C|1|Entendido
+00675C56|1|Para establecer una frecuencia de monitoreo, desactiva LPM irregular.
+00683175|1|%d:%02d
+00685B4E|1|Esto afectará a la vida de la batería, ¿continuar?
+00671E08|1|Desactivado
+00671E08|1|Inteligente
+0067D79C|1|Siempre activa se desactivará cuando te vayas a dormir o te quites la pulsera.
+00671E08|1|Modo iconos
+00671E08|1|Modo lista
+00671E08|1|Sistema
+00671E08|1|Reiniciar
+00671E08|1|Desactivar
+00671E08|1|Restablecer
+00671E08|1|¿Reiniciar ahora?
+00671E08|1|¿Desactivar ahora?
+00685B4E|1|¿Eliminar todos los datos?
+0067B11B|1|Nombre
+0067B11B|1|Modelo
+0067B11B|1|Dirección MAC
+0067B11B|1|Número de versión
+0067B11B|1|Número de serie
+0067B11B|1|Normativa
+00671E08|1|Vibración
+0068A637|1|Fuerte
+00677D17|1|Predeterm
+00677D17|1|Fuerte
+0068C553|1|%d
+00675C56|1|%d/%d
+00671E08|1|Calenta-\nmiento
+0067D79C|1|Listo
+006802BF|1|%2d:%2d:%2d
+00671E08|1|Entrenamiento
+006802BF|1|%d
+0068E9F4|1|Objetivo de brazadas
+0068E9F4|1|Restante
+0067D79C|1|Saltar
+00671E08|1|Descanso
+0068E9F4|1|Descanso
+0068E9F4|1|Restante
+00671E08|1|Enfriamien-\nto
+0067D79C|1|Finalizar
+00671E08|1|Correr
+00671E08|1|Quemado de grasa
+00671E08|1|Avanzado
+0068E9F4|1|Introducción
+0068E9F4|1|Plan de entrenamiento
+00683E95|1|Caminar
+00683E95|1|Carrera básica
+0067D79C|1|Comenzar
+00671E08|1|Reciente
+0068A637|1|Caminar
+0067B11B|1|Objetivo de LPM
+0067D79C|1|%d-%dbpm
+0067B11B|1|Caminar
+006802BF|1|%d:%02d
+0068E9F4|1|Temporizador
+00691279|1|LPM
+00671E08|1|Parece que te estás ejercitando
+0067D79C|1|Exterior
+0067D79C|1|Cinta de correr
+0067D79C|1|Desestimar (%d s)
+0067D79C|1|km
+0067D79C|1|Pausar
+0067D79C|1|Continuar
+00685B4E|1|La distancia de entrenamiento es demasiado corta para registrarla. ¿Finalizar?
+00685B4E|1|El tiempo de entrenamiento es demasiado corto para registrarlo. ¿Finalizar?
+0067D79C|1|Continuar
+0067D79C|1|Finalizar
+00671E08|1|Calibración
+006802BF|1|.
+00692249|1|km
+00685B4E|1|La pantalla se bloquea cuando comienzas
+00671E08|1|Respiración
+00692EE0|1|Respiración
+00671E08|1|Tiempo
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+006976CB|1|%d
+00699AC9|1|%d
+00692EE0|1|Relájese
+0067D79C|1|Céntrate en tu respiración
+00692EE0|1|Vamos
+0067D79C|1|Sigue la burbuja
+00692EE0|1|Inhala
+00692EE0|1|Exhala
+00692EE0|1|Bien hecho
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+0067D79C|1|Sesión: %d min
+00671E08|1|Resultados
+0067D79C|1|Ritmo cardíaco actual
+006976CB|1|89
+00692249|1|LPM
+0067D79C|1|Ritmo cardíaco al comenzar
+0067D79C|1|Sesión
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00692249|1|min
+00671E08|1|Ajustes
+00671E08|1|Objetivo
+00671E08|1|Intervalos
+00671E08|1|Alertas
+00671E08|1|Longitud de la piscina
+00671E08|1|Pausa automática
+0068E9F4|1|Abierto
+0069C273|1|1.5 km
+00671E08|1|Abierto
+00671E08|1|Distancia
+00671E08|1|Tiempo
+00671E08|1|Calorías
+00671E08|1|Saltos
+00671E08|1|Largos
+0068E9F4|1|5 km
+00671E08|1|Intervalos se desactivará. ¿Continuar?
+00671E08|1|Se eliminará el objetivo de entrenamiento. ¿Continuar?
+00671E08|1|Distancia
+00671E08|1|Tiempo
+00671E08|1|Calorías
+00671E08|1|Saltos
+00671E08|1|Largos
+00692249|1|m
+00692249|1|kcal
+00692249|1| 
+00692249|1| 
+00671E08|1|Series
+00671E08|1|Descanso
+00692249|1|s
+00692249|1| 
+00671E08|1|Distancia
+00671E08|1|Ritmo
+00671E08|1|Velocidad
+00671E08|1|Zona de ritmo cardíaco
+00671E08|1|Ritmo cardíaco alto
+0067D79C|1|Desactivar todo
+0069C273|1|Desactivado
+0069C273|1|Intensivo
+00671E08|1|Pacer
+006802BF|1|5'00"
+0068C553|1|4'50"
+00671E08|1|%d km/h
+00692249|1|km/h
+00671E08|1|Desactivado
+00671E08|1|Ligero
+00671E08|1|Intensivo
+00671E08|1|Aeróbico
+00671E08|1|Anaeróbico
+00671E08|1|VO₂ max
+0069C273|1|%u–%u LPM
+00671E08|1|Ritmo cardíaco alto
+00692249|1|LPM
+00671E08|1|25 m
+00671E08|1|Personalizar
+00671E08|1|Personalizar
+00692249|1|m
+00671E08|1|Establecer PIN
+0069DE7F|1|Introducir PIN
+0069DE7F|1|Confirmar PIN
+0069DE7F|1|Incorrecto
+00671E08|1|¿Eliminar todos los datos?
+00671E08|1|Desactivar PIN
+00671E08|1|Cambiar PIN
+00671E08|1|PIN cambiado
+00671E08|1|PIN desactivado
+00675C56|1|Tu pulsera se bloqueará automáticamente cuando te la quites.
+0069F9D3|1|Acelera
+0069F9D3|1|Sigue así
+0069F9D3|1|Reduce la velocidad
+006A25EF|1|%u'%02u''
+00692EE0|1|Ritmo cardíaco alto
+0067D79C|1|Calorías
+006A3EBB|1|345
+0067D79C|1|Pasos
+0067D79C|1|Movimiento
+006A4E9F|1|323
+00671E08|1|Pasos
+00692249|1| 
+00671E08|1|Levantado
+00671E08|1|Movimiento
+00671E08|1|Recordatorios
+0067B11B|1|Pasos
+0067B11B|1|Calorías
+0069DE7F|1|Levantado
+0069DE7F|1|Movimiento
+00671E08|1|Sueño
+006A6142|1|10
+0069F9D3|1|h
+0069F9D3|1|min
+0067D79C|1|Objetivo:
+006A8A50|1|24:33
+0067D79C|1|Sin datos
+0067B11B|1|Sueño
+0067D79C|1|1. Para realizar un seguimiento del sueño REM, activa Monitoreo avanzado.\n2. Ajusta la correa de la pulsera.\n3. Las lecturas del ritmo cardíaco y SpO₂ dependen de los movimientos, la calidad del sueño y otros factores.
+00692EE0|1|h
+00692EE0|1|min
+0067D79C|1|Sin datos
+00671E08|1|Monitoreo avanzado
+00671E08|1|Puntuación de respiración
+00671E08|1|Puntuación de respiración
+00675C56|1|Hacer un seguimiento del sueño REM
+00671E08|1|Puntuación de respiración
+00675C56|1|Monitorea la respiración nocturna
+00671E08|1|Sueño
+0068E9F4|1|LPM med.
+00671E08|1| 
+0068E9F4|1|SpO₂ med.
+00671E08|1|Siesta
+00671E08|1|Ritmo cardíaco
+006A8A50|1|126
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+00671E08|1|Ritmo cardíaco alto
+00671E08|1|Ritmo cardíaco bajo
+00671E08|1|LPM irregular
+00671E08|1|Zona de ritmo cardíaco
+0068E9F4|1|VO₂ max
+0068E9F4|1|VO₂ max
+0068E9F4|1|Anaeróbico
+0068E9F4|1|Intensivo
+0068E9F4|1|Ligero
+0068E9F4|1|Relajado
+0068E9F4|1|Relajado
+00671E08|1|%02d:%02d
+0067D79C|1|Midiendo
+006AA20C|1|144-224
+006A90F8|1|LPM
+006AA20C|1|12: 24-12: 25
+0067D79C|1|Vuelve a intentarlo
+0067D79C|1|Medir
+0067B11B|1|Ritmo cardíaco
+0067D79C|1|El ritmo cardíaco es la cantidad de veces que el corazón late por minuto (LPM).\nPor lo general, un ritmo cardíaco en reposo oscila entre 40 y 100 LPM. Sin embargo, varía según la edad, el sexo y otros factores.\nTu pulsera admite un rango de 30 a 220 LPM.
+00671E08|1|Saber más
+0067D79C|1|Ajusta la correa de la pulsera y vuelve a intentarlo
+00671E08|1|Consejos
+0067D79C|1|Lleva tu pulsera por encima del hueso de la muñeca.
+0067D79C|1|Mantén tu pulsera ajustada y sin moverse.
+0067D79C|1|Las mediciones dependen de la temperatura, la perfusión de la piel y otros factores.
+00683E95|1|Esta función no está diseñada con fines médicos.
+0067D79C|1|Monitoreo continuo desactivado.
+0067D79C|1|Activar
+00671E08|1|Monitoreo continuo
+00671E08|1|LPM irregular
+00671E08|1|Activado/Desactivado
+00671E08|1|Ritmo cardíaco alto
+00671E08|1|Ritmo cardíaco bajo
+00675C56|1|Para establecer una frecuencia de monitoreo, desactiva LPM irregular.
+00671E08|1|1 min
+00671E08|1|10 min
+00671E08|1|Automático
+00671E08|1|Consejos
+0067D79C|1|Measure heart rate every 10 mins
+0067B11B|1|Automático
+0067D79C|1|Incrementar la frecuencia de monitoreo durante los entrenamientos
+00671E08|1|LPM irregular
+00675C56|1|Obtener alertas de latidos del corazón irregulares
+00671E08|1|Esto afectará a la vida de la batería, ¿continuar?
+00671E08|1|100 LPM
+00692EE0|1|Ritmo cardíaco bajo
+0067B11B|1|12: 30-12: 40
+0067D79C|1|Detalles
+00692EE0|1|LPM irregular
+00692EE0|1|Midiendo
+0067D79C|1|Mantente quieto
+0067D79C|1|Medido: %02d:%02d
+0067D79C|1|Vuelve a intentarlo
+0068E9F4|1|Goal hit
+0068E9F4|1|Goal hit
+0068E9F4|1|Goal hit
+0068E9F4|1|Goal hit
+00692EE0|1|Objetivos completados
+0068E9F4|1|Bravo!
+00692EE0|1|¡Muévete!
+00692EE0|1|Levántate
+0067D79C|1|Levántate y camina
+00685B4E|1|Conecta tu teléfono para actualizar los datos del GPS.
+00685B4E|1|El almacenamiento está lleno. No se puede registrar este entrenamiento.
+00671E08|1|GPS
+00692EE0|1|Correr al aire libre
+00685B4E|1|Ubicando. Ve a un área abierta y espera para comenzar el entrenamiento.
+0067D79C|1|Esperar
+0067D79C|1|Comenzar
+00685B4E|1|Ejercítate en áreas abiertas
+0067D79C|1|Desestimar
+00671E08|1|Ciclos
+006A90F8|1|%u/%u/%u
+00671E08|1|Predicciones
+0068E9F4|1|Fértil
+00671E08|1|05.23-06.23
+006AC3CA|1|Día de ovulación
+006AD305|1|Periodo
+00671E08|1|Saber más
+0067D79C|1|Registra los detalles del ciclo en la aplicación
+0067B11B|1|1. Colores
+0067D79C|1|Periodo
+00671E08|1|Día %d del periodo
+0067D79C|1|Periodo estimado
+00671E08|1|Día %d del periodo
+0067D79C|1|Fértil
+0067D79C|1|Día %d del periodo fértil
+0067D79C|1|Día de ovulación
+00671E08|1|Día de ovulación
+0067B11B|1|2. Consejo
+0067D79C|1|Cuantas más veces te registres, más precisas serán las predicciones que obtengas.
+00692EE0|1|Natación en piscina
+00692EE0|1|Aguas abiertas
+00692EE0|1|Vela
+00692EE0|1|Paddle surf
+00692EE0|1|Waterpolo
+00692EE0|1|Deportes acuáticos
+00692EE0|1|Esquí acuático
+00692EE0|1|Kayak
+00692EE0|1|Rafting
+00692EE0|1|Remo
+00692EE0|1|Motonáutica
+00692EE0|1|Natación con aletas
+00692EE0|1|Salto (natación)
+00692EE0|1|Natación artística
+00692EE0|1|Esnórquel
+00692EE0|1|Kitesurf
+00692EE0|1|Caminar
+00692EE0|1|Senderismo
+00692EE0|1|Ciclismo al aire libre
+00692EE0|1|Excursionismo
+00692EE0|1|Carrera en pista
+00692EE0|1|Escalada
+00692EE0|1|Monopatinaje
+00692EE0|1|Patinaje en línea
+00692EE0|1|Parkour
+00692EE0|1|Quad
+00692EE0|1|Parapente
+00692EE0|1|Estilo libre
+00692EE0|1|Correr en cinta
+00692EE0|1|Saltar a la cuerda
+00692EE0|1|HIIT
+00692EE0|1|Yoga
+00692EE0|1|Ciclismo en interior
+00692EE0|1|Elíptica
+00692EE0|1|Máquina de remo
+00692EE0|1|Máquina escaladora
+00692EE0|1|Stepper
+00692EE0|1|Core training
+00692EE0|1|Flexibilidad
+00692EE0|1|Pilates
+00692EE0|1|Gimnasia
+00692EE0|1|Estiramientos
+00692EE0|1|Intensidad
+00692EE0|1|CrossFit
+00692EE0|1|Subir escaleras
+00692EE0|1|Aeróbic
+00692EE0|1|Entrenamiento físico
+00692EE0|1|Balón medicinal
+00692EE0|1|Mancuernas
+00692EE0|1|Barra con pesas
+00692EE0|1|Levantamiento de peso
+00692EE0|1|Peso muerto
+00692EE0|1|Burpee
+00692EE0|1|Abdominales
+00692EE0|1|Entrenamiento funcional
+00692EE0|1|Tronco superior
+00692EE0|1|Tronco inferior
+00692EE0|1|Abdominales
+00692EE0|1|Espalda
+00692EE0|1|Square dance
+00692EE0|1|Danza del vientre
+00692EE0|1|Ballet
+00692EE0|1|Baile urbano
+00692EE0|1|Zumba
+00692EE0|1|Baile folclórico
+00692EE0|1|Baile jazz
+00692EE0|1|Baile latino
+00692EE0|1|Boxeo
+00692EE0|1|Lucha libre
+00692EE0|1|Artes marciales
+00692EE0|1|Tai chi
+00692EE0|1|Muay Thai
+00692EE0|1|Judo
+00692EE0|1|Taekwondo
+00692EE0|1|Karate
+00692EE0|1|Kickboxing
+00692EE0|1|Kendo
+00692EE0|1|Esgrima
+00692EE0|1|Tenis
+00692EE0|1|Baloncesto
+00692EE0|1|Fútbol
+00692EE0|1|Voleibol
+00692EE0|1|Béisbol
+00692EE0|1|Sóftbol
+00692EE0|1|Fútbol americano
+00692EE0|1|Hockey
+00692EE0|1|Tenis de mesa
+00692EE0|1|Bádminton
+00692EE0|1|Críquet
+00692EE0|1|Balonmano
+00692EE0|1|Bolos
+00692EE0|1|Squash
+00692EE0|1|Billar
+00692EE0|1|Volante
+00692EE0|1|Fútbol playa
+00692EE0|1|Vóley playa
+00692EE0|1|Sepak takraw
+00692EE0|1|Patinaje sobre hielo
+00692EE0|1|Curling
+00692EE0|1|Otros deportes de invierno
+00692EE0|1|Moto de nieve
+00692EE0|1|Hockey sobre hielo
+00692EE0|1|Bobsleigh
+00692EE0|1|Descenso en trineo
+00692EE0|1|Tiro con arco
+00692EE0|1|Dardos
+00692EE0|1|Equitación
+00692EE0|1|Juego de la soga
+00692EE0|1|Hula hoop
+00692EE0|1|Volar cometas
+00692EE0|1|Pesca
+00692EE0|1|Frisbee
+00692EE0|1|Ecuestre
+00692EE0|1|Atletismo
+00692EE0|1|Automovilismo
+00675C56|1|Recibe recordatorios para comenzar y finalizar una carrera o entrenamientos de correr en cinta, máquina de remo o saltar.
+0067D79C|1|Posponer
+00671E08|1|Sincronizando
+00671E08|1|Notificaciones
+0067D79C|1|Sin notificaciones
+0067D79C|1|Responder
+0067D79C|1|Enviar
+00671E08|1|Enviado
+00671E08|1|No se pudo enviar
+00685B4E|1|Permite a esta aplicación enviar SMS
+00685B4E|1|Permite a esta aplicación leer tus contactos
+00671E08|1|Enviando
+006ADBE8|1|Alarma
+0068E9F4|1|No hay alarmas
+0068E9F4|1|Tiempo
+0068E9F4|1|Repetir
+00671E08|1|Editar
+00671E08|1|Tiempo
+00671E08|1|Repetir
+0067D79C|1|Eliminar
+0067D79C|1|OK
+0068E9F4|1|a.m.
+0068E9F4|1|p.m.
+0067D79C|1|Posponer
+0067D79C|1|Detener
+0067D79C|1|No se puede añadir la alarma
+0068E9F4|1|Añade un máximo de 10 alarmas
+00671E08|1|Encontrar teléfono
+00671E08|1|Tu teléfono sonará
+00671E08|1|Desconectado
+00671E08|1|No se puede encontrar
+0067D79C|1|Buscar
+0067D79C|1|Detener
+0067D79C|1|Atrás
+00671E08|1|Música
+00671E08|1|Permisos
+00671E08|1|Un momento
+00675C56|1|Vincula tu pulsera con la aplicación
+00675C56|1|Activa Acceso a las notificaciones para la aplicación
+00685B4E|1|Activa Acceso a las notificaciones para la aplicación
+0067D79C|1|No vinculado
+00671E08|1|Sin reproducción
+00671E08|1|Desconectado
+00671E08|1|Permisos
+00671E08|1|Cámara
+0068E9F4|1|Abre la Cámara en tu teléfono
+00671E08|1|No vinculado
+00685B4E|1|Desconectado
+00675C56|1|Ve a Dispositivo y Cámara en la aplicación
+00675C56|1|Vincula tu pulsera con la aplicación
+0068E9F4|1|Activar
+0067D79C|1|Hoy no hay eventos
+00671E08|1|Detalles
+00671E08|1|Detalles
+00685B4E|1|Activa Eventos en la aplicación
+00685B4E|1|Posponer 10 min
+00685B4E|1|Posponer 10 min
+00685B4E|1|Posponer 10 min
+00685B4E|1|Posponer 10 min
+00685B4E|1|Posponer 10 min
+00685B4E|1|Posponer 10 min
+00685B4E|1|Posponer 10 min
+00671E08|1|Cronómetro
+006AEBF0|1|%02d
+00685B4E|1|El cronómetro no puede ejecutarse en segundo plano, ¿salir?
+00671E08|1|Temporizador
+006A25EF|1|%d
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|min
+006A90F8|1|h
+006A90F8|1|h
+006A90F8|1|h
+006A90F8|1|h
+006A90F8|1|h
+006A90F8|1|h
+006A90F8|1|h
+006A90F8|1|h
+0067D79C|1|Personalizar
+00671E08|1|Reciente
+0068C553|1|%02d:%02d:%02d
+00675C56|1|Personalizar
+00671E08|1|Tiempo
+00671E08|1|Pronóstico
+006AF6B6|1|25°
+00671E08|1|Calidad del aire
+00675C56|1|AQI
+00691279|1|Muévete
+00671E08|1|Índices
+006A90F8|1| 
+0069C273|1|UVI
+0069C273|1|Humedad
+00671E08|1|Amanecer y atardecer
+00671E08|1|Ubicaciones
+006AFF01|1|Duerme bien
+00685B4E|1|No molestar está activado. Levantar para activar está desactivado.
+0067D79C|1|Desestimar
+0067D79C|1|Tiempo
+0068C553|1|%02d:%02d
+0067D79C|1|Sueño
+0069F9D3|1|%d h %d min
+006AA20C|1|%d℃/%d℃
+00671E08|1|SpO₂
+006B2726|1|98
+0067D79C|1|Medir
+0067D79C|1|Sin datos
+006B60EC|1|98%
+0068E9F4|1|Lleva tu pulsera por encima del hueso de la muñeca.
+0068E9F4|1|Ajusta la correa de la pulsera y vuelve a intentarlo
+0068E9F4|1|Mantente quieto
+006976CB|1|98%
+00692EE0|1|SpO₂
+0067B11B|1|85%
+0067D79C|1|Detalles
+0067D79C|1|Desestimar
+00671E08|1|Seguimiento permanente
+00671E08|1|Alerta
+00671E08|1|Saber más
+00671E08|1|Seguimiento permanente
+0068E9F4|1|Desactivado
+0068E9F4|1|80%
+00675C56|1|Mide el SpO₂ cuando no te estás moviendo
+0067D79C|1|Lleva tu pulsera por encima del hueso de la muñeca.
+0067D79C|1|Mantén tu pulsera ajustada y sin moverse.
+00683E95|1|Esta función no está diseñada con fines médicos.
+0068E9F4|1|SpO₂ representa el porcentaje de oxígeno en sangre.
+0068E9F4|1|Las lecturas normalmente no bajan del 95% mientras estás activo o del 90% mientras duermes. Toma las medidas necesarias si tu nivel de oxígeno en sangre desciende por debajo del 90%.
+0068E9F4|1|Tu pulsera soporta un rango del 5–100%.
+0068E9F4|1|Existen múltiples factores que podrían hacer que las mediciones sean inconsistentes o poco fiables. Podrían incluir perfusión de la piel, cambios permanentes o temporales en la piel, movimiento o postura durante el sueño. Todo lo anterior podría resultar en una alerta de oxígeno en sangre falsamente baja. Recuerda que este no es un dispositivo médico, y que los datos que genera no pueden ser utilizados para diagnóstico y tratamiento.
+00671E08|1|Alertas
+00671E08|1|Entrenamiento
+00671E08|1|Categorías
+00671E08|1|Más
+00671E08|1|Deportes acuáticos
+00671E08|1|Natación en piscina
+00671E08|1|Aguas abiertas
+00671E08|1|Vela
+00671E08|1|Paddle surf
+00671E08|1|Waterpolo
+00671E08|1|Esquí acuático
+00671E08|1|Kayak
+00671E08|1|Rafting
+00671E08|1|Remo
+00671E08|1|Motonáutica
+00671E08|1|Natación con aletas
+00671E08|1|Salto (natación)
+00671E08|1|Natación artística
+00671E08|1|Esnórquel
+00671E08|1|Kitesurf
+00671E08|1|Actividades al aire libre
+00671E08|1|Correr al aire libre
+00671E08|1|Caminar
+00671E08|1|Senderismo
+00671E08|1|Ciclismo al aire libre
+00671E08|1|Excursionismo
+00671E08|1|Carrera en pista
+00671E08|1|Escalada
+00671E08|1|Monopatinaje
+00671E08|1|Patinaje en línea
+00671E08|1|Parkour
+00671E08|1|Quad
+00671E08|1|Parapente
+00671E08|1|Estilo libre
+00671E08|1|Correr en cinta
+00671E08|1|Saltar a la cuerda
+00671E08|1|HIIT
+00671E08|1|Yoga
+00671E08|1|Ciclismo en interior
+00671E08|1|Elíptica
+00671E08|1|Máquina de remo
+00671E08|1|Máquina escaladora
+00671E08|1|Stepper
+00671E08|1|Core training
+00671E08|1|Flexibilidad
+00671E08|1|Pilates
+00671E08|1|Gimnasia
+00671E08|1|Estiramientos
+00671E08|1|Intensidad
+00671E08|1|CrossFit
+00671E08|1|Subir escaleras
+00671E08|1|Aeróbic
+00671E08|1|Entrenamiento físico
+00671E08|1|Balón medicinal
+00671E08|1|Mancuernas
+00671E08|1|Barra con pesas
+00671E08|1|Levantamiento de peso
+00671E08|1|Peso muerto
+00671E08|1|Burpee
+00671E08|1|Abdominales
+00671E08|1|Entrenamiento funcional
+00671E08|1|Tronco superior
+00671E08|1|Tronco inferior
+00671E08|1|Abdominales
+00671E08|1|Espalda
+00671E08|1|Baile
+00671E08|1|Square dance
+00671E08|1|Danza del vientre
+00671E08|1|Ballet
+00671E08|1|Baile urbano
+00671E08|1|Zumba
+00671E08|1|Baile folclórico
+00671E08|1|Baile jazz
+00671E08|1|Baile latino
+00671E08|1|Deportes de combate
+00671E08|1|Boxeo
+00671E08|1|Lucha libre
+00671E08|1|Artes marciales
+00671E08|1|Tai chi
+00671E08|1|Muay Thai
+00671E08|1|Judo
+00671E08|1|Taekwondo
+00671E08|1|Karate
+00671E08|1|Kickboxing
+00671E08|1|Kendo
+00671E08|1|Esgrima
+00671E08|1|Deportes con balón
+00671E08|1|Tenis
+00671E08|1|Baloncesto
+00671E08|1|Fútbol
+00671E08|1|Voleibol
+00671E08|1|Béisbol
+00671E08|1|Sóftbol
+00671E08|1|Fútbol americano
+00671E08|1|Hockey
+00671E08|1|Tenis de mesa
+00671E08|1|Bádminton
+00671E08|1|Críquet
+00671E08|1|Balonmano
+00671E08|1|Bolos
+00671E08|1|Squash
+00671E08|1|Billar
+00671E08|1|Volante
+00671E08|1|Fútbol playa
+00671E08|1|Vóley playa
+00671E08|1|Sepak takraw
+00671E08|1|Deportes de invierno
+00671E08|1|Patinaje sobre hielo
+00671E08|1|Curling
+00671E08|1|Otros deportes de invierno
+00671E08|1|Moto de nieve
+00671E08|1|Hockey sobre hielo
+00671E08|1|Bobsleigh
+00671E08|1|Descenso en trineo
+00671E08|1|Deportes recreativos
+00671E08|1|Tiro con arco
+00671E08|1|Dardos
+00671E08|1|Equitación
+00671E08|1|Juego de la soga
+00671E08|1|Hula hoop
+00671E08|1|Volar cometas
+00671E08|1|Pesca
+00671E08|1|Frisbee
+00671E08|1|Otros
+00671E08|1|Ecuestre
+00671E08|1|Atletismo
+00671E08|1|Automovilismo
+0068E9F4|1|Abierto
+006802BF|1|%02d:%02d:%02d
+006802BF|1|%d.%d
+006B7D6C|1|km
+006802BF|1|%d'%d"
+00683E95|1|Ligero
+00683E95|1|Intensivo
+00683E95|1|Aeróbico
+00683E95|1|Anaeróbico
+00683E95|1|VO₂ max
+0068C553|1|%d
+006B7D6C|1|kcal
+006B7D6C|1|Pasos/min
+006B7D6C|1|paso
+006B7D6C|1|paso
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+006B7D6C|1|paso
+006B7D6C|1|paso
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+006B7D6C|1|paso
+006B7D6C|1|paso
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+006B7D6C|1|pasos
+0068C553|1|0
+00683E95|1|/km
+006B7D6C|1|km/h
+006B7D6C|1|largo
+006B7D6C|1|largo
+006B7D6C|1|largo
+006B7D6C|1|largo
+006B7D6C|1|largo
+006B7D6C|1|largo
+006B7D6C|1|largos
+006B7D6C|1|largos
+006B7D6C|1|largos
+006B7D6C|1|largos
+006B7D6C|1|largo
+006B7D6C|1|largo
+006B7D6C|1|largos
+006B7D6C|1|largos
+006B7D6C|1|largos
+006B7D6C|1|largos
+006B7D6C|1|brazada
+006B7D6C|1|brazada
+006B7D6C|1|salto
+006B7D6C|1|salto
+006B7D6C|1|salto
+006B7D6C|1|salto
+006B7D6C|1|saltos
+006B7D6C|1|saltos
+006B7D6C|1|saltos
+006B7D6C|1|saltos
+006B7D6C|1|brazada
+006B7D6C|1|brazada
+006B7D6C|1|brazada
+006B7D6C|1|brazada
+006B7D6C|1|brazada
+006B7D6C|1|brazada
+006B7D6C|1|BPM
+00691279|1|/km
+00691279|1|km por detrás
+006B8C66|1|%u'%02u''
+00671E08|1|Estrés
+00692249|1|Moderado
+00671E08|1|Detalles
+0068E9F4|1|Relajado
+0068E9F4|1|Leve
+0068E9F4|1|Moderado
+0068E9F4|1|Severo
+00671E08|1|Últimos 7 días
+006A8A50|1|05.12
+0067D79C|1|Sin datos
+00683E95|1|Moderado
+00671E08|1|Monitoreo permanente
+00671E08|1|Recordatorio de relajación
+0067D79C|1|Activado
+00671E08|1|Monitoreo permanente
+00671E08|1|Activado/\nDesactivado
+00683E95|1|Hacer un seguimiento cuando estás sedentario
+00683E95|1|Aconseja un ejercicio de respiración cuando tu nivel de estrés se encuentre por encima de 80 mientras estás despierto
+00671E08|1|Saber más
+0067D79C|1|El estrés es la reacción de tu cuerpo a los desafíos y demandas.
+0067D79C|1|Tu pulsera mide tu nivel de estrés cuando estás inactivo.\nNiveles:\nRelajado: 1–25\nLeve: 25–50\nModerado: 51–80\nSevero: 81–100.\nEsta función no está diseñada con fines médicos.
+0067D79C|1|Las mediciones dependen de la temperatura, la perfusión de la piel y otros factores.
+0067B11B|1|99.0
+0067D79C|1|Respiración
+00685B4E|1|Ritmo cardíaco
+00685B4E|1|Alarma
+00685B4E|1|SpO₂
+00685B4E|1|Ajustes
+00685B4E|1|Tiempo
+00685B4E|1|Añadir dispositivo
+00685B4E|1|Estadísticas
+00671E08|1|¿Eliminar la pantalla de la pulsera?
+00671E08|1|Para guardar los cambios desliza hacia arriba en la pantalla de la pulsera.
+00671E08|1|Resumen
+00671E08|1|Ritmo cardíaco
+00671E08|1|Ritmo
+00671E08|1|Cadencia
+0067D79C|1|Ver detalles en la aplicación
+00671E08|1|Velocidad
+00671E08|1|Ritmo de brazada
+00671E08|1|Saltar a la cuerda
+00671E08|1|Frecuencia
+00671E08|1|SWOLF
+00671E08|1|Senderismo
+006802BF|1|2:23.1
+00671E08|1|Brazadas
+00671E08|1|Estadísticas
+00671E08|1|Levantado
+00671E08|1|Movimiento
+00671E08|1|Batería
+00671E08|1|Fecha
+00671E08|1|UV
+0067D79C|1|Sincronizando
+00671E08|1|No se pudo sincronizar
+00671E08|1|Error
+00675C56|1|Elimina las pantallas de la pulsera y vuelve a intentarlo
+00671E08|1|¿Guardar los cambios?
+00671E08|1|Una vez
+0068E9F4|1|Una vez
+00671E08|1|Lun.
+00671E08|1|Mar.
+00671E08|1|Mié.
+00671E08|1|Jue.
+00671E08|1|Vie.
+00671E08|1|Sáb.
+00671E08|1|Dom.
+0068E9F4|1| 
+0068E9F4|1|L
+0068E9F4|1|M
+0068E9F4|1|X
+0068E9F4|1|J
+0068E9F4|1|V
+0068E9F4|1|S
+0068E9F4|1|D
+0068E9F4|1|Diariamente
+00685B4E|1|Sueño
+00685B4E|1|Cronómetro
+00685B4E|1|Respiración
+00685B4E|1|Ciclos
+00685B4E|1|Estrés
+00685B4E|1|Entrenamiento
+00675C56|1|Escanea para descargar
+00685B4E|1|¿Vincular con el teléfono?
+00671E08|1|Normativa
+0067D79C|1|Levantado
+00671E08|1|Posponiendo
+00671E08|1|Alarma desactivada
+00671E08|1|No escuchada
+0068C553|1|%02lu:%02lu
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+0067D79C|1| 
+006A4E9F|1|8000
+00692EE0|1|paso
+00692EE0|1|paso
+00692EE0|1|paso
+00692EE0|1|paso
+00692EE0|1|pasos
+00692EE0|1|pasos
+00692EE0|1|pasos
+00692EE0|1|pasos
+006A4E9F|1|500
+00692EE0|1|kcal
+00692EE0|1|kcal
+00692EE0|1|kcal
+00692EE0|1|kcal
+00692EE0|1|kcal
+00692EE0|1|kcal
+00692EE0|1|kcal
+006A4E9F|1|30
+00692EE0|1|min
+00692EE0|1|min
+00692EE0|1|min
+00692EE0|1|min
+00692EE0|1|min
+00692EE0|1|min
+00692EE0|1|min
+00692EE0|1|min
+006A4E9F|1|12
+00692EE0|1|brazada
+00692EE0|1|brazada
+00692EE0|1|brazada
+00692EE0|1|brazada
+00692EE0|1|brazadas
+00692EE0|1|brazadas
+00692EE0|1|brazadas
+00692EE0|1|brazadas
+0068E9F4|1|"Pasos" muestra un conteo diario de pasos.
+0068E9F4|1|"Calorías" muestra la cantidad de calorías activas quemadas al moverte y hacer ejercicio.
+0068E9F4|1|"Movimiento" muestra tu tiempo realizando una actividad moderada y dinámica.
+0068E9F4|1|"Levantado" muestra las horas en las que te pones de pie y te mueves.
+00683E95|1|km/h
+00671E08|1|80%
+00671E08|1|85%
+00671E08|1|90%
+00671E08|1|Entrenamiento
+00671E08|1|Calorías
+00671E08|1|Pasos
+00671E08|1|Ritmo cardíaco
+00671E08|1|Estrés
+00671E08|1|Alarma
+00671E08|1|Tiempo
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0068E9F4|1|%u km
+0069C273|1|%u km
+0069C273|1|%u m
+0069C273|1|%u m
+0069C273|1|%u m
+0069C273|1|%u m
+0069C273|1|%u m
+0069C273|1|%u m
+0069C273|1|%u m
+0068E9F4|1|%u min
+0068E9F4|1|%u min
+0068E9F4|1|%u kcal
+0069C273|1|%u kcal
+0069C273|1|%u min
+0068E9F4|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0068E9F4|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+0069C273|1|%u
+00692249|1| 
+00671E08|1|Brazadas
+00671E08|1|50 m
+0069C273|1|Ligero
+0069C273|1|VO₂ max
+0069C273|1|Aeróbico
+0069C273|1|Anaeróbico
+00671E08|1|%u km
+00671E08|1|%u km/h
+00671E08|1|%u LPM
+0068E9F4|1|Listo
+00677D17|1|km
+00671E08|1|%
+0068E9F4|1|%d.%d km
+0069C273|1|%d'%02d"
+00671E08|1|Concéntrate
+00671E08|1|Descanso
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+006802BF|1|%02d:%02d
+00683175|1|%02d:%02d
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Hace %d min
+006A90F8|1|Ahora mismo
+006A90F8|1|Ahora mismo
+006A90F8|1|Hace %02d min
+006A90F8|1|Hace %02d min
+006A90F8|1|Hace %02d min
+006A90F8|1|Hace %02d min
+006A90F8|1|Medido: %02d:%02d
+0067D79C|1|Descanso: %02d
+0067D79C|1|Descanso: --
+00671E08|1|30 min
+0067D79C|1| 
+0067B11B|1| 
+0067B11B|1| 
+0067D79C|1| 
+00671E08|1|40 LPM
+00671E08|1|45 LPM
+00671E08|1|50 LPM
+00671E08|1|110 LPM
+00671E08|1|120 LPM
+00671E08|1|130 LPM
+00671E08|1|140 LPM
+00671E08|1|150 LPM
+006AFF01|1|Tiempo agotado
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d h
+00675C56|1|%d min
+00675C56|1|%d min
+00675C56|1|%d min
+00675C56|1|%d min
+00675C56|1|%d min
+00675C56|1|%d min
+00675C56|1|%d min
+00675C56|1|%d min
+00692EE0|1|Muévete
+0067D79C|1|¡Actívate!
+00671E08|1|¿Desactivar los recordatorios para levantarse de hoy?
+0068E9F4|1|Desactivado
+0068E9F4|1|100 LPM
+0068E9F4|1|110 LPM
+0068E9F4|1|120 LPM
+0068E9F4|1|130 LPM
+0068E9F4|1|140 LPM
+0068E9F4|1|150 LPM
+0068E9F4|1|40 LPM
+0068E9F4|1|45 LPM
+0068E9F4|1|50 LPM
+0068E9F4|1|Activado
+0068E9F4|1|Desactivado
+0068E9F4|1|1 min
+0068E9F4|1|10 min
+0068E9F4|1|30 min
+0068E9F4|1|Automático
+006B8C66|1|%d%%
+00685B4E|1|Actividad
+00685B4E|1|Mi AI
+00685B4E|1|Tarjetas
+00685B4E|1|Notificaciones
+00685B4E|1|Eventos
+00685B4E|1|Música
+00685B4E|1|Cámara
+00685B4E|1|Temporizador
+00685B4E|1|Linterna
+00685B4E|1|Encontrar teléfono
+00685B4E|1|Ayuda
+006B7D6C|1|"Levantar para activar" activado
+006B7D6C|1|"Levantar para activar" desactivado
+006B7D6C|1|No molestar activado
+006B7D6C|1|No molestar desactivado
+00671E08|1|Resumen
+0068E9F4|1|Sin datos
+0067D79C|1|Ver detalles en la aplicación
+006976CB|1|--
+0068E9F4|1|%d
+0068E9F4|1|%d
+0068E9F4|1|%d
+0068E9F4|1|%d
+0068E9F4|1|%d
+0068E9F4|1|%d
+0068E9F4|1|%d
+0068E9F4|1|%d–%d LPM
+0067B11B|1|%d-%d
+0067B11B|1|%02d:%02d-%02d:%02d
+006BA24D|1|%d
+006802BF|1|%02d:%02d:%02d
+006802BF|1|:
+006802BF|1|%02d:%02d.%02d
+006AA20C|1|%02d:%02d:%02d.%02d
+006BAA4F|1|%02d:%02d:%02d.%02d
+006BAA4F|1|%02d:%02d.%02d
+00675C56|1|%02u-%02u %02u:%02u
+006802BF|1|%02u:%02u:%02u
+006AA20C|1|%lu.%02lu
+00675C56|1|km
+00671E08|1|Objetivo
+0069C273|1|%u%%
+0069C273|1|Completado
+006AA20C|1|%lu
+0069C273|1|Objetivo
+0069C273|1|Kcal activas
+006AA20C|1|%lu'%02lu''
+0069C273|1|Ritmo med.
+0069C273|1|Pasos
+0069C273|1|LPM med.
+0069C273|1|LPM med.
+006976CB|1|%u'%02u''
+006A8A50|1|%02u:%02u
+006976CB|1|%u
+0067D79C|1|Ver detalles en la aplicación
+0067D79C|1|Atrás
+0069C273|1|Objetivo
+0069C273|1|Completado
+0069C273|1|Objetivo
+0069C273|1|Completado
+0069C273|1|Objetivo
+0069C273|1|Completado
+0069C273|1|Objetivo
+0069C273|1|Completado
+0069C273|1|Objetivo
+0069C273|1|Completado
+0069C273|1|m
+0069C273|1|m
+0069C273|1|m
+0069C273|1|m
+0069C273|1|m
+0069C273|1|m
+0069C273|1|m
+0069C273|1|kcal
+0069C273|1|kcal
+0069C273|1|kcal
+0069C273|1|kcal
+0069C273|1|kcal
+0069C273|1|kcal
+0069C273|1|kcal
+0069C273|1|largo
+0069C273|1|salto
+0069C273|1|brazada
+0069C273|1|largo
+0069C273|1|largo
+0069C273|1|largo
+0069C273|1|largos
+0069C273|1|largos
+0069C273|1|largos
+0069C273|1|largos
+0069C273|1|salto
+0069C273|1|salto
+0069C273|1|salto
+0069C273|1|saltos
+0069C273|1|saltos
+0069C273|1|saltos
+0069C273|1|saltos
+0069C273|1|brazadas
+0069C273|1|brazada
+0069C273|1|brazada
+0069C273|1|brazadas
+0069C273|1|brazadas
+0069C273|1|brazadas
+0069C273|1|brazadas
+0067B11B|1|1 min
+006A8A50|1|%u
+00671E08|1|Sin datos de hoy
+0068E9F4|1|Hoy
+0068E9F4|1|Mañana
+0068E9F4|1|Desactivado
+0067D79C|1|Siguiente
+0067D79C|1|Activa Predicciones del periodo en la aplicación
+0069C273|1|Ahora mismo
+0069C273|1|Hace %d min
+0069C273|1|Hace %d min
+0069C273|1|Hace %d min
+0069C273|1|Hace %d min
+0069C273|1|Hace %d min
+0069C273|1|Hace %d min
+0069C273|1|Hace %d min
+0069C273|1|%d:%02d
+0069C273|1|Ayer, %d:%02d
+0069C273|1|%02d/%02d %d:%02d
+0067B11B|1|%d notificación
+0067B11B|1|%d notificación
+0067B11B|1|%d notificación
+0067B11B|1|%d notificaciones
+0067B11B|1|%d notificaciones
+0067B11B|1|%d notificaciones
+0067B11B|1|%d notificaciones
+0067D79C|1|Limpiar
+006A8A50|1|00:00
+006A8A50|1|12:00
+006A8A50|1|24:00
+0068E9F4|1|Todo el día
+0067D79C|1|Seguimiento permanente desactivado.
+0067D79C|1|Ajusta la correa de la pulsera y vuelve a intentarlo
+006A8A50|1|%02u:%02u
+006AA20C|1|%02u:%02u-%02u:%02u
+00671E08|1|Alertas
+0068E9F4|1|Tu pulsera te notifica cuando detecta lecturas por debajo del nivel establecido. Puedes ver más datos en la aplicación. Si no te sientes bien, consulta con un médico.
+0067D79C|1|Mantente quieto
+0067D79C|1|50% completado
+0067D79C|1|Calibrando
+0067D79C|1|Mantente quieto durante la medición
+0067D79C|1|Ajusta la correa de la pulsera y vuelve a intentarlo
+0067D79C|1|Ajusta la correa de la pulsera y vuelve a intentarlo
+006B7D6C|1|m
+0067D79C|1|Conecta con la aplicación para actualizar el tiempo
+00683E95|1|Establecer ubicaciones en la aplicación
+006A3EBB|1|%d
+00671E08|1|Un momento
+0068E9F4|1|Bueno
+0068E9F4|1|Moderada
+0068E9F4|1|Ligera polución
+0068E9F4|1|Insalubre
+0068E9F4|1|Peligrosa
+0068E9F4|1|Tóxica
+0067B11B|1|Buena
+0067B11B|1|Moderada
+0067B11B|1|Ligera polución
+0067B11B|1|Insalubre
+0067B11B|1|Peligrosa
+0067B11B|1|Tóxica
+00675C56|1|Viento variable
+00675C56|1|Torbellino
+00675C56|1|Viento N
+00675C56|1|Viento NE
+00675C56|1|Viento E
+00675C56|1|Viento SE
+00675C56|1|Viento S
+00675C56|1|Viento SO
+00675C56|1|Viento O
+00675C56|1|Viento NO
+00671E08|1|Despejado
+00671E08|1|Nublado
+00671E08|1|Cubierto
+00671E08|1|Chubascos
+00671E08|1|Tormenta eléctrica
+00671E08|1|Granizo
+00671E08|1|Aguanieve
+00671E08|1|Lluvia ligera
+00671E08|1|Lluvia moderada
+00671E08|1|Lluvia intensa
+00671E08|1|Tormenta
+00671E08|1|Aguacero
+00671E08|1|Tormenta fuerte
+00671E08|1|Chubascos con nieve
+00671E08|1|Nieve ligera
+00671E08|1|Nieve moderada
+00671E08|1|Nieve intensa
+00671E08|1|Ventisca
+00671E08|1|Bruma
+00671E08|1|Lluvia helada
+00671E08|1|Tormenta de arena
+00671E08|1|De lluvia ligera a moderada
+00671E08|1|De lluvia moderada a fuerte
+00671E08|1|De lluvia fuerte a tormenta
+00671E08|1|De tormenta a aguacero
+00671E08|1|De aguacero a tormenta fuerte
+00671E08|1|De nieve ligera a moderada
+00671E08|1|De nieve moderada a intensa
+00671E08|1|De nieve intensa a ventisca
+00671E08|1|Polvo
+00671E08|1|Viento
+00671E08|1|Fuerte tormenta de arena
+00671E08|1|Niebla
+00671E08|1|Niebla espesa
+00671E08|1|Neblina ligera
+00671E08|1|Neblina moderada
+00671E08|1|Fuerte neblina
+00671E08|1|Neblina severa
+00671E08|1|Niebla
+00671E08|1|Niebla severa
+00671E08|1|Sin reportes
+00671E08|1|Lluvia
+00671E08|1|Nieve
+00675C56|1|Hoy
+00675C56|1|Lun.
+00675C56|1|Mar.
+00675C56|1|Mié.
+00675C56|1|Jue.
+00675C56|1|Vie.
+00675C56|1|Sáb.
+00675C56|1|Dom.
+006A4E9F|1|%d%%
+006A4E9F|1|%d
+00675C56|1|UVI
+00675C56|1|Humedad
+006B2726|1|%02d:%02d
+006BB888|1|%02d:%02d
+00675C56|1|El Modo suspensión se desactivará a las %02d:%02d
+00671E08|1|LPM irregular requiere una frecuencia de 1 minuto. ¿Continuar?
+0069C273|1|LPM máximo
+0069C273|1|Entrenamiento
+0069C273|1|Descanso
+0069C273|1|Series
+0069C273|1|Brazadas
+0069C273|1|Saltos
+0069C273|1|Velocidad
+0069C273|1|Ritmo de brazada
+0069C273|1|Largos
+0069C273|1|Estilo principal
+0069C273|1|SWOLF med.
+0069C273|1|BPM med.
+006AA20C|1|%02lu:%02lu:%02lu
+0069F9D3|1|Braza
+0069F9D3|1|Mixto
+0069F9D3|1|Estilo libre
+0069F9D3|1|Espalda
+0069F9D3|1|Mariposa
+006AA20C|1|%lu.%lu
+0068E9F4|1|Máx.
+0068E9F4|1|Máx.
+006AEBF0|1|%u
+00671E08|1|Series
+00671E08|1|On
+0067D79C|1|Levantar para activar se desactivará cuando te vayas a dormir o te quites la pulsera.
+006BC882|1|℃
+006BC882|1|℉
+00692249|1|%d:%02d
+006B2726|1|%u'%02u''
+006A25EF|1|%u'%02u''
+0067D79C|1|Objetivo: %u'%02u''
+006AFF01|1|%u km/h
+0067D79C|1|Objetivo: %u km/h
+006A25EF|1|%u
+0067D79C|1|Objetivo de LPM: %d–%d
+0067B11B|1|%d
+0067D79C|1|Threshold: %d BPM
+006A25EF|1|--
+006AA20C|1|%d℉/%d℉
+0067D79C|1|Entendido
+0068C553|1|%u
+006ADBE8|1|%%
+00685B4E|1|Batería por debajo del %u%%. Cárgala ahora.
+0068E9F4|1|VO₂ max
+0068E9F4|1|Anaeróbico
+0068E9F4|1|Intensivo
+0068E9F4|1|Aeróbico
+0068E9F4|1|Ligero
+006A8A50|1|%02lu:%02lu:%02lu
+00671E08|1|%02lu:%02lu:%02lu
+00692249|1|LPM
+006BAA4F|1|%u
+0069F9D3|1|%d℃/%d℃
+0069F9D3|1|%d℉/%d℉
+0067D79C|1|%d℃/%d℃
+0067D79C|1|%d℉/%d℉
+0069F9D3|1|℃
+0069F9D3|1|℉
+0069F9D3|1|-
+0067D79C|1|-
+0067D79C|1|Ciclo
+0067D79C|1|Máquina de remo
+00671E08|1|Conecta con la aplicación y vuelve a intentarlo
+00671E08|1|Principiante
+00671E08|1|Resistencia
+00671E08|1|Intervalo
+00671E08|1|Caminata/carrera básica
+00671E08|1|Caminata/carrera avanzada
+00671E08|1|Carrera básica
+00671E08|1|Básico
+00671E08|1|Avanzado
+00671E08|1|MIIT
+00671E08|1|Básico
+00671E08|1|Avanzado
+00671E08|1|Básico
+00671E08|1|Avanzado
+00683E95|1|Combina caminar y correr por intervalos.
+00683E95|1|Combina caminar y correr por intervalos.
+00683E95|1|Carrera de intensidad baja-media.
+00683E95|1|Una carrera más corta para quemas grasa y perder peso.
+00683E95|1|Intensidad baja-media, una carrera larga para quemar grasa.
+00683E95|1|Un entrenamiento por intervalos de intensidad media-alta.
+00683E95|1|Carrera media-larga para mayor resistencia.
+00683E95|1|Una carrera más larga para mayor resistencia.
+00683E95|1|Entrenamiento más corto por intervalos para una mejor salud del corazón y los pulmones.
+00683E95|1|Entrenamiento más largo por intervalos para una mejor salud del corazón y los pulmones.
+00671E08|1|%02u/%02u
+00671E08|1|Ahora
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|En %u min
+00671E08|1|Atrasado
+0067D79C|1|Lun. 
+0067D79C|1|Mar. 
+0067D79C|1|Mié. 
+0067D79C|1|Jue. 
+0067D79C|1|Vie. 
+0067D79C|1|Sáb. 
+0067D79C|1|Dom. 
+0067D79C|1|%u/%u
+0067D79C|1|%02u:%02u 
+0067D79C|1|Hoy 
+0067D79C|1|Mañana 
+006B2726|1|02d%:02d%
+00691279|1|km por delante
+006A25EF|1|--'--"
+006802BF|1|--'--"
+0067D79C|1|%02u:%02u-
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u h
+00671E08|1|En %u día
+00671E08|1|En %u día
+00671E08|1|En %u día
+00671E08|1|En %u día
+00671E08|1|En %u días
+00671E08|1|En %u días
+00671E08|1|En %u días
+00671E08|1|En %u días
+00692EE0|1|Batería baja
+00683E95|1|Correr
+00675C56|1|%d min
+00675C56|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+00685B4E|1|Preparando actualización
+00685B4E|1|No se pudo actualizar.\nVuelve a intentarlo.
+006BAA4F|1|%
+0067D79C|1|Tiempo
+00683E95|1|Relajado
+00683E95|1|Leve
+00683E95|1|Severo
+0067D79C|1|Monitoreo permanente desactivado.
+0067D79C|1|%02u:%02u a.m.–
+0067D79C|1|%02u:%02u p.m.–
+0067D79C|1|%02u:%02u a.m.
+0067D79C|1|%02u:%02u p.m.
+00685B4E|1|Te llamaré más tarde.
+00685B4E|1|Ahora no puedo hablar. ¿Qué pasa?
+00685B4E|1|Ahora no puedo hablar. ¿Me llamas luego?
+006BC913|1|--
+006802BF|1|%u%%
+0068E9F4|1|Objetivo
+006802BF|1|%u
+00685B4E|1|km
+00685B4E|1|kcal
+00685B4E|1|largo
+00685B4E|1|largo
+00685B4E|1|largo
+00685B4E|1|largos
+00685B4E|1|largos
+00685B4E|1|largos
+00685B4E|1|largos
+00685B4E|1|brazada
+00685B4E|1|brazada
+00685B4E|1|brazada
+00685B4E|1|brazadas
+00685B4E|1|brazadas
+00685B4E|1|brazadas
+00685B4E|1|brazadas
+00685B4E|1|salto
+00685B4E|1|salto
+00685B4E|1|salto
+00685B4E|1|saltos
+00685B4E|1|saltos
+00685B4E|1|saltos
+00685B4E|1|saltos
+006AC3CA|1|¡Nuevo récord!
+006802BF|1|%02u:%02u:%02u
+006BAA4F|1|%lu.%lu.%lu
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %lu.%lu km
+0068E9F4|1|Objetivo: %02u:%02u:%02u
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u kcal
+0068E9F4|1|Objetivo: %u largo
+0068E9F4|1|Objetivo: %u largo
+0068E9F4|1|Objetivo: %u largo
+0068E9F4|1|Objetivo: %u largo
+0068E9F4|1|Objetivo: %u largos
+0068E9F4|1|Objetivo: %u largos
+0068E9F4|1|Objetivo: %u largos
+0068E9F4|1|Objetivo: %u largos
+0068E9F4|1|Objetivo: %u brazada
+0068E9F4|1|Objetivo: %u brazada
+0068E9F4|1|Objetivo: %u brazada
+0068E9F4|1|Objetivo: %u brazadas
+0068E9F4|1|Objetivo: %u brazadas
+0068E9F4|1|Objetivo: %u brazadas
+0068E9F4|1|Objetivo: %u brazadas
+0068E9F4|1|Objetivo: %u salto
+0068E9F4|1|Objetivo: %u salto
+0068E9F4|1|Objetivo: %u salto
+0068E9F4|1|Objetivo: %u saltos
+0068E9F4|1|Objetivo: %u saltos
+0068E9F4|1|Objetivo: %u saltos
+0068E9F4|1|Objetivo: %u saltos
+0067D79C|1|Tu pulsera te notifica cuando tu ritmo cardíaco supera un LPM establecido. Tu ritmo cardíaco aumenta bajo el estrés.
+0067D79C|1|Tu pulsera te notifica cuando tu ritmo cardíaco desciende por debajo de un LPM establecido. Tu ritmo cardíaco se ralentiza durante el sueño. Si no te sientes bien, consulta con un médico.
+0067B11B|1|Ritmo cardíaco alto
+0067B11B|1|Ritmo cardíaco bajo
+00671E08|1|Saber más
+0067B11B|1|Correr
+0067B11B|1|Correr
+0067B11B|1|Esprintar
+006802BF|1|%d
+0068A637|1|Correr
+0068A637|1|Correr
+0068A637|1|Esprintar
+00683E95|1|Correr
+00683E95|1|Esprintar
+006802BF|1|%02d
+006A25EF|1|%02d
+006A25EF|1|:
+0067D79C|1|Ver detalles en la aplicación
+00671E08|1|¡Lo conseguiste!
+0067D79C|1|Listo
+0067D79C|1|Continuar (%lu s)
+00671E08|1|Entrenamiento
+0068E9F4|1|Tiempo
+0068E9F4|1|Ritmo cardíaco
+006B8C66|1|%lu.%02lu
+006BC955|1|Automático
+00677D17|1|Automático
+00671E08|1|Establecido con éxito
+0067D79C|1|Entendido
+00671E08|1|Sobrecalentándose. Desactivándose.
+0069C273|1|med.
+0067B11B|1|Batería baja
+0067D79C|1|a.m.
+0067D79C|1|p.m.
+006AA20C|1|%lu:%02lu
+0069C273|1|%u.%02u km
+0069C273|1|%u.%02u km
+0069C273|1|%u.%02u km
+0067D79C|1|No molestar se activará cuando te vayas a dormir o te quites la pulsera.
+00675C56|1|Notificar cuando las lecturas de SpO₂ estén por debajo del nivel establecido durante el tiempo despierto
+006A90F8|1|%d:%02d a.m.
+006A90F8|1|%d:%02d p.m.
+006A90F8|1|Ayer, %d:%02d a.m.
+006A90F8|1|Ayer, %d:%02d p.m.
+006A90F8|1|%02d/%02d, %d:%02d a.m.
+006A90F8|1|%02d/%02d, %d:%02d p.m.
+00685B4E|1|Correr
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u kcal
+00683E95|1|Objetivo: %u paso
+00683E95|1|Objetivo: %u paso
+00683E95|1|Objetivo: %u paso
+00683E95|1|Objetivo: %u pasos
+00683E95|1|Objetivo: %u pasos
+00683E95|1|Objetivo: %u pasos
+00683E95|1|Objetivo: %u pasos
+00683E95|1|Objetivo: %u brazada
+00683E95|1|Objetivo: %u brazada
+00683E95|1|Objetivo: %u brazada
+00683E95|1|Objetivo: %u brazadas
+00683E95|1|Objetivo: %u brazadas
+00683E95|1|Objetivo: %u brazadas
+00683E95|1|Objetivo: %u brazadas
+00683E95|1|Objetivo: %u min
+00683E95|1|Objetivo: %u min
+00683E95|1|Objetivo: %u min
+00683E95|1|Objetivo: %u min
+00683E95|1|Objetivo: %u min
+00683E95|1|Objetivo: %u min
+00683E95|1|Objetivo: %u min
+0069DE7F|1|0123456789•
+0069C273|1|Hoy
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Tendrás el periodo en %u d
+00671E08|1|Periodo fértil en %u d
+00671E08|1|Periodo fértil en %u d
+00671E08|1|Periodo fértil en %u d
+00671E08|1|Periodo fértil en %u d
+00671E08|1|Periodo fértil en %u d
+00671E08|1|Periodo fértil en %u d
+00671E08|1|Periodo fértil en %u d
+00683E95|1|Escanea para ver Ayuda
+0069C273|1|Ayer
+0069C273|1|Hace 2 días
+0067D79C|1|Ajusta la correa de la pulsera
+00671E08|1|Saber más
+0069F9D3|1|Desconocido
+00692EE0|1|Caminata/carrera básica
+00692EE0|1|Caminata/carrera avanzada
+00692EE0|1|Carrera básica
+00692EE0|1|Básica
+00692EE0|1|Avanzado
+00692EE0|1|MIIT
+00692EE0|1|Básico
+00692EE0|1|Avanzado
+00692EE0|1|Básico
+00692EE0|1|Avanzado
+00692EE0|1|Severo
+0067D79C|1|Respiración
+0067D79C|1|Caminar
+00671E08|1|¿Permitir que tu pulsera desbloquee el teléfono?
+00671E08|1|Permitido
+00671E08|1|No se pudo permitir
+00671E08|1|Ayuda
+00671E08|1|Normativa
+0067B11B|1|Modelo
+0067B11B|1|CMIIT ID
+00691279|1|Ene.
+00691279|1|Feb.
+00691279|1|Mar.
+00691279|1|Abr.
+00691279|1|May.
+00691279|1|Jun.
+00691279|1|Jul.
+00691279|1|Ago.
+00691279|1|Sep.
+00691279|1|Oct.
+00691279|1|Nov.
+00691279|1|Dic.
+0068E9F4|1|Tendrás el periodo en 1 d
+0068E9F4|1|Tendrás el periodo en 2 d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Tendrás el periodo en %u d
+0068E9F4|1|Ovulación en 1 d
+0068E9F4|1|Ovulación en 2 d
+0068E9F4|1|Ovulación en %u d
+0068E9F4|1|Ovulación en %u d
+0068E9F4|1|Ovulación en %u d
+0068E9F4|1|Ovulación en %u d
+0068E9F4|1|Ovulación en %u d
+0068E9F4|1|Ovulación en %u d
+0068E9F4|1|Ovulación en %u d
+00671E08|1|Activado/Desactivado
+00671E08|1|Activado/Desactivado
+00692EE0|1|Llamada perdida
+0067D79C|1|Entendido
+0067D79C|1|Permite que la aplicación se ejecute en segundo plano
+0067D79C|1|Configura Alexa en la aplicación
+0067D79C|1|Inicia sesión en tu cuenta de Amazon en la aplicación
+0067D79C|1|No se puede reproducir vídeo o audio en tu pulsera
+0067D79C|1|Conectando…
+0067D79C|1|Escuchando…
+0067D79C|1|Pensando…
+0067D79C|1|Establecer un recordatorio en 2 minutos
+0067D79C|1|¿Qué tiempo hace?
+00675C56|1|%02d:%02d-%02d:%02d
+00675C56|1|%02d:%02d-%02d:%02d
+00692249|1|Relajado
+00692249|1|Leve
+00692249|1|Severo
+00692EE0|1|Moderado
+00671E08|1|Diario
+00671E08|1|No se pudo conectar
+00671E08|1|Error de red
+00671E08|1|Se requiere configuración
+00671E08|1|Iniciar sesión
+006A90F8|1|Brazadas
+0067D79C|1|Media
+00692249|1|Pasos/min
+00692249|1|km/h
+00692249|1|SPM
+00671E08|1|Saber más
+0067D79C|1|Batería baja. La linterna se ha apagado.
+0067D79C|1|Cerrar
+006976CB|1|%.1f
+006AEBF0|1|%.1f
+006976CB|1|%u:%02u'%02u"
+006AEBF0|1|%u:%02u'%02u"
+006AA20C|1|%u:%02u'%02u"
+00683E95|1|Reproduciendo sonido
+0067B11B|1|Los PINs no coinciden
+0067B11B|1|Introducir PIN
+0067B11B|1|Nuevo PIN
+0067D79C|1|No se pudo conectar
+0067D79C|1|Error de red
+0067D79C|1|Se requiere configuración
+0067D79C|1|Iniciar sesión
+0067D79C|1|No disponible
+0069DE7F|1|Nuevo PIN
+0069DE7F|1|Confirmar PIN
+0069DE7F|1|   Los PINs no coinciden  
+0069DE7F|1|Introducir PIN
+00677D17|1|%d
+006BC955|1|%d
+0068E9F4|1|%d h %d min
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d h
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+0068E9F4|1|%d min
+00685B4E|1|%d'%02d"
+0069C273|1|%02u/%02u
+0069C273|1|%02u:%02u
+0069F9D3|1|--℃/--℃
+0069F9D3|1|--℉/--℉
+0067D79C|1|--℃/--℃
+0067D79C|1|--℉/--℉
+0068E9F4|1|Objetivo completado
+0068E9F4|1|Objetivo completado
+0068E9F4|1|Objetivo de Movimiento completado
+0068E9F4|1|Objetivo de Levantado completado
+0068E9F4|1|Objetivo de Pasos completado
+0068E9F4|1|Objetivo de Calorías completado
+0068E9F4|1|Objetivo completado
+0068E9F4|1|Objetivo completado
+0068E9F4|1|Todos los objetivos completados
+0068E9F4|1|Este es el camino a seguir
+0068E9F4|1|Objetivos conseguidos
+0068E9F4|1|Objetivos completados
+00692249|1|km/h
+00692249|1|/km
+00671E08|1|a.m.
+00671E08|1|p.m.
+00671E08|1|La distancia de entrenamiento es demasiado corta para registrarla.
+0067B11B|1|(Sin título)
+0068E9F4|1|¿Olvidaste el PIN?
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en %d s
+00685B4E|1|Vuelve a intentarlo en 5 min
+00685B4E|1|Vuelve a intentarlo en 10 min
+00685B4E|1|Restablece el PIN en la aplicación
+0068E9F4|1|Entendido
+0069DE7F|1|Introduce el PIN para desbloquear
+0068E9F4|1|%d notificación
+0068E9F4|1|%d notificación
+0068E9F4|1|%d notificación
+0068E9F4|1|%d notificaciones
+0068E9F4|1|%d notificaciones
+0068E9F4|1|%d notificaciones
+0068E9F4|1|%d notificaciones
+006BF23F|1|--:--
+00671E08|1|Alexa
+00685B4E|1|No disponible
+0068E9F4|1|Amazon Alexa no está disponible en la región de tu cuenta
+0068E9F4|1|Comprueba tu conexión de red
+00671E08|1|¿Estabas diciendo?
+0068E9F4|1|omienza diciendo
+00683E95|1|Lun.
+00683E95|1|Mar.
+00683E95|1|Mié.
+00683E95|1|Jue.
+00683E95|1|Vie.
+00683E95|1|Sáb.
+00683E95|1|Dom.
+0069C273|1|%u km/h
+00671E08|1|Vinculando
+00685B4E|1|No se pudo vincular
+0069DE7F|1|Introduce el PIN para desbloquear
+0069DE7F|1|Introduce el PIN para desbloquear
+006A90F8|1|%d℃/%d℃
+006A90F8|1|%d℉/%d℉
+0068E9F4|1|%d
+006B8C66|1|%02d:%02d.%02d
+00685B4E|1|m
+0068E9F4|1|Conecta tu pulsera con la aplicación
+006A90F8|1|-
+0067D79C|1|Mira los detalles en la aplicación
+00671E08|1|Contact customer support to get your device repaired
+00675C56|1|Haz un seguimiento de tu ritmo cardíaco en todo momento
+00685B4E|1|PIN establecido
+00675C56|1|Recibe recordatorios para comenzar y finalizar una carrera, caminata o entrenamiento de remo.
+00671E08|1|Cargando
+00691279|1|.
+00692249|1|.
+006A8A50|1|.
+006BF23F|1|.
+0069C273|1|.
+006A90F8|1|.
+006BF2BA|1|.
+006BF2DE|1|.
+00675C56|1|.
+00683E95|1|.
+006BF309|1|.
+006BA24D|1|.
+0068E9F4|1|.
+0067D79C|1|.
+006AEBF0|1|.
+006BC882|1|.
+006BC913|1|.
+006B7D6C|1|.
+006BF32F|1|.
+006AF6B6|1|.
+0069DE7F|1|.
+0067B11B|1|.
+006BF35A|1|.
+006BF385|1|.
+00685B4E|1|.
+00671E08|1|.
+006BAA4F|1|.
+006ADBE8|1|.
+006BF3B3|1|.
+006BF3DE|1|.
+00683175|1|.
+006BF402|1|.
+006AC3CA|1|.
+0069F9D3|1|.
+006BB888|1|.
+006A3EBB|1|.
+006BF43A|1|.
+00692EE0|1|.
+006B8C66|1|.
+006A4E9F|1|.
+006C0322|1|.
+006AFF01|1|.
+006C0356|1|.
+006A25EF|1|.
+006AD305|1|.
+006BC955|1|.
+006B60EC|1|.
+006AA20C|1|.
+006C1A82|1|.
+00677D17|1|.
+006976CB|1|.
+0068C553|1|.
+00671E08|1|h
+00671E08|1|min
+0067D79C|1|No mostrar hoy
+00685B4E|1|No disponible
+0068E9F4|1|Amazon Alexa no está disponible en la región de tu cuenta
+0067D79C|1|Máquina de remo
+0067D79C|1|Elíptica
+0067D79C|1|Saltar a la cuerda
+00671E08|1|Bien hecho
+0068E9F4|1| 
+0068E9F4|1| 
+0068E9F4|1|Objetivo
+0068E9F4|1|Restante
+0068E9F4|1|Objetivo
+0068E9F4|1|Restante
+0068E9F4|1|Objetivo de largos
+0068E9F4|1|Restante
+0068E9F4|1|Objetivo de saltos
+0068E9F4|1|Restante
+00671E08|1|Tiempo
+00671E08|1|Distancia
+00671E08|1|Largos
+00671E08|1|Brazadas
+00671E08|1|Saltos
+00692249|1| 
+0069C273|1|%d:%02d
+0069C273|1|%d min
+0069C273|1|%dmin %02ds
+00671E08|1|Aplicaciones
+0067B11B|1|Fitness
+0067B11B|1|Básico
+0067B11B|1|Tiempo
+0067B11B|1|Herramientas
+00671E08|1|Cronómetro
+00671E08|1|Temporizador
+00671E08|1|Cámara
+00671E08|1|Tarjetas
+00685B4E|1|El tiempo de entrenamiento es demasiado corto para registrarlo.
+006C1ABA|1|Cronómetro
+006C1ABA|1|Temporizador
+006BC955|1|%d℃
+006BC955|1|%d℉
+006BC955|1|-
+006BC955|1|--℃
+006BC955|1|--℉
+0067D79C|1|Un momento
+0069F9D3|1|Respiración
+006BC955|1|--
+00671E08|1|Automático
+00671E08|1|Personalizado
+006BC955|1|%d%%
+0067D79C|1|Un momento
+0067D79C|1|Sin reproducción
+0067D79C|1|Desconectado
+00691279|1|Desliza hacia arriba para el código de barras
+00691279|1|Desliza hacia abajo para el código QR
+006C1ABA|1|Máquina de remo
+006C1ABA|1|Caminar
+006C1ABA|1|HIIT
+006C1ABA|1|Ciclismo al aire libre
+006C1ABA|1|Ciclismo en interior
+006C1ABA|1|Saltar a la cuerda
+006C1ABA|1|Excursionismo
+006C1ABA|1|Senderismo
+006C1ABA|1|Elíptica
+006C1ABA|1|Correr al aire libre
+006C1ABA|1|Natación en piscina
+006C1ABA|1|Correr en cinta
+006C1ABA|1|Carrera en pista
+006C1ABA|1|Estilo libre
+006C0356|1|%lu
+006B60EC|1|%lu
+0067D79C|1|Sin datos
+006BC955|1|--
+0067D79C|1|min
+00671E08|1|SpO₂
+0068E9F4|1|Ayer alcanzaste tu objetivo. ¡Sigue así hoy!
+0068E9F4|1|Ayer alcanzaste 2 de 3 objetivos. ¡Puedes hacerlo!
+0068E9F4|1|Ayer no alcanzaste tus objetivos. ¡Haz que hoy valga la pena!
+0068E9F4|1|Tus objetivos están a tu alcance. ¡Hoy es un nuevo día!
+0068E9F4|1|Estás a solo 1000 pasos de tu objetivo.
+0068E9F4|1|Estás a solo 50 kcal de tu objetivo.
+0068E9F4|1|Todavía estás a tiempo de alcanzar el objetivo de hoy, ¡sigue así!
+0068E9F4|1|Levántate dos veces más hoy para dar alcanzar tu objetivo.
+0068E9F4|1|Levántate una vez más hoy para dar alcanzar tu objetivo.
+0068E9F4|1|Ayer alcanzaste tu objetivo. ¡Sigue así hoy!
+0068E9F4|1|Ayer alcanzaste 2 de 3 objetivos. ¡Puedes hacerlo!
+0068E9F4|1|Ayer no alcanzaste tus objetivos. ¡Haz que hoy valga la pena!
+0068E9F4|1|Tus objetivos están a tu alcance. ¡Hoy es un nuevo día!
+0068E9F4|1|Estás a solo 1000 pasos de tu objetivo.
+0068E9F4|1|Estás a solo 50 kcal de tu objetivo.
+0068E9F4|1|Casi has completado el objetivo, ¡sigue así!
+0068E9F4|1|Levántate dos veces más hoy para dar alcanzar tu objetivo.
+0068E9F4|1|Levántate una vez más hoy para dar alcanzar tu objetivo.
+006BF43A|1|¡Objetivo alcanzado!
+00685B4E|1|¡Puedes hacerlo!
+00685B4E|1|Estadísticas
+0069C273|1|Personalizar
+00685B4E|1|No se pudo vincular
+00675C56|1|Vuelve a intentarlo
+0068E9F4|1|Vincular
+00685B4E|1|Confirma en tu teléfono
+00685B4E|1|Vinculando...
+00685B4E|1|Vinculado
+00675C56|1|Escanea para descargar la aplicación
+00675C56|1|Confirma en tu teléfono
+006C33C5|1|繁體中文
+00685B4E|1|English
+00685B4E|1|Deutsch
+006C3CCC|1|한국어
+006C4299|1|עברית
+006C4669|1|ไทย
+006C489D|1|日本語
+006C4ED0|1|العربية
+00685B4E|1|Italiano
+00685B4E|1|Français
+00685B4E|1|Español
+00685B4E|1|Polski
+00685B4E|1|Українська
+00685B4E|1|Čeština
+00685B4E|1|Русский
+00685B4E|1|Nederlands
+00685B4E|1|Português PT
+00685B4E|1|Türkçe
+00685B4E|1|Română
+00685B4E|1|Eλληνικά
+00685B4E|1|Português BR
+00685B4E|1|Indonesia
+00685B4E|1|Tiếng Việt
+00685B4E|1|Norsk bokmål
+00685B4E|1|Suomi
+00685B4E|1|Svenska
+00685B4E|1|Dansk
+0069C273|1|Desactivado
+0069C273|1|%d segundo
+0069C273|1|%d segundo
+0069C273|1|%d segundo
+0069C273|1|%d segundos
+0069C273|1|%d segundos
+0069C273|1|%d segundos
+0069C273|1|%d segundos
+0067D79C|1|%u/%u/%u 
+0067B11B|1|Xiaomi Smart Band 7 Pro
+0067D79C|1|OK
+0069DE7F|1|If the number of words is too long, please check it on the APP side
+00671E08|1|Snowboard
+00671E08|1|Esquí
+00692EE0|1|Snowboard
+00692EE0|1|Esquí
+00675C56|1|Personalizar
+00671E08|1|Syncing
+00685B4E|1|Preparing update
+0069C273|1|VO₂ max
+00675C56|1|Alta

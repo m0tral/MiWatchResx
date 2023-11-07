@@ -1,0 +1,2071 @@
+00A967C3|1|Cài đặt
+00A967C3|1|Giao diện vòng đeo tay
+00A967C3|1|Hiển thị
+00A967C3|1|Rung
+00A9D691|1|Mặc định
+00A9D691|1|Mạnh
+00A967C3|1|Tự động phát hiện
+00A9D691|1|Tắt
+00A9D691|1|Bật
+00A967C3|1|Không làm phiền
+00A9D691|1|Tắt
+00A9D691|1|Thông minh
+00A9D691|1|Cả ngày
+00A967C3|1|Bố trí ứng dụng
+00A9D691|1|Chế độ biểu tượng
+00A9D691|1|Chế độ danh sách
+00A967C3|1|PIN
+00A967C3|1|Hệ thống
+00A967C3|1|Giới thiệu vòng đeo tay
+00A967C3|1|Độ sáng
+00A967C3|1|Always-on
+00A967C3|1|Tự động khóa
+00A967C3|1|Che để ngủ
+00A967C3|1|Nâng lên để đánh thức
+00A9D691|1|Tự động
+00AA105F|1|Tự động
+00A967C3|1|Tắt
+00A967C3|1|Thông minh
+00A967C3|1|Theo lịch trình
+00A967C3|1|Cả ngày
+00A967C3|1|Tìm hiểu thêm
+00AA4D9B|1|Always-on
+00AA4D9B|1|Thông minh
+00AA8D14|1|Thời gian sẽ được hiển thị ngay cả khi màn hình bị khóa.
+00AA8D14|1|Always-on display sẽ tắt khi bạn đi ngủ hoặc tháo vòng đeo tay.
+00A967C3|1|Điều này sẽ ảnh hưởng thời gian sử dụng pin, tiếp tục?
+00A967C3|1|Bắt đầu
+00A967C3|1|Kết thúc
+00A967C3|1|Trạng thái
+00AAD92C|1|-%d
+00AB07E2|1|%d
+00A967C3|1|Độ nhạy
+00A9D691|1|Thông minh
+00AA105F|1|Cao
+00AA105F|1|Mặc định
+00A967C3|1|Điều này sẽ ảnh hưởng thời gian sử dụng pin, tiếp tục?
+00AB1502|1|s
+00AB1502|1|m
+00A967C3|1|Tự động phát hiện
+00A967C3|1|Phát hiện tập luyện
+00AA8D14|1|Tôi biết
+00AA8D14|1|Tôi biết
+00A9D691|1|Để đặt tần suất giám sát, hãy tắt BPM bất thường.
+00AB07E2|1|%d:%02d
+00AB4354|1|Điều này sẽ ảnh hưởng thời gian sử dụng pin, tiếp tục?
+00A967C3|1|Tắt
+00A967C3|1|Thông minh
+00AA8D14|1|Always-on display sẽ tắt khi bạn đi ngủ hoặc tháo vòng đeo tay.
+00A967C3|1|Chế độ biểu tượng
+00A967C3|1|Chế độ danh sách
+00A967C3|1|Hệ thống
+00A967C3|1|Khởi động lại
+00A967C3|1|Tắt
+00A967C3|1|Đặt lại
+00A967C3|1|Khởi động lại ngay bây giờ?
+00A967C3|1|Tắt ngay?
+00AB4354|1|Xóa tất cả dữ liệu?
+00AA4D9B|1|Tên
+00AA4D9B|1|Mẫu
+00AA4D9B|1|Địa chỉ MAC
+00AA4D9B|1|Số phiên bản
+00AA4D9B|1|Số sê ri
+00AA4D9B|1|Quy định
+00A967C3|1|Rung
+00ABAFBA|1|Mạnh
+00AA105F|1|Mặc định
+00AA105F|1|Mạnh
+00ABDC8F|1|%d
+00A9D691|1|%d/%d
+00A967C3|1|Khởi động
+00AA8D14|1|Hoàn tất
+00AAD92C|1|%2d:%2d:%2d
+00A967C3|1|Tập luyện
+00AAD92C|1|%d
+00AC0130|1|Sải bơi mục tiêu
+00AC0130|1|Còn lại
+00AA8D14|1|Bỏ qua
+00A967C3|1|Nghỉ ngơi
+00AC0130|1|Nghỉ ngơi
+00AC0130|1|Còn lại
+00A967C3|1|Hạ nhiệt
+00AA8D14|1|Kết thúc
+00A967C3|1|Chạy bộ
+00A967C3|1|Đốt cháy chất béo
+00A967C3|1|Nâng cao
+00AC0130|1|Giới thiệu
+00AC0130|1|Kế hoạch tập luyện
+00AB1502|1|Đi bộ
+00AB1502|1|Chạy nhẹ cơ bản
+00AA8D14|1|Bắt đầu
+00A967C3|1|Gần đây
+00ABAFBA|1|Đi bộ
+00AA4D9B|1|BPM mục tiêu
+00AA8D14|1|%d~%dbpm
+00AA4D9B|1|Đi bộ
+00AAD92C|1|%d:%02d
+00AC0130|1|Hẹn giờ
+00AC4ABE|1|BPM
+00A967C3|1|Dường như bạn đang chạy bộ
+00AA8D14|1|Ngoài trời
+00AA8D14|1|Chạy bộ trong phòng
+00AA8D14|1|Bỏ qua (%d giây)
+00AA8D14|1|km
+00AA8D14|1|Tạm dừng
+00AA8D14|1|Tiếp tục
+00AB4354|1|Khoảng cách tập luyện quá ngắn để ghi. Kết thúc?
+00AB4354|1|Thời gian tập luyện quá ngắn để ghi. Kết thúc?
+00AA8D14|1|Tiếp tục
+00AA8D14|1|Kết thúc
+00A967C3|1|Hiệu chỉnh
+00AAD92C|1|.
+00AC5DB0|1|km
+00AB4354|1|Màn hình khóa khi bạn bắt đầu
+00A967C3|1|Hít thở
+00AC6F0C|1|Hít thở
+00A967C3|1|Thời gian
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00ACF0B6|1|%d
+00AD14B4|1|%d
+00AC6F0C|1|Thư giãn
+00AA8D14|1|Tập trung vào hơi thở của bạn
+00AC6F0C|1|Bắt đầu thôi
+00AA8D14|1|Làm theo bong bóng
+00AC6F0C|1|Hít vào
+00AC6F0C|1|Thở ra
+00AC6F0C|1|Làm tốt lắm
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00AA8D14|1|Phiên: %d phút
+00A967C3|1|Kết quả
+00AA8D14|1|HR hiện tại
+00ACF0B6|1|89
+00AC5DB0|1|BPM
+00AA8D14|1|Đang bắt đầu HR
+00AA8D14|1|Phiên
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00AC5DB0|1|phút
+00A967C3|1|Cài đặt
+00A967C3|1|Mục tiêu
+00A967C3|1|Khoảng thời gian
+00A967C3|1|Cảnh báo
+00A967C3|1|Chiều dài bể bơi
+00A967C3|1|Tự động tạm dừng
+00AC0130|1|Mục tiêu mở
+00AD3C5E|1|1.5 km
+00A967C3|1|Mục tiêu mở
+00A967C3|1|Khoảng cách
+00A967C3|1|Thời gian
+00A967C3|1|Calo
+00A967C3|1|Nhảy
+00A967C3|1|Độ dài
+00AC0130|1|5 km
+00A967C3|1|Khoảng thời gian sẽ tắt. Tiếp tục?
+00A967C3|1|Mục tiêu tập luyện sẽ bị xóa. Tiếp tục?
+00A967C3|1|Khoảng cách
+00A967C3|1|Thời gian
+00A967C3|1|Calo
+00A967C3|1|Nhảy
+00A967C3|1|Độ dài
+00AC5DB0|1|m
+00AC5DB0|1|kcal
+00AC5DB0|1| 
+00AC5DB0|1| 
+00A967C3|1|Hiệp
+00A967C3|1|Nghỉ ngơi
+00AC5DB0|1|giây
+00AC5DB0|1| 
+00A967C3|1|Khoảng cách
+00A967C3|1|Tốc độ
+00A967C3|1|Tốc độ
+00A967C3|1|Phạm vi nhịp tim
+00A967C3|1|Nhịp tim cao
+00AA8D14|1|Tắt tất cả
+00AD3C5E|1|Tắt
+00AD3C5E|1|Tăng cường
+00A967C3|1|Người đồng hành
+00AAD92C|1|5'00"
+00ABDC8F|1|4'50"
+00A967C3|1|%d km/h
+00AC5DB0|1|km/h
+00A967C3|1|Tắt
+00A967C3|1|Nhẹ
+00A967C3|1|Tăng cường
+00A967C3|1|Aerobic
+00A967C3|1|Anaerobic
+00A967C3|1|VO₂ max
+00AD3C5E|1|%u–%u BPM
+00A967C3|1|Nhịp tim cao
+00AC5DB0|1|BPM
+00A967C3|1|25 m
+00A967C3|1|Tùy chỉnh
+00A967C3|1|Tùy chỉnh
+00AC5DB0|1|m
+00A967C3|1|Đặt mã PIN
+00AD6599|1|Nhập mã PIN
+00AD6599|1|Xác nhận mã PIN
+00AD6599|1|Không chính xác
+00A967C3|1|Xóa tất cả dữ liệu?
+00A967C3|1|Tắt mã PIN
+00A967C3|1|Thay đổi mã PIN
+00A967C3|1|Mã PIN đã thay đổi
+00A967C3|1|Mã PIN đã tắt
+00A9D691|1|Vòng đeo tay của bạn sẽ tự động khóa khi bạn tháo ra.
+00AD8D01|1|Tăng tốc
+00AD8D01|1|Tiếp tục nào
+00AD8D01|1|Chậm lại
+00ADCC46|1|%u'%02u''
+00AC6F0C|1|Nhịp tim cao
+00AA8D14|1|Calo
+00ADE512|1|345
+00AA8D14|1|Bước
+00AA8D14|1|Vận động
+00ADF4F6|1|323
+00A967C3|1|Bước
+00AC5DB0|1| 
+00A967C3|1|Đứng
+00A967C3|1|Vận động
+00A967C3|1|Nhắc nhở
+00AA4D9B|1|Bước
+00AA4D9B|1|Calo
+00AD6599|1|Đứng
+00AD6599|1|Vận động
+00A967C3|1|Ngủ
+00AE0799|1|10
+00AD8D01|1|h
+00AD8D01|1|m
+00AA8D14|1|Mục tiêu:
+00AE30A7|1|24:33
+00AA8D14|1|Không có dữ liệu
+00AA4D9B|1|Ngủ
+00AA8D14|1|1. Để theo dõi giấc ngủ REM, hãy bật Theo dõi nâng cao.\n2. Đeo chặt vòng đeo tay.\n3. Chỉ số nhịp tim và SpO₂ phụ thuộc vào chuyển động, chất lượng giấc ngủ v.v.
+00AC6F0C|1|h
+00AC6F0C|1|m
+00AA8D14|1|Không có dữ liệu
+00A967C3|1|Theo dõi nâng cao
+00A967C3|1|Điểm hít thở
+00A967C3|1|Điểm hít thở
+00A9D691|1|Theo dõi giấc ngủ REM
+00A967C3|1|Điểm hít thở
+00A9D691|1|Giám sát nhịp thở ban đêm
+00A967C3|1|Ngủ
+00AC0130|1|BPM trung bình
+00A967C3|1| 
+00AC0130|1|SpO₂ trung bình
+00A967C3|1|Ngủ trưa
+00A967C3|1|Nhịp tim
+00AE30A7|1|126
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00A967C3|1|Nhịp tim cao
+00A967C3|1|HR thấp
+00A967C3|1|BPM bất thường
+00A967C3|1|Phạm vi nhịp tim
+00AC0130|1|VO₂ max
+00AC0130|1|VO₂ max
+00AC0130|1|Anaerobic
+00AC0130|1|Tăng cường
+00AC0130|1|Nhẹ
+00AC0130|1|Thoải mái
+00AC0130|1|Thoải mái
+00A967C3|1|%02d:%02d
+00AA8D14|1|Đang đo
+00AE4F2C|1|144-224
+00AE374F|1|BPM
+00AE4F2C|1|12: 24-12: 25
+00AA8D14|1|Thử lại
+00AA8D14|1|Đo
+00AA4D9B|1|Nhịp tim
+00AA8D14|1|Nhịp tim là số lần tim đập mỗi phút (BPM).\nThông thường, nhịp tim nghỉ ngơi dao động từ 40 đến 100 BPM. Tuy nhiên, nó thay đổi theo độ tuổi, giới tính và các yếu tố khác.\nVòng đeo tay hỗ trợ phạm vi 30–220 BPM.
+00A967C3|1|Tìm hiểu thêm
+00AA8D14|1|Đeo chặt vòng đeo tay và thử lại
+00A967C3|1|Mẹo
+00AA8D14|1|Đeo vòng đeo tay của bạn phía trên xương cổ tay.
+00AA8D14|1|Giữ vòng đeo tay vừa vặn và ổn định.
+00AA8D14|1|Các phép đo phụ thuộc vào nhiệt độ thấp, truyền máu qua da, v.v.
+00AB1502|1|Tính năng này không dành cho mục đích y tế.
+00AA8D14|1|Theo dõi liên tục đã tắt.
+00AA8D14|1|Bật
+00A967C3|1|Theo dõi liên tục
+00A967C3|1|BPM bất thường
+00A967C3|1|Bật/Tắt
+00A967C3|1|Nhịp tim cao
+00A967C3|1|HR thấp
+00A9D691|1|Để đặt tần suất giám sát, hãy tắt BPM bất thường.
+00A967C3|1|1 phút
+00A967C3|1|10 phút
+00A967C3|1|Tự động
+00A967C3|1|Mẹo
+00AA8D14|1|Measure heart rate every 10 mins
+00AA4D9B|1|Tự động
+00AA8D14|1|Tăng tần suất theo dõi trong quá trình tập luyện
+00A967C3|1|BPM bất thường
+00A9D691|1|Nhận cảnh báo nhịp tim bất thường
+00A967C3|1|Điều này sẽ ảnh hưởng thời gian sử dụng pin, tiếp tục?
+00A967C3|1|100 BPM
+00AC6F0C|1|HR thấp
+00AA4D9B|1|12: 30-12: 40
+00AA8D14|1|Chi tiết
+00AC6F0C|1|BPM bất thường
+00AC6F0C|1|Đang đo
+00AA8D14|1|Giữ yên
+00AA8D14|1|Đã đo: %02d:%02d
+00AA8D14|1|Thử lại
+00AC0130|1|Goal hit
+00AC0130|1|Goal hit
+00AC0130|1|Goal hit
+00AC0130|1|Goal hit
+00AC6F0C|1|Hoàn thành mục tiêu
+00AC0130|1|Bravo!
+00AC6F0C|1|Vận động!
+00AC6F0C|1|Đứng
+00AA8D14|1|Đứng lên và đi bộ xung quanh
+00AB4354|1|Kết nối điện thoại của bạn để cập nhật dữ liệu GPS.
+00AB4354|1|Lưu trữ đầy. Không thể ghi lại tập luyện này.
+00A967C3|1|GPS
+00AC6F0C|1|Chạy bộ ngoài trời
+00AB4354|1|Đang định vị. Đến khu vực mở và đợi bắt đầu tập luyện.
+00AA8D14|1|Chờ
+00AA8D14|1|Bắt đầu
+00AB4354|1|Tập luyện ở khu vực mở
+00AA8D14|1|Bỏ qua
+00A967C3|1|Chu kỳ
+00AE374F|1|%u/%u/%u
+00A967C3|1|Dự đoán
+00AC0130|1|Dễ thụ thai
+00A967C3|1|05.23-06.23
+00AE70EA|1|Ngày rụng trứng
+00AE8158|1|Kỳ kinh nguyệt
+00A967C3|1|Tìm hiểu thêm
+00AA8D14|1|Ghi lại chi tiết chu kỳ trên ứng dụng
+00AA4D9B|1|1. Màu
+00AA8D14|1|Kỳ kinh nguyệt
+00A967C3|1|Kỳ kinh nguyệt ngày %d
+00AA8D14|1|Dự tính kỳ kinh nguyệt
+00A967C3|1|Kỳ kinh nguyệt ngày %d
+00AA8D14|1|Dễ thụ thai
+00AA8D14|1|Kỳ dễ thụ thai ngày %d
+00AA8D14|1|Ngày rụng trứng
+00A967C3|1|Ngày rụng trứng
+00AA4D9B|1|2. Mẹo
+00AA8D14|1|Bạn càng cung cấp nhiều dữ liệu, dự đoán bạn nhận được càng chính xác.
+00AC6F0C|1|Bơi trong hồ bơi
+00AC6F0C|1|Bơi ngoài trời
+00AC6F0C|1|Đua thuyền buồm
+00AC6F0C|1|Chèo ván đứng
+00AC6F0C|1|Bóng nước
+00AC6F0C|1|Thể thao dưới nước
+00AC6F0C|1|Lướt ván nước
+00AC6F0C|1|Chèo thuyền kayak
+00AC6F0C|1|Chèo thuyền vượt thác
+00AC6F0C|1|Chèo thuyền
+00AC6F0C|1|Chèo thuyền máy
+00AC6F0C|1|Bơi lặn
+00AC6F0C|1|Nhảy cầu
+00AC6F0C|1|Bơi nghệ thuật
+00AC6F0C|1|Lặn với ống thở
+00AC6F0C|1|Lướt ván diều
+00AC6F0C|1|Đi bộ
+00AC6F0C|1|Đi bộ đường dài
+00AC6F0C|1|Đạp xe ngoài trời
+00AC6F0C|1|Đi bộ dài ngày
+00AC6F0C|1|Chạy việt dã
+00AC6F0C|1|Leo núi đá
+00AC6F0C|1|Trượt ván
+00AC6F0C|1|Trượt patin
+00AC6F0C|1|Parkour
+00AC6F0C|1|Đua xe địa hình
+00AC6F0C|1|Dù lượn
+00AC6F0C|1|Tập luyện tự do
+00AC6F0C|1|Chạy bộ trong phòng
+00AC6F0C|1|Nhảy dây
+00AC6F0C|1|HIIT
+00AC6F0C|1|Yoga
+00AC6F0C|1|Đạp xe trong phòng
+00AC6F0C|1|Máy tập elip
+00AC6F0C|1|Chèo thuyền
+00AC6F0C|1|Máy leo cầu thang
+00AC6F0C|1|Máy đi bộ
+00AC6F0C|1|Tập luyện chính
+00AC6F0C|1|Huấn luyện độ dẻo dai
+00AC6F0C|1|Pilates
+00AC6F0C|1|Thể dục dụng cụ
+00AC6F0C|1|Kéo giãn cơ
+00AC6F0C|1|Sức bền
+00AC6F0C|1|Tập luyện chéo
+00AC6F0C|1|Leo cầu thang
+00AC6F0C|1|Aerobics
+00AC6F0C|1|Huấn luyện thể chất
+00AC6F0C|1|Bóng tạ
+00AC6F0C|1|Tạ tay
+00AC6F0C|1|Tạ đòn
+00AC6F0C|1|Cử tạ
+00AC6F0C|1|Deadlift
+00AC6F0C|1|Bài tập toàn thân
+00AC6F0C|1|Gập bụng
+00AC6F0C|1|Tập luyện chức năng
+00AC6F0C|1|Thân trên
+00AC6F0C|1|Thân dưới
+00AC6F0C|1|Abs
+00AC6F0C|1|Lưng
+00AC6F0C|1|Khiêu vũ nơi công cộng
+00AC6F0C|1|Múa bụng
+00AC6F0C|1|Múa ba lê
+00AC6F0C|1|Nhảy đường phố
+00AC6F0C|1|Zumba
+00AC6F0C|1|Múa dân gian
+00AC6F0C|1|Nhảy Jazz
+00AC6F0C|1|Nhảy Latin
+00AC6F0C|1|Quyền anh
+00AC6F0C|1|Đấu vật
+00AC6F0C|1|Võ thuật
+00AC6F0C|1|Thái cực quyền
+00AC6F0C|1|Muay Thái
+00AC6F0C|1|Judo
+00AC6F0C|1|Taekwondo
+00AC6F0C|1|Karate
+00AC6F0C|1|Kickboxing
+00AC6F0C|1|Kiếm đạo
+00AC6F0C|1|Đấu kiếm
+00AC6F0C|1|Quần vợt
+00AC6F0C|1|Bóng rổ
+00AC6F0C|1|Bóng đá
+00AC6F0C|1|Bóng chuyền
+00AC6F0C|1|Bóng chày
+00AC6F0C|1|Bóng mềm
+00AC6F0C|1|Bóng bầu dục Mỹ
+00AC6F0C|1|Khúc côn cầu
+00AC6F0C|1|Bóng bàn
+00AC6F0C|1|Cầu lông
+00AC6F0C|1|Crikê
+00AC6F0C|1|Bóng ném
+00AC6F0C|1|Bowling
+00AC6F0C|1|Bóng quần
+00AC6F0C|1|Bi-a
+00AC6F0C|1|Đá cầu
+00AC6F0C|1|Bóng đá bãi biển
+00AC6F0C|1|Bóng chuyền bãi biển
+00AC6F0C|1|Cầu mây
+00AC6F0C|1|Trượt băng
+00AC6F0C|1|Bi đá trên băng
+00AC6F0C|1|Thể thao mùa đông khác
+00AC6F0C|1|Đua xe trên tuyết
+00AC6F0C|1|Khúc côn cầu trên băng
+00AC6F0C|1|Xe trượt lòng máng
+00AC6F0C|1|Đi xe trượt tuyết
+00AC6F0C|1|Bắn cung
+00AC6F0C|1|Ném tiêu
+00AC6F0C|1|Cưỡi ngựa
+00AC6F0C|1|Kéo co
+00AC6F0C|1|Lắc vòng
+00AC6F0C|1|Thả diều
+00AC6F0C|1|Câu cá
+00AC6F0C|1|Ném đĩa bay
+00AC6F0C|1|Đua ngựa
+00AC6F0C|1|Điền kinh
+00AC6F0C|1|Đua ô tô
+00A9D691|1|Nhận nhắc nhở để bắt đầu và kết thúc bài tập chạy, đi bộ, chạy bộ trong phòng, chèo thuyền hoặc nhảy.
+00AA8D14|1|Báo lại
+00A967C3|1|Đang đồng bộ
+00A967C3|1|Thông báo
+00AA8D14|1|Không có thông báo
+00AA8D14|1|Trả lời
+00AA8D14|1|Gửi
+00A967C3|1|Đã gửi
+00A967C3|1|Không thể gửi
+00AB4354|1|Cho phép ứng dụng này gửi tin nhắn SMS
+00AB4354|1|Cho phép ứng dụng này đọc liên hệ của bạn
+00A967C3|1|Đang gửi
+00AE958F|1|Báo thức
+00AC0130|1|Không có báo thức
+00AC0130|1|Thời gian
+00AC0130|1|Lặp lại
+00A967C3|1|Sửa
+00A967C3|1|Thời gian
+00A967C3|1|Lặp lại
+00AA8D14|1|Xóa
+00AA8D14|1|OK
+00AC0130|1|SA
+00AC0130|1|CH
+00AA8D14|1|Báo lại
+00AA8D14|1|Dừng
+00AA8D14|1|Không thể thêm báo thức
+00AC0130|1|Thêm tối đa 10 báo thức
+00A967C3|1|Tìm điện thoại
+00A967C3|1|Điện thoại của bạn sẽ đổ chuông
+00A967C3|1|Đã ngắt kết nối
+00A967C3|1|Không tìm thấy
+00AA8D14|1|Tìm kiếm
+00AA8D14|1|Dừng
+00AA8D14|1|Quay lại
+00A967C3|1|Nhạc
+00A967C3|1|Quyền
+00A967C3|1|Vui lòng chờ
+00A9D691|1|Ghép nối vòng đeo tay với ứng dụng
+00A9D691|1|Bật quyền truy cập Thông báo cho ứng dụng
+00AB4354|1|Bật quyền truy cập Thông báo cho ứng dụng
+00AA8D14|1|Chưa được ghép nối
+00A967C3|1|Không phát
+00A967C3|1|Đã ngắt kết nối
+00A967C3|1|Quyền
+00A967C3|1|Camera
+00AC0130|1|Mở Camera trên điện thoại
+00A967C3|1|Chưa được ghép nối
+00AB4354|1|Đã ngắt kết nối
+00A9D691|1|Vào Thiết bị > Camera trong ứng dụng
+00A9D691|1|Ghép nối vòng đeo tay với ứng dụng
+00AC0130|1|Bật
+00AA8D14|1|Không có sự kiện hôm nay
+00A967C3|1|Chi tiết
+00A967C3|1|Chi tiết
+00AB4354|1|Bật Sự kiện trong ứng dụng
+00AB4354|1|Báo lại sau 10 phút
+00AB4354|1|Báo lại sau 10 phút
+00AB4354|1|Báo lại sau 10 phút
+00AB4354|1|Báo lại sau 10 phút
+00AB4354|1|Báo lại sau 10 phút
+00AB4354|1|Báo lại sau 10 phút
+00AB4354|1|Báo lại sau 10 phút
+00A967C3|1|Bấm giờ
+00AEA789|1|%02d
+00AB4354|1|Bấm giờ không thể chạy trong nền, thoát?
+00A967C3|1|Hẹn giờ
+00ADCC46|1|%d
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|phút
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AE374F|1|giờ
+00AA8D14|1|Tùy chỉnh
+00A967C3|1|Gần đây
+00ABDC8F|1|%02d:%02d:%02d
+00A9D691|1|Tùy chỉnh
+00A967C3|1|Thời tiết
+00A967C3|1|Dự báo
+00AEB24F|1|25°
+00A967C3|1|Chất lượng không khí
+00A9D691|1|AQI
+00AC4ABE|1|Vận động
+00A967C3|1|Chỉ số
+00AE374F|1| 
+00AD3C5E|1|UVI
+00AD3C5E|1|Độ ẩm
+00A967C3|1|Bình minh & hoàng hôn
+00A967C3|1|Vị trí
+00AEBA9A|1|Ngủ ngon
+00AB4354|1|Không làm phiền đang bật. Nâng lên để đánh thức đã tắt.
+00AA8D14|1|Bỏ qua
+00AA8D14|1|Thời gian
+00ABDC8F|1|%02d:%02d
+00AA8D14|1|Ngủ
+00AD8D01|1|%d giờ %d phút
+00AE4F2C|1|%d℃/%d℃
+00A967C3|1|SpO₂
+00AEE076|1|98
+00AA8D14|1|Đo
+00AA8D14|1|Không có dữ liệu
+00AF1A3C|1|98%
+00AC0130|1|Đeo vòng đeo tay của bạn phía trên xương cổ tay.
+00AC0130|1|Đeo chặt vòng đeo tay và thử lại
+00AC0130|1|Giữ yên
+00ACF0B6|1|98%
+00AC6F0C|1|SpO₂
+00AA4D9B|1|85%
+00AA8D14|1|Chi tiết
+00AA8D14|1|Bỏ qua
+00A967C3|1|Theo dõi cả ngày
+00A967C3|1|Cảnh báo
+00A967C3|1|Tìm hiểu thêm
+00A967C3|1|Theo dõi cả ngày
+00AC0130|1|Tắt
+00AC0130|1|80%
+00A9D691|1|Đo SpO₂ khi bạn vận động
+00AA8D14|1|Đeo vòng đeo tay của bạn phía trên xương cổ tay.
+00AA8D14|1|Giữ vòng đeo tay vừa vặn và ổn định.
+00AB1502|1|Tính năng này không dành cho mục đích y tế.
+00AC0130|1|SpO₂ đại diện cho phần trăm oxy trong máu.
+00AC0130|1|Thông thường giá trị đo không thấp hơn 95% khi bạn vận đồng hoặc 90% trong lúc ngủ. Thực hiện biện pháp cần thiết nếu oxy trong máu thấp hơn 90%.
+00AC0130|1|Vòng đeo tay hỗ trợ phạm vi 75-100%.
+00AC0130|1|Nhiều yếu tố có thể làm cho kết quả đo không nhất quán hoặc không đáng tin cậy. Chúng có thể bao gồm lượng máu dưới da, thay đổi vĩnh viễn hoặc tạm thời đối với da, chuyển động hoặc tư thế của bạn trong khi ngủ. Tất cả những điều trên có thể dẫn đến cảnh báo oxy trong máu giả. Hãy nhớ rằng đây không phải là một thiết bị y tế và dữ liệu thiết bị cung cấp không thể được sử dụng để chẩn đoán và điều trị.
+00A967C3|1|Cảnh báo
+00A967C3|1|Tập luyện
+00A967C3|1|Thể loại
+00A967C3|1|Khác
+00A967C3|1|Thể thao dưới nước
+00A967C3|1|Bơi trong hồ bơi
+00A967C3|1|Bơi ngoài trời
+00A967C3|1|Đua thuyền buồm
+00A967C3|1|Chèo ván đứng
+00A967C3|1|Bóng nước
+00A967C3|1|Lướt ván nước
+00A967C3|1|Chèo thuyền kayak
+00A967C3|1|Chèo thuyền vượt thác
+00A967C3|1|Chèo thuyền
+00A967C3|1|Chèo thuyền máy
+00A967C3|1|Bơi lặn
+00A967C3|1|Nhảy cầu
+00A967C3|1|Bơi nghệ thuật
+00A967C3|1|Lặn với ống thở
+00A967C3|1|Lướt ván diều
+00A967C3|1|Hoạt động ngoài trời
+00A967C3|1|Chạy bộ ngoài trời
+00A967C3|1|Đi bộ
+00A967C3|1|Đi bộ đường dài
+00A967C3|1|Đạp xe ngoài trời
+00A967C3|1|Đi bộ dài ngày
+00A967C3|1|Chạy việt dã
+00A967C3|1|Leo núi đá
+00A967C3|1|Trượt ván
+00A967C3|1|Trượt patin
+00A967C3|1|Parkour
+00A967C3|1|Đua xe địa hình
+00A967C3|1|Dù lượn
+00A967C3|1|Tập luyện tự do
+00A967C3|1|Chạy bộ trong phòng
+00A967C3|1|Nhảy dây
+00A967C3|1|HIIT
+00A967C3|1|Yoga
+00A967C3|1|Đạp xe trong phòng
+00A967C3|1|Máy tập elip
+00A967C3|1|Chèo thuyền
+00A967C3|1|Máy leo cầu thang
+00A967C3|1|Máy đi bộ
+00A967C3|1|Tập luyện chính
+00A967C3|1|Huấn luyện độ dẻo dai
+00A967C3|1|Pilates
+00A967C3|1|Thể dục dụng cụ
+00A967C3|1|Kéo giãn cơ
+00A967C3|1|Sức bền
+00A967C3|1|Tập luyện chéo
+00A967C3|1|Leo cầu thang
+00A967C3|1|Aerobics
+00A967C3|1|Huấn luyện thể chất
+00A967C3|1|Bóng tạ
+00A967C3|1|Tạ tay
+00A967C3|1|Tạ đòn
+00A967C3|1|Cử tạ
+00A967C3|1|Deadlift
+00A967C3|1|Bài tập toàn thân
+00A967C3|1|Gập bụng
+00A967C3|1|Tập luyện chức năng
+00A967C3|1|Thân trên
+00A967C3|1|Thân dưới
+00A967C3|1|Abs
+00A967C3|1|Lưng
+00A967C3|1|Nhảy múa
+00A967C3|1|Khiêu vũ nơi công cộng
+00A967C3|1|Múa bụng
+00A967C3|1|Múa ba lê
+00A967C3|1|Nhảy đường phố
+00A967C3|1|Zumba
+00A967C3|1|Múa dân gian
+00A967C3|1|Nhảy Jazz
+00A967C3|1|Nhảy Latin
+00A967C3|1|Thể thao đối kháng
+00A967C3|1|Quyền anh
+00A967C3|1|Đấu vật
+00A967C3|1|Võ thuật
+00A967C3|1|Thái cực quyền
+00A967C3|1|Muay Thái
+00A967C3|1|Judo
+00A967C3|1|Taekwondo
+00A967C3|1|Karate
+00A967C3|1|Kickboxing
+00A967C3|1|Kiếm đạo
+00A967C3|1|Đấu kiếm
+00A967C3|1|Thể thao dùng bóng
+00A967C3|1|Quần vợt
+00A967C3|1|Bóng rổ
+00A967C3|1|Bóng đá
+00A967C3|1|Bóng chuyền
+00A967C3|1|Bóng chày
+00A967C3|1|Bóng mềm
+00A967C3|1|Bóng bầu dục Mỹ
+00A967C3|1|Khúc côn cầu
+00A967C3|1|Bóng bàn
+00A967C3|1|Cầu lông
+00A967C3|1|Crikê
+00A967C3|1|Bóng ném
+00A967C3|1|Bowling
+00A967C3|1|Bóng quần
+00A967C3|1|Bi-a
+00A967C3|1|Đá cầu
+00A967C3|1|Bóng đá bãi biển
+00A967C3|1|Bóng chuyền bãi biển
+00A967C3|1|Cầu mây
+00A967C3|1|Thể thao mùa đông
+00A967C3|1|Trượt băng
+00A967C3|1|Bi đá trên băng
+00A967C3|1|Thể thao mùa đông khác
+00A967C3|1|Đua xe trên tuyết
+00A967C3|1|Khúc côn cầu trên băng
+00A967C3|1|Xe trượt lòng máng
+00A967C3|1|Đi xe trượt tuyết
+00A967C3|1|Thể thao giải trí
+00A967C3|1|Bắn cung
+00A967C3|1|Ném tiêu
+00A967C3|1|Cưỡi ngựa
+00A967C3|1|Kéo co
+00A967C3|1|Lắc vòng
+00A967C3|1|Thả diều
+00A967C3|1|Câu cá
+00A967C3|1|Ném đĩa bay
+00A967C3|1|Khác
+00A967C3|1|Đua ngựa
+00A967C3|1|Điền kinh
+00A967C3|1|Đua ô tô
+00AC0130|1|Mục tiêu mở
+00AAD92C|1|%02d:%02d:%02d
+00AAD92C|1|%d.%d
+00AF36BC|1|km
+00AAD92C|1|%d'%d"
+00AB1502|1|Nhẹ
+00AB1502|1|Tăng cường
+00AB1502|1|Aerobic
+00AB1502|1|Anaerobic
+00AB1502|1|VO₂ max
+00ABDC8F|1|%d
+00AF36BC|1|kcal
+00AF36BC|1|SPM
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00AF36BC|1|bước
+00ABDC8F|1|0
+00AB1502|1|/km
+00AF36BC|1|km/h
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|độ dài
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|nhảy
+00AF36BC|1|SPM
+00AC4ABE|1|/km
+00AC4ABE|1|km chậm hơn
+00AF502A|1|%u'%02u''
+00A967C3|1|Stress
+00AC5DB0|1|Trung bình
+00A967C3|1|Chi tiết
+00AC0130|1|Thoải mái
+00AC0130|1|Nhẹ
+00AC0130|1|Trung bình
+00AC0130|1|Nghiêm trọng
+00A967C3|1|7 ngày trước
+00AE30A7|1|05.12
+00AA8D14|1|Không có dữ liệu
+00AB1502|1|Trung bình
+00A967C3|1|Theo dõi cả ngày
+00A967C3|1|Nhắc nhở thư giãn
+00AA8D14|1|Bật
+00A967C3|1|Theo dõi cả ngày
+00A967C3|1|Bật/Tắt
+00AB1502|1|Theo dõi khi bạn ít vận động
+00AB1502|1|Nhắc hít thở khi mức độ stress duy trì trên 80 trong thời gian thức
+00A967C3|1|Tìm hiểu thêm
+00AA8D14|1|Stress là phản ứng của cơ thể đối với thách thức và nhu cầu.
+00AA8D14|1|Vòng đeo của bạn đo mức độ stress của bạn khi bạn không hoạt động.\nMức độ:\nThoải mái: 1–25\nNhẹ: 25–50\nTrung bình: 51–80\nNặng: 81–100.\nTính năng này không dành cho mục đích y tế.
+00AA8D14|1|Các phép đo phụ thuộc vào nhiệt độ thấp, truyền máu qua da, v.v.
+00AA4D9B|1|99.0
+00AA8D14|1|Hít thở
+00AB4354|1|Nhịp tim
+00AB4354|1|Báo thức
+00AB4354|1|SpO₂
+00AB4354|1|Cài đặt
+00AB4354|1|Thời tiết
+00AB4354|1|Thêm thiết bị
+00AB4354|1|Thống kê
+00A967C3|1|Xóa giao diện vòng đeo tay?
+00A967C3|1|Để lưu thay đổi, trượt sang phải trên giao diện vòng đeo tay.
+00A967C3|1|Tổng kết
+00A967C3|1|Nhịp tim
+00A967C3|1|Tốc độ
+00A967C3|1|Nhịp chân
+00AA8D14|1|Xem chi tiết trên ứng dụng
+00A967C3|1|Tốc độ
+00A967C3|1|Tỷ lệ sải bơi
+00A967C3|1|Nhảy dây
+00A967C3|1|Tần suất
+00A967C3|1|SWOLF
+00A967C3|1|Đi bộ đường dài
+00AAD92C|1|2:23.1
+00A967C3|1|Sải bơi
+00A967C3|1|Thống kê
+00A967C3|1|Đứng
+00A967C3|1|Vận động
+00A967C3|1|Pin
+00A967C3|1|Ngày
+00A967C3|1|UV
+00AA8D14|1|Đang đồng bộ
+00A967C3|1|Không thể đồng bộ
+00A967C3|1|Lỗi
+00A9D691|1|Xóa giao diện vòng đeo tay và thử lại
+00A967C3|1|Lưu thay đổi?
+00A967C3|1|Một lần
+00AC0130|1|Một lần
+00A967C3|1|Th 2
+00A967C3|1|Th 3
+00A967C3|1|Th 4
+00A967C3|1|Th 5
+00A967C3|1|Th 6
+00A967C3|1|Th 7
+00A967C3|1|Cn
+00AC0130|1| 
+00AC0130|1|T2
+00AC0130|1|T3
+00AC0130|1|T4
+00AC0130|1|T5
+00AC0130|1|T6
+00AC0130|1|T7
+00AC0130|1|Cn
+00AC0130|1|Hàng ngày
+00AB4354|1|Ngủ
+00AB4354|1|Bấm giờ
+00AB4354|1|Hít thở
+00AB4354|1|Chu kỳ
+00AB4354|1|Stress
+00AB4354|1|Tập luyện
+00A9D691|1|Quét để tải xuống
+00AB4354|1|Ghép nối với điện thoại?
+00A967C3|1|Quy định
+00AA8D14|1|Đứng
+00A967C3|1|Báo lại
+00A967C3|1|Tắt báo thức
+00A967C3|1|Đã bỏ lỡ
+00ABDC8F|1|%02lu:%02lu
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00AA8D14|1| 
+00ADF4F6|1|8000
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00AC6F0C|1|bước
+00ADF4F6|1|500
+00AC6F0C|1|kcal
+00AC6F0C|1|kcal
+00AC6F0C|1|kcal
+00AC6F0C|1|kcal
+00AC6F0C|1|kcal
+00AC6F0C|1|kcal
+00AC6F0C|1|kcal
+00ADF4F6|1|30
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00AC6F0C|1|phút
+00ADF4F6|1|12
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC6F0C|1|sải bơi
+00AC0130|1|"Số bước" hiển thị số bước hàng ngày.
+00AC0130|1|"Calo" cho biết số lượng calo hoạt động tiêu hao mỗi ngày thông qua việc di chuyển và tập luyện.
+00AC0130|1|"Vận động" cho biết thời gian của bạn đối với hoạt động vừa phải và cường độ mạnh.
+00AC0130|1|"Đứng" hiển thị giờ mà bạn đứng lên và di chuyển xung quanh.
+00AB1502|1|km/h
+00A967C3|1|80%
+00A967C3|1|85%
+00A967C3|1|90%
+00A967C3|1|Tập luyện
+00A967C3|1|Calo
+00A967C3|1|Bước
+00A967C3|1|Nhịp tim
+00A967C3|1|Stress
+00A967C3|1|Báo thức
+00A967C3|1|Thời tiết
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AC0130|1|%u km
+00AD3C5E|1|%u km
+00AD3C5E|1|%u m
+00AD3C5E|1|%u m
+00AD3C5E|1|%u m
+00AD3C5E|1|%u m
+00AD3C5E|1|%u m
+00AD3C5E|1|%u m
+00AD3C5E|1|%u m
+00AC0130|1|%u phút
+00AC0130|1|%u phút
+00AC0130|1|%u kcal
+00AD3C5E|1|%u kcal
+00AD3C5E|1|%u phút
+00AC0130|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AC0130|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AD3C5E|1|%u
+00AC5DB0|1| 
+00A967C3|1|Sải bơi
+00A967C3|1|50 m
+00AD3C5E|1|Nhẹ
+00AD3C5E|1|VO₂ max
+00AD3C5E|1|Aerobic
+00AD3C5E|1|Anaerobic
+00A967C3|1|%u km
+00A967C3|1|%u km/h
+00A967C3|1|%u BPM
+00AC0130|1|Hoàn tất
+00AA105F|1|km
+00A967C3|1|%
+00AC0130|1|%d.%d km
+00AD3C5E|1|%d'%02d"
+00A967C3|1|Focus
+00A967C3|1|Nghỉ ngơi
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AAD92C|1|%02d:%02d
+00AB07E2|1|%02d:%02d
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|%d phút trước
+00AE374F|1|Vừa mới
+00AE374F|1|Vừa mới
+00AE374F|1|%02d phút trước
+00AE374F|1|%02d phút trước
+00AE374F|1|%02d phút trước
+00AE374F|1|%02d phút trước
+00AE374F|1|Đã đo: %02d:%02d
+00AA8D14|1|Nhịp tim nghỉ ngơi: %02d
+00AA8D14|1|Nghỉ ngơi: --
+00A967C3|1|30 phút
+00AA8D14|1| 
+00AA4D9B|1|Measure heart rate every 10 mins
+00AA4D9B|1| 
+00AA8D14|1| 
+00A967C3|1|40 BPM
+00A967C3|1|45 BPM
+00A967C3|1|50 BPM
+00A967C3|1|110 BPM
+00A967C3|1|120 BPM
+00A967C3|1|130 BPM
+00A967C3|1|140 BPM
+00A967C3|1|150 BPM
+00AEBA9A|1|Hết giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d giờ
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00AC6F0C|1|Vận động
+00AA8D14|1|Đứng dậy thôi nào!
+00A967C3|1|Tắt nhắc nhở đứng lên hôm nay?
+00AC0130|1|Tắt
+00AC0130|1|100 BPM
+00AC0130|1|110 BPM
+00AC0130|1|120 BPM
+00AC0130|1|130 BPM
+00AC0130|1|140 BPM
+00AC0130|1|150 BPM
+00AC0130|1|40 BPM
+00AC0130|1|45 BPM
+00AC0130|1|50 BPM
+00AC0130|1|Bật
+00AC0130|1|Tắt
+00AC0130|1|1 phút
+00AC0130|1|10 phút
+00AC0130|1|30 phút
+00AC0130|1|Tự động
+00AF502A|1|%d%%
+00AB4354|1|Hoạt động
+00AB4354|1|Mi AI
+00AB4354|1|Thẻ
+00AB4354|1|Thông báo
+00AB4354|1|Sự kiện
+00AB4354|1|Nhạc
+00AB4354|1|Camera
+00AB4354|1|Hẹn giờ
+00AB4354|1|Đèn Flash
+00AB4354|1|Tìm điện thoại
+00AB4354|1|Trợ giúp
+00AF36BC|1|"Nâng lên để đánh thức" đã bật
+00AF36BC|1|"Nâng lên để đánh thức" đã tắt
+00AF36BC|1|Không làm phiền đã bật
+00AF36BC|1|Không làm phiền đã tắt
+00A967C3|1|Tổng kết
+00AC0130|1|Không có dữ liệu
+00AA8D14|1|Xem chi tiết trên ứng dụng
+00ACF0B6|1|--
+00AC0130|1|%d
+00AC0130|1|%d
+00AC0130|1|%d
+00AC0130|1|%d
+00AC0130|1|%d
+00AC0130|1|%d
+00AC0130|1|%d
+00AC0130|1|%d–%d BPM
+00AA4D9B|1|%d-%d
+00AA4D9B|1|%02d:%02d-%02d:%02d
+00AF6611|1|%d
+00AAD92C|1|%02d:%02d:%02d
+00AAD92C|1|:
+00AAD92C|1|%02d:%02d.%02d
+00AE4F2C|1|%02d:%02d:%02d.%02d
+00AF6E13|1|%02d:%02d:%02d.%02d
+00AF6E13|1|%02d:%02d.%02d
+00A9D691|1|%02u-%02u %02u:%02u
+00AAD92C|1|%02u:%02u:%02u
+00AE4F2C|1|%lu.%02lu
+00A9D691|1|km
+00A967C3|1|Mục tiêu
+00AD3C5E|1|%u%%
+00AD3C5E|1|Hoàn tất
+00AE4F2C|1|%lu
+00AD3C5E|1|Mục tiêu
+00AD3C5E|1|Kcal vận động
+00AE4F2C|1|%lu'%02lu''
+00AD3C5E|1|Tốc độ trung bình
+00AD3C5E|1|Bước
+00AD3C5E|1|BPM trung bình
+00AD3C5E|1|SPM trung bình
+00ACF0B6|1|%u'%02u''
+00AE30A7|1|%02u:%02u
+00ACF0B6|1|%u
+00AA8D14|1|Xem chi tiết trên ứng dụng
+00AA8D14|1|Quay lại
+00AD3C5E|1|Mục tiêu
+00AD3C5E|1|Hoàn tất
+00AD3C5E|1|Mục tiêu
+00AD3C5E|1|Hoàn tất
+00AD3C5E|1|Mục tiêu
+00AD3C5E|1|Hoàn tất
+00AD3C5E|1|Mục tiêu
+00AD3C5E|1|Hoàn tất
+00AD3C5E|1|Mục tiêu
+00AD3C5E|1|Hoàn tất
+00AD3C5E|1|m
+00AD3C5E|1|m
+00AD3C5E|1|m
+00AD3C5E|1|m
+00AD3C5E|1|m
+00AD3C5E|1|m
+00AD3C5E|1|m
+00AD3C5E|1|kcal
+00AD3C5E|1|kcal
+00AD3C5E|1|kcal
+00AD3C5E|1|kcal
+00AD3C5E|1|kcal
+00AD3C5E|1|kcal
+00AD3C5E|1|kcal
+00AD3C5E|1|Độ dài
+00AD3C5E|1|nhảy
+00AD3C5E|1|sải bơi
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Độ dài
+00AD3C5E|1|nhảy
+00AD3C5E|1|nhảy
+00AD3C5E|1|nhảy
+00AD3C5E|1|nhảy
+00AD3C5E|1|nhảy
+00AD3C5E|1|nhảy
+00AD3C5E|1|nhảy
+00AD3C5E|1|sải bơi
+00AD3C5E|1|sải bơi
+00AD3C5E|1|sải bơi
+00AD3C5E|1|sải bơi
+00AD3C5E|1|sải bơi
+00AD3C5E|1|sải bơi
+00AD3C5E|1|sải bơi
+00AA4D9B|1|1 phút
+00AE30A7|1|%u
+00A967C3|1|Không có dữ liệu hôm nay
+00AC0130|1|Hôm nay
+00AC0130|1|Ngày mai
+00AC0130|1|Tắt
+00AA8D14|1|Tiếp theo
+00AA8D14|1|Bật dự đoán Kỳ kinh nguyệt trên ứng dụng
+00AD3C5E|1|Vừa mới
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d phút trước
+00AD3C5E|1|%d:%02d
+00AD3C5E|1|Hôm qua %d:%d
+00AD3C5E|1|%02d/%02d %d:%02d
+00AA4D9B|1|%d thông báo
+00AA4D9B|1|%d thông báo
+00AA4D9B|1|%d thông báo
+00AA4D9B|1|%d thông báo
+00AA4D9B|1|%d thông báo
+00AA4D9B|1|%d thông báo
+00AA4D9B|1|%d thông báo
+00AA8D14|1|Xóa
+00AE30A7|1|00:00
+00AE30A7|1|12:00
+00AE30A7|1|24:00
+00AC0130|1|Cả ngày
+00AA8D14|1|Tắt theo dõi cả ngày.
+00AA8D14|1|Đeo chặt vòng đeo tay và thử lại
+00AE30A7|1|%02u:%02u
+00AE4F2C|1|%02u:%02u-%02u:%02u
+00A967C3|1|Cảnh báo
+00AC0130|1|Vòng đeo tay của bạn sẽ thông báo cho bạn khi phát hiện chỉ số dưới mức đã đặt. Bạn có thể xem thêm dữ liệu trong ứng dụng. Nếu bạn cảm thấy không khỏe, hãy tìm lời khuyên của bác sĩ.
+00AA8D14|1|Giữ yên
+00AA8D14|1|Hoàn tất 50%
+00AA8D14|1|Đang hiệu chỉnh
+00AA8D14|1|Giữ yên trong khi đo
+00AA8D14|1|Đeo chặt vòng đeo tay và thử lại
+00AA8D14|1|Đeo chặt vòng đeo tay và thử lại
+00AF36BC|1|m
+00AA8D14|1|Kết nối với ứng dụng để cập nhật thời tiết
+00AB1502|1|Đặt vị trí trong ứng dụng
+00ADE512|1|%d
+00A967C3|1|Vui lòng chờ
+00AC0130|1|Tốt
+00AC0130|1|Trung bình
+00AC0130|1|Ô nhiễm nhẹ
+00AC0130|1|Có hại cho sức khỏe
+00AC0130|1|Nguy hiểm
+00AC0130|1|Ô nhiễm nghiêm trọng
+00AA4D9B|1|Tốt
+00AA4D9B|1|Trung bình
+00AA4D9B|1|Ô nhiễm nhẹ
+00AA4D9B|1|Có hại cho sức khỏe
+00AA4D9B|1|Nguy hiểm
+00AA4D9B|1|Ô nhiễm nghiêm trọng
+00A9D691|1|Gió hay thay đổi
+00A9D691|1|Gió lốc
+00A9D691|1|Gió bắc
+00A9D691|1|Gió đông bắc
+00A9D691|1|Gió đông
+00A9D691|1|Gió đông nam
+00A9D691|1|Gió nam
+00A9D691|1|Gió tây nam
+00A9D691|1|Gió tây
+00A9D691|1|Gió tây bắc
+00A967C3|1|Xóa
+00A967C3|1|Nhiều mây
+00A967C3|1|Âm u
+00A967C3|1|Mưa rào
+00A967C3|1|Mưa giông
+00A967C3|1|Mưa đá
+00A967C3|1|Mưa tuyết
+00A967C3|1|Mưa nhỏ
+00A967C3|1|Mưa vừa
+00A967C3|1|Mưa to
+00A967C3|1|Mưa bão
+00A967C3|1|Mưa rất to
+00A967C3|1|Mưa bão lớn
+00A967C3|1|Tuyết nhỏ
+00A967C3|1|Tuyết rơi nhẹ
+00A967C3|1|Tuyết rơi vừa
+00A967C3|1|Tuyết rơi dày
+00A967C3|1|Bão tuyết
+00A967C3|1|Sương mù
+00A967C3|1|Mưa băng giá
+00A967C3|1|Bão cát
+00A967C3|1|Mưa nhỏ đến mưa vừa
+00A967C3|1|Mưa vừa đến mưa to
+00A967C3|1|Mưa to đến rất to
+00A967C3|1|Mưa rất to đến xối xả
+00A967C3|1|Mưa xối xả đến mưa bão lớn
+00A967C3|1|Tuyết rơi nhẹ đến vừa
+00A967C3|1|Tuyết rơi vừa đến dày
+00A967C3|1|Tuyết rơi dày đến bão tuyết
+00A967C3|1|Bụi
+00A967C3|1|Gió
+00A967C3|1|Bão cát mạnh
+00A967C3|1|Sương mù
+00A967C3|1|Sương mù dày
+00A967C3|1|Sương mù nhẹ
+00A967C3|1|Sương mù vừa
+00A967C3|1|Khói mù nhiều
+00A967C3|1|Sương mù đặc biệt dày
+00A967C3|1|Sương mù
+00A967C3|1|Sương mù đặc biệt dày
+00A967C3|1|Không có báo cáo
+00A967C3|1|Mưa
+00A967C3|1|Tuyết rơi
+00A9D691|1|Hôm nay
+00A9D691|1|Th 2
+00A9D691|1|Th 3
+00A9D691|1|Th 4
+00A9D691|1|Th 5
+00A9D691|1|Th 6
+00A9D691|1|Th 7
+00A9D691|1|Cn
+00ADF4F6|1|%d%%
+00ADF4F6|1|%d
+00A9D691|1|UVI
+00A9D691|1|Độ ẩm
+00AEE076|1|%02d:%02d
+00AF7C4C|1|%02d:%02d
+00A9D691|1|Tắt chế độ ngủ lúc %02d:%02d
+00A967C3|1|BPM bất thường yêu cầu tần suất 1 phút. Tiếp tục?
+00AD3C5E|1|BPM tối đa
+00AD3C5E|1|Tập luyện
+00AD3C5E|1|Nghỉ ngơi
+00AD3C5E|1|Hiệp
+00AD3C5E|1|Sải bơi
+00AD3C5E|1|Nhảy
+00AD3C5E|1|Tốc độ
+00AD3C5E|1|Tỷ lệ sải bơi
+00AD3C5E|1|Độ dài
+00AD3C5E|1|Kiểu chính
+00AD3C5E|1|SWOLF trung bình
+00AD3C5E|1|SPM trung bình
+00AE4F2C|1|%02lu:%02lu:%02lu
+00AD8D01|1|Bơi ếch
+00AD8D01|1|Bơi hỗn hợp
+00AD8D01|1|Tập luyện tự do
+00AD8D01|1|Bơi ngửa
+00AD8D01|1|Bơi bướm
+00AE4F2C|1|%lu.%lu
+00AC0130|1|Tối đa
+00AC0130|1|Tối đa
+00AEA789|1|%u
+00A967C3|1|Hiệp
+00A967C3|1|On
+00AA8D14|1|Nâng lên để đánh thức sẽ tắt khi bạn đi ngủ hoặc tháo vòng đeo tay.
+00AF8C46|1|℃
+00AF8C46|1|℉
+00AC5DB0|1|%d:%02d
+00AEE076|1|%u'%02u''
+00ADCC46|1|%u'%02u''
+00AA8D14|1|Mục tiêu: %u'%02u''
+00AEBA9A|1|%u km/h
+00AA8D14|1|Mục tiêu: %u km/h
+00ADCC46|1|%u
+00AA8D14|1|Mục tiêu BPM: %d–%d
+00AA4D9B|1|%d
+00AA8D14|1|Threshold: %d BPM
+00ADCC46|1|--
+00AE4F2C|1|%d℉/%d℉
+00AA8D14|1|Tôi biết
+00ABDC8F|1|%u
+00AE958F|1|%%
+00AB4354|1|Pin dưới %u%%. Sạc ngay.
+00AC0130|1|VO₂ max
+00AC0130|1|Anaerobic
+00AC0130|1|Tăng cường
+00AC0130|1|Aerobic
+00AC0130|1|Nhẹ
+00AE30A7|1|%02lu:%02lu:%02lu
+00A967C3|1|%02lu:%02lu:%02lu
+00AC5DB0|1|BPM
+00AF6E13|1|%u
+00AD8D01|1|%d℃/%d℃
+00AD8D01|1|%d℉/%d℉
+00AA8D14|1|%d℃/%d℃
+00AA8D14|1|%d℉/%d℉
+00AD8D01|1|℃
+00AD8D01|1|℉
+00AD8D01|1|-
+00AA8D14|1|-
+00AA8D14|1|Đạp xe
+00AA8D14|1|Chèo thuyền
+00A967C3|1|Kết nối với ứng dụng và thử lại
+00A967C3|1|Bắt đầu
+00A967C3|1|Độ bền
+00A967C3|1|Khoảng thời gian
+00A967C3|1|Đi/chạy cơ bản
+00A967C3|1|Đi/chạy nâng cao
+00A967C3|1|Chạy nhẹ cơ bản
+00A967C3|1|Cơ bản
+00A967C3|1|Nâng cao
+00A967C3|1|MIIT
+00A967C3|1|Cơ bản
+00A967C3|1|Nâng cao
+00A967C3|1|Cơ bản
+00A967C3|1|Nâng cao
+00AB1502|1|Kết hợp đi bộ và chạy nhẹ đều đặn.
+00AB1502|1|Kết hợp đi bộ và chạy nhẹ đều đặn.
+00AB1502|1|Chạy nhẹ cường độ trung bình-thấp.
+00AB1502|1|Chạy nhẹ ngắn hơn để đốt cháy chất béo và giảm cân.
+00AB1502|1|Chạy nhẹ kéo dài, cường độ trung bình-thấp để đốt cháy chất béo.
+00AB1502|1|Luyện tập cường độ trung bình-cao.
+00AB1502|1|Chạy nhẹ độ dài-trung bình để tăng sức bền.
+00AB1502|1|Chạy nhẹ lâu hơn để tăng sức bền.
+00AB1502|1|Tập luyện trong khoảng thời gian ngắn hơn cho sức khỏe của tim và phổi.
+00AB1502|1|Tập luyện trong khoảng thời gian lâu hơn cho sức khỏe của tim và phổi.
+00A967C3|1|%02u/%02u
+00A967C3|1|Hiện tại
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Sau %u phút
+00A967C3|1|Quá hạn
+00AA8D14|1|Th 2 
+00AA8D14|1|Th 3 
+00AA8D14|1|Th 4 
+00AA8D14|1|Th 5 
+00AA8D14|1|Th 6 
+00AA8D14|1|Th 7 
+00AA8D14|1|Cn 
+00AA8D14|1|%u/%u 
+00AA8D14|1|%02u:%02u 
+00AA8D14|1|Hôm nay 
+00AA8D14|1|Ngày mai 
+00AEE076|1|02d%:02d%
+00AC4ABE|1|km nhanh hơn
+00ADCC46|1|--'--"
+00AAD92C|1|--'--"
+00AA8D14|1|%02u:%02u-
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u giờ
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00A967C3|1|Sau %u ngày
+00AC6F0C|1|Pin yếu
+00AB1502|1|Chạy
+00A9D691|1|%d phút
+00A9D691|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AB4354|1|Đang chuẩn bị cập nhật
+00AB4354|1|Không thể cập nhật.\nThử lại.
+00AF6E13|1|%
+00AA8D14|1|Thời gian
+00AB1502|1|Thoải mái
+00AB1502|1|Nhẹ
+00AB1502|1|Nghiêm trọng
+00AA8D14|1|Theo dõi cả ngày tắt.
+00AA8D14|1|%02u:%02u SA–
+00AA8D14|1|%02u:%02u CH–
+00AA8D14|1|%02u:%02u SA
+00AA8D14|1|%02u:%02u CH
+00AB4354|1|Tôi sẽ gọi lại sau.
+00AB4354|1|Tôi hiện không thể trò chuyện. Có chuyện gì thế?
+00AB4354|1|Tôi không thể trò chuyện. Hãy gọi cho tôi sau?
+00AF8CD7|1|--
+00AAD92C|1|%u%%
+00AC0130|1|Mục tiêu
+00AAD92C|1|%u
+00AB4354|1|km
+00AB4354|1|kcal
+00AB4354|1|độ dài
+00AB4354|1|độ dài
+00AB4354|1|độ dài
+00AB4354|1|độ dài
+00AB4354|1|độ dài
+00AB4354|1|độ dài
+00AB4354|1|độ dài
+00AB4354|1|sải bơi
+00AB4354|1|sải bơi
+00AB4354|1|sải bơi
+00AB4354|1|sải bơi
+00AB4354|1|sải bơi
+00AB4354|1|sải bơi
+00AB4354|1|sải bơi
+00AB4354|1|nhảy
+00AB4354|1|nhảy
+00AB4354|1|nhảy
+00AB4354|1|nhảy
+00AB4354|1|nhảy
+00AB4354|1|nhảy
+00AB4354|1|nhảy
+00AE70EA|1|Bản ghi mới!
+00AAD92C|1|%02u:%02u:%02u
+00AF6E13|1|%lu.%lu.%lu
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %lu.%lu km
+00AC0130|1|Mục tiêu: %02u:%02u:%02u
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u kcal
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u độ dài
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u sải bơi
+00AC0130|1|Mục tiêu: %u nhảy
+00AC0130|1|Mục tiêu: %u nhảy
+00AC0130|1|Mục tiêu: %u nhảy
+00AC0130|1|Mục tiêu: %u nhảy
+00AC0130|1|Mục tiêu: %u nhảy
+00AC0130|1|Mục tiêu: %u nhảy
+00AC0130|1|Mục tiêu: %u nhảy
+00AA8D14|1|Vòng đeo tay sẽ thông báo cho bạn khi nhịp tim vượt quá mức BPM đã đặt. Nhịp tim của bạn tăng lên khi stress.
+00AA8D14|1|Vòng đeo tay sẽ thông báo cho bạn khi nhịp tim của bạn thấp dưới mức BPM đã đặt. Nhịp tim của bạn sẽ chậm lại trong khi ngủ.\nNếu bạn cảm thấy không khỏe, hãy tìm lời khuyên của bác sĩ.
+00AA4D9B|1|Nhịp tim cao
+00AA4D9B|1|HR thấp
+00A967C3|1|Tìm hiểu thêm
+00AA4D9B|1|Chạy nhẹ
+00AA4D9B|1|Chạy
+00AA4D9B|1|Chạy nước rút
+00AAD92C|1|%d
+00ABAFBA|1|Chạy nhẹ
+00ABAFBA|1|Chạy
+00ABAFBA|1|Chạy nước rút
+00AB1502|1|Chạy
+00AB1502|1|Chạy nước rút
+00AAD92C|1|%02d
+00ADCC46|1|%02d
+00ADCC46|1|:
+00AA8D14|1|Xem chi tiết trên ứng dụng
+00A967C3|1|Bạn đã làm được!
+00AA8D14|1|Hoàn tất
+00AA8D14|1|Tiếp tục (%lu giây)
+00A967C3|1|Tập luyện
+00AC0130|1|Thời gian
+00AC0130|1|Nhịp tim
+00AF502A|1|%lu.%02lu
+00AF8D19|1|Tự động
+00AA105F|1|Tự động
+00A967C3|1|Đặt thành công
+00AA8D14|1|Tôi biết
+00A967C3|1|Quá nóng. Đang tắt.
+00AD3C5E|1|trung bình
+00AA4D9B|1|Pin yếu
+00AA8D14|1|SA
+00AA8D14|1|CH
+00AE4F2C|1|%lu:%02lu
+00AD3C5E|1|%u.%02u km
+00AD3C5E|1|%u.%02u km
+00AD3C5E|1|%u.%02u km
+00AA8D14|1|Không làm phiền sẽ bật khi bạn đi ngủ hoặc tháo vòng đeo tay.
+00A9D691|1|Thông báo khi chỉ số SpO2 thấp hơn mức đã đặt trong thời gian thức
+00AE374F|1|%d:%02d SA
+00AE374F|1|%d:%02d CH
+00AE374F|1|Hôm qua, %d:%02d SA
+00AE374F|1|Hôm qua, %d:%02d CH
+00AE374F|1|%02d/%02d, %d:%02d SA
+00AE374F|1|%02d/%02d, %d:%02d CH
+00AB4354|1|Chạy bộ
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u kcal
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u bước
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u sải bơi
+00AB1502|1|Mục tiêu: %u phút
+00AB1502|1|Mục tiêu: %u phút
+00AB1502|1|Mục tiêu: %u phút
+00AB1502|1|Mục tiêu: %u phút
+00AB1502|1|Mục tiêu: %u phút
+00AB1502|1|Mục tiêu: %u phút
+00AB1502|1|Mục tiêu: %u phút
+00AD6599|1|0123456789•
+00AD3C5E|1|Hôm nay
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ kinh nguyệt sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00A967C3|1|Kỳ dễ thụ thai sau %u ngày
+00AB1502|1|Quét để xem trợ giúp
+00AD3C5E|1|Hôm qua
+00AD3C5E|1|2 ngày trước
+00AA8D14|1|Đeo chặt dây đeo vòng đeo tay
+00A967C3|1|Tìm hiểu thêm
+00AD8D01|1|Không xác định
+00AC6F0C|1|Đi/chạy cơ bản
+00AC6F0C|1|Đi/chạy nâng cao
+00AC6F0C|1|Chạy nhẹ cơ bản
+00AC6F0C|1|Cơ bản
+00AC6F0C|1|Nâng cao
+00AC6F0C|1|MIIT
+00AC6F0C|1|Cơ bản
+00AC6F0C|1|Nâng cao
+00AC6F0C|1|Cơ bản
+00AC6F0C|1|Nâng cao
+00AC6F0C|1|Nghiêm trọng
+00AA8D14|1|Hít thở
+00AA8D14|1|Đi bộ
+00A967C3|1|Cho phép vòng đeo tay của bạn mở khóa điện thoại?
+00A967C3|1|Đã cho phép
+00A967C3|1|Không thể cho phép
+00A967C3|1|Trợ giúp
+00A967C3|1|Quy định
+00AA4D9B|1|Mẫu
+00AA4D9B|1|CMIIT ID
+00AC4ABE|1|Thg 1
+00AC4ABE|1|Thg 2
+00AC4ABE|1|Thg 3
+00AC4ABE|1|Thg 4
+00AC4ABE|1|Thg 5
+00AC4ABE|1|Thg 6
+00AC4ABE|1|Thg 7
+00AC4ABE|1|Thg 8
+00AC4ABE|1|Thg 9
+00AC4ABE|1|Thg 10
+00AC4ABE|1|Thg 11
+00AC4ABE|1|Thg 12
+00AC0130|1|Kỳ kinh nguyệt sau 1 ngày
+00AC0130|1|Kỳ kinh nguyệt sau 2 ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Kỳ kinh nguyệt sau %u ngày
+00AC0130|1|Rụng trứng sau 1 ngày
+00AC0130|1|Rụng trứng sau 2 ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00AC0130|1|Rụng trứng sau %u ngày
+00A967C3|1|Bật/Tắt
+00A967C3|1|Bật/Tắt
+00AC6F0C|1|Cuộc gọi nhỡ
+00AA8D14|1|Tôi biết
+00AA8D14|1|Cho phép ứng dụng chạy trong nền
+00AA8D14|1|Thiết lập Amazon Alexa trong ứng dụng
+00AA8D14|1|Đăng nhập tài khoản Amazon trong ứng dụng
+00AA8D14|1|Không thể phát video hoặc âm thanh trên vòng đeo tay
+00AA8D14|1|Đang kết nối…
+00AA8D14|1|Đang nghe…
+00AA8D14|1|Đang suy nghĩ…
+00AA8D14|1|Set a timer for 2 minutes
+00AA8D14|1|What's the weather?
+00A9D691|1|%02d:%02d–%02d:%02d
+00A9D691|1|%02d:%02d-%02d:%02d
+00AC5DB0|1|Thoải mái
+00AC5DB0|1|Nhẹ
+00AC5DB0|1|Nặng
+00AC6F0C|1|Trung bình
+00A967C3|1|Hàng ngày
+00A967C3|1|Không thể kết nối
+00A967C3|1|Lỗi mạng
+00A967C3|1|Yêu cầu cài đặt
+00A967C3|1|Đăng nhập
+00AE374F|1|Sải bơi
+00AA8D14|1|Trung bình
+00AC5DB0|1|SPM
+00AC5DB0|1|km/h
+00AC5DB0|1|JPM
+00A967C3|1|Tìm hiểu thêm
+00AA8D14|1|Pin yếu. Đèn Flash tắt.
+00AA8D14|1|Đóng
+00ACF0B6|1|%.1f
+00AEA789|1|%.1f
+00ACF0B6|1|%u:%02u'%02u"
+00AEA789|1|%u:%02u'%02u"
+00AE4F2C|1|%u:%02u'%02u"
+00AB1502|1|Phát âm thanh
+00AA4D9B|1|Mã PIN không khớp
+00AA4D9B|1|Nhập mã PIN
+00AA4D9B|1|Mã PIN mới
+00AA8D14|1|Không thể kết nối
+00AA8D14|1|Lỗi mạng
+00AA8D14|1|Yêu cầu cài đặt
+00AA8D14|1|Đăng nhập
+00AA8D14|1|Không khả dụng
+00AD6599|1|Mã PIN mới
+00AD6599|1|Xác nhận mã PIN
+00AD6599|1|Mã PIN không khớp
+00AD6599|1|Nhập mã PIN
+00AA105F|1|%d
+00AF8D19|1|%d
+00AC0130|1|%d giờ %d phút
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d giờ
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AC0130|1|%d phút
+00AB4354|1|%d'%02d"
+00AD3C5E|1|%02u/%02u
+00AD3C5E|1|%02u:%02u
+00AD8D01|1|--℃/--℃
+00AD8D01|1|--℉/--℉
+00AA8D14|1|--℃/--℃
+00AA8D14|1|--℉/--℉
+00AC0130|1|Hoàn thành mục tiêu
+00AC0130|1|Hoàn thành mục tiêu
+00AC0130|1|Hoàn thành mục tiêu vận động
+00AC0130|1|Hoàn thành mục tiêu đứng
+00AC0130|1|Hoàn thành mục tiêu số bước
+00AC0130|1|Hoàn thành mục tiêu calo
+00AC0130|1|Hoàn thành mục tiêu
+00AC0130|1|Hoàn thành mục tiêu
+00AC0130|1|Đã hoàn thành tất cả mục tiêu
+00AC0130|1|Xin chúc mừng
+00AC0130|1|Mục tiêu đã đạt được
+00AC0130|1|Hoàn thành mục tiêu
+00AC5DB0|1|km/h
+00AC5DB0|1|/km
+00A967C3|1|SA
+00A967C3|1|CH
+00A967C3|1|Khoảng cách tập luyện quá ngắn để ghi lại.
+00AA4D9B|1|(Không tiêu đề)
+00AC0130|1|Quên mã PIN?
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau %d giây
+00AB4354|1|Thử lại sau 5 phút
+00AB4354|1|Thử lại sau 10 phút
+00AB4354|1|Đặt lại mã PIN trên ứng dụng
+00AC0130|1|Tôi biết
+00AD6599|1|Nhập PIN để mở khóa
+00AC0130|1|%d thông báo
+00AC0130|1|%d thông báo
+00AC0130|1|%d thông báo
+00AC0130|1|%d thông báo
+00AC0130|1|%d thông báo
+00AC0130|1|%d thông báo
+00AC0130|1|%d thông báo
+00AFB616|1|--:--
+00A967C3|1|Alexa
+00AB4354|1|Không khả dụng
+00AC0130|1|Amazon Alexa không khả dụng trong khu vực tài khoản của bạn
+00AC0130|1|Kiểm tra kết nối mạng của bạn
+00A967C3|1|Bạn đã nói?
+00AC0130|1|Bắt đầu bằng cách nói
+00AB1502|1|Th 2
+00AB1502|1|Th 3
+00AB1502|1|Th 4
+00AB1502|1|Th 5
+00AB1502|1|Th 6
+00AB1502|1|Th 7
+00AB1502|1|Cn
+00AD3C5E|1|%u km/h
+00A967C3|1|Ghép nối
+00AB4354|1|Không thể ghép nối
+00AD6599|1|Nhập PIN để mở khóa
+00AD6599|1|Nhập PIN để mở khóa
+00AE374F|1|%d℃/%d℃
+00AE374F|1|%d℉/%d℉
+00AC0130|1|%d
+00AF502A|1|%02d:%02d.%02d
+00AB4354|1|m
+00AC0130|1|Kết nối vòng đeo tay với ứng dụng
+00AE374F|1|-
+00AA8D14|1|Xem chi tiết trên ứng dụng
+00A967C3|1|Contact customer support to get your device repaired
+00A9D691|1|Theo dõi nhịp tim cả ngày lẫn đêm
+00AB4354|1|Mã PIN đã được cài đặt
+00A9D691|1|Nhận nhắc nhở để bắt đầu và kết thúc bài tập chạy, đi bộ hoặc chèo thuyền.
+00A967C3|1|Đang tải
+00AC4ABE|1|.
+00AC5DB0|1|.
+00AE30A7|1|.
+00AFB616|1|.
+00AD3C5E|1|.
+00AE374F|1|.
+00AFB691|1|.
+00AFB6B5|1|.
+00A9D691|1|.
+00AB1502|1|.
+00AFB6E0|1|.
+00AF6611|1|.
+00AC0130|1|.
+00AA8D14|1|.
+00AEA789|1|.
+00AF8C46|1|.
+00AF8CD7|1|.
+00AF36BC|1|.
+00AFB706|1|.
+00AEB24F|1|.
+00AD6599|1|.
+00AA4D9B|1|.
+00AFB731|1|.
+00AFB75C|1|.
+00AB4354|1|.
+00A967C3|1|.
+00AF6E13|1|.
+00AE958F|1|.
+00AFB78A|1|.
+00AFB7B5|1|.
+00AB07E2|1|.
+00AFB7D9|1|.
+00AE70EA|1|.
+00AD8D01|1|.
+00AF7C4C|1|.
+00ADE512|1|.
+00AFB811|1|.
+00AC6F0C|1|.
+00AF502A|1|.
+00ADF4F6|1|.
+00AFC2F8|1|.
+00AEBA9A|1|.
+00AFC32C|1|.
+00ADCC46|1|.
+00AE8158|1|.
+00AF8D19|1|.
+00AF1A3C|1|.
+00AE4F2C|1|.
+00AFDA58|1|.
+00AA105F|1|.
+00ACF0B6|1|.
+00ABDC8F|1|.
+00A967C3|1|h
+00A967C3|1|m
+00AA8D14|1|Không hiển thị hôm nay
+00AB4354|1|Không khả dụng
+00AC0130|1|Amazon Alexa không khả dụng trong khu vực tài khoản của bạn
+00AA8D14|1|Chèo thuyền
+00AA8D14|1|Máy tập elip
+00AA8D14|1|Nhảy dây
+00AC6F0C|1|Tốt lắm
+00AC0130|1| 
+00AC0130|1| 
+00AC0130|1|Mục tiêu
+00AC0130|1|Còn lại
+00AC0130|1|Mục tiêu
+00AC0130|1|Còn lại
+00AC0130|1|Độ dài mục tiêu
+00AC0130|1|Còn lại
+00AC0130|1|Mục tiêu nhảy
+00AC0130|1|Còn lại
+00A967C3|1|Thời gian
+00A967C3|1|Khoảng cách
+00A967C3|1|Độ dài
+00A967C3|1|Sải bơi
+00A967C3|1|Nhảy
+00AC5DB0|1| 
+00AD3C5E|1|%d:%02d
+00AD3C5E|1|%d m
+00AD3C5E|1|%dphút %02dgiây
+00A967C3|1|Ứng dụng
+00AA4D9B|1|Tập luyện
+00AA4D9B|1|Cơ bản
+00AA4D9B|1|Thời tiết
+00AA4D9B|1|Công cụ
+00A967C3|1|Bấm giờ
+00A967C3|1|Hẹn giờ
+00A967C3|1|Camera
+00A967C3|1|Thẻ
+00AB4354|1|Thời gian tập luyện quá ngắn để ghi lại.
+00AFDA90|1|Bấm giờ
+00AFDA90|1|Hẹn giờ
+00AF8D19|1|%d℃
+00AF8D19|1|%d℉
+00AF8D19|1|-
+00AF8D19|1|--℃
+00AF8D19|1|--℉
+00AA8D14|1|Vui lòng chờ
+00AD8D01|1|Hít thở
+00AF8D19|1|--
+00A967C3|1|Tự động
+00A967C3|1|Tùy chỉnh
+00AF8D19|1|%d%%
+00AA8D14|1|Vui lòng chờ
+00AA8D14|1|Không phát
+00AA8D14|1|Đã ngắt kết nối
+00AC4ABE|1|Trượt lên để lấy mã vạch
+00AC4ABE|1|Trượt xuống để lấy mã QR
+00AFDA90|1|Chèo thuyền
+00AFDA90|1|Đi bộ
+00AFDA90|1|HIIT
+00AFDA90|1|Đạp xe ngoài trời
+00AFDA90|1|Đạp xe trong phòng
+00AFDA90|1|Nhảy dây
+00AFDA90|1|Đi bộ dài ngày
+00AFDA90|1|Đi bộ đường dài
+00AFDA90|1|Máy tập elip
+00AFDA90|1|Chạy bộ ngoài trời
+00AFDA90|1|Bơi trong hồ bơi
+00AFDA90|1|Chạy bộ trong phòng
+00AFDA90|1|Chạy việt dã
+00AFDA90|1|Tập luyện tự do
+00AFC32C|1|%lu
+00AF1A3C|1|%lu
+00AA8D14|1|Không có dữ liệu
+00AF8D19|1|--
+00AA8D14|1|m
+00A967C3|1|SpO₂
+00AC0130|1|Bạn đã đạt mục tiêu hôm qua. Hãy tiếp tục duy trì cho hôm nay!
+00AC0130|1|Bạn đã đạt 2 trong 3 mục tiêu hôm qua. Bạn có thể làm được!
+00AC0130|1|Bạn không đạt mục tiêu hôm qua. Hãy thực hiện từ hôm nay!
+00AC0130|1|Mục tiêu trong tầm tay - hôm nay là một ngày mới!
+00AC0130|1|Bạn chỉ còn cách mục tiêu 1000 bước.
+00AC0130|1|Bạn chỉ còn cách mục tiêu 50 kcal.
+00AC0130|1|Vẫn còn thời gian để đạt được mục tiêu ngày hôm nay, hãy tiếp tục!
+00AC0130|1|Hãy đứng thêm hai lần nữa hôm nay để đạt được mục tiêu của bạn.
+00AC0130|1|Hãy đứng thêm một lần nữa hôm nay để đạt được mục tiêu của bạn.
+00AC0130|1|Bạn đã đạt mục tiêu hôm qua. Hãy tiếp tục duy trì cho hôm nay!
+00AC0130|1|Bạn đã đạt 2 trong 3 mục tiêu hôm qua. Bạn có thể làm được!
+00AC0130|1|Bạn không đạt mục tiêu hôm qua. Hãy thực hiện từ hôm nay!
+00AC0130|1|Mục tiêu trong tầm tay - hôm nay là một ngày mới!
+00AC0130|1|Bạn chỉ còn cách mục tiêu 1000 bước.
+00AC0130|1|Bạn chỉ còn cách mục tiêu 50 kcal.
+00AC0130|1|Bạn gần đạt được mục tiêu, cán đích một cách mạnh mẽ!
+00AC0130|1|Hãy đứng thêm hai lần nữa hôm nay để đạt được mục tiêu của bạn.
+00AC0130|1|Hãy đứng thêm một lần nữa hôm nay để đạt được mục tiêu của bạn.
+00AFB811|1|Đạt mục tiêu!
+00AB4354|1|Bạn có thể làm được!
+00AB4354|1|Thống kê
+00AD3C5E|1|Tùy chỉnh
+00AB4354|1|Không thể ghép nối
+00A9D691|1|Thử lại
+00AC0130|1|Ghép nối
+00AB4354|1|Xác nhận trên điện thoại của bạn
+00AB4354|1|Đang ghép nối...
+00AB4354|1|Đã ghép nối
+00A9D691|1|Quét để tải xuống ứng dụng
+00A9D691|1|Xác nhận trên điện thoại của bạn
+00B00740|1|繁體中文
+00AB4354|1|English
+00AB4354|1|Deutsch
+00B01047|1|한국어
+00B01614|1|עברית
+00B019E4|1|ไทย
+00B01C18|1|日本語
+00B0224B|1|العربية
+00AB4354|1|Italiano
+00AB4354|1|Français
+00AB4354|1|Español
+00AB4354|1|Polski
+00AB4354|1|Українська
+00AB4354|1|Čeština
+00AB4354|1|Русский
+00AB4354|1|Nederlands
+00AB4354|1|Português PT
+00AB4354|1|Türkçe
+00AB4354|1|Română
+00AB4354|1|Eλληνικά
+00AB4354|1|Português BR
+00AB4354|1|Indonesia
+00AB4354|1|Tiếng Việt
+00AB4354|1|Norsk bokmål
+00AB4354|1|Suomi
+00AB4354|1|Svenska
+00AB4354|1|Dansk
+00AD3C5E|1|Tắt
+00AD3C5E|1|%d giây
+00AD3C5E|1|%d giây
+00AD3C5E|1|%d giây
+00AD3C5E|1|%d giây
+00AD3C5E|1|%d giây
+00AD3C5E|1|%d giây
+00AD3C5E|1|%d giây
+00AA8D14|1|%u/%u/%u 
+00AA4D9B|1|Xiaomi Smart Band 7 Pro
+00AA8D14|1|OK
+00AD6599|1|If the number of words is too long, please check it on the APP side
+00A967C3|1|Trượt ván trên tuyết
+00A967C3|1|Trượt tuyết
+00AC6F0C|1|Trượt ván trên tuyết
+00AC6F0C|1|Trượt tuyết
+00A9D691|1|Tùy chỉnh
+00A967C3|1|Syncing
+00AB4354|1|Preparing update
+00AD3C5E|1|VO₂ max
+00AE374F|1|Cao

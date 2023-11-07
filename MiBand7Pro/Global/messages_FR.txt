@@ -1,0 +1,2071 @@
+0061D0F6|1|Paramètres
+0061D0F6|1|Affichage de bracelet
+0061D0F6|1|Affichage
+0061D0F6|1|Vibration
+00620F68|1|Défaut
+00620F68|1|Forte
+0061D0F6|1|Détection automatique
+00620F68|1|Désactiver
+00620F68|1|Activer
+0061D0F6|1|NPD
+00620F68|1|Désactivé
+00620F68|1|Intelligent
+00620F68|1|Toute la journée
+0061D0F6|1|Disposition de l'APPlication
+00620F68|1|Mode icône
+00620F68|1|Mode liste
+0061D0F6|1|Code PIN
+0061D0F6|1|Système
+0061D0F6|1|À propos du bracelet
+0061D0F6|1|Luminosité
+0061D0F6|1|Toujours actif
+0061D0F6|1|Verrouillage automatique
+0061D0F6|1|Couvrir pour éteindre
+0061D0F6|1|Lever pour activer
+00620F68|1|Autom.
+006231E1|1|Autom.
+0061D0F6|1|Fermer
+0061D0F6|1|Intelligent
+0061D0F6|1|Programmé
+0061D0F6|1|Toute la journée
+0061D0F6|1|En savoir plus
+00626AA7|1|Toujours actif
+00626AA7|1|Intelligent
+00629051|1|L'heure sera affiché même lorsque l'écran est verrouillé.
+00629051|1|Toujours actif se désactivera quand vous allez dormir ou enlevez votre bracelet.
+0061D0F6|1|Cela affectera l'autonomie de la batterie, continuer ?
+0061D0F6|1|Démarrer
+0061D0F6|1|Terminer
+0061D0F6|1|État
+0062BE15|1|-%d
+0062ECCB|1|%d
+0061D0F6|1|Sensibilité
+00620F68|1|Intelligent
+006231E1|1|Élevée
+006231E1|1|Défaut
+0061D0F6|1|Cela affectera l'autonomie de la batterie, continuer ?
+0062F9EB|1|s
+0062F9EB|1|min
+0061D0F6|1|Détection automatique
+0061D0F6|1|Détection de l'entraînement
+00629051|1|C'est compris
+00629051|1|C'est compris
+00620F68|1|Pour définir une fréquence de surveillance, désactivez BPM irrégulier .
+0062ECCB|1|%d:%02d
+006316A5|1|Cela affectera l'autonomie de la batterie, continuer ?
+0061D0F6|1|Désactivé
+0061D0F6|1|Intelligent
+00629051|1|Toujours actif se désactivera quand vous allez dormir ou enlevez votre bracelet.
+0061D0F6|1|Mode icône
+0061D0F6|1|Mode liste
+0061D0F6|1|Système
+0061D0F6|1|Redémarrer
+0061D0F6|1|Désactiver
+0061D0F6|1|Réinitialiser
+0061D0F6|1|Redémarrer maintenant ?
+0061D0F6|1|Désactiver maintenant ?
+006316A5|1|Effacer toutes les données ?
+00626AA7|1|Nom
+00626AA7|1|Modèle
+00626AA7|1|Adresse MAC
+00626AA7|1|Version No.
+00626AA7|1|Numéro de série
+00626AA7|1|Réglementaire
+0061D0F6|1|Vibration
+0063618A|1|Forte
+006231E1|1|Défaut
+006231E1|1|Forte
+00638C04|1|%d
+00620F68|1|%d/%d
+0061D0F6|1|Échauffement
+00629051|1|Terminé
+0062BE15|1|%2d:%2d:%2d
+0061D0F6|1|Entraînement
+0062BE15|1|%d
+0063B0A5|1|Objectifs de coups
+0063B0A5|1|Restants
+00629051|1|Ignorer
+0061D0F6|1|Repos
+0063B0A5|1|Repos
+0063B0A5|1|Restant
+0061D0F6|1|Récupération
+00629051|1|Terminer
+0061D0F6|1|Course
+0061D0F6|1|Brûleur de graisse
+0061D0F6|1|Avancé
+0063B0A5|1|Introduction
+0063B0A5|1|Plan d'entraînement
+0062F9EB|1|Marche
+0062F9EB|1|Jogging basique
+00629051|1|Démarrer
+0061D0F6|1|Récent
+0063618A|1|Marche
+00626AA7|1|BPM cible
+00629051|1|%d-%dbpm
+00626AA7|1|Marche
+0062BE15|1|%d:%02d
+0063B0A5|1|Minuteur
+0063D8FF|1|BPM
+0061D0F6|1|Il semble que vous faites de l'exercice
+00629051|1|Extérieur
+00629051|1|Tapis de course
+00629051|1|Ignorer (%ds)
+00629051|1|km
+00629051|1|Pause
+00629051|1|Continuer
+006316A5|1|Distance d'entraînement trop courte pour enregistrer. Terminer ?
+006316A5|1|Temps d'entraînement trop court pour enregistrer. Terminer ?
+00629051|1|Continuer
+00629051|1|Terminer
+0061D0F6|1|Étalonnage
+0062BE15|1|.
+0063E889|1|km
+006316A5|1|L'écran se verrouille lorsque vous démarrez
+0061D0F6|1|Respiration
+0063F719|1|Respiration
+0061D0F6|1|Temps
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+00643BBA|1|%d
+00645FB8|1|%d
+0063F719|1|Détendez-vous
+00629051|1|Concentrez-vous sur votre respiration
+0063F719|1|Allons-y
+00629051|1|Suivez la bulle
+0063F719|1|Inspirer
+0063F719|1|Expirer
+0063F719|1|Bien joué
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+00629051|1|Session : %d min
+0061D0F6|1|Résultats
+00629051|1|FC Actuelle
+00643BBA|1|89
+0063E889|1|BPM
+00629051|1|Démarrage FC
+00629051|1|Session
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0063E889|1|min
+0061D0F6|1|Paramètres
+0061D0F6|1|Objectif
+0061D0F6|1|Intervalles
+0061D0F6|1|Alertes
+0061D0F6|1|Longueur de la piscine
+0061D0F6|1|Pause automatique
+0063B0A5|1|Ouvert
+00648762|1|1,5 km
+0061D0F6|1|Ouvert
+0061D0F6|1|Distance
+0061D0F6|1|Temps
+0061D0F6|1|Calories
+0061D0F6|1|Sauts
+0061D0F6|1|Longueurs
+0063B0A5|1|5 km
+0061D0F6|1|Les intervalles se désactiveront. Continuer ?
+0061D0F6|1|L'objectif d'entraînement sera supprimé. Continuer?
+0061D0F6|1|Distance
+0061D0F6|1|Temps
+0061D0F6|1|Calories
+0061D0F6|1|Sauts
+0061D0F6|1|Longueurs
+0063E889|1|min
+0063E889|1|kcal
+0063E889|1| 
+0063E889|1| 
+0061D0F6|1|Séries
+0061D0F6|1|Repos
+0063E889|1|s
+0063E889|1| 
+0061D0F6|1|Distance
+0061D0F6|1|Rythme
+0061D0F6|1|Vitesse
+0061D0F6|1|Zone FC
+0061D0F6|1|FC élevée
+00629051|1|Désactiver tout
+00648762|1|Désactiver
+00648762|1|Intensive
+0061D0F6|1|Stimulateur
+0062BE15|1|5'00"
+00638C04|1|4'50"
+0061D0F6|1|%d km/h
+0063E889|1|km/h
+0061D0F6|1|Désactiver
+0061D0F6|1|Légère
+0061D0F6|1|Intensive
+0061D0F6|1|Aérobie
+0061D0F6|1|Anaérobie
+0061D0F6|1|VO₂ max
+00648762|1|%u–%u BPM
+0061D0F6|1|FC élevée
+0063E889|1|BPM
+0061D0F6|1|25 m
+0061D0F6|1|Personnaliser
+0061D0F6|1|Personnalisée
+0063E889|1|m
+0061D0F6|1|Définir un code PIN
+0064A45F|1|Saisir le code PIN
+0064A45F|1|Confirmer le code PIN
+0064A45F|1|Incorrect
+0061D0F6|1|Effacer toutes les données ?
+0061D0F6|1|Désactiver le code PIN
+0061D0F6|1|Changer le code PIN
+0061D0F6|1|Code PIN modifié
+0061D0F6|1|Code PIN désactivé
+00620F68|1|Votre bracelet se verrouillera automatiquement lorsque vous l'enlèverez.
+0064C2A1|1|Accélérer
+0064C2A1|1|Continuez
+0064C2A1|1|Ralentir
+0064EDC8|1|%u'%02u''
+0063F719|1|FC élevée
+00629051|1|Calories
+00650694|1|345
+00629051|1|Pas
+00629051|1|Mouvement
+00651678|1|323
+0061D0F6|1|Pas
+0063E889|1| 
+0061D0F6|1|Debout
+0061D0F6|1|Mouvement
+0061D0F6|1|Rappels
+00626AA7|1|Pas
+00626AA7|1|Calories
+0064A45F|1|Debout
+0064A45F|1|Mouvement
+0061D0F6|1|Sommeil
+0065291B|1|10
+0064C2A1|1|h
+0064C2A1|1|min
+00629051|1|Objectif :
+00655229|1|24:33
+00629051|1|Aucune donnée
+00626AA7|1|Sommeil
+00629051|1|1. Pour suivre le sommeil paradoxal, activez la surveillance avancée\n2. Resserrez la sangle du bracelet\n. 3. La fréquence cardiaque et les valeurs SpO₂ dépendent des mouvements, de la qualité du sommeil et plus encore.
+0063F719|1|h
+0063F719|1|min
+00629051|1|Aucune donnée
+0061D0F6|1|Surveillance avancée
+0061D0F6|1|Score respiratoire
+0061D0F6|1|Score respiratoire
+00620F68|1|Suivre le sommeil paradoxal
+0061D0F6|1|Score respiratoire
+00620F68|1|Surveillez la respiration nocturne
+0061D0F6|1|Sommeil
+0063B0A5|1|BPM Moy.
+0061D0F6|1| 
+0063B0A5|1|SpO₂ moy.
+0061D0F6|1|Sieste
+0061D0F6|1|Fréquence cardiaque
+00655229|1|126
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+0061D0F6|1|FC élevée
+0061D0F6|1|FC faible
+0061D0F6|1|BPM irrégulier
+0061D0F6|1|Zone FC
+0063B0A5|1|VO₂ max
+0063B0A5|1|VO₂ max
+0063B0A5|1|Anaérobie
+0063B0A5|1|Intensive
+0063B0A5|1|Légère
+0063B0A5|1|Relaxed
+0063B0A5|1|Relaxed
+0061D0F6|1|%02d:%02d
+00629051|1|Mesure
+00656996|1|144-224
+006558D1|1|BPM
+00656996|1|12: 24-12: 25
+00629051|1|Réessayer
+00629051|1|Mesurer
+00626AA7|1|Fréquence cardiaque
+00629051|1|La fréquence cardiaque est le nombre de battements cardiaques par minute (BPM).\nTypiquement, une fréquence cardiaque au repos varie de 40 à 100 BPM. Toutefois, cela varie selon l'âge, le sexe et d'autres facteurs.\nVotre bracelet prend en charge une plage de 30 à 220 BPM.
+0061D0F6|1|En savoir plus
+00629051|1|Resserrez la sangle du bracelet et réessayez
+0061D0F6|1|Astuces
+00629051|1|Portez votre bracelet au-dessus de votre poignet.
+00629051|1|Gardez votre bracelet bien ajustée et immobile.
+00629051|1|Les mesures dépendent de la basse température, de la perfusion cutanée, et plus encore.
+0062F9EB|1|Cette fonctionnalité n'est pas destinée à des fins médicales.
+00629051|1|Le Contrôle continu est désactivé.
+00629051|1|Activer
+0061D0F6|1|Contrôle continu
+0061D0F6|1|BPM irrégulier
+0061D0F6|1|Activer/Désactiver
+0061D0F6|1|FC élevée
+0061D0F6|1|FC faible
+00620F68|1|Pour définir une fréquence de surveillance, désactivez BPM irrégulier .
+0061D0F6|1|1 min
+0061D0F6|1|10 min
+0061D0F6|1|Automatique
+0061D0F6|1|Astuces
+00629051|1|Measure heart rate every 10 mins
+00626AA7|1|Automatique
+00629051|1|Augmenter la fréquence de surveillance pendant les entraînements
+0061D0F6|1|BPM irrégulier
+00620F68|1|Obtenez des alertes de rythme cardiaque irrégulier
+0061D0F6|1|Cela affectera l'autonomie de la batterie, continuer ?
+0061D0F6|1|100 BPM
+0063F719|1|FC faible
+00626AA7|1|12: 30-12: 40
+00629051|1|Détails
+0063F719|1|BPM irrégulier
+0063F719|1|Mesure
+00629051|1|Soyez tranquille
+00629051|1|Mesuré : %02d:%02d
+00629051|1|Réessayer
+0063B0A5|1|Goal hit
+0063B0A5|1|Goal hit
+0063B0A5|1|Goal hit
+0063B0A5|1|Goal hit
+0063F719|1|Objectifs atteints
+0063B0A5|1|Bravo!
+0063F719|1|Bougez!
+0063F719|1|Levez-vous
+00629051|1|Levez-vous et marchez
+006316A5|1|Connectez votre téléphone pour mettre à jour les données GPS.
+006316A5|1|Le stockage est plein. Impossible d'enregistrer cet entraînement.
+0061D0F6|1|GPS
+0063F719|1|Course à l'extérieur
+006316A5|1|Positionnement. Allez dans une zone ouverte et attendez pour commencer l'entraînement.
+00629051|1|Attendez
+00629051|1|Démarrer
+006316A5|1|Exercice dans un espace ouvert
+00629051|1|Ignorer
+0061D0F6|1|Cycles
+006558D1|1|%u/%u/%u
+0061D0F6|1|Prédictions
+0063B0A5|1|Fertile
+0061D0F6|1|05.23-06.23
+00658B54|1|Jour de l'ovulation
+006597AF|1|Règles
+0061D0F6|1|En savoir plus
+00629051|1|Enregistrer les détails du cycle dans l'APPlication
+00626AA7|1|1. Couleurs
+00629051|1|Règles
+0061D0F6|1|Jour des règles %d
+00629051|1|Estimation des règles
+0061D0F6|1|Jour des règles %d
+00629051|1|Fertile
+00629051|1|Jour %d de la période fertile
+00629051|1|Jour de l'ovulation
+0061D0F6|1|Jour de l'ovulation
+00626AA7|1|2. Astuce
+00629051|1|Plus vous enregistrez, plus vous obtiendrez des prédictions précises.
+0063F719|1|Natation en piscine
+0063F719|1|Eau libre
+0063F719|1|Voile
+0063F719|1|Planche à bras
+0063F719|1|Le water polo
+0063F719|1|Sports nautiques
+0063F719|1|Ski nautique
+0063F719|1|Le kayak
+0063F719|1|Le rafting
+0063F719|1|L'aviron
+0063F719|1|Motonautisme
+0063F719|1|Nage avec palmes
+0063F719|1|Plongeon
+0063F719|1|Natation artistique
+0063F719|1|Plongée en apnée
+0063F719|1|Kite surf
+0063F719|1|Marche
+0063F719|1|Randonnée
+0063F719|1|Cyclisme en plein air
+0063F719|1|Trekking
+0063F719|1|Course en sentier
+0063F719|1|Escalade
+0063F719|1|Skateboard
+0063F719|1|Patinage à roulette
+0063F719|1|Parkour
+0063F719|1|ATV
+0063F719|1|Parapente
+0063F719|1|Activités libres
+0063F719|1|Tapis de course
+0063F719|1|Corde à sauter
+0063F719|1|HIIT
+0063F719|1|Yoga
+0063F719|1|Vélo en salle
+0063F719|1|Elliptique
+0063F719|1|Rameur
+0063F719|1|Monte-escalier
+0063F719|1|Escaladeur
+0063F719|1|Entraînement abdominal
+0063F719|1|Souplesse
+0063F719|1|Pilates
+0063F719|1|Gymnastique
+0063F719|1|Étirement
+0063F719|1|Puissance
+0063F719|1|Entraînement croisé
+0063F719|1|Montée d'escalier
+0063F719|1|Aérobie
+0063F719|1|Éducation physique
+0063F719|1|Boule murale
+0063F719|1|Haltère court
+0063F719|1|Barre à disques
+0063F719|1|Musculation
+0063F719|1|Soulevé de terre
+0063F719|1|Le burpee
+0063F719|1|Sit-ups
+0063F719|1|Entraînement fonctionnel
+0063F719|1|Haut du corps
+0063F719|1|Bas du corps
+0063F719|1|Abdos
+0063F719|1|Dos
+0063F719|1|Danse carrée
+0063F719|1|Danse du ventre
+0063F719|1|Ballet
+0063F719|1|Danse de rue
+0063F719|1|Zumba
+0063F719|1|Danse folklorique
+0063F719|1|Danse jazz
+0063F719|1|Danse latine
+0063F719|1|Boxe
+0063F719|1|Lutte
+0063F719|1|Arts martiaux
+0063F719|1|Taï chi
+0063F719|1|Muay Thaï
+0063F719|1|Judo
+0063F719|1|Taekwondo
+0063F719|1|Karaté
+0063F719|1|Le kickboxing
+0063F719|1|Kendo
+0063F719|1|Escrime
+0063F719|1|Tennis
+0063F719|1|Basketball
+0063F719|1|Football
+0063F719|1|Volley-ball
+0063F719|1|Baseball
+0063F719|1|Softball
+0063F719|1|Football américain
+0063F719|1|Hockey
+0063F719|1|Tennis de table
+0063F719|1|Badminton
+0063F719|1|Cricket
+0063F719|1|Handball
+0063F719|1|Bowling
+0063F719|1|Le Squash
+0063F719|1|Billard
+0063F719|1|Volant
+0063F719|1|Foot de plage
+0063F719|1|Beach-volley
+0063F719|1|Sepak takraw
+0063F719|1|Patinage sur glace
+0063F719|1|Curling
+0063F719|1|Autres sports d'hiver
+0063F719|1|Motoneige
+0063F719|1|Hockey sur glace
+0063F719|1|Bobsleigh
+0063F719|1|Luge
+0063F719|1|Tir à l'arc
+0063F719|1|Fléchettes
+0063F719|1|Équitation
+0063F719|1|Tir à la corde
+0063F719|1|Hula hoop
+0063F719|1|Cerf-volant
+0063F719|1|Pêche
+0063F719|1|Frisbee
+0063F719|1|Équestre
+0063F719|1|Athlétisme
+0063F719|1|Course automobile
+00620F68|1|Recevoir des rappels pour commencer et terminer un entrainement de course, de marche de tapis de course, de rameur ou de corde à sauter.
+00629051|1|Reporter
+0061D0F6|1|Synchronisation
+0061D0F6|1|Notifications
+00629051|1|Aucune notification
+00629051|1|Répondre
+00629051|1|Envoyer
+0061D0F6|1|Envoyé
+0061D0F6|1|Impossible d'envoyer
+006316A5|1|Autoriser cette application à envoyer des messages SMS
+006316A5|1|Autoriser cette application à lire vos contacts
+0061D0F6|1|Envoie
+0065A19E|1|Alarme
+0063B0A5|1|Aucune alarme
+0063B0A5|1|Temps
+0063B0A5|1|Répéter
+0061D0F6|1|Modifier
+0061D0F6|1|Heure
+0061D0F6|1|Répéter
+00629051|1|Supprimer
+00629051|1|OK
+0063B0A5|1|AM
+0063B0A5|1|PM
+00629051|1|Reporter
+00629051|1|Arrêter
+00629051|1|Impossible d'ajouter l'alarme
+0063B0A5|1|Ajouter un maximum de 10 alarmes
+0061D0F6|1|Trouver le téléphone
+0061D0F6|1|Votre téléphone va sonner
+0061D0F6|1|Déconnecté
+0061D0F6|1|Aucun résultat
+00629051|1|Rechercher
+00629051|1|Arrêter
+00629051|1|Retour
+0061D0F6|1|Musique
+0061D0F6|1|Autorisations
+0061D0F6|1|Un instant
+00620F68|1|Associez votre bracelet avec l'application
+00620F68|1|Activer l'accès aux Notifications pour l'application
+006316A5|1|Activer l'accès aux Notifications pour l'application
+00629051|1|Non associé
+0061D0F6|1|À l'arrêt
+0061D0F6|1|Déconnecté
+0061D0F6|1|Autorisations
+0061D0F6|1|Appareil photo
+0063B0A5|1|Ouvrez l'appareil photo sur votre téléphone
+0061D0F6|1|Non associé
+006316A5|1|Déconnecté
+00620F68|1|Accédez à appareil > appareil photo dans l'application
+00620F68|1|Associer votre bracelet avec l'application
+0063B0A5|1|Activer
+00629051|1|Aucun événement aujourd'hui
+0061D0F6|1|Détails
+0061D0F6|1|Détails
+006316A5|1|Activer Événement dans l'application
+006316A5|1|Reporter pour 10 min
+006316A5|1|Reporter pour 10 min
+006316A5|1|Reporter pour 10 min
+006316A5|1|Reporter pour 10 min
+006316A5|1|Reporter pour 10 min
+006316A5|1|Reporter pour 10 min
+006316A5|1|Reporter pour 10 min
+0061D0F6|1|Chronomètre
+0065B296|1|%02d
+006316A5|1|Le chronomètre ne peut pas fonctionner en arrière-plan, quitter?
+0061D0F6|1|Minuteur
+0064EDC8|1|%d
+006558D1|1|min
+006558D1|1|min
+006558D1|1|min
+006558D1|1|min
+006558D1|1|min
+006558D1|1|min
+006558D1|1|min
+006558D1|1|min
+006558D1|1|h
+006558D1|1|h
+006558D1|1|h
+006558D1|1|h
+006558D1|1|h
+006558D1|1|h
+006558D1|1|h
+006558D1|1|h
+00629051|1|Personnaliser
+0061D0F6|1|Récent
+00638C04|1|%02d:%02d:%02d
+00620F68|1|Personnaliser
+0061D0F6|1|Météo
+0061D0F6|1|Prévisions
+0065BD5C|1|25°
+0061D0F6|1|Qualité de l'air
+00620F68|1|AQI
+0063D8FF|1|Bougez
+0061D0F6|1|Indices
+006558D1|1| 
+00648762|1|UVI
+00648762|1|Humidité
+0061D0F6|1|Lever du soleil et le coucher du soleil
+0061D0F6|1|Localisations
+0065C5A7|1|Bien dormir
+006316A5|1|NPD est activé. Lever pour activer est désactivé.
+00629051|1|Ignorer
+00629051|1|Temps
+00638C04|1|%02d:%02d
+00629051|1|Sommeil
+0064C2A1|1|%dh %dmin
+00656996|1|%d℃/%d℃
+0061D0F6|1|SpO₂
+0065EC84|1|98
+00629051|1|Mesurer
+00629051|1|Aucune donnée
+0066264A|1|98%
+0063B0A5|1|Portez votre bracelet au-dessus de votre poignet.
+0063B0A5|1|Resserrez la sangle du bracelet et réessayez
+0063B0A5|1|Ne bougez pas
+00643BBA|1|98%
+0063F719|1|SpO₂
+00626AA7|1|85%
+00629051|1|Détails
+00629051|1|Ignorer
+0061D0F6|1|Suivi toute la journée
+0061D0F6|1|Alerte
+0061D0F6|1|En savoir plus
+0061D0F6|1|Suivi toute la journée
+0063B0A5|1|Désactiver
+0063B0A5|1|80%
+00620F68|1|Mesurer SpO₂ lorsque vous ne bougez pas
+00629051|1|Portez votre bracelet au-dessus de votre poignet.
+00629051|1|Gardez votre bracelet bien ajustée et immobile.
+0062F9EB|1|Cette fonctionnalité n'est pas destinée à des fins médicales.
+0063B0A5|1|SpO₂ représente le pourcentage d'oxygène dans votre sang.
+0063B0A5|1|Les lectures ne vont normalement pas en dessous de 95% pendant que vous êtes actif ou 90% pendant le sommeil. Prenez les mesures nécessaires si votre oxygène sanguin descends en dessous de 90%.
+0063B0A5|1|Votre bracelet prend en charge une plage de 75 à 100%.
+0063B0A5|1|Plusieurs facteurs peuvent rendre les mesures incohérentes ou non fiables. Il peut s'agir de perfusion cutanée, de changements permanents ou temporaires de la peau, de mouvements ou de poses pendant le sommeil. Tout ce qui précède pourrait entraîner une fausse alerte d'oxygène sanguin bas. Rappelez-vous que ce n'est pas un appareil médical, et les données qu'il génère ne peuvent pas être utilisées pour le diagnostic et le traitement.
+0061D0F6|1|Alertes
+0061D0F6|1|Entraînement
+0061D0F6|1|Catégories
+0061D0F6|1|Plus
+0061D0F6|1|Sports nautiques
+0061D0F6|1|Natation en piscine
+0061D0F6|1|Eau libre
+0061D0F6|1|Voile
+0061D0F6|1|Planche à bras
+0061D0F6|1|Le water polo
+0061D0F6|1|Ski nautique
+0061D0F6|1|Le kayak
+0061D0F6|1|Le rafting
+0061D0F6|1|L'aviron
+0061D0F6|1|Motonautisme
+0061D0F6|1|Nage avec palmes
+0061D0F6|1|Plongeon
+0061D0F6|1|Natation artistique
+0061D0F6|1|Plongée en apnée
+0061D0F6|1|Kite surf
+0061D0F6|1|Activités en plein air
+0061D0F6|1|Course à l'extérieur
+0061D0F6|1|Marche
+0061D0F6|1|Randonnée
+0061D0F6|1|Cyclisme en plein air
+0061D0F6|1|Trekking
+0061D0F6|1|Course en sentier
+0061D0F6|1|Escalade
+0061D0F6|1|Skateboard
+0061D0F6|1|Patinage à roulette
+0061D0F6|1|Parkour
+0061D0F6|1|ATV
+0061D0F6|1|Parapente
+0061D0F6|1|Activités libres
+0061D0F6|1|Tapis de course
+0061D0F6|1|Corde à sauter
+0061D0F6|1|HIIT
+0061D0F6|1|Yoga
+0061D0F6|1|Vélo en salle
+0061D0F6|1|Elliptique
+0061D0F6|1|Rameur
+0061D0F6|1|Monte-escalier
+0061D0F6|1|Escaladeur
+0061D0F6|1|Entraînement abdominal
+0061D0F6|1|Souplesse
+0061D0F6|1|Pilates
+0061D0F6|1|Gymnastique
+0061D0F6|1|Étirement
+0061D0F6|1|Puissance
+0061D0F6|1|Entraînement croisé
+0061D0F6|1|Montée d'escalier
+0061D0F6|1|Aérobie
+0061D0F6|1|Éducation physique
+0061D0F6|1|Boule murale
+0061D0F6|1|Haltère court
+0061D0F6|1|Barre à disques
+0061D0F6|1|Musculation
+0061D0F6|1|Soulevé de terre
+0061D0F6|1|Le burpee
+0061D0F6|1|Sit-ups
+0061D0F6|1|Entraînement fonctionnel
+0061D0F6|1|Haut du corps
+0061D0F6|1|Bas du corps
+0061D0F6|1|Abdos
+0061D0F6|1|Retour
+0061D0F6|1|Danse
+0061D0F6|1|Danse carrée
+0061D0F6|1|Danse du ventre
+0061D0F6|1|Ballet
+0061D0F6|1|Danse de rue
+0061D0F6|1|Zumba
+0061D0F6|1|Danse folklorique
+0061D0F6|1|Danse jazz
+0061D0F6|1|Danse latine
+0061D0F6|1|Sports de combat
+0061D0F6|1|Boxe
+0061D0F6|1|Lutte
+0061D0F6|1|Arts martiaux
+0061D0F6|1|Taï chi
+0061D0F6|1|Muay Thaï
+0061D0F6|1|Judo
+0061D0F6|1|Taekwondo
+0061D0F6|1|Karaté
+0061D0F6|1|Le kickboxing
+0061D0F6|1|Kendo
+0061D0F6|1|Escrime
+0061D0F6|1|Sports de balle
+0061D0F6|1|Tennis
+0061D0F6|1|Basketball
+0061D0F6|1|Football
+0061D0F6|1|Volley-ball
+0061D0F6|1|Baseball
+0061D0F6|1|Softball
+0061D0F6|1|Football américain
+0061D0F6|1|Hockey
+0061D0F6|1|Tennis de table
+0061D0F6|1|Badminton
+0061D0F6|1|Cricket
+0061D0F6|1|Handball
+0061D0F6|1|Bowling
+0061D0F6|1|Le Squash
+0061D0F6|1|Billard
+0061D0F6|1|Volant
+0061D0F6|1|Foot de plage
+0061D0F6|1|Beach-volley
+0061D0F6|1|Sepak takraw
+0061D0F6|1|Sports d'hiver
+0061D0F6|1|Patinage sur glace
+0061D0F6|1|Curling
+0061D0F6|1|Autres sports d'hiver
+0061D0F6|1|Motoneige
+0061D0F6|1|Hockey sur glace
+0061D0F6|1|Bobsleigh
+0061D0F6|1|Luge
+0061D0F6|1|Sports récréatifs
+0061D0F6|1|Tir à l'arc
+0061D0F6|1|Fléchettes
+0061D0F6|1|Équitation
+0061D0F6|1|Tir à la corde
+0061D0F6|1|Hula hoop
+0061D0F6|1|Cerf-volant
+0061D0F6|1|Pêche
+0061D0F6|1|Frisbee
+0061D0F6|1|Autre
+0061D0F6|1|Équestre
+0061D0F6|1|Athlétisme
+0061D0F6|1|Course automobile
+0063B0A5|1|Ouvert
+0062BE15|1|%02d:%02d:%02d
+0062BE15|1|%d.%d
+006642CA|1|km
+0062BE15|1|%d'%d"
+0062F9EB|1|Légère
+0062F9EB|1|Intensive
+0062F9EB|1|Aérobie
+0062F9EB|1|Anaérobie
+0062F9EB|1|VO₂ max
+00638C04|1|%d
+006642CA|1|kcal
+006642CA|1|PPM
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+006642CA|1|pas
+00638C04|1|0
+0062F9EB|1|/km
+006642CA|1|km/h
+006642CA|1|longueur
+006642CA|1|longueur
+006642CA|1|longueur
+006642CA|1|longueur
+006642CA|1|longueur
+006642CA|1|longueur
+006642CA|1|longueurs
+006642CA|1|longueurs
+006642CA|1|longueurs
+006642CA|1|longueurs
+006642CA|1|longueur
+006642CA|1|longueur
+006642CA|1|longueurs
+006642CA|1|longueurs
+006642CA|1|longueurs
+006642CA|1|longueurs
+006642CA|1|coup
+006642CA|1|coups
+006642CA|1|saut
+006642CA|1|saut
+006642CA|1|saut
+006642CA|1|saut
+006642CA|1|sauts
+006642CA|1|sauts
+006642CA|1|sauts
+006642CA|1|sauts
+006642CA|1|coup
+006642CA|1|coup
+006642CA|1|coups
+006642CA|1|coups
+006642CA|1|coups
+006642CA|1|coups
+006642CA|1|CPM
+0063D8FF|1|/km
+0063D8FF|1|km derrière
+006652BD|1|%u'%02u''
+0061D0F6|1|Stress
+0063E889|1|Modéré
+0061D0F6|1|Détails
+0063B0A5|1|Détendu
+0063B0A5|1|Léger
+0063B0A5|1|Modéré
+0063B0A5|1|Sévère
+0061D0F6|1|Les 7 derniers jours
+00655229|1|05.12
+00629051|1|Aucune donnée
+0062F9EB|1|Modéré
+0061D0F6|1|Surveillance toute la journée
+0061D0F6|1|Rappel détente
+00629051|1|Activé
+0061D0F6|1|Surveillance toute la journée
+0061D0F6|1|Activer/Désactiver
+0062F9EB|1|Gardez une trace lorsque vous êtes sédentaire
+0062F9EB|1|Incitez l'exercice de respiration lorsque le niveau de stress reste au-dessus de 80 pendant la période d'éveil
+0061D0F6|1|En savoir plus
+00629051|1|Le stress est la réaction de votre corps aux défis et aux exigences.
+00629051|1|Votre bracelet mesure votre niveau de stress lorsque vous êtes inactif.\nNiveaux : \nDétendu: 1–25\nLéger : 25–50\nModeré: 51–80\nSévère: 81–100.\nCette fonctionnalité n\; est pas destinée à des fins médicales.
+00629051|1|Les mesures dépendent de la basse température, de la perfusion cutanée, et plus encore.
+00626AA7|1|99.0
+00629051|1|Respiration
+006316A5|1|Fréquence cardiaque
+006316A5|1|Alarme
+006316A5|1|SpO₂
+006316A5|1|Paramètres
+006316A5|1|Météo
+006316A5|1|Ajouter l'appareil
+006316A5|1|Statistiques
+0061D0F6|1|Supprimer l'affichage de la bande ?
+0061D0F6|1|Pour sauvegarder les modifications, balayez vers la droite sur l'affichage de la bande.
+0061D0F6|1|Résumé
+0061D0F6|1|Fréquence cardiaque
+0061D0F6|1|Rythme
+0061D0F6|1|Cadence
+00629051|1|Afficher les détails sur l'application
+0061D0F6|1|Vitesse
+0061D0F6|1|Taux de coups
+0061D0F6|1|Corde à sauter
+0061D0F6|1|Fréquence
+0061D0F6|1|SWOLF
+0061D0F6|1|Randonnée
+0062BE15|1|2:23.1
+0061D0F6|1|Coups
+0061D0F6|1|Statistiques
+0061D0F6|1|Debout
+0061D0F6|1|Mouvement
+0061D0F6|1|Batterie
+0061D0F6|1|Date
+0061D0F6|1|UV
+00629051|1|Synchronisation
+0061D0F6|1|Impossible de synchroniser
+0061D0F6|1|Erreur
+00620F68|1|Retirer les affichages de bande et réessayer
+0061D0F6|1|Sauvegarder les modifications?
+0061D0F6|1|Une fois
+0063B0A5|1|Une fois
+0061D0F6|1|Lun.
+0061D0F6|1|Mar.
+0061D0F6|1|Mer.
+0061D0F6|1|Jeu.
+0061D0F6|1|Ven.
+0061D0F6|1|Sam.
+0061D0F6|1|Dim.
+0063B0A5|1| 
+0063B0A5|1|L
+0063B0A5|1|M
+0063B0A5|1|M
+0063B0A5|1|J
+0063B0A5|1|V
+0063B0A5|1|S
+0063B0A5|1|D
+0063B0A5|1|Quotidien
+006316A5|1|Sommeil
+006316A5|1|Chronomètre
+006316A5|1|Respiration
+006316A5|1|Cycles
+006316A5|1|Stress
+006316A5|1|Entraînement
+00620F68|1|Scanner pour télécharger
+006316A5|1|Associer avec le téléphone ?
+0061D0F6|1|Réglementaire
+00629051|1|Debout
+0061D0F6|1|Reporter
+0061D0F6|1|L'Alarme est désactivé
+0061D0F6|1|Manqués
+00638C04|1|%02lu:%02lu
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00629051|1| 
+00651678|1|8000
+0063F719|1|pas
+0063F719|1|pas
+0063F719|1|pas
+0063F719|1|pas
+0063F719|1|pas
+0063F719|1|pas
+0063F719|1|pas
+0063F719|1|pas
+00651678|1|500
+0063F719|1|kcal
+0063F719|1|kcal
+0063F719|1|kcal
+0063F719|1|kcal
+0063F719|1|kcal
+0063F719|1|kcal
+0063F719|1|kcal
+00651678|1|30
+0063F719|1|min
+0063F719|1|min
+0063F719|1|min
+0063F719|1|min
+0063F719|1|min
+0063F719|1|min
+0063F719|1|min
+0063F719|1|min
+00651678|1|12
+0063F719|1|coup
+0063F719|1|coup
+0063F719|1|coup
+0063F719|1|coup
+0063F719|1|coups
+0063F719|1|coups
+0063F719|1|coups
+0063F719|1|coups
+0063B0A5|1|"Pas" indique un décompte quotidien des pas.
+0063B0A5|1|« Calories » indique le nombre de calories actives brûlées chaque jour en se déplaçant et en faisant de l'exercice.
+0063B0A5|1|""Mouvement"" montre votre temps sur une activité modérée et vigoureuse.
+0063B0A5|1|"Debout" montre des heures pendant lesquelles vous vous levez et vous déplacez.
+0062F9EB|1|km/h
+0061D0F6|1|80%
+0061D0F6|1|85%
+0061D0F6|1|90%
+0061D0F6|1|Entraînement
+0061D0F6|1|Calories
+0061D0F6|1|Pas
+0061D0F6|1|Fréquence cardiaque
+0061D0F6|1|Stress
+0061D0F6|1|Alarme
+0061D0F6|1|Météo
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+0063B0A5|1|%u km
+00648762|1|%u km
+00648762|1|%u m
+00648762|1|%u m
+00648762|1|%u m
+00648762|1|%u m
+00648762|1|%u m
+00648762|1|%u m
+00648762|1|%u m
+0063B0A5|1|%u min
+0063B0A5|1|%u min
+0063B0A5|1|%u kcal
+00648762|1|%u kcal
+00648762|1|%u min
+0063B0A5|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+0063B0A5|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+00648762|1|%u
+0063E889|1| 
+0061D0F6|1|Coups
+0061D0F6|1|50 m
+00648762|1|Léger
+00648762|1|VO₂ max
+00648762|1|Aérobie
+00648762|1|Anaérobie
+0061D0F6|1|%u km
+0061D0F6|1|%u km/h
+0061D0F6|1|%u BPM
+0063B0A5|1|Terminé
+006231E1|1|km
+0061D0F6|1|%
+0063B0A5|1|%d.%d km
+00648762|1|%d'%02d"
+0061D0F6|1|Focus
+0061D0F6|1|Rest
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0062BE15|1|%02d:%02d
+0062ECCB|1|%02d:%02d
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|Il y a %dmin
+006558D1|1|À l'instant
+006558D1|1|À l'instant
+006558D1|1|Il y a %02dmin
+006558D1|1|Il y a %02dmin
+006558D1|1|Il y a %02dmin
+006558D1|1|Il y a %02dmin
+006558D1|1|Mesuré : %02d:%02d
+00629051|1|Repos : %02d
+00629051|1|Repos : --
+0061D0F6|1|30 min
+00629051|1| 
+00626AA7|1| 
+00626AA7|1| 
+00629051|1| 
+0061D0F6|1|40 BPM
+0061D0F6|1|45 BPM
+0061D0F6|1|50 BPM
+0061D0F6|1|110 BPM
+0061D0F6|1|120 BPM
+0061D0F6|1|130 BPM
+0061D0F6|1|140 BPM
+0061D0F6|1|150 BPM
+0065C5A7|1|Temps écoulé
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d h
+00620F68|1|%d min
+00620F68|1|%d min
+00620F68|1|%d min
+00620F68|1|%d min
+00620F68|1|%d min
+00620F68|1|%d min
+00620F68|1|%d min
+00620F68|1|%d min
+0063F719|1|Bougez
+00629051|1|Remuez-vous !
+0061D0F6|1|Désactiver les rappels de se lever d'aujourd’hui ?
+0063B0A5|1|Désactiver
+0063B0A5|1|100 BPM
+0063B0A5|1|110 BPM
+0063B0A5|1|120 BPM
+0063B0A5|1|130 BPM
+0063B0A5|1|140 BPM
+0063B0A5|1|150 BPM
+0063B0A5|1|40 BPM
+0063B0A5|1|45 BPM
+0063B0A5|1|50 BPM
+0063B0A5|1|Activé
+0063B0A5|1|Désactivé
+0063B0A5|1|1 min
+0063B0A5|1|10 min
+0063B0A5|1|30 min
+0063B0A5|1|Automatique
+006652BD|1|%d%%
+006316A5|1|Activité
+006316A5|1|Mi AI
+006316A5|1|Cartes
+006316A5|1|Notifications
+006316A5|1|Événements
+006316A5|1|Musique
+006316A5|1|Appareil photo
+006316A5|1|Minuteur
+006316A5|1|Lampe torche
+006316A5|1|Trouver le téléphone
+006316A5|1|Aide
+006642CA|1|"Lever pour activer" est activé
+006642CA|1|"Lever pour activer" est désactivé
+006642CA|1|NDP activé
+006642CA|1|NDP désactivé
+0061D0F6|1|Résumé
+0063B0A5|1|Aucune donnée
+00629051|1|Afficher les détails sur l'application
+00643BBA|1|--
+0063B0A5|1|%d
+0063B0A5|1|%d
+0063B0A5|1|%d
+0063B0A5|1|%d
+0063B0A5|1|%d
+0063B0A5|1|%d
+0063B0A5|1|%d
+0063B0A5|1|%d–%d BPM
+00626AA7|1|%d-%d
+00626AA7|1|%02d:%02d-%02d:%02d
+006668A4|1|%d
+0062BE15|1|%02d:%02d:%02d
+0062BE15|1|:
+0062BE15|1|%02d:%02d.%02d
+00656996|1|%02d:%02d:%02d.%02d
+006670A6|1|%02d:%02d:%02d.%02d
+006670A6|1|%02d:%02d.%02d
+00620F68|1|%02u-%02u %02u:%02u
+0062BE15|1|%02u:%02u:%02u
+00656996|1|%lu.%02lu
+00620F68|1|km
+0061D0F6|1|Objectif
+00648762|1|%u%%
+00648762|1|Terminé
+00656996|1|%lu
+00648762|1|Objectif
+00648762|1|Kcal actif
+00656996|1|%lu'%02lu''
+00648762|1|Rythme moy.
+00648762|1|Pas
+00648762|1|BPM Moy.
+00648762|1|PPM Moy.
+00643BBA|1|%u'%02u''
+00655229|1|%02u:%02u
+00643BBA|1|%u
+00629051|1|Afficher les détails sur l'application
+00629051|1|Retour
+00648762|1|Objectif
+00648762|1|Terminé
+00648762|1|Objectif
+00648762|1|Terminé
+00648762|1|Objectif
+00648762|1|Terminé
+00648762|1|Objectif
+00648762|1|Terminé
+00648762|1|Objectif
+00648762|1|Terminé
+00648762|1|m
+00648762|1|m
+00648762|1|m
+00648762|1|m
+00648762|1|m
+00648762|1|m
+00648762|1|m
+00648762|1|kcal
+00648762|1|kcal
+00648762|1|kcal
+00648762|1|kcal
+00648762|1|kcal
+00648762|1|kcal
+00648762|1|kcal
+00648762|1|longueur
+00648762|1|saut
+00648762|1|coup
+00648762|1|longueur
+00648762|1|longueur
+00648762|1|longueur
+00648762|1|longueurs
+00648762|1|longueurs
+00648762|1|longueurs
+00648762|1|longueurs
+00648762|1|saut
+00648762|1|saut
+00648762|1|saut
+00648762|1|sauts
+00648762|1|sauts
+00648762|1|sauts
+00648762|1|sauts
+00648762|1|coups
+00648762|1|coup
+00648762|1|coup
+00648762|1|coups
+00648762|1|coups
+00648762|1|coups
+00648762|1|coups
+00626AA7|1|1 min
+00655229|1|%u
+0061D0F6|1|Aucune donnée aujourd'hui
+0063B0A5|1|Aujourd'hui
+0063B0A5|1|Demain
+0063B0A5|1|Désactiver
+00629051|1|Suivante
+00629051|1|Activer les Prédictions des règles dans l'application
+00648762|1|À l'instant
+00648762|1|Il y a %dmin
+00648762|1|Il y a %dmin
+00648762|1|Il y a %dmin
+00648762|1|Il y a %dmin
+00648762|1|Il y a %dmin
+00648762|1|Il y a %dmin
+00648762|1|Il y a %dmin
+00648762|1|%d:%02d
+00648762|1|Hier, %d:%02d
+00648762|1|%02d/%02d %d:%02d
+00626AA7|1|%d notification
+00626AA7|1|%d notification
+00626AA7|1|%d notification
+00626AA7|1|%d notifications
+00626AA7|1|%d notifications
+00626AA7|1|%d notifications
+00626AA7|1|%d notifications
+00629051|1|Effacer
+00655229|1|00:00
+00655229|1|12:00
+00655229|1|24:00
+0063B0A5|1|Toute la journée
+00629051|1|Le suivi toute la journée est désactivé.
+00629051|1|Resserrez la sangle du bracelet et réessayez
+00655229|1|%02u:%02u
+00656996|1|%02u:%02u-%02u:%02u
+0061D0F6|1|Alertes
+0063B0A5|1|Votre bracelet vous avertit lorsqu'il détecte des valeurs en dessous du niveau défini. Vous pouvez afficher plus de données dans l'application. Si vous vous sentez mal, consultez un médecin.
+00629051|1|Ne bougez pas
+00629051|1|50% terminé
+00629051|1|Calibrage
+00629051|1|Restez immobile pendant la mesure
+00629051|1|Resserrez la sangle du bracelet et réessayez
+00629051|1|Resserrez la sangle du bracelet et réessayez
+006642CA|1|m
+00629051|1|Connectez-vous à l'application pour mettre à jour la météo
+0062F9EB|1|Définir des localisations dans l'application
+00650694|1|%d
+0061D0F6|1|Un instant
+0063B0A5|1|Bonne
+0063B0A5|1|Modérée
+0063B0A5|1|Légère pollution
+0063B0A5|1|Malsaine
+0063B0A5|1|Dangereuse
+0063B0A5|1|Nocive
+00626AA7|1|Bonne
+00626AA7|1|Modérée
+00626AA7|1|Légère pollution
+00626AA7|1|Malsaine
+00626AA7|1|Dangereuse
+00626AA7|1|Nocive
+00620F68|1|Vent variable
+00620F68|1|Tornade
+00620F68|1|Vent N
+00620F68|1|Vent du NE
+00620F68|1|Vent E
+00620F68|1|Vent du SE
+00620F68|1|Vent du S
+00620F68|1|Vent du SO
+00620F68|1|Vent O
+00620F68|1|Vent du NO
+0061D0F6|1|Dégagé
+0061D0F6|1|Nuageux
+0061D0F6|1|Couvert
+0061D0F6|1|Averses
+0061D0F6|1|Orage
+0061D0F6|1|Grêle
+0061D0F6|1|Grésil
+0061D0F6|1|Pluie légère
+0061D0F6|1|Pluie modérée
+0061D0F6|1|Forte pluie
+0061D0F6|1|Tempête de pluie
+0061D0F6|1|Averse
+0061D0F6|1|Pluie torrentielle
+0061D0F6|1|Averses de neige
+0061D0F6|1|Neige fine
+0061D0F6|1|Neige modérée
+0061D0F6|1|Forte neige
+0061D0F6|1|Blizzard
+0061D0F6|1|Brume
+0061D0F6|1|Pluie verglaçante
+0061D0F6|1|Tempête de sable
+0061D0F6|1|Pluie fine à modérée
+0061D0F6|1|Pluie modérée à forte
+0061D0F6|1|Forte pluie à pluie torrentielle
+0061D0F6|1|Pluie torrentielle à averse
+0061D0F6|1|Averse à forte pluie torrentielle
+0061D0F6|1|Neige fine à modérée
+0061D0F6|1|Neige modérée à abondante
+0061D0F6|1|Forte neige à tempête de neige
+0061D0F6|1|Poussière
+0061D0F6|1|Venteux
+0061D0F6|1|Forte tempête de sable
+0061D0F6|1|Brouillard
+0061D0F6|1|Brouillard épais
+0061D0F6|1|Légère brume
+0061D0F6|1|Brume modérée
+0061D0F6|1|Forte brume
+0061D0F6|1|Brume sévère
+0061D0F6|1|Brouillard
+0061D0F6|1|Brouillard sévère
+0061D0F6|1|Aucun rapport
+0061D0F6|1|Pluie
+0061D0F6|1|Neige
+00620F68|1|Aujourd'hui
+00620F68|1|Lun.
+00620F68|1|Mar.
+00620F68|1|Mer.
+00620F68|1|Jeu.
+00620F68|1|Ven.
+00620F68|1|Sam.
+00620F68|1|Dim.
+00651678|1|%d%%
+00651678|1|%d
+00620F68|1|UVI
+00620F68|1|Humidité
+0065EC84|1|%02d:%02d
+00667EDF|1|%02d:%02d
+00620F68|1|Mode sommeil désactivé à %02d:%02d
+0061D0F6|1|BPM irrégulier nécessite une fréquence de 1 min. Continuer ?
+00648762|1|BPM max.
+00648762|1|Entraînement
+00648762|1|Repos
+00648762|1|Séries
+00648762|1|Coups
+00648762|1|Sauts
+00648762|1|Vitesse
+00648762|1|Taux de coups
+00648762|1|Longueurs
+00648762|1|Style principal
+00648762|1|SWOLF moy.
+00648762|1|CPM/BPM moy.
+00656996|1|%02lu:%02lu:%02lu
+0064C2A1|1|Brasse
+0064C2A1|1|4 nages
+0064C2A1|1|Nage libre
+0064C2A1|1|Dos crawlé
+0064C2A1|1|Papillon
+00656996|1|%lu.%lu
+0063B0A5|1|Max.
+0063B0A5|1|Max.
+0065B296|1|%u
+0061D0F6|1|Séries
+0061D0F6|1|On
+00629051|1|Lever pour activer se désactivera quand vous allez dormir ou enlevez votre bracelet.
+00668ED9|1|℃
+00668ED9|1|℉
+0063E889|1|%d:%02d
+0065EC84|1|%u'%02u''
+0064EDC8|1|%u'%02u''
+00629051|1|Cible : %u'%02u"
+0065C5A7|1|%u km/h
+00629051|1|Cible : %u km/h
+0064EDC8|1|%u
+00629051|1|Cible : BPM: %d–%d
+00626AA7|1|%d
+00629051|1|Threshold: %d BPM
+0064EDC8|1|--
+00656996|1|%d℉/%d℉
+00629051|1|C'est compris
+00638C04|1|%u
+0065A19E|1|%%
+006316A5|1|Batterie en-dessous de %u%%. Charger maintenant.
+0063B0A5|1|VO₂ max
+0063B0A5|1|Anaérobie
+0063B0A5|1|Intensif
+0063B0A5|1|Aérobie
+0063B0A5|1|Léger
+00655229|1|%02lu:%02lu:%02lu
+0061D0F6|1|%02lu:%02lu:%02lu
+0063E889|1|BPM
+006670A6|1|%u
+0064C2A1|1|%d℃/%d℃
+0064C2A1|1|%d℉/%d℉
+00629051|1|%d℃/%d℃
+00629051|1|%d℉/%d℉
+0064C2A1|1|℃
+0064C2A1|1|℉
+0064C2A1|1|-
+00629051|1|-
+00629051|1|Vélo
+00629051|1|Rameur
+0061D0F6|1|Connectez avec l'appareil et réessayez
+0061D0F6|1|Débutant
+0061D0F6|1|Endurance
+0061D0F6|1|Intervalle
+0061D0F6|1|Course/marche basique
+0061D0F6|1|Course/marche avancée
+0061D0F6|1|Jogging basique
+0061D0F6|1|Basique
+0061D0F6|1|Avancé
+0061D0F6|1|MIIT
+0061D0F6|1|Basique
+0061D0F6|1|Avancé
+0061D0F6|1|Basique
+0061D0F6|1|Avancé
+0062F9EB|1|Combine la marche et le jogging à intervalles.
+0062F9EB|1|Combine la marche et le jogging à intervalles.
+0062F9EB|1|Jogging de faible à moyenne intensité.
+0062F9EB|1|Jogging plus court pour brûler les graisses et perdre du poids.
+0062F9EB|1|Intensité faible-moyenne, jogging prolongé pour brûler les graisses.
+0062F9EB|1|Entraînement par intervalles de moyenne à haute intensité.
+0062F9EB|1|Jogging de longueur moyenne pour l'endurance.
+0062F9EB|1|Jogging plus long pour l'endurance.
+0062F9EB|1|Entraînement à intervalles plus courts pour la santé cardiaque et pulmonaire.
+0062F9EB|1|Entraînement par intervalles plus longs pour la santé cardiaque et pulmonaire.
+0061D0F6|1|%02u/%02u
+0061D0F6|1|Maintenant
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|Dans %u min
+0061D0F6|1|En retard
+00629051|1|Lun. 
+00629051|1|Mar. 
+00629051|1|Mer. 
+00629051|1|Jeu. 
+00629051|1|Ven. 
+00629051|1|Sam. 
+00629051|1|Dim. 
+00629051|1|%u/%u 
+00629051|1|%02u:%02u 
+00629051|1|Aujourd'hui 
+00629051|1|Demain 
+0065EC84|1|02d%:02d%
+0063D8FF|1|km à venir
+0064EDC8|1|--'--"
+0062BE15|1|--'--"
+00629051|1|%02u:%02u-
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u h
+0061D0F6|1|Dans %u jour
+0061D0F6|1|Dans %u jour
+0061D0F6|1|Dans %u jour
+0061D0F6|1|Dans %u jour
+0061D0F6|1|Dans %u jours
+0061D0F6|1|Dans %u jours
+0061D0F6|1|Dans %u jours
+0061D0F6|1|Dans %u jours
+0063F719|1|Batterie faible
+0062F9EB|1|Course
+00620F68|1|%d min
+00620F68|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+006316A5|1|Préparation de la mise à jour
+006316A5|1|Impossible de mettre à jour.\nRéessayer.
+006670A6|1|%
+00629051|1|Durée
+0062F9EB|1|Détendu
+0062F9EB|1|Léger
+0062F9EB|1|Sévère
+00629051|1|La Surveillance toute la journée est désactivé.
+00629051|1|%02u:%02u du matin–
+00629051|1|%02u:%02u du soir–
+00629051|1|%02u:%02u du matin
+00629051|1|%02u:%02u du soir
+006316A5|1|Je te rappelle plus tard.
+006316A5|1|Je ne peux pas parler maintenant. Quoi de neuf ?
+006316A5|1|Je ne peux pas parler maintenant. Rappelle-moi plus tard ?
+00668F6A|1|--
+0062BE15|1|%u%%
+0063B0A5|1|Objectif
+0062BE15|1|%u
+006316A5|1|km
+006316A5|1|kcal
+006316A5|1|longueur
+006316A5|1|longueur
+006316A5|1|longueur
+006316A5|1|longueurs
+006316A5|1|longueurs
+006316A5|1|longueurs
+006316A5|1|longueurs
+006316A5|1|coup
+006316A5|1|coup
+006316A5|1|coup
+006316A5|1|coups
+006316A5|1|coups
+006316A5|1|coups
+006316A5|1|coups
+006316A5|1|saut
+006316A5|1|saut
+006316A5|1|saut
+006316A5|1|sauts
+006316A5|1|sauts
+006316A5|1|sauts
+006316A5|1|sauts
+00658B54|1|Nouveau record !
+0062BE15|1|%02u:%02u:%02u
+006670A6|1|%lu.%lu.%lu
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %lu.%lu km
+0063B0A5|1|Objectif : %02u:%02u:%02u
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u kcal
+0063B0A5|1|Objectif : %u longueur
+0063B0A5|1|Objectif : %u longueur
+0063B0A5|1|Objectif : %u longueur
+0063B0A5|1|Objectif : %u longueur
+0063B0A5|1|Objectif : %u longueurs
+0063B0A5|1|Objectif : %u longueurs
+0063B0A5|1|Objectif : %u longueurs
+0063B0A5|1|Objectif : %u longueurs
+0063B0A5|1|Objectif : %u coup
+0063B0A5|1|Objectif : %u coup
+0063B0A5|1|Objectif : %u coup
+0063B0A5|1|Objectif : %u coups
+0063B0A5|1|Objectif : %u coups
+0063B0A5|1|Objectif : %u coups
+0063B0A5|1|Objectif : %u coups
+0063B0A5|1|Objectif: %u saut
+0063B0A5|1|Objectif: %u saut
+0063B0A5|1|Objectif: %u saut
+0063B0A5|1|Objectif: %u sauts
+0063B0A5|1|Objectif: %u sauts
+0063B0A5|1|Objectif: %u sauts
+0063B0A5|1|Objectif: %u sauts
+00629051|1|Votre bracelet vous avertit lorsque votre fréquence cardiaque dépasse un BPM défini. Votre fréquence cardiaque augmente sous le stress.
+00629051|1|Votre bracelet vous avertit lorsque votre fréquence cardiaque dépasse un BPM défini. Votre fréquence cardiaque augmente sous le stress.\nSi vous vous sentez mal, consultez un médecin.
+00626AA7|1|FC élevée
+00626AA7|1|FC faible
+0061D0F6|1|En savoir plus
+00626AA7|1|Jogging
+00626AA7|1|Course
+00626AA7|1|Sprint
+0062BE15|1|%d
+0063618A|1|Jogging
+0063618A|1|Course
+0063618A|1|Sprint
+0062F9EB|1|Course
+0062F9EB|1|Sprint
+0062BE15|1|%02d
+0064EDC8|1|%02d
+0064EDC8|1|:
+00629051|1|Afficher les détails sur l'application
+0061D0F6|1|Vous l'avez fait!
+00629051|1|Terminé
+00629051|1|Continuer (%lus)
+0061D0F6|1|Entraînement
+0063B0A5|1|Temps
+0063B0A5|1|Fréquence cardiaque
+006652BD|1|%lu.%02lu
+00668FAC|1|Automatique
+006231E1|1|Automatique
+0061D0F6|1|Défini avec succès
+00629051|1|C'est compris
+0061D0F6|1|Surchauffe. Mise hors tension.
+00648762|1|moy.
+00626AA7|1|Batterie faible
+00629051|1|AM
+00629051|1|PM
+00656996|1|%lu:%02lu
+00648762|1|%u,%02u km
+00648762|1|%u,%02u km
+00648762|1|%u,%02u km
+00629051|1|NPD se désactivera quand vous allez dormir ou enlevez votre bracelet.
+00620F68|1|Avertir lorsque les valeurs SpO₂ sont inférieures au niveau établi pendant la période d'éveil
+006558D1|1|%d:%02d du matin
+006558D1|1|%d:%02d du soir
+006558D1|1|Hier, %d:%02d du matin
+006558D1|1|Hier, %d:%02d du soir
+006558D1|1|%02d/%02d, %d:%02d du matin
+006558D1|1|%02d/%02d %d:%02d du soir
+006316A5|1|Course
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u kcal
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u pas
+0062F9EB|1|Objectif : %u coup
+0062F9EB|1|Objectif : %u coup
+0062F9EB|1|Objectif : %u coup
+0062F9EB|1|Objectif : %u coups
+0062F9EB|1|Objectif : %u coups
+0062F9EB|1|Objectif : %u coups
+0062F9EB|1|Objectif : %u coups
+0062F9EB|1|Objectif : %u min
+0062F9EB|1|Objectif : %u min
+0062F9EB|1|Objectif : %u min
+0062F9EB|1|Objectif : %u min
+0062F9EB|1|Objectif : %u min
+0062F9EB|1|Objectif : %u min
+0062F9EB|1|Objectif : %u min
+0064A45F|1|0123456789•
+00648762|1|Aujourd'hui
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Règles dans %u j
+0061D0F6|1|Période fertile dans %u j
+0061D0F6|1|Période fertile dans %u j
+0061D0F6|1|Période fertile dans %u j
+0061D0F6|1|Période fertile dans %u j
+0061D0F6|1|Période fertile dans %u j
+0061D0F6|1|Période fertile dans %u j
+0061D0F6|1|Période fertile dans %u j
+0062F9EB|1|Scannez pour afficher l'aide
+00648762|1|Hier
+00648762|1|Il y a 2 j
+00629051|1|Reserrez la sangle du bracelet
+0061D0F6|1|En savoir plus
+0064C2A1|1|Inconnu
+0063F719|1|Course/marche basique
+0063F719|1|Course/marche avancée
+0063F719|1|Jogging basique
+0063F719|1|Basique
+0063F719|1|Avancé
+0063F719|1|MIIT
+0063F719|1|Basique
+0063F719|1|Avancé
+0063F719|1|Basique
+0063F719|1|Avancé
+0063F719|1|Sévère
+00629051|1|Respiration
+00629051|1|Marche
+0061D0F6|1|Autoriser votre bracelet à déverrouiller le téléphone ?
+0061D0F6|1|Autorisé
+0061D0F6|1|Impossible d'autoriser
+0061D0F6|1|Aide
+0061D0F6|1|Réglementaire
+00626AA7|1|Modèle
+00626AA7|1|ID CMIIT
+0063D8FF|1|Janv.
+0063D8FF|1|Févr.
+0063D8FF|1|Mars
+0063D8FF|1|Avr.
+0063D8FF|1|Mai
+0063D8FF|1|Juin
+0063D8FF|1|Juill.
+0063D8FF|1|Août
+0063D8FF|1|Sept.
+0063D8FF|1|Oct.
+0063D8FF|1|Nov.
+0063D8FF|1|Déc.
+0063B0A5|1|Règles dans 1 j
+0063B0A5|1|Règles dans 2 j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Règles dans %u j
+0063B0A5|1|Ovulation dans 1 j
+0063B0A5|1|Ovulation dans 2 j
+0063B0A5|1|Ovulation dans %u j
+0063B0A5|1|Ovulation dans %u j
+0063B0A5|1|Ovulation dans %u j
+0063B0A5|1|Ovulation dans %u j
+0063B0A5|1|Ovulation dans %u j
+0063B0A5|1|Ovulation dans %u j
+0063B0A5|1|Ovulation dans %u j
+0061D0F6|1|Activer/Désactiver
+0061D0F6|1|Activer/Désactiver
+0063F719|1|Appel manqué
+00629051|1|C'est compris
+00629051|1|Autorisez l'application à s'exécuter en arrière-plan
+00629051|1|Configurer Amazon Alexa dans l'application
+00629051|1|Connectez-vous à votre compte Amazon dans l'application
+00629051|1|Impossible de lire la vidéo ou l'audio sur votre bracelet
+00629051|1|Connexion…
+00629051|1|Écoute…
+00629051|1|Réflexion…
+00629051|1|Règle un minuteur sur 2 minutes
+00629051|1|Quel temps fait-il ?
+00620F68|1|%02d:%02d-%02d:%02d
+00620F68|1|%02d:%02d-%02d:%02d
+0063E889|1|Détendu
+0063E889|1|Léger
+0063E889|1|Sévère
+0063F719|1|Modéré
+0061D0F6|1|Quotidien
+0061D0F6|1|Impossible de se connecter
+0061D0F6|1|Erreur de réseau
+0061D0F6|1|Configuration requise
+0061D0F6|1|Se connecter
+006558D1|1|Brasses
+00629051|1|Moy.
+0063E889|1|PPM
+0063E889|1|km/h
+0063E889|1|SPM
+0061D0F6|1|En savoir plus
+00629051|1|Batterie faible. Lampe de poche éteinte.
+00629051|1|Fermer
+00643BBA|1|%.1f
+0065B296|1|%.1f
+00643BBA|1|%u:%02u'%02u"
+0065B296|1|%u:%02u'%02u"
+00656996|1|%u:%02u'%02u"
+0062F9EB|1|Lecture de son
+00626AA7|1|Les codes PIN ne correspondent pas
+00626AA7|1|Saisir le code PIN
+00626AA7|1|Nouveau code PIN
+00629051|1|Impossible de se connecter
+00629051|1|Erreur de réseau
+00629051|1|Configuration requise
+00629051|1|Se connecter
+00629051|1|Non disponible
+0064A45F|1|Nouveau code PIN
+0064A45F|1|Confirmer le code PIN
+0064A45F|1|   Les codes PIN ne correspondent pas  
+0064A45F|1|Saisir le code PIN
+006231E1|1|%d
+00668FAC|1|%d
+0063B0A5|1|%dh %dmin
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d h
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+0063B0A5|1|%d min
+006316A5|1|%d'%02d"
+00648762|1|%02u/%02u
+00648762|1|%02u:%02u
+0064C2A1|1|--℃/--℃
+0064C2A1|1|--℉/--℉
+00629051|1|--℃/--℃
+00629051|1|--℉/--℉
+0063B0A5|1|Objectif atteint
+0063B0A5|1|Objectif atteint
+0063B0A5|1|Objectif de Mouvement atteint
+0063B0A5|1|Objectif de Debout atteint
+0063B0A5|1|Objectif de Pas atteint
+0063B0A5|1|Objectif de Calories atteint
+0063B0A5|1|Objectif atteint
+0063B0A5|1|Objectif atteint
+0063B0A5|1|Tous les objectifs sont atteints
+0063B0A5|1|Bravo
+0063B0A5|1|Objectifs réalisés
+0063B0A5|1|Objectifs atteints
+0063E889|1|km/h
+0063E889|1|/km
+0061D0F6|1|AM
+0061D0F6|1|PM
+0061D0F6|1|Distance d'entraînement trop courte pour enregistrer.
+00626AA7|1|(Aucun titre)
+00629051|1|Code PIN oublié ?
+006316A5|1|Réessayer dans %d seconde
+006316A5|1|Réessayer dans %d seconde
+006316A5|1|Réessayer dans %d seconde
+006316A5|1|Réessayer dans %d secondes
+006316A5|1|Réessayer dans %d secondes
+006316A5|1|Réessayer dans %d secondes
+006316A5|1|Réessayer dans %d secondes
+006316A5|1|Réessayer dans 5 minutes
+006316A5|1|Réessayer dans 10 minutes
+006316A5|1|Réinitialisez le code PIN dans l'application
+0063B0A5|1|C'est compris
+0064A45F|1|Entrez le code PIN pour déverrouiller
+0063B0A5|1|%d notification
+0063B0A5|1|%d notification
+0063B0A5|1|%d notification
+0063B0A5|1|%d notifications
+0063B0A5|1|%d notifications
+0063B0A5|1|%d notifications
+0063B0A5|1|%d notifications
+0066B9E7|1|--:--
+0061D0F6|1|Alexa
+006316A5|1|Non disponible
+0063B0A5|1|Amazon Alexa n'est pas disponible dans la région de votre compte
+0063B0A5|1|Vérifiez votre connexion réseau
+0061D0F6|1|Vous disiez ?
+0063B0A5|1|Commencez en disant
+0062F9EB|1|Lun.
+0062F9EB|1|Mar.
+0062F9EB|1|Mer.
+0062F9EB|1|Jeu.
+0062F9EB|1|Ven.
+0062F9EB|1|Sam.
+0062F9EB|1|Dim.
+00648762|1|%u km/h
+0061D0F6|1|Association
+006316A5|1|Impossible d'associer
+0064A45F|1|Entrez le code PIN pour déverrouiller
+0064A45F|1|Entrez le code PIN pour déverrouiller
+006558D1|1|%d℃/%d℃
+006558D1|1|%d℉/%d℉
+0063B0A5|1|%d
+006652BD|1|%02d:%02d.%02d
+006316A5|1|m
+0063B0A5|1|Connectez votre bracelet avec l'application
+006558D1|1|-
+00629051|1|Afficher les détails dans l\'application
+0061D0F6|1|Contact customer support to get your device repaired
+00620F68|1|Suivez votre fréquence cardiaque 24 heures sur 24
+006316A5|1|Code PIN défini
+00620F68|1|Recevoir des rappels pour commencer et terminer un entrainement de course, de marche ou de rameur.
+0061D0F6|1|Chargement
+0063D8FF|1|.
+0063E889|1|.
+00655229|1|.
+0066B9E7|1|.
+00648762|1|.
+006558D1|1|.
+0066BA62|1|.
+0066BA86|1|.
+00620F68|1|.
+0062F9EB|1|.
+0066BAB1|1|.
+006668A4|1|.
+0063B0A5|1|.
+00629051|1|.
+0065B296|1|.
+00668ED9|1|.
+00668F6A|1|.
+006642CA|1|.
+0066BAD7|1|.
+0065BD5C|1|.
+0064A45F|1|.
+00626AA7|1|.
+0066BB02|1|.
+0066BB2D|1|.
+006316A5|1|.
+0061D0F6|1|.
+006670A6|1|.
+0065A19E|1|.
+0066BB5B|1|.
+0066BB86|1|.
+0062ECCB|1|.
+0066BBAA|1|.
+00658B54|1|.
+0064C2A1|1|.
+00667EDF|1|.
+00650694|1|.
+0066BBE2|1|.
+0063F719|1|.
+006652BD|1|.
+00651678|1|.
+0066C6A2|1|.
+0065C5A7|1|.
+0066C6D6|1|.
+0064EDC8|1|.
+006597AF|1|.
+00668FAC|1|.
+0066264A|1|.
+00656996|1|.
+0066DE02|1|.
+006231E1|1|.
+00643BBA|1|.
+00638C04|1|.
+0061D0F6|1|h
+0061D0F6|1|min
+00629051|1|Ne pas afficher aujourd'hui
+006316A5|1|Non disponible
+0063B0A5|1|Amazon Alexa n\'est pas disponible dans la région de votre compte
+00629051|1|Rameur
+00629051|1|Elliptique
+00629051|1|Corde à sauter
+0061D0F6|1|Bien joué
+0063B0A5|1| 
+0063B0A5|1| 
+0063B0A5|1|Cible
+0063B0A5|1|Restante
+0063B0A5|1|Cible
+0063B0A5|1|Restant
+0063B0A5|1|Longueurs cibles
+0063B0A5|1|Restantes
+0063B0A5|1|Sauts ciblés
+0063B0A5|1|Restants
+0061D0F6|1|Temps
+0061D0F6|1|Distance
+0061D0F6|1|Longueurs
+0061D0F6|1|Coups
+0061D0F6|1|Sauts
+0063E889|1| 
+00648762|1|%d:%02d
+00648762|1|%d min
+00648762|1|%dmin %02ds
+0061D0F6|1|Applications
+00626AA7|1|Fitness
+00626AA7|1|Basique
+00626AA7|1|Météo
+00626AA7|1|Outils
+0061D0F6|1|Chronomètre
+0061D0F6|1|Minuteur
+0061D0F6|1|Appareil photo
+0061D0F6|1|Cartes
+006316A5|1|Le temps d'entraînement est trop court pour enregistrer.
+0066DE3A|1|Chronomètre
+0066DE3A|1|Minuteur
+00668FAC|1|%d℃
+00668FAC|1|%d℉
+00668FAC|1|-
+00668FAC|1|--℃
+00668FAC|1|--℉
+00629051|1|Un instant
+0064C2A1|1|Respiration
+00668FAC|1|--
+0061D0F6|1|Automatique
+0061D0F6|1|Personnaliser
+00668FAC|1|%d%%
+00629051|1|Un instant
+00629051|1|À l'arrêt
+00629051|1|Déconnecté
+0063D8FF|1|Glissez vers le haut pour le code barre
+0063D8FF|1|Glissez vers le bas pour le code QR
+0066DE3A|1|Rameur
+0066DE3A|1|Marche
+0066DE3A|1|HIIT
+0066DE3A|1|Cyclisme en plein air
+0066DE3A|1|Vélo en salle
+0066DE3A|1|Corde à sauter
+0066DE3A|1|Trekking
+0066DE3A|1|Randonnée
+0066DE3A|1|Elliptique
+0066DE3A|1|Course à l'extérieur
+0066DE3A|1|Natation en piscine
+0066DE3A|1|Tapis de course
+0066DE3A|1|Course en sentier
+0066DE3A|1|Activités libres
+0066C6D6|1|%lu
+0066264A|1|%lu
+00629051|1|Aucune donnée
+00668FAC|1|--
+00629051|1|min
+0061D0F6|1|SpO₂
+0063B0A5|1|Vous avez atteint votre objectif hier. Continuez aujourd'hui !
+0063B0A5|1|Vous avez atteint 2 objectifs sur 3 hier. Vous pouvez le faire !
+0063B0A5|1|Vous n'avez pas atteint vos objectifs hier. Faites en sorte qu'aujourd’hui compte !
+0063B0A5|1|Vos objectifs sont à portée de main - aujourd'hui est un nouveau jour !
+0063B0A5|1|Vous n'êtes qu'à 1000 pas de votre objectif.
+0063B0A5|1|Vous n'êtes qu'à 50 kcal de votre objectif.
+0063B0A5|1|Il est encore temps d'atteindre l'objectif d'aujourd’hui, continuez !
+0063B0A5|1|Levez-vous deux fois plus aujourd'hui pour atteindre votre objectif.
+0063B0A5|1|Levez-vous une fois de plus aujourd'hui pour atteindre votre objectif.
+0063B0A5|1|Vous avez atteint votre objectif hier. Continuez aujourd'hui !
+0063B0A5|1|Vous avez atteint 2 objectifs sur 3 hier. Vous pouvez le faire !
+0063B0A5|1|Vous n'avez pas atteint vos objectifs hier. Faites en sorte qu'aujourd’hui compte !
+0063B0A5|1|Vos objectifs sont à portée de main - aujourd'hui est un nouveau jour !
+0063B0A5|1|Vous n'êtes qu'à 1000 pas de votre objectif.
+0063B0A5|1|Vous n'êtes qu'à 50 kcal de votre objectif.
+0063B0A5|1|Vous avez presque atteint votre objectif, finissez en force !
+0063B0A5|1|Levez-vous deux fois plus aujourd'hui pour atteindre votre objectif.
+0063B0A5|1|Levez-vous une fois de plus aujourd'hui pour atteindre votre objectif.
+0066BBE2|1|Objectif atteint !
+006316A5|1|Vous pouvez le faire !
+006316A5|1|Statistiques
+00648762|1|Personnaliser
+006316A5|1|Impossible d'associer
+00620F68|1|Réessayer
+0063B0A5|1|Associer
+006316A5|1|Confirmer sur votre téléphone
+006316A5|1|Association...
+006316A5|1|Associé
+00620F68|1|Scanner pour télécharger l'application
+00620F68|1|Confirmer sur votre téléphone
+0066FE8B|1|繁體中文
+006316A5|1|English
+006316A5|1|Deutsch
+00670792|1|한국어
+00670D5F|1|עברית
+0067112F|1|ไทย
+00671363|1|日本語
+00671996|1|العربية
+006316A5|1|Italiano
+006316A5|1|Français
+006316A5|1|Español
+006316A5|1|Polski
+006316A5|1|Українська
+006316A5|1|Čeština
+006316A5|1|Русский
+006316A5|1|Nederlands
+006316A5|1|Português PT
+006316A5|1|Türkçe
+006316A5|1|Română
+006316A5|1|Eλληνικά
+006316A5|1|Português BR
+006316A5|1|Indonesia
+006316A5|1|Tiếng Việt
+006316A5|1|Norsk bokmål
+006316A5|1|Suomi
+006316A5|1|Svenska
+006316A5|1|Dansk
+00648762|1|Désactiver
+00648762|1|%d seconde
+00648762|1|%d seconde
+00648762|1|%d seconde
+00648762|1|%d secondes
+00648762|1|%d secondes
+00648762|1|%d secondes
+00648762|1|%d secondes
+00629051|1|%u/%u/%u 
+00626AA7|1|Xiaomi Smart Band 7 Pro
+00629051|1|OK
+0064A45F|1|If the number of words is too long, please check it on the APP side
+0061D0F6|1|Planche a neige
+0061D0F6|1|Ski
+0063F719|1|Planche a neige
+0063F719|1|Ski
+00620F68|1|Personnaliser
+0061D0F6|1|Syncing
+006316A5|1|Preparing update
+00648762|1|VO₂ max
+00620F68|1|Élevée

@@ -1,0 +1,2071 @@
+00BF9900|1|Indstillinger
+00BF9900|1|Banddisplays
+00BF9900|1|Visning
+00BF9900|1|Vibration
+00BFD56F|1|Standard
+00BFD56F|1|Kraftig
+00BF9900|1|Automatisk detektering
+00BFD56F|1|Sluk
+00BFD56F|1|Tændt
+00BF9900|1|DND
+00BFD56F|1|Sluk
+00BFD56F|1|Smart
+00BFD56F|1|Hele dagen
+00BF9900|1|App-layout
+00BFD56F|1|Ikontilstand
+00BFD56F|1|Skriv tilstand på liste
+00BF9900|1|PIN
+00BF9900|1|System
+00BF9900|1|Om båndet
+00BF9900|1|Lysstyrke
+00BF9900|1|Vis altid
+00BF9900|1|Auto-lås
+00BF9900|1|Tildæk for sætte i dvale
+00BF9900|1|Løft for at vække
+00BFD56F|1|Auto
+00BFF6CD|1|Auto
+00BF9900|1|Deaktiveret
+00BF9900|1|Smart
+00BF9900|1|Planlagt
+00BF9900|1|Hele dagen
+00BF9900|1|Få mere at vide
+00C02F2A|1|Vis altid
+00C02F2A|1|Smart
+00C058BB|1|Klokkeslættet vises altid, selv om skærmen er låst.
+00C058BB|1|"Vis altid" slås fra, når du går i seng eller tager dit bånd af.
+00BF9900|1|Dette kommer til at påvirke din batterilevetid, fortsæt?
+00BF9900|1|Start
+00BF9900|1|Slut
+00BF9900|1|Status
+00C084E4|1|-%d
+00C0B39A|1|%d
+00BF9900|1|Følsomhed
+00BFD56F|1|Smart
+00BFF6CD|1|Høj
+00BFF6CD|1|Standard
+00BF9900|1|Dette kommer til at påvirke din batterilevetid, fortsæt?
+00C0C0BA|1|s
+00C0C0BA|1|m
+00BF9900|1|Automatisk detektering
+00BF9900|1|Detektering af træningspas
+00C058BB|1|Forstået
+00C058BB|1|Forstået
+00BFD56F|1|For at indstille en overvågningsfrekvens slå uregelmæssig BPM fra.
+00C0B39A|1|%d:%02d
+00C0DBD4|1|Dette kommer til at påvirke din batterilevetid, fortsæt?
+00BF9900|1|Sluk
+00BF9900|1|Smart
+00C058BB|1|"Vis altid" slås fra, når du går i seng eller tager dit bånd af.
+00BF9900|1|Ikontilstand
+00BF9900|1|Skriv tilstand på liste
+00BF9900|1|System
+00BF9900|1|Genstart
+00BF9900|1|Sluk
+00BF9900|1|Nulstil
+00BF9900|1|Genstart nu?
+00BF9900|1|Slå fra nu?
+00C0DBD4|1|Slet alle data?
+00C02F2A|1|Navn
+00C02F2A|1|Model
+00C02F2A|1|MAC-adresse
+00C02F2A|1|Version nr.
+00C02F2A|1|Serienummer
+00C02F2A|1|Lovmæssigt
+00BF9900|1|Vibration
+00C12430|1|Kraftig
+00BFF6CD|1|Standard
+00BFF6CD|1|Kraftig
+00C14A78|1|%d
+00BFD56F|1|%d/%d
+00BF9900|1|Opvarmning
+00C058BB|1|Færdig
+00C084E4|1|%2d:%2d:%2d
+00BF9900|1|Træning
+00C084E4|1|%d
+00C16F19|1|Mål for antal åretag
+00C16F19|1|Resterende
+00C058BB|1|Spring over
+00BF9900|1|Hvile
+00C16F19|1|Hvile
+00C16F19|1|Resterende
+00BF9900|1|Nedkøling
+00C058BB|1|Slut
+00BF9900|1|Løb
+00BF9900|1|Fedtforbrænding
+00BF9900|1|Avanceret
+00C16F19|1|Introduktion
+00C16F19|1|Træningsplan
+00C0C0BA|1|Gang
+00C0C0BA|1|Grundlæggende jogging
+00C058BB|1|Start
+00BF9900|1|Seneste
+00C12430|1|Gang
+00C02F2A|1|Ønsket BPM
+00C058BB|1|%d~%dbpm
+00C02F2A|1|Gang
+00C084E4|1|%d:%02d
+00C16F19|1|Timer
+00C19594|1|BPM
+00BF9900|1|Det ser ud til, at du træner
+00C058BB|1|Udendørs
+00C058BB|1|Løbebånd
+00C058BB|1|Afvis (%ds)
+00C058BB|1|km
+00C058BB|1|Pause
+00C058BB|1|Fortsæt
+00C0DBD4|1|Træningsafstand for kort til optegnelse. Afslut?
+00C0DBD4|1|Træningstid for kort til optegnelse. Afslut?
+00C058BB|1|Fortsæt
+00C058BB|1|Slut
+00BF9900|1|Kalibrering
+00C084E4|1|.
+00C1A3E4|1|km
+00C0DBD4|1|Skærmen låser, når du starter
+00BF9900|1|Vejrtrækning
+00C1B1B4|1|Vejrtrækning
+00BF9900|1|Tid
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1F7F8|1|%d
+00C21BF6|1|%d
+00C1B1B4|1|Slap af
+00C058BB|1|Fokuser på din vejrtrækning
+00C1B1B4|1|Lad os komme i gang
+00C058BB|1|Følg boblen
+00C1B1B4|1|Ånd ind
+00C1B1B4|1|Ånd ud
+00C1B1B4|1|Godt gået
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00C058BB|1|Session: %d min.
+00BF9900|1|Resultater
+00C058BB|1|Aktuel puls
+00C1F7F8|1|89
+00C1A3E4|1|BPM
+00C058BB|1|Startpuls
+00C058BB|1|Session
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00C1A3E4|1|min.
+00BF9900|1|Indstillinger
+00BF9900|1|Mål
+00BF9900|1|Intervaller
+00BF9900|1|Advarsler
+00BF9900|1|Længde på pool
+00BF9900|1|Automatisk pause
+00C16F19|1|Åbent
+00C243A0|1|1.5 km
+00BF9900|1|Åbent
+00BF9900|1|Afstand
+00BF9900|1|Tid
+00BF9900|1|Kalorier
+00BF9900|1|Hop
+00BF9900|1|Bane
+00C16F19|1|5 km
+00BF9900|1|Intervaller bliver slukket. Fortsæt?
+00BF9900|1|Træningsmål bliver fjernet. Fortsæt?
+00BF9900|1|Afstand
+00BF9900|1|Tid
+00BF9900|1|Kalorier
+00BF9900|1|Hop
+00BF9900|1|Bane
+00C1A3E4|1|m
+00C1A3E4|1|kcal
+00C1A3E4|1| 
+00C1A3E4|1| 
+00BF9900|1|Sæt
+00BF9900|1|Hvile
+00C1A3E4|1|s
+00C1A3E4|1| 
+00BF9900|1|Afstand
+00BF9900|1|Tempo
+00BF9900|1|Hastighed
+00BF9900|1|HR-zone
+00BF9900|1|Høj puls
+00C058BB|1|Slå alt fra
+00C243A0|1|Sluk
+00C243A0|1|Intensiv
+00BF9900|1|Pacer
+00C084E4|1|5'00"
+00C14A78|1|4'50"
+00BF9900|1|%d km/t
+00C1A3E4|1|km/t
+00BF9900|1|Sluk
+00BF9900|1|Let
+00BF9900|1|Intensiv
+00BF9900|1|Aerobisk
+00BF9900|1|Anaerobisk
+00BF9900|1|VO₂ maks.
+00C243A0|1|%u–%u BPM
+00BF9900|1|Høj puls
+00C1A3E4|1|BPM
+00BF9900|1|25 m
+00BF9900|1|Brugerdefineret
+00BF9900|1|Brugerdefineret
+00C1A3E4|1|m
+00BF9900|1|Indstil PIN
+00C25E61|1|Indtast PIN
+00C25E61|1|Bekræft PIN
+00C25E61|1|Forkert
+00BF9900|1|Slet alle data?
+00BF9900|1|Slå pin fra
+00BF9900|1|Skift pin
+00BF9900|1|PIN ændret
+00BF9900|1|PIN slået fra
+00BFD56F|1|Dit band låses automatisk, når du tager det af.
+00C27B44|1|Hurtigere
+00C27B44|1|Fortsæt
+00C27B44|1|Langsommere
+00C2A705|1|%u'%02u''
+00C1B1B4|1|Høj puls
+00C058BB|1|Kalorier
+00C2BFD1|1|345
+00C058BB|1|Skridt
+00C058BB|1|Bevægelse
+00C2CFB5|1|323
+00BF9900|1|Skridt
+00C1A3E4|1| 
+00BF9900|1|Stående
+00BF9900|1|Bevægelse
+00BF9900|1|Påmindelser
+00C02F2A|1|Skridt
+00C02F2A|1|Kalorier
+00C25E61|1|Stående
+00C25E61|1|Bevægelse
+00BF9900|1|Søvn
+00C2E258|1|10
+00C27B44|1|t.
+00C27B44|1|m
+00C058BB|1|Mål:
+00C30B66|1|24:33
+00C058BB|1|Ingen data
+00C02F2A|1|Søvn
+00C058BB|1|1. Slå avanceret overvågning til for at spore REM-søvn.\n2. Spænd båndstroppen.\n3. Puls- og SpO₂-målinger afhænger af bevægelser, søvnkvalitet og meget mere.
+00C1B1B4|1|t.
+00C1B1B4|1|m
+00C058BB|1|Ingen data
+00BF9900|1|Avanceret overvågning
+00BF9900|1|Vejrtrækningsscore
+00BF9900|1|Vejrtrækningsscore
+00BFD56F|1|Spor REM-søvn
+00BF9900|1|Vejrtrækningsscore
+00BFD56F|1|Overvåg den natlige vejrtrækning
+00BF9900|1|Søvn
+00C16F19|1|Gns. BPM
+00BF9900|1| 
+00C16F19|1|Gns. SpO₂
+00BF9900|1|Lur
+00BF9900|1|Puls
+00C30B66|1|126
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00BF9900|1|Høj puls
+00BF9900|1|Lav puls
+00BF9900|1|Uregelmæssigt BPM
+00BF9900|1|HR-zone
+00C16F19|1|VO₂ maks.
+00C16F19|1|VO₂ maks.
+00C16F19|1|Anaerobisk
+00C16F19|1|Intensiv
+00C16F19|1|Let
+00C16F19|1|Relaxed
+00C16F19|1|Relaxed
+00BF9900|1|%02d:%02d
+00C058BB|1|Måler
+00C322FE|1|144-224
+00C3120E|1|BPM
+00C322FE|1|12: 24-12: 25
+00C058BB|1|Prøv igen
+00C058BB|1|Mål
+00C02F2A|1|Puls
+00C058BB|1|Pulsen er det antal gange hjertet banker pr. minut (BPM).\nHvilkepulsen ligger normalt mellem 40 og 100 BPM. Den varierer dog afhængigt af alder, køn og andre faktorer.\nDit bånd understøtter fra 30 – 220 BPM.
+00BF9900|1|Få mere at vide
+00C058BB|1|Spænd bandstrappen og prøv igen
+00BF9900|1|Tips
+00C058BB|1|Bær dit bånd over dit håndled.
+00C058BB|1|Hold dit bånd tæt og roligt.
+00C058BB|1|Målinger afhænger af lav temperatur, hudperfusion med mere.
+00C0C0BA|1|Denne funktion er ikke beregnet til medicinske formål.
+00C058BB|1|Kontinuerlig overvågning er slået fra.
+00C058BB|1|Tænd
+00BF9900|1|Kontinuerlig overvågning
+00BF9900|1|Uregelmæssigt BPM
+00BF9900|1|Tænd/Sluk
+00BF9900|1|Høj puls
+00BF9900|1|Lav puls
+00BFD56F|1|For at indstille en overvågningsfrekvens slå uregelmæssigt BPM fra.
+00BF9900|1|1 min.
+00BF9900|1|10 min.
+00BF9900|1|Auto
+00BF9900|1|Tips
+00C058BB|1|Measure heart rate every 10 mins
+00C02F2A|1|Auto
+00C058BB|1|Øg overvågningsfrekvens under træningspas
+00BF9900|1|Uregelmæssigt BPM
+00BFD56F|1|Modtag advarsler om uregelmæssige hjerteslag
+00BF9900|1|Dette kommer til at påvirke batterilivet, fortsæt?
+00BF9900|1|100 BPM
+00C1B1B4|1|Lav puls
+00C02F2A|1|12: 30-12: 40
+00C058BB|1|Detaljer
+00C1B1B4|1|Uregelmæssig BPM
+00C1B1B4|1|Måler
+00C058BB|1|Bevæg dig ikke
+00C058BB|1|Målt: %02d:%02d
+00C058BB|1|Prøv igen
+00C16F19|1|Goal hit
+00C16F19|1|Goal hit
+00C16F19|1|Goal hit
+00C16F19|1|Goal hit
+00C1B1B4|1|Mål nået
+00C16F19|1|Bravo!
+00C1B1B4|1|Kom i gang med at bevæge dig!
+00C1B1B4|1|Rejs dig
+00C058BB|1|Rejs dig og gå rundt
+00C0DBD4|1|Tilslut din telefon for at opdatere GPS-data.
+00C0DBD4|1|Hukommelsen er fuld. Kan ikke optage dette træningspas.
+00BF9900|1|GPS
+00C1B1B4|1|Udendørs løb
+00C0DBD4|1|Lokalisering. Gå til et åbent område og vent med at starte træningen.
+00C058BB|1|Vent
+00C058BB|1|Start
+00C0DBD4|1|Træn i et åbent område
+00C058BB|1|Afvis
+00BF9900|1|Cyklusser
+00C3120E|1|%u/%u/%u
+00BF9900|1|Forudsigelser
+00C16F19|1|Frugtbar
+00BF9900|1|05.23-06.23
+00C344BC|1|Ægløsningsdag
+00C3544D|1|Menstruation
+00BF9900|1|Få mere at vide
+00C058BB|1|Log informationer om cyklus i appen
+00C02F2A|1|1. Farver
+00C058BB|1|Menstruation
+00BF9900|1|Menstruationsdag %d
+00C058BB|1|Anslået menstruation
+00BF9900|1|Menstruationsdag %d
+00C058BB|1|Frugtbar
+00C058BB|1|Frugtbar periode dage %d
+00C058BB|1|Ægløsningsdag
+00BF9900|1|Ægløsningsdag
+00C02F2A|1|2. Tip
+00C058BB|1|Jo mere du logger, des mere præcise forudsigelser får du.
+00C1B1B4|1|Svømning i pool
+00C1B1B4|1|Åbent vand
+00C1B1B4|1|Sejlads
+00C1B1B4|1|Stand Up Paddle (SUP)
+00C1B1B4|1|Vandpolo
+00C1B1B4|1|Vandsport
+00C1B1B4|1|Vandski
+00C1B1B4|1|Kajakroning
+00C1B1B4|1|Rafting
+00C1B1B4|1|Roning
+00C1B1B4|1|Motorbådssport
+00C1B1B4|1|Finswimming
+00C1B1B4|1|Dykning
+00C1B1B4|1|Kunstsvømning
+00C1B1B4|1|Snorkling
+00C1B1B4|1|Kitesurfing
+00C1B1B4|1|Gang
+00C1B1B4|1|Vandring
+00C1B1B4|1|Udendørs cykling
+00C1B1B4|1|Trekking
+00C1B1B4|1|Trailløb
+00C1B1B4|1|Klippeklatring
+00C1B1B4|1|Skateboarding
+00C1B1B4|1|Rulleskøjteløb
+00C1B1B4|1|Parkour
+00C1B1B4|1|ATV
+00C1B1B4|1|Paragliding
+00C1B1B4|1|Freestyle
+00C1B1B4|1|Løbebånd
+00C1B1B4|1|Sjippetov
+00C1B1B4|1|HIIT
+00C1B1B4|1|Yoga
+00C1B1B4|1|Indendørs cykling
+00C1B1B4|1|Elliptisk
+00C1B1B4|1|Romaskine
+00C1B1B4|1|Trappemaskine
+00C1B1B4|1|Stepper
+00C1B1B4|1|Coretræning
+00C1B1B4|1|Fleksibilitet
+00C1B1B4|1|Pilates
+00C1B1B4|1|Gymnastik
+00C1B1B4|1|Stræk
+00C1B1B4|1|Styrke
+00C1B1B4|1|Crosstræning
+00C1B1B4|1|Trappeklatring
+00C1B1B4|1|Aerobiks
+00C1B1B4|1|Fysisk træning
+00C1B1B4|1|Wall ball
+00C1B1B4|1|Håndvægt
+00C1B1B4|1|Vægtstang
+00C1B1B4|1|Vægtløftning
+00C1B1B4|1|Dødløft
+00C1B1B4|1|Burpee
+00C1B1B4|1|Sit-ups
+00C1B1B4|1|Funktionel træning
+00C1B1B4|1|Overkrop
+00C1B1B4|1|Underkrop
+00C1B1B4|1|Mavemuskler
+00C1B1B4|1|Ryg
+00C1B1B4|1|Square dance
+00C1B1B4|1|Mavedans
+00C1B1B4|1|Ballet
+00C1B1B4|1|Street dance
+00C1B1B4|1|Zumba
+00C1B1B4|1|Folkedans
+00C1B1B4|1|Jazzdans
+00C1B1B4|1|Latinamerikansk dans
+00C1B1B4|1|Boksning
+00C1B1B4|1|Wrestling
+00C1B1B4|1|Kampsport
+00C1B1B4|1|Tai Chi
+00C1B1B4|1|Thaiboksning
+00C1B1B4|1|Judo
+00C1B1B4|1|Taekwondo
+00C1B1B4|1|Karate
+00C1B1B4|1|Kickboxing
+00C1B1B4|1|Kendo
+00C1B1B4|1|Fægtning
+00C1B1B4|1|Tennis
+00C1B1B4|1|Basketball
+00C1B1B4|1|Fodbold
+00C1B1B4|1|Volleyball
+00C1B1B4|1|Baseball
+00C1B1B4|1|Softball
+00C1B1B4|1|Amerikansk football
+00C1B1B4|1|Hockey
+00C1B1B4|1|Bordtennis
+00C1B1B4|1|Badminton
+00C1B1B4|1|Cricket
+00C1B1B4|1|Håndbold
+00C1B1B4|1|Bowling
+00C1B1B4|1|Squash
+00C1B1B4|1|Billard
+00C1B1B4|1|Fjerbold
+00C1B1B4|1|Strandfodbold
+00C1B1B4|1|Strandvolleyball
+00C1B1B4|1|Sepak takraw
+00C1B1B4|1|Skøjteløb
+00C1B1B4|1|Curling
+00C1B1B4|1|Andre former for vintersport
+00C1B1B4|1|Snemobil
+00C1B1B4|1|Ishockey
+00C1B1B4|1|Bobslæde
+00C1B1B4|1|Slædesport
+00C1B1B4|1|Bueskydning
+00C1B1B4|1|Dart
+00C1B1B4|1|Ridning
+00C1B1B4|1|Tovtrækning
+00C1B1B4|1|Hulahop
+00C1B1B4|1|Drageflyvning
+00C1B1B4|1|Lystfiskeri
+00C1B1B4|1|Frisbee
+00C1B1B4|1|Rytter
+00C1B1B4|1|Atletik
+00C1B1B4|1|Bilsport
+00BFD56F|1|Bliv mindet om at begynde eller afslutte en træning med løb, gang, løbebånd, roning eller hop.
+00C058BB|1|Slumre
+00BF9900|1|Synkroniserer
+00BF9900|1|Notifikationer
+00C058BB|1|Ingen notifikationer
+00C058BB|1|Svar
+00C058BB|1|Send
+00BF9900|1|Sendt
+00BF9900|1|Kunne ikke sende
+00C0DBD4|1|Tillad, at denne app sender SMS-beskeder
+00C0DBD4|1|Tillad, at denne app læser dine kontakter
+00BF9900|1|Sender
+00C362B8|1|Alarm
+00C16F19|1|Ingen alarmer
+00C16F19|1|Tid
+00C16F19|1|Gentag
+00BF9900|1|Redigér
+00BF9900|1|Tid
+00BF9900|1|Gentag
+00C058BB|1|Slet
+00C058BB|1|OK
+00C16F19|1|AM
+00C16F19|1|PM
+00C058BB|1|Slumre
+00C058BB|1|Stop
+00C058BB|1|Kan ikke tilføje alarm
+00C16F19|1|Maks. 10 alarmer kan tilføjes
+00BF9900|1|Find telefon
+00BF9900|1|Din telefon kommer til at ringe
+00BF9900|1|Forbindelse afbrudt
+00BF9900|1|Kan ikke finde
+00C058BB|1|Søg
+00C058BB|1|Stop
+00C058BB|1|Tilbage
+00BF9900|1|Musik
+00BF9900|1|Tilladelser
+00BF9900|1|Lige et øjeblik
+00BFD56F|1|Par dit bånd med appen
+00BFD56F|1|Slå notifikationsadgang til for appen
+00C0DBD4|1|Slå notifikationsadgang til for appen
+00C058BB|1|Ikke parret
+00BF9900|1|Afspiller ikke
+00BF9900|1|Forbindelse afbrudt
+00BF9900|1|Tilladelser
+00BF9900|1|Kamera
+00C16F19|1|Åbn kamera på din telefon
+00BF9900|1|Ikke parret
+00C0DBD4|1|Forbindelse afbrudt
+00BFD56F|1|Gå til Enhed > Kamera i appen
+00BFD56F|1|Par dit bånd med appen
+00C16F19|1|Tænd
+00C058BB|1|Ingen events i dag
+00BF9900|1|Detaljer
+00BF9900|1|Detaljer
+00C0DBD4|1|Slå Events til i appen
+00C0DBD4|1|Slumre i 10 minutter
+00C0DBD4|1|Slumre i 10 minutter
+00C0DBD4|1|Slumre i 10 minutter
+00C0DBD4|1|Slumre i 10 minutter
+00C0DBD4|1|Slumre i 10 minutter
+00C0DBD4|1|Slumre i 10 minutter
+00C0DBD4|1|Slumre i 10 minutter
+00BF9900|1|Stopur
+00C372C0|1|%02d
+00C0DBD4|1|Stopur kan ikke køre i baggrunden, afslut?
+00BF9900|1|Timer
+00C2A705|1|%d
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|min.
+00C3120E|1|time
+00C3120E|1|time
+00C3120E|1|time
+00C3120E|1|time
+00C3120E|1|timer
+00C3120E|1|timer
+00C3120E|1|timer
+00C3120E|1|timer
+00C058BB|1|Brugerdefineret
+00BF9900|1|Seneste
+00C14A78|1|%02d:%02d:%02d
+00BFD56F|1|Brugerdefineret
+00BF9900|1|Vejr
+00BF9900|1|Prognose
+00C37D86|1|25°
+00BF9900|1|Luftkvalitet
+00BFD56F|1|AQI
+00C19594|1|Kom i gang
+00BF9900|1|Indekser
+00C3120E|1| 
+00C243A0|1|UVI
+00C243A0|1|Luftfugtighed
+00BF9900|1|Solopgang og solnedgang
+00BF9900|1|Placeringer
+00C385D1|1|Sov godt
+00C0DBD4|1|DND er slået til. Løft for at vække er slået fra.
+00C058BB|1|Afvis
+00C058BB|1|Tid
+00C14A78|1|%02d:%02d
+00C058BB|1|Søvn
+00C27B44|1|%dt %dm
+00C322FE|1|%d℃/%d℃
+00BF9900|1|SpO₂
+00C3AB0A|1|98
+00C058BB|1|Mål
+00C058BB|1|Ingen data
+00C3E4D0|1|98%
+00C16F19|1|Bær dit bånd over dit håndled.
+00C16F19|1|Spænd båndstroppen og prøv igen
+00C16F19|1|Bevæg dig ikke
+00C1F7F8|1|98%
+00C1B1B4|1|SpO₂
+00C02F2A|1|85%
+00C058BB|1|Detaljer
+00C058BB|1|Afvis
+00BF9900|1|Heldagssporing
+00BF9900|1|Advarsel
+00BF9900|1|Få mere at vide
+00BF9900|1|Heldagssporing
+00C16F19|1|Sluk
+00C16F19|1|80%
+00BFD56F|1|Mål SpO₂, når du ikke bevæger dig
+00C058BB|1|Bær dit bånd over dit håndled.
+00C058BB|1|Hold dit bånd tæt og roligt.
+00C0C0BA|1|Denne funktion er ikke beregnet til medicinske formål.
+00C16F19|1|SpO₂ repræsenterer procentdelen af ilt i dit blod.
+00C16F19|1|Aflæsninger går normalt ikke under 95%, mens du er aktiv eller 90%, mens du sover. Tag nødvendige målinger, hvis blodets iltmætning når under 90%.
+00C16F19|1|Dit bånd understøtter fra 75 – 100%.
+00C16F19|1|Der er flere faktorer, som kan gøre målinger inkonsistente eller upålidelige. De kan omfatte hudperfusion, permanente eller midlertidige ændringer af din hud, bevægelse eller positur under søvn. Alt ovenstående kan resultere i en falsk advarsel om for lav iltmætning i blodet. Husk, at dette ikke er et medicinsk udstyr, og at de data, det genererer, ikke kan bruges til diagnose og behandling.
+00BF9900|1|Advarsler
+00BF9900|1|Træningspas
+00BF9900|1|Kategorier
+00BF9900|1|Mere
+00BF9900|1|Vandsport
+00BF9900|1|Svømning i pool
+00BF9900|1|Åbent vand
+00BF9900|1|Sejlads
+00BF9900|1|Stand Up Paddle (SUP)
+00BF9900|1|Vandpolo
+00BF9900|1|Vandski
+00BF9900|1|Kajakroning
+00BF9900|1|Rafting
+00BF9900|1|Roning
+00BF9900|1|Motorbådssport
+00BF9900|1|Finswimming
+00BF9900|1|Dykning
+00BF9900|1|Kunstsvømning
+00BF9900|1|Snorkling
+00BF9900|1|Kitesurfing
+00BF9900|1|Udendørsaktiviteter
+00BF9900|1|Udendørs løb
+00BF9900|1|Gang
+00BF9900|1|Vandring
+00BF9900|1|Udendørs cykling
+00BF9900|1|Trekking
+00BF9900|1|Trailløb
+00BF9900|1|Klippeklatring
+00BF9900|1|Skateboarding
+00BF9900|1|Rulleskøjteløb
+00BF9900|1|Parkour
+00BF9900|1|ATV
+00BF9900|1|Paragliding
+00BF9900|1|Freestyle
+00BF9900|1|Løbebånd
+00BF9900|1|Sjippetov
+00BF9900|1|HIIT
+00BF9900|1|Yoga
+00BF9900|1|Indendørs cykling
+00BF9900|1|Elliptisk
+00BF9900|1|Romaskine
+00BF9900|1|Trappemaskine
+00BF9900|1|Stepper
+00BF9900|1|Coretræning
+00BF9900|1|Fleksibilitet
+00BF9900|1|Pilates
+00BF9900|1|Gymnastik
+00BF9900|1|Stræk
+00BF9900|1|Styrke
+00BF9900|1|Crosstræning
+00BF9900|1|Trappeklatring
+00BF9900|1|Aerobiks
+00BF9900|1|Fysisk træning
+00BF9900|1|Wall ball
+00BF9900|1|Håndvægt
+00BF9900|1|Vægtstang
+00BF9900|1|Vægtløftning
+00BF9900|1|Dødløft
+00BF9900|1|Burpee
+00BF9900|1|Sit-ups
+00BF9900|1|Funktionel træning
+00BF9900|1|Overkrop
+00BF9900|1|Underkrop
+00BF9900|1|Mavemuskler
+00BF9900|1|Ryg
+00BF9900|1|Dans
+00BF9900|1|Square dance
+00BF9900|1|Mavedans
+00BF9900|1|Ballet
+00BF9900|1|Street dance
+00BF9900|1|Zumba
+00BF9900|1|Folkedans
+00BF9900|1|Jazzdans
+00BF9900|1|Latinamerikansk dans
+00BF9900|1|Kampsport
+00BF9900|1|Boksning
+00BF9900|1|Wrestling
+00BF9900|1|Kampsport
+00BF9900|1|Tai Chi
+00BF9900|1|Thaiboksning
+00BF9900|1|Judo
+00BF9900|1|Taekwondo
+00BF9900|1|Karate
+00BF9900|1|Kickboxing
+00BF9900|1|Kendo
+00BF9900|1|Fægtning
+00BF9900|1|Boldsport
+00BF9900|1|Tennis
+00BF9900|1|Basketball
+00BF9900|1|Fodbold
+00BF9900|1|Volleyball
+00BF9900|1|Baseball
+00BF9900|1|Softball
+00BF9900|1|Amerikansk football
+00BF9900|1|Hockey
+00BF9900|1|Bordtennis
+00BF9900|1|Badminton
+00BF9900|1|Cricket
+00BF9900|1|Håndbold
+00BF9900|1|Bowling
+00BF9900|1|Squash
+00BF9900|1|Billard
+00BF9900|1|Fjerbold
+00BF9900|1|Strandfodbold
+00BF9900|1|Strandvolleyball
+00BF9900|1|Sepak takraw
+00BF9900|1|Vintersport
+00BF9900|1|Skøjteløb
+00BF9900|1|Curling
+00BF9900|1|Andre former for vintersport
+00BF9900|1|Snemobil
+00BF9900|1|Ishockey
+00BF9900|1|Bobslæde
+00BF9900|1|Slædesport
+00BF9900|1|Rekreativ sport
+00BF9900|1|Bueskydning
+00BF9900|1|Dart
+00BF9900|1|Ridning
+00BF9900|1|Tovtrækning
+00BF9900|1|Hulahop
+00BF9900|1|Drageflyvning
+00BF9900|1|Lystfiskeri
+00BF9900|1|Frisbee
+00BF9900|1|Andet
+00BF9900|1|Rytter
+00BF9900|1|Atletik
+00BF9900|1|Bilsport
+00C16F19|1|Åbent
+00C084E4|1|%02d:%02d:%02d
+00C084E4|1|%d.%d
+00C40150|1|km
+00C084E4|1|%d'%d"
+00C0C0BA|1|Let
+00C0C0BA|1|Intensiv
+00C0C0BA|1|Aerobisk
+00C0C0BA|1|Anaerobisk
+00C0C0BA|1|VO₂ maks.
+00C14A78|1|%d
+00C40150|1|kcal
+00C40150|1|SPM
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C40150|1|skridt
+00C14A78|1|0
+00C0C0BA|1|/km
+00C40150|1|km/t
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|bane
+00C40150|1|åretag
+00C40150|1|åretag
+00C40150|1|spring
+00C40150|1|spring
+00C40150|1|spring
+00C40150|1|spring
+00C40150|1|hop
+00C40150|1|hop
+00C40150|1|hop
+00C40150|1|hop
+00C40150|1|åretag
+00C40150|1|åretag
+00C40150|1|åretag
+00C40150|1|åretag
+00C40150|1|åretag
+00C40150|1|åretag
+00C40150|1|SPM
+00C19594|1|/km
+00C19594|1|km bagud
+00C41370|1|%u'%02u''
+00BF9900|1|Stress
+00C1A3E4|1|Moderat
+00BF9900|1|Detaljer
+00C16F19|1|Afslappet
+00C16F19|1|Mild
+00C16F19|1|Moderat
+00C16F19|1|Alvorlig
+00BF9900|1|Sidste 7 dage
+00C30B66|1|05.12
+00C058BB|1|Ingen data
+00C0C0BA|1|Moderat
+00BF9900|1|Heldagsovervågning
+00BF9900|1|Påmindelse om at slappe af
+00C058BB|1|Tændt
+00BF9900|1|Heldagsovervågning
+00BF9900|1|Tænd/Sluk
+00C0C0BA|1|Hold styr på, når du er stillesiddende
+00C0C0BA|1|Hurtig vejrtrækningsøvelse, når dit stressniveau forbliver over 80 i vågen tilstand
+00BF9900|1|Få mere at vide
+00C058BB|1|Stress er din krops reaktion på udfordringer og krav.
+00C058BB|1|Dit bånd måler dit stressniveau, når du er inaktiv.\nNiveauer:\nAfslappet: 1–25\nSvag: 25–50\nModerat: 51–80\nAlvorlig: 81–100.\nDenne funktion er ikke beregnet til medicinske formål.
+00C058BB|1|Målinger afhænger af lav temperatur, hudperfusion med mere.
+00C02F2A|1|99.0
+00C058BB|1|Vejrtrækning
+00C0DBD4|1|Puls
+00C0DBD4|1|Alarm
+00C0DBD4|1|SpO₂
+00C0DBD4|1|Indstillinger
+00C0DBD4|1|Vejr
+00C0DBD4|1|Tilføj enhed
+00C0DBD4|1|Statistikker
+00BF9900|1|Slet bånddisplay?
+00BF9900|1|For at gemme ændringer, stryg mod højre på bånddisplayet.
+00BF9900|1|Resumé
+00BF9900|1|Puls
+00BF9900|1|Tempo
+00BF9900|1|Rytme
+00C058BB|1|Se oplysninger i appen
+00BF9900|1|Hastighed
+00BF9900|1|Antal åretag
+00BF9900|1|Sjippetov
+00BF9900|1|Hyppighed
+00BF9900|1|SWOLF
+00BF9900|1|Vandring
+00C084E4|1|2:23.1
+00BF9900|1|Åretag
+00BF9900|1|Statistikker
+00BF9900|1|Stående
+00BF9900|1|Bevægelse
+00BF9900|1|Batteri
+00BF9900|1|Dato
+00BF9900|1|UV
+00C058BB|1|Synkroniserer
+00BF9900|1|Kunne ikke synkronisere
+00BF9900|1|Fejl
+00BFD56F|1|Fjern bånddisplays og prøv igen
+00BF9900|1|Gem ændringer?
+00BF9900|1|Én gang
+00C16F19|1|Én gang
+00BF9900|1|Man
+00BF9900|1|Tirs
+00BF9900|1|Ons
+00BF9900|1|Tors
+00BF9900|1|Fre
+00BF9900|1|Lør
+00BF9900|1|Søn.
+00C16F19|1| 
+00C16F19|1|M
+00C16F19|1|Ti
+00C16F19|1|O
+00C16F19|1|To
+00C16F19|1|F
+00C16F19|1|L
+00C16F19|1|S
+00C16F19|1|Daglig
+00C0DBD4|1|Søvn
+00C0DBD4|1|Stopur
+00C0DBD4|1|Vejrtrækning
+00C0DBD4|1|Cyklusser
+00C0DBD4|1|Stress
+00C0DBD4|1|Træningspas
+00BFD56F|1|Scan for at downloade
+00C0DBD4|1|Par med telefon?
+00BF9900|1|Lovmæssigt
+00C058BB|1|Stående
+00BF9900|1|Snooze
+00BF9900|1|Alarmen er slukket
+00BF9900|1|Mistet
+00C14A78|1|%02lu:%02lu
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C058BB|1| 
+00C2CFB5|1|8000
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C1B1B4|1|skridt
+00C2CFB5|1|500
+00C1B1B4|1|kcal
+00C1B1B4|1|kcal
+00C1B1B4|1|kcal
+00C1B1B4|1|kcal
+00C1B1B4|1|kcal
+00C1B1B4|1|kcal
+00C1B1B4|1|kcal
+00C2CFB5|1|30
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C1B1B4|1|min.
+00C2CFB5|1|12
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C1B1B4|1|åretag
+00C16F19|1|"Skridt" viser et dagligt antal skridt.
+00C16F19|1|"Kalorier" viser antallet af aktive kalorier forbrændt hver dag gennem bevægelse og motion.
+00C16F19|1|"Bevægelse" viser din tid på moderat og kraftig aktivitet.
+00C16F19|1|"Stå op" viser timer, hvor du står op og bevæger dig rundt.
+00C0C0BA|1|km/t
+00BF9900|1|80%
+00BF9900|1|85%
+00BF9900|1|90%
+00BF9900|1|Træningspas
+00BF9900|1|Kalorier
+00BF9900|1|Skridt
+00BF9900|1|Puls
+00BF9900|1|Stress
+00BF9900|1|Alarm
+00BF9900|1|Vejr
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C16F19|1|%u km
+00C243A0|1|%u km
+00C243A0|1|%u m
+00C243A0|1|%u m
+00C243A0|1|%u m
+00C243A0|1|%u m
+00C243A0|1|%u m
+00C243A0|1|%u m
+00C243A0|1|%u m
+00C16F19|1|%u min.
+00C16F19|1|%u min.
+00C16F19|1|%u kcal
+00C243A0|1|%u kcal
+00C243A0|1|%u min.
+00C16F19|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C16F19|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C243A0|1|%u
+00C1A3E4|1| 
+00BF9900|1|Åretag
+00BF9900|1|50 m
+00C243A0|1|Let
+00C243A0|1|VO₂ maks.
+00C243A0|1|Aerobisk
+00C243A0|1|Anaerobisk
+00BF9900|1|%u km
+00BF9900|1|%u km/t
+00BF9900|1|%u BPM
+00C16F19|1|Færdig
+00BFF6CD|1|km
+00BF9900|1|%
+00C16F19|1|%d.%d km
+00C243A0|1|%d'%02d"
+00BF9900|1|Focus
+00BF9900|1|Rest
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C084E4|1|%02d:%02d
+00C0B39A|1|%02d:%02d
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|%d min. siden
+00C3120E|1|Lige nu
+00C3120E|1|Lige nu
+00C3120E|1|%02d min. siden
+00C3120E|1|%02d min. siden
+00C3120E|1|%02d min. siden
+00C3120E|1|%02d min. siden
+00C3120E|1|Målt: %02d:%02d
+00C058BB|1|Hvile: %02d
+00C058BB|1|Hvile: --
+00BF9900|1|30 min.
+00C058BB|1| 
+00C02F2A|1|Measure heart rate every 10 mins
+00C02F2A|1| 
+00C058BB|1| 
+00BF9900|1|40 BPM
+00BF9900|1|45 BPM
+00BF9900|1|50 BPM
+00BF9900|1|110 BPM
+00BF9900|1|120 BPM
+00BF9900|1|130 BPM
+00BF9900|1|140 BPM
+00BF9900|1|150 BPM
+00C385D1|1|Tiden er gået
+00BFD56F|1|%d time
+00BFD56F|1|%d time
+00BFD56F|1|%d time
+00BFD56F|1|%d time
+00BFD56F|1|%d timer
+00BFD56F|1|%d timer
+00BFD56F|1|%d timer
+00BFD56F|1|%d timer
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00C1B1B4|1|Kom i gang med at bevæge dig
+00C058BB|1|Ryst det ud!
+00BF9900|1|Sluk for dagens påmindelser om at stå op?
+00C16F19|1|Sluk
+00C16F19|1|100 BPM
+00C16F19|1|110 BPM
+00C16F19|1|120 BPM
+00C16F19|1|130 BPM
+00C16F19|1|140 BPM
+00C16F19|1|150 BPM
+00C16F19|1|40 BPM
+00C16F19|1|45 BPM
+00C16F19|1|50 BPM
+00C16F19|1|Tændt
+00C16F19|1|Sluk
+00C16F19|1|1 min.
+00C16F19|1|10 min.
+00C16F19|1|30 min.
+00C16F19|1|Auto
+00C41370|1|%d%%
+00C0DBD4|1|Aktivitet
+00C0DBD4|1|Mi AI
+00C0DBD4|1|Kort
+00C0DBD4|1|Notifikationer
+00C0DBD4|1|Events
+00C0DBD4|1|Musik
+00C0DBD4|1|Kamera
+00C0DBD4|1|Timer
+00C0DBD4|1|Lommelygte
+00C0DBD4|1|Find telefon
+00C0DBD4|1|Hjælp
+00C40150|1|"Løft for at vække" er slået til
+00C40150|1|"Løft for at vække" er slået fra
+00C40150|1|DND er slået til
+00C40150|1|DND er slået fra
+00BF9900|1|Resumé
+00C16F19|1|Ingen data
+00C058BB|1|Se oplysninger i appen
+00C1F7F8|1|--
+00C16F19|1|%d
+00C16F19|1|%d
+00C16F19|1|%d
+00C16F19|1|%d
+00C16F19|1|%d
+00C16F19|1|%d
+00C16F19|1|%d
+00C16F19|1|%d–%d BPM
+00C02F2A|1|%d-%d
+00C02F2A|1|%02d:%02d-%02d:%02d
+00C42957|1|%d
+00C084E4|1|%02d:%02d:%02d
+00C084E4|1|:
+00C084E4|1|%02d:%02d.%02d
+00C322FE|1|%02d:%02d:%02d.%02d
+00C43159|1|%02d:%02d:%02d.%02d
+00C43159|1|%02d:%02d.%02d
+00BFD56F|1|%02u-%02u %02u:%02u
+00C084E4|1|%02u:%02u:%02u
+00C322FE|1|%lu.%02lu
+00BFD56F|1|km
+00BF9900|1|Mål
+00C243A0|1|%u%%
+00C243A0|1|Gennemført
+00C322FE|1|%lu
+00C243A0|1|Mål
+00C243A0|1|Aktive kalorier
+00C322FE|1|%lu'%02lu''
+00C243A0|1|Gns. tempo
+00C243A0|1|Skridt
+00C243A0|1|Gns. BPM
+00C243A0|1|Gns. SPM
+00C1F7F8|1|%u'%02u''
+00C30B66|1|%02u:%02u
+00C1F7F8|1|%u
+00C058BB|1|Se oplysninger i appen
+00C058BB|1|Tilbage
+00C243A0|1|Mål
+00C243A0|1|Gennemført
+00C243A0|1|Mål
+00C243A0|1|Gennemført
+00C243A0|1|Mål
+00C243A0|1|Gennemført
+00C243A0|1|Mål
+00C243A0|1|Gennemført
+00C243A0|1|Mål
+00C243A0|1|Gennemført
+00C243A0|1|m
+00C243A0|1|m
+00C243A0|1|m
+00C243A0|1|m
+00C243A0|1|m
+00C243A0|1|m
+00C243A0|1|m
+00C243A0|1|kcal
+00C243A0|1|kcal
+00C243A0|1|kcal
+00C243A0|1|kcal
+00C243A0|1|kcal
+00C243A0|1|kcal
+00C243A0|1|kcal
+00C243A0|1|længde
+00C243A0|1|hop
+00C243A0|1|åretag
+00C243A0|1|længde
+00C243A0|1|længde
+00C243A0|1|længde
+00C243A0|1|længder
+00C243A0|1|længder
+00C243A0|1|længder
+00C243A0|1|længder
+00C243A0|1|hop
+00C243A0|1|hop
+00C243A0|1|hop
+00C243A0|1|hop
+00C243A0|1|hop
+00C243A0|1|hop
+00C243A0|1|hop
+00C243A0|1|åretag
+00C243A0|1|åretag
+00C243A0|1|åretag
+00C243A0|1|åretag
+00C243A0|1|åretag
+00C243A0|1|åretag
+00C243A0|1|åretag
+00C02F2A|1|1 min.
+00C30B66|1|%u
+00BF9900|1|Ingen data i dag
+00C16F19|1|I dag
+00C16F19|1|I morgen
+00C16F19|1|Sluk
+00C058BB|1|Næste
+00C058BB|1|Slå forudsigelse af menstruation til i appen
+00C243A0|1|Lige nu
+00C243A0|1|%d min. siden
+00C243A0|1|%d min. siden
+00C243A0|1|%d min. siden
+00C243A0|1|%d min. siden
+00C243A0|1|%d min. siden
+00C243A0|1|%d min. siden
+00C243A0|1|%d min. siden
+00C243A0|1|%d:%02d
+00C243A0|1|I går, %d:%d
+00C243A0|1|%02d/%02d %d:%02d
+00C02F2A|1|%d notifikation
+00C02F2A|1|%d notifikation
+00C02F2A|1|%d notifikation
+00C02F2A|1|%d notifikationer
+00C02F2A|1|%d notifikationer
+00C02F2A|1|%d notifikationer
+00C02F2A|1|%d notifikationer
+00C058BB|1|Ryd
+00C30B66|1|00:00
+00C30B66|1|12:00
+00C30B66|1|24:00
+00C16F19|1|Hele dagen
+00C058BB|1|Heldagsovervågning er slået fra.
+00C058BB|1|Spænd båndstroppen og prøv igen
+00C30B66|1|%02u:%02u
+00C322FE|1|%02u:%02u-%02u:%02u
+00BF9900|1|Advarsler
+00C16F19|1|Dit band giver dig besked, når det registrerer aflæsninger under det indstillede niveau. Du kan se flere data i appen. Søg lægehjælp, hvis du føler dig sløj.
+00C058BB|1|Bevæg dig ikke
+00C058BB|1|50% færdig
+00C058BB|1|Kalibrerer
+00C058BB|1|Hold stille under målingen
+00C058BB|1|Spænd båndstroppen og prøv igen
+00C058BB|1|Spænd båndstroppen og prøv igen
+00C40150|1|m
+00C058BB|1|Opret forbindelse til appen for at opdatere vejret
+00C0C0BA|1|Indstil placeringer i appen
+00C2BFD1|1|%d
+00BF9900|1|Lige et øjeblik
+00C16F19|1|God
+00C16F19|1|Moderat
+00C16F19|1|Let forurening
+00C16F19|1|Usundt
+00C16F19|1|Farligt
+00C16F19|1|Risikabelt
+00C02F2A|1|God
+00C02F2A|1|Moderat
+00C02F2A|1|Let forurening
+00C02F2A|1|Usundt
+00C02F2A|1|Farligt
+00C02F2A|1|Risikabelt
+00BFD56F|1|Skiftende vind
+00BFD56F|1|Hvirvelvind
+00BFD56F|1|N-vind
+00BFD56F|1|NØ-vind
+00BFD56F|1|Ø-vind
+00BFD56F|1|SØ-vind
+00BFD56F|1|S-vind
+00BFD56F|1|SV-vind
+00BFD56F|1|V-vind
+00BFD56F|1|NV-vind
+00BF9900|1|Klar
+00BF9900|1|Skyet
+00BF9900|1|Overskyet
+00BF9900|1|Byger
+00BF9900|1|Tordenvejr
+00BF9900|1|Hagl
+00BF9900|1|Slud
+00BF9900|1|Let regn
+00BF9900|1|Moderat regn
+00BF9900|1|Kraftig regn
+00BF9900|1|Regnvejr
+00BF9900|1|Regnskyl
+00BF9900|1|Kraftigt regnvejr
+00BF9900|1|Snebyger
+00BF9900|1|Let snevejr
+00BF9900|1|Moderat sne
+00BF9900|1|Kraftigt snevejr
+00BF9900|1|Snestorm
+00BF9900|1|Dis
+00BF9900|1|Isslag
+00BF9900|1|Sandstorm
+00BF9900|1|Let til moderat regn
+00BF9900|1|Moderat til kraftig regn
+00BF9900|1|Kraftigt til voldsomt regnvejr
+00BF9900|1|Voldsomt regnvejr til skybrud
+00BF9900|1|Skybrud til voldsomt skybrud
+00BF9900|1|Let til moderat snevejr
+00BF9900|1|Moderat til kraftigt snevejr
+00BF9900|1|Kraftigt snevejr til snestorm
+00BF9900|1|Støv
+00BF9900|1|Blæsende
+00BF9900|1|Kraftig sandstorm
+00BF9900|1|Tåge
+00BF9900|1|Tæt tåge
+00BF9900|1|Let tåge
+00BF9900|1|Moderat dis
+00BF9900|1|Stærk dis
+00BF9900|1|Alvorlig dis
+00BF9900|1|Tåge
+00BF9900|1|Alvorlig tåge
+00BF9900|1|Ingen rapport
+00BF9900|1|Regn
+00BF9900|1|Sne
+00BFD56F|1|I dag
+00BFD56F|1|Man
+00BFD56F|1|Tirs
+00BFD56F|1|Ons
+00BFD56F|1|Tors
+00BFD56F|1|Fre
+00BFD56F|1|Lør
+00BFD56F|1|Søn.
+00C2CFB5|1|%d%%
+00C2CFB5|1|%d
+00BFD56F|1|UVI
+00BFD56F|1|Luftfugtighed
+00C3AB0A|1|%02d:%02d
+00C43F92|1|%02d:%02d
+00BFD56F|1|Søvntilstand slået fra kl. %02d:%02d
+00BF9900|1|Uregelmæssigt BPM kræver en 1-min.-frekvens. Fortsæt?
+00C243A0|1|Maks. bpm
+00C243A0|1|Træningspas
+00C243A0|1|Hvile
+00C243A0|1|Sæt
+00C243A0|1|Åretag
+00C243A0|1|Hop
+00C243A0|1|Hastighed
+00C243A0|1|Antal åretag
+00C243A0|1|Bane
+00C243A0|1|Primære stil
+00C243A0|1|Gns. SWOLF
+00C243A0|1|Gns. SPM
+00C322FE|1|%02lu:%02lu:%02lu
+00C27B44|1|Brystsvømning
+00C27B44|1|Medley
+00C27B44|1|Freestyle
+00C27B44|1|Rygsvømning
+00C27B44|1|Butterfly
+00C322FE|1|%lu.%lu
+00C16F19|1|Maks.
+00C16F19|1|Maks.
+00C372C0|1|%u
+00BF9900|1|Sæt
+00BF9900|1|On
+00C058BB|1|"Løft op for at vække" slås fra, når du går i seng eller tager dit bånd af.
+00C44F8C|1|℃
+00C44F8C|1|℉
+00C1A3E4|1|%d:%02d
+00C3AB0A|1|%u'%02u''
+00C2A705|1|%u'%02u''
+00C058BB|1|Mål: %u'%02u''
+00C385D1|1|%u km/t
+00C058BB|1|Mål: %u km/h
+00C2A705|1|%u
+00C058BB|1|Mål-BPM: %d–%d
+00C02F2A|1|%d
+00C058BB|1|Threshold: %d BPM
+00C2A705|1|--
+00C322FE|1|%d℉/%d℉
+00C058BB|1|Forstået
+00C14A78|1|%u
+00C362B8|1|%%
+00C0DBD4|1|Batteri under %u%%. Lad op nu.
+00C16F19|1|VO₂ maks.
+00C16F19|1|Anaerobisk
+00C16F19|1|Intensiv
+00C16F19|1|Aerobisk
+00C16F19|1|Let
+00C30B66|1|%02lu:%02lu:%02lu
+00BF9900|1|%02lu:%02lu:%02lu
+00C1A3E4|1|BPM
+00C43159|1|%u
+00C27B44|1|%d℃/%d℃
+00C27B44|1|%d℉/%d℉
+00C058BB|1|%d℃/%d℃
+00C058BB|1|%d℉/%d℉
+00C27B44|1|℃
+00C27B44|1|℉
+00C27B44|1|-
+00C058BB|1|-
+00C058BB|1|Cykling
+00C058BB|1|Romaskine
+00BF9900|1|Opret forbindelse til appen og prøv igen
+00BF9900|1|Nybegynder
+00BF9900|1|Udholdenhed
+00BF9900|1|Interval
+00BF9900|1|Grundlæggende løb/gang
+00BF9900|1|Avanceret løb/gang
+00BF9900|1|Grundlæggende jogging
+00BF9900|1|Grundlæggende
+00BF9900|1|Avanceret
+00BF9900|1|Intervaltræning med middelhøj intensitet
+00BF9900|1|Grundlæggende
+00BF9900|1|Avanceret
+00BF9900|1|Grundlæggende
+00BF9900|1|Avanceret
+00C0C0BA|1|Kombinerer gang og jogging i intervaller.
+00C0C0BA|1|Kombinerer gang og jogging i intervaller.
+00C0C0BA|1|Jogging med lav – medium intensitet.
+00C0C0BA|1|Kortere jogging for fedtforbrænding og vægttab.
+00C0C0BA|1|Forlænget løbetur for fedtforbrænding med lav – medium intensitet.
+00C0C0BA|1|Intervaltræning med medium – høj intensitet.
+00C0C0BA|1|Middellang løbetur for udholdenhed.
+00C0C0BA|1|Lang joggingtur for udholdenhed.
+00C0C0BA|1|Kortere intervaltræning for hjerte- og lungesundhed.
+00C0C0BA|1|Længere intervaltræning for hjerte- og lungesundhed.
+00BF9900|1|%02u/%02u
+00BF9900|1|Nu
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Om %u min.
+00BF9900|1|Forsinket
+00C058BB|1|Man 
+00C058BB|1|Tirs 
+00C058BB|1|Ons 
+00C058BB|1|Tors 
+00C058BB|1|Fre 
+00C058BB|1|Lør 
+00C058BB|1|Søn. 
+00C058BB|1|%u/%u 
+00C058BB|1|%02u:%02u 
+00C058BB|1|I dag 
+00C058BB|1|I morgen 
+00C3AB0A|1|02d%:02d%
+00C19594|1|km frem
+00C2A705|1|--'--"
+00C084E4|1|--'--"
+00C058BB|1|%02u:%02u-
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u t
+00BF9900|1|Om %u dag
+00BF9900|1|Om %u dag
+00BF9900|1|Om %u dag
+00BF9900|1|Om %u dag
+00BF9900|1|Om %u dage
+00BF9900|1|Om %u dage
+00BF9900|1|Om %u dage
+00BF9900|1|Om %u dage
+00C1B1B4|1|Lav batteristand
+00C0C0BA|1|Løb
+00BFD56F|1|%d min.
+00BFD56F|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C0DBD4|1|Forbereder opdatering
+00C0DBD4|1|Kunne ikke opdatere.\nPrøv igen.
+00C43159|1|%
+00C058BB|1|Tid
+00C0C0BA|1|Afslappet
+00C0C0BA|1|Mild
+00C0C0BA|1|Alvorlig
+00C058BB|1|Heldagsovervågning er slået fra.
+00C058BB|1|%02u:%02u AM-
+00C058BB|1|%02u:%02u PM–
+00C058BB|1|%02u:%02u AM
+00C058BB|1|%02u:%02u PM
+00C0DBD4|1|Jeg ringer til dig senere.
+00C0DBD4|1|Kan ikke tale nu. Hvad er der?
+00C0DBD4|1|Kan ikke tale nu. Ringer du senere?
+00C4501D|1|--
+00C084E4|1|%u%%
+00C16F19|1|Mål
+00C084E4|1|%u
+00C0DBD4|1|km
+00C0DBD4|1|kcal
+00C0DBD4|1|bane
+00C0DBD4|1|bane
+00C0DBD4|1|bane
+00C0DBD4|1|bane
+00C0DBD4|1|bane
+00C0DBD4|1|bane
+00C0DBD4|1|bane
+00C0DBD4|1|åretag
+00C0DBD4|1|åretag
+00C0DBD4|1|åretag
+00C0DBD4|1|åretag
+00C0DBD4|1|åretag
+00C0DBD4|1|åretag
+00C0DBD4|1|åretag
+00C0DBD4|1|spring
+00C0DBD4|1|spring
+00C0DBD4|1|spring
+00C0DBD4|1|hop
+00C0DBD4|1|hop
+00C0DBD4|1|hop
+00C0DBD4|1|hop
+00C344BC|1|Ny rekord!
+00C084E4|1|%02u:%02u:%02u
+00C43159|1|%lu.%lu.%lu
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %lu.%lu km
+00C16F19|1|Mål: %02u:%02u:%02u
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u kcal
+00C16F19|1|Mål: %u længde
+00C16F19|1|Mål: %u længde
+00C16F19|1|Mål: %u længde
+00C16F19|1|Mål: %u længde
+00C16F19|1|Mål: %u længder
+00C16F19|1|Mål: %u længder
+00C16F19|1|Mål: %u længder
+00C16F19|1|Mål: %u længder
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u åretag
+00C16F19|1|Mål: %u hop
+00C16F19|1|Mål: %u hop
+00C16F19|1|Mål: %u hop
+00C16F19|1|Mål: %u hop
+00C16F19|1|Mål: %u hop
+00C16F19|1|Mål: %u hop
+00C16F19|1|Mål: %u hop
+00C058BB|1|Dit band informerer dig, når din puls kommer over et indstillet BPM. Din puls stiger under stress.
+00C058BB|1|Dit band informerer dig, når din puls kommer over et indstillet BPM. Din puls falder under søvn. Hvis du er sløj, søg lægehjælp.
+00C02F2A|1|Høj puls
+00C02F2A|1|Lav puls
+00BF9900|1|Få mere at vide
+00C02F2A|1|Jog
+00C02F2A|1|Løb
+00C02F2A|1|Sprint
+00C084E4|1|%d
+00C12430|1|Jog
+00C12430|1|Løb
+00C12430|1|Sprint
+00C0C0BA|1|Løb
+00C0C0BA|1|Sprint
+00C084E4|1|%02d
+00C2A705|1|%02d
+00C2A705|1|:
+00C058BB|1|Se oplysninger i appen
+00BF9900|1|Du gjorde det!
+00C058BB|1|Færdig
+00C058BB|1|Fortsæt (%lus)
+00BF9900|1|Træningspas
+00C16F19|1|Tid
+00C16F19|1|Puls
+00C41370|1|%lu.%02lu
+00C4505F|1|Auto
+00BFF6CD|1|Auto
+00BF9900|1|Indstillet
+00C058BB|1|Forstået
+00BF9900|1|Overopheder. Slår fra.
+00C243A0|1|gennemsnit
+00C02F2A|1|Lav batteristand
+00C058BB|1|AM
+00C058BB|1|PM
+00C322FE|1|%lu:%02lu
+00C243A0|1|%u.%02u km
+00C243A0|1|%u.%02u km
+00C243A0|1|%u.%02u km
+00C058BB|1|Vil ikke forstyrres-tilstanden slås fra, når du går i seng eller tager dit bånd af.
+00BFD56F|1|Send advarsel, når SpO₂-målinger er under det indstillede niveau i vågne timer
+00C3120E|1|%d:%02d AM
+00C3120E|1|%d:%02d PM
+00C3120E|1|I går, %d:%02d AM
+00C3120E|1|I går, %d:%02d PM
+00C3120E|1|%02d/%02d, %d:%02d AM
+00C3120E|1|%02d/%02d, %d:%02d PM
+00C0DBD4|1|Løb
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u kcal
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u skridt
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u åretag
+00C0C0BA|1|Mål: %u min.
+00C0C0BA|1|Mål: %u min.
+00C0C0BA|1|Mål: %u min.
+00C0C0BA|1|Mål: %u min.
+00C0C0BA|1|Mål: %u min.
+00C0C0BA|1|Mål: %u min.
+00C0C0BA|1|Mål: %u min.
+00C25E61|1|0123456789•
+00C243A0|1|I dag
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Menstruation om %ud
+00BF9900|1|Frugtbar periode om %ud
+00BF9900|1|Frugtbar periode om %ud
+00BF9900|1|Frugtbar periode om %ud
+00BF9900|1|Frugtbar periode om %ud
+00BF9900|1|Frugtbar periode om %ud
+00BF9900|1|Frugtbar periode om %ud
+00BF9900|1|Frugtbar periode om %ud
+00C0C0BA|1|Scan for at se hjælp
+00C243A0|1|I går
+00C243A0|1|2d siden
+00C058BB|1|Spænd båndstroppen
+00BF9900|1|Få mere at vide
+00C27B44|1|Ukendt
+00C1B1B4|1|Grundlæggende løb/gang
+00C1B1B4|1|Avanceret løb/gang
+00C1B1B4|1|Grundlæggende jogging
+00C1B1B4|1|Grundlæggende
+00C1B1B4|1|Avanceret
+00C1B1B4|1|Intervaltræning med middelhøj intensitet
+00C1B1B4|1|Grundlæggende
+00C1B1B4|1|Avanceret
+00C1B1B4|1|Grundlæggende
+00C1B1B4|1|Avanceret
+00C1B1B4|1|Alvorlig
+00C058BB|1|Vejrtrækning
+00C058BB|1|Gang
+00BF9900|1|Tillad, at dit bånd låser op for telefonen?
+00BF9900|1|Tilladt
+00BF9900|1|Kunne ikke tillade
+00BF9900|1|Hjælp
+00BF9900|1|Lovmæssigt
+00C02F2A|1|Model
+00C02F2A|1|CMIIT ID
+00C19594|1|Jan
+00C19594|1|Feb
+00C19594|1|Mar
+00C19594|1|Apr
+00C19594|1|Maj
+00C19594|1|Jun
+00C19594|1|Jul
+00C19594|1|Aug
+00C19594|1|Sep
+00C19594|1|Okt
+00C19594|1|Nov
+00C19594|1|Dec
+00C16F19|1|Menstruation om 1d
+00C16F19|1|Menstruation om 2d
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Menstruation om %ud
+00C16F19|1|Ægløsning om 1d
+00C16F19|1|Ægløsning om 2d
+00C16F19|1|Ægløsning om %ud
+00C16F19|1|Ægløsning om %ud
+00C16F19|1|Ægløsning om %ud
+00C16F19|1|Ægløsning om %ud
+00C16F19|1|Ægløsning om %ud
+00C16F19|1|Ægløsning om %ud
+00C16F19|1|Ægløsning om %ud
+00BF9900|1|Tænd/Sluk
+00BF9900|1|Tænd/Sluk
+00C1B1B4|1|Ubesvaret opkald
+00C058BB|1|Forstået
+00C058BB|1|Tillad appen at køre i baggrunden
+00C058BB|1|Konfigurer Amazon Alexa i appen
+00C058BB|1|Log ind på din Amazon-konto i appen
+00C058BB|1|Kan ikke afspille video eller audio på dit bånd
+00C058BB|1|Opretter forbindelse…
+00C058BB|1|Lytter…
+00C058BB|1|Tænker…
+00C058BB|1|Indstil en alarm til 2 minutter
+00C058BB|1|What's the weather?
+00BFD56F|1|%02d:%02d–%02d:%02d
+00BFD56F|1|%02d:%02d-%02d:%02d
+00C1A3E4|1|Afslappet
+00C1A3E4|1|Mild
+00C1A3E4|1|Alvorlig
+00C1B1B4|1|Moderat
+00BF9900|1|Daglig
+00BF9900|1|Kunne ikke tilslutte
+00BF9900|1|Netværksfejl
+00BF9900|1|Opsætning nødvendig
+00BF9900|1|Log ind
+00C3120E|1|Svømmetag
+00C058BB|1|Gns.
+00C1A3E4|1|SPM
+00C1A3E4|1|km/t
+00C1A3E4|1|JPM
+00BF9900|1|Få mere at vide
+00C058BB|1|Lavt batteri. Lommelugte er deaktiveret.
+00C058BB|1|Luk
+00C1F7F8|1|%.1f
+00C372C0|1|%.1f
+00C1F7F8|1|%u:%02u'%02u"
+00C372C0|1|%u:%02u'%02u"
+00C322FE|1|%u:%02u'%02u"
+00C0C0BA|1|Afspiller lyd
+00C02F2A|1|PIN-koder er ikke ens
+00C02F2A|1|Indtast PIN
+00C02F2A|1|Ny PIN
+00C058BB|1|Kunne ikke tilslutte
+00C058BB|1|Netværksfejl
+00C058BB|1|Opsætning nødvendig
+00C058BB|1|Log ind
+00C058BB|1|Ikke tilgængelig
+00C25E61|1|Ny PIN
+00C25E61|1|Bekræft PIN
+00C25E61|1|   PIN-koder er ikke ens  
+00C25E61|1|Indtast PIN
+00BFF6CD|1|%d
+00C4505F|1|%d
+00C16F19|1|%dt %dm
+00C16F19|1|%d time
+00C16F19|1|%d time
+00C16F19|1|%d time
+00C16F19|1|%d time
+00C16F19|1|%d timer
+00C16F19|1|%d timer
+00C16F19|1|%d timer
+00C16F19|1|%d timer
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C16F19|1|%d min.
+00C0DBD4|1|%d'%02d"
+00C243A0|1|%02u/%02u
+00C243A0|1|%02u:%02u
+00C27B44|1|--℃/--℃
+00C27B44|1|--℉/--℉
+00C058BB|1|--℃/--℃
+00C058BB|1|--℉/--℉
+00C16F19|1|Mål nået
+00C16F19|1|Mål nået
+00C16F19|1|Forbedring af målopfyldelse
+00C16F19|1|Forbedring af målopfyldelse for oprejst aktivitet
+00C16F19|1|Forbedring af målopfyldelse for skridt
+00C16F19|1|Forbedring af målopfyldelse for kalorieindtag
+00C16F19|1|Mål nået
+00C16F19|1|Mål nået
+00C16F19|1|Alle mål opnået
+00C16F19|1|Godt klaret
+00C16F19|1|Mål opnået
+00C16F19|1|Mål nået
+00C1A3E4|1|km/t
+00C1A3E4|1|/km
+00BF9900|1|AM
+00BF9900|1|PM
+00BF9900|1|Træningsafstand for kort til optegnelse.
+00C02F2A|1|(Ingen titel)
+00C16F19|1|Glemt pinkode?
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om %d sek.
+00C0DBD4|1|Prøv igen om 5 min.
+00C0DBD4|1|Prøv igen om 10 min.
+00C0DBD4|1|Nulstil pinkoden i appen
+00C16F19|1|Forstået
+00C25E61|1|Indtast pinkode for at låse op
+00C16F19|1|%d notifikation
+00C16F19|1|%d notifikation
+00C16F19|1|%d notifikation
+00C16F19|1|%d notifikationer
+00C16F19|1|%d notifikationer
+00C16F19|1|%d notifikationer
+00C16F19|1|%d notifikationer
+00C4733C|1|--:--
+00BF9900|1|Alexa
+00C0DBD4|1|Ikke tilgængelig
+00C16F19|1|Amazon Alexa er ikke tilgængelig i din kontos region
+00C16F19|1|Kontrollér din netværksforbindelse
+00BF9900|1|Hvad sagde du?
+00C16F19|1|Begynd ved at sige
+00C0C0BA|1|Man
+00C0C0BA|1|Tirs
+00C0C0BA|1|Ons
+00C0C0BA|1|Tors
+00C0C0BA|1|Fre
+00C0C0BA|1|Lør
+00C0C0BA|1|Søn.
+00C243A0|1|%u km/t
+00BF9900|1|Parrer
+00C0DBD4|1|Kunne ikke parre
+00C25E61|1|Indtast pinkode for at låse op
+00C25E61|1|Indtast pinkode for at låse op
+00C3120E|1|%d℃/%d℃
+00C3120E|1|%d℉/%d℉
+00C16F19|1|%d
+00C41370|1|%02d:%02d.%02d
+00C0DBD4|1|m
+00C16F19|1|Tilslut dit band til appen
+00C3120E|1|-
+00C058BB|1|Se oplysninger i appen
+00BF9900|1|Contact customer support to get your device repaired
+00BFD56F|1|Spor din puls døgnet rundt
+00C0DBD4|1|PIN indstillet
+00BFD56F|1|Få påmindelser om at begynde eller afslutte træning med løb, gang eller roning.
+00BF9900|1|Indlæser
+00C19594|1|.
+00C1A3E4|1|.
+00C30B66|1|.
+00C4733C|1|.
+00C243A0|1|.
+00C3120E|1|.
+00C473B7|1|.
+00C473DB|1|.
+00BFD56F|1|.
+00C0C0BA|1|.
+00C47406|1|.
+00C42957|1|.
+00C16F19|1|.
+00C058BB|1|.
+00C372C0|1|.
+00C44F8C|1|.
+00C4501D|1|.
+00C40150|1|.
+00C4742C|1|.
+00C37D86|1|.
+00C25E61|1|.
+00C02F2A|1|.
+00C47457|1|.
+00C47482|1|.
+00C0DBD4|1|.
+00BF9900|1|.
+00C43159|1|.
+00C362B8|1|.
+00C474B0|1|.
+00C474DB|1|.
+00C0B39A|1|.
+00C474FF|1|.
+00C344BC|1|.
+00C27B44|1|.
+00C43F92|1|.
+00C2BFD1|1|.
+00C47537|1|.
+00C1B1B4|1|.
+00C41370|1|.
+00C2CFB5|1|.
+00C47C76|1|.
+00C385D1|1|.
+00C47CAA|1|.
+00C2A705|1|.
+00C3544D|1|.
+00C4505F|1|.
+00C3E4D0|1|.
+00C322FE|1|.
+00C493D6|1|.
+00BFF6CD|1|.
+00C1F7F8|1|.
+00C14A78|1|.
+00BF9900|1|t.
+00BF9900|1|m
+00C058BB|1|Vis ikke i dag
+00C0DBD4|1|Amazon Alexa er ikke tilgængelig i din kontos region
+00C16F19|1|Ikke tilgængelig
+00C058BB|1|Romaskine
+00C058BB|1|Elliptisk
+00C058BB|1|Sjippetov
+00C1B1B4|1|Godt gået
+00C16F19|1| 
+00C16F19|1| 
+00C16F19|1|Mål
+00C16F19|1|Resterende
+00C16F19|1|Mål
+00C16F19|1|Resterende
+00C16F19|1|Mållængder
+00C16F19|1|Resterende
+00C16F19|1|Mål for antal hop
+00C16F19|1|Resterende
+00BF9900|1|Tid
+00BF9900|1|Afstand
+00BF9900|1|Bane
+00BF9900|1|Åretag
+00BF9900|1|Hop
+00C1A3E4|1| 
+00C243A0|1|%d:%02d
+00C243A0|1|%d m
+00C243A0|1|%dm %02ds
+00BF9900|1|Apps
+00C02F2A|1|Fitness
+00C02F2A|1|Grundlæggende
+00C02F2A|1|Vejr
+00C02F2A|1|Værktøjer
+00BF9900|1|Stopur
+00BF9900|1|Timer
+00BF9900|1|Kamera
+00BF9900|1|Kort
+00C0DBD4|1|Træningstid er for kort til at registrere.
+00C4940E|1|Stopur
+00C4940E|1|Timer
+00C4505F|1|%d℃
+00C4505F|1|%d℉
+00C4505F|1|-
+00C4505F|1|--℃
+00C4505F|1|--℉
+00C058BB|1|Lige et øjeblik
+00C27B44|1|Vejrtrækning
+00C4505F|1|--
+00BF9900|1|Auto
+00BF9900|1|Brugerdefineret
+00C4505F|1|%d%%
+00C058BB|1|Lige et øjeblik
+00C058BB|1|Afspiller ikke
+00C058BB|1|Forbindelse afbrudt
+00C19594|1|Stryg opad for stregkode
+00C19594|1|Stryg nedad for QR-kode
+00C4940E|1|Roning
+00C4940E|1|Gang
+00C4940E|1|HIIT
+00C4940E|1|Udendørs cykling
+00C4940E|1|Indendørs cykling
+00C4940E|1|Sjippetov
+00C4940E|1|Trekking
+00C4940E|1|Vandring
+00C4940E|1|Elliptisk
+00C4940E|1|Udendørs løb
+00C4940E|1|Svømning i pool
+00C4940E|1|Løbebånd
+00C4940E|1|Trailløb
+00C4940E|1|Freestyle
+00C47CAA|1|%lu
+00C3E4D0|1|%lu
+00C058BB|1|Ingen data
+00C4505F|1|--
+00C058BB|1|min.
+00BF9900|1|SpO₂
+00C16F19|1|Du nåede dit mål i går. Fortsæt med det i dag!
+00C16F19|1|Du nåede 2 af 3 mål i går. Du kan gøre det!
+00C16F19|1|Du nåede ikke dine mål i går. Få i dag til at tælle!
+00C16F19|1|Dine mål er indenfor rækkevidde – i dag er en ny dag!
+00C16F19|1|Du er kun 1000 skridt fra dit mål.
+00C16F19|1|Du er kun 50 kcal fra dit mål.
+00C16F19|1|Der er stadig tid til at nå dagens mål. Bare fortsæt!
+00C16F19|1|Rejs dig op to gange mere for at nå dit mål i dag.
+00C16F19|1|Rejs dig op én gang mere for at nå dit mål i dag.
+00C16F19|1|Du nåede dit mål i går. Fortsæt med det i dag!
+00C16F19|1|Du nåede 2 af 3 mål i går. Du kan gøre det!
+00C16F19|1|Du nåede ikke dine mål i går. Få i dag til at tælle!
+00C16F19|1|Dine mål er indenfor rækkevidde – i dag er en ny dag!
+00C16F19|1|Du er kun 1000 skridt fra dit mål.
+00C16F19|1|Du er kun 50 kcal fra dit mål.
+00C16F19|1|Du har næsten nået dit mål. Afslut med bravur!
+00C16F19|1|Rejs dig op to gange mere for at nå dit mål i dag.
+00C16F19|1|Rejs dig op én gang mere for at nå dit mål i dag.
+00C47537|1|Mål nået!
+00C0DBD4|1|Du kan gøre det!
+00C0DBD4|1|Statistikker
+00C243A0|1|Brugerdefineret
+00C0DBD4|1|Kunne ikke parre
+00BFD56F|1|Prøv igen
+00C16F19|1|Par
+00C0DBD4|1|Bekræft på din telefon
+00C0DBD4|1|Parrer...
+00C0DBD4|1|Parret
+00BFD56F|1|Scan for at downloade app
+00BFD56F|1|Bekræft på din telefon
+00C4B164|1|繁體中文
+00C0DBD4|1|English
+00C0DBD4|1|Deutsch
+00C4BA6B|1|한국어
+00C4C038|1|עברית
+00C4C408|1|ไทย
+00C4C63C|1|日本語
+00C4CC6F|1|العربية
+00C0DBD4|1|Italiano
+00C0DBD4|1|Français
+00C0DBD4|1|Español
+00C0DBD4|1|Polski
+00C0DBD4|1|Українська
+00C0DBD4|1|Čeština
+00C0DBD4|1|Русский
+00C0DBD4|1|Nederlands
+00C0DBD4|1|Português PT
+00C0DBD4|1|Türkçe
+00C0DBD4|1|Română
+00C0DBD4|1|Eλληνικά
+00C0DBD4|1|Português BR
+00C0DBD4|1|Indonesia
+00C0DBD4|1|Tiếng Việt
+00C0DBD4|1|Norsk bokmål
+00C0DBD4|1|Suomi
+00C0DBD4|1|Svenska
+00C0DBD4|1|Dansk
+00C243A0|1|Sluk
+00C243A0|1|%d sekund
+00C243A0|1|%d sekund
+00C243A0|1|%d sekund
+00C243A0|1|%d sekunder
+00C243A0|1|%d sekunder
+00C243A0|1|%d sekunder
+00C243A0|1|%d sekunder
+00C058BB|1|%u/%u/%u 
+00C02F2A|1|Xiaomi Smart Band 7 Pro
+00C058BB|1|OK
+00C25E61|1|If the number of words is too long, please check it on the APP side
+00BF9900|1|Snowboarding
+00BF9900|1|Skiløb
+00C1B1B4|1|Snowboarding
+00C1B1B4|1|Skiløb
+00BFD56F|1|Brugerdefineret
+00BF9900|1|Syncing
+00C0DBD4|1|Preparing update
+00C243A0|1|VO₂ max
+00BFD56F|1|Høj

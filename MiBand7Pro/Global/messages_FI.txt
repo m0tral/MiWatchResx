@@ -1,0 +1,2071 @@
+00B5515E|1|Asetukset
+00B5515E|1|Rannekkeen näytöt
+00B5515E|1|Näyttö
+00B5515E|1|Värinä
+00B58828|1|Oletus
+00B58828|1|Voimakas
+00B5515E|1|Automaattinen havaitseminen
+00B58828|1|Pois
+00B58828|1|Päällä
+00B5515E|1|Älä häiritse
+00B58828|1|Pois
+00B58828|1|Älykäs
+00B58828|1|Koko päivä
+00B5515E|1|Sovelluksen asettelu
+00B58828|1|Kuvaketila
+00B58828|1|Listatila
+00B5515E|1|PIN-koodi
+00B5515E|1|Järjestelmä
+00B5515E|1|Tietoa rannekkeesta
+00B5515E|1|Kirkkaus
+00B5515E|1|Aina päällä
+00B5515E|1|Automaattilukitus
+00B5515E|1|Peitä laittaaksesi uneen
+00B5515E|1|Herätä nostamalla
+00B58828|1|Auto
+00B5A514|1|Auto
+00B5515E|1|Pois
+00B5515E|1|Älykäs
+00B5515E|1|Ajoitettu
+00B5515E|1|Koko päivä
+00B5515E|1|Tutustu lisää
+00B5DA68|1|Aina päällä
+00B5DA68|1|Älykäs
+00B60029|1|Kellonaika näkyy, vaikka näyttö olisi lukittu.
+00B60029|1|Aina päällä -toiminto sammuu, kun menet nukkumaan tai otat rannekkeen pois.
+00B5515E|1|Tämä vaikuttaa akunkestoon, jatketaanko?
+00B5515E|1|Aloita
+00B5515E|1|Lopeta
+00B5515E|1|Tila
+00B627F1|1|-%d
+00B656A7|1|%d
+00B5515E|1|Herkkyys
+00B58828|1|Älykäs
+00B5A514|1|Korkea
+00B5A514|1|Oletus
+00B5515E|1|Tämä vaikuttaa akunkestoon, jatketaanko?
+00B663C7|1|s
+00B663C7|1|m
+00B5515E|1|Automaattinen havaitseminen
+00B5515E|1|Harjoituksen tunnistus
+00B60029|1|Selvä
+00B60029|1|Selvä
+00B58828|1|Jos haluat asettaa valvontataajuuden, poista Epäsäännöllinen BPM käytöstä.
+00B656A7|1|%d:%02d
+00B67D1C|1|Tämä vaikuttaa akunkestoon, jatketaanko?
+00B5515E|1|Pois
+00B5515E|1|Älykäs
+00B60029|1|Aina päällä -toiminto sammuu, kun menet nukkumaan tai otat rannekkeen pois.
+00B5515E|1|Kuvaketila
+00B5515E|1|Listatila
+00B5515E|1|Järjestelmä
+00B5515E|1|Käynnistä uudelleen
+00B5515E|1|Poista käytöstä
+00B5515E|1|Nollaa
+00B5515E|1|Käynnistä uudelleen nyt?
+00B5515E|1|Sammuta nyt?
+00B67D1C|1|Poista kaikki tiedot?
+00B5DA68|1|Nimi
+00B5DA68|1|Malli
+00B5DA68|1|MAC-osoite
+00B5DA68|1|Versionumero
+00B5DA68|1|Sarjanumero
+00B5DA68|1|Sääntely
+00B5515E|1|Värinä
+00B6C5F5|1|Voimakas
+00B5A514|1|Oletus
+00B5A514|1|Voimakas
+00B6F4A6|1|%d
+00B58828|1|%d/%d
+00B5515E|1|Lämmittely
+00B60029|1|Valmis
+00B627F1|1|%2d:%2d:%2d
+00B5515E|1|Harjoittelu
+00B627F1|1|%d
+00B71947|1|Tavoitevedot
+00B71947|1|Jäljellä
+00B60029|1|Ohita
+00B5515E|1|Lepo
+00B71947|1|Lepo
+00B71947|1|Jäljellä
+00B5515E|1|Loppuverryttely
+00B60029|1|Lopeta
+00B5515E|1|Juoksu
+00B5515E|1|Rasvanpoltto
+00B5515E|1|Kehittynyt
+00B71947|1|Esittely
+00B71947|1|Harjoitussuunnitelma
+00B663C7|1|Kävely
+00B663C7|1|Perushölkkä
+00B60029|1|Aloita
+00B5515E|1|Viimeaikainen
+00B6C5F5|1|Kävely
+00B5DA68|1|Tavoite BPM
+00B60029|1|%d~%dbpm
+00B5DA68|1|Kävely
+00B627F1|1|%d:%02d
+00B71947|1|Ajastin
+00B73DB6|1|BPM
+00B5515E|1|Näyttää siltä, että harjoittelet
+00B60029|1|Ulkoilu
+00B60029|1|Juoksumatto
+00B60029|1|Hylkää (%ds)
+00B60029|1|km
+00B60029|1|Tauko
+00B60029|1|Jatka
+00B67D1C|1|Harjoitusmatka liian lyhyt tallennettavaksi. Lopeta?
+00B67D1C|1|Harjoitusaika liian lyhyt tallennettavaksi. Lopeta?
+00B60029|1|Jatka
+00B60029|1|Lopeta
+00B5515E|1|Kalibrointi
+00B627F1|1|.
+00B74B7F|1|km
+00B67D1C|1|Näyttö lukittuu, kun aloitat
+00B5515E|1|Hengitys
+00B75A61|1|Hengitys
+00B5515E|1|Aika
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B7965B|1|%d
+00B7BA59|1|%d
+00B75A61|1|Rentoudu
+00B60029|1|Keskity hengitykseesi
+00B75A61|1|Antaa mennä
+00B60029|1|Seuraa kuplaa
+00B75A61|1|Hengitä sisään
+00B75A61|1|Hengitä ulos
+00B75A61|1|Hyvin tehty
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B60029|1|Sessio: %d min
+00B5515E|1|Tulokset
+00B60029|1|Nykyinen syke
+00B7965B|1|89
+00B74B7F|1|BPM
+00B60029|1|Aloitussyke
+00B60029|1|Sessio
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B74B7F|1|min
+00B5515E|1|Asetukset
+00B5515E|1|Tavoite
+00B5515E|1|Intervallit
+00B5515E|1|Hälytykset
+00B5515E|1|Allasmitta
+00B5515E|1|Automaattinen keskeytys
+00B71947|1|Avoin
+00B7E203|1|1,5 km
+00B5515E|1|Avoin
+00B5515E|1|Etäisyys
+00B5515E|1|Aika
+00B5515E|1|Kalorit
+00B5515E|1|Hypyt
+00B5515E|1|Allasvälit
+00B71947|1|5 km
+00B5515E|1|Intervallit sammuvat. Jatka?
+00B5515E|1|Harjoitustavoite poistetaan. Jatka?
+00B5515E|1|Etäisyys
+00B5515E|1|Aika
+00B5515E|1|Kalorit
+00B5515E|1|Hypyt
+00B5515E|1|Allasvälit
+00B74B7F|1|m
+00B74B7F|1|kcal
+00B74B7F|1| 
+00B74B7F|1| 
+00B5515E|1|Sarjaa
+00B5515E|1|Lepo
+00B74B7F|1|s
+00B74B7F|1| 
+00B5515E|1|Etäisyys
+00B5515E|1|Tahti
+00B5515E|1|Nopeus
+00B5515E|1|Sykealue
+00B5515E|1|Korkea syke
+00B60029|1|Poista kaikki käytöstä
+00B7E203|1|Pois
+00B7E203|1|Intensiivinen
+00B5515E|1|Tahdistin
+00B627F1|1|5'00"
+00B6F4A6|1|4'50"
+00B5515E|1|%d km/h
+00B74B7F|1|km/h
+00B5515E|1|Pois
+00B5515E|1|Kevyt
+00B5515E|1|Intensiivinen
+00B5515E|1|Aerobinen
+00B5515E|1|Anaerobinen
+00B5515E|1|VO₂ maksimi
+00B7E203|1|%u–%u BPM
+00B5515E|1|Korkea syke
+00B74B7F|1|BPM
+00B5515E|1|25 m
+00B5515E|1|Mukautettu
+00B5515E|1|Mukautettu
+00B74B7F|1|m
+00B5515E|1|Määritä PIN-koodi
+00B7FC06|1|Syötä PIN-koodi
+00B7FC06|1|Vahvista PIN-koodi
+00B7FC06|1|Väärä
+00B5515E|1|Poista kaikki tiedot?
+00B5515E|1|Poista PIN-koodi käytöstä
+00B5515E|1|Vaihda PIN-koodi
+00B5515E|1|PIN-koodi vaihdettu
+00B5515E|1|PIN-koodi poistettu käytöstä
+00B58828|1|Ranneke lukkiutuu automaattisesti, kun otat sen pois.
+00B819CD|1|Nopeuta
+00B819CD|1|Jatka samaan tahtiin
+00B819CD|1|Hidasta
+00B843A5|1|%u'%02u''
+00B75A61|1|Korkea syke
+00B60029|1|Kalorit
+00B85C71|1|345
+00B60029|1|Askeleet
+00B60029|1|Liikkeessä
+00B86C55|1|323
+00B5515E|1|Askeleet
+00B74B7F|1| 
+00B5515E|1|Seisominen
+00B5515E|1|Liikkeessä
+00B5515E|1|Muistutukset
+00B5DA68|1|Askeleet
+00B5DA68|1|Kalorit
+00B7FC06|1|Seisominen
+00B7FC06|1|Liikkeessä
+00B5515E|1|Uni
+00B87EF8|1|10
+00B819CD|1|h
+00B819CD|1|m
+00B60029|1|Tavoite:
+00B8A806|1|24:33
+00B60029|1|Ei tietoja
+00B5DA68|1|Uni
+00B60029|1|1. Voit seurata REM-unia ottamalla käyttöön Edistynyt valvonta.\n2. Kiristä rannekehihna.\n3. Syke- ja SpO₂-lukemat riippuvat liikkeistä, unen laadusta ja muusta.
+00B75A61|1|h
+00B75A61|1|m
+00B60029|1|Ei tietoja
+00B5515E|1|Edistynyt seuranta
+00B5515E|1|Hengityspisteet
+00B5515E|1|Hengityspisteet
+00B58828|1|Seuraa REM-unta
+00B5515E|1|Hengityspisteet
+00B58828|1|Tarkkaile yöaikaista hengitystäsi
+00B5515E|1|Uni
+00B71947|1|Keskim. BPM
+00B5515E|1| 
+00B71947|1|Keskim. SpO₂
+00B5515E|1|Torkku
+00B5515E|1|Syke
+00B8A806|1|126
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B5515E|1|Korkea syke
+00B5515E|1|Matala syke
+00B5515E|1|Epäsäännöllinen BPM
+00B5515E|1|Sykealue
+00B71947|1|VO₂ maksimi
+00B71947|1|VO₂ maksimi
+00B71947|1|Anaerobinen
+00B71947|1|Intensiivinen
+00B71947|1|Kevyt
+00B71947|1|Relaxed
+00B71947|1|Relaxed
+00B5515E|1|%02d:%02d
+00B60029|1|Mitataan
+00B8BF92|1|144-224
+00B8AEAE|1|BPM
+00B8BF92|1|12: 24-12: 25
+00B60029|1|Yritä uudelleen
+00B60029|1|Mittaa
+00B5DA68|1|Syke
+00B60029|1|Syke on kuinka monta kertaa sydän lyö minuutissa (BPM).\nTyypillisesti leposyke vaihtelee välillä 40–100 lyöntiä minuutissa. Se kuitenkin vaihtelee iän, sukupuolen ja muiden tekijöiden mukaan.\nRannekkeesi tukee 30–220 BPM-aluetta.
+00B5515E|1|Tutustu lisää
+00B60029|1|Kiristä rannekehihna ja yritä uudelleen
+00B5515E|1|Vinkit
+00B60029|1|Pidä ranneketta ranteen yläpuolella.
+00B60029|1|Pidä rannekkeesi tiukasti paikallaan.
+00B60029|1|Mittaukset riippuvat alhaisesta lämpötilasta, ihon perfuusiosta ja muusta.
+00B663C7|1|Tätä ominaisuutta ei ole tarkoitettu lääketieteellisiin tarkoituksiin.
+00B60029|1|Jatkuva seuranta on pois käytöstä.
+00B60029|1|Ota käyttöön
+00B5515E|1|Jatkuva seuranta
+00B5515E|1|Epäsäännöllinen BPM
+00B5515E|1|Päällä/Pois
+00B5515E|1|Korkea syke
+00B5515E|1|Matala syke
+00B58828|1|Jos haluat asettaa valvontataajuuden, poista Epäsäännöllinen BPM käytöstä.
+00B5515E|1|1 min
+00B5515E|1|10 min
+00B5515E|1|Automaattinen
+00B5515E|1|Vinkit
+00B60029|1|Measure heart rate every 10 mins
+00B5DA68|1|Automaattinen
+00B60029|1|Lisää seurantatiheyttä harjoitusten aikana
+00B5515E|1|Epäsäännöllinen BPM
+00B58828|1|Saa hälytyksiä epäsäännöllisestä sykkeestä
+00B5515E|1|Tämä vaikuttaa akunkestoon, jatketaanko?
+00B5515E|1|100 BPM
+00B75A61|1|Matala syke
+00B5DA68|1|12: 30-12: 40
+00B60029|1|Tiedot
+00B75A61|1|Epäsäännöllinen BPM
+00B75A61|1|Mitataan
+00B60029|1|Pysy paikoillasi
+00B60029|1|Mitattu: %02d:%02d
+00B60029|1|Yritä uudelleen
+00B71947|1|Goal hit
+00B71947|1|Goal hit
+00B71947|1|Goal hit
+00B71947|1|Goal hit
+00B75A61|1|Saavutetut tavoitteet
+00B71947|1|Bravo!
+00B75A61|1|Ala liikkua!
+00B75A61|1|Nouse seisomaan
+00B60029|1|Nouse ylös ja kävele ympäriinsä
+00B67D1C|1|Yhdistä puhelin päivittääksesi GPS-tiedot.
+00B67D1C|1|Tallennustila on täynnä. Tätä harjoitusta ei voi tallentaa.
+00B5515E|1|GPS
+00B75A61|1|Ulkona juoksu
+00B67D1C|1|Paikannetaan. Mene avoimelle alueelle ja odota harjoituksen aloittamista.
+00B60029|1|Odota
+00B60029|1|Aloita
+00B67D1C|1|Treenaa avoimella alueella
+00B60029|1|Hylkää
+00B5515E|1|Kierrot
+00B8AEAE|1|%u/%u/%u
+00B5515E|1|Ennusteet
+00B71947|1|Hedelmällinen
+00B5515E|1|05.23-06.23
+00B8E150|1|Ovulaatiopäivä
+00B8EF61|1|Kuukautiset
+00B5515E|1|Tutustu lisää
+00B60029|1|Kirjaa kiertotiedot sovelluksessa
+00B5DA68|1|1. Värit
+00B60029|1|Kuukautiset
+00B5515E|1|Kuukautispäivä %d
+00B60029|1|Arvioitu kuukautisten alku
+00B5515E|1|Kuukautispäivä %d
+00B60029|1|Hedelmällinen
+00B60029|1|Hedelmällisen kauden päivä %d
+00B60029|1|Ovulaatiopäivä
+00B5515E|1|Ovulaatiopäivä
+00B5DA68|1|2. Vinkki
+00B60029|1|Mitä enemmän kirjaat, sitä tarkempia ennusteita saat.
+00B75A61|1|Allasuinti
+00B75A61|1|Avovesiuinti
+00B75A61|1|Purjehdus
+00B75A61|1|Melonta
+00B75A61|1|Vesipallo
+00B75A61|1|Vesiurheilu
+00B75A61|1|Vesihiihto
+00B75A61|1|Kajakointi
+00B75A61|1|Koskenlasku
+00B75A61|1|Soutu
+00B75A61|1|Moottoriveneily
+00B75A61|1|Räpyläuinti
+00B75A61|1|Sukellus
+00B75A61|1|Taiteellinen uinti
+00B75A61|1|Snorklaus
+00B75A61|1|Liitolainelautailu
+00B75A61|1|Kävely
+00B75A61|1|Vaellus
+00B75A61|1|Pyöräily
+00B75A61|1|Retkeily
+00B75A61|1|Polkujuoksu
+00B75A61|1|Kalliokiipeily
+00B75A61|1|Rullalautailu
+00B75A61|1|Rullaluistelu
+00B75A61|1|Parkour
+00B75A61|1|Mönkijä
+00B75A61|1|Varjoliito
+00B75A61|1|Freestyle
+00B75A61|1|Juoksumatto
+00B75A61|1|Hyppynaru
+00B75A61|1|HIIT
+00B75A61|1|Jooga
+00B75A61|1|Ratapyöräily
+00B75A61|1|Ellipsilaite
+00B75A61|1|Soutulaite
+00B75A61|1|Portaikko
+00B75A61|1|Steppilaite
+00B75A61|1|Core-treeni
+00B75A61|1|Notkeusharjoittelu
+00B75A61|1|Pilates
+00B75A61|1|Voimistelu
+00B75A61|1|Venyttely
+00B75A61|1|Lihasvoimaharjoittelu
+00B75A61|1|Core-treeni
+00B75A61|1|Portaiden kiipeily
+00B75A61|1|Aerobia
+00B75A61|1|Fyysinen harjoittelu
+00B75A61|1|Seinäpallo
+00B75A61|1|Käsipaino
+00B75A61|1|Levytanko
+00B75A61|1|Painonnosto
+00B75A61|1|Maastaveto
+00B75A61|1|Burpee
+00B75A61|1|Vatsapunnerrukset
+00B75A61|1|Toiminnallinen harjoittelu
+00B75A61|1|Ylävartalo
+00B75A61|1|Alavartalo
+00B75A61|1|Vatsalihakset
+00B75A61|1|Selkä
+00B75A61|1|Toritanssi
+00B75A61|1|Napatanssi
+00B75A61|1|Baletti
+00B75A61|1|Katutanssi
+00B75A61|1|Zumba
+00B75A61|1|Kansantanssi
+00B75A61|1|Jazz-tanssi
+00B75A61|1|Latinalainen tanssi
+00B75A61|1|Nyrkkeily
+00B75A61|1|Paini
+00B75A61|1|Kamppailulajit
+00B75A61|1|Taiji
+00B75A61|1|Muay thai
+00B75A61|1|Judo
+00B75A61|1|Taekwondo
+00B75A61|1|Karate
+00B75A61|1|Potkunyrkkeily
+00B75A61|1|Kendo
+00B75A61|1|Miekkailu
+00B75A61|1|Tennis
+00B75A61|1|Koripallo
+00B75A61|1|Jalkapallo
+00B75A61|1|Lentopallo
+00B75A61|1|Pesäpallo
+00B75A61|1|Softball
+00B75A61|1|Amerikkalainen jalkapallo
+00B75A61|1|Hockey
+00B75A61|1|Pöytätennis
+00B75A61|1|Sulkapallo
+00B75A61|1|Kriketti
+00B75A61|1|Käsipallo
+00B75A61|1|Keilailu
+00B75A61|1|Squash
+00B75A61|1|Biljardi
+00B75A61|1|Sulkapaino
+00B75A61|1|Rantajalkapallo
+00B75A61|1|Rantalentopallo
+00B75A61|1|Sepak takraw
+00B75A61|1|Luistelu
+00B75A61|1|Curling
+00B75A61|1|Muu talviurheilu
+00B75A61|1|Moottorikelkka
+00B75A61|1|Jääkiekko
+00B75A61|1|Rattikelkka
+00B75A61|1|Pulkkailu
+00B75A61|1|Jousiammunta
+00B75A61|1|Tikanheitto
+00B75A61|1|Ratsastus
+00B75A61|1|Köydenveto
+00B75A61|1|Hulavanne
+00B75A61|1|Leijan lennätys
+00B75A61|1|Kalastus
+00B75A61|1|Frisbee
+00B75A61|1|Hevosurheilu
+00B75A61|1|Yleisurheilu
+00B75A61|1|Moottoriurheilu
+00B58828|1|Saat muistutuksia juoksun, kävelyn, juoksumaton, soutu- tai hyppyharjoittelun aloittamisesta ja lopettamisesta.
+00B60029|1|Torku
+00B5515E|1|Synkronoidaan
+00B5515E|1|Ilmoitukset
+00B60029|1|Ei ilmoituksia
+00B60029|1|Vastaa
+00B60029|1|Lähetä
+00B5515E|1|Lähetetty
+00B5515E|1|Ei voitu lähettää
+00B67D1C|1|Salli tämän sovelluksen lähettää tekstiviestejä
+00B67D1C|1|Anna tämän sovelluksen lukea yhteystietojasi
+00B5515E|1|Lähetetään
+00B8FB6E|1|Hälytys
+00B71947|1|Ei hälytyksiä
+00B71947|1|Aika
+00B71947|1|Toista
+00B5515E|1|Muokkaa
+00B5515E|1|Aika
+00B5515E|1|Toista
+00B60029|1|Poista
+00B60029|1|OK
+00B71947|1|Aamupäivä
+00B71947|1|Iltapäivä
+00B60029|1|Torku
+00B60029|1|Lopeta
+00B60029|1|Hälytystä ei voi lisätä
+00B71947|1|Lisää enintään 10 hälytystä
+00B5515E|1|Etsi puhelin
+00B5515E|1|Puhelimesi soi
+00B5515E|1|Yhteys katkaistu
+00B5515E|1|Ei löydy
+00B60029|1|Etsi
+00B60029|1|Lopeta
+00B60029|1|Takaisin
+00B5515E|1|Musiikki
+00B5515E|1|Käyttöoikeudet
+00B5515E|1|Hetki vain
+00B58828|1|Yhdistä rannekkeesi sovellukseen
+00B58828|1|Ota Ilmoitukset käyttöön sovelluksessa
+00B67D1C|1|Ota Ilmoitukset käyttöön sovelluksessa
+00B60029|1|Ei liitetty
+00B5515E|1|Ei toisteta
+00B5515E|1|Yhteys katkaistu
+00B5515E|1|Käyttöoikeudet
+00B5515E|1|Kamera
+00B71947|1|Avaa Kamera puhelimessasi
+00B5515E|1|Ei liitetty
+00B67D1C|1|Yhteys katkaistu
+00B58828|1|Siirry kohtaan Laite > Kamera sovelluksessa
+00B58828|1|Yhdistä rannekkeesi sovellukseen
+00B71947|1|Ota käyttöön
+00B60029|1|Ei tapahtumia tänään
+00B5515E|1|Tiedot
+00B5515E|1|Tiedot
+00B67D1C|1|Ota Tapahtumat käyttöön sovelluksessa
+00B67D1C|1|Torkuta 10 minuuttia
+00B67D1C|1|Torkuta 10 minuuttia
+00B67D1C|1|Torkuta 10 minuuttia
+00B67D1C|1|Torkuta 10 minuuttia
+00B67D1C|1|Torkuta 10 minuuttia
+00B67D1C|1|Torkuta 10 minuuttia
+00B67D1C|1|Torkuta 10 minuuttia
+00B5515E|1|Sekuntikello
+00B90C66|1|%02d
+00B67D1C|1|Sekuntikelloa ei voi käyttää taustalla, poistu?
+00B5515E|1|Ajastin
+00B843A5|1|%d
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|min
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B8AEAE|1|h
+00B60029|1|Mukautettu
+00B5515E|1|Viimeaikainen
+00B6F4A6|1|%02d:%02d:%02d
+00B58828|1|Mukautettu
+00B5515E|1|Sää
+00B5515E|1|Ennuste
+00B9172C|1|25°
+00B5515E|1|Ilmanlaatu
+00B58828|1|AQI
+00B73DB6|1|Ala liikkua
+00B5515E|1|Indeksit
+00B8AEAE|1| 
+00B7E203|1|UV-indeksi
+00B7E203|1|Ilmankosteus
+00B5515E|1|Auringonnousu & auringonlasku
+00B5515E|1|Sijainnit
+00B91F77|1|Nuku hyvin
+00B67D1C|1|Älä häiritse -tila on käytössä. Nosta herättääksesi -toiminto on pois käytöstä.
+00B60029|1|Hylkää
+00B60029|1|Aika
+00B6F4A6|1|%02d:%02d
+00B60029|1|Uni
+00B819CD|1|%dh %dm
+00B8BF92|1|%d℃/%d℃
+00B5515E|1|SpO₂
+00B94183|1|98
+00B60029|1|Mittaa
+00B60029|1|Ei tietoja
+00B97B49|1|98%
+00B71947|1|Pidä ranneketta ranteen yläpuolella.
+00B71947|1|Kiristä rannekehihna ja yritä uudelleen
+00B71947|1|Pysy paikoillasi
+00B7965B|1|98%
+00B75A61|1|SpO₂
+00B5DA68|1|85%
+00B60029|1|Tiedot
+00B60029|1|Hylkää
+00B5515E|1|Koko päivän seuranta
+00B5515E|1|Hälytys
+00B5515E|1|Tutustu lisää
+00B5515E|1|Koko päivän seuranta
+00B71947|1|Pois
+00B71947|1|80%
+00B58828|1|Mittaa SpO₂, kun et liiku
+00B60029|1|Pidä ranneketta ranteen yläpuolella.
+00B60029|1|Pidä rannekkeesi tiukasti paikallaan.
+00B663C7|1|Tätä ominaisuutta ei ole tarkoitettu lääketieteellisiin tarkoituksiin.
+00B71947|1|SpO₂ edustaa hapen prosenttiosuutta veressäsi.
+00B71947|1|Lukemat eivät normaalisti putoa alle 95% ollessasi aktiivinen tai 90% unen aikana. Ryhdy tarvittaviin toimenpiteisiin, jos veren happipitoisuus laskee alle 90%.
+00B71947|1|Rannekkeesi tukee vaihteluväliä 75–100%.
+00B71947|1|On olemassa useita tekijöitä, jotka voivat tehdä mittauksista epäjohdonmukaisia tai epäluotettavia. Ne voivat sisältää ihon perfuusiota, pysyviä tai tilapäisiä muutoksia ihossasi, liikkeissäsi tai asennossasi unen aikana. Kaikki edellä mainitut voivat aiheuttaa väärän alhaisen veren happitasovaroituksen. Muista, että tämä ei ole lääketieteellinen laite, ja sen tuottamia tietoja ei voida käyttää diagnoosiin ja hoitoon.
+00B5515E|1|Hälytykset
+00B5515E|1|Treeni
+00B5515E|1|Kategoriat
+00B5515E|1|Lisää
+00B5515E|1|Vesiurheilu
+00B5515E|1|Allasuinti
+00B5515E|1|Avovesiuinti
+00B5515E|1|Purjehdus
+00B5515E|1|Melonta
+00B5515E|1|Vesipallo
+00B5515E|1|Vesihiihto
+00B5515E|1|Kajakointi
+00B5515E|1|Koskenlasku
+00B5515E|1|Soutu
+00B5515E|1|Moottoriveneily
+00B5515E|1|Räpyläuinti
+00B5515E|1|Sukellus
+00B5515E|1|Taiteellinen uinti
+00B5515E|1|Snorklaus
+00B5515E|1|Liitolainelautailu
+00B5515E|1|Ulkoaktiviteetit
+00B5515E|1|Ulkona juoksu
+00B5515E|1|Kävely
+00B5515E|1|Vaellus
+00B5515E|1|Pyöräily
+00B5515E|1|Retkeily
+00B5515E|1|Polkujuoksu
+00B5515E|1|Kalliokiipeily
+00B5515E|1|Rullalautailu
+00B5515E|1|Rullaluistelu
+00B5515E|1|Parkour
+00B5515E|1|Mönkijä
+00B5515E|1|Varjoliito
+00B5515E|1|Freestyle
+00B5515E|1|Juoksumatto
+00B5515E|1|Hyppynaru
+00B5515E|1|HIIT
+00B5515E|1|Jooga
+00B5515E|1|Ratapyöräily
+00B5515E|1|Ellipsilaite
+00B5515E|1|Soutulaite
+00B5515E|1|Portaikko
+00B5515E|1|Steppilaite
+00B5515E|1|Core-treeni
+00B5515E|1|Notkeusharjoittelu
+00B5515E|1|Pilates
+00B5515E|1|Voimistelu
+00B5515E|1|Venyttely
+00B5515E|1|Lihasvoimaharjoittelu
+00B5515E|1|Core-treeni
+00B5515E|1|Portaiden kiipeily
+00B5515E|1|Aerobia
+00B5515E|1|Fyysinen harjoittelu
+00B5515E|1|Seinäpallo
+00B5515E|1|Käsipaino
+00B5515E|1|Levytanko
+00B5515E|1|Painonnosto
+00B5515E|1|Maastaveto
+00B5515E|1|Burpee
+00B5515E|1|Vatsapunnerrukset
+00B5515E|1|Toiminnallinen harjoittelu
+00B5515E|1|Ylävartalo
+00B5515E|1|Alavartalo
+00B5515E|1|Vatsalihakset
+00B5515E|1|Selkä
+00B5515E|1|Tanssi
+00B5515E|1|Toritanssi
+00B5515E|1|Napatanssi
+00B5515E|1|Baletti
+00B5515E|1|Katutanssi
+00B5515E|1|Zumba
+00B5515E|1|Kansantanssi
+00B5515E|1|Jazz-tanssi
+00B5515E|1|Latinalainen tanssi
+00B5515E|1|Kamppailulajit
+00B5515E|1|Nyrkkeily
+00B5515E|1|Paini
+00B5515E|1|Kamppailulajit
+00B5515E|1|Taiji
+00B5515E|1|Muay thai
+00B5515E|1|Judo
+00B5515E|1|Taekwondo
+00B5515E|1|Karate
+00B5515E|1|Potkunyrkkeily
+00B5515E|1|Kendo
+00B5515E|1|Miekkailu
+00B5515E|1|Pallopelit
+00B5515E|1|Tennis
+00B5515E|1|Koripallo
+00B5515E|1|Jalkapallo
+00B5515E|1|Lentopallo
+00B5515E|1|Pesäpallo
+00B5515E|1|Softball
+00B5515E|1|Amerikkalainen jalkapallo
+00B5515E|1|Hockey
+00B5515E|1|Pöytätennis
+00B5515E|1|Sulkapallo
+00B5515E|1|Kriketti
+00B5515E|1|Käsipallo
+00B5515E|1|Keilailu
+00B5515E|1|Squash
+00B5515E|1|Biljardi
+00B5515E|1|Sulkapaino
+00B5515E|1|Rantajalkapallo
+00B5515E|1|Rantalentopallo
+00B5515E|1|Sepak takraw
+00B5515E|1|Talviurheilulajit
+00B5515E|1|Luistelu
+00B5515E|1|Curling
+00B5515E|1|Muu talviurheilu
+00B5515E|1|Moottorikelkka
+00B5515E|1|Jääkiekko
+00B5515E|1|Rattikelkka
+00B5515E|1|Pulkkailu
+00B5515E|1|Virkistysurheilu
+00B5515E|1|Jousiammunta
+00B5515E|1|Tikanheitto
+00B5515E|1|Ratsastus
+00B5515E|1|Köydenveto
+00B5515E|1|Hulavanne
+00B5515E|1|Leijan lennätys
+00B5515E|1|Kalastus
+00B5515E|1|Frisbee
+00B5515E|1|Muu
+00B5515E|1|Hevosurheilu
+00B5515E|1|Yleisurheilu
+00B5515E|1|Moottoriurheilu
+00B71947|1|Avoin
+00B627F1|1|%02d:%02d:%02d
+00B627F1|1|%d.%d
+00B997C9|1|km
+00B627F1|1|%d'%d"
+00B663C7|1|Kevyt
+00B663C7|1|Intensiivinen
+00B663C7|1|Aerobinen
+00B663C7|1|Anaerobinen
+00B663C7|1|VO₂ maksimi
+00B6F4A6|1|%d
+00B997C9|1|kcal
+00B997C9|1|SPM
+00B997C9|1|askel
+00B997C9|1|askel
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B997C9|1|askel
+00B997C9|1|askel
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B997C9|1|askel
+00B997C9|1|askel
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B997C9|1|askelta
+00B6F4A6|1|0
+00B663C7|1|/km
+00B997C9|1|km/h
+00B997C9|1|allasmitta
+00B997C9|1|allasmitta
+00B997C9|1|allasmitta
+00B997C9|1|allasmitta
+00B997C9|1|allasmitta
+00B997C9|1|allasmitta
+00B997C9|1|allasmittaa
+00B997C9|1|allasmittaa
+00B997C9|1|allasmittaa
+00B997C9|1|allasmittaa
+00B997C9|1|allasmitta
+00B997C9|1|allasmitta
+00B997C9|1|allasmittaa
+00B997C9|1|allasmittaa
+00B997C9|1|allasmittaa
+00B997C9|1|allasmittaa
+00B997C9|1|veto
+00B997C9|1|vetoa
+00B997C9|1|hyppy
+00B997C9|1|hyppy
+00B997C9|1|hyppy
+00B997C9|1|hyppy
+00B997C9|1|hyppyä
+00B997C9|1|hyppyä
+00B997C9|1|hyppyä
+00B997C9|1|hyppyä
+00B997C9|1|veto
+00B997C9|1|veto
+00B997C9|1|vetoa
+00B997C9|1|vetoa
+00B997C9|1|vetoa
+00B997C9|1|vetoa
+00B997C9|1|SPM
+00B73DB6|1|/km
+00B73DB6|1|km takana
+00B9A70F|1|%u'%02u''
+00B5515E|1|Stressi
+00B74B7F|1|Kohtalainen
+00B5515E|1|Tiedot
+00B71947|1|Rentoutunut
+00B71947|1|Lievä
+00B71947|1|Kohtalainen
+00B71947|1|Vakava
+00B5515E|1|Viimeiset 7 päivää
+00B8A806|1|05.12
+00B60029|1|Ei tietoja
+00B663C7|1|Kohtalainen
+00B5515E|1|Koko päivän seuranta
+00B5515E|1|Rentoutumismuistutus
+00B60029|1|Päällä
+00B5515E|1|Koko päivän seuranta
+00B5515E|1|Päällä/Pois
+00B663C7|1|Seuraa, milloin olet paikallasi
+00B663C7|1|Kehota tekemään hengitysharjoitus, kun stressitaso pysyy hereillä ollessa yli 80
+00B5515E|1|Tutustu lisää
+00B60029|1|Stressi on kehosi reaktio haasteisiin ja vaatimuksiin.
+00B60029|1|Ranneke mittaa stressitasosi, kun et ole aktiivinen.\nTasot:\nRentoutunut: 1–25\nKevyt: 25–50\nKohtalainen: 51–80\nVakava: 81–100.\nTätä ominaisuutta ei ole tarkoitettu lääketieteellisiin tarkoituksiin.
+00B60029|1|Mittaukset riippuvat alhaisesta lämpötilasta, ihon perfuusiosta ja muusta.
+00B5DA68|1|99.0
+00B60029|1|Hengitys
+00B67D1C|1|Syke
+00B67D1C|1|Hälytys
+00B67D1C|1|SpO₂
+00B67D1C|1|Asetukset
+00B67D1C|1|Sää
+00B67D1C|1|Lisää laite
+00B67D1C|1|Tilastot
+00B5515E|1|Poistetaanko rannekenäyttö?
+00B5515E|1|Tallenna muutokset pyyhkäisemällä oikealle rannekenäytössä.
+00B5515E|1|Yhteenveto
+00B5515E|1|Syke
+00B5515E|1|Tahti
+00B5515E|1|Kadenssi
+00B60029|1|Katso lisätietoja sovelluksessa
+00B5515E|1|Nopeus
+00B5515E|1|Vetotiheys
+00B5515E|1|Hyppynaru
+00B5515E|1|Taajuus
+00B5515E|1|SWOLF
+00B5515E|1|Vaellus
+00B627F1|1|2:23.1
+00B5515E|1|Vedot
+00B5515E|1|Tilastot
+00B5515E|1|Seisominen
+00B5515E|1|Liikkeessä
+00B5515E|1|Akku
+00B5515E|1|Päivämäärä
+00B5515E|1|UV
+00B60029|1|Synkronoidaan
+00B5515E|1|Ei voitu synkronoida
+00B5515E|1|Virhe
+00B58828|1|Poista rannekenäytöt ja yritä uudelleen
+00B5515E|1|Tallenna muutokset?
+00B5515E|1|Kerran
+00B71947|1|Kerran
+00B5515E|1|Ma
+00B5515E|1|Ti
+00B5515E|1|Ke
+00B5515E|1|To
+00B5515E|1|Pe
+00B5515E|1|La
+00B5515E|1|Su
+00B71947|1| 
+00B71947|1|M
+00B71947|1|T
+00B71947|1|K
+00B71947|1|T
+00B71947|1|P
+00B71947|1|L
+00B71947|1|S
+00B71947|1|Päivittäin
+00B67D1C|1|Uni
+00B67D1C|1|Sekuntikello
+00B67D1C|1|Hengitys
+00B67D1C|1|Kierrot
+00B67D1C|1|Stressi
+00B67D1C|1|Treeni
+00B58828|1|Skannaa ladataksesi
+00B67D1C|1|Yhdistä puhelimen kanssa?
+00B5515E|1|Sääntely
+00B60029|1|Seisominen
+00B5515E|1|Torku
+00B5515E|1|Hälytys on pois päältä
+00B5515E|1|Ohitettu
+00B6F4A6|1|%02lu:%02lu
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B60029|1| 
+00B86C55|1|8000
+00B75A61|1|askel
+00B75A61|1|askel
+00B75A61|1|askel
+00B75A61|1|askel
+00B75A61|1|askelta
+00B75A61|1|askelta
+00B75A61|1|askelta
+00B75A61|1|askelta
+00B86C55|1|500
+00B75A61|1|kcal
+00B75A61|1|kcal
+00B75A61|1|kcal
+00B75A61|1|kcal
+00B75A61|1|kcal
+00B75A61|1|kcal
+00B75A61|1|kcal
+00B86C55|1|30
+00B75A61|1|min
+00B75A61|1|min
+00B75A61|1|min
+00B75A61|1|min
+00B75A61|1|min
+00B75A61|1|min
+00B75A61|1|min
+00B75A61|1|min
+00B86C55|1|12
+00B75A61|1|veto
+00B75A61|1|veto
+00B75A61|1|veto
+00B75A61|1|veto
+00B75A61|1|vetoa
+00B75A61|1|vetoa
+00B75A61|1|vetoa
+00B75A61|1|vetoa
+00B71947|1|"Askeleet" näyttää päivittäisen askelmäärän.
+00B71947|1|"Kalorit" näyttää liikkumisen ja harjoittelun aikana poltettujen aktiivisten kalorien määrän.
+00B71947|1|"Liikkuminen" näyttää aikasi kohtalaisen ja voimakkaan aktiivisuuden ajalta.
+00B71947|1|"Seisominen" näyttää tunnit, jolloin nouset seisomaan ja liikut.
+00B663C7|1|km/h
+00B5515E|1|80%
+00B5515E|1|85%
+00B5515E|1|90%
+00B5515E|1|Treeni
+00B5515E|1|Kalorit
+00B5515E|1|Askeleet
+00B5515E|1|Syke
+00B5515E|1|Stressi
+00B5515E|1|Hälytys
+00B5515E|1|Sää
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B71947|1|%u km
+00B7E203|1|%u km
+00B7E203|1|%u m
+00B7E203|1|%u m
+00B7E203|1|%u m
+00B7E203|1|%u m
+00B7E203|1|%u m
+00B7E203|1|%u m
+00B7E203|1|%u m
+00B71947|1|%u min
+00B71947|1|%u min
+00B71947|1|%u kcal
+00B7E203|1|%u kcal
+00B7E203|1|%u min
+00B71947|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B71947|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B7E203|1|%u
+00B74B7F|1| 
+00B5515E|1|Vedot
+00B5515E|1|50 m
+00B7E203|1|Kevyt
+00B7E203|1|VO₂ maksimi
+00B7E203|1|Aerobinen
+00B7E203|1|Anaerobinen
+00B5515E|1|%u km
+00B5515E|1|%u km/h
+00B5515E|1|%u BPM
+00B71947|1|Valmis
+00B5A514|1|km
+00B5515E|1|%
+00B71947|1|%d.%d km
+00B7E203|1|%d'%02d"
+00B5515E|1|Focus
+00B5515E|1|Rest
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B627F1|1|%02d:%02d
+00B656A7|1|%02d:%02d
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|%dm sitten
+00B8AEAE|1|Juuri nyt
+00B8AEAE|1|Juuri nyt
+00B8AEAE|1|%02dm sitten
+00B8AEAE|1|%02dm sitten
+00B8AEAE|1|%02dm sitten
+00B8AEAE|1|%02dm sitten
+00B8AEAE|1|Mitattu: %02d:%02d
+00B60029|1|Lepo: %02d
+00B60029|1|Lepo: --
+00B5515E|1|30 min
+00B60029|1| 
+00B5DA68|1|Measure heart rate every 10 mins
+00B5DA68|1| 
+00B60029|1| 
+00B5515E|1|40 BPM
+00B5515E|1|45 BPM
+00B5515E|1|50 BPM
+00B5515E|1|110 BPM
+00B5515E|1|120 BPM
+00B5515E|1|130 BPM
+00B5515E|1|140 BPM
+00B5515E|1|150 BPM
+00B91F77|1|Aika on ohi
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d h
+00B58828|1|%d min
+00B58828|1|%d min
+00B58828|1|%d min
+00B58828|1|%d min
+00B58828|1|%d min
+00B58828|1|%d min
+00B58828|1|%d min
+00B58828|1|%d min
+00B75A61|1|Ala liikkua
+00B60029|1|Antaa mennä!
+00B5515E|1|Poistetaanko tämän päivän seisomismuistutukset käytöstä?
+00B71947|1|Pois
+00B71947|1|100 BPM
+00B71947|1|110 BPM
+00B71947|1|120 BPM
+00B71947|1|130 BPM
+00B71947|1|140 BPM
+00B71947|1|150 BPM
+00B71947|1|40 BPM
+00B71947|1|45 BPM
+00B71947|1|50 BPM
+00B71947|1|Päällä
+00B71947|1|Pois
+00B71947|1|1 min
+00B71947|1|10 min
+00B71947|1|30 min
+00B71947|1|Automaattinen
+00B9A70F|1|%d%%
+00B67D1C|1|Toiminta
+00B67D1C|1|Mi AI
+00B67D1C|1|Kortit
+00B67D1C|1|Ilmoitukset
+00B67D1C|1|Tapahtumat
+00B67D1C|1|Musiikki
+00B67D1C|1|Kamera
+00B67D1C|1|Ajastin
+00B67D1C|1|Taskulamppu
+00B67D1C|1|Etsi puhelin
+00B67D1C|1|Ohje
+00B997C9|1|"Herätä nostamalla" on käytössä
+00B997C9|1|"Herätä nostamalla" on pois käytöstä
+00B997C9|1|Älä häiritse -tila on päällä
+00B997C9|1|Älä häiritse -tila pois käytöstä
+00B5515E|1|Yhteenveto
+00B71947|1|Ei tietoja
+00B60029|1|Katso lisätietoja sovelluksessa
+00B7965B|1|--
+00B71947|1|%d
+00B71947|1|%d
+00B71947|1|%d
+00B71947|1|%d
+00B71947|1|%d
+00B71947|1|%d
+00B71947|1|%d
+00B71947|1|%d–%d BPM
+00B5DA68|1|%d-%d
+00B5DA68|1|%02d:%02d-%02d:%02d
+00B9BCF6|1|%d
+00B627F1|1|%02d:%02d:%02d
+00B627F1|1|:
+00B627F1|1|%02d:%02d.%02d
+00B8BF92|1|%02d:%02d:%02d.%02d
+00B9C4F8|1|%02d:%02d:%02d.%02d
+00B9C4F8|1|%02d:%02d.%02d
+00B58828|1|%02u-%02u %02u:%02u
+00B627F1|1|%02u:%02u:%02u
+00B8BF92|1|%lu.%02lu
+00B58828|1|km
+00B5515E|1|Tavoite
+00B7E203|1|%u%%
+00B7E203|1|Valmis
+00B8BF92|1|%lu
+00B7E203|1|Tavoite
+00B7E203|1|Aktiiviset kalorit
+00B8BF92|1|%lu'%02lu''
+00B7E203|1|Keskitahti
+00B7E203|1|Askeleet
+00B7E203|1|Keskim. BPM
+00B7E203|1|Keskim. SPM
+00B7965B|1|%u'%02u''
+00B8A806|1|%02u:%02u
+00B7965B|1|%u
+00B60029|1|Katso lisätietoja sovelluksessa
+00B60029|1|Takaisin
+00B7E203|1|Tavoite
+00B7E203|1|Valmis
+00B7E203|1|Tavoite
+00B7E203|1|Valmis
+00B7E203|1|Tavoite
+00B7E203|1|Valmis
+00B7E203|1|Tavoite
+00B7E203|1|Valmis
+00B7E203|1|Tavoite
+00B7E203|1|Valmis
+00B7E203|1|m
+00B7E203|1|m
+00B7E203|1|m
+00B7E203|1|m
+00B7E203|1|m
+00B7E203|1|m
+00B7E203|1|m
+00B7E203|1|kcal
+00B7E203|1|kcal
+00B7E203|1|kcal
+00B7E203|1|kcal
+00B7E203|1|kcal
+00B7E203|1|kcal
+00B7E203|1|kcal
+00B7E203|1|allasmitta
+00B7E203|1|hyppy
+00B7E203|1|veto
+00B7E203|1|allasmitta
+00B7E203|1|allasmitta
+00B7E203|1|allasmitta
+00B7E203|1|allasmittaa
+00B7E203|1|allasmittaa
+00B7E203|1|allasmittaa
+00B7E203|1|allasmittaa
+00B7E203|1|hyppy
+00B7E203|1|hyppy
+00B7E203|1|hyppy
+00B7E203|1|hyppyä
+00B7E203|1|hyppyä
+00B7E203|1|hyppyä
+00B7E203|1|hyppyä
+00B7E203|1|veto
+00B7E203|1|veto
+00B7E203|1|veto
+00B7E203|1|vetoa
+00B7E203|1|vetoa
+00B7E203|1|vetoa
+00B7E203|1|vetoa
+00B5DA68|1|1 min
+00B8A806|1|%u
+00B5515E|1|Ei tietoja tänään
+00B71947|1|Tänään
+00B71947|1|Huomenna
+00B71947|1|Pois
+00B60029|1|Seuraava
+00B60029|1|Ota Kuukautisten ennakointi käyttöön sovelluksessa
+00B7E203|1|Juuri nyt
+00B7E203|1|%dm sitten
+00B7E203|1|%dm sitten
+00B7E203|1|%dm sitten
+00B7E203|1|%dm sitten
+00B7E203|1|%dm sitten
+00B7E203|1|%dm sitten
+00B7E203|1|%dm sitten
+00B7E203|1|%d:%02d
+00B7E203|1|Eilen, %d:%d
+00B7E203|1|%02d.%02d %d:%02d
+00B5DA68|1|%d ilmoitus
+00B5DA68|1|%d ilmoitus
+00B5DA68|1|%d ilmoitus
+00B5DA68|1|%d ilmoitusta
+00B5DA68|1|%d ilmoitusta
+00B5DA68|1|%d ilmoitusta
+00B5DA68|1|%d ilmoitusta
+00B60029|1|Tyhjennä
+00B8A806|1|00:00
+00B8A806|1|12:00
+00B8A806|1|24:00
+00B71947|1|Koko päivä
+00B60029|1|Koko päivän seuranta on pois päältä.
+00B60029|1|Kiristä rannekehihna ja yritä uudelleen
+00B8A806|1|%02u:%02u
+00B8BF92|1|%02u:%02u-%02u:%02u
+00B5515E|1|Hälytykset
+00B71947|1|Ranneke ilmoittaa sinulle, kun se havaitsee asetetun tason alapuolella olevat lukemat. Voit tarkastella lisää tietoja sovelluksesta. Jos tunnet olosi huonoksi, hakeudu lääkärin hoitoon.
+00B60029|1|Pysy paikoillasi
+00B60029|1|50% valmis
+00B60029|1|Kalibroidaan
+00B60029|1|Pysy paikoillasi mittauksen aikana
+00B60029|1|Kiristä rannekehihna ja yritä uudelleen
+00B60029|1|Kiristä rannekehihna ja yritä uudelleen
+00B997C9|1|m
+00B60029|1|Yhdistä sovellukseen päivittääksesi sään
+00B663C7|1|Aseta sijainnit sovelluksessa
+00B85C71|1|%d
+00B5515E|1|Hetki vain
+00B71947|1|Hyvä
+00B71947|1|Kohtalainen
+00B71947|1|Kevyt saaste
+00B71947|1|Epäterveellinen
+00B71947|1|Vaarallinen
+00B71947|1|Erittäin vaarallinen
+00B5DA68|1|Hyvä
+00B5DA68|1|Kohtalainen
+00B5DA68|1|Kevyt saaste
+00B5DA68|1|Epäterveellinen
+00B5DA68|1|Vaarallinen
+00B5DA68|1|Erittäin vaarallinen
+00B58828|1|Vaihteleva tuuli
+00B58828|1|Pyörremyrsky
+00B58828|1|Pohjoistuuli
+00B58828|1|Koillistuuli
+00B58828|1|Itätuuli
+00B58828|1|Kaakkoistuuli
+00B58828|1|Etelätuuli
+00B58828|1|Lounaistuuli
+00B58828|1|Länsituuli
+00B58828|1|Luoteistuuli
+00B5515E|1|Selkeää
+00B5515E|1|Pilvinen
+00B5515E|1|Synkkä
+00B5515E|1|Sadekuurot
+00B5515E|1|Ukonilma
+00B5515E|1|Raekuuro
+00B5515E|1|Räntäsade
+00B5515E|1|Kevyt sade
+00B5515E|1|Kohtalainen sade
+00B5515E|1|Rankkasade
+00B5515E|1|Sademyrsky
+00B5515E|1|Kaatosade
+00B5515E|1|Kova sademyrsky
+00B5515E|1|Lumikuurot
+00B5515E|1|Kevyt lumisade
+00B5515E|1|Kohtalainen lumisade
+00B5515E|1|Rankka lumisade
+00B5515E|1|Lumimyrsky
+00B5515E|1|Usva
+00B5515E|1|Jäätävä sade
+00B5515E|1|Hiekkamyrsky
+00B5515E|1|Kevyestä kohtalaiseen sateeseen
+00B5515E|1|Kohtalaisesta rankkaan sateeseen
+00B5515E|1|Rankasta sateesta sademyrskyyn
+00B5515E|1|Sademyrskystä kaatosateeseen
+00B5515E|1|Kaatosateesta rankkaan sademyrskyyn
+00B5515E|1|Kevyestä kohtalaiseen lumisateeseen
+00B5515E|1|Kohtalaisesta rankkaan lumisateeseen
+00B5515E|1|Rankasta lumisateesta lumimyrskyyn
+00B5515E|1|Pölyä
+00B5515E|1|Tuulinen
+00B5515E|1|Kova hiekkamyrsky
+00B5515E|1|Sumu
+00B5515E|1|Paksu sumu
+00B5515E|1|Lievä sumu
+00B5515E|1|Kohtalainen sumu
+00B5515E|1|Voimakas sumu
+00B5515E|1|Paksu sumu
+00B5515E|1|Sumu
+00B5515E|1|Tiheä sumu
+00B5515E|1|Ei raporttia
+00B5515E|1|Sade
+00B5515E|1|Lumisade
+00B58828|1|Tänään
+00B58828|1|Ma
+00B58828|1|Ti
+00B58828|1|Ke
+00B58828|1|To
+00B58828|1|Pe
+00B58828|1|La
+00B58828|1|Su
+00B86C55|1|%d%%
+00B86C55|1|%d
+00B58828|1|UV-indeksi
+00B58828|1|Ilmankosteus
+00B94183|1|%02d:%02d
+00B9D331|1|%02d:%02d
+00B58828|1|Lepotila pois päältä klo %02d:%02d
+00B5515E|1|Epäsäännöllinen BPM vaatii 1 minuutin taajuuden. Jatka?
+00B7E203|1|Maksimi BPM
+00B7E203|1|Treeni
+00B7E203|1|Lepo
+00B7E203|1|Sarjat
+00B7E203|1|Vedot
+00B7E203|1|Hypyt
+00B7E203|1|Nopeus
+00B7E203|1|Vetotiheys
+00B7E203|1|Allasvälit
+00B7E203|1|Pääasiallinen tyyli
+00B7E203|1|Keskim. SWOLF
+00B7E203|1|Keskim. SPM
+00B8BF92|1|%02lu:%02lu:%02lu
+00B819CD|1|Rintauinti
+00B819CD|1|Sekauinti
+00B819CD|1|Freestyle
+00B819CD|1|Selkäuinti
+00B819CD|1|Perhosuinti
+00B8BF92|1|%lu.%lu
+00B71947|1|Maksimi
+00B71947|1|Maksimi
+00B90C66|1|%u
+00B5515E|1|Sarjat
+00B5515E|1|On
+00B60029|1|Herätä nostamalla sammuu, kun menet nukkumaan tai otat rannekkeen pois.
+00B9E32B|1|℃
+00B9E32B|1|℉
+00B74B7F|1|%d:%02d
+00B94183|1|%u'%02u''
+00B843A5|1|%u'%02u''
+00B60029|1|Tavoite: %u'%02u''
+00B91F77|1|%u km/h
+00B60029|1|Tavoite: %u km/h
+00B843A5|1|%u
+00B60029|1|Tavoite BPM: %d–%d
+00B5DA68|1|%d
+00B60029|1|Threshold: %d BPM
+00B843A5|1|--
+00B8BF92|1|%d℉/%d℉
+00B60029|1|Selvä
+00B6F4A6|1|%u
+00B8FB6E|1|%%
+00B67D1C|1|Akunvaraus alle %u% %. Lataa nyt.
+00B71947|1|VO₂ maksimi
+00B71947|1|Anaerobinen
+00B71947|1|Intensiivinen
+00B71947|1|Aerobinen
+00B71947|1|Kevyt
+00B8A806|1|%02lu:%02lu:%02lu
+00B5515E|1|%02lu:%02lu:%02lu
+00B74B7F|1|BPM
+00B9C4F8|1|%u
+00B819CD|1|%d℃/%d℃
+00B819CD|1|%d℉/%d℉
+00B60029|1|%d℃/%d℃
+00B60029|1|%d℉/%d℉
+00B819CD|1|℃
+00B819CD|1|℉
+00B819CD|1|-
+00B60029|1|-
+00B60029|1|Pyöräily
+00B60029|1|Soutulaite
+00B5515E|1|Yhdistä sovellukseen ja yritä uudelleen
+00B5515E|1|Aloittelija
+00B5515E|1|Kestävyys
+00B5515E|1|Intervalli
+00B5515E|1|Perusjuoksu/kävely
+00B5515E|1|Edistynyt juoksu/kävely
+00B5515E|1|Perushölkkä
+00B5515E|1|Perus
+00B5515E|1|Kehittynyt
+00B5515E|1|MIIT
+00B5515E|1|Perus
+00B5515E|1|Kehittynyt
+00B5515E|1|Perus
+00B5515E|1|Kehittynyt
+00B663C7|1|Yhdistää kävelyn ja lenkkeilyn väliajoin.
+00B663C7|1|Yhdistää kävelyn ja lenkkeilyn väliajoin.
+00B663C7|1|Matala keskitehoinen lenkki.
+00B663C7|1|Lyhyempi lenkki rasvanpolttoa ja painonpudotusta varten.
+00B663C7|1|Matala keskitehoinen, pidennetty lenkki rasvanpolttoa varten.
+00B663C7|1|Keski-korkean intensiteetin intervalliharjoittelu.
+00B663C7|1|Keskipitkä lenkki kestävyyttä varten.
+00B663C7|1|Pidempi lenkki kestävyyttä varten.
+00B663C7|1|Lyhyempi intervalliharjoittelu sydämen ja keuhkojen terveydelle.
+00B663C7|1|Pidempi intervalliharjoittelu sydämen ja keuhkojen terveydelle.
+00B5515E|1|%02u.%02u
+00B5515E|1|Nyt
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|%u minuutissa
+00B5515E|1|Myöhässä
+00B60029|1|Ma 
+00B60029|1|Ti 
+00B60029|1|Ke 
+00B60029|1|To 
+00B60029|1|Pe 
+00B60029|1|La 
+00B60029|1|Su 
+00B60029|1|%u.%u 
+00B60029|1|%02u:%02u 
+00B60029|1|Tänään 
+00B60029|1|Huomenna 
+00B94183|1|02d%:02d%
+00B73DB6|1|km edellä
+00B843A5|1|--'--"
+00B627F1|1|--'--"
+00B60029|1|%02u:%02u-
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u tunnissa
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B5515E|1|%u päivässä
+00B75A61|1|Alhainen akunvaraus
+00B663C7|1|Juoksu
+00B58828|1|%d min
+00B58828|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B67D1C|1|Valmistellaan päivitystä
+00B67D1C|1|Ei voitu päivittää.\nYritä uudelleen.
+00B9C4F8|1|%
+00B60029|1|Aika
+00B663C7|1|Rentoutunut
+00B663C7|1|Lievä
+00B663C7|1|Vakava
+00B60029|1|Koko päivän seuranta on pois päältä.
+00B60029|1|%02u:%02u ap–
+00B60029|1|%02u:%02u ip–
+00B60029|1|%02u:%02u ap
+00B60029|1|%02u:%02u ip
+00B67D1C|1|Soitan sinulle myöhemmin.
+00B67D1C|1|Nyt en voi puhua. Miten menee?
+00B67D1C|1|Nyt en voi puhua. Soita minulle myöhemmin?
+00B9E3BC|1|--
+00B627F1|1|%u%%
+00B71947|1|Tavoite
+00B627F1|1|%u
+00B67D1C|1|km
+00B67D1C|1|kcal
+00B67D1C|1|allasmitta
+00B67D1C|1|allasmitta
+00B67D1C|1|allasmitta
+00B67D1C|1|allasmittaa
+00B67D1C|1|allasmittaa
+00B67D1C|1|allasmittaa
+00B67D1C|1|allasmittaa
+00B67D1C|1|veto
+00B67D1C|1|veto
+00B67D1C|1|veto
+00B67D1C|1|vetoa
+00B67D1C|1|vetoa
+00B67D1C|1|vetoa
+00B67D1C|1|vetoa
+00B67D1C|1|hyppy
+00B67D1C|1|hyppy
+00B67D1C|1|hyppy
+00B67D1C|1|hyppyä
+00B67D1C|1|hyppyä
+00B67D1C|1|hyppyä
+00B67D1C|1|hyppyä
+00B8E150|1|Uusi ennätys!
+00B627F1|1|%02u:%02u:%02u
+00B9C4F8|1|%lu.%lu.%lu
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %lu.%lu km
+00B71947|1|Tavoite: %02u:%02u:%02u
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u kcal
+00B71947|1|Tavoite: %u allasmitta
+00B71947|1|Tavoite: %u allasmitta
+00B71947|1|Tavoite: %u allasmitta
+00B71947|1|Tavoite: %u allasmitta
+00B71947|1|Tavoite: %u allasmittaa
+00B71947|1|Tavoite: %u allasmittaa
+00B71947|1|Tavoite: %u allasmittaa
+00B71947|1|Tavoite: %u allasmittaa
+00B71947|1|Tavoite: %u veto
+00B71947|1|Tavoite: %u veto
+00B71947|1|Tavoite: %u veto
+00B71947|1|Tavoite: %u vetoa
+00B71947|1|Tavoite: %u vetoa
+00B71947|1|Tavoite: %u vetoa
+00B71947|1|Tavoite: %u vetoa
+00B71947|1|Tavoite: %u hyppy
+00B71947|1|Tavoite: %u hyppy
+00B71947|1|Tavoite: %u hyppy
+00B71947|1|Tavoite: %u hyppyä
+00B71947|1|Tavoite: %u hyppyä
+00B71947|1|Tavoite: %u hyppyä
+00B71947|1|Tavoite: %u hyppyä
+00B60029|1|Ranneke ilmoittaa sinulle, kun sykkeesi ylittää asetetun BPM:n. Sykkeesi kohoaa stressissä.
+00B60029|1|Ranneke ilmoittaa sinulle, kun sykkeesi laskee alle asetetun BPM:n. Sykkeesi hidastuu unen aikana.\nJos tunnet olosi huonoksi, hakeudu lääkärin hoitoon.
+00B5DA68|1|Korkea syke
+00B5DA68|1|Matala syke
+00B5515E|1|Tutustu lisää
+00B5DA68|1|Hölkkä
+00B5DA68|1|Juoksu
+00B5DA68|1|Pikajuoksu
+00B627F1|1|%d
+00B6C5F5|1|Hölkkä
+00B6C5F5|1|Juoksu
+00B6C5F5|1|Pikajuoksu
+00B663C7|1|Juoksu
+00B663C7|1|Pikajuoksu
+00B627F1|1|%02d
+00B843A5|1|%02d
+00B843A5|1|:
+00B60029|1|Katso lisätietoja sovelluksessa
+00B5515E|1|Teit sen!
+00B60029|1|Valmis
+00B60029|1|Jatka (%lus)
+00B5515E|1|Treeni
+00B71947|1|Aika
+00B71947|1|Syke
+00B9A70F|1|%lu.%02lu
+00B9E3FE|1|Automaattinen
+00B5A514|1|Automaattinen
+00B5515E|1|Asetettu onnistuneesti
+00B60029|1|Selvä
+00B5515E|1|Ylikuumeneminen. Sammutetaan.
+00B7E203|1|keskim.
+00B5DA68|1|Alhainen akunvaraus
+00B60029|1|ap.
+00B60029|1|ip.
+00B8BF92|1|%lu:%02lu
+00B7E203|1|%u.%02u km
+00B7E203|1|%u.%02u km
+00B7E203|1|%u.%02u km
+00B60029|1|Älä häiritse käynnistyy, kun menet nukkumaan tai otat rannekkeen pois.
+00B58828|1|Ilmoita, kun SpO₂-lukemat ovat alle asetetun tason valveillaoloaikana
+00B8AEAE|1|%d:%02d ap.
+00B8AEAE|1|%d:%02d ip.
+00B8AEAE|1|Eilen, %d:%02d ap.
+00B8AEAE|1|Eilen, %d:%02d ip.
+00B8AEAE|1|%02d.%02d %d:%02d ap.
+00B8AEAE|1|%02d.%02d %d:%02d ip.
+00B67D1C|1|Juoksu
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u kcal
+00B663C7|1|Tavoite: %u askel
+00B663C7|1|Tavoite: %u askel
+00B663C7|1|Tavoite: %u askel
+00B663C7|1|Tavoite: %u askelta
+00B663C7|1|Tavoite: %u askelta
+00B663C7|1|Tavoite: %u askelta
+00B663C7|1|Tavoite: %u askelta
+00B663C7|1|Tavoite: %u veto
+00B663C7|1|Tavoite: %u veto
+00B663C7|1|Tavoite: %u veto
+00B663C7|1|Tavoite: %u vetoa
+00B663C7|1|Tavoite: %u vetoa
+00B663C7|1|Tavoite: %u vetoa
+00B663C7|1|Tavoite: %u vetoa
+00B663C7|1|Tavoite: %u min
+00B663C7|1|Tavoite: %u min
+00B663C7|1|Tavoite: %u min
+00B663C7|1|Tavoite: %u min
+00B663C7|1|Tavoite: %u min
+00B663C7|1|Tavoite: %u min
+00B663C7|1|Tavoite: %u min
+00B7FC06|1|0123456789•
+00B7E203|1|Tänään
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Kuukautiset %u pv kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B5515E|1|Hedelmällinen kausi %u päivän kuluttua
+00B663C7|1|Skannaa nähdäksesi ohje
+00B7E203|1|Eilen
+00B7E203|1|2 pv sitten
+00B60029|1|Kiristä rannekehihna
+00B5515E|1|Tutustu lisää
+00B819CD|1|Tuntematon
+00B75A61|1|Perusjuoksu/kävely
+00B75A61|1|Edistynyt juoksu/kävely
+00B75A61|1|Perushölkkä
+00B75A61|1|Perus
+00B75A61|1|Edistynyt
+00B75A61|1|MIIT
+00B75A61|1|Perus
+00B75A61|1|Edistynyt
+00B75A61|1|Perus
+00B75A61|1|Edistynyt
+00B75A61|1|Vakava
+00B60029|1|Hengitys
+00B60029|1|Kävely
+00B5515E|1|Saako rannekkeesi avata puhelimen lukituksen?
+00B5515E|1|Sallittu
+00B5515E|1|Ei voitu sallia
+00B5515E|1|Ohje
+00B5515E|1|Sääntely
+00B5DA68|1|Malli
+00B5DA68|1|CMIIT ID
+00B73DB6|1|Tammi
+00B73DB6|1|Helmi
+00B73DB6|1|Maalis
+00B73DB6|1|Huhti
+00B73DB6|1|Touko
+00B73DB6|1|Kesä
+00B73DB6|1|Heinä
+00B73DB6|1|Elo
+00B73DB6|1|Syys
+00B73DB6|1|Loka
+00B73DB6|1|Marras
+00B73DB6|1|Joulu
+00B71947|1|Kuukautiset 1 pv kuluttua
+00B71947|1|Kuukautiset 2 pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Kuukautiset %u pv kuluttua
+00B71947|1|Ovulaatio 1 pv kuluttua
+00B71947|1|Ovulaatio 2 pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B71947|1|Ovulaatio %u pv kuluttua
+00B5515E|1|Päällä/Pois
+00B5515E|1|Päällä/Pois
+00B75A61|1|Vastaamaton puhelu
+00B60029|1|Selvä
+00B60029|1|Anna sovelluksen toimia taustalla
+00B60029|1|Ota Amazon Alexa käyttöön sovelluksessa
+00B60029|1|Kirjaudu sisään Amazon-tilillesi sovelluksessa
+00B60029|1|Et voi toistaa videota tai ääntä rannekkeessasi
+00B60029|1|Yhdistetään…
+00B60029|1|Kuunnellaan…
+00B60029|1|Mietitään…
+00B60029|1|Set a timer for 2 minutes
+00B60029|1|What's the weather?
+00B58828|1|%02d:%02d–%02d:%02d
+00B58828|1|%02d:%02d-%02d:%02d
+00B74B7F|1|Rentoutunut
+00B74B7F|1|Lievä
+00B74B7F|1|Vakava
+00B75A61|1|Kohtalainen
+00B5515E|1|Päivittäin
+00B5515E|1|Ei voitu yhdistää
+00B5515E|1|Verkkovirhe
+00B5515E|1|Asennus vaaditaan
+00B5515E|1|Kirjaudu sisään
+00B8AEAE|1|Vedot
+00B60029|1|Keskim.
+00B74B7F|1|SPM
+00B74B7F|1|km/h
+00B74B7F|1|JPM
+00B5515E|1|Tutustu lisää
+00B60029|1|Akku vähissä. Taskulamppu on pois päältä.
+00B60029|1|Sulje
+00B7965B|1|%.1f
+00B90C66|1|%.1f
+00B7965B|1|%u:%02u'%02u"
+00B90C66|1|%u:%02u'%02u"
+00B8BF92|1|%u:%02u'%02u"
+00B663C7|1|Toistetaan ääntä
+00B5DA68|1|PIN-koodit eivät täsmää
+00B5DA68|1|Syötä PIN-koodi
+00B5DA68|1|Uusi PIN-koodi
+00B60029|1|Ei voitu yhdistää
+00B60029|1|Verkkovirhe
+00B60029|1|Asennus vaaditaan
+00B60029|1|Kirjaudu sisään
+00B60029|1|Ei saatavilla
+00B7FC06|1|Uusi PIN-koodi
+00B7FC06|1|Vahvista PIN-koodi
+00B7FC06|1|   PIN-koodit eivät täsmää  
+00B7FC06|1|Syötä PIN-koodi
+00B5A514|1|%d
+00B9E3FE|1|%d
+00B71947|1|%dh %dm
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d h
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B71947|1|%d min
+00B67D1C|1|%d'%02d"
+00B7E203|1|%02u/%02u
+00B7E203|1|%02u:%02u
+00B819CD|1|--℃/--℃
+00B819CD|1|--℉/--℉
+00B60029|1|--℃/--℃
+00B60029|1|--℉/--℉
+00B71947|1|Tavoite saavutettu
+00B71947|1|Tavoite saavutettu
+00B71947|1|Liikkumistavoite saavutettu
+00B71947|1|Seisomistavoite saavutettu
+00B71947|1|Askeltavoite saavutettu
+00B71947|1|Kaloritavoite saavutettu
+00B71947|1|Tavoite saavutettu
+00B71947|1|Tavoite saavutettu
+00B71947|1|Kaikki tavoitteet saavutettu
+00B71947|1|Niin sitä pitää
+00B71947|1|Tavoitteet saavutettu
+00B71947|1|Saavutetut tavoitteet
+00B74B7F|1|km/h
+00B74B7F|1|/km
+00B5515E|1|ap.
+00B5515E|1|ip.
+00B5515E|1|Harjoitusmatka liian lyhyt tallennettavaksi.
+00B5DA68|1|(Ei otsikkoa)
+00B71947|1|Unohtuiko PIN-koodi?
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen %d sekunnin kuluttua
+00B67D1C|1|Yritä uudelleen 5 minuutin kuluttua
+00B67D1C|1|Yritä uudelleen 10 minuutin kuluttua
+00B67D1C|1|Palauta PIN-koodi sovelluksessa
+00B71947|1|Selvä
+00B7FC06|1|Avaa lukitus antamalla PIN-koodi
+00B71947|1|%d ilmoitus
+00B71947|1|%d ilmoitus
+00B71947|1|%d ilmoitus
+00B71947|1|%d ilmoitusta
+00B71947|1|%d ilmoitusta
+00B71947|1|%d ilmoitusta
+00B71947|1|%d ilmoitusta
+00BA0DA2|1|--:--
+00B5515E|1|Alexa
+00B67D1C|1|Ei saatavilla
+00B71947|1|Amazon Alexa ei ole käytettävissä tilisi alueella
+00B71947|1|Tarkista verkkoyhteys
+00B5515E|1|Mitä olitkaan sanomassa?
+00B71947|1|Aloita sanomalla
+00B663C7|1|Ma
+00B663C7|1|Ti
+00B663C7|1|Ke
+00B663C7|1|To
+00B663C7|1|Pe
+00B663C7|1|La
+00B663C7|1|Su
+00B7E203|1|%u km/h
+00B5515E|1|Liitetään
+00B67D1C|1|Ei voitu liittää
+00B7FC06|1|Avaa lukitus antamalla PIN-koodi
+00B7FC06|1|Avaa lukitus antamalla PIN-koodi
+00B8AEAE|1|%d℃/%d℃
+00B8AEAE|1|%d℉/%d℉
+00B71947|1|%d
+00B9A70F|1|%02d:%02d.%02d
+00B67D1C|1|m
+00B71947|1|Yhdistä rannekkeesi sovelluksella
+00B8AEAE|1|-
+00B60029|1|Katso lisätietoja sovelluksessa
+00B5515E|1|Contact customer support to get your device repaired
+00B58828|1|Seuraa sykettäsi vuorokauden ympäri
+00B67D1C|1|PIN-koodi määritetty
+00B58828|1|Saa muistutuksia juoksun, kävelyn tai soutuharjoituksen aloittamisesta ja lopettamisesta.
+00B5515E|1|Ladataan
+00B73DB6|1|.
+00B74B7F|1|.
+00B8A806|1|.
+00BA0DA2|1|.
+00B7E203|1|.
+00B8AEAE|1|.
+00BA0E1D|1|.
+00BA0E41|1|.
+00B58828|1|.
+00B663C7|1|.
+00BA0E6C|1|.
+00B9BCF6|1|.
+00B71947|1|.
+00B60029|1|.
+00B90C66|1|.
+00B9E32B|1|.
+00B9E3BC|1|.
+00B997C9|1|.
+00BA0E92|1|.
+00B9172C|1|.
+00B7FC06|1|.
+00B5DA68|1|.
+00BA0EBD|1|.
+00BA0EE8|1|.
+00B67D1C|1|.
+00B5515E|1|.
+00B9C4F8|1|.
+00B8FB6E|1|.
+00BA0F16|1|.
+00BA0F41|1|.
+00B656A7|1|.
+00BA0F65|1|.
+00B8E150|1|.
+00B819CD|1|.
+00B9D331|1|.
+00B85C71|1|.
+00BA0F9D|1|.
+00B75A61|1|.
+00B9A70F|1|.
+00B86C55|1|.
+00BA18DB|1|.
+00B91F77|1|.
+00BA190F|1|.
+00B843A5|1|.
+00B8EF61|1|.
+00B9E3FE|1|.
+00B97B49|1|.
+00B8BF92|1|.
+00BA303B|1|.
+00B5A514|1|.
+00B7965B|1|.
+00B6F4A6|1|.
+00B5515E|1|h
+00B5515E|1|m
+00B60029|1|Älä näytä tänään
+00B67D1C|1|Ei saatavilla
+00B71947|1|Amazon Alexa ei ole käytettävissä tilisi alueella
+00B60029|1|Soutulaite
+00B60029|1|Ellipsilaite
+00B60029|1|Hyppynaru
+00B75A61|1|Hyvin tehty
+00B71947|1| 
+00B71947|1| 
+00B71947|1|Tavoite
+00B71947|1|Jäljellä
+00B71947|1|Tavoite
+00B71947|1|Jäljellä
+00B71947|1|Tavoiteallasvälit
+00B71947|1|Jäljellä
+00B71947|1|Tavoitehypyt
+00B71947|1|Jäljellä
+00B5515E|1|Aika
+00B5515E|1|Etäisyys
+00B5515E|1|Allasvälit
+00B5515E|1|Vedot
+00B5515E|1|Hypyt
+00B74B7F|1| 
+00B7E203|1|%d:%02d
+00B7E203|1|%d m
+00B7E203|1|%dm %02ds
+00B5515E|1|Sovellukset
+00B5DA68|1|Fitness
+00B5DA68|1|Perus
+00B5DA68|1|Sää
+00B5DA68|1|Työkalut
+00B5515E|1|Sekuntikello
+00B5515E|1|Ajastin
+00B5515E|1|Kamera
+00B5515E|1|Kortit
+00B67D1C|1|Harjoitusaika liian lyhyt tallennettavaksi.
+00BA3073|1|Sekuntikello
+00BA3073|1|Ajastin
+00B9E3FE|1|%d℃
+00B9E3FE|1|%d℉
+00B9E3FE|1|-
+00B9E3FE|1|--℃
+00B9E3FE|1|--℉
+00B60029|1|Hetki vain
+00B819CD|1|Hengitys
+00B9E3FE|1|--
+00B5515E|1|Automaattinen
+00B5515E|1|Mukautettu
+00B9E3FE|1|%d%%
+00B60029|1|Hetki vain
+00B60029|1|Ei toisteta
+00B60029|1|Yhteys katkaistu
+00B73DB6|1|Pyyhkäise ylöspäin nähdäksesi viivakoodin
+00B73DB6|1|Pyyhkäise ylös nähdäksesi QR-koodi
+00BA3073|1|Soutulaite
+00BA3073|1|Kävely
+00BA3073|1|HIIT
+00BA3073|1|Pyöräily
+00BA3073|1|Ratapyöräily
+00BA3073|1|Hyppynaru
+00BA3073|1|Retkeily
+00BA3073|1|Vaellus
+00BA3073|1|Ellipsilaite
+00BA3073|1|Ulkona
+00BA3073|1|Allasuinti
+00BA3073|1|Juoksumatto
+00BA3073|1|Polkujuoksu
+00BA3073|1|Freestyle
+00BA190F|1|%lu
+00B97B49|1|%lu
+00B60029|1|Ei tietoja
+00B9E3FE|1|--
+00B60029|1|m
+00B5515E|1|SpO₂
+00B71947|1|Saavutit tavoitteesi eilen. Jatka samaan malliin tänään!
+00B71947|1|Saavutit 2/3 tavoitetta eilen. Sinä pystyt siihen!
+00B71947|1|Et saavuttanut tavoitteitasi eilen. Ota tästä päivästä kaikki irti!
+00B71947|1|Tavoitteesi ovat ulottuvillasi – tänään on uusi päivä!
+00B71947|1|Olet vain 1000 askeleen päässä tavoitteestasi.
+00B71947|1|Olet vain 50 kcal päässä tavoitteestasi.
+00B71947|1|Vielä on aikaa saavuttaa tämän päivän tavoite, jatka samaan malliin!
+00B71947|1|Nouse seisomaan vielä kahdesti tänään saavuttaaksesi tavoitteesi.
+00B71947|1|Nouse ylös vielä kerran tänään saavuttaaksesi tavoitteesi.
+00B71947|1|Saavutit tavoitteesi eilen. Jatka samaan malliin tänään!
+00B71947|1|Saavutit 2/3 tavoitetta eilen. Sinä pystyt siihen!
+00B71947|1|Et saavuttanut tavoitteitasi eilen. Ota tästä päivästä kaikki irti!
+00B71947|1|Tavoitteesi ovat ulottuvillasi – tänään on uusi päivä!
+00B71947|1|Olet vain 1000 askeleen päässä tavoitteestasi.
+00B71947|1|Olet vain 50 kcal päässä tavoitteestasi.
+00B71947|1|Olet melkein saavuttanut tavoitteesi, lopeta vahvasti!
+00B71947|1|Nouse seisomaan vielä kahdesti tänään saavuttaaksesi tavoitteesi.
+00B71947|1|Nouse ylös vielä kerran tänään saavuttaaksesi tavoitteesi.
+00BA0F9D|1|Tavoite saavutettu!
+00B67D1C|1|Sinä pystyt siihen!
+00B67D1C|1|Tilastot
+00B7E203|1|Mukautettu
+00B67D1C|1|Ei voitu liittää
+00B58828|1|Yritä uudelleen
+00B71947|1|Liitä
+00B67D1C|1|Vahvista puhelimessasi
+00B67D1C|1|Liitetään...
+00B67D1C|1|Liitetty
+00B58828|1|Skannaa ladataksesi sovellus
+00B58828|1|Vahvista puhelimessasi
+00BA4C43|1|繁體中文
+00B67D1C|1|English
+00B67D1C|1|Deutsch
+00BA554A|1|한국어
+00BA5B17|1|עברית
+00BA5EE7|1|ไทย
+00BA611B|1|日本語
+00BA674E|1|العربية
+00B67D1C|1|Italiano
+00B67D1C|1|Français
+00B67D1C|1|Español
+00B67D1C|1|Polski
+00B67D1C|1|Українська
+00B67D1C|1|Čeština
+00B67D1C|1|Русский
+00B67D1C|1|Nederlands
+00B67D1C|1|Português PT
+00B67D1C|1|Türkçe
+00B67D1C|1|Română
+00B67D1C|1|Eλληνικά
+00B67D1C|1|Português BR
+00B67D1C|1|Indonesia
+00B67D1C|1|Tiếng Việt
+00B67D1C|1|Norsk bokmål
+00B67D1C|1|Suomi
+00B67D1C|1|Svenska
+00B67D1C|1|Dansk
+00B7E203|1|Pois
+00B7E203|1|%d sekunti
+00B7E203|1|%d sekunti
+00B7E203|1|%d sekunti
+00B7E203|1|%d sekuntia
+00B7E203|1|%d sekuntia
+00B7E203|1|%d sekuntia
+00B7E203|1|%d sekuntia
+00B60029|1|%u/%u/%u 
+00B5DA68|1|Xiaomi Smart Band 7 Pro
+00B60029|1|OK
+00B7FC06|1|If the number of words is too long, please check it on the APP side
+00B5515E|1|Lumilautailu
+00B5515E|1|Hiihto
+00B75A61|1|Lumilautailu
+00B75A61|1|Hiihto
+00B58828|1|Mukautettu
+00B5515E|1|Syncing
+00B67D1C|1|Preparing update
+00B7E203|1|VO₂ maksimi
+00B58828|1|Korkea
