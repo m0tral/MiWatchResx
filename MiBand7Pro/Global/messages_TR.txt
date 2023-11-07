@@ -1,0 +1,2071 @@
+008DE82D|1|Ayarlar
+008DE82D|1|Bileklik ekranları
+008DE82D|1|Ekran
+008DE82D|1|Titreşim
+008E27B7|1|Varsayılan
+008E27B7|1|Güçlü
+008DE82D|1|Otomatik algılama
+008E27B7|1|Kapalı
+008E27B7|1|Açık
+008DE82D|1|Rahatsız Etme Modu
+008E27B7|1|Kapalı
+008E27B7|1|Akıllı
+008E27B7|1|Tüm gün
+008DE82D|1|Uygulama düzeni
+008E27B7|1|Simge modu
+008E27B7|1|Liste modu
+008DE82D|1|PIN
+008DE82D|1|Sistem
+008DE82D|1|Bileklik hakkında
+008DE82D|1|Parlaklık
+008DE82D|1|Her zaman açık
+008DE82D|1|Otomatik kilitleme
+008DE82D|1|Uyutmak için kapat
+008DE82D|1|Uyandırmak için kaldır
+008E27B7|1|Otomatik
+008E4B3E|1|Otomatik
+008DE82D|1|Kapalı
+008DE82D|1|Akıllı
+008DE82D|1|Zamanlanmış
+008DE82D|1|Tüm gün
+008DE82D|1|Daha fazla bilgi edin
+008E85A7|1|Her zaman açık
+008E85A7|1|Akıllı
+008EAF3A|1|Ekran kilitli olsa dahi saat görüntülenecektir.
+008EAF3A|1|Uyuduğunuzda veya bilekliğinizi çıkardığınızda ''Her zaman açık'' özelliği kapatılacaktır.
+008DE82D|1|Bu, pil ömrünü etkiler. Devam et?
+008DE82D|1|Başlangıç
+008DE82D|1|Bitiş
+008DE82D|1|Durum
+008EDEC0|1|-%d
+008F0D76|1|%d
+008DE82D|1|Hassasiyet
+008E27B7|1|Akıllı
+008E4B3E|1|Yüksek
+008E4B3E|1|Varsayılan
+008DE82D|1|Bu, pil ömrünü etkiler. Devam et?
+008F1A96|1|sn.
+008F1A96|1|dk.
+008DE82D|1|Otomatik algıla
+008DE82D|1|Egzersiz algılama
+008EAF3A|1|Anladım
+008EAF3A|1|Anladım
+008E27B7|1|İzleme sıklığını ayarlamak için Düzensiz BPM özelliğini kapatın.
+008F0D76|1|%d:%02d
+008F3911|1|Bu, pil ömrünü etkiler. Devam et?
+008DE82D|1|Kapalı
+008DE82D|1|Akıllı
+008EAF3A|1|Uyuduğunuzda veya bilekliğinizi çıkardığınızda ''Her zaman açık'' özelliği kapatılacaktır.
+008DE82D|1|Simge modu
+008DE82D|1|Liste modu
+008DE82D|1|Sistem
+008DE82D|1|Yeniden başlat
+008DE82D|1|Kapat
+008DE82D|1|Sıfırla
+008DE82D|1|Şimdi yeniden başlat?
+008DE82D|1|Şimdi kapat?
+008F3911|1|Tüm verileri sil?
+008E85A7|1|İsim
+008E85A7|1|Model
+008E85A7|1|MAC adresi
+008E85A7|1|Sürüm No.
+008E85A7|1|Seri No.
+008E85A7|1|Düzenleyici
+008DE82D|1|Titreşim
+008F84F7|1|Güçlü
+008E4B3E|1|Varsayılan
+008E4B3E|1|Güçlü
+008FB4CF|1|%d
+008E27B7|1|%d/%d
+008DE82D|1|Isınma
+008EAF3A|1|Bitti
+008EDEC0|1|%2d:%2d:%2d
+008DE82D|1|Antrenman
+008EDEC0|1|%d
+008FD970|1|Hedef kulaçlar
+008FD970|1|Kalan
+008EAF3A|1|Atla
+008DE82D|1|Dinlenme
+008FD970|1|Dinlenme
+008FD970|1|Kalan
+008DE82D|1|Soğuma
+008EAF3A|1|Bitir
+008DE82D|1|Koşu
+008DE82D|1|Yağ yakma
+008DE82D|1|İleri
+008FD970|1|Tanıtım
+008FD970|1|Egzersiz planı
+008F1A96|1|Yürüyüş
+008F1A96|1|Temel koşu
+008EAF3A|1|Başlat
+008DE82D|1|Son kullanılanlar
+008F84F7|1|Yürüyüş
+008E85A7|1|Hedef BPM
+008EAF3A|1|%d~%dbpm
+008E85A7|1|Yürüyüş
+008EDEC0|1|%d:%02d
+008FD970|1|Zamanlayıcı
+009004A7|1|BPM
+008DE82D|1|Görünüşe göre egzersiz yapıyorsunuz
+008EAF3A|1|Dış mekan
+008EAF3A|1|Koşu bandı
+008EAF3A|1|Yok say (%d sn.)
+008EAF3A|1|km
+008EAF3A|1|Duraklat
+008EAF3A|1|Devam et
+008F3911|1|Egzersiz mesafesi kaydetmek için çok kısa. Bitir?
+008F3911|1|Egzersiz süresi kaydetmek için çok kısa. Bitir?
+008EAF3A|1|Devam et
+008EAF3A|1|Bitir
+008DE82D|1|Kalibrasyon
+008EDEC0|1|.
+009013A1|1|km
+008F3911|1|Başladığınızda ekran kilitlenir
+008DE82D|1|Nefes
+009020FE|1|Nefes
+008DE82D|1|Süre
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+00906BB8|1|%d
+00908FB6|1|%d
+009020FE|1|Rahatlayın
+008EAF3A|1|Nefesinize odaklanın
+009020FE|1|Hadi
+008EAF3A|1|Baloncuğu takip edin
+009020FE|1|Nefes al
+009020FE|1|Nefes ver
+009020FE|1|Aferin
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008EAF3A|1|Oturum: %d dk.
+008DE82D|1|Sonuçlar
+008EAF3A|1|Anlık nabız
+00906BB8|1|89
+009013A1|1|BPM
+008EAF3A|1|Başlangıç nabzı
+008EAF3A|1|Oturum
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+009013A1|1|dk.
+008DE82D|1|Ayarlar
+008DE82D|1|Hedef
+008DE82D|1|Aralık
+008DE82D|1|Uyarılar
+008DE82D|1|Havuz uzunluğu
+008DE82D|1|Otomatik duraklat
+008FD970|1|Açık
+0090B760|1|1.5 km
+008DE82D|1|Açık
+008DE82D|1|Mesafe
+008DE82D|1|Zaman
+008DE82D|1|Kalori
+008DE82D|1|Atlama
+008DE82D|1|Uzunluk
+008FD970|1|5 km
+008DE82D|1|Aralık kapatılacaktır. Devam et?
+008DE82D|1|Egzersiz hedefi kaldırılacaktır. Devam et?
+008DE82D|1|Mesafe
+008DE82D|1|Süre
+008DE82D|1|Kalori
+008DE82D|1|Atlama
+008DE82D|1|Uzunluk
+009013A1|1|dk.
+009013A1|1|kal
+009013A1|1| 
+009013A1|1| 
+008DE82D|1|Setler
+008DE82D|1|Dinlenme
+009013A1|1|sn.
+009013A1|1| 
+008DE82D|1|Mesafe
+008DE82D|1|Tempo
+008DE82D|1|Hız
+008DE82D|1|Nabız bölgesi
+008DE82D|1|Yüksek nabız
+008EAF3A|1|Tümünü kapat
+0090B760|1|Kapalı
+0090B760|1|Yoğun
+008DE82D|1|Koşucu
+008EDEC0|1|5'00"
+008FB4CF|1|4'50"
+008DE82D|1|%d km/sa.
+009013A1|1|km/sa.
+008DE82D|1|Kapalı
+008DE82D|1|Hafif
+008DE82D|1|Yoğun
+008DE82D|1|Aerobik
+008DE82D|1|Anaerobik
+008DE82D|1|VO₂ maks.
+0090B760|1|%u–%u BPM
+008DE82D|1|Yüksek nabız
+009013A1|1|BPM
+008DE82D|1|25 m
+008DE82D|1|Özel
+008DE82D|1|Özel
+009013A1|1|m
+008DE82D|1|PIN ayarla
+0090D4EB|1|PIN kodunu girin
+0090D4EB|1|PIN'i onayla
+0090D4EB|1|Yanlış
+008DE82D|1|Tüm verileri sil?
+008DE82D|1|PIN kodunu devre dışı bırak
+008DE82D|1|PIN kodunu değiştir
+008DE82D|1|PIN değiştirildi
+008DE82D|1|PIN kapatıldı
+008E27B7|1|Çıkardığınızda bilekliğiniz otomatik kilitlenecektir.
+0090F1A1|1|Hızlan
+0090F1A1|1|Devam et
+0090F1A1|1|Yavaşla
+00911CB0|1|%u'%02u''
+009020FE|1|Yüksek nabız
+008EAF3A|1|Kalori
+0091357C|1|345
+008EAF3A|1|Adım
+008EAF3A|1|Hareket
+00914560|1|323
+008DE82D|1|Adım
+009013A1|1| 
+008DE82D|1|Ayakta durma
+008DE82D|1|Hareket
+008DE82D|1|Hatırlatıcılar
+008E85A7|1|Adım
+008E85A7|1|Kalori
+0090D4EB|1|Ayakta durma
+0090D4EB|1|Hareket
+008DE82D|1|Uyku
+00915803|1|10
+0090F1A1|1|sa.
+0090F1A1|1|dk.
+008EAF3A|1|Hedef:
+00918111|1|24:33
+008EAF3A|1|Veri yok
+008E85A7|1|Uyku
+008EAF3A|1|1. REM uykusunu takip etmek için Gelişmiş izlemeyi açın.\n2. Bileklik kordonunu sıkın.\n3. Nabız ve SpO₂ okumaları hareketler, uyku kalitesi ve daha fazlasına dayanır.
+009020FE|1|sa.
+009020FE|1|dk.
+008EAF3A|1|Veri yok
+008DE82D|1|Gelişmiş izleme
+008DE82D|1|Nefes puanı
+008DE82D|1|Nefes puanı
+008E27B7|1|REM uykusunu takip edin
+008DE82D|1|Nefes puanı
+008E27B7|1|Gece nefesinizi izleyin
+008DE82D|1|Uyku
+008FD970|1|Ort. BPM
+008DE82D|1| 
+008FD970|1|Ort. SpO₂
+008DE82D|1|Kısa uyku
+008DE82D|1|Nabız
+00918111|1|126
+009187B9|1|%d dk. önce
+009187B9|1|%d dk. önce
+009187B9|1|%d dk. önce
+009187B9|1|%d dk. önce
+009187B9|1|%d dk. önce
+009187B9|1|%d dk. önce
+009187B9|1|%d dk. önce
+008DE82D|1|Yüksek nabız
+008DE82D|1|Düşük nabız
+008DE82D|1|Düzensiz BPM
+008DE82D|1|Nabız bölgesi
+008FD970|1|VO₂ maks.
+008FD970|1|VO₂ maks.
+008FD970|1|Anaerobik
+008FD970|1|Yoğun
+008FD970|1|Hafif
+008FD970|1|Relaxed
+008FD970|1|Relaxed
+008DE82D|1|%02d:%02d
+008EAF3A|1|Ölçülüyor
+009199FA|1|144-224
+009187B9|1|BPM
+009199FA|1|12: 24-12: 25
+008EAF3A|1|Tekrar dene
+008EAF3A|1|Ölç
+008E85A7|1|Nabız
+008EAF3A|1|Nabız, dakikalık kalp atışı sayısıdır (BPM).\nTipik olarak, dinlenme nabzı 40 ila 100 BPM aralığındadır. Ancak yaş, cinsiyet ve diğer faktörlere göre değişir.\nBilekliğiniz, 30–220 BPM aralığını destekler.
+008DE82D|1|Daha fazla bilgi edin
+008EAF3A|1|Bileklik kordonunu sıkın ve tekrar deneyin
+008DE82D|1|İpuçları
+008EAF3A|1|Bilekliğinizi bilek kemiğinin yukarısına takın.
+008EAF3A|1|Bilekliğinizi sıkı ve sabit tutun.
+008EAF3A|1|Ölçümler düşük sıcaklığa, cilt perfüzyonuna ve daha fazlasına bağlıdır.
+008F1A96|1|Bu özellik tıbbi amaçlı değildir.
+008EAF3A|1|Devamlı izleme kapalı.
+008EAF3A|1|Aç
+008DE82D|1|Devamlı izleme
+008DE82D|1|Düzensiz BPM
+008DE82D|1|Açık/Kapalı
+008DE82D|1|Yüksek nabız
+008DE82D|1|Düşük nabız
+008E27B7|1|İzleme sıklığını ayarlamak için Düzensiz BPM özelliğini kapatın.
+008DE82D|1|1 dk.
+008DE82D|1|10 dk.
+008DE82D|1|Otomatik
+008DE82D|1|İpuçları
+008EAF3A|1|Measure heart rate every 10 mins
+008E85A7|1|Otomatik
+008EAF3A|1|Egzersiz sırasında izleme sıklığını arttır
+008DE82D|1|Düzensiz BPM
+008E27B7|1|Düzensiz kalp atışı uyarıları alın
+008DE82D|1|Bu, pil ömrünü etkiler. Devam et?
+008DE82D|1|100 BPM
+009020FE|1|Düşük nabız
+008E85A7|1|12: 30-12: 40
+008EAF3A|1|Ayrıntılar
+009020FE|1|Düzensiz BPM
+009020FE|1|Ölçülüyor
+008EAF3A|1|Sabit durun
+008EAF3A|1|Ölçüldü: %02d:%02d
+008EAF3A|1|Tekrar dene
+008FD970|1|Goal hit
+008FD970|1|Goal hit
+008FD970|1|Goal hit
+008FD970|1|Goal hit
+009020FE|1|Hedeflere ulaşıldı
+008FD970|1|Bravo!
+009020FE|1|Hareket edin!
+009020FE|1|Ayağa kalk
+008EAF3A|1|Kalkın ve etrafta yürüyün
+008F3911|1|GPS verilerini güncellemek için telefonunuzu bağlayın.
+008F3911|1|Depolama alanı dolu. Bu egzersiz kaydedilemiyor.
+008DE82D|1|GPS
+009020FE|1|Açık hava koşusu
+008F3911|1|Konum bulunuyor. Açık bir alana gidin ve egzersizi başlatmak için bekleyin.
+008EAF3A|1|Bekle
+008EAF3A|1|Başlat
+008F3911|1|Açık alanda egzersiz
+008EAF3A|1|Yok say
+008DE82D|1|Döngüler
+009187B9|1|%u/%u/%u
+008DE82D|1|Tahminler
+008FD970|1|Doğurgan
+008DE82D|1|05.23-06.23
+0091BBB8|1|Yumurtlama günü
+0091C8B9|1|Âdet dönemi
+008DE82D|1|Daha fazla bilgi edin
+008EAF3A|1|Uygulamada döngü ayrıntılarını kaydedin
+008E85A7|1|1. Renkler
+008EAF3A|1|Âdet dönemi
+008DE82D|1|Âdet döneminin %d. günü
+008EAF3A|1|Tahmin edilen âdet dönemi
+008DE82D|1|Âdet döneminin %d. günü
+008EAF3A|1|Doğurgan
+008EAF3A|1|Doğurganlık döneminin %d. günü
+008EAF3A|1|Yumurtlama günü
+008DE82D|1|Yumurtlama günü
+008E85A7|1|2. İpucu
+008EAF3A|1|Ne kadar çok giriş yaparsanız, o kadar doğru tahminler elde edersiniz.
+009020FE|1|Havuzda yüzme
+009020FE|1|Açık su
+009020FE|1|Yelken
+009020FE|1|Kürek sörfü
+009020FE|1|Su topu
+009020FE|1|Su sporları
+009020FE|1|Su kayağı
+009020FE|1|Kano sporu
+009020FE|1|Rafting
+009020FE|1|Kürek çekme
+009020FE|1|Sürat teknesi
+009020FE|1|Paletli yüzme
+009020FE|1|Atlama
+009020FE|1|Artistik yüzme
+009020FE|1|Şnorkelle yüzme
+009020FE|1|Uçurtma sörfü
+009020FE|1|Yürüyüş
+009020FE|1|Doğa yürüyüşü
+009020FE|1|Açık hava bisikleti
+009020FE|1|Doğa yürüyüşü
+009020FE|1|Patika koşusu
+009020FE|1|Kaya tırmanışı
+009020FE|1|Kaykay
+009020FE|1|Tekerlekli paten
+009020FE|1|Parkur
+009020FE|1|ATV
+009020FE|1|Yamaç paraşütü
+009020FE|1|Serbest stil
+009020FE|1|Koşu bandı
+009020FE|1|İp atlama
+009020FE|1|HIIT
+009020FE|1|Yoga
+009020FE|1|Kapalı alan bisikleti
+009020FE|1|Eliptik
+009020FE|1|Kürek çekme
+009020FE|1|Merdiven çıkma makinesi
+009020FE|1|Stepper
+009020FE|1|Core egzersizi
+009020FE|1|Esneklik
+009020FE|1|Pilates
+009020FE|1|Jimnastik
+009020FE|1|Germe
+009020FE|1|Güç
+009020FE|1|Çapraz antrenman
+009020FE|1|Merdiven çıkma
+009020FE|1|Aerobik
+009020FE|1|Fiziksel egzersiz
+009020FE|1|Duvar topu
+009020FE|1|Dambıl
+009020FE|1|Halter
+009020FE|1|Ağırlık kaldırma
+009020FE|1|Deadlift
+009020FE|1|Burpee
+009020FE|1|Mekik
+009020FE|1|İşlevsel eğitim
+009020FE|1|Üst vücut
+009020FE|1|Alt vücut
+009020FE|1|Karın kasları
+009020FE|1|Sırt
+009020FE|1|Kare dans
+009020FE|1|Oryantal
+009020FE|1|Bale
+009020FE|1|Sokak dansı
+009020FE|1|Zumba
+009020FE|1|Halk oyunu
+009020FE|1|Caz dansı
+009020FE|1|Latin dansı
+009020FE|1|Boks
+009020FE|1|Güreş
+009020FE|1|Dövüş sanatları
+009020FE|1|Tai chi
+009020FE|1|Muay Thai
+009020FE|1|Judo
+009020FE|1|Tekvando
+009020FE|1|Karate
+009020FE|1|Kick Boks
+009020FE|1|Kendo
+009020FE|1|Eskrim
+009020FE|1|Tenis
+009020FE|1|Basketbol
+009020FE|1|Futbol
+009020FE|1|Voleybol
+009020FE|1|Beyzbol
+009020FE|1|Softbol
+009020FE|1|Amerikan futbolu
+009020FE|1|Hokey
+009020FE|1|Masa tenisi
+009020FE|1|Badminton
+009020FE|1|Kriket
+009020FE|1|Hentbol
+009020FE|1|Bowling
+009020FE|1|Squash
+009020FE|1|Bilardo
+009020FE|1|Badminton topu
+009020FE|1|Plaj futbolu
+009020FE|1|Plaj voleybolu
+009020FE|1|Ayak voleybolu
+009020FE|1|Buz pateni
+009020FE|1|Curling
+009020FE|1|Diğer kış sporları
+009020FE|1|Kar motosikleti
+009020FE|1|Buz hokeyi
+009020FE|1|Yarış kızağı
+009020FE|1|Kızak
+009020FE|1|Okçuluk
+009020FE|1|Dart
+009020FE|1|At binme
+009020FE|1|Halat çekme yarışı
+009020FE|1|Hulahop
+009020FE|1|Uçurtma uçurma
+009020FE|1|Balık tutma
+009020FE|1|Frizbi
+009020FE|1|Atlı
+009020FE|1|Atletizm
+009020FE|1|Araba yarışı
+008E27B7|1|Bir koşu, yürüyüş, koşu bandı, kürek çekme veya atlama egzersizi başlatmak ve bitirmek için hatırlatıcı alın.
+008EAF3A|1|Ertele
+008DE82D|1|Senkronize ediliyor
+008DE82D|1|Bildirimler
+008EAF3A|1|Bildirim yok
+008EAF3A|1|Yanıtla
+008EAF3A|1|Gönder
+008DE82D|1|Gönderildi
+008DE82D|1|Gönderilemedi
+008F3911|1|Bu uygulamanın SMS mesajları göndermesine izin verin
+008F3911|1|Bu uygulamanın kişilerinizi okumasına izin verin
+008DE82D|1|Gönderiliyor
+0091D736|1|Alarm
+008FD970|1|Alarm yok
+008FD970|1|Zaman
+008FD970|1|Tekrarla
+008DE82D|1|Düzenle
+008DE82D|1|Saat
+008DE82D|1|Tekrarla
+008EAF3A|1|Sil
+008EAF3A|1|Tamam
+008FD970|1|ÖÖ
+008FD970|1|ÖS
+008EAF3A|1|Ertele
+008EAF3A|1|Durdur
+008EAF3A|1|Alarm eklenemiyor
+008FD970|1|En fazla 10 alarm ekleyin
+008DE82D|1|Telefonu bul
+008DE82D|1|Telefonunuz çalacak
+008DE82D|1|Bağlantı kesildi
+008DE82D|1|Bulunamıyor
+008EAF3A|1|Ara
+008EAF3A|1|Durdur
+008EAF3A|1|Geri
+008DE82D|1|Müzik
+008DE82D|1|İzinler
+008DE82D|1|Yalnızca bir sn.
+008E27B7|1|Uygulamada bilekliğinizi eşleştirin
+008E27B7|1|Uygulama için Bildirim erişimini açın
+008F3911|1|Uygulama için Bildirim erişimini açın
+008EAF3A|1|Eşleştirilmedi
+008DE82D|1|Oynatılmıyor
+008DE82D|1|Bağlantı kesildi
+008DE82D|1|İzinler
+008DE82D|1|Kamera
+008FD970|1|Telefonunuzda Kamerayı açın
+008DE82D|1|Eşleştirilmedi
+008F3911|1|Bağlantı kesildi
+008E27B7|1|Uygulamada Cihaz > Kamera menüsüne gidin
+008E27B7|1|Uygulamada bilekliğinizi eşleştirin
+008FD970|1|Aç
+008EAF3A|1|Bugün etkinlik yok
+008DE82D|1|Ayrıntılar
+008DE82D|1|Ayrıntılar
+008F3911|1|Uygulamada Etkinlik'i açın
+008F3911|1|10 dakika ertele
+008F3911|1|10 dakika ertele
+008F3911|1|10 dakika ertele
+008F3911|1|10 dakika ertele
+008F3911|1|10 dakika ertele
+008F3911|1|10 dakika ertele
+008F3911|1|10 dakika ertele
+008DE82D|1|Kronometre
+0091E73E|1|%02d
+008F3911|1|Kronometre arka planda çalışmıyor, çıkış yap?
+008DE82D|1|Zamanlayıcı
+00911CB0|1|%d
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|dk.
+009187B9|1|sa.
+009187B9|1|sa.
+009187B9|1|sa.
+009187B9|1|sa.
+009187B9|1|sa.
+009187B9|1|sa.
+009187B9|1|sa.
+009187B9|1|sa.
+008EAF3A|1|Özel
+008DE82D|1|Son kullanılanlar
+008FB4CF|1|%02d:%02d:%02d
+008E27B7|1|Özel
+008DE82D|1|Hava durumu
+008DE82D|1|Tahmin
+0091F204|1|25°
+008DE82D|1|Hava kalitesi
+008E27B7|1|AQI
+009004A7|1|Hareket edin
+008DE82D|1|Endeksler
+009187B9|1| 
+0090B760|1|UVI
+0090B760|1|Nem
+008DE82D|1|Gün doğumu & gün batımı
+008DE82D|1|Konumlar
+0091FA4F|1|İyi uykular
+008F3911|1|Rahatsız Etme Modu açık. Uyandırmak için kaldır kapalı.
+008EAF3A|1|Reddet
+008EAF3A|1|Süre
+008FB4CF|1|%02d:%02d
+008EAF3A|1|Uyku
+0090F1A1|1|%d sa. %d dk.
+009199FA|1|%d℃/%d℃
+008DE82D|1|SpO₂
+00921C0E|1|98
+008EAF3A|1|Ölç
+008EAF3A|1|Veri yok
+009255D4|1|%98
+008FD970|1|Bilekliğinizi bilek kemiğinin yukarısına takın.
+008FD970|1|Bileklik kordonunu sıkın ve tekrar deneyin
+008FD970|1|Sabit kalın
+00906BB8|1|%98
+009020FE|1|SpO₂
+008E85A7|1|%85
+008EAF3A|1|Ayrıntılar
+008EAF3A|1|Yok say
+008DE82D|1|Tüm gün izleme
+008DE82D|1|Uyarı
+008DE82D|1|Daha fazla bilgi edin
+008DE82D|1|Tüm gün izleme
+008FD970|1|Kapalı
+008FD970|1|%80
+008E27B7|1|SpO₂'yi hareket etmiyorken ölçün
+008EAF3A|1|Bilekliğinizi bilek kemiğinin yukarısına takın.
+008EAF3A|1|Bilekliğinizi sıkı ve sabit tutun.
+008F1A96|1|Bu özellik tıbbi amaçlı değildir.
+008FD970|1|SpO₂, kanınızdaki oksijen yüzdesini ifade eder.
+008FD970|1|Okumalar normalde aktifken %95\'in altına veya uyku sırasında %90\'ın altına düşmez. Kandaki oksijeniniz %90\'ın altına düşerse gerekli önlemleri alın.
+008FD970|1|Bilekliğiniz, %75-100 aralığını destekler.
+008FD970|1|Ölçümleri tutarsız veya güvenilmez hale getirebilecek birçok faktör vardır. Bunlar arasında cilt perfüzyonu, cildinizde kalıcı veya geçiçci değişiklikler, hareket veya uyku sırasındaki duruşlar yer alabilir. Yukarıdakilerin tümü yanlış bir şekilde düşük kandaki oksijen uyarısı ile sonuçlanabilir. Bunun tıbbi bir cihaz olmadığını ve oluşturduğu verilerin teşhis ve tedavi için kullanılmayacağını unutmayın.
+008DE82D|1|Uyarılar
+008DE82D|1|Egzersiz
+008DE82D|1|Kategoriler
+008DE82D|1|Daha fazla
+008DE82D|1|Su sporları
+008DE82D|1|Havuzda yüzme
+008DE82D|1|Açık su
+008DE82D|1|Yelken
+008DE82D|1|Kürek sörfü
+008DE82D|1|Su topu
+008DE82D|1|Su kayağı
+008DE82D|1|Kano sporu
+008DE82D|1|Rafting
+008DE82D|1|Kürek çekme
+008DE82D|1|Sürat teknesi
+008DE82D|1|Paletli yüzme
+008DE82D|1|Atlama
+008DE82D|1|Artistik yüzme
+008DE82D|1|Şnorkelle yüzme
+008DE82D|1|Uçurtma sörfü
+008DE82D|1|Açık alan faaliyetleri
+008DE82D|1|Açık hava koşusu
+008DE82D|1|Yürüyüş
+008DE82D|1|Doğa yürüyüşü
+008DE82D|1|Açık hava bisikleti
+008DE82D|1|Doğa yürüyüşü
+008DE82D|1|Patika koşusu
+008DE82D|1|Kaya tırmanışı
+008DE82D|1|Kaykay
+008DE82D|1|Tekerlekli paten
+008DE82D|1|Parkur
+008DE82D|1|ATV
+008DE82D|1|Yamaç paraşütü
+008DE82D|1|Serbest stil
+008DE82D|1|Koşu bandı
+008DE82D|1|İp atlama
+008DE82D|1|HIIT
+008DE82D|1|Yoga
+008DE82D|1|Kapalı alan bisikleti
+008DE82D|1|Eliptik
+008DE82D|1|Kürek çekme
+008DE82D|1|Merdiven çıkma makinesi
+008DE82D|1|Stepper
+008DE82D|1|Core egzersizi
+008DE82D|1|Esneklik
+008DE82D|1|Pilates
+008DE82D|1|Jimnastik
+008DE82D|1|Germe
+008DE82D|1|Güç
+008DE82D|1|Çapraz antrenman
+008DE82D|1|Merdiven çıkma
+008DE82D|1|Aerobik
+008DE82D|1|Fiziksel egzersiz
+008DE82D|1|Duvar topu
+008DE82D|1|Dambıl
+008DE82D|1|Halter
+008DE82D|1|Ağırlık kaldırma
+008DE82D|1|Deadlift
+008DE82D|1|Burpee
+008DE82D|1|Mekik
+008DE82D|1|İşlevsel eğitim
+008DE82D|1|Üst vücut
+008DE82D|1|Alt vücut
+008DE82D|1|Karın kasları
+008DE82D|1|Sırt
+008DE82D|1|Dans
+008DE82D|1|Kare dans
+008DE82D|1|Oryantal
+008DE82D|1|Bale
+008DE82D|1|Sokak dansı
+008DE82D|1|Zumba
+008DE82D|1|Halk oyunu
+008DE82D|1|Caz dansı
+008DE82D|1|Latin dansı
+008DE82D|1|Dövüş sporları
+008DE82D|1|Boks
+008DE82D|1|Güreş
+008DE82D|1|Dövüş sanatları
+008DE82D|1|Tai chi
+008DE82D|1|Muay Thai
+008DE82D|1|Judo
+008DE82D|1|Tekvando
+008DE82D|1|Karate
+008DE82D|1|Kick Boks
+008DE82D|1|Kendo
+008DE82D|1|Eskrim
+008DE82D|1|Top sporları
+008DE82D|1|Tenis
+008DE82D|1|Basketbol
+008DE82D|1|Futbol
+008DE82D|1|Voleybol
+008DE82D|1|Beyzbol
+008DE82D|1|Softbol
+008DE82D|1|Amerikan futbolu
+008DE82D|1|Hokey
+008DE82D|1|Masa tenisi
+008DE82D|1|Badminton
+008DE82D|1|Kriket
+008DE82D|1|Hentbol
+008DE82D|1|Bowling
+008DE82D|1|Squash
+008DE82D|1|Bilardo
+008DE82D|1|Badminton topu
+008DE82D|1|Plaj futbolu
+008DE82D|1|Plaj voleybolu
+008DE82D|1|Ayak voleybolu
+008DE82D|1|Kış sporları
+008DE82D|1|Buz pateni
+008DE82D|1|Curling
+008DE82D|1|Diğer kış sporları
+008DE82D|1|Kar motosikleti
+008DE82D|1|Buz hokeyi
+008DE82D|1|Yarış kızağı
+008DE82D|1|Kızak
+008DE82D|1|Eğlence sporları
+008DE82D|1|Okçuluk
+008DE82D|1|Dart
+008DE82D|1|At binme
+008DE82D|1|Halat çekme yarışı
+008DE82D|1|Hulahop
+008DE82D|1|Uçurtma uçurma
+008DE82D|1|Balık tutma
+008DE82D|1|Frizbi
+008DE82D|1|Diğer
+008DE82D|1|Atlı
+008DE82D|1|Atletizm
+008DE82D|1|Araba yarışı
+008FD970|1|Açık
+008EDEC0|1|%02d:%02d:%02d
+008EDEC0|1|%d.%d
+00927254|1|km
+008EDEC0|1|%d'%d"
+008F1A96|1|Hafif
+008F1A96|1|Yoğun
+008F1A96|1|Aerobik
+008F1A96|1|Anaerobik
+008F1A96|1|VO₂ maks.
+008FB4CF|1|%d
+00927254|1|kal
+00927254|1|SPM
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+00927254|1|adım
+008FB4CF|1|0
+008F1A96|1|/km
+00927254|1|km/sa.
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|uzunluk
+00927254|1|kulaç
+00927254|1|kulaç
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|atlama
+00927254|1|kulaç
+00927254|1|kulaç
+00927254|1|kulaç
+00927254|1|kulaç
+00927254|1|kulaç
+00927254|1|kulaç
+00927254|1|SPM
+009004A7|1|/km
+009004A7|1|km gerisinde
+0092814E|1|%u'%02u''
+008DE82D|1|Stres
+009013A1|1|Orta
+008DE82D|1|Ayrıntılar
+008FD970|1|Rahat
+008FD970|1|Ilımlı
+008FD970|1|Orta
+008FD970|1|Şiddetli
+008DE82D|1|Son 7 gün
+00918111|1|05.12
+008EAF3A|1|Veri yok
+008F1A96|1|Orta
+008DE82D|1|Tüm gün izleme
+008DE82D|1|Rahatlatıcı hatırlatıcı
+008EAF3A|1|Açık
+008DE82D|1|Tüm gün izleme
+008DE82D|1|Açık/Kapalı
+008F1A96|1|Hareketsizken takip edin
+008F1A96|1|Uyanık olduğunuz süreçte stres seviyesi 80'in üzerinde kaldığında nefes egzersizi isteyin
+008DE82D|1|Daha fazla bilgi edin
+008EAF3A|1|Stres, vücudunuzun zorluklara ve taleplere verdiği tepkidir.
+008EAF3A|1|Bilekliğiniz aktif olmadığınızda stres seviyenizi ölçer.\nSeviyeler:\nRahat: 1–25\nIlımlı: 25–50\nOrta: 51–80\nŞiddetli: 81–100.\nBu özellik, tıbbi amaçlı değildir.
+008EAF3A|1|Ölçümler düşük sıcaklığa, cilt perfüzyonuna ve daha fazlasına bağlıdır.
+008E85A7|1|99.0
+008EAF3A|1|Nefes
+008F3911|1|Nabız
+008F3911|1|Alarm
+008F3911|1|SpO₂
+008F3911|1|Ayarlar
+008F3911|1|Hava durumu
+008F3911|1|Cihaz ekle
+008F3911|1|İstatistikler
+008DE82D|1|Bileklik ekranını sil?
+008DE82D|1|Değişiklikleri kaydetmek için bileklik ekranında sağa kaydırın.
+008DE82D|1|Özet
+008DE82D|1|Nabız
+008DE82D|1|Tempo
+008DE82D|1|Ritim
+008EAF3A|1|Detayları uygulamada görüntüle
+008DE82D|1|Hız
+008DE82D|1|Kulaç oranı
+008DE82D|1|İp atlama
+008DE82D|1|Sıklık
+008DE82D|1|SWOLF
+008DE82D|1|Doğa yürüyüşü
+008EDEC0|1|2:23.1
+008DE82D|1|Kulaçlar
+008DE82D|1|İstatistikler
+008DE82D|1|Ayakta durma
+008DE82D|1|Hareket
+008DE82D|1|Pil
+008DE82D|1|Tarih
+008DE82D|1|UV
+008EAF3A|1|Senkronize ediliyor
+008DE82D|1|Senkronize edilemedi
+008DE82D|1|Hata
+008E27B7|1|Bileklik ekranlarını kaldırın ve tekrar deneyin
+008DE82D|1|Değişiklikleri kaydet?
+008DE82D|1|Bir kez
+008FD970|1|Bir kez
+008DE82D|1|Pzt
+008DE82D|1|Sal
+008DE82D|1|Çrş
+008DE82D|1|Prş
+008DE82D|1|Cum
+008DE82D|1|Cmt
+008DE82D|1|Paz
+008FD970|1| 
+008FD970|1|P
+008FD970|1|S
+008FD970|1|Ç
+008FD970|1|P
+008FD970|1|C
+008FD970|1|C
+008FD970|1|P
+008FD970|1|Günlük
+008F3911|1|Uyku
+008F3911|1|Kronometre
+008F3911|1|Nefes
+008F3911|1|Döngüler
+008F3911|1|Stres
+008F3911|1|Egzersiz
+008E27B7|1|İndirmek için tarayın
+008F3911|1|Telefon ile eşleştirilsin mi?
+008DE82D|1|Düzenleyici
+008EAF3A|1|Ayakta durma
+008DE82D|1|Ertele
+008DE82D|1|Alarm kapalı
+008DE82D|1|Cevapsız
+008FB4CF|1|%02lu:%02lu
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+008EAF3A|1| 
+00914560|1|8000
+009020FE|1|adım
+009020FE|1|adım
+009020FE|1|adım
+009020FE|1|adım
+009020FE|1|adım
+009020FE|1|adım
+009020FE|1|adım
+009020FE|1|adım
+00914560|1|500
+009020FE|1|kal
+009020FE|1|kal
+009020FE|1|kal
+009020FE|1|kal
+009020FE|1|kal
+009020FE|1|kal
+009020FE|1|kal
+00914560|1|30
+009020FE|1|dk.
+009020FE|1|dk.
+009020FE|1|dk.
+009020FE|1|dk.
+009020FE|1|dk.
+009020FE|1|dk.
+009020FE|1|dk.
+009020FE|1|dk.
+00914560|1|12
+009020FE|1|kulaç
+009020FE|1|kulaç
+009020FE|1|kulaç
+009020FE|1|kulaç
+009020FE|1|kulaç
+009020FE|1|kulaç
+009020FE|1|kulaç
+009020FE|1|kulaç
+008FD970|1|'Adım'', günlük adım sayısını gösterir.
+008FD970|1|'Kalori'', hareket ederken ve egzersiz yaparken yakılan aktif kalori sayısını gösterir.
+008FD970|1|'Hareket'', orta ve şiddetli etkinlikte geçirdiğiniz zamanı gösterir.
+008FD970|1|'Ayakta durma'', ayağa kalktığınız ve hareket ettiğiniz saatleri gösterir.
+008F1A96|1|km/sa.
+008DE82D|1|%80
+008DE82D|1|%85
+008DE82D|1|%90
+008DE82D|1|Egzersiz
+008DE82D|1|Kalori
+008DE82D|1|Adım
+008DE82D|1|Nabız
+008DE82D|1|Stres
+008DE82D|1|Alarm
+008DE82D|1|Hava durumu
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+008FD970|1|%u km
+0090B760|1|%u km
+0090B760|1|%u m
+0090B760|1|%u m
+0090B760|1|%u m
+0090B760|1|%u m
+0090B760|1|%u m
+0090B760|1|%u m
+0090B760|1|%u m
+008FD970|1|%u dk.
+008FD970|1|%u dk.
+008FD970|1|%u kal
+0090B760|1|%u kal
+0090B760|1|%u dk.
+008FD970|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+008FD970|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+0090B760|1|%u
+009013A1|1| 
+008DE82D|1|Kulaçlar
+008DE82D|1|50 m
+0090B760|1|Hafif
+0090B760|1|VO₂ maks.
+0090B760|1|Aerobik
+0090B760|1|Anaerobik
+008DE82D|1|%u km
+008DE82D|1|%u km/sa.
+008DE82D|1|%u BPM
+008FD970|1|Bitti
+008E4B3E|1|km
+008DE82D|1|%
+008FD970|1|%d.%d km
+0090B760|1|%d'%02d"
+008DE82D|1|Focus
+008DE82D|1|Rest
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008EDEC0|1|%02d:%02d
+008F0D76|1|%02d:%02d
+009187B9|1|%d dk. Önce
+009187B9|1|%d dk. Önce
+009187B9|1|%d dk. Önce
+009187B9|1|Şimdi
+009187B9|1|Şimdi
+009187B9|1|%02d dk. önce
+009187B9|1|%02d dk. önce
+009187B9|1|%02d dk. önce
+009187B9|1|%02d dk. önce
+009187B9|1|Ölçüldü: %02d:%02d
+008EAF3A|1|Dinlenme: %02d
+008EAF3A|1|Dinlenme: --
+008DE82D|1|30 dk.
+008EAF3A|1| 
+008E85A7|1|Measure heart rate every 10 mins
+008E85A7|1| 
+008EAF3A|1| 
+008DE82D|1|40 BPM
+008DE82D|1|45 BPM
+008DE82D|1|50 BPM
+008DE82D|1|110 BPM
+008DE82D|1|120 BPM
+008DE82D|1|130 BPM
+008DE82D|1|140 BPM
+008DE82D|1|150 BPM
+0091FA4F|1|Zaman doldu
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d sa.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+009020FE|1|Hareket edin
+008EAF3A|1|Silkelenin!
+008DE82D|1|Bugünkü ayağa kalkma hatırlatıcıları kapatılsın mı?
+008FD970|1|Kapalı
+008FD970|1|100 BPM
+008FD970|1|110 BPM
+008FD970|1|120 BPM
+008FD970|1|130 BPM
+008FD970|1|140 BPM
+008FD970|1|150 BPM
+008FD970|1|40 BPM
+008FD970|1|45 BPM
+008FD970|1|50 BPM
+008FD970|1|Açık
+008FD970|1|Kapalı
+008FD970|1|1 dk.
+008FD970|1|10 dk.
+008FD970|1|30 dk.
+008FD970|1|Otomatik
+0092814E|1|%%%d
+008F3911|1|Etkinlik
+008F3911|1|Mi AI
+008F3911|1|Kartlar
+008F3911|1|Bildirimler
+008F3911|1|Etkinlikler
+008F3911|1|Müzik
+008F3911|1|Kamera
+008F3911|1|Zamanlayıcı
+008F3911|1|El feneri
+008F3911|1|Telefonu bul
+008F3911|1|Yardım
+00927254|1|"Uyandırmak için kaldır'' açık
+00927254|1|"Uyandırmak için kaldır'' kapalı
+00927254|1|Rahatsız etme modu açık
+00927254|1|Rahatsız etme modu kapalı
+008DE82D|1|Özet
+008FD970|1|Veri yok
+008EAF3A|1|Detayları uygulamada görüntüle
+00906BB8|1|--
+008FD970|1|%d
+008FD970|1|%d
+008FD970|1|%d
+008FD970|1|%d
+008FD970|1|%d
+008FD970|1|%d
+008FD970|1|%d
+008FD970|1|%d–%d BPM
+008E85A7|1|%d-%d
+008E85A7|1|%02d:%02d-%02d:%02d
+00929735|1|%d
+008EDEC0|1|%02d:%02d:%02d
+008EDEC0|1|:
+008EDEC0|1|%02d:%02d.%02d
+009199FA|1|%02d:%02d:%02d.%02d
+00929F37|1|%02d:%02d:%02d.%02d
+00929F37|1|%02d:%02d.%02d
+008E27B7|1|%02u-%02u %02u:%02u
+008EDEC0|1|%02u:%02u:%02u
+009199FA|1|%lu.%02lu
+008E27B7|1|km
+008DE82D|1|Hedef
+0090B760|1|%%%u
+0090B760|1|Tamamlandı
+009199FA|1|%lu
+0090B760|1|Hedef
+0090B760|1|Aktif kal
+009199FA|1|%lu'%02lu''
+0090B760|1|Ort. tempo
+0090B760|1|Adım
+0090B760|1|Ort. BPM
+0090B760|1|Ort. SPM
+00906BB8|1|%u'%02u''
+00918111|1|%02u:%02u
+00906BB8|1|%u
+008EAF3A|1|Detayları uygulamada görüntüle
+008EAF3A|1|Geri
+0090B760|1|Hedef
+0090B760|1|Tamamlandı
+0090B760|1|Hedef
+0090B760|1|Tamamlandı
+0090B760|1|Hedef
+0090B760|1|Tamamlandı
+0090B760|1|Hedef
+0090B760|1|Tamamlandı
+0090B760|1|Hedef
+0090B760|1|Tamamlandı
+0090B760|1|m
+0090B760|1|m
+0090B760|1|m
+0090B760|1|m
+0090B760|1|m
+0090B760|1|m
+0090B760|1|m
+0090B760|1|kal
+0090B760|1|kal
+0090B760|1|kal
+0090B760|1|kal
+0090B760|1|kal
+0090B760|1|kal
+0090B760|1|kal
+0090B760|1|Uzunluk
+0090B760|1|atlama
+0090B760|1|kulaç
+0090B760|1|Uzunluk
+0090B760|1|Uzunluk
+0090B760|1|Uzunluk
+0090B760|1|Uzunluk
+0090B760|1|Uzunluk
+0090B760|1|Uzunluk
+0090B760|1|Uzunluk
+0090B760|1|atlama
+0090B760|1|atlama
+0090B760|1|atlama
+0090B760|1|atlama
+0090B760|1|atlama
+0090B760|1|atlama
+0090B760|1|atlama
+0090B760|1|kulaç
+0090B760|1|kulaç
+0090B760|1|kulaç
+0090B760|1|kulaç
+0090B760|1|kulaç
+0090B760|1|kulaç
+0090B760|1|kulaç
+008E85A7|1|1 dk.
+00918111|1|%u
+008DE82D|1|Bugün veri yok
+008FD970|1|Bugün
+008FD970|1|Yarın
+008FD970|1|Kapalı
+008EAF3A|1|İleri
+008EAF3A|1|Uygulamada Âdet dönemi tahminini açın
+0090B760|1|Şimdi
+0090B760|1|%d dk. önce
+0090B760|1|%d dk. önce
+0090B760|1|%d dk. önce
+0090B760|1|%d dk. önce
+0090B760|1|%d dk. önce
+0090B760|1|%d dk. önce
+0090B760|1|%d dk. önce
+0090B760|1|%d:%02d
+0090B760|1|Dün %d:%02d
+0090B760|1|%02d/%02d %d:%02d
+008E85A7|1|%d bildirim
+008E85A7|1|%d bildirim
+008E85A7|1|%d bildirim
+008E85A7|1|%d bildirim
+008E85A7|1|%d bildirim
+008E85A7|1|%d bildirim
+008E85A7|1|%d bildirim
+008EAF3A|1|Temizle
+00918111|1|00:00
+00918111|1|12:00
+00918111|1|24:00
+008FD970|1|Tüm gün
+008EAF3A|1|Tüm gün izleme kapalı.
+008EAF3A|1|Bileklik kordonunu sıkın ve tekrar deneyin
+00918111|1|%02u:%02u
+009199FA|1|%02u:%02u-%02u:%02u
+008DE82D|1|Uyarılar
+008FD970|1|Bilekliğiniz belirlenen seviyesinin altında okumalar algıladığında sizi bilgilendirir. Daha fazla veriyi uygulamada görüntüleyebilirsiniz. İyi hissetmiyorsanız tıbbi yardım alın.
+008EAF3A|1|Sabit kalın
+008EAF3A|1|%50 bitti
+008EAF3A|1|Kalibre ediliyor
+008EAF3A|1|Ölçüm sırasında sabit kalın
+008EAF3A|1|Bileklik kordonunu sıkın ve tekrar deneyin
+008EAF3A|1|Bileklik kordonunu sıkın ve tekrar deneyin
+00927254|1|m
+008EAF3A|1|Hava durumunu güncellemek için uygulamaya bağlanın
+008F1A96|1|Uygulamada konumları ayarlayın
+0091357C|1|%d
+008DE82D|1|Yalnızca bir sn.
+008FD970|1|İyi
+008FD970|1|Orta
+008FD970|1|Hafif kirli
+008FD970|1|Sağlıksız
+008FD970|1|Tehlikeli
+008FD970|1|Tehlikeli
+008E85A7|1|İyi
+008E85A7|1|Orta
+008E85A7|1|Hafif kirli
+008E85A7|1|Sağlıksız
+008E85A7|1|Tehlikeli
+008E85A7|1|Tehlikeli
+008E27B7|1|Değişken rüzgar
+008E27B7|1|Kasırga
+008E27B7|1|Kuzey rüzgarı
+008E27B7|1|Kuzeydoğu rüzgarı
+008E27B7|1|Doğu rüzgarı
+008E27B7|1|Güneydoğu rüzgarı
+008E27B7|1|Güney rüzgarı
+008E27B7|1|Güneybatı rüzgarı
+008E27B7|1|Batı rüzgarı
+008E27B7|1|Kuzeybatı rüzgarı
+008DE82D|1|Açık
+008DE82D|1|Bulutlu
+008DE82D|1|Kapalı
+008DE82D|1|Sağanak yağmur
+008DE82D|1|Gök gürültülü sağanak
+008DE82D|1|Dolu
+008DE82D|1|Sulu kar
+008DE82D|1|Hafif yağmur
+008DE82D|1|Orta yağmurlu
+008DE82D|1|Şiddetli yağmur
+008DE82D|1|Yağmur fırtınası
+008DE82D|1|Sağanak
+008DE82D|1|Şiddetli sağanak
+008DE82D|1|Kar sağanağı
+008DE82D|1|Hafif kar yağışı
+008DE82D|1|Orta derecede karlı
+008DE82D|1|Şiddetli kar yağışı
+008DE82D|1|Kar fırtınası
+008DE82D|1|Sis
+008DE82D|1|Dondurucu yağmur
+008DE82D|1|Kum fırtınası
+008DE82D|1|Hafif - orta yağmur
+008DE82D|1|Orta - şiddetli yağmur
+008DE82D|1|Şiddetli yağmur - yağmur fırtınası
+008DE82D|1|Yağmur fırtınası - sağanak
+008DE82D|1|Sağanak - yağmur fırtınası
+008DE82D|1|Az - orta kar yağışı
+008DE82D|1|Orta - şiddetli kar yağışı
+008DE82D|1|Şiddetli kar yağışı - kar fırtınası
+008DE82D|1|Tozlu
+008DE82D|1|Rüzgarlı
+008DE82D|1|Şiddetli kum fırtınası
+008DE82D|1|Sisli
+008DE82D|1|Yoğun sis
+008DE82D|1|Hafif pus
+008DE82D|1|Orta derecede pus
+008DE82D|1|Güçlü pus
+008DE82D|1|Şiddetli pus
+008DE82D|1|Sisli
+008DE82D|1|Şiddetli sis
+008DE82D|1|Kayıt yok
+008DE82D|1|Yağmur
+008DE82D|1|Kar
+008E27B7|1|Bugün
+008E27B7|1|Pzt
+008E27B7|1|Sal
+008E27B7|1|Çrş
+008E27B7|1|Prş
+008E27B7|1|Cum
+008E27B7|1|Cmt
+008E27B7|1|Paz
+00914560|1|%%%d
+00914560|1|%d
+008E27B7|1|UVI
+008E27B7|1|Nem
+00921C0E|1|%02d:%02d
+0092AD70|1|%02d:%02d
+008E27B7|1|Uyku modu kapalı: %02d:%02d
+008DE82D|1|Düzensiz BPM, 1 dakikalık sıklık gerektirir. Devam et?
+0090B760|1|Maks. BPM
+0090B760|1|Egzersiz
+0090B760|1|Dinlenin
+0090B760|1|Setler
+0090B760|1|Kulaçlar
+0090B760|1|Atlama
+0090B760|1|Hız
+0090B760|1|Kulaç oranı
+0090B760|1|Uzunluk
+0090B760|1|Ana stil
+0090B760|1|Ort. SWOLF
+0090B760|1|Ort. SPM
+009199FA|1|%02lu:%02lu:%02lu
+0090F1A1|1|Kurbağalama yüzüş
+0090F1A1|1|Karışık
+0090F1A1|1|Serbest stil
+0090F1A1|1|Sırtüstü yüzme
+0090F1A1|1|Kelebek
+009199FA|1|%lu.%lu
+008FD970|1|Maks.
+008FD970|1|Maks.
+0091E73E|1|%u
+008DE82D|1|Setler
+008DE82D|1|On
+008EAF3A|1|Uyuduğunuzda veya bilekliğinizi çıkardığınızda Uyandırmak için kaldır özelliği kapatılacaktır.
+0092BD6A|1|℃
+0092BD6A|1|℉
+009013A1|1|%d:%02d
+00921C0E|1|%u'%02u''
+00911CB0|1|%u'%02u''
+008EAF3A|1|Hedef: %u'%02u''
+0091FA4F|1|%u km/sa.
+008EAF3A|1|Hedef: %u km/sa.
+00911CB0|1|%u
+008EAF3A|1|Hedef BPM: %d–%d
+008E85A7|1|%d
+008EAF3A|1|Threshold: %d BPM
+00911CB0|1|--
+009199FA|1|%d℉/%d℉
+008EAF3A|1|Anladım
+008FB4CF|1|%u
+0091D736|1|%%
+008F3911|1|%%%u altında pil. Şimdi şarj edin.
+008FD970|1|VO₂ maks.
+008FD970|1|Anaerobik
+008FD970|1|Yoğun
+008FD970|1|Aerobik
+008FD970|1|Hafif
+00918111|1|%02lu:%02lu:%02lu
+008DE82D|1|%02lu:%02lu:%02lu
+009013A1|1|BPM
+00929F37|1|%u
+0090F1A1|1|%d℃/%d℃
+0090F1A1|1|%d℉/%d℉
+008EAF3A|1|%d℃/%d℃
+008EAF3A|1|%d℉/%d℉
+0090F1A1|1|℃
+0090F1A1|1|℉
+0090F1A1|1|-
+008EAF3A|1|-
+008EAF3A|1|Bisiklet
+008EAF3A|1|Kürek çekme
+008DE82D|1|Uygulama ile bağlanın ve tekrar deneyin
+008DE82D|1|Başlangıç
+008DE82D|1|Dayanıklılık
+008DE82D|1|Aralık
+008DE82D|1|Temel koşu/yürüyüş
+008DE82D|1|İleri koşu/yürüyüş
+008DE82D|1|Temel koşu
+008DE82D|1|Temel
+008DE82D|1|İleri
+008DE82D|1|MIIT
+008DE82D|1|Temel
+008DE82D|1|İleri
+008DE82D|1|Temel
+008DE82D|1|İleri
+008F1A96|1|Aralıklarla yürüyüş ve koşuyu birleştirir.
+008F1A96|1|Aralıklarla yürüyüş ve koşuyu birleştirir.
+008F1A96|1|Düşük-orta yoğunluklu koşu.
+008F1A96|1|Yağ yakmak ve kilo kaybı için daha kısa koşu.
+008F1A96|1|Yağ yakmak için düşük-orta yoğunluklu, uzun süreli koşu.
+008F1A96|1|Orta-yüksek yoğunluklu aralıklı antrenman.
+008F1A96|1|Dayanıklılık için orta uzunlukta koşu.
+008F1A96|1|Dayanıklılık için daha uzun koşu.
+008F1A96|1|Kalp ve akciğer sağlığı için daha kısa aralıklı antrenman.
+008F1A96|1|Kalp ve akciğer sağlığı için daha uzun aralıklı antrenman.
+008DE82D|1|%02u/%02u
+008DE82D|1|Şimdi
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|%u dk. içinde
+008DE82D|1|Geç kaldı
+008EAF3A|1|Pzt 
+008EAF3A|1|Sal 
+008EAF3A|1|Çrş 
+008EAF3A|1|Prş 
+008EAF3A|1|Cum 
+008EAF3A|1|Cmt 
+008EAF3A|1|Paz 
+008EAF3A|1|%u/%u 
+008EAF3A|1|%02u:%02u 
+008EAF3A|1|Bugün 
+008EAF3A|1|Yarın 
+00921C0E|1|02d%:02d%
+009004A7|1|km ileride
+00911CB0|1|--'--"
+008EDEC0|1|--'--"
+008EAF3A|1|%02u:%02u-
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u sa. içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+008DE82D|1|%u gün içinde
+009020FE|1|Düşük pil
+008F1A96|1|Koşu
+008E27B7|1|%d dk.
+008E27B7|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008F3911|1|Güncelleme hazırlanıyor
+008F3911|1|Güncellenemedi.\nTekrar deneyin.
+00929F37|1|%
+008EAF3A|1|Süre
+008F1A96|1|Rahat
+008F1A96|1|Ilımlı
+008F1A96|1|Şiddetli
+008EAF3A|1|Tüm gün izleme kapalı.
+008EAF3A|1|%02u:%02u ÖÖ–
+008EAF3A|1|%02u:%02u ÖS–
+008EAF3A|1|%02u:%02u ÖÖ
+008EAF3A|1|%02u:%02u ÖS
+008F3911|1|Seni sonra arayacağım.
+008F3911|1|Şimdi konuşamam. Naber?
+008F3911|1|Şimdi konuşamam. Sonra arar mısın?
+0092BDFB|1|--
+008EDEC0|1|%%%u
+008FD970|1|Hedef
+008EDEC0|1|%u
+008F3911|1|km
+008F3911|1|kal
+008F3911|1|uzunluk
+008F3911|1|uzunluk
+008F3911|1|uzunluk
+008F3911|1|uzunluk
+008F3911|1|uzunluk
+008F3911|1|uzunluk
+008F3911|1|uzunluk
+008F3911|1|kulaç
+008F3911|1|kulaç
+008F3911|1|kulaç
+008F3911|1|kulaç
+008F3911|1|kulaç
+008F3911|1|kulaç
+008F3911|1|kulaç
+008F3911|1|atlama
+008F3911|1|atlama
+008F3911|1|atlama
+008F3911|1|atlama
+008F3911|1|atlama
+008F3911|1|atlama
+008F3911|1|atlama
+0091BBB8|1|Yeni rekor!
+008EDEC0|1|%02u:%02u:%02u
+00929F37|1|%lu.%lu.%lu
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %lu.%lu km
+008FD970|1|Hedef: %02u:%02u:%02u
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u kal
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u uzunluk
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u kulaç
+008FD970|1|Hedef: %u atlama
+008FD970|1|Hedef: %u atlama
+008FD970|1|Hedef: %u atlama
+008FD970|1|Hedef: %u atlama
+008FD970|1|Hedef: %u atlama
+008FD970|1|Hedef: %u atlama
+008FD970|1|Hedef: %u atlama
+008EAF3A|1|Nabzınız belirlenen bir BPM'nin üzerine çıktığında bileklik sizi bilgilendirir. Nabzınız, stres altında yükselir.
+008EAF3A|1|Nabzınız belirlenen bir BPM\'nin altında kaldığında bileklik sizi bilgilendirir. Nabzınız, uyku sırasında yavaşlar. İyi hissetmiyorsanız, tıbbi yardım alın.
+008E85A7|1|Yüksek nabız
+008E85A7|1|Düşük nabız
+008DE82D|1|Daha fazla bilgi edin
+008E85A7|1|Tempolu koşu
+008E85A7|1|Koşu
+008E85A7|1|Hızlı koşu
+008EDEC0|1|%d
+008F84F7|1|Tempolu koşu
+008F84F7|1|Koşu
+008F84F7|1|Hızlı koşu
+008F1A96|1|Koşu
+008F1A96|1|Hızlı koşu
+008EDEC0|1|%02d
+00911CB0|1|%02d
+00911CB0|1|:
+008EAF3A|1|Detayları uygulamada görüntüle
+008DE82D|1|Yaptınız!
+008EAF3A|1|Bitti
+008EAF3A|1|Devam et (%lusn.)
+008DE82D|1|Egzersiz
+008FD970|1|Süre
+008FD970|1|Nabız
+0092814E|1|%lu.%02lu
+0092BE3D|1|Otomatik
+008E4B3E|1|Otomatik
+008DE82D|1|Başarıyla ayarlandı
+008EAF3A|1|Anladım
+008DE82D|1|Aşırı ısınma. Kapanıyor.
+0090B760|1|ort.
+008E85A7|1|Düşük pil
+008EAF3A|1|ÖÖ
+008EAF3A|1|ÖS
+009199FA|1|%lu:%02lu
+0090B760|1|%u.%02u km
+0090B760|1|%u.%02u km
+0090B760|1|%u.%02u km
+008EAF3A|1|Uyuduğunuzda veya bilekliğinizi çıkardığınızda Rahatsız Etme Modu açılacaktır.
+008E27B7|1|Uyanık olduğunuz süreçte SpO₂ okumaları belirlenen seviyenin altında olduğunda bildir
+009187B9|1|%d:%02d ÖÖ
+009187B9|1|%d:%02d ÖS
+009187B9|1|Dün %d:%02d ÖÖ
+009187B9|1|Dün %d:%02d ÖS
+009187B9|1|%02d/%02d, %d:%02d ÖÖ
+009187B9|1|%02d/%02d, %d:%02d ÖS
+008F3911|1|Koşu
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u kal
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u adım
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u kulaç
+008F1A96|1|Hedef: %u dk.
+008F1A96|1|Hedef: %u dk.
+008F1A96|1|Hedef: %u dk.
+008F1A96|1|Hedef: %u dk.
+008F1A96|1|Hedef: %u dk.
+008F1A96|1|Hedef: %u dk.
+008F1A96|1|Hedef: %u dk.
+0090D4EB|1|0123456789•
+0090B760|1|Bugün
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Âdet dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008DE82D|1|Doğurganlık dönemi %u gün içinde
+008F1A96|1|Yardımı görüntülemek için tarayın
+0090B760|1|Dün
+0090B760|1|2 gün önce
+008EAF3A|1|Bileklik kordonunu sıkın
+008DE82D|1|Daha fazla bilgi edin
+0090F1A1|1|Bilinmeyen
+009020FE|1|Temel koşu/yürüyüş
+009020FE|1|İleri koşu/yürüyüş
+009020FE|1|Temel koşu
+009020FE|1|Temel
+009020FE|1|İleri
+009020FE|1|MIIT
+009020FE|1|Temel
+009020FE|1|İleri
+009020FE|1|Temel
+009020FE|1|İleri
+009020FE|1|Şiddetli
+008EAF3A|1|Nefes
+008EAF3A|1|Yürüyüş
+008DE82D|1|Bilekliğin telefonun kilidini açmasına izin ver?
+008DE82D|1|İzin verildi
+008DE82D|1|İzin verilemedi
+008DE82D|1|Yardım
+008DE82D|1|Düzenleyici
+008E85A7|1|Model
+008E85A7|1|CMIIT Kimliği
+009004A7|1|Oca
+009004A7|1|Şub
+009004A7|1|Mar
+009004A7|1|Nis
+009004A7|1|May
+009004A7|1|Haz
+009004A7|1|Tem
+009004A7|1|Ağu
+009004A7|1|Eyl
+009004A7|1|Eki
+009004A7|1|Kas
+009004A7|1|Ara
+008FD970|1|Âdet dönemi 1 gün içinde
+008FD970|1|Âdet dönemi 2 gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Âdet dönemi %u gün içinde
+008FD970|1|Yumurtlama 1 gün içinde
+008FD970|1|Yumurtlama 2 gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008FD970|1|Yumurtlama %u gün içinde
+008DE82D|1|Açık/Kapalı
+008DE82D|1|Açık/Kapalı
+009020FE|1|Cevapsız arama
+008EAF3A|1|Anladım
+008EAF3A|1|Uygulamanın arka planda çalışmasına izin verin
+008EAF3A|1|Uygulamada Amazon Alexa'yı kurun
+008EAF3A|1|Uygulamada Amazon hesabınızda oturum açın
+008EAF3A|1|Bilekliğinizde video veya ses oynatılamıyor
+008EAF3A|1|Bağlanılıyor…
+008EAF3A|1|Dinliyor…
+008EAF3A|1|Düşünüyor…
+008EAF3A|1|Set a timer for 2 minutes
+008EAF3A|1|What's the weather?
+008E27B7|1|%02d:%02d–%02d:%02d
+008E27B7|1|%02d:%02d-%02d:%02d
+009013A1|1|Rahat
+009013A1|1|Ilımlı
+009013A1|1|Şiddetli
+009020FE|1|Orta
+008DE82D|1|Günlük
+008DE82D|1|Bağlanılamadı
+008DE82D|1|Ağ hatası
+008DE82D|1|Kurulum gerekli
+008DE82D|1|Oturum aç
+009187B9|1|Kulaçlar
+008EAF3A|1|Ort.
+009013A1|1|SPM
+009013A1|1|km/sa.
+009013A1|1|JPM
+008DE82D|1|Daha fazla bilgi edin
+008EAF3A|1|Düşük pil. El feneri kapalı.
+008EAF3A|1|Kapat
+00906BB8|1|%.1f
+0091E73E|1|%.1f
+00906BB8|1|%u:%02u'%02u"
+0091E73E|1|%u:%02u'%02u"
+009199FA|1|%u:%02u'%02u"
+008F1A96|1|Oynatma sesi
+008E85A7|1|PIN kodları eşleşmiyor
+008E85A7|1|PIN kodunu girin
+008E85A7|1|Yeni PIN
+008EAF3A|1|Bağlanılamadı
+008EAF3A|1|Ağ hatası
+008EAF3A|1|Kurulum gerekli
+008EAF3A|1|Oturum aç
+008EAF3A|1|Kullanılamıyor
+0090D4EB|1|Yeni PIN
+0090D4EB|1|PIN'i onayla
+0090D4EB|1|   PIN kodları eşleşmiyor  
+0090D4EB|1|PIN kodunu girin
+008E4B3E|1|%d
+0092BE3D|1|%d
+008FD970|1|%d sa. %d dk.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d sa.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008FD970|1|%d dk.
+008F3911|1|%d'%02d"
+0090B760|1|%02u/%02u
+0090B760|1|%02u:%02u
+0090F1A1|1|--℃/--℃
+0090F1A1|1|--℉/--℉
+008EAF3A|1|--℃/--℃
+008EAF3A|1|--℉/--℉
+008FD970|1|Hedefe ulaşıldı
+008FD970|1|Hedefe ulaşıldı
+008FD970|1|Hareket hedefine ulaşıldı
+008FD970|1|Ayakta durma hedefine ulaşıldı
+008FD970|1|Adım hedefine ulaşıldı
+008FD970|1|Kalori hedefine ulaşıldı
+008FD970|1|Hedefe ulaşıldı
+008FD970|1|Hedefe ulaşıldı
+008FD970|1|Tüm hedeflere ulaşıldı
+008FD970|1|Tebrikler
+008FD970|1|Hedeflere ulaşıldı
+008FD970|1|Hedeflere ulaşıldı
+009013A1|1|km/sa.
+009013A1|1|/km
+008DE82D|1|ÖÖ
+008DE82D|1|ÖS
+008DE82D|1|Egzersiz mesafesi kaydetmek için çok kısa.
+008E85A7|1|(Başlık yok)
+008FD970|1|PIN kodunu unuttum?
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|%d sn. içinde tekrar deneyin
+008F3911|1|5 dk. içinde tekrar deneyin
+008F3911|1|10 sn. içinde tekrar deneyin
+008F3911|1|Uygulamada PIN kodunu sıfırlayın
+008FD970|1|Anladım
+0090D4EB|1|Kilit açmak için PIN girin
+008FD970|1|%d bildirim
+008FD970|1|%d bildirim
+008FD970|1|%d bildirim
+008FD970|1|%d bildirim
+008FD970|1|%d bildirim
+008FD970|1|%d bildirim
+008FD970|1|%d bildirim
+0092E590|1|--:--
+008DE82D|1|Alexa
+008F3911|1|Kullanılamıyor
+008FD970|1|Amazon Alexa, hesabınızın bölgesinde kullanılamıyor
+008FD970|1|Ağ bağlantınızı kontrol edin
+008DE82D|1|Ne diyordunuz?
+008FD970|1|Söyleyerek başlat
+008F1A96|1|Pzt
+008F1A96|1|Sal
+008F1A96|1|Çrş
+008F1A96|1|Prş
+008F1A96|1|Cum
+008F1A96|1|Cmt
+008F1A96|1|Paz
+0090B760|1|%u km/sa.
+008DE82D|1|Eşleştiriliyor
+008F3911|1|Eşleştirilemedi
+0090D4EB|1|Kilit açmak için PIN girin
+0090D4EB|1|Kilit açmak için PIN girin
+009187B9|1|%d℃/%d℃
+009187B9|1|%d℉/%d℉
+008FD970|1|%d
+0092814E|1|%02d:%02d.%02d
+008F3911|1|m
+008FD970|1|Bilekliğinizi uygulama ile bağlayın
+009187B9|1|-
+008EAF3A|1|Detayları uygulamada görüntüle
+008DE82D|1|Contact customer support to get your device repaired
+008E27B7|1|Nabzınızı her saat takip edin
+008F3911|1|PIN kodu ayarlandı
+008E27B7|1|Bir koşuyu, yürüyüşü veya kürek çekme egzersizini başlatmak ve bitirmek için hatırlatıcı alın.
+008DE82D|1|Yükleniyor
+009004A7|1|.
+009013A1|1|.
+00918111|1|.
+0092E590|1|.
+0090B760|1|.
+009187B9|1|.
+0092E60B|1|.
+0092E62F|1|.
+008E27B7|1|.
+008F1A96|1|.
+0092E65A|1|.
+00929735|1|.
+008FD970|1|.
+008EAF3A|1|.
+0091E73E|1|.
+0092BD6A|1|.
+0092BDFB|1|.
+00927254|1|.
+0092E680|1|.
+0091F204|1|.
+0090D4EB|1|.
+008E85A7|1|.
+0092E6AB|1|.
+0092E6D6|1|.
+008F3911|1|.
+008DE82D|1|.
+00929F37|1|.
+0091D736|1|.
+0092E704|1|.
+0092E72F|1|.
+008F0D76|1|.
+0092E753|1|.
+0091BBB8|1|.
+0090F1A1|1|.
+0092AD70|1|.
+0091357C|1|.
+0092E78B|1|.
+009020FE|1|.
+0092814E|1|.
+00914560|1|.
+0092F103|1|.
+0091FA4F|1|.
+0092F137|1|.
+00911CB0|1|.
+0091C8B9|1|.
+0092BE3D|1|.
+009255D4|1|.
+009199FA|1|.
+00930863|1|.
+008E4B3E|1|.
+00906BB8|1|.
+008FB4CF|1|.
+008DE82D|1|sa.
+008DE82D|1|dk.
+008EAF3A|1|Bugün gösterme
+008F3911|1|Kullanılamıyor
+008FD970|1|Amazon Alexa, hesabınızın bölgesinde kullanılamıyor
+008EAF3A|1|Aparat de vâslit
+008EAF3A|1|Eliptic
+008EAF3A|1|Coardă de sărit
+009020FE|1|Aferin
+008FD970|1| 
+008FD970|1| 
+008FD970|1|Hedef
+008FD970|1|Kalan
+008FD970|1|Hedef
+008FD970|1|Kalan
+008FD970|1|Hedef uzunluk
+008FD970|1|Kalan
+008FD970|1|Hedef atlama
+008FD970|1|Kalan
+008DE82D|1|Zaman
+008DE82D|1|Mesafe
+008DE82D|1|Uzunluk
+008DE82D|1|Kulaçlar
+008DE82D|1|Atlama
+009013A1|1| 
+0090B760|1|%d:%02d
+0090B760|1|%d dk.
+0090B760|1|%ddk. %02dsn.
+008DE82D|1|Uygulamalar
+008E85A7|1|Fitness
+008E85A7|1|Temel
+008E85A7|1|Hava durumu
+008E85A7|1|Araçlar
+008DE82D|1|Kronometre
+008DE82D|1|Zamanlayıcı
+008DE82D|1|Kamera
+008DE82D|1|Kartlar
+008F3911|1|Egzersiz süresi kaydetmek için çok kısa.
+0093089B|1|Kronometre
+0093089B|1|Zamanlayıcı
+0092BE3D|1|%d℃
+0092BE3D|1|%d℉
+0092BE3D|1|-
+0092BE3D|1|--℃
+0092BE3D|1|--℉
+008EAF3A|1|Yalnızca bir sn.
+0090F1A1|1|Nefes
+0092BE3D|1|--
+008DE82D|1|Otomatik
+008DE82D|1|Özel
+0092BE3D|1|%d%%
+008EAF3A|1|Yalnızca bir sn
+008EAF3A|1|Oynatılmıyor
+008EAF3A|1|Bağlantı kesildi
+009004A7|1|Barkod için yukarı kaydırın
+009004A7|1|QR kodu için aşağı kaydırın
+0093089B|1|Kürek çekme
+0093089B|1|Yürüyüş
+0093089B|1|HIIT
+0093089B|1|Açık hava bisikleti
+0093089B|1|Kapalı alan bisikleti
+0093089B|1|İp atlama
+0093089B|1|Doğa yürüyüşü
+0093089B|1|Doğa yürüyüşü
+0093089B|1|Eliptik
+0093089B|1|Açık hava koşusu
+0093089B|1|Havuzda yüzme
+0093089B|1|Koşu bandı
+0093089B|1|Patika koşusu
+0093089B|1|Serbest stil
+0092F137|1|%lu
+009255D4|1|%lu
+008EAF3A|1|Veri yok
+0092BE3D|1|--
+008EAF3A|1|dk.
+008DE82D|1|SpO₂
+008FD970|1|Dün hedefinize ulaştınız. Bugün devam edin!
+008FD970|1|Dün 3 hedeften 2'sine ulaştınız. Yapabilirsiniz!
+008FD970|1|Dün hedeflerinize ulaşmadınız. Bugünü iyi değerlendirin!
+008FD970|1|Hedefleriniz elinizin altında - bugün yeni bir gün!
+008FD970|1|Hedefinizden sadece 1000 adım uzaktasınız.
+008FD970|1|Hedefinizden sadece 50 kal uzaktasınız.
+008FD970|1|Bugünkü hedefe ulaşmak için hâlâ zaman var, devam edin!
+008FD970|1|Hedefinize ulaşmak için bugün iki kez daha ayağa kalkın.
+008FD970|1|Hedefinize ulaşmak için bugün bir kez daha ayağa kalkın.
+008FD970|1|Dün hedefinize ulaştınız. Bugün devam edin!
+008FD970|1|Dün 3 hedeften 2'sine ulaştınız. Yapabilirsiniz!
+008FD970|1|Dün hedeflerinize ulaşmadınız. Bugünü iyi değerlendirin!
+008FD970|1|Hedefleriniz elinizin altında - bugün yeni bir gün!
+008FD970|1|Hedefinizden sadece 1000 adım uzaktasınız.
+008FD970|1|Hedefinizden sadece 50 kal uzaktasınız.
+008FD970|1|Neredeyse hedefe ulaştınız, güçlü bitirin!
+008FD970|1|Hedefinize ulaşmak için bugün iki kez daha ayağa kalkın.
+008FD970|1|Hedefinize ulaşmak için bugün bir kez daha ayağa kalkın.
+0092E78B|1|Hedefe ulaşıldı!
+008F3911|1|Yapabilirsiniz!
+008F3911|1|İstatistikler
+0090B760|1|Özel
+008F3911|1|Eşleştirilemedi
+008E27B7|1|Tekrar dene
+008FD970|1|Eşleştir
+008F3911|1|Telefonunuzda onaylayın
+008F3911|1|Eşleştiriliyor...
+008F3911|1|Eşleştirildi
+008E27B7|1|Uygulamayı indirmek için tarayın
+008E27B7|1|Telefonunuzda onaylayın
+00932936|1|繁體中文
+008F3911|1|English
+008F3911|1|Deutsch
+0093323D|1|한국어
+0093380A|1|עברית
+00933BDA|1|ไทย
+00933E0E|1|日本語
+00934441|1|العربية
+008F3911|1|Italiano
+008F3911|1|Français
+008F3911|1|Español
+008F3911|1|Polski
+008F3911|1|Українська
+008F3911|1|Čeština
+008F3911|1|Русский
+008F3911|1|Nederlands
+008F3911|1|Português PT
+008F3911|1|Türkçe
+008F3911|1|Română
+008F3911|1|Eλληνικά
+008F3911|1|Português BR
+008F3911|1|Indonesia
+008F3911|1|Tiếng Việt
+008F3911|1|Norsk bokmål
+008F3911|1|Suomi
+008F3911|1|Svenska
+008F3911|1|Dansk
+0090B760|1|Kapalı
+0090B760|1|%d saniye
+0090B760|1|%d saniye
+0090B760|1|%d saniye
+0090B760|1|%d saniye
+0090B760|1|%d saniye
+0090B760|1|%d saniye
+0090B760|1|%d saniye
+008EAF3A|1|%u/%u/%u 
+008E85A7|1|Xiaomi Smart Band 7 Pro
+008EAF3A|1|OK
+0090D4EB|1|If the number of words is too long, please check it on the APP side
+008DE82D|1|Snowboard
+008DE82D|1|Kayak
+009020FE|1|Snowboard
+009020FE|1|Kayak
+008E27B7|1|Özel
+008DE82D|1|Syncing
+008F3911|1|Preparing update
+0090B760|1|VO₂ maks.
+008E27B7|1|Yüksek

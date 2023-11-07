@@ -1,0 +1,2071 @@
+00A425FF|1|Configurações
+00A425FF|1|Telas da pulseira
+00A425FF|1|Tela
+00A425FF|1|Vibração
+00A46445|1|Padrão
+00A46445|1|Forte
+00A425FF|1|Detecção automática
+00A46445|1|Desativado
+00A46445|1|Ativado
+00A425FF|1|Não perturbe
+00A46445|1|Desativado
+00A46445|1|Inteligente
+00A46445|1|O dia inteiro
+00A425FF|1|Layout do app
+00A46445|1|Modo Ícone
+00A46445|1|Modo Lista
+00A425FF|1|PIN
+00A425FF|1|Sistema
+00A425FF|1|Sobre a pulseira
+00A425FF|1|Brilho
+00A425FF|1|Sempre ligada
+00A425FF|1|Bloqueio automático
+00A425FF|1|Cobrir para suspender
+00A425FF|1|Levantar para ligar tela
+00A46445|1|Autom.
+00A486E6|1|Autom.
+00A425FF|1|Desativado
+00A425FF|1|Inteligente
+00A425FF|1|Programado
+00A425FF|1|O dia inteiro
+00A425FF|1|Saiba mais
+00A4BB79|1|Sempre ligada
+00A4BB79|1|Inteligente
+00A4E38E|1|A hora será exibida mesmo quando a tela estiver bloqueada.
+00A4E38E|1|A Tela sempre ligada vai desligar quando você for dormir ou tirar a pulseira.
+00A425FF|1|Isto afetará a duração da bateria, continuar?
+00A425FF|1|Início
+00A425FF|1|Término
+00A425FF|1|Status
+00A511D1|1|-%d
+00A54087|1|%d
+00A425FF|1|Sensibilidade
+00A46445|1|Inteligente
+00A486E6|1|Alta
+00A486E6|1|Padrão
+00A425FF|1|Isto afetará a duração da bateria, continuar?
+00A54DA7|1|s
+00A54DA7|1|m
+00A425FF|1|Detecção automática
+00A425FF|1|Detecção de treino
+00A4E38E|1|Entendido
+00A4E38E|1|Entendido
+00A46445|1|Para definir uma frequência de monitoramento, desative o recurso Arritmia cardíaca.
+00A54087|1|%d:%02d
+00A56D96|1|Isto afetará a duração da bateria, continuar?
+00A425FF|1|Desativado
+00A425FF|1|Inteligente
+00A4E38E|1|A Tela sempre ligada vai desligar quando você for dormir ou tirar a pulseira.
+00A425FF|1|Modo Ícone
+00A425FF|1|Modo Lista
+00A425FF|1|Sistema
+00A425FF|1|Reiniciar
+00A425FF|1|Desligar
+00A425FF|1|Redefinir
+00A425FF|1|Reiniciar agora?
+00A425FF|1|Desligar agora?
+00A56D96|1|Apagar todos os dados?
+00A4BB79|1|Nome
+00A4BB79|1|Modelo
+00A4BB79|1|Endereço MAC
+00A4BB79|1|No. da versão
+00A4BB79|1|No. de série
+00A4BB79|1|Certificação
+00A425FF|1|Vibração
+00A5B7C9|1|Forte
+00A486E6|1|Padrão
+00A486E6|1|Forte
+00A5DB50|1|%d
+00A46445|1|%d/%d
+00A425FF|1|Aquecimento
+00A4E38E|1|Concluído
+00A511D1|1|%2d:%2d:%2d
+00A425FF|1|Treino
+00A511D1|1|%d
+00A5FFF1|1|Meta de braçadas
+00A5FFF1|1|Restante
+00A4E38E|1|Pular
+00A425FF|1|Descanso
+00A5FFF1|1|Descanso
+00A5FFF1|1|Restante
+00A425FF|1|Desaquecimento
+00A4E38E|1|Encerrar
+00A425FF|1|Corrida
+00A425FF|1|Queima de gordura
+00A425FF|1|Avançado
+00A5FFF1|1|Introdução
+00A5FFF1|1|Plano de treino
+00A54DA7|1|Caminhada
+00A54DA7|1|Corrida básica
+00A4E38E|1|Iniciar
+00A425FF|1|Recente
+00A5B7C9|1|Caminhada
+00A4BB79|1|Meta de BPM
+00A4E38E|1|%d~%dbpm
+00A4BB79|1|Caminhada
+00A511D1|1|%d:%02d
+00A5FFF1|1|Timer
+00A62A2A|1|BPM
+00A425FF|1|Parece que você está se exercitando
+00A4E38E|1|Ao ar livre
+00A4E38E|1|Esteira
+00A4E38E|1|Dispensar (%ds)
+00A4E38E|1|km
+00A4E38E|1|Pausar
+00A4E38E|1|Continuar
+00A56D96|1|Distância do treino muito curta para registrar. Encerrar?
+00A56D96|1|Tempo de treino muito curto para registrar. Encerrar?
+00A4E38E|1|Continuar
+00A4E38E|1|Encerrar
+00A425FF|1|Calibração
+00A511D1|1|.
+00A63929|1|km
+00A56D96|1|A tela é bloqueada ao iniciar o exercício
+00A425FF|1|Respiração
+00A646DD|1|Respiração
+00A425FF|1|Duração
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A68BD7|1|%d
+00A6AFD5|1|%d
+00A646DD|1|Relaxe
+00A4E38E|1|Foque na sua respiração
+00A646DD|1|Vamos lá
+00A4E38E|1|Siga a bolha
+00A646DD|1|Inspire
+00A646DD|1|Expire
+00A646DD|1|Bom trabalho
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A4E38E|1|Sessão: %d min
+00A425FF|1|Resultados
+00A4E38E|1|FC Atual
+00A68BD7|1|89
+00A63929|1|BPM
+00A4E38E|1|FC Inicial
+00A4E38E|1|Sessão
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A63929|1|min
+00A425FF|1|Configurações
+00A425FF|1|Meta
+00A425FF|1|Intervalos
+00A425FF|1|Alertas
+00A425FF|1|Comprimento da piscina
+00A425FF|1|Pausa automática
+00A5FFF1|1|Aberta
+00A6D77F|1|1.5 km
+00A425FF|1|Aberta
+00A425FF|1|Distância
+00A425FF|1|Duração
+00A425FF|1|Calorias
+00A425FF|1|Saltos
+00A425FF|1|Voltas
+00A5FFF1|1|5 km
+00A425FF|1|Os intervalos serão desativados. Continuar?
+00A425FF|1|A meta de treino será removida. Continuar?
+00A425FF|1|Distância
+00A425FF|1|Duração
+00A425FF|1|Calorias
+00A425FF|1|Saltos
+00A425FF|1|Voltas
+00A63929|1|m
+00A63929|1|kcal
+00A63929|1| 
+00A63929|1| 
+00A425FF|1|Conjuntos
+00A425FF|1|Descanso
+00A63929|1|s
+00A63929|1| 
+00A425FF|1|Distância
+00A425FF|1|Ritmo
+00A425FF|1|Velocidade
+00A425FF|1|Zona de FC
+00A425FF|1|FC Alta
+00A4E38E|1|Desativar tudo
+00A6D77F|1|Desativado
+00A6D77F|1|Intensivo
+00A425FF|1|Ritmo
+00A511D1|1|5'00"
+00A5DB50|1|4'50"
+00A425FF|1|%d km/h
+00A63929|1|km/h
+00A425FF|1|Desativado
+00A425FF|1|Leve
+00A425FF|1|Intensivo
+00A425FF|1|Aeróbico
+00A425FF|1|Anaeróbico
+00A425FF|1|VO₂ máximo
+00A6D77F|1|%u–%u BPM
+00A425FF|1|FC Alta
+00A63929|1|BPM
+00A425FF|1|25 m
+00A425FF|1|Personalizado
+00A425FF|1|Personalizado
+00A63929|1|m
+00A425FF|1|Definir PIN
+00A6F436|1|Inserir PIN
+00A6F436|1|Confirmar PIN
+00A6F436|1|Incorreto
+00A425FF|1|Apagar todos os dados?
+00A425FF|1|Desativar PIN
+00A425FF|1|Alterar PIN
+00A425FF|1|PIN alterado
+00A425FF|1|PIN desativado
+00A46445|1|Sua pulseira bloqueará automaticamente quando você a tirar.
+00A71135|1|Acelere
+00A71135|1|Continue assim
+00A71135|1|Mais devagar
+00A73D29|1|%u'%02u''
+00A646DD|1|FC Alta
+00A4E38E|1|Calorias
+00A755F5|1|345
+00A4E38E|1|Passos
+00A4E38E|1|Movimento
+00A765D9|1|323
+00A425FF|1|Passos
+00A63929|1| 
+00A425FF|1|Em pé
+00A425FF|1|Movimento
+00A425FF|1|Lembretes
+00A4BB79|1|Passos
+00A4BB79|1|Calorias
+00A6F436|1|Em pé
+00A6F436|1|Movimento
+00A425FF|1|Sono
+00A7787C|1|10
+00A71135|1|h
+00A71135|1|m
+00A4E38E|1|Meta:
+00A7A18A|1|24:33
+00A4E38E|1|Não há dados
+00A4BB79|1|Sono
+00A4E38E|1|1. Para acompanhar o sono REM, ative o Monitoramento avançado.\n2. Prenda a pulseira firmemente.\n3. Leituras de Frequência cardíaca e SpO₂ dependem dos movimentos, qualidade do sono entre outros.
+00A646DD|1|h
+00A646DD|1|m
+00A4E38E|1|Não há dados
+00A425FF|1|Monitoramento avançado
+00A425FF|1|Pontuação de respiração
+00A425FF|1|Pontuação de respiração
+00A46445|1|Analisar sono REM
+00A425FF|1|Pontuação de respiração
+00A46445|1|Monitorar respiração noturna
+00A425FF|1|Sono
+00A5FFF1|1|BPM médio
+00A425FF|1| 
+00A5FFF1|1|SpO₂ médio
+00A425FF|1|Soneca
+00A425FF|1|Frequência cardíaca
+00A7A18A|1|126
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A425FF|1|FC Alta
+00A425FF|1|FC Baixa
+00A425FF|1|Arritmia cardíaca
+00A425FF|1|Zona de FC
+00A5FFF1|1|VO₂ máximo
+00A5FFF1|1|VO₂ máximo
+00A5FFF1|1|Anaeróbico
+00A5FFF1|1|Intensivo
+00A5FFF1|1|Leve
+00A5FFF1|1|Relaxed
+00A5FFF1|1|Relaxed
+00A425FF|1|%02d:%02d
+00A4E38E|1|Medindo
+00A7B8E2|1|144-224
+00A7A832|1|BPM
+00A7B8E2|1|12: 24-12: 25
+00A4E38E|1|Tente novamente
+00A4E38E|1|Medir
+00A4BB79|1|Frequência cardíaca
+00A4E38E|1|A frequência cardíaca é o número de vezes que o coração bate por minuto (BPM).\nGeralmente, uma frequência cardíaca em repouso varia de 40 a 100 BPM. No entanto, ela varia com a idade, gênero e outros fatores.\nSua pulseira suporta uma faixa de 30 a 220 BPM.
+00A425FF|1|Saiba mais
+00A4E38E|1|Aperte mais a pulseira e tente novamente
+00A425FF|1|Dicas
+00A4E38E|1|Use sua pulseira acima do osso do pulso.
+00A4E38E|1|Mantenha sua pulseira bem ajustada e não se mova.
+00A4E38E|1|As medições dependem de temperatura baixa, perfusão da pele, e mais.
+00A54DA7|1|Este recurso não é indicado para finalidades médicas.
+00A4E38E|1|Monitoramento contínuo desativado.
+00A4E38E|1|Ativar
+00A425FF|1|Monitoramento contínuo
+00A425FF|1|Arritmia cardíaca
+00A425FF|1|Ativado/Desativado
+00A425FF|1|FC Alta
+00A425FF|1|FC Baixa
+00A46445|1|Para definir uma frequência de monitoramento, desative o recurso Arritmia cardíaca.
+00A425FF|1|1 min
+00A425FF|1|10 min
+00A425FF|1|Automático
+00A425FF|1|Dicas
+00A4E38E|1|Measure heart rate every 10 mins
+00A4BB79|1|Automático
+00A4E38E|1|Aumentar frequência de monitoramento durante treinos
+00A425FF|1|Arritmia cardíaca
+00A46445|1|Obter alertas de arritmia cardíaca
+00A425FF|1|Isto afetará a duração da bateria, continuar?
+00A425FF|1|100 BPM
+00A646DD|1|FC Baixa
+00A4BB79|1|12: 30-12: 40
+00A4E38E|1|Detalhes
+00A646DD|1|Arritmia cardíaca
+00A646DD|1|Medindo
+00A4E38E|1|Não se mova
+00A4E38E|1|Medido: %02d:%02d
+00A4E38E|1|Tente novamente
+00A5FFF1|1|Goal hit
+00A5FFF1|1|Goal hit
+00A5FFF1|1|Goal hit
+00A5FFF1|1|Goal hit
+00A646DD|1|Metas alcançadas
+00A5FFF1|1|Bravo!
+00A646DD|1|Mova-se!
+00A646DD|1|Levante-se
+00A4E38E|1|Levante-se e mova-se um pouco
+00A56D96|1|Conecte-se ao seu telefone para atualizar os dados de GPS.
+00A56D96|1|O armazenamento está cheio. Não é possível registrar este treino.
+00A425FF|1|GPS
+00A646DD|1|Corrida ao ar livre
+00A56D96|1|Localizando. Vá para uma área aberta e aguarde para iniciar o treino.
+00A4E38E|1|Aguarde
+00A4E38E|1|Iniciar
+00A56D96|1|Exercite-se em uma área externa
+00A4E38E|1|Dispensar
+00A425FF|1|Ciclos
+00A7A832|1|%u/%u/%u
+00A425FF|1|Previsões
+00A5FFF1|1|Fértil
+00A425FF|1|05.23-06.23
+00A7DAA0|1|Dia de ovulação
+00A7E7B3|1|Período
+00A425FF|1|Saiba mais
+00A4E38E|1|Registre detalhes do ciclo no app
+00A4BB79|1|1. Cores
+00A4E38E|1|Período
+00A425FF|1|Dia %d do período
+00A4E38E|1|Período estimado
+00A425FF|1|Dia %d do período
+00A4E38E|1|Fértil
+00A4E38E|1|Dia %d do período fértil
+00A4E38E|1|Dia de ovulação
+00A425FF|1|Dia de ovulação
+00A4BB79|1|2. Dica
+00A4E38E|1|Quanto mais informações você registrar, mais precisas as previsões serão.
+00A646DD|1|Natação em piscina
+00A646DD|1|Natação em águas abertas
+00A646DD|1|Vela
+00A646DD|1|Paddleboarding
+00A646DD|1|Polo aquático
+00A646DD|1|Esportes aquáticos
+00A646DD|1|Esqui aquático
+00A646DD|1|Caiaque
+00A646DD|1|Rafting
+00A646DD|1|Remo
+00A646DD|1|Motonáutica
+00A646DD|1|Natação com nadadeiras
+00A646DD|1|Salto ornamental
+00A646DD|1|Natação artística
+00A646DD|1|Snorkeling
+00A646DD|1|Kitesurfing
+00A646DD|1|Caminhada
+00A646DD|1|Escalada
+00A646DD|1|Ciclismo ao ar livre
+00A646DD|1|Trekking
+00A646DD|1|Corrida em trilha
+00A646DD|1|Escalada em rocha
+00A646DD|1|Skateboard
+00A646DD|1|Patins
+00A646DD|1|Parkour
+00A646DD|1|ATV
+00A646DD|1|Parapente
+00A646DD|1|Livre
+00A646DD|1|Esteira
+00A646DD|1|Pular corda
+00A646DD|1|HIIT
+00A646DD|1|Ioga
+00A646DD|1|Ciclismo indoor
+00A646DD|1|Elíptico
+00A646DD|1|Remo seco
+00A646DD|1|Subida em escada
+00A646DD|1|Stepper
+00A646DD|1|Treinamento de base
+00A646DD|1|Flexibilidade
+00A646DD|1|Pilates
+00A646DD|1|Ginástica
+00A646DD|1|Alongamento
+00A646DD|1|Força
+00A646DD|1|Treinamento cruzado
+00A646DD|1|Subir escadas
+00A646DD|1|Aeróbica
+00A646DD|1|Treino físico
+00A646DD|1|Bola na parede
+00A646DD|1|Halteres
+00A646DD|1|Barbell
+00A646DD|1|Levantamento de peso
+00A646DD|1|Levantamento terra
+00A646DD|1|Burpee
+00A646DD|1|Agachamentos
+00A646DD|1|Treino funcional
+00A646DD|1|Tronco
+00A646DD|1|Pernas
+00A646DD|1|Abdomen
+00A646DD|1|Costas
+00A646DD|1|Quadrilha
+00A646DD|1|Dança do ventre
+00A646DD|1|Balé
+00A646DD|1|Dança de rua
+00A646DD|1|Zumba
+00A646DD|1|Dança folclórica
+00A646DD|1|Dança de Jazz
+00A646DD|1|Dança latina
+00A646DD|1|Boxe
+00A646DD|1|Luta livre
+00A646DD|1|Artes marciais
+00A646DD|1|Tai chi
+00A646DD|1|Muay Thai
+00A646DD|1|Judô
+00A646DD|1|Taekwondo
+00A646DD|1|Karatê
+00A646DD|1|Kickboxing
+00A646DD|1|Kendo
+00A646DD|1|Esgrima
+00A646DD|1|Tênis
+00A646DD|1|Basquete
+00A646DD|1|Futebol
+00A646DD|1|Vôlei
+00A646DD|1|Beisebol
+00A646DD|1|Softball
+00A646DD|1|Futebol Americano
+00A646DD|1|Hóquei
+00A646DD|1|Tênis de mesa
+00A646DD|1|Badminton
+00A646DD|1|Críquete
+00A646DD|1|Handebol
+00A646DD|1|Boliche
+00A646DD|1|Squash
+00A646DD|1|Bilhar
+00A646DD|1|Peteca
+00A646DD|1|Futebol de areia
+00A646DD|1|Vôlei de praia
+00A646DD|1|Sepak takraw
+00A646DD|1|Patinação no gelo
+00A646DD|1|Curling
+00A646DD|1|Outros esportes de inverno
+00A646DD|1|Moto de neve
+00A646DD|1|Hóquei no gelo
+00A646DD|1|Bobsleigh
+00A646DD|1|Trenó
+00A646DD|1|Arco e flecha
+00A646DD|1|Dardos
+00A646DD|1|Andar a cavalo
+00A646DD|1|Cabo de guerra
+00A646DD|1|Bambolê
+00A646DD|1|Voo de pipa
+00A646DD|1|Pescaria
+00A646DD|1|Frisbee
+00A646DD|1|Equitação
+00A646DD|1|Atletismo
+00A646DD|1|Corrida de automóvel
+00A46445|1|Receba lembretes para iniciar e encerrar um treino de corrida, caminhada, esteira, remo ou saltos.
+00A4E38E|1|Adiar
+00A425FF|1|Menyinkronkan
+00A425FF|1|Notificações
+00A4E38E|1|Nenhuma notificação
+00A4E38E|1|Responder
+00A4E38E|1|Enviar
+00A425FF|1|Enviado
+00A425FF|1|Não foi possível enviar
+00A56D96|1|Permita que este app envie mensagens SMS
+00A56D96|1|Permita que este app leia seus contatos
+00A425FF|1|Enviando
+00A7F118|1|Alarme
+00A5FFF1|1|Nenhum alarme
+00A5FFF1|1|Hora
+00A5FFF1|1|Repetir
+00A425FF|1|Editar
+00A425FF|1|Hora
+00A425FF|1|Repetir
+00A4E38E|1|Excluir
+00A4E38E|1|OK
+00A5FFF1|1|AM
+00A5FFF1|1|PM
+00A4E38E|1|Adiar
+00A4E38E|1|Parar
+00A4E38E|1|Não é possível adicionar o alarme
+00A5FFF1|1|Adicione um máximo de 10 alarmes
+00A425FF|1|Encontrar telefone
+00A425FF|1|Seu telefone tocará
+00A425FF|1|Desconectado
+00A425FF|1|Não é possível localizar
+00A4E38E|1|Procurar
+00A4E38E|1|Parar
+00A4E38E|1|Voltar
+00A425FF|1|Música
+00A425FF|1|Permissões
+00A425FF|1|Aguarde
+00A46445|1|Emparelhe sua pulseira com o app
+00A46445|1|Ative o Acesso às notificações para o app
+00A56D96|1|Ative o Acesso às notificações para o app
+00A4E38E|1|Não emparelhado
+00A425FF|1|Não está reproduzindo
+00A425FF|1|Desconectado
+00A425FF|1|Permissões
+00A425FF|1|Câmera
+00A5FFF1|1|Abra a Câmera no seu telefone
+00A425FF|1|Não emparelhado
+00A56D96|1|Desconectado
+00A46445|1|Vá a Dispositivo > Câmera no app
+00A46445|1|Emparelhe sua pulseira com o app
+00A5FFF1|1|Ativar
+00A4E38E|1|Nenhum evento para hoje
+00A425FF|1|Detalhes
+00A425FF|1|Detalhes
+00A56D96|1|Ative os Eventos no app
+00A56D96|1|Adiar por 10 min
+00A56D96|1|Adiar por 10 min
+00A56D96|1|Adiar por 10 min
+00A56D96|1|Adiar por 10 min
+00A56D96|1|Adiar por 10 min
+00A56D96|1|Adiar por 10 min
+00A56D96|1|Adiar por 10 min
+00A425FF|1|Cronômetro
+00A80210|1|%02d
+00A56D96|1|O cronômetro não funciona em segundo plano, sair?
+00A425FF|1|Timer
+00A73D29|1|%d
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|min
+00A7A832|1|h
+00A7A832|1|h
+00A7A832|1|h
+00A7A832|1|h
+00A7A832|1|h
+00A7A832|1|h
+00A7A832|1|h
+00A7A832|1|h
+00A4E38E|1|Personalizado
+00A425FF|1|Recente
+00A5DB50|1|%02d:%02d:%02d
+00A46445|1|Personalizado
+00A425FF|1|Clima
+00A425FF|1|Previsão
+00A80CD6|1|25°
+00A425FF|1|Qualidade do ar
+00A46445|1|AQI
+00A62A2A|1|Mova-se
+00A425FF|1|Índices
+00A7A832|1| 
+00A6D77F|1|IUV
+00A6D77F|1|Umidade
+00A425FF|1|Nascer e pôr do sol
+00A425FF|1|Localizações
+00A81521|1|Durma bem
+00A56D96|1|O Não perturbe está ativado. Levantar para ligar a tela está desativado.
+00A4E38E|1|Dispensar
+00A4E38E|1|Duração
+00A5DB50|1|%02d:%02d
+00A4E38E|1|Sono
+00A71135|1|%dh %dm
+00A7B8E2|1|%d℃/%d℃
+00A425FF|1|SpO₂
+00A83CC8|1|98
+00A4E38E|1|Medir
+00A4E38E|1|Não há dados
+00A8768E|1|98%
+00A5FFF1|1|Use sua pulseira acima do osso do pulso.
+00A5FFF1|1|Aperte mais a pulseira e tente novamente
+00A5FFF1|1|Não se mova
+00A68BD7|1|98%
+00A646DD|1|SpO₂
+00A4BB79|1|85%
+00A4E38E|1|Detalhes
+00A4E38E|1|Dispensar
+00A425FF|1|Acompanhamento 24h
+00A425FF|1|Alerta
+00A425FF|1|Saiba mais
+00A425FF|1|Acompanhamento 24h
+00A5FFF1|1|Desativado
+00A5FFF1|1|80%
+00A46445|1|Medir o SpO₂ quando você não estiver se movendo
+00A4E38E|1|Use sua pulseira acima do osso do pulso.
+00A4E38E|1|Mantenha sua pulseira bem ajustada e não se mova.
+00A54DA7|1|Este recurso não é indicado para finalidades médicas.
+00A5FFF1|1|O SpO₂ representa o percentual de oxigênio no seu sangue.
+00A5FFF1|1|As leituras normalmente não ficam abaixo de 95% quando você está ativo ou 90% durante o sono. Tome medidas necessárias se o seu oxigênio no sangue ficar abaixo de 90%.
+00A5FFF1|1|Sua pulseira suporta uma faixa de 75 a 100%.
+00A5FFF1|1|Há vários fatores que podem tornar as medições inconsistentes ou não confiáveis. Eles podem incluir perfusão da pele, mudanças permanentes ou temporárias em sua pele, movimento ou postura durante o sono. Todos os fatores acima podem resultar em um alerta de oxigênio no sangue falsamente baixo. Lembre-se que este não é um dispositivo médico, e os dados que ele gera não podem ser usados para diagnóstico e tratamento.
+00A425FF|1|Alertas
+00A425FF|1|Treino
+00A425FF|1|Categorias
+00A425FF|1|Mais
+00A425FF|1|Esportes aquáticos
+00A425FF|1|Natação em piscina
+00A425FF|1|Natação em águas abertas
+00A425FF|1|Vela
+00A425FF|1|Paddleboarding
+00A425FF|1|Polo aquático
+00A425FF|1|Esqui aquático
+00A425FF|1|Caiaque
+00A425FF|1|Rafting
+00A425FF|1|Remo
+00A425FF|1|Motonáutica
+00A425FF|1|Natação com nadadeiras
+00A425FF|1|Salto ornamental
+00A425FF|1|Natação artística
+00A425FF|1|Snorkeling
+00A425FF|1|Kitesurfing
+00A425FF|1|Atividades ao ar livre
+00A425FF|1|Corrida ao ar livre
+00A425FF|1|Caminhada
+00A425FF|1|Escalada
+00A425FF|1|Ciclismo ao ar livre
+00A425FF|1|Trekking
+00A425FF|1|Corrida em trilha
+00A425FF|1|Escalada em rocha
+00A425FF|1|Skateboard
+00A425FF|1|Patins
+00A425FF|1|Parkour
+00A425FF|1|ATV
+00A425FF|1|Parapente
+00A425FF|1|Livre
+00A425FF|1|Esteira
+00A425FF|1|Pular corda
+00A425FF|1|HIIT
+00A425FF|1|Ioga
+00A425FF|1|Ciclismo indoor
+00A425FF|1|Elíptico
+00A425FF|1|Remo seco
+00A425FF|1|Subida em escada
+00A425FF|1|Stepper
+00A425FF|1|Treinamento de base
+00A425FF|1|Flexibilidade
+00A425FF|1|Pilates
+00A425FF|1|Ginástica
+00A425FF|1|Alongamento
+00A425FF|1|Força
+00A425FF|1|Treinamento cruzado
+00A425FF|1|Subir escadas
+00A425FF|1|Aeróbica
+00A425FF|1|Treino físico
+00A425FF|1|Bola na parede
+00A425FF|1|Halteres
+00A425FF|1|Barbell
+00A425FF|1|Levantamento de peso
+00A425FF|1|Levantamento terra
+00A425FF|1|Burpee
+00A425FF|1|Agachamentos
+00A425FF|1|Treino funcional
+00A425FF|1|Tronco
+00A425FF|1|Pernas
+00A425FF|1|Abdômen
+00A425FF|1|Costas
+00A425FF|1|Dança
+00A425FF|1|Quadrilha
+00A425FF|1|Dança do ventre
+00A425FF|1|Balé
+00A425FF|1|Dança de rua
+00A425FF|1|Zumba
+00A425FF|1|Dança folclórica
+00A425FF|1|Dança de Jazz
+00A425FF|1|Dança latina
+00A425FF|1|Esportes de combate
+00A425FF|1|Boxe
+00A425FF|1|Luta livre
+00A425FF|1|Artes marciais
+00A425FF|1|Tai chi
+00A425FF|1|Muay Thai
+00A425FF|1|Judô
+00A425FF|1|Taekwondo
+00A425FF|1|Karatê
+00A425FF|1|Kickboxing
+00A425FF|1|Kendo
+00A425FF|1|Esgrima
+00A425FF|1|Esportes com bola
+00A425FF|1|Tênis
+00A425FF|1|Basquete
+00A425FF|1|Futebol
+00A425FF|1|Vôlei
+00A425FF|1|Beisebol
+00A425FF|1|Softball
+00A425FF|1|Futebol Americano
+00A425FF|1|Hóquei
+00A425FF|1|Tênis de mesa
+00A425FF|1|Badminton
+00A425FF|1|Críquete
+00A425FF|1|Handebol
+00A425FF|1|Boliche
+00A425FF|1|Squash
+00A425FF|1|Bilhar
+00A425FF|1|Peteca
+00A425FF|1|Futebol de areia
+00A425FF|1|Vôlei de praia
+00A425FF|1|Sepak takraw
+00A425FF|1|Esportes de inverno
+00A425FF|1|Patinação no gelo
+00A425FF|1|Curling
+00A425FF|1|Outros esportes de inverno
+00A425FF|1|Moto de neve
+00A425FF|1|Hóquei no gelo
+00A425FF|1|Bobsleigh
+00A425FF|1|Trenó
+00A425FF|1|Esportes recreativos
+00A425FF|1|Arco e flecha
+00A425FF|1|Dardos
+00A425FF|1|Andar a cavalo
+00A425FF|1|Cabo de guerra
+00A425FF|1|Bambolê
+00A425FF|1|Voo de pipa
+00A425FF|1|Pescaria
+00A425FF|1|Frisbee
+00A425FF|1|Outros
+00A425FF|1|Equitação
+00A425FF|1|Atletismo
+00A425FF|1|Corrida de automóvel
+00A5FFF1|1|Aberta
+00A511D1|1|%02d:%02d:%02d
+00A511D1|1|%d.%d
+00A8930E|1|km
+00A511D1|1|%d'%d"
+00A54DA7|1|Leve
+00A54DA7|1|Intensivo
+00A54DA7|1|Aeróbico
+00A54DA7|1|Anaeróbico
+00A54DA7|1|VO₂ máximo
+00A5DB50|1|%d
+00A8930E|1|kcal
+00A8930E|1|PPM
+00A8930E|1|passo
+00A8930E|1|passo
+00A8930E|1|passos
+00A8930E|1|passos
+00A8930E|1|passo
+00A8930E|1|passo
+00A8930E|1|passos
+00A8930E|1|passos
+00A8930E|1|passos
+00A8930E|1|passos
+00A8930E|1|passo
+00A8930E|1|passo
+00A8930E|1|passos
+00A8930E|1|passos
+00A8930E|1|passos
+00A8930E|1|passos
+00A5DB50|1|0
+00A54DA7|1|/km
+00A8930E|1|km/h
+00A8930E|1|volta
+00A8930E|1|volta
+00A8930E|1|volta
+00A8930E|1|volta
+00A8930E|1|volta
+00A8930E|1|volta
+00A8930E|1|voltas
+00A8930E|1|voltas
+00A8930E|1|voltas
+00A8930E|1|voltas
+00A8930E|1|volta
+00A8930E|1|volta
+00A8930E|1|voltas
+00A8930E|1|voltas
+00A8930E|1|voltas
+00A8930E|1|voltas
+00A8930E|1|braçada
+00A8930E|1|braçadas
+00A8930E|1|salto
+00A8930E|1|salto
+00A8930E|1|salto
+00A8930E|1|salto
+00A8930E|1|saltos
+00A8930E|1|saltos
+00A8930E|1|saltos
+00A8930E|1|saltos
+00A8930E|1|braçada
+00A8930E|1|braçada
+00A8930E|1|braçadas
+00A8930E|1|braçadas
+00A8930E|1|braçadas
+00A8930E|1|braçadas
+00A8930E|1|SPM
+00A62A2A|1|/km
+00A62A2A|1|km atrás
+00A8A393|1|%u'%02u''
+00A425FF|1|Estresse
+00A63929|1|Moderado
+00A425FF|1|Detalhes
+00A5FFF1|1|Relaxado(a)
+00A5FFF1|1|Leve
+00A5FFF1|1|Moderado
+00A5FFF1|1|Severo
+00A425FF|1|Últimos 7 dias
+00A7A18A|1|05.12
+00A4E38E|1|Não há dados
+00A54DA7|1|Moderado
+00A425FF|1|Monitoramento 24 horas
+00A425FF|1|Lembrete para relaxar
+00A4E38E|1|Ativado
+00A425FF|1|Monitoramento 24 horas
+00A425FF|1|Ativado/Desativado
+00A54DA7|1|Monitorar quando você estiver sedentário(a)
+00A54DA7|1|Indicar exercício de respiração quando o nível de estresse permanecer acima de 80 quando estiver acordado
+00A425FF|1|Saiba mais
+00A4E38E|1|Estresse é a reação do seu corpo aos desafios e demandas.
+00A4E38E|1|Sua pulseira mede seu nível de estresse quando você está inativo(a).\nNíveis:\nRelaxado(a): 1-25\nLeve: 25-50\nModerado: 51-80\nSevero: 81-100.\nEste recurso não é indicado para finalidades médicas.
+00A4E38E|1|As medições dependem de temperatura baixa, perfusão da pele, e mais.
+00A4BB79|1|99.0
+00A4E38E|1|Respiração
+00A56D96|1|Frequência cardíaca
+00A56D96|1|Alarme
+00A56D96|1|SpO₂
+00A56D96|1|Configurações
+00A56D96|1|Clima
+00A56D96|1|Adicionar dispositivo
+00A56D96|1|Estatísticas
+00A425FF|1|Excluir tela da pulseira?
+00A425FF|1|Para salvar as alterações, deslize para a direita na tela da pulseira.
+00A425FF|1|Resumo
+00A425FF|1|Frequência cardíaca
+00A425FF|1|Ritmo
+00A425FF|1|Cadência
+00A4E38E|1|Veja detalhes no app
+00A425FF|1|Velocidade
+00A425FF|1|Taxa de braçadas
+00A425FF|1|Pular corda
+00A425FF|1|Frequência
+00A425FF|1|SWOLF
+00A425FF|1|Escalada
+00A511D1|1|2:23.1
+00A425FF|1|Braçadas
+00A425FF|1|Estatísticas
+00A425FF|1|Em pé
+00A425FF|1|Movimento
+00A425FF|1|Bateria
+00A425FF|1|Data
+00A425FF|1|UV
+00A4E38E|1|Sincronizando
+00A425FF|1|Não foi possível sincronizar
+00A425FF|1|Erro
+00A46445|1|Remova as telas da pulseira e tente novamente
+00A425FF|1|Salvar alterações?
+00A425FF|1|Uma vez
+00A5FFF1|1|Uma vez
+00A425FF|1|Seg.
+00A425FF|1|Ter.
+00A425FF|1|Qua.
+00A425FF|1|Qui.
+00A425FF|1|Sex.
+00A425FF|1|Sáb.
+00A425FF|1|Dom.
+00A5FFF1|1| 
+00A5FFF1|1|S
+00A5FFF1|1|T
+00A5FFF1|1|Q
+00A5FFF1|1|Q
+00A5FFF1|1|S
+00A5FFF1|1|S
+00A5FFF1|1|D
+00A5FFF1|1|Diariamente
+00A56D96|1|Sono
+00A56D96|1|Cronômetro
+00A56D96|1|Respiração
+00A56D96|1|Ciclos
+00A56D96|1|Estresse
+00A56D96|1|Treino
+00A46445|1|Digitalize para baixar
+00A56D96|1|Emparelhar com o telefone?
+00A425FF|1|Certificação
+00A4E38E|1|Em pé
+00A425FF|1|Adiado
+00A425FF|1|O Alarme está desativado
+00A425FF|1|Perdido
+00A5DB50|1|%02lu:%02lu
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A4E38E|1| 
+00A765D9|1|8000
+00A646DD|1|passo
+00A646DD|1|passo
+00A646DD|1|passo
+00A646DD|1|passo
+00A646DD|1|passos
+00A646DD|1|passos
+00A646DD|1|passos
+00A646DD|1|passos
+00A765D9|1|500
+00A646DD|1|kcal
+00A646DD|1|kcal
+00A646DD|1|kcal
+00A646DD|1|kcal
+00A646DD|1|kcal
+00A646DD|1|kcal
+00A646DD|1|kcal
+00A765D9|1|30
+00A646DD|1|min
+00A646DD|1|min
+00A646DD|1|min
+00A646DD|1|min
+00A646DD|1|min
+00A646DD|1|min
+00A646DD|1|min
+00A646DD|1|min
+00A765D9|1|12
+00A646DD|1|braçada
+00A646DD|1|braçada
+00A646DD|1|braçada
+00A646DD|1|braçada
+00A646DD|1|braçadas
+00A646DD|1|braçadas
+00A646DD|1|braçadas
+00A646DD|1|braçadas
+00A5FFF1|1|"Passos" mostra a contagem diária de passos.
+00A5FFF1|1|"Calorias" mostra o número de calorias ativas queimadas através de movimentos e exercícios.
+00A5FFF1|1|"Movimento" mostra seu tempo fazendo atividades moderadas e intensas.
+00A5FFF1|1|"Em pé" mostra as horas nas quais você se levanta e move um pouco.
+00A54DA7|1|km/h
+00A425FF|1|80%
+00A425FF|1|85%
+00A425FF|1|90%
+00A425FF|1|Treino
+00A425FF|1|Calorias
+00A425FF|1|Passos
+00A425FF|1|Frequência cardíaca
+00A425FF|1|Estresse
+00A425FF|1|Alarme
+00A425FF|1|Clima
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A5FFF1|1|%u km
+00A6D77F|1|%u km
+00A6D77F|1|%u m
+00A6D77F|1|%u m
+00A6D77F|1|%u m
+00A6D77F|1|%u m
+00A6D77F|1|%u m
+00A6D77F|1|%u m
+00A6D77F|1|%u m
+00A5FFF1|1|%u min
+00A5FFF1|1|%u min
+00A5FFF1|1|%u kcal
+00A6D77F|1|%u kcal
+00A6D77F|1|%u min
+00A5FFF1|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A5FFF1|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A6D77F|1|%u
+00A63929|1| 
+00A425FF|1|Braçadas
+00A425FF|1|50 m
+00A6D77F|1|Leve
+00A6D77F|1|VO₂ máximo
+00A6D77F|1|Aeróbico
+00A6D77F|1|Anaeróbico
+00A425FF|1|%u km
+00A425FF|1|%u km/h
+00A425FF|1|%u BPM
+00A5FFF1|1|Concluído
+00A486E6|1|km
+00A425FF|1|%
+00A5FFF1|1|%d.%d km
+00A6D77F|1|%d'%02d"
+00A425FF|1|Focus
+00A425FF|1|Rest
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A511D1|1|%02d:%02d
+00A54087|1|%02d:%02d
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|%dmin atrás
+00A7A832|1|Agora mesmo
+00A7A832|1|Agora mesmo
+00A7A832|1|%02dmin atrás
+00A7A832|1|%02dmin atrás
+00A7A832|1|%02dmin atrás
+00A7A832|1|%02dmin atrás
+00A7A832|1|Medido: %02d:%02d
+00A4E38E|1|Repouso: %02d
+00A4E38E|1|Repouso: --
+00A425FF|1|30 min
+00A4E38E|1| 
+00A4BB79|1|Measure heart rate every 10 mins
+00A4BB79|1| 
+00A4E38E|1| 
+00A425FF|1|40 BPM
+00A425FF|1|45 BPM
+00A425FF|1|50 BPM
+00A425FF|1|110 BPM
+00A425FF|1|120 BPM
+00A425FF|1|130 BPM
+00A425FF|1|140 BPM
+00A425FF|1|150 BPM
+00A81521|1|Tempo esgotado
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d h
+00A46445|1|%d min
+00A46445|1|%d min
+00A46445|1|%d min
+00A46445|1|%d min
+00A46445|1|%d min
+00A46445|1|%d min
+00A46445|1|%d min
+00A46445|1|%d min
+00A646DD|1|Mova-se
+00A4E38E|1|Agite-se!
+00A425FF|1|Desativar os lembretes de levantar-se hoje?
+00A5FFF1|1|Desativado
+00A5FFF1|1|100 BPM
+00A5FFF1|1|110 BPM
+00A5FFF1|1|120 BPM
+00A5FFF1|1|130 BPM
+00A5FFF1|1|140 BPM
+00A5FFF1|1|150 BPM
+00A5FFF1|1|40 BPM
+00A5FFF1|1|45 BPM
+00A5FFF1|1|50 BPM
+00A5FFF1|1|Ativado
+00A5FFF1|1|Desativado
+00A5FFF1|1|1 min
+00A5FFF1|1|10 min
+00A5FFF1|1|30 min
+00A5FFF1|1|Automático
+00A8A393|1|%d%%
+00A56D96|1|Atividade
+00A56D96|1|Mi AI
+00A56D96|1|Cartões
+00A56D96|1|Notificações
+00A56D96|1|Eventos
+00A56D96|1|Música
+00A56D96|1|Câmera
+00A56D96|1|Timer
+00A56D96|1|Lanterna
+00A56D96|1|Encontrar telefone
+00A56D96|1|Ajuda
+00A8930E|1|"Levantar para ligar tela" ativado
+00A8930E|1|"Levantar para ligar tela" desativado
+00A8930E|1|Não perturbe ativado
+00A8930E|1|Não perturbe desativado
+00A425FF|1|Resumo
+00A5FFF1|1|Não há dados
+00A4E38E|1|Veja detalhes no app
+00A68BD7|1|--
+00A5FFF1|1|%d
+00A5FFF1|1|%d
+00A5FFF1|1|%d
+00A5FFF1|1|%d
+00A5FFF1|1|%d
+00A5FFF1|1|%d
+00A5FFF1|1|%d
+00A5FFF1|1|%d–%d BPM
+00A4BB79|1|%d-%d
+00A4BB79|1|%02d:%02d-%02d:%02d
+00A8B97A|1|%d
+00A511D1|1|%02d:%02d:%02d
+00A511D1|1|:
+00A511D1|1|%02d:%02d.%02d
+00A7B8E2|1|%02d:%02d:%02d.%02d
+00A8C17C|1|%02d:%02d:%02d.%02d
+00A8C17C|1|%02d:%02d.%02d
+00A46445|1|%02u-%02u %02u:%02u
+00A511D1|1|%02u:%02u:%02u
+00A7B8E2|1|%lu.%02lu
+00A46445|1|km
+00A425FF|1|Meta
+00A6D77F|1|%u%%
+00A6D77F|1|Concluído
+00A7B8E2|1|%lu
+00A6D77F|1|Meta
+00A6D77F|1|Kcal ativas
+00A7B8E2|1|%lu'%02lu''
+00A6D77F|1|Ritmo médio
+00A6D77F|1|Passos
+00A6D77F|1|BPM médio
+00A6D77F|1|SPM médio
+00A68BD7|1|%u'%02u''
+00A7A18A|1|%02u:%02u
+00A68BD7|1|%u
+00A4E38E|1|Veja detalhes no app
+00A4E38E|1|Voltar
+00A6D77F|1|Meta
+00A6D77F|1|Concluído
+00A6D77F|1|Meta
+00A6D77F|1|Concluído
+00A6D77F|1|Meta
+00A6D77F|1|Concluído
+00A6D77F|1|Meta
+00A6D77F|1|Concluído
+00A6D77F|1|Meta
+00A6D77F|1|Concluído
+00A6D77F|1|m
+00A6D77F|1|m
+00A6D77F|1|m
+00A6D77F|1|m
+00A6D77F|1|m
+00A6D77F|1|m
+00A6D77F|1|m
+00A6D77F|1|kcal
+00A6D77F|1|kcal
+00A6D77F|1|kcal
+00A6D77F|1|kcal
+00A6D77F|1|kcal
+00A6D77F|1|kcal
+00A6D77F|1|kcal
+00A6D77F|1|volta
+00A6D77F|1|salto
+00A6D77F|1|braçada
+00A6D77F|1|volta
+00A6D77F|1|volta
+00A6D77F|1|volta
+00A6D77F|1|voltas
+00A6D77F|1|voltas
+00A6D77F|1|voltas
+00A6D77F|1|voltas
+00A6D77F|1|salto
+00A6D77F|1|salto
+00A6D77F|1|salto
+00A6D77F|1|saltos
+00A6D77F|1|saltos
+00A6D77F|1|saltos
+00A6D77F|1|saltos
+00A6D77F|1|braçada
+00A6D77F|1|braçada
+00A6D77F|1|braçada
+00A6D77F|1|braçadas
+00A6D77F|1|braçadas
+00A6D77F|1|braçadas
+00A6D77F|1|braçadas
+00A4BB79|1|1 min
+00A7A18A|1|%u
+00A425FF|1|Não há dados hoje
+00A5FFF1|1|Hoje
+00A5FFF1|1|Amanhã
+00A5FFF1|1|Desativado
+00A4E38E|1|Avançar
+00A4E38E|1|Ative a Previsão de períodos no app
+00A6D77F|1|Agora mesmo
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%dmin atrás
+00A6D77F|1|%d:%02d
+00A6D77F|1|Ontem, %d:%d
+00A6D77F|1|%02d/%02d %d:%02d
+00A4BB79|1|%d notificação
+00A4BB79|1|%d notificação
+00A4BB79|1|%d notificação
+00A4BB79|1|%d notificações
+00A4BB79|1|%d notificações
+00A4BB79|1|%d notificações
+00A4BB79|1|%d notificações
+00A4E38E|1|Limpar
+00A7A18A|1|00:00
+00A7A18A|1|12:00
+00A7A18A|1|24:00
+00A5FFF1|1|O dia inteiro
+00A4E38E|1|O Acompanhamento 24h está desativado.
+00A4E38E|1|Aperte mais a pulseira e tente novamente
+00A7A18A|1|%02u:%02u
+00A7B8E2|1|%02u:%02u-%02u:%02u
+00A425FF|1|Alertas
+00A5FFF1|1|A sua pulseira lhe notifica quando detecta leituras abaixo do nível definido. Você pode ver mais dados no app. Caso não se sinta bem, procure auxílio médico.
+00A4E38E|1|Não se mova
+00A4E38E|1|50% concluído
+00A4E38E|1|Calibrando
+00A4E38E|1|Fique imóvel ao medir
+00A4E38E|1|Aperte mais a pulseira e tente novamente
+00A4E38E|1|Aperte mais a pulseira e tente novamente
+00A8930E|1|m
+00A4E38E|1|Conecte-se ao app para atualizar o clima
+00A54DA7|1|Defina localizações no app
+00A755F5|1|%d
+00A425FF|1|Aguarde
+00A5FFF1|1|Boa
+00A5FFF1|1|Moderada
+00A5FFF1|1|Poluição leve
+00A5FFF1|1|Insalubre
+00A5FFF1|1|Perigosa
+00A5FFF1|1|Tóxica
+00A4BB79|1|Boa
+00A4BB79|1|Moderada
+00A4BB79|1|Poluição leve
+00A4BB79|1|Insalubre
+00A4BB79|1|Perigosa
+00A4BB79|1|Tóxica
+00A46445|1|Vento variável
+00A46445|1|Furacão
+00A46445|1|Vento N
+00A46445|1|Vento NE
+00A46445|1|Vento L
+00A46445|1|Vento SE
+00A46445|1|Vento S
+00A46445|1|Vento SO
+00A46445|1|Vento O
+00A46445|1|Vento NO
+00A425FF|1|Limpo
+00A425FF|1|Nublado
+00A425FF|1|Muito nublado
+00A425FF|1|Chuvas
+00A425FF|1|Trovoada
+00A425FF|1|Granizo
+00A425FF|1|Granizo
+00A425FF|1|Chuva fraca
+00A425FF|1|Chuva moderada
+00A425FF|1|Chuva forte
+00A425FF|1|Tempestade
+00A425FF|1|Chuva torrencial
+00A425FF|1|Tempestade intensa
+00A425FF|1|Chuva com neve
+00A425FF|1|Neve fraca
+00A425FF|1|Neve moderada
+00A425FF|1|Neve intensa
+00A425FF|1|Nevasca
+00A425FF|1|Névoa
+00A425FF|1|Chuva congelada
+00A425FF|1|Tempestade de areia
+00A425FF|1|Chuva fraca a moderada
+00A425FF|1|Chuva moderada a intensa
+00A425FF|1|Chuva intensa a tempestade
+00A425FF|1|Tempestade a chuva torrencial
+00A425FF|1|Chuva torrencial a tempestade forte
+00A425FF|1|Neve fraca a moderada
+00A425FF|1|Neve moderada a intensa
+00A425FF|1|Neve intensa a nevasca
+00A425FF|1|Poeira
+00A425FF|1|Ventania
+00A425FF|1|Tempestade de areia intensa
+00A425FF|1|Nevoeiro
+00A425FF|1|Nevoeiro espesso
+00A425FF|1|Ligeira neblina
+00A425FF|1|Neblina moderada
+00A425FF|1|Neblina intensa
+00A425FF|1|Neblina severa
+00A425FF|1|Nevoeiro
+00A425FF|1|Névoa severa
+00A425FF|1|Sem relatórios
+00A425FF|1|Chuva
+00A425FF|1|Neve
+00A46445|1|Hoje
+00A46445|1|Seg.
+00A46445|1|Ter.
+00A46445|1|Qua.
+00A46445|1|Qui.
+00A46445|1|Sex.
+00A46445|1|Sáb.
+00A46445|1|Dom.
+00A765D9|1|%d%%
+00A765D9|1|%d
+00A46445|1|IUV
+00A46445|1|Umidade
+00A83CC8|1|%02d:%02d
+00A8CFB5|1|%02d:%02d
+00A46445|1|Modo sono desativado às %02d:%02d
+00A425FF|1|O recurso Arritmia cardíaca requer uma frequência de 1 minuto. Continuar?
+00A6D77F|1|BPM máximo
+00A6D77F|1|Treino
+00A6D77F|1|Descanso
+00A6D77F|1|Conjuntos
+00A6D77F|1|Braçadas
+00A6D77F|1|Saltos
+00A6D77F|1|Velocidade
+00A6D77F|1|Taxa de braçadas
+00A6D77F|1|Voltas
+00A6D77F|1|Estilo principal
+00A6D77F|1|SWOLF médio
+00A6D77F|1|SPM médio
+00A7B8E2|1|%02lu:%02lu:%02lu
+00A71135|1|Bruços
+00A71135|1|Medley
+00A71135|1|Livre
+00A71135|1|Costas
+00A71135|1|Borboleta
+00A7B8E2|1|%lu.%lu
+00A5FFF1|1|Máx.
+00A5FFF1|1|Máx.
+00A80210|1|%u
+00A425FF|1|Conjuntos
+00A425FF|1|On
+00A4E38E|1|O Levantar para ligar a tela vai ser desativado quando você for dormir ou tirar a pulseira.
+00A8DFAF|1|℃
+00A8DFAF|1|℉
+00A63929|1|%d:%02d
+00A83CC8|1|%u'%02u''
+00A73D29|1|%u'%02u''
+00A4E38E|1|Alvo: %u'%02u''
+00A81521|1|%u km/h
+00A4E38E|1|Alvo: %u km/h
+00A73D29|1|%u
+00A4E38E|1|Alvo de BPM: %d–%d
+00A4BB79|1|%d
+00A4E38E|1|Threshold: %d BPM
+00A73D29|1|--
+00A7B8E2|1|%d℉/%d℉
+00A4E38E|1|Entendido
+00A5DB50|1|%u
+00A7F118|1|%%
+00A56D96|1|Bateria abaixo de %u%%. Carregue agora.
+00A5FFF1|1|VO₂ máximo
+00A5FFF1|1|Anaeróbico
+00A5FFF1|1|Intensivo
+00A5FFF1|1|Aeróbico
+00A5FFF1|1|Leve
+00A7A18A|1|%02lu:%02lu:%02lu
+00A425FF|1|%02lu:%02lu:%02lu
+00A63929|1|BPM
+00A8C17C|1|%u
+00A71135|1|%d℃/%d℃
+00A71135|1|%d℉/%d℉
+00A4E38E|1|%d℃/%d℃
+00A4E38E|1|%d℉/%d℉
+00A71135|1|℃
+00A71135|1|℉
+00A71135|1|-
+00A4E38E|1|-
+00A4E38E|1|Ciclismo
+00A4E38E|1|Remo seco
+00A425FF|1|Conecte-se com o app e tente novamente
+00A425FF|1|Iniciante
+00A425FF|1|Resistência
+00A425FF|1|Intervalo
+00A425FF|1|Corrida/caminhada básica
+00A425FF|1|Corrida/caminhada avançada
+00A425FF|1|Corrida básica
+00A425FF|1|Básica
+00A425FF|1|Avançada
+00A425FF|1|MIIT
+00A425FF|1|Básica
+00A425FF|1|Avançada
+00A425FF|1|Básica
+00A425FF|1|Avançada
+00A54DA7|1|Combina caminhada e corrida em intervalos.
+00A54DA7|1|Combina caminhada e corrida em intervalos.
+00A54DA7|1|Corrida de intensidade baixa a moderada.
+00A54DA7|1|Corrida curta para queima de gordura e perda de peso.
+00A54DA7|1|Intensidade baixa a média, corrida estendida para queima de gordura.
+00A54DA7|1|Treino com intervalo de média a alta intensidade.
+00A54DA7|1|Corrida de duração média para resistência.
+00A54DA7|1|Corrida mais longa para resistência.
+00A54DA7|1|Treino com intervalos curtos para saúde do coração e pulmões.
+00A54DA7|1|Treino com intervalos longos para saúde do coração e pulmões.
+00A425FF|1|%02u/%02u
+00A425FF|1|Agora
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Em %u min
+00A425FF|1|Atrasado
+00A4E38E|1|Seg. 
+00A4E38E|1|Ter. 
+00A4E38E|1|Qua. 
+00A4E38E|1|Qui. 
+00A4E38E|1|Sex. 
+00A4E38E|1|Sáb. 
+00A4E38E|1|Dom. 
+00A4E38E|1|%u/%u 
+00A4E38E|1|%02u:%02u 
+00A4E38E|1|Hoje 
+00A4E38E|1|Amanhã 
+00A83CC8|1|02d%:02d%
+00A62A2A|1|km à frente
+00A73D29|1|--'--"
+00A511D1|1|--'--"
+00A4E38E|1|%02u:%02u-
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u h
+00A425FF|1|Em %u dia
+00A425FF|1|Em %u dia
+00A425FF|1|Em %u dia
+00A425FF|1|Em %u dia
+00A425FF|1|Em %u dias
+00A425FF|1|Em %u dias
+00A425FF|1|Em %u dias
+00A425FF|1|Em %u dias
+00A646DD|1|Bateria fraca
+00A54DA7|1|Corrida
+00A46445|1|%d min
+00A46445|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A56D96|1|Preparando a atualização
+00A56D96|1|Não foi possível atualizar.\nTente novamente.
+00A8C17C|1|%
+00A4E38E|1|Duração
+00A54DA7|1|Relaxado(a)
+00A54DA7|1|Leve
+00A54DA7|1|Severo
+00A4E38E|1|O Monitoramento 24h está desativado.
+00A4E38E|1|%02u:%02u AM–
+00A4E38E|1|%02u:%02u PM–
+00A4E38E|1|%02u:%02u AM
+00A4E38E|1|%02u:%02u PM
+00A56D96|1|Eu te ligo mais tarde.
+00A56D96|1|Não posso falar agora. Precisa de algo?
+00A56D96|1|Não posso falar agora. Pode me ligar mais tarde?
+00A8E040|1|--
+00A511D1|1|%u%%
+00A5FFF1|1|Meta
+00A511D1|1|%u
+00A56D96|1|km
+00A56D96|1|kcal
+00A56D96|1|volta
+00A56D96|1|volta
+00A56D96|1|volta
+00A56D96|1|voltas
+00A56D96|1|voltas
+00A56D96|1|voltas
+00A56D96|1|voltas
+00A56D96|1|braçada
+00A56D96|1|braçada
+00A56D96|1|braçada
+00A56D96|1|braçadas
+00A56D96|1|braçadas
+00A56D96|1|braçadas
+00A56D96|1|braçadas
+00A56D96|1|salto
+00A56D96|1|salto
+00A56D96|1|salto
+00A56D96|1|saltos
+00A56D96|1|saltos
+00A56D96|1|saltos
+00A56D96|1|saltos
+00A7DAA0|1|Novo recorde!
+00A511D1|1|%02u:%02u:%02u
+00A8C17C|1|%lu.%lu.%lu
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %lu.%lu km
+00A5FFF1|1|Meta: %02u:%02u:%02u
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u kcal
+00A5FFF1|1|Meta: %u volta
+00A5FFF1|1|Meta: %u volta
+00A5FFF1|1|Meta: %u volta
+00A5FFF1|1|Meta: %u volta
+00A5FFF1|1|Meta: %u voltas
+00A5FFF1|1|Meta: %u voltas
+00A5FFF1|1|Meta: %u voltas
+00A5FFF1|1|Meta: %u voltas
+00A5FFF1|1|Meta: %u braçada
+00A5FFF1|1|Meta: %u braçada
+00A5FFF1|1|Meta: %u braçada
+00A5FFF1|1|Meta: %u braçadas
+00A5FFF1|1|Meta: %u braçadas
+00A5FFF1|1|Meta: %u braçadas
+00A5FFF1|1|Meta: %u braçadas
+00A5FFF1|1|Meta: %u salto
+00A5FFF1|1|Meta: %u salto
+00A5FFF1|1|Meta: %u salto
+00A5FFF1|1|Meta: %u saltos
+00A5FFF1|1|Meta: %u saltos
+00A5FFF1|1|Meta: %u saltos
+00A5FFF1|1|Meta: %u saltos
+00A4E38E|1|Sua pulseira lhe notifica quando sua frequência cardíaca ficar acima do BPM estipulado. Sua frequência cardíaca aumenta sob estresse.
+00A4E38E|1|A sua pulseira lhe notifica quando sua frequência cardíaca está abaixo do BPM estipulado. A sua frequência cardíaca diminui durante o sono.\nCaso não se sinta bem, procure auxílio médico.
+00A4BB79|1|FC Alta
+00A4BB79|1|FC Baixa
+00A425FF|1|Saiba mais
+00A4BB79|1|Corrida
+00A4BB79|1|Corrida média
+00A4BB79|1|Corrida rápida
+00A511D1|1|%d
+00A5B7C9|1|Corrida
+00A5B7C9|1|Corrida média
+00A5B7C9|1|Corrida rápida
+00A54DA7|1|Corrida média
+00A54DA7|1|Corrida rápida
+00A511D1|1|%02d
+00A73D29|1|%02d
+00A73D29|1|:
+00A4E38E|1|Veja detalhes no app
+00A425FF|1|Você conseguiu!
+00A4E38E|1|Concluído
+00A4E38E|1|Continuar (%lus)
+00A425FF|1|Treino
+00A5FFF1|1|Duração
+00A5FFF1|1|Frequência cardíaca
+00A8A393|1|%lu.%02lu
+00A8E082|1|Automático
+00A486E6|1|Automático
+00A425FF|1|Definido com sucesso
+00A4E38E|1|Entendido
+00A425FF|1|Superaquecendo. Desativando.
+00A6D77F|1|média
+00A4BB79|1|Bateria fraca
+00A4E38E|1|AM
+00A4E38E|1|PM
+00A7B8E2|1|%lu:%02lu
+00A6D77F|1|%u.%02u km
+00A6D77F|1|%u.%02u km
+00A6D77F|1|%u.%02u km
+00A4E38E|1|O Não perturbe ativará quando você for dormir ou tirar sua pulseira.
+00A46445|1|Notificar quando as leituras de SpO₂ estiverem abaixo do valor definido quando acordado
+00A7A832|1|%d:%02d AM
+00A7A832|1|%d:%02d PM
+00A7A832|1|Ontem, %d:%02d AM
+00A7A832|1|Ontem, %d:%02d PM
+00A7A832|1|%02d/%02d, %d:%02d AM
+00A7A832|1|%02d/%02d, %d:%02d PM
+00A56D96|1|Corrida
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u kcal
+00A54DA7|1|Meta: %u passo
+00A54DA7|1|Meta: %u passo
+00A54DA7|1|Meta: %u passo
+00A54DA7|1|Meta: %u passos
+00A54DA7|1|Meta: %u passos
+00A54DA7|1|Meta: %u passos
+00A54DA7|1|Meta: %u passos
+00A54DA7|1|Meta: %u braçada
+00A54DA7|1|Meta: %u braçada
+00A54DA7|1|Meta: %u braçada
+00A54DA7|1|Meta: %u braçadas
+00A54DA7|1|Meta: %u braçadas
+00A54DA7|1|Meta: %u braçadas
+00A54DA7|1|Meta: %u braçadas
+00A54DA7|1|Meta: %u min
+00A54DA7|1|Meta: %u min
+00A54DA7|1|Meta: %u min
+00A54DA7|1|Meta: %u min
+00A54DA7|1|Meta: %u min
+00A54DA7|1|Meta: %u min
+00A54DA7|1|Meta: %u min
+00A6F436|1|0123456789•
+00A6D77F|1|Hoje
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período em %ud
+00A425FF|1|Período fértil em %ud
+00A425FF|1|Período fértil em %ud
+00A425FF|1|Período fértil em %ud
+00A425FF|1|Período fértil em %ud
+00A425FF|1|Período fértil em %ud
+00A425FF|1|Período fértil em %ud
+00A425FF|1|Período fértil em %ud
+00A54DA7|1|Digitalize para ver a ajuda
+00A6D77F|1|Ontem
+00A6D77F|1|2d atrás
+00A4E38E|1|Aperte a pulseira
+00A425FF|1|Saiba mais
+00A71135|1|Desconhecido
+00A646DD|1|Corrida/caminhada básica
+00A646DD|1|Corrida/caminhada avançada
+00A646DD|1|Corrida básica
+00A646DD|1|Básica
+00A646DD|1|Avançada
+00A646DD|1|MIIT
+00A646DD|1|Básica
+00A646DD|1|Avançada
+00A646DD|1|Básica
+00A646DD|1|Avançada
+00A646DD|1|Severo
+00A4E38E|1|Respiração
+00A4E38E|1|Caminhada
+00A425FF|1|Permitir que a sua pulseira desbloqueie o telefone?
+00A425FF|1|Permitido
+00A425FF|1|Não foi possível permitir
+00A425FF|1|Ajuda
+00A425FF|1|Certificação
+00A4BB79|1|Modelo
+00A4BB79|1|ID CMIIT
+00A62A2A|1|Jan.
+00A62A2A|1|Fev.
+00A62A2A|1|Mar.
+00A62A2A|1|Abr.
+00A62A2A|1|Mai.
+00A62A2A|1|Jun.
+00A62A2A|1|Jul.
+00A62A2A|1|Ago.
+00A62A2A|1|Set.
+00A62A2A|1|Out.
+00A62A2A|1|Nov.
+00A62A2A|1|Dez.
+00A5FFF1|1|Período em 1d
+00A5FFF1|1|Período em 2d
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Período em %ud
+00A5FFF1|1|Ovulação em 1d
+00A5FFF1|1|Ovulação em 2d
+00A5FFF1|1|Ovulação em %ud
+00A5FFF1|1|Ovulação em %ud
+00A5FFF1|1|Ovulação em %ud
+00A5FFF1|1|Ovulação em %ud
+00A5FFF1|1|Ovulação em %ud
+00A5FFF1|1|Ovulação em %ud
+00A5FFF1|1|Ovulação em %ud
+00A425FF|1|Ativado/Desativado
+00A425FF|1|Ativado/Desativado
+00A646DD|1|Chamada perdida
+00A4E38E|1|Entendido
+00A4E38E|1|Permita que o app execute em segundo plano
+00A4E38E|1|Configure a Amazon Alexa no app
+00A4E38E|1|Faça o login com sua conta Amazon no app
+00A4E38E|1|Não é possível reproduzir vídeo ou áudio na sua pulseira
+00A4E38E|1|Menghubungkan…
+00A4E38E|1|Ouvindo…
+00A4E38E|1|Pensando…
+00A4E38E|1|Defina um timer para 2 minutos
+00A4E38E|1|What's the weather?
+00A46445|1|%02d:%02d–%02d:%02d
+00A46445|1|%02d:%02d-%02d:%02d
+00A63929|1|Relaxado(a)
+00A63929|1|Leve
+00A63929|1|Severo
+00A646DD|1|Moderado
+00A425FF|1|Diariamente
+00A425FF|1|Não foi possível conectar-se
+00A425FF|1|Erro de rede
+00A425FF|1|Configuração necessária
+00A425FF|1|Fazer login
+00A7A832|1|Braçadas
+00A4E38E|1|Média
+00A63929|1|PPM
+00A63929|1|km/h
+00A63929|1|SPM
+00A425FF|1|Saiba mais
+00A4E38E|1|Bateria fraca. A lanterna está desligada.
+00A4E38E|1|Fechar
+00A68BD7|1|%.1f
+00A80210|1|%.1f
+00A68BD7|1|%u:%02u'%02u"
+00A80210|1|%u:%02u'%02u"
+00A7B8E2|1|%u:%02u'%02u"
+00A54DA7|1|Memutar bunyi
+00A4BB79|1|PIN tidak cocok
+00A4BB79|1|Masukkan PIN
+00A4BB79|1|PIN baru
+00A4E38E|1|Não foi possível conectar-se
+00A4E38E|1|Erro de rede
+00A4E38E|1|Configuração necessária
+00A4E38E|1|Fazer login
+00A4E38E|1|Tidak tersedia
+00A6F436|1|PIN baru
+00A6F436|1|Konfirmasi PIN
+00A6F436|1|PIN tidak cocok
+00A6F436|1|Masukkan PIN
+00A486E6|1|%d
+00A8E082|1|%d
+00A5FFF1|1|%dh %dm
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d h
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A5FFF1|1|%d min
+00A56D96|1|%d'%02d"
+00A6D77F|1|%02u/%02u
+00A6D77F|1|%02u:%02u
+00A71135|1|--℃/--℃
+00A71135|1|--℉/--℉
+00A4E38E|1|--℃/--℃
+00A4E38E|1|--℉/--℉
+00A5FFF1|1|Target tercapai
+00A5FFF1|1|Target tercapai
+00A5FFF1|1|Meta de movimento alcançada
+00A5FFF1|1|Meta de Em pé alcançada
+00A5FFF1|1|Meta de passos alcançada
+00A5FFF1|1|Meta de calorias alcançada
+00A5FFF1|1|Target tercapai
+00A5FFF1|1|Target tercapai
+00A5FFF1|1|Todas as metas alcançadas
+00A5FFF1|1|Muito bem
+00A5FFF1|1|Metas alcançadas
+00A5FFF1|1|Metas alcançadas
+00A63929|1|km/h
+00A63929|1|/km
+00A425FF|1|AM
+00A425FF|1|PM
+00A425FF|1|Distância do treino muito curta para registrar.
+00A4BB79|1|(Sem título)
+00A5FFF1|1|Lupa PIN?
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam %d dtk
+00A56D96|1|Coba lagi dalam 5 mnt
+00A56D96|1|Coba lagi dalam 10 mnt
+00A56D96|1|Setel ulang PIN di apl
+00A5FFF1|1|Mengerti
+00A6F436|1|Insira o PIN para desbloquear
+00A5FFF1|1|%d notificação
+00A5FFF1|1|%d notificação
+00A5FFF1|1|%d notificação
+00A5FFF1|1|%d notificações
+00A5FFF1|1|%d notificações
+00A5FFF1|1|%d notificações
+00A5FFF1|1|%d notificações
+00A9096C|1|--:--
+00A425FF|1|Alexa
+00A56D96|1|Tidak tersedia
+00A5FFF1|1|Amazon Alexa tidak tersedia di daerah akun Anda
+00A5FFF1|1|Periksa koneksi jaringan Anda
+00A425FF|1|Apa yang Anda katakan?
+00A5FFF1|1|Mulailah dengan mengucapkan
+00A54DA7|1|Seg.
+00A54DA7|1|Ter.
+00A54DA7|1|Qua.
+00A54DA7|1|Qui.
+00A54DA7|1|Sex.
+00A54DA7|1|Sáb.
+00A54DA7|1|Dom.
+00A6D77F|1|%u km/j
+00A425FF|1|Emparelhando
+00A56D96|1|Não foi possível emparelhar
+00A6F436|1|Insira o PIN para desbloquear
+00A6F436|1|Insira o PIN para desbloquear
+00A7A832|1|%d℃/%d℃
+00A7A832|1|%d℉/%d℉
+00A5FFF1|1|%d
+00A8A393|1|%02d:%02d.%02d
+00A56D96|1|m
+00A5FFF1|1|Conecte sua pulseira com o app
+00A7A832|1|-
+00A4E38E|1|Veja detalhes no app
+00A425FF|1|Contact customer support to get your device repaired
+00A46445|1|Analise sua frequência cardíaca o dia inteiro
+00A56D96|1|PIN definido
+00A46445|1|Dapatkan pengingat untuk memulai dan mengakhiri lari/jalan
+00A425FF|1|Carregando
+00A62A2A|1|.
+00A63929|1|.
+00A7A18A|1|.
+00A9096C|1|.
+00A6D77F|1|.
+00A7A832|1|.
+00A909E7|1|.
+00A90A0B|1|.
+00A46445|1|.
+00A54DA7|1|.
+00A90A36|1|.
+00A8B97A|1|.
+00A5FFF1|1|.
+00A4E38E|1|.
+00A80210|1|.
+00A8DFAF|1|.
+00A8E040|1|.
+00A8930E|1|.
+00A90A5C|1|.
+00A80CD6|1|.
+00A6F436|1|.
+00A4BB79|1|.
+00A90A87|1|.
+00A90AB2|1|.
+00A56D96|1|.
+00A425FF|1|.
+00A8C17C|1|.
+00A7F118|1|.
+00A90AE0|1|.
+00A90B0B|1|.
+00A54087|1|.
+00A90B2F|1|.
+00A7DAA0|1|.
+00A71135|1|.
+00A8CFB5|1|.
+00A755F5|1|.
+00A90B67|1|.
+00A646DD|1|.
+00A8A393|1|.
+00A765D9|1|.
+00A915BE|1|.
+00A81521|1|.
+00A915F2|1|.
+00A73D29|1|.
+00A7E7B3|1|.
+00A8E082|1|.
+00A8768E|1|.
+00A7B8E2|1|.
+00A92D1E|1|.
+00A486E6|1|.
+00A68BD7|1|.
+00A5DB50|1|.
+00A425FF|1|h
+00A425FF|1|m
+00A4E38E|1|Não mostrar hoje
+00A56D96|1|Não disponível
+00A5FFF1|1|A Amazon Alexa não está disponível na região da sua conta
+00A4E38E|1|Remo seco
+00A4E38E|1|Elíptico
+00A4E38E|1|Pular corda
+00A646DD|1|Muito bem
+00A5FFF1|1| 
+00A5FFF1|1| 
+00A5FFF1|1|Meta
+00A5FFF1|1|Restante
+00A5FFF1|1|Meta
+00A5FFF1|1|Restante
+00A5FFF1|1|Alvo de voltas
+00A5FFF1|1|Restante
+00A5FFF1|1|Meta de saltos
+00A5FFF1|1|Restante
+00A425FF|1|Duração
+00A425FF|1|Distância
+00A425FF|1|Voltas
+00A425FF|1|Braçadas
+00A425FF|1|Saltos
+00A63929|1| 
+00A6D77F|1|%d:%02d
+00A6D77F|1|%d m
+00A6D77F|1|%dm %02ds
+00A425FF|1|Apps
+00A4BB79|1|Condicionamento físico
+00A4BB79|1|Básica
+00A4BB79|1|Clima
+00A4BB79|1|Ferramentas
+00A425FF|1|Cronômetro
+00A425FF|1|Timer
+00A425FF|1|Câmera
+00A425FF|1|Cartões
+00A56D96|1|A duração do treino é muito curta para ser registrada.
+00A92D56|1|Cronômetro
+00A92D56|1|Timer
+00A8E082|1|%d℃
+00A8E082|1|%d℉
+00A8E082|1|-
+00A8E082|1|--℃
+00A8E082|1|--℉
+00A4E38E|1|Aguarde
+00A71135|1|Respiração
+00A8E082|1|--
+00A425FF|1|Automático
+00A425FF|1|Personalizado
+00A8E082|1|%d%%
+00A4E38E|1|Aguarde
+00A4E38E|1|Não está reproduzindo
+00A4E38E|1|Desconectado
+00A62A2A|1|Deslize para cima para o código de barras
+00A62A2A|1|Deslize para baixo para o código QR
+00A92D56|1|Remo seco
+00A92D56|1|Caminhada
+00A92D56|1|HIIT
+00A92D56|1|Ciclismo ao ar livre
+00A92D56|1|Ciclismo indoor
+00A92D56|1|Pular corda
+00A92D56|1|Trekking
+00A92D56|1|Escalada
+00A92D56|1|Elíptico
+00A92D56|1|Corrida ao ar livre
+00A92D56|1|Natação em piscina
+00A92D56|1|Esteira
+00A92D56|1|Corrida em trilha
+00A92D56|1|Livre
+00A915F2|1|%lu
+00A8768E|1|%lu
+00A4E38E|1|Não há dados
+00A8E082|1|--
+00A4E38E|1|m
+00A425FF|1|SpO₂
+00A5FFF1|1|Você atingiu seu objetivo ontem. Continue assim hoje!
+00A5FFF1|1|Você alcançou 2 de 3 objetivos ontem. Você consegue!
+00A5FFF1|1|Você não alcançou seus objetivos ontem. Faça o dia de hoje valer a pena!
+00A5FFF1|1|Seus objetivos estão a seu alcance - hoje é um novo dia!
+00A5FFF1|1|Faltam apenas 1000 passos para sua meta.
+00A5FFF1|1|Você está a 50 kcal da sua meta.
+00A5FFF1|1|Ainda há tempo para alcançar a meta de hoje, continue!
+00A5FFF1|1|Levante duas vezes mais hoje para atingir sua meta.
+00A5FFF1|1|Levante mais uma vez hoje para atingir sua meta.
+00A5FFF1|1|Você atingiu seu objetivo ontem. Continue assim hoje!
+00A5FFF1|1|Você alcançou 2 de 3 objetivos ontem. Você consegue!
+00A5FFF1|1|Você não alcançou seus objetivos ontem. Faça o dia de hoje valer a pena!
+00A5FFF1|1|Seus objetivos estão a seu alcance - hoje é um novo dia!
+00A5FFF1|1|Faltam apenas 1000 passos para sua meta.
+00A5FFF1|1|Você está a 50 kcal da sua meta.
+00A5FFF1|1|Você quase alcançou a sua meta, continue firme!
+00A5FFF1|1|Levante duas vezes mais hoje para atingir sua meta.
+00A5FFF1|1|Levante mais uma vez hoje para atingir sua meta.
+00A90B67|1|Meta alcançada!
+00A56D96|1|Você consegue!
+00A56D96|1|Estatísticas
+00A6D77F|1|Personalizado
+00A56D96|1|Não foi possível emparelhar
+00A46445|1|Tente novamente
+00A5FFF1|1|Emparelhar
+00A56D96|1|Confirme no seu telefone
+00A56D96|1|Emparelhando...
+00A56D96|1|Emparelhado
+00A46445|1|Digitalize para baixar o app
+00A46445|1|Confirme no seu telefone
+00A94846|1|繁體中文
+00A56D96|1|English
+00A56D96|1|Deutsch
+00A9514D|1|한국어
+00A9571A|1|עברית
+00A95AEA|1|ไทย
+00A95D1E|1|日本語
+00A96351|1|العربية
+00A56D96|1|Italiano
+00A56D96|1|Français
+00A56D96|1|Español
+00A56D96|1|Polski
+00A56D96|1|Українська
+00A56D96|1|Čeština
+00A56D96|1|Русский
+00A56D96|1|Nederlands
+00A56D96|1|Português PT
+00A56D96|1|Türkçe
+00A56D96|1|Română
+00A56D96|1|Eλληνικά
+00A56D96|1|Português BR
+00A56D96|1|Indonesia
+00A56D96|1|Tiếng Việt
+00A56D96|1|Norsk bokmål
+00A56D96|1|Suomi
+00A56D96|1|Svenska
+00A56D96|1|Dansk
+00A6D77F|1|Desativado
+00A6D77F|1|%d segundo
+00A6D77F|1|%d segundo
+00A6D77F|1|%d segundo
+00A6D77F|1|%d segundos
+00A6D77F|1|%d segundos
+00A6D77F|1|%d segundos
+00A6D77F|1|%d segundos
+00A4E38E|1|%u/%u/%u 
+00A4BB79|1|Xiaomi Smart Band 7 Pro
+00A4E38E|1|OK
+00A6F436|1|If the number of words is too long, please check it on the APP side
+00A425FF|1|Snowboarding
+00A425FF|1|Esqui
+00A646DD|1|Snowboarding
+00A646DD|1|Esqui
+00A46445|1|Personalizado
+00A425FF|1|Syncing
+00A56D96|1|Preparing update
+00A6D77F|1|VO₂ máximo
+00A46445|1|Alta

@@ -1,0 +1,2071 @@
+008372E1|1|Instellingen
+008372E1|1|Band weergaves
+008372E1|1|Scherm
+008372E1|1|Trilling
+0083A75D|1|Standaard
+0083A75D|1|Krachtig
+008372E1|1|Automatische detectie
+0083A75D|1|Uit
+0083A75D|1|Aan
+008372E1|1|Niet storen
+0083A75D|1|Uit
+0083A75D|1|Slim
+0083A75D|1|Hele dag
+008372E1|1|App lay-out
+0083A75D|1|Icoon modus
+0083A75D|1|Lijstmodus
+008372E1|1|PIN
+008372E1|1|Systeem
+008372E1|1|Over band
+008372E1|1|Helderheid
+008372E1|1|Altijd-aan
+008372E1|1|Automatische vergrendeling
+008372E1|1|Dek af om te slapen
+008372E1|1|Pak op om te wekken
+0083A75D|1|Auto
+0083C957|1|Auto
+008372E1|1|Uit
+008372E1|1|Slim
+008372E1|1|Gepland
+008372E1|1|Hele dag
+008372E1|1|Meer informatie
+008401BF|1|Altijd-aan
+008401BF|1|Slim
+00842C54|1|De tijd wordt ook weergegeven als het scherm is vergrendeld.
+00842C54|1|Altijd-aan wordt uitgeschakeld wanneer u gaat slapen of uw band afdoet.
+008372E1|1|Dit heeft invloed op de levensduur van de batterij, doorgaan?
+008372E1|1|Start
+008372E1|1|Beëindigen
+008372E1|1|Status
+00845666|1|-%d
+0084851C|1|%d
+008372E1|1|Gevoeligheid
+0083A75D|1|Slim
+0083C957|1|Hoog
+0083C957|1|Standaard
+008372E1|1|Dit heeft invloed op de levensduur van de batterij, doorgaan?
+0084923C|1|s
+0084923C|1|min.
+008372E1|1|Automatische detectie
+008372E1|1|Trainingsdetectie
+00842C54|1|Begrepen
+00842C54|1|Begrepen
+0083A75D|1|Schakel Onregelmatige BPM uit om een monitoringfrequentie in te stellen.
+0084851C|1|%d:%02d
+0084AF9B|1|Dit heeft invloed op de levensduur van de batterij, doorgaan?
+008372E1|1|Uit
+008372E1|1|Slim
+00842C54|1|Altijd-aan wordt uitgeschakeld wanneer u gaat slapen of uw band afdoet.
+008372E1|1|Icoon modus
+008372E1|1|Lijstmodus
+008372E1|1|Systeem
+008372E1|1|Opnieuw opstarten
+008372E1|1|Uitschakelen
+008372E1|1|Resetten
+008372E1|1|Nu opnieuw opstarten?
+008372E1|1|Nu uitschakelen?
+0084AF9B|1|Alle data wissen?
+008401BF|1|Naam
+008401BF|1|Model
+008401BF|1|MAC-adres
+008401BF|1|Versie Nr.
+008401BF|1|Serienummer
+008401BF|1|Regelgeving
+008372E1|1|Trilling
+0084F9F9|1|Krachtig
+0083C957|1|Standaard
+0083C957|1|Krachtig
+00851F2A|1|%d
+0083A75D|1|%d/%d
+008372E1|1|Opwarmen
+00842C54|1|Voltooid
+00845666|1|%2d:%2d:%2d
+008372E1|1|Training
+00845666|1|%d
+008543CB|1|Doelslagen
+008543CB|1|Resterend
+00842C54|1|Overslaan
+008372E1|1|Rust uit
+008543CB|1|Rust
+008543CB|1|Resterend
+008372E1|1|Afkoelen
+00842C54|1|Beëindigen
+008372E1|1|Hardlopen
+008372E1|1|Vetverbranding
+008372E1|1|Geavanceerd
+008543CB|1|Introductie
+008543CB|1|Trainingsplan
+0084923C|1|Lopen
+0084923C|1|Basis joggen
+00842C54|1|Start
+008372E1|1|Recent
+0084F9F9|1|Lopen
+008401BF|1|Doel BPM
+00842C54|1|%d~%dbpm
+008401BF|1|Lopen
+00845666|1|%d:%02d
+008543CB|1|Timer
+008568B8|1|BPM
+008372E1|1|Het lijkt erop dat u aan het sporten bent
+00842C54|1|Buiten
+00842C54|1|Loopband
+00842C54|1|Afwijzen (%d s)
+00842C54|1|km
+00842C54|1|Pauze
+00842C54|1|Doorgaan
+0084AF9B|1|Trainingsafstand te kort om op te nemen. Beëindigen?
+0084AF9B|1|Work-out tijd te kort om op te nemen. Beëindigen?
+00842C54|1|Doorgaan
+00842C54|1|Beëindigen
+008372E1|1|Kalibratie
+00845666|1|.
+008577B1|1|km
+0084AF9B|1|Het scherm wordt vergrendeld wanneer u start
+008372E1|1|Ademen
+008585A2|1|Ademen
+008372E1|1|Tijd
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+0085C4C8|1|%d
+0085E8C6|1|%d
+008585A2|1|Ontspan
+00842C54|1|Focus op uw ademhaling
+008585A2|1|Laten we beginnen
+00842C54|1|Volg de bubbel
+008585A2|1|Inademen
+008585A2|1|Uitademen
+008585A2|1|Goed gedaan
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+00842C54|1|Sessie: %d min.
+008372E1|1|Resultaten
+00842C54|1|Huidige hartslag
+0085C4C8|1|89
+008577B1|1|BPM
+00842C54|1|Hartslag starten
+00842C54|1|Sessie
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008577B1|1|min.
+008372E1|1|Instellingen
+008372E1|1|Doel
+008372E1|1|Intervallen
+008372E1|1|Waarschuwingen
+008372E1|1|Lengte zwembad
+008372E1|1|Automatisch pauzeren
+008543CB|1|Open
+00861070|1|1.5 km
+008372E1|1|Open
+008372E1|1|Afstand
+008372E1|1|Tijd
+008372E1|1|Calorieën
+008372E1|1|Sprongen
+008372E1|1|Banen
+008543CB|1|5 km
+008372E1|1|Intervallen worden uitgeschakeld. Doorgaan?
+008372E1|1|Trainingsdoel wordt verwijderd. Doorgaan?
+008372E1|1|Afstand
+008372E1|1|Tijd
+008372E1|1|Calorieën
+008372E1|1|Sprongen
+008372E1|1|Banen
+008577B1|1|min.
+008577B1|1|kcal
+008577B1|1| 
+008577B1|1| 
+008372E1|1|Sets
+008372E1|1|Rust uit
+008577B1|1|s
+008577B1|1| 
+008372E1|1|Afstand
+008372E1|1|Tempo
+008372E1|1|Snelheid
+008372E1|1|Hartslag zone
+008372E1|1|Hoge hartslag
+00842C54|1|Alles uitschakelen
+00861070|1|Uit
+00861070|1|Intensief
+008372E1|1|Pacer
+00845666|1|5'00"
+00851F2A|1|4'50"
+008372E1|1|%d km/u
+008577B1|1|km/u
+008372E1|1|Uit
+008372E1|1|Licht
+008372E1|1|Intensief
+008372E1|1|Aerobic
+008372E1|1|Anaërobe
+008372E1|1|VO₂ max
+00861070|1|%u–%u BPM
+008372E1|1|Hoge hartslag
+008577B1|1|BPM
+008372E1|1|25 m
+008372E1|1|Aangepast
+008372E1|1|Aangepast
+008577B1|1|m
+008372E1|1|PIN instellen
+00862AA4|1|PIN invoeren
+00862AA4|1|PIN bevestigen
+00862AA4|1|Niet correct
+008372E1|1|Alle data wissen?
+008372E1|1|PIN uitschakelen
+008372E1|1|PIN wijzigen
+008372E1|1|PIN gewijzigd
+008372E1|1|PIN uitgeschakeld
+0083A75D|1|Uw band wordt automatisch vergrendeld wanneer u hem afdoet.
+00864609|1|Versnellen
+00864609|1|Ga zo door
+00864609|1|Langzamer
+00867035|1|%u'%02u''
+008585A2|1|Hoge hartslag
+00842C54|1|Calorieën
+00868901|1|345
+00842C54|1|Stappen
+00842C54|1|Beweging
+008698E5|1|323
+008372E1|1|Stappen
+008577B1|1| 
+008372E1|1|Staand
+008372E1|1|Beweging
+008372E1|1|Herinneringen
+008401BF|1|Stappen
+008401BF|1|Calorieën
+00862AA4|1|Staand
+00862AA4|1|Beweging
+008372E1|1|Slaap
+0086AB88|1|10
+00864609|1|u
+00864609|1|min.
+00842C54|1|Doel:
+0086D496|1|24:33
+00842C54|1|Geen gegevens
+008401BF|1|Slaap
+00842C54|1|1. Schakel Geavanceerde toezicht in om de REM slaap te volgen.\n2. Trek de bandriem aan.\n3. Hartslag- en SpO₂-metingen zijn afhankelijk van bewegingen, slaapkwaliteit en meer.
+008585A2|1|u
+008585A2|1|min.
+00842C54|1|Geen gegevens
+008372E1|1|Geavanceerde toezicht
+008372E1|1|Ademhalingsscore
+008372E1|1|Ademhalingsscore
+0083A75D|1|REM slaap bijhouden
+008372E1|1|Ademhalingsscore
+0083A75D|1|Toezicht op nachtelijke ademhaling
+008372E1|1|Slaap
+008543CB|1|Gem. BPM
+008372E1|1| 
+008543CB|1|Gem. SpO₂
+008372E1|1|Dutje
+008372E1|1|Hartslag
+0086D496|1|126
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+008372E1|1|Hoge hartslag
+008372E1|1|Lage hartslag
+008372E1|1|Onregelmatige BPM
+008372E1|1|Hartslag zone
+008543CB|1|VO₂ max
+008543CB|1|VO₂ max
+008543CB|1|Anaërobe
+008543CB|1|Intensief
+008543CB|1|Licht
+008543CB|1|Ontspannen
+008543CB|1|Ontspannen
+008372E1|1|%02d:%02d
+00842C54|1|Meten
+0086EC1C|1|144-224
+0086DB3E|1|BPM
+0086EC1C|1|12: 24-12: 25
+00842C54|1|Opnieuw proberen
+00842C54|1|Meten
+008401BF|1|Hartslag
+00842C54|1|Hartslag is het aantal keren dat de hartslagen per minuut (BPM) kloppen.\nMeestal varieert een rustende hartslag van 40 tot 100 BPM. Het varieert echter met leeftijd, geslacht en andere factoren.\nUw band ondersteunt een bereik van 30-220 BPM.
+008372E1|1|Meer informatie
+00842C54|1|Span de bandriem aan en probeer het opnieuw
+008372E1|1|Tips
+00842C54|1|Draag uw band boven uw polsbeen.
+00842C54|1|Houd uw band afgesteld en niet bewegend.
+00842C54|1|Metingen zijn afhankelijk van lage temperatuur, huidperfusie en meer.
+0084923C|1|Deze functie is niet bedoeld voor medische doeleinden.
+00842C54|1|Continue toezicht is uitgeschakeld.
+00842C54|1|Inschakelen
+008372E1|1|Continue toezicht
+008372E1|1|Onregelmatige BPM
+008372E1|1|Aan/Uit
+008372E1|1|Hoge hartslag
+008372E1|1|Lage hartslag
+0083A75D|1|Schakel Onregelmatige BPM uit om een monitoring frequentie in te stellen.
+008372E1|1|1 min.
+008372E1|1|10 min.
+008372E1|1|Automatisch
+008372E1|1|Tips
+00842C54|1|Measure heart rate every 10 mins
+008401BF|1|Automatisch
+00842C54|1|Verhoog de monitoring frequentie tijdens work-outs
+008372E1|1|Onregelmatige BPM
+0083A75D|1|Onregelmatige hartslag meldingen ontvangen
+008372E1|1|Dit heeft invloed op de levensduur van de batterij, doorgaan?
+008372E1|1|100 BPM
+008585A2|1|Lage hartslag
+008401BF|1|12: 30-12: 40
+00842C54|1|Details
+008585A2|1|Onregelmatige BPM
+008585A2|1|Meten
+00842C54|1|Blijf stil
+00842C54|1|Gemeten: %02d:%02d
+00842C54|1|Opnieuw proberen
+008543CB|1|Goal hit
+008543CB|1|Goal hit
+008543CB|1|Goal hit
+008543CB|1|Goal hit
+008585A2|1|Doelen bereikt
+008543CB|1|Bravo!
+008585A2|1|Kom in beweging!
+008585A2|1|Opstaan
+00842C54|1|Sta op en loop rond
+0084AF9B|1|Verbind uw telefoon om GPS-gegevens bij te werken.
+0084AF9B|1|Opslag is vol. Kan deze work-out niet opnemen.
+008372E1|1|GPS
+008585A2|1|Buiten hardlopen
+0084AF9B|1|Lokaliseren. Ga naar een open ruimte en wacht tot de work-out begint.
+00842C54|1|Wachten
+00842C54|1|Start
+0084AF9B|1|Train in een open ruimte
+00842C54|1|Afwijzen
+008372E1|1|Cycli
+0086DB3E|1|%u/%u/%u
+008372E1|1|Voorspellingen
+008543CB|1|Vruchtbaar
+008372E1|1|05.23-06.23
+00870DDA|1|Ovulatiedag
+00871BF0|1|Menstruatie
+008372E1|1|Meer informatie
+00842C54|1|Leg cyclusdetails vast in de app
+008401BF|1|1. Kleuren
+00842C54|1|Menstruatie
+008372E1|1|Menstruatie dag %d
+00842C54|1|Geschatte menstruatie
+008372E1|1|Menstruatie dag %d
+00842C54|1|Vruchtbaar
+00842C54|1|Vruchtbare periode dag %d
+00842C54|1|Ovulatiedag
+008372E1|1|Ovulatiedag
+008401BF|1|2. Tip
+00842C54|1|Hoe meer records u schrijft, hoe nauwkeuriger de voorspellingen zullen zijn.
+008585A2|1|Zwembad zwemmen
+008585A2|1|Open water
+008585A2|1|Zeilen
+008585A2|1|Paddle boarding
+008585A2|1|Waterpolo
+008585A2|1|Watersport
+008585A2|1|Waterskiën
+008585A2|1|Kajakken
+008585A2|1|Raften
+008585A2|1|Roeien
+008585A2|1|Motorboten
+008585A2|1|Vinnen zwemmen
+008585A2|1|Schoonspringen
+008585A2|1|Artistiek zwemmen
+008585A2|1|Snorkelen
+008585A2|1|Kitesurfen
+008585A2|1|Lopen
+008585A2|1|Wandelen
+008585A2|1|Buiten fietsen
+008585A2|1|Trekking
+008585A2|1|Trailrunning
+008585A2|1|Rotsklimmen
+008585A2|1|Skateboarden
+008585A2|1|Rolschaatsen
+008585A2|1|Parkour
+008585A2|1|ATV
+008585A2|1|Paragliden
+008585A2|1|Freestyle
+008585A2|1|Loopband
+008585A2|1|Touwtje springen
+008585A2|1|HIIT
+008585A2|1|Yoga
+008585A2|1|Indoor fietsen
+008585A2|1|Elliptische
+008585A2|1|Roeier
+008585A2|1|Trap klimmer
+008585A2|1|Stepper
+008585A2|1|Kerntraining
+008585A2|1|Flexibiliteit
+008585A2|1|Pilates
+008585A2|1|Gymnastiek
+008585A2|1|Rekken
+008585A2|1|Krachttraining
+008585A2|1|Crosstraining
+008585A2|1|Trappen lopen
+008585A2|1|Aerobics
+008585A2|1|Fysieke training
+008585A2|1|Wall ball
+008585A2|1|Halter
+008585A2|1|Barbell
+008585A2|1|Gewichtheffen
+008585A2|1|Deadlift
+008585A2|1|Burpee
+008585A2|1|Sit ups
+008585A2|1|Functionele training
+008585A2|1|Bovenlichaam
+008585A2|1|Onderlichaam
+008585A2|1|Buikspieren
+008585A2|1|Rug
+008585A2|1|Park dansen
+008585A2|1|Buik dans
+008585A2|1|Ballet
+008585A2|1|Street Dance
+008585A2|1|Zumba
+008585A2|1|Volksdans
+008585A2|1|Jazz dans
+008585A2|1|Latijnse dans
+008585A2|1|Boksen
+008585A2|1|Worstelen
+008585A2|1|Vechtsporten
+008585A2|1|Tai chi
+008585A2|1|Muay Thai
+008585A2|1|Judo
+008585A2|1|Taekwondo
+008585A2|1|Karate
+008585A2|1|Kickboksen
+008585A2|1|Kendo
+008585A2|1|Schermen
+008585A2|1|Tennis
+008585A2|1|Basketbal
+008585A2|1|Voetbal
+008585A2|1|Volleybal
+008585A2|1|Honkbal
+008585A2|1|Softbal
+008585A2|1|Amerikaans voetbal
+008585A2|1|Hockey
+008585A2|1|Tafeltennis
+008585A2|1|Badminton
+008585A2|1|Cricket
+008585A2|1|Handbal
+008585A2|1|Bowling
+008585A2|1|Squash
+008585A2|1|Biljart
+008585A2|1|Shuttle
+008585A2|1|Strandvoetbal
+008585A2|1|Strand volleybal
+008585A2|1|Sepak takraw
+008585A2|1|Schaatsen
+008585A2|1|Curling
+008585A2|1|Andere wintersporten
+008585A2|1|Sneeuwscooter
+008585A2|1|Ijshockey
+008585A2|1|Bobslee
+008585A2|1|Sleeën
+008585A2|1|Boogschieten
+008585A2|1|Darts
+008585A2|1|Paardrijden
+008585A2|1|Touwtrekken
+008585A2|1|Hoelahoep
+008585A2|1|Vliegeren
+008585A2|1|Vissen
+008585A2|1|Frisbee
+008585A2|1|Paardensport
+008585A2|1|Atletiek
+008585A2|1|Auto racen
+0083A75D|1|Ontvang herinneringen om een hardloop-, loop-, loopband-, roei- of springwork-out te starten en te beëindigen.
+00842C54|1|Sluimeren
+008372E1|1|Synchroniseren
+008372E1|1|Meldingen
+00842C54|1|Geen meldingen
+00842C54|1|Antwoord
+00842C54|1|Versturen
+008372E1|1|Verstuurd
+008372E1|1|Kon niet verzenden
+0084AF9B|1|Deze app toestaan om sms-berichten te verzenden
+0084AF9B|1|Sta deze app toe om uw contacten te lezen
+008372E1|1|Verzenden
+008728D5|1|Alarm
+008543CB|1|Geen alarmen
+008543CB|1|Tijd
+008543CB|1|Herhalen
+008372E1|1|Bewerken
+008372E1|1|Tijd
+008372E1|1|Herhalen
+00842C54|1|Verwijderen
+00842C54|1|OК
+008543CB|1|AM
+008543CB|1|PM
+00842C54|1|Sluimeren
+00842C54|1|Stoppen
+00842C54|1|Kan geen alarm toevoegen
+008543CB|1|Voeg maximaal 10 alarmen toe
+008372E1|1|Zoek telefoon
+008372E1|1|Uw telefoon gaat over
+008372E1|1|Verbinding verbroken
+008372E1|1|Kan niet vinden
+00842C54|1|Zoeken
+00842C54|1|Stoppen
+00842C54|1|Terug
+008372E1|1|Muziek
+008372E1|1|Toestemmingen
+008372E1|1|Een ogenblik geduld
+0083A75D|1|Koppel uw band met de app
+0083A75D|1|Schakel Notificatietoegang in voor de app
+0084AF9B|1|Schakel Notificatietoegang in voor de app
+00842C54|1|Niet gekoppeld
+008372E1|1|Niet afspelen
+008372E1|1|Verbinding verbroken
+008372E1|1|Toestemmingen
+008372E1|1|Camera
+008543CB|1|Open Camera op uw telefoon
+008372E1|1|Niet gekoppeld
+0084AF9B|1|Verbinding verbroken
+0083A75D|1|Ga naar Apparaat > Camera in de app
+0083A75D|1|Koppel uw band met de app
+008543CB|1|Inschakelen
+00842C54|1|Geen evenementen vandaag
+008372E1|1|Details
+008372E1|1|Details
+0084AF9B|1|Evenementen inschakelen in de app
+0084AF9B|1|Sluimer voor 10 minuten
+0084AF9B|1|Sluimer voor 10 minuten
+0084AF9B|1|Sluimer voor 10 minuten
+0084AF9B|1|Sluimer voor 10 minuten
+0084AF9B|1|Sluimer voor 10 minuten
+0084AF9B|1|Sluimer voor 10 minuten
+0084AF9B|1|Sluimer voor 10 minuten
+008372E1|1|Stopwatch
+008738DD|1|%02d
+0084AF9B|1|Stopwatch kan niet op de achtergrond draaien, afsluiten?
+008372E1|1|Timer
+00867035|1|%d
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|min.
+0086DB3E|1|uur
+0086DB3E|1|uur
+0086DB3E|1|uur
+0086DB3E|1|uur
+0086DB3E|1|uur
+0086DB3E|1|uur
+0086DB3E|1|uur
+0086DB3E|1|uur
+00842C54|1|Aangepast
+008372E1|1|Recent
+00851F2A|1|%02d:%02d:%02d
+0083A75D|1|Aangepast
+008372E1|1|Weer
+008372E1|1|Voorspelling
+008743A3|1|25°
+008372E1|1|Luchtkwaliteit
+0083A75D|1|AQI
+008568B8|1|Kom in beweging
+008372E1|1|Indexen
+0086DB3E|1| 
+00861070|1|UVI
+00861070|1|Vochtigheid
+008372E1|1|Zonsopgang en zonsondergang
+008372E1|1|Locaties
+00874BEE|1|Slaap lekker
+0084AF9B|1|Niet storen is ingeschakeld. Pak op om te wekken is uitgeschakeld.
+00842C54|1|Afwijzen
+00842C54|1|Tijd
+00851F2A|1|%02d:%02d
+00842C54|1|Slaap
+00864609|1|%d u %d min.
+0086EC1C|1|%d℃/%d℃
+008372E1|1|SpO₂
+00876FF1|1|98
+00842C54|1|Meten
+00842C54|1|Geen gegevens
+0087A9B7|1|98%
+008543CB|1|Draag uw band boven uw polsbeen.
+008543CB|1|Span de bandriem aan en probeer het opnieuw
+008543CB|1|Blijf stil
+0085C4C8|1|98%
+008585A2|1|SpO₂
+008401BF|1|85%
+00842C54|1|Details
+00842C54|1|Afwijzen
+008372E1|1|Hele dag volgen
+008372E1|1|Alert
+008372E1|1|Meer informatie
+008372E1|1|Hele dag volgen
+008543CB|1|Uit
+008543CB|1|80%
+0083A75D|1|Meet SpO₂ wanneer u niet beweegt
+00842C54|1|Draag uw band boven uw polsbeen.
+00842C54|1|Houd uw band afgesteld en niet bewegend.
+0084923C|1|Deze functie is niet bedoeld voor medische doeleinden.
+008543CB|1|SpO₂ staat voor het percentage zuurstof in uw bloed.
+008543CB|1|De metingen dalen doorgaans niet onder de 95% als ze actief zijn of onder de 90% tijdens het slapen. Neem de nodige maatregelen als uw bloedzuurstof onder de 90% komt.
+008543CB|1|Uw band ondersteunt een bereik van 75-100%.
+008543CB|1|Er zijn meerdere factoren die metingen inconsistent of onbetrouwbaar kunnen maken. Ze kunnen huidperfusie, permanente of tijdelijke huidveranderingen, beweging of houding tijdens de slaap omvatten. Al het bovenstaande kan leiden tot een vals alarm voor een laag zuurstofgehalte in het bloed. Onthoud dat dit geen medisch hulpmiddel is en dat de gegevens die het genereert niet kunnen worden gebruikt voor diagnose en behandeling.
+008372E1|1|Waarschuwingen
+008372E1|1|Work-out
+008372E1|1|Categorieën
+008372E1|1|Meer
+008372E1|1|Watersport
+008372E1|1|Zwembad zwemmen
+008372E1|1|Open water
+008372E1|1|Zeilen
+008372E1|1|Paddle boarding
+008372E1|1|Waterpolo
+008372E1|1|Waterskiën
+008372E1|1|Kajakken
+008372E1|1|Raften
+008372E1|1|Roeien
+008372E1|1|Motorboten
+008372E1|1|Vinnen zwemmen
+008372E1|1|Schoonspringen
+008372E1|1|Artistiek zwemmen
+008372E1|1|Snorkelen
+008372E1|1|Kitesurfen
+008372E1|1|Outdoor activiteiten
+008372E1|1|Buiten hardlopen
+008372E1|1|Lopen
+008372E1|1|Wandelen
+008372E1|1|Buiten fietsen
+008372E1|1|Trekking
+008372E1|1|Trailrunning
+008372E1|1|Rotsklimmen
+008372E1|1|Skateboarden
+008372E1|1|Rolschaatsen
+008372E1|1|Parkour
+008372E1|1|ATV
+008372E1|1|Paragliden
+008372E1|1|Freestyle
+008372E1|1|Loopband
+008372E1|1|Touwtje springen
+008372E1|1|HIIT
+008372E1|1|Yoga
+008372E1|1|Indoor fietsen
+008372E1|1|Elliptische
+008372E1|1|Roeier
+008372E1|1|Trap klimmer
+008372E1|1|Stepper
+008372E1|1|Kerntraining
+008372E1|1|Flexibiliteit
+008372E1|1|Pilates
+008372E1|1|Gymnastiek
+008372E1|1|Rekken
+008372E1|1|Krachttraining
+008372E1|1|Crosstraining
+008372E1|1|Trappen lopen
+008372E1|1|Aerobics
+008372E1|1|Fysieke training
+008372E1|1|Wall ball
+008372E1|1|Halter
+008372E1|1|Barbell
+008372E1|1|Gewichtheffen
+008372E1|1|Deadlift
+008372E1|1|Burpee
+008372E1|1|Sit ups
+008372E1|1|Functionele training
+008372E1|1|Bovenlichaam
+008372E1|1|Onderlichaam
+008372E1|1|Buikspieren
+008372E1|1|Rug
+008372E1|1|Dans
+008372E1|1|Park dansen
+008372E1|1|Buik dans
+008372E1|1|Ballet
+008372E1|1|Street Dance
+008372E1|1|Zumba
+008372E1|1|Volksdans
+008372E1|1|Jazz dans
+008372E1|1|Latijnse dans
+008372E1|1|Vechtsporten
+008372E1|1|Boksen
+008372E1|1|Worstelen
+008372E1|1|Vechtsporten
+008372E1|1|Tai chi
+008372E1|1|Muay Thai
+008372E1|1|Judo
+008372E1|1|Taekwondo
+008372E1|1|Karate
+008372E1|1|Kickboksen
+008372E1|1|Kendo
+008372E1|1|Schermen
+008372E1|1|Balsporten
+008372E1|1|Tennis
+008372E1|1|Basketbal
+008372E1|1|Voetbal
+008372E1|1|Volleybal
+008372E1|1|Honkbal
+008372E1|1|Softbal
+008372E1|1|Amerikaans voetbal
+008372E1|1|Hockey
+008372E1|1|Tafeltennis
+008372E1|1|Badminton
+008372E1|1|Cricket
+008372E1|1|Handbal
+008372E1|1|Bowling
+008372E1|1|Squash
+008372E1|1|Biljart
+008372E1|1|Shuttle
+008372E1|1|Strandvoetbal
+008372E1|1|Strand volleybal
+008372E1|1|Sepak takraw
+008372E1|1|Wintersport
+008372E1|1|Schaatsen
+008372E1|1|Curling
+008372E1|1|Andere wintersporten
+008372E1|1|Sneeuwscooter
+008372E1|1|Ijshockey
+008372E1|1|Bobslee
+008372E1|1|Sleeën
+008372E1|1|Recreatieve sporten
+008372E1|1|Boogschieten
+008372E1|1|Darts
+008372E1|1|Paardrijden
+008372E1|1|Touwtrekken
+008372E1|1|Hoelahoep
+008372E1|1|Vliegeren
+008372E1|1|Vissen
+008372E1|1|Frisbee
+008372E1|1|Overige
+008372E1|1|Paardensport
+008372E1|1|Atletiek
+008372E1|1|Auto racen
+008543CB|1|Open
+00845666|1|%02d:%02d:%02d
+00845666|1|%d.%d
+0087C637|1|km
+00845666|1|%d'%d"
+0084923C|1|Licht
+0084923C|1|Intensief
+0084923C|1|Aerobic
+0084923C|1|Anaërobe
+0084923C|1|VO₂ max
+00851F2A|1|%d
+0087C637|1|kcal
+0087C637|1|SPM
+0087C637|1|stap
+0087C637|1|stap
+0087C637|1|stappen
+0087C637|1|stappen
+0087C637|1|stap
+0087C637|1|stap
+0087C637|1|stappen
+0087C637|1|stappen
+0087C637|1|stappen
+0087C637|1|stappen
+0087C637|1|stap
+0087C637|1|stap
+0087C637|1|stappen
+0087C637|1|stappen
+0087C637|1|stappen
+0087C637|1|stappen
+00851F2A|1|0
+0084923C|1|/km
+0087C637|1|km/u
+0087C637|1|baan
+0087C637|1|baan
+0087C637|1|baan
+0087C637|1|baan
+0087C637|1|baan
+0087C637|1|baan
+0087C637|1|banen
+0087C637|1|banen
+0087C637|1|banen
+0087C637|1|banen
+0087C637|1|baan
+0087C637|1|baan
+0087C637|1|banen
+0087C637|1|banen
+0087C637|1|banen
+0087C637|1|banen
+0087C637|1|slag
+0087C637|1|slagen
+0087C637|1|sprong
+0087C637|1|sprong
+0087C637|1|sprong
+0087C637|1|sprong
+0087C637|1|sprongen
+0087C637|1|sprongen
+0087C637|1|sprongen
+0087C637|1|sprongen
+0087C637|1|slag
+0087C637|1|slag
+0087C637|1|slagen
+0087C637|1|slagen
+0087C637|1|slagen
+0087C637|1|slagen
+0087C637|1|SPM
+008568B8|1|/km
+008568B8|1|km achter
+0087D4DF|1|%u'%02u''
+008372E1|1|Stress
+008577B1|1|Gemiddeld
+008372E1|1|Details
+008543CB|1|Ontspannen
+008543CB|1|Mild
+008543CB|1|Gemiddeld
+008543CB|1|Ernstig
+008372E1|1|Afgelopen 7 dagen
+0086D496|1|05.12
+00842C54|1|Geen gegevens
+0084923C|1|Gemiddeld
+008372E1|1|De hele dag toezicht
+008372E1|1|Ontspan herinnering
+00842C54|1|Aan
+008372E1|1|De hele dag toezicht
+008372E1|1|Aan/Uit
+0084923C|1|Houd bij wanneer u inactief bent
+0084923C|1|Voer een ademhalingsoefening uit wanneer stressniveau tijdens de wakkere periode boven de 80 blijft
+008372E1|1|Meer informatie
+00842C54|1|Stress is de reactie van uw lichaam op uitdagingen en eisen.
+00842C54|1|Uw band meet uw stressniveau als u inactief bent.\nNiveaus:\nOntspannen: 1–25\nMild: 25–50\nGemiddeld: 51–80\nErnstig: 81–100.\nDeze functie is niet bedoeld voor medische doeleinden.
+00842C54|1|Metingen zijn afhankelijk van lage temperatuur, huidperfusie en meer.
+008401BF|1|99.0
+00842C54|1|Ademen
+0084AF9B|1|Hartslag
+0084AF9B|1|Alarm
+0084AF9B|1|SpO₂
+0084AF9B|1|Instellingen
+0084AF9B|1|Weer
+0084AF9B|1|Apparaat toevoegen
+0084AF9B|1|Statistieken
+008372E1|1|Band display verwijderen?
+008372E1|1|Veeg naar rechts op het band display om wijzigingen op te slaan.
+008372E1|1|Samenvatting
+008372E1|1|Hartslag
+008372E1|1|Tempo
+008372E1|1|Cadans
+00842C54|1|Bekijk details in de app
+008372E1|1|Snelheid
+008372E1|1|Slagsnelheid
+008372E1|1|Touwtje springen
+008372E1|1|Frequentie
+008372E1|1|SWOLF
+008372E1|1|Wandelen
+00845666|1|2:23.1
+008372E1|1|Slagen
+008372E1|1|Statistieken
+008372E1|1|Staand
+008372E1|1|Beweging
+008372E1|1|Batterij
+008372E1|1|Datum
+008372E1|1|UV
+00842C54|1|Synchroniseren
+008372E1|1|Kon niet synchroniseren
+008372E1|1|Fout
+0083A75D|1|Verwijder band displays en probeer het opnieuw
+008372E1|1|Wijzigingen opslaan?
+008372E1|1|Eenmaal
+008543CB|1|Eenmaal
+008372E1|1|Ma
+008372E1|1|Di
+008372E1|1|Wo
+008372E1|1|Do
+008372E1|1|Vr
+008372E1|1|Za
+008372E1|1|Zo
+008543CB|1| 
+008543CB|1|M
+008543CB|1|D
+008543CB|1|W
+008543CB|1|D
+008543CB|1|V
+008543CB|1|Z
+008543CB|1|Z
+008543CB|1|Dagelijks
+0084AF9B|1|Slaap
+0084AF9B|1|Stopwatch
+0084AF9B|1|Ademen
+0084AF9B|1|Cycli
+0084AF9B|1|Stress
+0084AF9B|1|Work-out
+0083A75D|1|Scannen om te downloaden
+0084AF9B|1|Koppelen met telefoon?
+008372E1|1|Regelgeving
+00842C54|1|Staand
+008372E1|1|Sluimeren
+008372E1|1|Alarm is uitgeschakeld
+008372E1|1|Gemist
+00851F2A|1|%02lu:%02lu
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+00842C54|1| 
+008698E5|1|8000
+008585A2|1|stap
+008585A2|1|stap
+008585A2|1|stap
+008585A2|1|stap
+008585A2|1|stappen
+008585A2|1|stappen
+008585A2|1|stappen
+008585A2|1|stappen
+008698E5|1|500
+008585A2|1|kcal
+008585A2|1|kcal
+008585A2|1|kcal
+008585A2|1|kcal
+008585A2|1|kcal
+008585A2|1|kcal
+008585A2|1|kcal
+008698E5|1|30
+008585A2|1|min.
+008585A2|1|min.
+008585A2|1|min.
+008585A2|1|min.
+008585A2|1|min.
+008585A2|1|min.
+008585A2|1|min.
+008585A2|1|min.
+008698E5|1|12
+008585A2|1|slag
+008585A2|1|slag
+008585A2|1|slag
+008585A2|1|slag
+008585A2|1|slagen
+008585A2|1|slagen
+008585A2|1|slagen
+008585A2|1|slagen
+008543CB|1|"Stappen" toont een dagelijkse stappentelling.
+008543CB|1|"Calorieën" toont het aantal actieve calorieën dat is verbrand door te bewegen en te sporten.
+008543CB|1|"Beweging" toont aan hoeveel tijd u besteedt aan matige en krachtige activiteit.
+008543CB|1|"Staand" toont de uren waarin u staat en beweegt.
+0084923C|1|km/u
+008372E1|1|80%
+008372E1|1|85%
+008372E1|1|90%
+008372E1|1|Work-out
+008372E1|1|Calorieën
+008372E1|1|Stappen
+008372E1|1|Hartslag
+008372E1|1|Stress
+008372E1|1|Alarm
+008372E1|1|Weer
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+008543CB|1|%u km
+00861070|1|%u km
+00861070|1|%u m
+00861070|1|%u m
+00861070|1|%u m
+00861070|1|%u m
+00861070|1|%u m
+00861070|1|%u m
+00861070|1|%u m
+008543CB|1|%u min.
+008543CB|1|%u min.
+008543CB|1|%u kcal
+00861070|1|%u kcal
+00861070|1|%u min.
+008543CB|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+008543CB|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+00861070|1|%u
+008577B1|1| 
+008372E1|1|Slagen
+008372E1|1|50 m
+00861070|1|Licht
+00861070|1|VO₂ max
+00861070|1|Aerobic
+00861070|1|Anaërobe
+008372E1|1|%u km
+008372E1|1|%u km/u
+008372E1|1|%u BPM
+008543CB|1|Voltooid
+0083C957|1|km
+008372E1|1|%
+008543CB|1|%d.%d km
+00861070|1|%d'%02d"
+008372E1|1|Focus
+008372E1|1|Rest
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+00845666|1|%02d:%02d
+0084851C|1|%02d:%02d
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|%d min. geleden
+0086DB3E|1|Zojuist
+0086DB3E|1|Zojuist
+0086DB3E|1|%02d min. geleden
+0086DB3E|1|%02d min. geleden
+0086DB3E|1|%02d min. geleden
+0086DB3E|1|%02d min. geleden
+0086DB3E|1|Gemeten: %02d:%02d
+00842C54|1|Rust: %02d
+00842C54|1|Rust: --
+008372E1|1|30 min.
+00842C54|1| 
+008401BF|1|Measure heart rate every 10 mins
+008401BF|1| 
+00842C54|1| 
+008372E1|1|40 BPM
+008372E1|1|45 BPM
+008372E1|1|50 BPM
+008372E1|1|110 BPM
+008372E1|1|120 BPM
+008372E1|1|130 BPM
+008372E1|1|140 BPM
+008372E1|1|150 BPM
+00874BEE|1|Tijd is om
+0083A75D|1|%d uur
+0083A75D|1|%d uur
+0083A75D|1|%d uur
+0083A75D|1|%d uur
+0083A75D|1|%d uren
+0083A75D|1|%d uren
+0083A75D|1|%d uren
+0083A75D|1|%d uren
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+008585A2|1|Kom in beweging
+00842C54|1|Schud het uit!
+008372E1|1|Opstaanherinneringen van vandaag uitschakelen?
+008543CB|1|Uit
+008543CB|1|100 BPM
+008543CB|1|110 BPM
+008543CB|1|120 BPM
+008543CB|1|130 BPM
+008543CB|1|140 BPM
+008543CB|1|150 BPM
+008543CB|1|40 BPM
+008543CB|1|45 BPM
+008543CB|1|50 BPM
+008543CB|1|Aan
+008543CB|1|Uit
+008543CB|1|1 min.
+008543CB|1|10 min.
+008543CB|1|30 min.
+008543CB|1|Automatisch
+0087D4DF|1|%d%%
+0084AF9B|1|Activiteit
+0084AF9B|1|Mi AI
+0084AF9B|1|Kaarten
+0084AF9B|1|Meldingen
+0084AF9B|1|Evenementen
+0084AF9B|1|Muziek
+0084AF9B|1|Camera
+0084AF9B|1|Timer
+0084AF9B|1|Zaklamp
+0084AF9B|1|Zoek telefoon
+0084AF9B|1|Help
+0087C637|1|"Pak op om te wekken" is ingeschakeld
+0087C637|1|"Pak op om te wekken" is uitgeschakeld
+0087C637|1|Niet storen is ingeschakeld
+0087C637|1|Niet storen is uitgeschakeld
+008372E1|1|Samenvatting
+008543CB|1|Geen gegevens
+00842C54|1|Bekijk details in de app
+0085C4C8|1|--
+008543CB|1|%d
+008543CB|1|%d
+008543CB|1|%d
+008543CB|1|%d
+008543CB|1|%d
+008543CB|1|%d
+008543CB|1|%d
+008543CB|1|%d–%d BPM
+008401BF|1|%d-%d
+008401BF|1|%02d:%02d-%02d:%02d
+0087EAC6|1|%d
+00845666|1|%02d:%02d:%02d
+00845666|1|:
+00845666|1|%02d:%02d.%02d
+0086EC1C|1|%02d:%02d:%02d.%02d
+0087F2C8|1|%02d:%02d:%02d.%02d
+0087F2C8|1|%02d:%02d.%02d
+0083A75D|1|%02u-%02u %02u:%02u
+00845666|1|%02u:%02u:%02u
+0086EC1C|1|%lu.%02lu
+0083A75D|1|km
+008372E1|1|Doel
+00861070|1|%u%%
+00861070|1|Voltooid
+0086EC1C|1|%lu
+00861070|1|Doel
+00861070|1|Actieve kcal
+0086EC1C|1|%lu'%02lu''
+00861070|1|Gem. tempo
+00861070|1|Stappen
+00861070|1|Gem. BPM
+00861070|1|Gem. SPM
+0085C4C8|1|%u'%02u''
+0086D496|1|%02u:%02u
+0085C4C8|1|%u
+00842C54|1|Bekijk details in de app
+00842C54|1|Terug
+00861070|1|Doel
+00861070|1|Voltooid
+00861070|1|Doel
+00861070|1|Voltooid
+00861070|1|Doel
+00861070|1|Voltooid
+00861070|1|Doel
+00861070|1|Voltooid
+00861070|1|Doel
+00861070|1|Voltooid
+00861070|1|m
+00861070|1|m
+00861070|1|m
+00861070|1|m
+00861070|1|m
+00861070|1|m
+00861070|1|m
+00861070|1|kcal
+00861070|1|kcal
+00861070|1|kcal
+00861070|1|kcal
+00861070|1|kcal
+00861070|1|kcal
+00861070|1|kcal
+00861070|1|baan
+00861070|1|sprong
+00861070|1|slag
+00861070|1|baan
+00861070|1|baan
+00861070|1|baan
+00861070|1|banen
+00861070|1|banen
+00861070|1|banen
+00861070|1|banen
+00861070|1|sprong
+00861070|1|sprong
+00861070|1|sprong
+00861070|1|sprongen
+00861070|1|sprongen
+00861070|1|sprongen
+00861070|1|sprongen
+00861070|1|slag
+00861070|1|slag
+00861070|1|slag
+00861070|1|slagen
+00861070|1|slagen
+00861070|1|slagen
+00861070|1|slagen
+008401BF|1|1 min.
+0086D496|1|%u
+008372E1|1|Geen gegevens vandaag
+008543CB|1|Vandaag
+008543CB|1|Morgen
+008543CB|1|Uit
+00842C54|1|Volgende
+00842C54|1|Schakel Menstruatievoorspelling in de app in
+00861070|1|Zojuist
+00861070|1|%d min. geleden
+00861070|1|%d min. geleden
+00861070|1|%d min. geleden
+00861070|1|%d min. geleden
+00861070|1|%d min. geleden
+00861070|1|%d min. geleden
+00861070|1|%d min. geleden
+00861070|1|%d:%02d
+00861070|1|Gisteren, %d:%02d
+00861070|1|%02d/%02d %d:%02d
+008401BF|1|%d melding
+008401BF|1|%d melding
+008401BF|1|%d melding
+008401BF|1|%d meldingen
+008401BF|1|%d meldingen
+008401BF|1|%d meldingen
+008401BF|1|%d meldingen
+00842C54|1|Wissen
+0086D496|1|00:00
+0086D496|1|12:00
+0086D496|1|24:00
+008543CB|1|Hele dag
+00842C54|1|Hele dag volgen is uitgeschakeld.
+00842C54|1|Span de bandriem aan en probeer het opnieuw
+0086D496|1|%02u:%02u
+0086EC1C|1|%02u:%02u-%02u:%02u
+008372E1|1|Waarschuwingen
+008543CB|1|Uw band waarschuwt u wanneer meetwaarden onder het ingestelde niveau detecteert. In de app kunt u meer gegevens bekijken. Als u zich onwel voelt, moet u een arts raadplegen.
+00842C54|1|Blijf stil
+00842C54|1|50% voltooid
+00842C54|1|Aan het kalibreren
+00842C54|1|Blijf tijdens het meten stil
+00842C54|1|Span de bandriem aan en probeer het opnieuw
+00842C54|1|Span de bandriem aan en probeer het opnieuw
+0087C637|1|m
+00842C54|1|Maak verbinding met de app om het weer bij te werken
+0084923C|1|Locaties instellen in de app
+00868901|1|%d
+008372E1|1|Een ogenblik geduld
+008543CB|1|Goed
+008543CB|1|Gemiddeld
+008543CB|1|Lichte vervuiling
+008543CB|1|Ongezond
+008543CB|1|Gevaarlijk
+008543CB|1|Erg gevaarlijk
+008401BF|1|Goed
+008401BF|1|Gemiddeld
+008401BF|1|Lichte vervuiling
+008401BF|1|Ongezond
+008401BF|1|Gevaarlijk
+008401BF|1|Erg gevaarlijk
+0083A75D|1|Variabele wind
+0083A75D|1|Wervelwind
+0083A75D|1|N-wind
+0083A75D|1|NO-wind
+0083A75D|1|O-wind
+0083A75D|1|ZO-wind
+0083A75D|1|Z-wind
+0083A75D|1|ZW-wind
+0083A75D|1|W-wind
+0083A75D|1|NW-wind
+008372E1|1|Helder
+008372E1|1|Bewolkt
+008372E1|1|Bewolkt
+008372E1|1|Bui
+008372E1|1|Onweersbui
+008372E1|1|Hagel
+008372E1|1|IJzel
+008372E1|1|Lichte regenval
+008372E1|1|Gematigde regenval
+008372E1|1|Zware regenval
+008372E1|1|Regenstorm
+008372E1|1|Stortbui
+008372E1|1|Hevige regenval
+008372E1|1|Sneeuwbuien
+008372E1|1|Lichte sneeuwval
+008372E1|1|Matige sneeuwval
+008372E1|1|Zware sneeuwval
+008372E1|1|Sneeuwstorm
+008372E1|1|Mistig
+008372E1|1|IJzel
+008372E1|1|Zandstorm
+008372E1|1|Lichte tot gematigde regenval
+008372E1|1|Gematigde tot zware regenval
+008372E1|1|Zware regen tot regenbui
+008372E1|1|Regenbui tot stortbui
+008372E1|1|Stortbui tot hevige regenval
+008372E1|1|Lichte tot gematigde sneeuwval
+008372E1|1|Gematigde tot zware sneeuwval
+008372E1|1|Zware sneeuw tot sneeuwstorm
+008372E1|1|Stof
+008372E1|1|Winderig
+008372E1|1|Zware zandstorm
+008372E1|1|Mist
+008372E1|1|Dikke mist
+008372E1|1|Een beetje nevel
+008372E1|1|Gematigde nevel
+008372E1|1|Sterke nevel
+008372E1|1|Hevige nevel
+008372E1|1|Mist
+008372E1|1|Zware mist
+008372E1|1|Geen rapport
+008372E1|1|Regen
+008372E1|1|Sneeuw
+0083A75D|1|Vandaag
+0083A75D|1|Ma
+0083A75D|1|Di
+0083A75D|1|Wo
+0083A75D|1|Do
+0083A75D|1|Vr
+0083A75D|1|Za
+0083A75D|1|Zo
+008698E5|1|%d%%
+008698E5|1|%d
+0083A75D|1|UVI
+0083A75D|1|Vochtigheid
+00876FF1|1|%02d:%02d
+00880101|1|%02d:%02d
+0083A75D|1|Slaapmodus uit op %02d:%02d
+008372E1|1|Onregelmatige BPM vereist een frequentie van 1 minuut. Doorgaan?
+00861070|1|Max. BPM
+00861070|1|Work-out
+00861070|1|Rust
+00861070|1|Sets
+00861070|1|Slagen
+00861070|1|Sprongen
+00861070|1|Snelheid
+00861070|1|Slagsnelheid
+00861070|1|Banen
+00861070|1|Hoofdstijl
+00861070|1|Gem. SWOLF
+00861070|1|Gem. SPM
+0086EC1C|1|%02lu:%02lu:%02lu
+00864609|1|Borstslag
+00864609|1|Medley
+00864609|1|Vrije slag
+00864609|1|Rugslag
+00864609|1|Vlinderslag
+0086EC1C|1|%lu.%lu
+008543CB|1|Max.
+008543CB|1|Max.
+008738DD|1|%u
+008372E1|1|Sets
+008372E1|1|On
+00842C54|1|Pak op om te wekken wordt uitgeschakeld wanneer u gaat slapen of uw band afdoet.
+008810FB|1|℃
+008810FB|1|℉
+008577B1|1|%d:%02d
+00876FF1|1|%u'%02u''
+00867035|1|%u'%02u''
+00842C54|1|Doel: %u'%02u''
+00874BEE|1|%u km/u
+00842C54|1|Doel: %u km/u
+00867035|1|%u
+00842C54|1|Doel BPM: %d–%d
+008401BF|1|%d
+00842C54|1|Threshold: %d BPM
+00867035|1|--
+0086EC1C|1|%d℉/%d℉
+00842C54|1|Begrepen
+00851F2A|1|%u
+008728D5|1|%%
+0084AF9B|1|Batterij onder %u%%. Laad nu op.
+008543CB|1|VO₂ max
+008543CB|1|Anaërobe
+008543CB|1|Intensief
+008543CB|1|Aerobic
+008543CB|1|Licht
+0086D496|1|%02lu:%02lu:%02lu
+008372E1|1|%02lu:%02lu:%02lu
+008577B1|1|BPM
+0087F2C8|1|%u
+00864609|1|%d℃/%d℃
+00864609|1|%d℉/%d℉
+00842C54|1|%d℃/%d℃
+00842C54|1|%d℉/%d℉
+00864609|1|℃
+00864609|1|℉
+00864609|1|-
+00842C54|1|-
+00842C54|1|Fietsen
+00842C54|1|Roeier
+008372E1|1|Maak verbinding met de app en probeer het opnieuw
+008372E1|1|Beginner
+008372E1|1|Uithoudingsvermogen
+008372E1|1|Interval
+008372E1|1|Basis hardlopen/lopen
+008372E1|1|Geavanceerd hardlopen/lopen
+008372E1|1|Basis joggen
+008372E1|1|Basis
+008372E1|1|Geavanceerd
+008372E1|1|MIIT
+008372E1|1|Basis
+008372E1|1|Geavanceerd
+008372E1|1|Basis
+008372E1|1|Geavanceerd
+0084923C|1|Combineert wandelen en joggen met intervallen.
+0084923C|1|Combineert wandelen en joggen met intervallen.
+0084923C|1|Joggen met een lage tot gemiddelde intensiteit.
+0084923C|1|Korter joggen voor vetverbranding en gewichtsverlies.
+0084923C|1|Lage tot gemiddelde intensiteit, langdurig joggen voor vetverbranding.
+0084923C|1|Gemiddelde tot hoge intensiteit intervaltraining.
+0084923C|1|Jog van gemiddelde lengte voor uithoudingsvermogen.
+0084923C|1|Langer joggen voor uithoudingsvermogen.
+0084923C|1|Kortere intervaltraining voor hart- en longgezondheid.
+0084923C|1|Langere intervaltraining voor hart- en longgezondheid.
+008372E1|1|%02u/%02u
+008372E1|1|Nu
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|In %u min.
+008372E1|1|Te laat
+00842C54|1|Ma 
+00842C54|1|Di 
+00842C54|1|Wo 
+00842C54|1|Do 
+00842C54|1|Vr 
+00842C54|1|Za 
+00842C54|1|Zo 
+00842C54|1|%u/%u 
+00842C54|1|%02u:%02u 
+00842C54|1|Vandaag 
+00842C54|1|Morgen 
+00876FF1|1|02d%:02d%
+008568B8|1|km vooruit
+00867035|1|--'--"
+00845666|1|--'--"
+00842C54|1|%02u:%02u-
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u uur
+008372E1|1|In %u dag
+008372E1|1|In %u dag
+008372E1|1|In %u dag
+008372E1|1|In %u dag
+008372E1|1|In %u dagen
+008372E1|1|In %u dagen
+008372E1|1|In %u dagen
+008372E1|1|In %u dagen
+008585A2|1|Batterij laag
+0084923C|1|Rennen
+0083A75D|1|%d min.
+0083A75D|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+0084AF9B|1|Update voorbereiden
+0084AF9B|1|Kon niet bijwerken.\nProbeer het opnieuw.
+0087F2C8|1|%
+00842C54|1|Tijd
+0084923C|1|Ontspannen
+0084923C|1|Mild
+0084923C|1|Ernstig
+00842C54|1|De hele dag toezicht is uitgeschakeld.
+00842C54|1|%02u:%02u AM–
+00842C54|1|%02u:%02u PM–
+00842C54|1|%02u:%02u AM
+00842C54|1|%02u:%02u PM
+0084AF9B|1|Ik bel u later.
+0084AF9B|1|Kan nu niet praten. Wat is er aan de hand?
+0084AF9B|1|Kan nu niet praten. Bel me later?
+0088118C|1|--
+00845666|1|%u%%
+008543CB|1|Doel
+00845666|1|%u
+0084AF9B|1|km
+0084AF9B|1|kcal
+0084AF9B|1|baan
+0084AF9B|1|baan
+0084AF9B|1|baan
+0084AF9B|1|banen
+0084AF9B|1|banen
+0084AF9B|1|banen
+0084AF9B|1|banen
+0084AF9B|1|slag
+0084AF9B|1|slag
+0084AF9B|1|slag
+0084AF9B|1|slagen
+0084AF9B|1|slagen
+0084AF9B|1|slagen
+0084AF9B|1|slagen
+0084AF9B|1|sprong
+0084AF9B|1|sprong
+0084AF9B|1|sprong
+0084AF9B|1|sprongen
+0084AF9B|1|sprongen
+0084AF9B|1|sprongen
+0084AF9B|1|sprongen
+00870DDA|1|Nieuw record!
+00845666|1|%02u:%02u:%02u
+0087F2C8|1|%lu.%lu.%lu
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %lu.%lu km
+008543CB|1|Doel: %02u:%02u:%02u
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u kcal
+008543CB|1|Doel: %u baan
+008543CB|1|Doel: %u baan
+008543CB|1|Doel: %u baan
+008543CB|1|Doel: %u baan
+008543CB|1|Doel: %u banen
+008543CB|1|Doel: %u banen
+008543CB|1|Doel: %u banen
+008543CB|1|Doel: %u banen
+008543CB|1|Doel: %u slag
+008543CB|1|Doel: %u slag
+008543CB|1|Doel: %u slag
+008543CB|1|Doel: %u slagen
+008543CB|1|Doel: %u slagen
+008543CB|1|Doel: %u slagen
+008543CB|1|Doel: %u slagen
+008543CB|1|Doel: %u sprong
+008543CB|1|Doel: %u sprong
+008543CB|1|Doel: %u sprong
+008543CB|1|Doel: %u sprongen
+008543CB|1|Doel: %u sprongen
+008543CB|1|Doel: %u sprongen
+008543CB|1|Doel: %u sprongen
+00842C54|1|Uw band waarschuwt u wanneer uw hartslag boven een ingestelde BPM komt. Uw hartslag stijgt onder stress.
+00842C54|1|Uw band waarschuwt u wanneer uw hartslag onder een ingestelde BPM komt. Uw hartslag vertraagt tijdens de slaap.\nAls u zich onwel voelt, moet u een arts raadplegen.
+008401BF|1|Hoge hartslag
+008401BF|1|Lage hartslag
+008372E1|1|Meer informatie
+008401BF|1|Joggen
+008401BF|1|Rennen
+008401BF|1|Sprinten
+00845666|1|%d
+0084F9F9|1|Joggen
+0084F9F9|1|Rennen
+0084F9F9|1|Sprinten
+0084923C|1|Rennen
+0084923C|1|Sprinten
+00845666|1|%02d
+00867035|1|%02d
+00867035|1|:
+00842C54|1|Bekijk details in de app
+008372E1|1|Het is u gelukt!
+00842C54|1|Voltooid
+00842C54|1|Doorgaan (%lu s)
+008372E1|1|Work-out
+008543CB|1|Tijd
+008543CB|1|Hartslag
+0087D4DF|1|%lu.%02lu
+008811CE|1|Automatisch
+0083C957|1|Automatisch
+008372E1|1|Succesvol ingesteld
+00842C54|1|Begrepen
+008372E1|1|Oververhitting. Uitschakelen.
+00861070|1|gem.
+008401BF|1|Batterij laag
+00842C54|1|AM
+00842C54|1|PM
+0086EC1C|1|%lu:%02lu
+00861070|1|%u.%02u km
+00861070|1|%u.%02u km
+00861070|1|%u.%02u km
+00842C54|1|Niet storen wordt ingeschakeld wanneer u gaat slapen of uw band afdoet.
+0083A75D|1|Waarschuw wanneer SpO₂-metingen onder het ingestelde niveau zijn tijdens de ontwaaktijd
+0086DB3E|1|%d:%02d AM
+0086DB3E|1|%d:%02d PM
+0086DB3E|1|Gisteren, %d:%02d AM
+0086DB3E|1|Gisteren, %d:%02d PM
+0086DB3E|1|%02d/%02d, %d:%02d AM
+0086DB3E|1|%02d/%02d, %d:%02d PM
+0084AF9B|1|Hardlopen
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u kcal
+0084923C|1|Doel: %u stap
+0084923C|1|Doel: %u stap
+0084923C|1|Doel: %u stap
+0084923C|1|Doel: %u stappen
+0084923C|1|Doel: %u stappen
+0084923C|1|Doel: %u stappen
+0084923C|1|Doel: %u stappen
+0084923C|1|Doel: %u slag
+0084923C|1|Doel: %u slag
+0084923C|1|Doel: %u slag
+0084923C|1|Doel: %u slagen
+0084923C|1|Doel: %u slagen
+0084923C|1|Doel: %u slagen
+0084923C|1|Doel: %u slagen
+0084923C|1|Doel: %u min.
+0084923C|1|Doel: %u min.
+0084923C|1|Doel: %u min.
+0084923C|1|Doel: %u min.
+0084923C|1|Doel: %u min.
+0084923C|1|Doel: %u min.
+0084923C|1|Doel: %u min.
+00862AA4|1|0123456789•
+00861070|1|Vandaag
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Menstruatie in %ud
+008372E1|1|Vruchtbare periode in %ud
+008372E1|1|Vruchtbare periode in %ud
+008372E1|1|Vruchtbare periode in %ud
+008372E1|1|Vruchtbare periode in %ud
+008372E1|1|Vruchtbare periode in %ud
+008372E1|1|Vruchtbare periode in %ud
+008372E1|1|Vruchtbare periode in %ud
+0084923C|1|Scan om help te zien
+00861070|1|Gisteren
+00861070|1|2d geleden
+00842C54|1|Trek de bandriem aan
+008372E1|1|Meer informatie
+00864609|1|Onbekend
+008585A2|1|Basis hardlopen/lopen
+008585A2|1|Geavanceerd hardlopen/lopen
+008585A2|1|Basis joggen
+008585A2|1|Basis
+008585A2|1|Geavanceerd
+008585A2|1|MIIT
+008585A2|1|Basis
+008585A2|1|Geavanceerd
+008585A2|1|Basis
+008585A2|1|Geavanceerd
+008585A2|1|Ernstig
+00842C54|1|Ademen
+00842C54|1|Lopen
+008372E1|1|Toestaan dat uw band de telefoon ontgrendelt?
+008372E1|1|Toegestaan
+008372E1|1|Kon niet toestaan
+008372E1|1|Help
+008372E1|1|Regelgeving
+008401BF|1|Model
+008401BF|1|CMIIT ID
+008568B8|1|Jan
+008568B8|1|Feb
+008568B8|1|Mar
+008568B8|1|Apr
+008568B8|1|Mei
+008568B8|1|Jun
+008568B8|1|Jul
+008568B8|1|Aug
+008568B8|1|Sep
+008568B8|1|Okt
+008568B8|1|Nov
+008568B8|1|Dec
+008543CB|1|Menstruatie in 1d
+008543CB|1|Menstruatie in 2d
+008543CB|1|Menstruatie in %ud
+008543CB|1|Menstruatie in %ud
+008543CB|1|Menstruatie in %ud
+008543CB|1|Menstruatie in %ud
+008543CB|1|Menstruatie in %ud
+008543CB|1|Menstruatie in %ud
+008543CB|1|Menstruatie in %ud
+008543CB|1|Ovulatie in 1d
+008543CB|1|Ovulatie in 2d
+008543CB|1|Ovulatie in %ud
+008543CB|1|Ovulatie in %ud
+008543CB|1|Ovulatie in %ud
+008543CB|1|Ovulatie in %ud
+008543CB|1|Ovulatie in %ud
+008543CB|1|Ovulatie in %ud
+008543CB|1|Ovulatie in %ud
+008372E1|1|Aan/Uit
+008372E1|1|Aan/Uit
+008585A2|1|Gemiste oproep
+00842C54|1|Begrepen
+00842C54|1|Sta de app toe om op de achtergrond te draaien
+00842C54|1|Amazon Alexa instellen in de app
+00842C54|1|Log in op uw Amazon account in de app
+00842C54|1|Kan geen video of audio afspelen op uw band
+00842C54|1|Verbinden…
+00842C54|1|Luisteren…
+00842C54|1|Denken…
+00842C54|1|Set a timer for 2 minutes
+00842C54|1|What's the weather?
+0083A75D|1|%02d:%02d–%02d:%02d
+0083A75D|1|%02d:%02d-%02d:%02d
+008577B1|1|Ontspannen
+008577B1|1|Mild
+008577B1|1|Ernstig
+008585A2|1|Gemiddeld
+008372E1|1|Dagelijks
+008372E1|1|Kon niet verbinden
+008372E1|1|Netwerkfout
+008372E1|1|Installatie vereist
+008372E1|1|Inloggen
+0086DB3E|1|Slagen
+00842C54|1|Gem.
+008577B1|1|SPM
+008577B1|1|km/u
+008577B1|1|JPM
+008372E1|1|Meer informatie
+00842C54|1|Batterij laag. Zaklamp is uit.
+00842C54|1|Sluiten
+0085C4C8|1|%.1f
+008738DD|1|%.1f
+0085C4C8|1|%u:%02u'%02u"
+008738DD|1|%u:%02u'%02u"
+0086EC1C|1|%u:%02u'%02u"
+0084923C|1|Geluid afspelen
+008401BF|1|De pincodes komen niet overeen
+008401BF|1|PIN invoeren
+008401BF|1|Nieuwe PIN<
+00842C54|1|Kon niet verbinden
+00842C54|1|Netwerkfout
+00842C54|1|Installatie vereist
+00842C54|1|Inloggen
+00842C54|1|Niet beschikbaar
+00862AA4|1|Nieuwe PIN
+00862AA4|1|PIN bevestigen
+00862AA4|1|   De pincodes komen niet overeen  
+00862AA4|1|PIN invoeren
+0083C957|1|%d
+008811CE|1|%d
+008543CB|1|%d u %d min.
+008543CB|1|%d uur
+008543CB|1|%d uur
+008543CB|1|%d uur
+008543CB|1|%d uur
+008543CB|1|%d uren
+008543CB|1|%d uren
+008543CB|1|%d uren
+008543CB|1|%d uren
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+008543CB|1|%d min.
+0084AF9B|1|%d'%02d"
+00861070|1|%02u/%02u
+00861070|1|%02u:%02u
+00864609|1|--℃/--℃
+00864609|1|--℉/--℉
+00842C54|1|--℃/--℃
+00842C54|1|--℉/--℉
+008543CB|1|Doel bereikt
+008543CB|1|Doel bereikt
+008543CB|1|Beweging doel bereikt
+008543CB|1|Staand doel bereikt
+008543CB|1|Stap doel bereikt
+008543CB|1|Calorie doel bereikt
+008543CB|1|Doel bereikt
+008543CB|1|Doel bereikt
+008543CB|1|Alle doelen bereikt
+008543CB|1|Goed gedaan
+008543CB|1|Doelen bereikt
+008543CB|1|Doelen bereikt
+008577B1|1|km/u
+008577B1|1|/km
+008372E1|1|AM
+008372E1|1|PM
+008372E1|1|Trainingsafstand te kort om op te nemen.
+008401BF|1|(Geen titel)
+008543CB|1|PIN vergeten?
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in %d sec
+0084AF9B|1|Probeer het opnieuw in 5 min.
+0084AF9B|1|Probeer het opnieuw in 10 min.
+0084AF9B|1|PIN resetten in de app
+008543CB|1|Begrepen
+00862AA4|1|Voer PIN in om te ontgrendelen
+008543CB|1|%d melding
+008543CB|1|%d melding
+008543CB|1|%d melding
+008543CB|1|%d meldingen
+008543CB|1|%d meldingen
+008543CB|1|%d meldingen
+008543CB|1|%d meldingen
+00883D32|1|--:--
+008372E1|1|Alexa
+0084AF9B|1|Niet beschikbaar
+008543CB|1|Amazon Alexa is niet beschikbaar in de regio van uw account
+008543CB|1|Controleer uw netwerkverbinding
+008372E1|1|U zei?
+008543CB|1|Begin met te zeggen
+0084923C|1|Ma
+0084923C|1|Di
+0084923C|1|Wo
+0084923C|1|Do
+0084923C|1|Vr
+0084923C|1|Za
+0084923C|1|Zo
+00861070|1|%u km/u
+008372E1|1|Koppelen
+0084AF9B|1|Kon niet koppelen
+00862AA4|1|Voer PIN in om te ontgrendelen
+00862AA4|1|Voer PIN in om te ontgrendelen
+0086DB3E|1|%d℃/%d℃
+0086DB3E|1|%d℉/%d℉
+008543CB|1|%d
+0087D4DF|1|%02d:%02d.%02d
+0084AF9B|1|m
+008543CB|1|Maak verbinding met uw band met de app
+0086DB3E|1|-
+00842C54|1|Bekijk details in de app
+008372E1|1|Contact customer support to get your device repaired
+0083A75D|1|Volg uw hartslag gedurende de dag
+0084AF9B|1|PIN ingesteld
+0083A75D|1|Ontvang herinneringen om een hardloop-, loop- of roeitraining te starten en te beëindigen.
+008372E1|1|Laden
+008568B8|1|.
+008577B1|1|.
+0086D496|1|.
+00883D32|1|.
+00861070|1|.
+0086DB3E|1|.
+00883DAD|1|.
+00883DD1|1|.
+0083A75D|1|.
+0084923C|1|.
+00883DFC|1|.
+0087EAC6|1|.
+008543CB|1|.
+00842C54|1|.
+008738DD|1|.
+008810FB|1|.
+0088118C|1|.
+0087C637|1|.
+00883E22|1|.
+008743A3|1|.
+00862AA4|1|.
+008401BF|1|.
+00883E4D|1|.
+00883E78|1|.
+0084AF9B|1|.
+008372E1|1|.
+0087F2C8|1|.
+008728D5|1|.
+00883EA6|1|.
+00883ED1|1|.
+0084851C|1|.
+00883EF5|1|.
+00870DDA|1|.
+00864609|1|.
+00880101|1|.
+00868901|1|.
+00883F2D|1|.
+008585A2|1|.
+0087D4DF|1|.
+008698E5|1|.
+008848A2|1|.
+00874BEE|1|.
+008848D6|1|.
+00867035|1|.
+00871BF0|1|.
+008811CE|1|.
+0087A9B7|1|.
+0086EC1C|1|.
+00886002|1|.
+0083C957|1|.
+0085C4C8|1|.
+00851F2A|1|.
+008372E1|1|u
+008372E1|1|min.
+00842C54|1|Niet vandaag weergeven
+0084AF9B|1|Niet beschikbaar
+008543CB|1|Amazon Alexa is niet beschikbaar in de regio van uw account
+00842C54|1|Roeier
+00842C54|1|Elliptische
+00842C54|1|Touwtje springen
+008585A2|1|Goed gedaan
+008543CB|1| 
+008543CB|1| 
+008543CB|1|Doel
+008543CB|1|Resterend
+008543CB|1|Doel
+008543CB|1|Resterend
+008543CB|1|Doel banen
+008543CB|1|Resterend
+008543CB|1|Doelsprongen
+008543CB|1|Resterend
+008372E1|1|Tijd
+008372E1|1|Afstand
+008372E1|1|Banen
+008372E1|1|Slagen
+008372E1|1|Sprongen
+008577B1|1| 
+00861070|1|%d:%02d
+00861070|1|%d min.
+00861070|1|%dmin. %02ds
+008372E1|1|Apps
+008401BF|1|Fitness
+008401BF|1|Basis
+008401BF|1|Weer
+008401BF|1|Gereedschappen
+008372E1|1|Stopwatch
+008372E1|1|Timer
+008372E1|1|Camera
+008372E1|1|Kaarten
+0084AF9B|1|De work-out tijd is te kort om op te nemen.
+0088603A|1|Stopwatch
+0088603A|1|Timer
+008811CE|1|%d℃
+008811CE|1|%d℉
+008811CE|1|-
+008811CE|1|--℃
+008811CE|1|--℉
+00842C54|1|Een ogenblik geduld
+00864609|1|Ademen
+008811CE|1|--
+008372E1|1|Automatisch
+008372E1|1|Aangepast
+008811CE|1|%d%%
+00842C54|1|Een ogenblik geduld
+00842C54|1|Niet afspelen
+00842C54|1|Verbinding verbroken
+008568B8|1|Veeg omhoog voor streepjescode
+008568B8|1|Veeg naar beneden voor QR-code
+0088603A|1|Roeier
+0088603A|1|Lopen
+0088603A|1|HIIT
+0088603A|1|Buiten fietsen
+0088603A|1|Indoor fietsen
+0088603A|1|Touwtje springen
+0088603A|1|Trekking
+0088603A|1|Wandelen
+0088603A|1|Elliptische
+0088603A|1|Buiten hardlopen
+0088603A|1|Zwembad zwemmen
+0088603A|1|Loopband
+0088603A|1|Trailrunning
+0088603A|1|Freestyle
+008848D6|1|%lu
+0087A9B7|1|%lu
+00842C54|1|Geen gegevens
+008811CE|1|--
+00842C54|1|min.
+008372E1|1|SpO₂
+008543CB|1|U hebt gisteren uw doel bereikt. Ga zo door vandaag!
+008543CB|1|U hebt gisteren 2 van de 3 doelen bereikt. U kunt het!
+008543CB|1|U hebt uw doelen gisteren niet gehaald. Laat vandaag tellen!
+008543CB|1|Uw doelen zijn binnen bereik - vandaag is een nieuwe dag!
+008543CB|1|U bent slechts 1000 stappen verwijderd van uw doel.
+008543CB|1|U bent slechts 50 kcal verwijderd van uw doel.
+008543CB|1|Er is nog tijd om het doel van vandaag te halen, ga zo door!
+008543CB|1|Sta vandaag nog twee keer op om uw doel te bereiken.
+008543CB|1|Sta vandaag nog een keer op om uw doel te bereiken.
+008543CB|1|U hebt gisteren uw doel bereikt. Ga zo door vandaag!
+008543CB|1|U hebt gisteren 2 van de 3 doelen bereikt. U kunt het!
+008543CB|1|U hebt uw doelen gisteren niet gehaald. Laat vandaag tellen!
+008543CB|1|Uw doelen zijn binnen bereik - vandaag is een nieuwe dag!
+008543CB|1|U bent slechts 1000 stappen verwijderd van uw doel.
+008543CB|1|U bent slechts 50 kcal verwijderd van uw doel.
+008543CB|1|U hebt uw doel bijna bereikt, eindig sterk!
+008543CB|1|Sta vandaag nog twee keer op om uw doel te bereiken.
+008543CB|1|Sta vandaag nog een keer op om uw doel te bereiken.
+00883F2D|1|Doel bereikt!
+0084AF9B|1|U kunt het!
+0084AF9B|1|Statistieken
+00861070|1|Aangepast
+0084AF9B|1|Kon niet koppelen
+0083A75D|1|Opnieuw proberen
+008543CB|1|Koppelen
+0084AF9B|1|Bevestig op uw telefoon
+0084AF9B|1|Koppelen...
+0084AF9B|1|Gekoppeld
+0083A75D|1|Scannen om app te downloaden
+0083A75D|1|Bevestig op uw telefoon
+00887ECE|1|繁體中文
+0084AF9B|1|English
+0084AF9B|1|Deutsch
+008887D5|1|한국어
+00888DA2|1|עברית
+00889172|1|ไทย
+008893A6|1|日本語
+008899D9|1|العربية
+0084AF9B|1|Italiano
+0084AF9B|1|Français
+0084AF9B|1|Español
+0084AF9B|1|Polski
+0084AF9B|1|Українська
+0084AF9B|1|Čeština
+0084AF9B|1|Русский
+0084AF9B|1|Nederlands
+0084AF9B|1|Português PT
+0084AF9B|1|Türkçe
+0084AF9B|1|Română
+0084AF9B|1|Eλληνικά
+0084AF9B|1|Português BR
+0084AF9B|1|Indonesia
+0084AF9B|1|Tiếng Việt
+0084AF9B|1|Norsk bokmål
+0084AF9B|1|Suomi
+0084AF9B|1|Svenska
+0084AF9B|1|Dansk
+00861070|1|Uit
+00861070|1|%d seconde
+00861070|1|%d seconde
+00861070|1|%d seconde
+00861070|1|%d seconden
+00861070|1|%d seconden
+00861070|1|%d seconden
+00861070|1|%d seconden
+00842C54|1|%u/%u/%u 
+008401BF|1|Xiaomi Smart Band 7 Pro
+00842C54|1|OK
+00862AA4|1|If the number of words is too long, please check it on the APP side
+008372E1|1|Snowboarden
+008372E1|1|Skiën
+008585A2|1|Snowboarden
+008585A2|1|Skiën
+0083A75D|1|Aangepast
+008372E1|1|Syncing
+0084AF9B|1|Preparing update
+00861070|1|VO₂ max
+0083A75D|1|Hoog

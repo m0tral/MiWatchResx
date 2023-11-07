@@ -1,0 +1,2071 @@
+00889E4B|1|Definições
+00889E4B|1|Ecrãs da pulseira
+00889E4B|1|Ecrã
+00889E4B|1|Vibração
+0088DD60|1|Predefinida
+0088DD60|1|Forte
+00889E4B|1|Deteção automática
+0088DD60|1|Desligado
+0088DD60|1|Ligado
+00889E4B|1|Não incomodar
+0088DD60|1|Desligado
+0088DD60|1|Inteligente
+0088DD60|1|Todo o dia
+00889E4B|1|Disposição da aplicação
+0088DD60|1|Modo Ícone
+0088DD60|1|Modo Lista
+00889E4B|1|PIN
+00889E4B|1|Sistema
+00889E4B|1|Sobre a pulseira
+00889E4B|1|Brilho
+00889E4B|1|Sempre ligado
+00889E4B|1|Bloqueio automático
+00889E4B|1|Cobrir para suspender
+00889E4B|1|Levantar para ligar o ecrã
+0088DD60|1|Autom.
+00890091|1|Autom.
+00889E4B|1|Desligado
+00889E4B|1|Inteligente
+00889E4B|1|Programado
+00889E4B|1|Todo o dia
+00889E4B|1|Saiba mais
+00893617|1|Sempre ligado
+00893617|1|Inteligente
+00895E90|1|A hora será exibida mesmo quando o ecrã estiver bloqueado.
+00895E90|1|O Ecrã sempre ligado vai desligar quando for dormir ou tirar a pulseira.
+00889E4B|1|Isto afetará a duração da bateria, continuar?
+00889E4B|1|Início
+00889E4B|1|Fim
+00889E4B|1|Estado
+00898E47|1|-%d
+0089BCFD|1|%d
+00889E4B|1|Sensibilidade
+0088DD60|1|Inteligente
+00890091|1|Alta
+00890091|1|Predefinida
+00889E4B|1|Isto afetará a duração da bateria, continuar?
+0089CA1D|1|s
+0089CA1D|1|m
+00889E4B|1|Deteção automática
+00889E4B|1|Deteção de treino
+00895E90|1|Percebi
+00895E90|1|Percebi
+0088DD60|1|Para definir uma frequência de monitorização, desligue a funcionalidade Arritmia cardíaca.
+0089BCFD|1|%d:%02d
+0089E97C|1|Isto afetará a duração da bateria, continuar?
+00889E4B|1|Desligado
+00889E4B|1|Inteligente
+00895E90|1|O Ecrã sempre ligado vai desligar quando for dormir ou tirar a pulseira.
+00889E4B|1|Modo Ícone
+00889E4B|1|Modo Lista
+00889E4B|1|Sistema
+00889E4B|1|Reiniciar
+00889E4B|1|Desligar
+00889E4B|1|Repor
+00889E4B|1|Reiniciar agora?
+00889E4B|1|Desligar agora?
+0089E97C|1|Apagar todos os dados?
+00893617|1|Nome
+00893617|1|Modelo
+00893617|1|Endereço MAC
+00893617|1|No. da versão
+00893617|1|No. de série
+00893617|1|Certificação
+00889E4B|1|Vibração
+008A33A7|1|Forte
+00890091|1|Predefinida
+00890091|1|Forte
+008A572E|1|%d
+0088DD60|1|%d/%d
+00889E4B|1|Aquecimento
+00895E90|1|Concluído
+00898E47|1|%2d:%2d:%2d
+00889E4B|1|Treino
+00898E47|1|%d
+008A7BCF|1|Objetivo de braçadas
+008A7BCF|1|Restante
+00895E90|1|Saltar
+00889E4B|1|Descanso
+008A7BCF|1|Descanso
+008A7BCF|1|Restante
+00889E4B|1|Desaquecimento
+00895E90|1|Encerrar
+00889E4B|1|Corrida
+00889E4B|1|Queima de gordura
+00889E4B|1|Avançado
+008A7BCF|1|Introdução
+008A7BCF|1|Plano de treino
+0089CA1D|1|Caminhada
+0089CA1D|1|Corrida básica
+00895E90|1|Iniciar
+00889E4B|1|Recente
+008A33A7|1|Caminhada
+00893617|1|Objetivo de BPM
+00895E90|1|%d~%dbpm
+00893617|1|Caminhada
+00898E47|1|%d:%02d
+008A7BCF|1|Temporizador
+008AA6CB|1|BPM
+00889E4B|1|Parece que está a se exercitar
+00895E90|1|Ao ar livre
+00895E90|1|Passadeira
+00895E90|1|Rejeitar (%ds)
+00895E90|1|km
+00895E90|1|Pausar
+00895E90|1|Continuar
+0089E97C|1|Distância do treino muito curta para registar. Encerrar?
+0089E97C|1|Tempo de treino muito curto para registar. Encerrar?
+00895E90|1|Continuar
+00895E90|1|Encerrar
+00889E4B|1|Calibração
+00898E47|1|.
+008AB5CA|1|km
+0089E97C|1|O ecrã bloqueia quando iniciares
+00889E4B|1|Respiração
+008AC37E|1|Respiração
+00889E4B|1|Duração
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008B0759|1|%d
+008B2B57|1|%d
+008AC37E|1|Relaxe
+00895E90|1|Foque na sua respiração
+008AC37E|1|Vamos lá
+00895E90|1|Siga a bolha
+008AC37E|1|Inspire
+008AC37E|1|Expire
+008AC37E|1|Bom trabalho
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00895E90|1|Sessão: %d min
+00889E4B|1|Resultados
+00895E90|1|FC atual
+008B0759|1|89
+008AB5CA|1|BPM
+00895E90|1|FC Inicial
+00895E90|1|Sessão
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+008AB5CA|1|min
+00889E4B|1|Definições
+00889E4B|1|Objetivo
+00889E4B|1|Intervalos
+00889E4B|1|Alertas
+00889E4B|1|Comprimento da piscina
+00889E4B|1|Pausa automática
+008A7BCF|1|Aberto
+008B5301|1|1.5 km
+00889E4B|1|Aberto
+00889E4B|1|Distância
+00889E4B|1|Duração
+00889E4B|1|Calorias
+00889E4B|1|Saltos
+00889E4B|1|Voltas
+008A7BCF|1|5 km
+00889E4B|1|Os intervalos serão desligados. Continuar?
+00889E4B|1|O objetivo de treino será removido. Continuar?
+00889E4B|1|Distância
+00889E4B|1|Duração
+00889E4B|1|Calorias
+00889E4B|1|Saltos
+00889E4B|1|Voltas
+008AB5CA|1|min
+008AB5CA|1|kcal
+008AB5CA|1| 
+008AB5CA|1| 
+00889E4B|1|Conjuntos
+00889E4B|1|Descanso
+008AB5CA|1|s
+008AB5CA|1| 
+00889E4B|1|Distância
+00889E4B|1|Ritmo
+00889E4B|1|Velocidade
+00889E4B|1|Zona de FC
+00889E4B|1|FC Alta
+00895E90|1|Desligar tudo
+008B5301|1|Desligado
+008B5301|1|Intensivo
+00889E4B|1|Ritmo
+00898E47|1|5'00"
+008A572E|1|4'50"
+00889E4B|1|%d km/h
+008AB5CA|1|km/h
+00889E4B|1|Desligado
+00889E4B|1|Leve
+00889E4B|1|Intensivo
+00889E4B|1|Aeróbico
+00889E4B|1|Anaeróbico
+00889E4B|1|VO₂ máximo
+008B5301|1|%u–%u BPM
+00889E4B|1|FC Alta
+008AB5CA|1|BPM
+00889E4B|1|25 m
+00889E4B|1|Personalizado
+00889E4B|1|Personalizado
+008AB5CA|1|m
+00889E4B|1|Definir PIN
+008B702E|1|Introduzir PIN
+008B702E|1|Confirmar PIN
+008B702E|1|Incorreto
+00889E4B|1|Apagar todos os dados?
+00889E4B|1|Desligar PIN
+00889E4B|1|Alterar PIN
+00889E4B|1|PIN alterado
+00889E4B|1|PIN desligado
+0088DD60|1|A sua pulseira bloqueará automaticamente quando a tirar.
+008B8E85|1|Acelere
+008B8E85|1|Continue
+008B8E85|1|Mais devagar
+008BBA79|1|%u'%02u''
+008AC37E|1|FC Alta
+00895E90|1|Calorias
+008BD345|1|345
+00895E90|1|Passos
+00895E90|1|Movimento
+008BE329|1|323
+00889E4B|1|Passos
+008AB5CA|1| 
+00889E4B|1|Em pé
+00889E4B|1|Movimento
+00889E4B|1|Lembretes
+00893617|1|Passos
+00893617|1|Calorias
+008B702E|1|Em pé
+008B702E|1|Movimento
+00889E4B|1|Sono
+008BF5CC|1|10
+008B8E85|1|h
+008B8E85|1|m
+00895E90|1|Objetivo:
+008C1EDA|1|24:33
+00895E90|1|Sem dados
+00893617|1|Sono
+00895E90|1|1. Para acompanhar o sono REM, ligue a Monitorização avançada.\n2. Prenda a pulseira firmemente.\n3. Leituras de Frequência cardíaca e SpO₂ dependem dos movimentos, qualidade do sono entre outros.
+008AC37E|1|h
+008AC37E|1|min
+00895E90|1|Sem dados
+00889E4B|1|Monitorização avançada
+00889E4B|1|Pontuação de respiração
+00889E4B|1|Pontuação de respiração
+0088DD60|1|Analisar o sono REM
+00889E4B|1|Pontuação de respiração
+0088DD60|1|Monitorizar respiração noturna
+00889E4B|1|Sono
+008A7BCF|1|BPM médio
+00889E4B|1| 
+008A7BCF|1|SpO₂ médio
+00889E4B|1|Soneca
+00889E4B|1|Frequência cardíaca
+008C1EDA|1|126
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+00889E4B|1|FC Alta
+00889E4B|1|FC Baixa
+00889E4B|1|Arritmia cardíaca
+00889E4B|1|Zona de FC
+008A7BCF|1|VO₂ máximo
+008A7BCF|1|VO₂ máximo
+008A7BCF|1|Anaeróbico
+008A7BCF|1|Intensivo
+008A7BCF|1|Leve
+008A7BCF|1|Relaxed
+008A7BCF|1|Relaxed
+00889E4B|1|%02d:%02d
+00895E90|1|A medir
+008C3632|1|144-224
+008C2582|1|BPM
+008C3632|1|12: 24-12: 25
+00895E90|1|Tentar novamente
+00895E90|1|Medir
+00893617|1|Frequência cardíaca
+00895E90|1|A frequência cardíaca é o número de vezes que o coração bate por minuto (BPM).\nGeralmente, uma frequência cardíaca em repouso varia de 40 a 100 BPM. No entanto, ela varia com a idade, género e outros fatores.\nSua pulseira suporta uma faixa de 30 a 220 BPM.
+00889E4B|1|Saiba mais
+00895E90|1|Aperte mais a pulseira e tente novamente
+00889E4B|1|Dicas
+00895E90|1|Utilize a sua pulseira acima do osso do pulso.
+00895E90|1|Mantenha a sua pulseira apertada e imóvel.
+00895E90|1|As medições dependem de temperatura baixa, perfusão da pele, e mais.
+0089CA1D|1|Esta funcionalidade não é indicada para finalidades médicas.
+00895E90|1|A Monitorização contínua está desligada.
+00895E90|1|Ligar
+00889E4B|1|Monitorização contínua
+00889E4B|1|Arritmia cardíaca
+00889E4B|1|Ligado/Desligado
+00889E4B|1|FC Alta
+00889E4B|1|FC Baixa
+0088DD60|1|Para definir uma frequência de monitorização, desligue a funcionalidade Arritmia cardíaca.
+00889E4B|1|1 min
+00889E4B|1|10 min
+00889E4B|1|Automático
+00889E4B|1|Dicas
+00895E90|1|Measure heart rate every 10 mins
+00893617|1|Automático
+00895E90|1|Aumentar frequência de monitorização durante os treinos
+00889E4B|1|Arritmia cardíaca
+0088DD60|1|Obter alertas de arritmia cardíaca
+00889E4B|1|Isto afetará a duração da bateria, continuar?
+00889E4B|1|100 BPM
+008AC37E|1|FC Baixa
+00893617|1|12: 30-12: 40
+00895E90|1|Detalhes
+008AC37E|1|Arritmia cardíaca
+008AC37E|1|A medir
+00895E90|1|Não se mova
+00895E90|1|Medido: %02d:%02d
+00895E90|1|Tentar novamente
+008A7BCF|1|Goal hit
+008A7BCF|1|Goal hit
+008A7BCF|1|Goal hit
+008A7BCF|1|Goal hit
+008AC37E|1|Objetivos alcançados
+008A7BCF|1|Bravo!
+008AC37E|1|Continue!
+008AC37E|1|Levante-se
+00895E90|1|Levante-se e mova-se um pouco
+0089E97C|1|Ligue-se ao seu telemóvel para atualizar os dados de GPS.
+0089E97C|1|O armazenamento está cheio. Não é possível registar este treino.
+00889E4B|1|GPS
+008AC37E|1|Corrida ao ar livre
+0089E97C|1|Localizando. Vá para uma área aberta e aguarde para iniciar o treino.
+00895E90|1|Aguarde
+00895E90|1|Iniciar
+0089E97C|1|Exercite-se em uma área externa
+00895E90|1|Rejeitar
+00889E4B|1|Ciclos
+008C2582|1|%u/%u/%u
+00889E4B|1|Previsões
+008A7BCF|1|Fértil
+00889E4B|1|05.23-06.23
+008C57F0|1|Dia de ovulação
+008C6503|1|Período
+00889E4B|1|Saiba mais
+00895E90|1|Registe detalhes do ciclo na aplicação
+00893617|1|1. Cores
+00895E90|1|Período
+00889E4B|1|Dia %d do período
+00895E90|1|Período estimado
+00889E4B|1|Dia %d do período
+00895E90|1|Fértil
+00895E90|1|Dia %d do período fértil
+00895E90|1|Dia de ovulação
+00889E4B|1|Dia de ovulação
+00893617|1|2. Dica
+00895E90|1|Quanto mais informações forem registadas, mais precisas as previsões vão ser.
+008AC37E|1|Natação em piscina
+008AC37E|1|Natação de águas abertas
+008AC37E|1|Vela
+008AC37E|1|Paddleboarding
+008AC37E|1|Polo aquático
+008AC37E|1|Desportos aquáticos
+008AC37E|1|Esqui aquático
+008AC37E|1|Caiaque
+008AC37E|1|Rafting
+008AC37E|1|Remo
+008AC37E|1|Motonáutica
+008AC37E|1|Natação com barbatanas
+008AC37E|1|Salto ornamental
+008AC37E|1|Nado artístico
+008AC37E|1|Snorkeling
+008AC37E|1|Kitesurfing
+008AC37E|1|Caminhada
+008AC37E|1|Escalada
+008AC37E|1|Ciclismo ao ar livre
+008AC37E|1|Trekking
+008AC37E|1|Corrida em trilha
+008AC37E|1|Escalada em rocha
+008AC37E|1|Skateboard
+008AC37E|1|Patinagem
+008AC37E|1|Parkour
+008AC37E|1|ATV
+008AC37E|1|Parapente
+008AC37E|1|Livre
+008AC37E|1|Passadeira
+008AC37E|1|Saltar à corda
+008AC37E|1|HIIT
+008AC37E|1|Ioga
+008AC37E|1|Ciclismo indoor
+008AC37E|1|Elíptico
+008AC37E|1|Remo seco
+008AC37E|1|Máquina de escalada
+008AC37E|1|Stepper
+008AC37E|1|Treino de base
+008AC37E|1|Flexibilidade
+008AC37E|1|Pilates
+008AC37E|1|Ginástica
+008AC37E|1|Alongamentos
+008AC37E|1|Força
+008AC37E|1|Treino cruzado
+008AC37E|1|Subida em escada
+008AC37E|1|Aeróbica
+008AC37E|1|Treino físico
+008AC37E|1|Bola na parede
+008AC37E|1|Halteres
+008AC37E|1|Barbell
+008AC37E|1|Levantamento de peso
+008AC37E|1|Levantamento terra
+008AC37E|1|Burpee
+008AC37E|1|Abdominais
+008AC37E|1|Treino funcional
+008AC37E|1|Tronco
+008AC37E|1|Pernas
+008AC37E|1|Abdominal
+008AC37E|1|Costas
+008AC37E|1|Contradança
+008AC37E|1|Dança do ventre
+008AC37E|1|Balé
+008AC37E|1|Dança de rua
+008AC37E|1|Zumba
+008AC37E|1|Dança folclórica
+008AC37E|1|Dança de Jazz
+008AC37E|1|Dança latina
+008AC37E|1|Boxe
+008AC37E|1|Luta livre
+008AC37E|1|Artes marciais
+008AC37E|1|Tai chi
+008AC37E|1|Muay Thai
+008AC37E|1|Judo
+008AC37E|1|Taekwondo
+008AC37E|1|Karaté
+008AC37E|1|Kickboxing
+008AC37E|1|Kendo
+008AC37E|1|Esgrima
+008AC37E|1|Ténis
+008AC37E|1|Basquetebol
+008AC37E|1|Futebol
+008AC37E|1|Voleibol
+008AC37E|1|Beisebol
+008AC37E|1|Softball
+008AC37E|1|Futebol Americano
+008AC37E|1|Hóquei
+008AC37E|1|Ténis de mesa
+008AC37E|1|Badminton
+008AC37E|1|Críquete
+008AC37E|1|Andebol
+008AC37E|1|Bólingue
+008AC37E|1|Squash
+008AC37E|1|Bilhar
+008AC37E|1|Peteca
+008AC37E|1|Futebol de areia
+008AC37E|1|Voleibol de praia
+008AC37E|1|Sepak takraw
+008AC37E|1|Patinagem no gelo
+008AC37E|1|Curling
+008AC37E|1|Outros desportos de inverno
+008AC37E|1|Moto de neve
+008AC37E|1|Hóquei no gelo
+008AC37E|1|Bobsleigh
+008AC37E|1|Andar de trenó
+008AC37E|1|Tiro com arco
+008AC37E|1|Dardos
+008AC37E|1|Andar a cavalo
+008AC37E|1|Cabo de guerra
+008AC37E|1|Bambolê
+008AC37E|1|Voo de pipa
+008AC37E|1|Pescaria
+008AC37E|1|Disco voador
+008AC37E|1|Equitação
+008AC37E|1|Atletismo
+008AC37E|1|Automobilismo
+0088DD60|1|Receba lembretes para iniciar e encerrar um treino de corrida, caminhada, passadeira, remo ou saltos.
+00895E90|1|Soneca
+00889E4B|1|A sincronizar
+00889E4B|1|Notificações
+00895E90|1|Sem notificações
+00895E90|1|Responder
+00895E90|1|Enviar
+00889E4B|1|Enviado
+00889E4B|1|Não foi possível enviar
+0089E97C|1|Permita que esta aplicação envie mensagens SMS
+0089E97C|1|Permita que esta aplicação leia os seus contactos
+00889E4B|1|A enviar
+008C6E68|1|Alarme
+008A7BCF|1|Sem alarmes
+008A7BCF|1|Hora
+008A7BCF|1|Repetir
+00889E4B|1|Editar
+00889E4B|1|Hora
+00889E4B|1|Repetir
+00895E90|1|Eliminar
+00895E90|1|OK
+008A7BCF|1|AM
+008A7BCF|1|PM
+00895E90|1|Soneca
+00895E90|1|Parar
+00895E90|1|Não é possível adicionar o alarme
+008A7BCF|1|Adicione um máximo de 10 alarmes
+00889E4B|1|Localizar telemóvel
+00889E4B|1|O seu telemóvel vai tocar
+00889E4B|1|Desligado
+00889E4B|1|Não é possível localizar
+00895E90|1|Procurar
+00895E90|1|Parar
+00895E90|1|Anterior
+00889E4B|1|Música
+00889E4B|1|Permissões
+00889E4B|1|Um momento
+0088DD60|1|Emparelhe a sua pulseira com a aplicação
+0088DD60|1|Ligue o Acesso às notificações para a aplicação
+0089E97C|1|Ligue o Acesso às notificações para a aplicação
+00895E90|1|Não emparelhado
+00889E4B|1|Não está a reproduzir
+00889E4B|1|Desligado
+00889E4B|1|Permissões
+00889E4B|1|Câmara
+008A7BCF|1|Abra a Câmara no seu telemóvel
+00889E4B|1|Não emparelhado
+0089E97C|1|Desligado
+0088DD60|1|Vá a Dispositivo > Câmara na aplicação
+0088DD60|1|Emparelhe a sua pulseira com a aplicação
+008A7BCF|1|Ligar
+00895E90|1|Sem eventos para hoje
+00889E4B|1|Detalhes
+00889E4B|1|Detalhes
+0089E97C|1|Ligue os Eventos na aplicação
+0089E97C|1|Soneca por 10 min
+0089E97C|1|Soneca por 10 min
+0089E97C|1|Soneca por 10 min
+0089E97C|1|Soneca por 10 min
+0089E97C|1|Soneca por 10 min
+0089E97C|1|Soneca por 10 min
+0089E97C|1|Soneca por 10 min
+00889E4B|1|Cronómetro
+008C7F60|1|%02d
+0089E97C|1|O crónímetro não pode funcionar em segundo plano, sair?
+00889E4B|1|Temporizador
+008BBA79|1|%d
+008C2582|1|min
+008C2582|1|min
+008C2582|1|min
+008C2582|1|min
+008C2582|1|min
+008C2582|1|min
+008C2582|1|min
+008C2582|1|min
+008C2582|1|h
+008C2582|1|h
+008C2582|1|h
+008C2582|1|h
+008C2582|1|h
+008C2582|1|h
+008C2582|1|h
+008C2582|1|h
+00895E90|1|Personalizado
+00889E4B|1|Recente
+008A572E|1|%02d:%02d:%02d
+0088DD60|1|Personalizado
+00889E4B|1|Tempo
+00889E4B|1|Previsão
+008C8A26|1|25°
+00889E4B|1|Qualidade do ar
+0088DD60|1|AQI
+008AA6CB|1|Mova-se
+00889E4B|1|Índices
+008C2582|1| 
+008B5301|1|IUV
+008B5301|1|Umidade
+00889E4B|1|Nascer e pôr do sol
+00889E4B|1|Localizações
+008C9271|1|Durma bem
+0089E97C|1|O Não incomodar está ligado. Levantar para ligar o ecrã está desligado.
+00895E90|1|Rejeitar
+00895E90|1|Duração
+008A572E|1|%02d:%02d
+00895E90|1|Sono
+008B8E85|1|%dh %dmin
+008C3632|1|%d℃/%d℃
+00889E4B|1|SpO₂
+008CB73B|1|98
+00895E90|1|Medir
+00895E90|1|Sem dados
+008CF101|1|98%
+008A7BCF|1|Utilize a sua pulseira acima do osso do pulso.
+008A7BCF|1|Aperte mais a pulseira e tente novamente
+008A7BCF|1|Não se mova
+008B0759|1|98%
+008AC37E|1|SpO₂
+00893617|1|85%
+00895E90|1|Detalhes
+00895E90|1|Rejeitar
+00889E4B|1|Acompanhamento 24h
+00889E4B|1|Alerta
+00889E4B|1|Saiba mais
+00889E4B|1|Acompanhamento 24h
+008A7BCF|1|Desligado
+008A7BCF|1|80%
+0088DD60|1|Medir o SpO₂ quando não estiver a se mover
+00895E90|1|Utilize a sua pulseira acima do osso do pulso.
+00895E90|1|Mantenha a sua pulseira apertada e imóvel.
+0089CA1D|1|Esta funcionalidade não é indicada para finalidades médicas.
+008A7BCF|1|O SpO₂ representa a percentagem de oxigénio no seu sangue.
+008A7BCF|1|As leituras normalmente não ficam abaixo de 95% quando está ativo ou 90% durante o sono. Tome medidas necessárias se o seu oxigénio no sangue ficar abaixo de 90%.
+008A7BCF|1|A sua pulseira suporta uma faixa de 75 a 100%.
+008A7BCF|1|Há vários fatores que podem tornar as medições inconsistentes ou não confiáveis. Eles podem incluir perfusão da pele, mudanças permanentes ou temporárias em sua pele, movimento ou postura durante o sono. Todos os fatores acima podem resultar em um alerta de oxigénio no sangue falsamente baixo. Lembre-se que este não é um dispositivo médico, e os dados que ele gera não podem ser utilizados para diagnóstico e tratamento.
+00889E4B|1|Alertas
+00889E4B|1|Treino
+00889E4B|1|Categorias
+00889E4B|1|Mais
+00889E4B|1|Desportos aquáticos
+00889E4B|1|Natação em piscina
+00889E4B|1|Natação de águas abertas
+00889E4B|1|Vela
+00889E4B|1|Paddleboarding
+00889E4B|1|Polo aquático
+00889E4B|1|Esqui aquático
+00889E4B|1|Caiaque
+00889E4B|1|Rafting
+00889E4B|1|Remo
+00889E4B|1|Motonáutica
+00889E4B|1|Natação com barbatanas
+00889E4B|1|Salto ornamental
+00889E4B|1|Nado artístico
+00889E4B|1|Snorkeling
+00889E4B|1|Kitesurfing
+00889E4B|1|Atividades ao ar livre
+00889E4B|1|Corrida ao ar livre
+00889E4B|1|Caminhada
+00889E4B|1|Escalada
+00889E4B|1|Ciclismo ao ar livre
+00889E4B|1|Trekking
+00889E4B|1|Corrida em trilha
+00889E4B|1|Escalada em rocha
+00889E4B|1|Skateboard
+00889E4B|1|Patinagem
+00889E4B|1|Parkour
+00889E4B|1|ATV
+00889E4B|1|Parapente
+00889E4B|1|Livre
+00889E4B|1|Passadeira
+00889E4B|1|Saltar à corda
+00889E4B|1|HIIT
+00889E4B|1|Ioga
+00889E4B|1|Ciclismo indoor
+00889E4B|1|Elíptico
+00889E4B|1|Remo seco
+00889E4B|1|Máquina de escalada
+00889E4B|1|Stepper
+00889E4B|1|Treino de base
+00889E4B|1|Flexibilidade
+00889E4B|1|Pilates
+00889E4B|1|Ginástica
+00889E4B|1|Alongamentos
+00889E4B|1|Força
+00889E4B|1|Treino cruzado
+00889E4B|1|Subida em escada
+00889E4B|1|Aeróbica
+00889E4B|1|Treino físico
+00889E4B|1|Bola na parede
+00889E4B|1|Halteres
+00889E4B|1|Barbell
+00889E4B|1|Levantamento de peso
+00889E4B|1|Levantamento terra
+00889E4B|1|Burpee
+00889E4B|1|Abdominais
+00889E4B|1|Treino funcional
+00889E4B|1|Tronco
+00889E4B|1|Pernas
+00889E4B|1|Abdominal
+00889E4B|1|Costas
+00889E4B|1|Dança
+00889E4B|1|Contradança
+00889E4B|1|Dança do ventre
+00889E4B|1|Balé
+00889E4B|1|Dança de rua
+00889E4B|1|Zumba
+00889E4B|1|Dança folclórica
+00889E4B|1|Dança de Jazz
+00889E4B|1|Dança latina
+00889E4B|1|Desportos de combate
+00889E4B|1|Boxe
+00889E4B|1|Luta livre
+00889E4B|1|Artes marciais
+00889E4B|1|Tai chi
+00889E4B|1|Muay Thai
+00889E4B|1|Judo
+00889E4B|1|Taekwondo
+00889E4B|1|Karaté
+00889E4B|1|Kickboxing
+00889E4B|1|Kendo
+00889E4B|1|Esgrima
+00889E4B|1|Desportos com bola
+00889E4B|1|Ténis
+00889E4B|1|Basquetebol
+00889E4B|1|Futebol
+00889E4B|1|Voleibol
+00889E4B|1|Beisebol
+00889E4B|1|Softball
+00889E4B|1|Futebol Americano
+00889E4B|1|Hóquei
+00889E4B|1|Ténis de mesa
+00889E4B|1|Badminton
+00889E4B|1|Críquete
+00889E4B|1|Andebol
+00889E4B|1|Bólingue
+00889E4B|1|Squash
+00889E4B|1|Bilhar
+00889E4B|1|Peteca
+00889E4B|1|Futebol de areia
+00889E4B|1|Voleibol de praia
+00889E4B|1|Sepak takraw
+00889E4B|1|Desportos de inverno
+00889E4B|1|Patinagem no gelo
+00889E4B|1|Curling
+00889E4B|1|Outros desportos de inverno
+00889E4B|1|Moto de neve
+00889E4B|1|Hóquei no gelo
+00889E4B|1|Bobsleigh
+00889E4B|1|Andar de trenó
+00889E4B|1|Desportos recreativos
+00889E4B|1|Tiro com arco
+00889E4B|1|Dardos
+00889E4B|1|Andar a cavalo
+00889E4B|1|Cabo de guerra
+00889E4B|1|Bambolê
+00889E4B|1|Voo de pipa
+00889E4B|1|Pescaria
+00889E4B|1|Disco voador
+00889E4B|1|Outros
+00889E4B|1|Equitação
+00889E4B|1|Atletismo
+00889E4B|1|Automobilismo
+008A7BCF|1|Aberto
+00898E47|1|%02d:%02d:%02d
+00898E47|1|%d.%d
+008D0D81|1|km
+00898E47|1|%d'%d"
+0089CA1D|1|Leve
+0089CA1D|1|Intensivo
+0089CA1D|1|Aeróbico
+0089CA1D|1|Anaeróbico
+0089CA1D|1|VO₂ máximo
+008A572E|1|%d
+008D0D81|1|kcal
+008D0D81|1|PPM
+008D0D81|1|passo
+008D0D81|1|passo
+008D0D81|1|passos
+008D0D81|1|passos
+008D0D81|1|passo
+008D0D81|1|passo
+008D0D81|1|passos
+008D0D81|1|passos
+008D0D81|1|passos
+008D0D81|1|passos
+008D0D81|1|passo
+008D0D81|1|passo
+008D0D81|1|passos
+008D0D81|1|passos
+008D0D81|1|passos
+008D0D81|1|passos
+008A572E|1|0
+0089CA1D|1|/km
+008D0D81|1|km/h
+008D0D81|1|volta
+008D0D81|1|volta
+008D0D81|1|volta
+008D0D81|1|volta
+008D0D81|1|volta
+008D0D81|1|volta
+008D0D81|1|voltas
+008D0D81|1|voltas
+008D0D81|1|voltas
+008D0D81|1|voltas
+008D0D81|1|volta
+008D0D81|1|volta
+008D0D81|1|voltas
+008D0D81|1|voltas
+008D0D81|1|voltas
+008D0D81|1|voltas
+008D0D81|1|braçada
+008D0D81|1|braçadas
+008D0D81|1|salto
+008D0D81|1|salto
+008D0D81|1|salto
+008D0D81|1|salto
+008D0D81|1|saltos
+008D0D81|1|saltos
+008D0D81|1|saltos
+008D0D81|1|saltos
+008D0D81|1|braçada
+008D0D81|1|braçada
+008D0D81|1|braçadas
+008D0D81|1|braçadas
+008D0D81|1|braçadas
+008D0D81|1|braçadas
+008D0D81|1|BPM
+008AA6CB|1|/km
+008AA6CB|1|km atrás
+008D1D77|1|%u'%02u''
+00889E4B|1|Stress
+008AB5CA|1|Moderado
+00889E4B|1|Detalhes
+008A7BCF|1|Relaxado(a)
+008A7BCF|1|Leve
+008A7BCF|1|Moderado
+008A7BCF|1|Severo
+00889E4B|1|Últimos 7 dias
+008C1EDA|1|05.12
+00895E90|1|Sem dados
+0089CA1D|1|Moderado
+00889E4B|1|Monitorização durante todo o dia
+00889E4B|1|Lembrete para relaxar
+00895E90|1|Ligado
+00889E4B|1|Monitorização durante todo o dia
+00889E4B|1|Ligado/Desligado
+0089CA1D|1|Monitorizar quando estiver sedentário(a)
+0089CA1D|1|Indicar exercício de respiração quando o nível de stress permanecer acima de 80 quando estiver acordado
+00889E4B|1|Saiba mais
+00895E90|1|O stress é a reação do seu corpo aos desafios e demandas.
+00895E90|1|A sua pulseira mede seu nível de stress quando está inativo(a).\nNíveis:\nRelaxado(a): 1-25\nLeve: 25-50\nModerado: 51-80\nSevero: 81-100.\nEsta funcionalidade não é indicada para finalidades médicas.
+00895E90|1|As medições dependem de temperatura baixa, perfusão da pele, e mais.
+00893617|1|99.0
+00895E90|1|Respiração
+0089E97C|1|Frequência cardíaca
+0089E97C|1|Alarme
+0089E97C|1|SpO₂
+0089E97C|1|Definições
+0089E97C|1|Tempo
+0089E97C|1|Adicionar dispositivo
+0089E97C|1|Estatísticas
+00889E4B|1|Eliminar ecrã da pulseira?
+00889E4B|1|Para guardar as alterações, deslize para a direita no ecrã da pulseira.
+00889E4B|1|Resumo
+00889E4B|1|Frequência cardíaca
+00889E4B|1|Ritmo
+00889E4B|1|Cadência
+00895E90|1|Veja os detalhes na aplicação
+00889E4B|1|Velocidade
+00889E4B|1|Taxa de braçadas
+00889E4B|1|Saltar à corda
+00889E4B|1|Frequência
+00889E4B|1|SWOLF
+00889E4B|1|Escalada
+00898E47|1|2:23.1
+00889E4B|1|Braçadas
+00889E4B|1|Estatísticas
+00889E4B|1|Em pé
+00889E4B|1|Movimento
+00889E4B|1|Bateria
+00889E4B|1|Data
+00889E4B|1|UV
+00895E90|1|A sincronizar
+00889E4B|1|Não foi possível sincronizar
+00889E4B|1|Erro
+0088DD60|1|Remova os ecrãs da pulseira e tente novamente
+00889E4B|1|Guardar as alterações?
+00889E4B|1|Uma vez
+008A7BCF|1|Uma vez
+00889E4B|1|Seg.
+00889E4B|1|Terç.
+00889E4B|1|Qua.
+00889E4B|1|Qui.
+00889E4B|1|Sex.
+00889E4B|1|Sáb.
+00889E4B|1|Dom.
+008A7BCF|1| 
+008A7BCF|1|S
+008A7BCF|1|T
+008A7BCF|1|Q
+008A7BCF|1|Q
+008A7BCF|1|S
+008A7BCF|1|S
+008A7BCF|1|D
+008A7BCF|1|Diariamente
+0089E97C|1|Sono
+0089E97C|1|Cronómetro
+0089E97C|1|Respiração
+0089E97C|1|Ciclos
+0089E97C|1|Stress
+0089E97C|1|Treino
+0088DD60|1|Digitalize para transferir
+0089E97C|1|Emparelhar com o telemóvel?
+00889E4B|1|Certificação
+00895E90|1|Em pé
+00889E4B|1|Adiado
+00889E4B|1|O Alarme está desligado
+00889E4B|1|Perdido
+008A572E|1|%02lu:%02lu
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+00895E90|1| 
+008BE329|1|8000
+008AC37E|1|passo
+008AC37E|1|passo
+008AC37E|1|passo
+008AC37E|1|passo
+008AC37E|1|passos
+008AC37E|1|passos
+008AC37E|1|passos
+008AC37E|1|passos
+008BE329|1|500
+008AC37E|1|kcal
+008AC37E|1|kcal
+008AC37E|1|kcal
+008AC37E|1|kcal
+008AC37E|1|kcal
+008AC37E|1|kcal
+008AC37E|1|kcal
+008BE329|1|30
+008AC37E|1|min
+008AC37E|1|min
+008AC37E|1|min
+008AC37E|1|min
+008AC37E|1|min
+008AC37E|1|min
+008AC37E|1|min
+008AC37E|1|min
+008BE329|1|12
+008AC37E|1|braçada
+008AC37E|1|braçada
+008AC37E|1|braçada
+008AC37E|1|braçada
+008AC37E|1|braçadas
+008AC37E|1|braçadas
+008AC37E|1|braçadas
+008AC37E|1|braçadas
+008A7BCF|1|"Passos" mostra a contagem diária de passos.
+008A7BCF|1|"Calorias" mostra o número de calorias ativas queimadas através de movimentos e exercícios.
+008A7BCF|1|"Movimento" mostra o seu tempo a realizar atividades moderadas e intensas.
+008A7BCF|1|"Em pé" mostra as horas nas quais se levanta e move um pouco.
+0089CA1D|1|km/h
+00889E4B|1|80%
+00889E4B|1|85%
+00889E4B|1|90%
+00889E4B|1|Treino
+00889E4B|1|Calorias
+00889E4B|1|Passos
+00889E4B|1|Frequência cardíaca
+00889E4B|1|Stress
+00889E4B|1|Alarme
+00889E4B|1|Tempo
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008A7BCF|1|%u km
+008B5301|1|%u km
+008B5301|1|%u m
+008B5301|1|%u m
+008B5301|1|%u m
+008B5301|1|%u m
+008B5301|1|%u m
+008B5301|1|%u m
+008B5301|1|%u m
+008A7BCF|1|%u min
+008A7BCF|1|%u min
+008A7BCF|1|%u kcal
+008B5301|1|%u kcal
+008B5301|1|%u min
+008A7BCF|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008A7BCF|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008B5301|1|%u
+008AB5CA|1| 
+00889E4B|1|Braçadas
+00889E4B|1|50 m
+008B5301|1|Leve
+008B5301|1|VO₂ máximo
+008B5301|1|Aeróbico
+008B5301|1|Anaeróbico
+00889E4B|1|%u km
+00889E4B|1|%u km/h
+00889E4B|1|%u BPM
+008A7BCF|1|Concluído
+00890091|1|km
+00889E4B|1|%
+008A7BCF|1|%d.%d km
+008B5301|1|%d'%02d"
+00889E4B|1|Focus
+00889E4B|1|Rest
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+00898E47|1|%02d:%02d
+0089BCFD|1|%02d:%02d
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|%dmin atrás
+008C2582|1|Agora mesmo
+008C2582|1|Agora mesmo
+008C2582|1|%02dmin atrás
+008C2582|1|%02dmin atrás
+008C2582|1|%02dmin atrás
+008C2582|1|%02dmin atrás
+008C2582|1|Medido: %02d:%02d
+00895E90|1|Repouso: %02d
+00895E90|1|Repouso: --
+00889E4B|1|30 min
+00895E90|1| 
+00893617|1|Measure heart rate every 10 mins
+00893617|1| 
+00895E90|1| 
+00889E4B|1|40 BPM
+00889E4B|1|45 BPM
+00889E4B|1|50 BPM
+00889E4B|1|110 BPM
+00889E4B|1|120 BPM
+00889E4B|1|130 BPM
+00889E4B|1|140 BPM
+00889E4B|1|150 BPM
+008C9271|1|Acabou o tempo
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d h
+0088DD60|1|%d min
+0088DD60|1|%d min
+0088DD60|1|%d min
+0088DD60|1|%d min
+0088DD60|1|%d min
+0088DD60|1|%d min
+0088DD60|1|%d min
+0088DD60|1|%d min
+008AC37E|1|Mova-se
+00895E90|1|Agite-se!
+00889E4B|1|Desligar os lembretes de levantar-se hoje?
+008A7BCF|1|Desligado
+008A7BCF|1|100 BPM
+008A7BCF|1|110 BPM
+008A7BCF|1|120 BPM
+008A7BCF|1|130 BPM
+008A7BCF|1|140 BPM
+008A7BCF|1|150 BPM
+008A7BCF|1|40 BPM
+008A7BCF|1|45 BPM
+008A7BCF|1|50 BPM
+008A7BCF|1|Ligado
+008A7BCF|1|Desligado
+008A7BCF|1|1 min
+008A7BCF|1|10 min
+008A7BCF|1|30 min
+008A7BCF|1|Automático
+008D1D77|1|%d%%
+0089E97C|1|Atividade
+0089E97C|1|Mi AI
+0089E97C|1|Cartões
+0089E97C|1|Notificações
+0089E97C|1|Eventos
+0089E97C|1|Música
+0089E97C|1|Câmara
+0089E97C|1|Temporizador
+0089E97C|1|Lanterna
+0089E97C|1|Localizar telemóvel
+0089E97C|1|Ajuda
+008D0D81|1|"Levantar para ligar ecrã" ligado
+008D0D81|1|"Levantar para ligar ecrã" desligado
+008D0D81|1|Não incomodar ligado
+008D0D81|1|Não incomodar desligado
+00889E4B|1|Resumo
+008A7BCF|1|Sem dados
+00895E90|1|Veja os detalhes na aplicação
+008B0759|1|--
+008A7BCF|1|%d
+008A7BCF|1|%d
+008A7BCF|1|%d
+008A7BCF|1|%d
+008A7BCF|1|%d
+008A7BCF|1|%d
+008A7BCF|1|%d
+008A7BCF|1|%d–%d BPM
+00893617|1|%d-%d
+00893617|1|%02d:%02d-%02d:%02d
+008D335E|1|%d
+00898E47|1|%02d:%02d:%02d
+00898E47|1|:
+00898E47|1|%02d:%02d.%02d
+008C3632|1|%02d:%02d:%02d.%02d
+008D3B60|1|%02d:%02d:%02d.%02d
+008D3B60|1|%02d:%02d.%02d
+0088DD60|1|%02u-%02u %02u:%02u
+00898E47|1|%02u:%02u:%02u
+008C3632|1|%lu.%02lu
+0088DD60|1|km
+00889E4B|1|Objetivo
+008B5301|1|%u%%
+008B5301|1|Concluído
+008C3632|1|%lu
+008B5301|1|Objetivo
+008B5301|1|Kcal ativas
+008C3632|1|%lu'%02lu''
+008B5301|1|Ritmo médio
+008B5301|1|Passos
+008B5301|1|BPM médio
+008B5301|1|SPM médio
+008B0759|1|%u'%02u''
+008C1EDA|1|%02u:%02u
+008B0759|1|%u
+00895E90|1|Veja os detalhes na aplicação
+00895E90|1|Anterior
+008B5301|1|Objetivo
+008B5301|1|Concluído
+008B5301|1|Objetivo
+008B5301|1|Concluído
+008B5301|1|Objetivo
+008B5301|1|Concluído
+008B5301|1|Objetivo
+008B5301|1|Concluído
+008B5301|1|Objetivo
+008B5301|1|Concluído
+008B5301|1|m
+008B5301|1|m
+008B5301|1|m
+008B5301|1|m
+008B5301|1|m
+008B5301|1|m
+008B5301|1|m
+008B5301|1|kcal
+008B5301|1|kcal
+008B5301|1|kcal
+008B5301|1|kcal
+008B5301|1|kcal
+008B5301|1|kcal
+008B5301|1|kcal
+008B5301|1|volta
+008B5301|1|salto
+008B5301|1|braçada
+008B5301|1|volta
+008B5301|1|volta
+008B5301|1|volta
+008B5301|1|voltas
+008B5301|1|voltas
+008B5301|1|voltas
+008B5301|1|voltas
+008B5301|1|salto
+008B5301|1|salto
+008B5301|1|salto
+008B5301|1|saltos
+008B5301|1|saltos
+008B5301|1|saltos
+008B5301|1|saltos
+008B5301|1|braçada
+008B5301|1|braçada
+008B5301|1|braçada
+008B5301|1|braçadas
+008B5301|1|braçadas
+008B5301|1|braçadas
+008B5301|1|braçadas
+00893617|1|1 min
+008C1EDA|1|%u
+00889E4B|1|Sem dados hoje
+008A7BCF|1|Hoje
+008A7BCF|1|Amanhã
+008A7BCF|1|Desligado
+00895E90|1|Seguinte
+00895E90|1|Ligue a Previsão de períodos na aplicação
+008B5301|1|Agora mesmo
+008B5301|1|%dmin atrás
+008B5301|1|%dmin atrás
+008B5301|1|%dmin atrás
+008B5301|1|%dmin atrás
+008B5301|1|%dmin atrás
+008B5301|1|%dmin atrás
+008B5301|1|%dmin atrás
+008B5301|1|%d:%02d
+008B5301|1|Ontem, %d:%02d
+008B5301|1|%02d/%02d %d:%02d
+00893617|1|%d notificação
+00893617|1|%d notificação
+00893617|1|%d notificação
+00893617|1|%d notificações
+00893617|1|%d notificações
+00893617|1|%d notificações
+00893617|1|%d notificações
+00895E90|1|Limpar
+008C1EDA|1|00:00
+008C1EDA|1|12:00
+008C1EDA|1|24:00
+008A7BCF|1|Todo o dia
+00895E90|1|O Acompanhamento 24h está desligado.
+00895E90|1|Aperte mais a pulseira e tente novamente
+008C1EDA|1|%02u:%02u
+008C3632|1|%02u:%02u-%02u:%02u
+00889E4B|1|Alertas
+008A7BCF|1|A sua pulseira notifica-lhe quando deteta leituras abaixo do nível definido. Pode ver mais dados na aplicação. Caso não se sinta bem, procure auxílio médico.
+00895E90|1|Não se mova
+00895E90|1|50% concluído
+00895E90|1|A calibrar
+00895E90|1|Fique imóvel ao medir
+00895E90|1|Aperte mais a pulseira e tente novamente
+00895E90|1|Aperte mais a pulseira e tente novamente
+008D0D81|1|m
+00895E90|1|Ligue à aplicação para atualizar o tempo
+0089CA1D|1|Definir localizações na aplicação
+008BD345|1|%d
+00889E4B|1|Um momento
+008A7BCF|1|Boa
+008A7BCF|1|Moderada
+008A7BCF|1|Poluição ligeira
+008A7BCF|1|Pouco saudável
+008A7BCF|1|Perigosa
+008A7BCF|1|Arriscada
+00893617|1|Boa
+00893617|1|Moderada
+00893617|1|Poluição ligeira
+00893617|1|Pouco saudável
+00893617|1|Perigosa
+00893617|1|Arriscada
+0088DD60|1|Vento variável
+0088DD60|1|Furacão
+0088DD60|1|Vento N
+0088DD60|1|Vento NE
+0088DD60|1|Vento L
+0088DD60|1|Vento SE
+0088DD60|1|Vento S
+0088DD60|1|Vento SO
+0088DD60|1|Vento O
+0088DD60|1|Vento NO
+00889E4B|1|Céu limpo
+00889E4B|1|Com nuvens
+00889E4B|1|Céu nublado
+00889E4B|1|Aguaceiros
+00889E4B|1|Trovoada
+00889E4B|1|Granizo
+00889E4B|1|Granizo
+00889E4B|1|Chuva fraca
+00889E4B|1|Chuva moderada
+00889E4B|1|Chuva forte
+00889E4B|1|Tempestade chuvosa
+00889E4B|1|Chuva intensa
+00889E4B|1|Tempestade forte
+00889E4B|1|Chuva de neve
+00889E4B|1|Neve fraca
+00889E4B|1|Neve moderada
+00889E4B|1|Neve intensa
+00889E4B|1|Nevão
+00889E4B|1|Neblina
+00889E4B|1|Chuva gelada
+00889E4B|1|Tempestade de areia
+00889E4B|1|Chuva fraca a moderada
+00889E4B|1|Chuva moderada a forte
+00889E4B|1|Chuva forte a tempestade
+00889E4B|1|Tempestade a chuva torrencial
+00889E4B|1|Chuva torrencial a tempestade forte
+00889E4B|1|Neve fraca a moderada
+00889E4B|1|Neve moderada a forte
+00889E4B|1|Neve forte a nevão
+00889E4B|1|Poeira
+00889E4B|1|Ventoso
+00889E4B|1|Forte tempestade de areia
+00889E4B|1|Névoa
+00889E4B|1|Nevoeiro espesso
+00889E4B|1|Ligeira neblina
+00889E4B|1|Neblina moderada
+00889E4B|1|Forte neblina
+00889E4B|1|Neblina acentuada
+00889E4B|1|Névoa
+00889E4B|1|Nevoeiro acentuado
+00889E4B|1|Sem relatórios
+00889E4B|1|Chuviscos
+00889E4B|1|Neve
+0088DD60|1|Hoje
+0088DD60|1|Seg.
+0088DD60|1|Terç.
+0088DD60|1|Qua.
+0088DD60|1|Qui.
+0088DD60|1|Sex.
+0088DD60|1|Sáb.
+0088DD60|1|Dom.
+008BE329|1|%d%%
+008BE329|1|%d
+0088DD60|1|IUV
+0088DD60|1|Umidade
+008CB73B|1|%02d:%02d
+008D4999|1|%02d:%02d
+0088DD60|1|Modo sono desligado às %02d:%02d
+00889E4B|1|A funcionalidade Arritmia cardíaca requer uma frequência de 1 minuto. Continuar?
+008B5301|1|BPM máximo
+008B5301|1|Treino
+008B5301|1|Descanso
+008B5301|1|Conjuntos
+008B5301|1|Braçadas
+008B5301|1|Saltos
+008B5301|1|Velocidade
+008B5301|1|Taxa de braçadas
+008B5301|1|Voltas
+008B5301|1|Estilo principal
+008B5301|1|SWOLF médio
+008B5301|1|SPM médio
+008C3632|1|%02lu:%02lu:%02lu
+008B8E85|1|Bruços
+008B8E85|1|Medley
+008B8E85|1|Livre
+008B8E85|1|Costas
+008B8E85|1|Borboleta
+008C3632|1|%lu.%lu
+008A7BCF|1|Máx.
+008A7BCF|1|Máx.
+008C7F60|1|%u
+00889E4B|1|Conjuntos
+00889E4B|1|On
+00895E90|1|O Levantar para ligar o ecrã vai ser desligado quando for dormir ou tirar a pulseira.
+008D5993|1|℃
+008D5993|1|℉
+008AB5CA|1|%d:%02d
+008CB73B|1|%u'%02u''
+008BBA79|1|%u'%02u''
+00895E90|1|Alvo: %u'%02u''
+008C9271|1|%u km/h
+00895E90|1|Alvo: %u km/h
+008BBA79|1|%u
+00895E90|1|Alvo de BPM: %d–%d
+00893617|1|%d
+00895E90|1|Threshold: %d BPM
+008BBA79|1|--
+008C3632|1|%d℉/%d℉
+00895E90|1|Percebi
+008A572E|1|%u
+008C6E68|1|%%
+0089E97C|1|Bateria abaixo de %u%%. Carregue agora.
+008A7BCF|1|VO₂ máximo
+008A7BCF|1|Anaeróbico
+008A7BCF|1|Intensivo
+008A7BCF|1|Aeróbico
+008A7BCF|1|Leve
+008C1EDA|1|%02lu:%02lu:%02lu
+00889E4B|1|%02lu:%02lu:%02lu
+008AB5CA|1|BPM
+008D3B60|1|%u
+008B8E85|1|%d℃/%d℃
+008B8E85|1|%d℉/%d℉
+00895E90|1|%d℃/%d℃
+00895E90|1|%d℉/%d℉
+008B8E85|1|℃
+008B8E85|1|℉
+008B8E85|1|-
+00895E90|1|-
+00895E90|1|Ciclismo
+00895E90|1|Remo seco
+00889E4B|1|Ligue à aplicação e tente novamente
+00889E4B|1|Iniciante
+00889E4B|1|Resistência
+00889E4B|1|Intervalo
+00889E4B|1|Corrida/caminhada básica
+00889E4B|1|Corrida/caminhada avançada
+00889E4B|1|Corrida básica
+00889E4B|1|Básica
+00889E4B|1|Avançado
+00889E4B|1|MIIT
+00889E4B|1|Básica
+00889E4B|1|Avançado
+00889E4B|1|Básica
+00889E4B|1|Avançado
+0089CA1D|1|Combina caminhada e corrida em intervalos.
+0089CA1D|1|Combina caminhada e corrida em intervalos.
+0089CA1D|1|Corrida de intensidade baixa a moderada.
+0089CA1D|1|Corrida curta para queima de gordura e perda de peso.
+0089CA1D|1|Intensidade baixa a média, corrida estendida para queima de gordura.
+0089CA1D|1|Treino com intervalo de média a alta intensidade.
+0089CA1D|1|Corrida de duração média para resistência.
+0089CA1D|1|Corrida mais longa para resistência.
+0089CA1D|1|Treino com intervalos curtos para saúde do coração e pulmões.
+0089CA1D|1|Treino com intervalos longos para saúde do coração e pulmões.
+00889E4B|1|%02u/%02u
+00889E4B|1|Agora
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Em %u min
+00889E4B|1|Atrasado
+00895E90|1|Seg. 
+00895E90|1|Terç. 
+00895E90|1|Qua. 
+00895E90|1|Qui. 
+00895E90|1|Sex. 
+00895E90|1|Sáb. 
+00895E90|1|Dom. 
+00895E90|1|%u/%u 
+00895E90|1|%02u:%02u 
+00895E90|1|Hoje 
+00895E90|1|Amanhã 
+008CB73B|1|02d%:02d%
+008AA6CB|1|km à frente
+008BBA79|1|--'--"
+00898E47|1|--'--"
+00895E90|1|%02u:%02u-
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u h
+00889E4B|1|Em %u dia
+00889E4B|1|Em %u dia
+00889E4B|1|Em %u dia
+00889E4B|1|Em %u dia
+00889E4B|1|Em %u dias
+00889E4B|1|Em %u dias
+00889E4B|1|Em %u dias
+00889E4B|1|Em %u dias
+008AC37E|1|Bateria fraca
+0089CA1D|1|Corrida
+0088DD60|1|%d min
+0088DD60|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+0089E97C|1|A preparar a atualização
+0089E97C|1|Não foi possível atualizar.\nTente novamente.
+008D3B60|1|%
+00895E90|1|Duração
+0089CA1D|1|Relaxado(a)
+0089CA1D|1|Leve
+0089CA1D|1|Severo
+00895E90|1|A Monitorização 24h está desligada.
+00895E90|1|%02u:%02u AM–
+00895E90|1|%02u:%02u PM–
+00895E90|1|%02u:%02u AM
+00895E90|1|%02u:%02u PM
+0089E97C|1|Eu te ligo mais tarde.
+0089E97C|1|Não posso falar agora. Precisa de algo?
+0089E97C|1|Não posso falar agora. Pode me ligar mais tarde?
+008D5A24|1|--
+00898E47|1|%u%%
+008A7BCF|1|Objetivo
+00898E47|1|%u
+0089E97C|1|km
+0089E97C|1|kcal
+0089E97C|1|volta
+0089E97C|1|volta
+0089E97C|1|volta
+0089E97C|1|voltas
+0089E97C|1|voltas
+0089E97C|1|voltas
+0089E97C|1|voltas
+0089E97C|1|braçada
+0089E97C|1|braçada
+0089E97C|1|braçada
+0089E97C|1|braçadas
+0089E97C|1|braçadas
+0089E97C|1|braçadas
+0089E97C|1|braçadas
+0089E97C|1|salto
+0089E97C|1|salto
+0089E97C|1|salto
+0089E97C|1|saltos
+0089E97C|1|saltos
+0089E97C|1|saltos
+0089E97C|1|saltos
+008C57F0|1|Novo recorde!
+00898E47|1|%02u:%02u:%02u
+008D3B60|1|%lu.%lu.%lu
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %lu.%lu km
+008A7BCF|1|Objetivo: %02u:%02u:%02u
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u kcal
+008A7BCF|1|Objetivo: %u volta
+008A7BCF|1|Objetivo: %u volta
+008A7BCF|1|Objetivo: %u volta
+008A7BCF|1|Objetivo: %u volta
+008A7BCF|1|Objetivo: %u voltas
+008A7BCF|1|Objetivo: %u voltas
+008A7BCF|1|Objetivo: %u voltas
+008A7BCF|1|Objetivo: %u voltas
+008A7BCF|1|Objetivo: %u braçada
+008A7BCF|1|Objetivo: %u braçada
+008A7BCF|1|Objetivo: %u braçada
+008A7BCF|1|Objetivo: %u braçadas
+008A7BCF|1|Objetivo: %u braçadas
+008A7BCF|1|Objetivo: %u braçadas
+008A7BCF|1|Objetivo: %u braçadas
+008A7BCF|1|Objetivo: %u salto
+008A7BCF|1|Objetivo: %u salto
+008A7BCF|1|Objetivo: %u salto
+008A7BCF|1|Objetivo: %u saltos
+008A7BCF|1|Objetivo: %u saltos
+008A7BCF|1|Objetivo: %u saltos
+008A7BCF|1|Objetivo: %u saltos
+00895E90|1|A sua pulseira lhe notifica quando a sua frequência cardíaca ficar acima do BPM estipulado. A sua frequência cardíaca aumenta sob stress.
+00895E90|1|A sua pulseira lhe notifica quando a sua frequência cardíaca está abaixo do BPM estipulado. A sua frequência cardíaca diminui durante o sono.\nCaso não se sinta bem, procure auxílio médico.
+00893617|1|FC Alta
+00893617|1|FC Baixa
+00889E4B|1|Saiba mais
+00893617|1|Corrida
+00893617|1|Corrida
+00893617|1|Corrida rápida
+00898E47|1|%d
+008A33A7|1|Corrida
+008A33A7|1|Corrida média
+008A33A7|1|Corrida rápida
+0089CA1D|1|Corrida média
+0089CA1D|1|Corrida rápida
+00898E47|1|%02d
+008BBA79|1|%02d
+008BBA79|1|:
+00895E90|1|Veja os detalhes na aplicação
+00889E4B|1|Conseguiste!
+00895E90|1|Concluído
+00895E90|1|Continuar (%lus)
+00889E4B|1|Treino
+008A7BCF|1|Duração
+008A7BCF|1|Frequência cardíaca
+008D1D77|1|%lu.%02lu
+008D5A66|1|Automático
+00890091|1|Automático
+00889E4B|1|Definido com sucesso
+00895E90|1|Percebi
+00889E4B|1|A superaquecer. A desligar.
+008B5301|1|média
+00893617|1|Bateria fraca
+00895E90|1|AM
+00895E90|1|PM
+008C3632|1|%lu:%02lu
+008B5301|1|%u.%02u km
+008B5301|1|%u.%02u km
+008B5301|1|%u.%02u km
+00895E90|1|O Não incomodar ligará quando for dormir ou tirar sua pulseira.
+0088DD60|1|Notificar quando as leituras de SpO₂ estiverem abaixo do valor definido quando acordado
+008C2582|1|%d:%02d AM
+008C2582|1|%d:%02d PM
+008C2582|1|Ontem, %d:%02d AM
+008C2582|1|Ontem, %d:%02d PM
+008C2582|1|%02d/%02d, %d:%02d AM
+008C2582|1|%02d/%02d, %d:%02d PM
+0089E97C|1|Corrida
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u kcal
+0089CA1D|1|Objetivo: %u passo
+0089CA1D|1|Objetivo: %u passo
+0089CA1D|1|Objetivo: %u passo
+0089CA1D|1|Objetivo: %u passos
+0089CA1D|1|Objetivo: %u passos
+0089CA1D|1|Objetivo: %u passos
+0089CA1D|1|Objetivo: %u passos
+0089CA1D|1|Objetivo: %u braçada
+0089CA1D|1|Objetivo: %u braçada
+0089CA1D|1|Objetivo: %u braçada
+0089CA1D|1|Objetivo: %u braçadas
+0089CA1D|1|Objetivo: %u braçadas
+0089CA1D|1|Objetivo: %u braçadas
+0089CA1D|1|Objetivo: %u braçadas
+0089CA1D|1|Objetivo: %u min
+0089CA1D|1|Objetivo: %u min
+0089CA1D|1|Objetivo: %u min
+0089CA1D|1|Objetivo: %u min
+0089CA1D|1|Objetivo: %u min
+0089CA1D|1|Objetivo: %u min
+0089CA1D|1|Objetivo: %u min
+008B702E|1|0123456789•
+008B5301|1|Hoje
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período em %ud
+00889E4B|1|Período fértil em %ud
+00889E4B|1|Período fértil em %ud
+00889E4B|1|Período fértil em %ud
+00889E4B|1|Período fértil em %ud
+00889E4B|1|Período fértil em %ud
+00889E4B|1|Período fértil em %ud
+00889E4B|1|Período fértil em %ud
+0089CA1D|1|Digitalize para ver a ajuda
+008B5301|1|Ontem
+008B5301|1|2d atrás
+00895E90|1|Aperte a pulseira
+00889E4B|1|Saiba mais
+008B8E85|1|Desconhecido
+008AC37E|1|Corrida/caminhada básica
+008AC37E|1|Corrida/caminhada avançada
+008AC37E|1|Corrida básica
+008AC37E|1|Básica
+008AC37E|1|Avançado
+008AC37E|1|MIIT
+008AC37E|1|Básica
+008AC37E|1|Avançado
+008AC37E|1|Básica
+008AC37E|1|Avançado
+008AC37E|1|Severo
+00895E90|1|Respiração
+00895E90|1|Caminhada
+00889E4B|1|Permitir que a sua pulseira desbloqueie o telemóvel?
+00889E4B|1|Permitido
+00889E4B|1|Não foi possível permitir
+00889E4B|1|Ajuda
+00889E4B|1|Certificação
+00893617|1|Modelo
+00893617|1|ID CMIIT
+008AA6CB|1|Jan.
+008AA6CB|1|Fev.
+008AA6CB|1|Mar.
+008AA6CB|1|Abr.
+008AA6CB|1|Mai.
+008AA6CB|1|Jun.
+008AA6CB|1|Jul.
+008AA6CB|1|Ago.
+008AA6CB|1|Set.
+008AA6CB|1|Out.
+008AA6CB|1|Nov.
+008AA6CB|1|Dez.
+008A7BCF|1|Período em 1d
+008A7BCF|1|Período em 2d
+008A7BCF|1|Período em %ud
+008A7BCF|1|Período em %ud
+008A7BCF|1|Período em %ud
+008A7BCF|1|Período em %ud
+008A7BCF|1|Período em %ud
+008A7BCF|1|Período em %ud
+008A7BCF|1|Período em %ud
+008A7BCF|1|Ovulação em 1d
+008A7BCF|1|Ovulação em 2d
+008A7BCF|1|Ovulação em %ud
+008A7BCF|1|Ovulação em %ud
+008A7BCF|1|Ovulação em %ud
+008A7BCF|1|Ovulação em %ud
+008A7BCF|1|Ovulação em %ud
+008A7BCF|1|Ovulação em %ud
+008A7BCF|1|Ovulação em %ud
+00889E4B|1|Ligado/Desligado
+00889E4B|1|Ligado/Desligado
+008AC37E|1|Chamada perdida
+00895E90|1|Percebi
+00895E90|1|Permita que a aplicação execute em segundo plano
+00895E90|1|Configure a Amazon Alexa na aplicação
+00895E90|1|Inicie a sessão na sua conta Amazon na aplicação
+00895E90|1|Não é possível reproduzir vídeo ou áudio na sua pulseira
+00895E90|1|A ligar…
+00895E90|1|A ouvir…
+00895E90|1|A pensar…
+00895E90|1|Set a timer for 2 minutes
+00895E90|1|What's the weather?
+0088DD60|1|%02d:%02d–%02d:%02d
+0088DD60|1|%02d:%02d-%02d:%02d
+008AB5CA|1|Relaxado(a)
+008AB5CA|1|Leve
+008AB5CA|1|Severo
+008AC37E|1|Moderado
+00889E4B|1|Diariamente
+00889E4B|1|Não foi possível ligar
+00889E4B|1|Erro de rede
+00889E4B|1|Configuração necessária
+00889E4B|1|Iniciar sessão
+008C2582|1|Braçadas
+00895E90|1|Média
+008AB5CA|1|PPM
+008AB5CA|1|km/h
+008AB5CA|1|SPM
+00889E4B|1|Saiba mais
+00895E90|1|Bateria fraca. A lanterna está desligada.
+00895E90|1|Fechar
+008B0759|1|%.1f
+008C7F60|1|%.1f
+008B0759|1|%u:%02u'%02u"
+008C7F60|1|%u:%02u'%02u"
+008C3632|1|%u:%02u'%02u"
+0089CA1D|1|A reproduzir som
+00893617|1|Os PINs não coincidem
+00893617|1|Introduzir PIN
+00893617|1|Novo PIN
+00895E90|1|Não foi possível ligar
+00895E90|1|Erro de rede
+00895E90|1|Configuração necessária
+00895E90|1|Iniciar sessão
+00895E90|1|Não disponível
+008B702E|1|Novo PIN
+008B702E|1|Confirmar PIN
+008B702E|1|   Os PINs não coincidem  
+008B702E|1|Introduzir PIN
+00890091|1|%d
+008D5A66|1|%d
+008A7BCF|1|%dh %dmin
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d h
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+008A7BCF|1|%d min
+0089E97C|1|%d'%02d"
+008B5301|1|%02u/%02u
+008B5301|1|%02u:%02u
+008B8E85|1|--℃/--℃
+008B8E85|1|--℉/--℉
+00895E90|1|--℃/--℃
+00895E90|1|--℉/--℉
+008A7BCF|1|Objetivo alcançado
+008A7BCF|1|Objetivo alcançado
+008A7BCF|1|Objetivo de movimento alcançado
+008A7BCF|1|Objetivo de Em pé alcançado
+008A7BCF|1|Objetivo de passos alcançado
+008A7BCF|1|Objetivo de calorias alcançado
+008A7BCF|1|Objetivo alcançado
+008A7BCF|1|Objetivo alcançado
+008A7BCF|1|Todos os objetivos alcançados
+008A7BCF|1|Muito bem
+008A7BCF|1|Objetivos alcançados
+008A7BCF|1|Objetivos alcançados
+008AB5CA|1|km/h
+008AB5CA|1|/km
+00889E4B|1|AM
+00889E4B|1|PM
+00889E4B|1|A distância do treino é demasiado curta para registar.
+00893617|1|(Sem título)
+008A7BCF|1|Esqueceu o PIN?
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em %d seg
+0089E97C|1|Tente novamente em 5 min
+0089E97C|1|Tente novamente em 10 min
+0089E97C|1|Reponha o PIN na aplicação
+008A7BCF|1|Percebi
+008B702E|1|Introduzir PIN para desbloquear
+008A7BCF|1|%d notificação
+008A7BCF|1|%d notificação
+008A7BCF|1|%d notificação
+008A7BCF|1|%d notificações
+008A7BCF|1|%d notificações
+008A7BCF|1|%d notificações
+008A7BCF|1|%d notificações
+008D8350|1|--:--
+00889E4B|1|Alexa
+0089E97C|1|Não disponível
+008A7BCF|1|A Amazon Alexa não está disponível na região da sua conta
+008A7BCF|1|Verifique a sua ligação à rede
+00889E4B|1|O que disse?
+008A7BCF|1|Comece por dizer
+0089CA1D|1|Seg.
+0089CA1D|1|Terç.
+0089CA1D|1|Qua.
+0089CA1D|1|Qui.
+0089CA1D|1|Sex.
+0089CA1D|1|Sáb.
+0089CA1D|1|Dom.
+008B5301|1|%u km/h
+00889E4B|1|A emparelhar
+0089E97C|1|Não foi possível emparelhar
+008B702E|1|Introduzir PIN para desbloquear
+008B702E|1|Introduzir PIN para desbloquear
+008C2582|1|%d℃/%d℃
+008C2582|1|%d℉/%d℉
+008A7BCF|1|%d
+008D1D77|1|%02d:%02d.%02d
+0089E97C|1|m
+008A7BCF|1|Ligue a sua pulseira com a aplicação
+008C2582|1|-
+00895E90|1|Veja os detalhes na aplicação
+00889E4B|1|Contact customer support to get your device repaired
+0088DD60|1|Analise a sua frequência cardíaca o dia inteiro
+0089E97C|1|PIN definido
+0088DD60|1|Receba lembretes para iniciar e encerrar corridas, caminhadas, ou treinos de remo seco.
+00889E4B|1|A carregar
+008AA6CB|1|.
+008AB5CA|1|.
+008C1EDA|1|.
+008D8350|1|.
+008B5301|1|.
+008C2582|1|.
+008D83CB|1|.
+008D83EF|1|.
+0088DD60|1|.
+0089CA1D|1|.
+008D841A|1|.
+008D335E|1|.
+008A7BCF|1|.
+00895E90|1|.
+008C7F60|1|.
+008D5993|1|.
+008D5A24|1|.
+008D0D81|1|.
+008D8440|1|.
+008C8A26|1|.
+008B702E|1|.
+00893617|1|.
+008D846B|1|.
+008D8496|1|.
+0089E97C|1|.
+00889E4B|1|.
+008D3B60|1|.
+008C6E68|1|.
+008D84C4|1|.
+008D84EF|1|.
+0089BCFD|1|.
+008D8513|1|.
+008C57F0|1|.
+008B8E85|1|.
+008D4999|1|.
+008BD345|1|.
+008D854B|1|.
+008AC37E|1|.
+008D1D77|1|.
+008BE329|1|.
+008D940F|1|.
+008C9271|1|.
+008D9443|1|.
+008BBA79|1|.
+008C6503|1|.
+008D5A66|1|.
+008CF101|1|.
+008C3632|1|.
+008DAB6F|1|.
+00890091|1|.
+008B0759|1|.
+008A572E|1|.
+00889E4B|1|h
+00889E4B|1|min
+00895E90|1|Não mostrar hoje
+0089E97C|1|Não disponível
+008A7BCF|1|A Amazon Alexa não está disponível na região da sua conta
+00895E90|1|Kürek çekme
+00895E90|1|Eliptik
+00895E90|1|İp atlama
+008AC37E|1|Muito bem
+008A7BCF|1| 
+008A7BCF|1| 
+008A7BCF|1|Alvo
+008A7BCF|1|Restante
+008A7BCF|1|Alvo
+008A7BCF|1|Restante
+008A7BCF|1|Alvo de voltas
+008A7BCF|1|Restante
+008A7BCF|1|Alvo de saltos
+008A7BCF|1|Restante
+00889E4B|1|Tempo
+00889E4B|1|Distância
+00889E4B|1|Voltas
+00889E4B|1|Remada
+00889E4B|1|Saltos
+008AB5CA|1| 
+008B5301|1|%d:%02d
+008B5301|1|%d min
+008B5301|1|%dmin %02ds
+00889E4B|1|Aplicações
+00893617|1|Condicionamento físico
+00893617|1|Básica
+00893617|1|Tempo
+00893617|1|Ferramentas
+00889E4B|1|Cronómetro
+00889E4B|1|Temporizador
+00889E4B|1|Câmara
+00889E4B|1|Cartões
+0089E97C|1|A duração do treino é muito curta para ser registada.
+008DABA7|1|Cronómetro
+008DABA7|1|Temporizador
+008D5A66|1|%d℃
+008D5A66|1|%d℉
+008D5A66|1|-
+008D5A66|1|--℃
+008D5A66|1|--℉
+00895E90|1|Um momento
+008B8E85|1|Respiração
+008D5A66|1|--
+00889E4B|1|Automático
+00889E4B|1|Personalizado
+008D5A66|1|%d%%
+00895E90|1|Um momento
+00895E90|1|Não está a reproduzir
+00895E90|1|Desligado
+008AA6CB|1|Deslize para cima para o código de barras
+008AA6CB|1|Deslize para baixo para o código QR
+008DABA7|1|Remo seco
+008DABA7|1|Caminhada
+008DABA7|1|HIIT
+008DABA7|1|Ciclismo ao ar livre
+008DABA7|1|Ciclismo indoor
+008DABA7|1|Saltar à corda
+008DABA7|1|Trekking
+008DABA7|1|Escalada
+008DABA7|1|Elíptico
+008DABA7|1|Corrida ao ar livre
+008DABA7|1|Natação em piscina
+008DABA7|1|Passadeira
+008DABA7|1|Corrida em trilha
+008DABA7|1|Livre
+008D9443|1|%lu
+008CF101|1|%lu
+00895E90|1|Sem dados
+008D5A66|1|--
+00895E90|1|m
+00889E4B|1|SpO₂
+008A7BCF|1|Atingiu o seu objetivo ontem. Continue assim hoje!
+008A7BCF|1|Alcançou 2 de 3 objetivos ontem. Consegue!
+008A7BCF|1|Não alcançou os seus objetivos ontem. Faça o hoje valer a pena!
+008A7BCF|1|Os seus objetivos estão a seu alcance — hoje é um novo dia!
+008A7BCF|1|Faltam apenas 1000 passos para o seu objetivo.
+008A7BCF|1|Está a 50 kcal do seu objetivo.
+008A7BCF|1|Ainda há tempo para alcançar o objetivo de hoje, continue!
+008A7BCF|1|Levante duas vezes mais hoje para atingir o seu objetivo.
+008A7BCF|1|Levante mais uma vez hoje para atingir o seu objetivo.
+008A7BCF|1|Atingiu o seu objetivo ontem. Continue assim hoje!
+008A7BCF|1|Alcançou 2 de 3 objetivos ontem. Consegue!
+008A7BCF|1|Não alcançou os seus objetivos ontem. Faça o hoje valer a pena!
+008A7BCF|1|Os seus objetivos estão a seu alcance — hoje é um novo dia!
+008A7BCF|1|Faltam apenas 1000 passos para o seu objetivo.
+008A7BCF|1|Está a 50 kcal do seu objetivo.
+008A7BCF|1|Quase alcançou o seu objetivo, continue firme!
+008A7BCF|1|Levante duas vezes mais hoje para atingir o seu objetivo.
+008A7BCF|1|Levante mais uma vez hoje para atingir o seu objetivo.
+008D854B|1|Objetivo alcançado!
+0089E97C|1|Consegue!
+0089E97C|1|Estatísticas
+008B5301|1|Personalizado
+0089E97C|1|Não foi possível emparelhar
+0088DD60|1|Tentar novamente
+008A7BCF|1|Emparelhar
+0089E97C|1|Confirme no seu telemóvel
+0089E97C|1|A emparelhar...
+0089E97C|1|Emparelhado
+0088DD60|1|Digitalize para transferir a aplicação
+0088DD60|1|Confirme no seu telemóvel
+008DC8B0|1|繁體中文
+0089E97C|1|English
+0089E97C|1|Deutsch
+008DD1B7|1|한국어
+008DD784|1|עברית
+008DDB54|1|ไทย
+008DDD88|1|日本語
+008DE3BB|1|العربية
+0089E97C|1|Italiano
+0089E97C|1|Français
+0089E97C|1|Español
+0089E97C|1|Polski
+0089E97C|1|Українська
+0089E97C|1|Čeština
+0089E97C|1|Русский
+0089E97C|1|Nederlands
+0089E97C|1|Português PT
+0089E97C|1|Türkçe
+0089E97C|1|Română
+0089E97C|1|Eλληνικά
+0089E97C|1|Português BR
+0089E97C|1|Indonesia
+0089E97C|1|Tiếng Việt
+0089E97C|1|Norsk bokmål
+0089E97C|1|Suomi
+0089E97C|1|Svenska
+0089E97C|1|Dansk
+008B5301|1|Desligado
+008B5301|1|%d segundo
+008B5301|1|%d segundo
+008B5301|1|%d segundo
+008B5301|1|%d segundos
+008B5301|1|%d segundos
+008B5301|1|%d segundos
+008B5301|1|%d segundos
+00895E90|1|%u/%u/%u 
+00893617|1|Xiaomi Smart Band 7 Pro
+00895E90|1|OK
+008B702E|1|If the number of words is too long, please check it on the APP side
+00889E4B|1|Snowboarding
+00889E4B|1|Esqui
+008AC37E|1|Snowboarding
+008AC37E|1|Esqui
+0088DD60|1|Personalizado
+00889E4B|1|Syncing
+0089E97C|1|Preparing update
+008B5301|1|VO₂ máximo
+0088DD60|1|Alta

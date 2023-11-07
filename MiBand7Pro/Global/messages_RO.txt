@@ -1,0 +1,2071 @@
+009348B3|1|Setări
+009348B3|1|Afișaje bandă
+009348B3|1|Afișaj
+009348B3|1|Vibrație
+00938403|1|Implicit
+00938403|1|Puternic
+009348B3|1|Detectare automată
+00938403|1|Oprit
+00938403|1|Pornit
+009348B3|1|DND
+00938403|1|Oprit
+00938403|1|Inteligent
+00938403|1|Toată ziua
+009348B3|1|Aspectul aplicației
+00938403|1|Mod pictogramă
+00938403|1|Mod listă
+009348B3|1|PIN
+009348B3|1|Sistem
+009348B3|1|Despre bandă
+009348B3|1|Luminozitate
+009348B3|1|Întotdeauna pe ecran
+009348B3|1|Blocare automată
+009348B3|1|Acoperă pentru a dezactiva
+009348B3|1|Ridicați pentru a activa
+00938403|1|Automat
+0093A402|1|Automat
+009348B3|1|Oprit
+009348B3|1|Inteligent
+009348B3|1|Programat
+009348B3|1|Toată ziua
+009348B3|1|Aflați mai multe
+0093D95A|1|Întotdeauna pe ecran
+0093D95A|1|Inteligent
+00940039|1|Ora va fi afișată chiar și atunci când ecranul este blocat.
+00940039|1|Întotdeauna pe ecran se va dezactiva când te culci sau când îți scoți banda.
+009348B3|1|Acest lucru va afecta durata de viață a bateriei, continuați?
+009348B3|1|Începe
+009348B3|1|Sfârșit
+009348B3|1|Stare
+00942C9D|1|-%d
+00945B53|1|%d
+009348B3|1|Sensibilitate
+00938403|1|Inteligent
+0093A402|1|Mare
+0093A402|1|Implicit
+009348B3|1|Acest lucru va afecta durata de viață a bateriei, continuați?
+00946873|1|s
+00946873|1|m
+009348B3|1|Detectare automată
+009348B3|1|Detectare antrename-nt
+00940039|1|Am înțeles
+00940039|1|Am înțeles
+00938403|1|Pentru a seta o frecvență de monitorizare, dezactivați BPM neregulat.
+00945B53|1|%d:%02d
+0094844D|1|Acest lucru va afecta durata de viață a bateriei, continuați?
+009348B3|1|Oprit
+009348B3|1|Inteligent
+00940039|1|Întotdeauna pe ecran se va dezactiva când te culci sau când îți scoți banda.
+009348B3|1|Mod pictogramă
+009348B3|1|Mod listă
+009348B3|1|Sistem
+009348B3|1|Repornește
+009348B3|1|Dezactivează
+009348B3|1|Resetare
+009348B3|1|Reporniți acum?
+009348B3|1|Dezactivați acum?
+0094844D|1|Ștergeți toate datele?
+0093D95A|1|Nume
+0093D95A|1|Model
+0093D95A|1|Adresă MAC
+0093D95A|1|Nr. Versiune
+0093D95A|1|Nr. Serie
+0093D95A|1|Reglementat
+009348B3|1|Vibrație
+0094CB92|1|Puternic
+0093A402|1|Implicit
+0093A402|1|Puternic
+0094F4A1|1|%d
+00938403|1|%d/%d
+009348B3|1|Încălzire
+00940039|1|Efectuat
+00942C9D|1|%2d:%2d:%2d
+009348B3|1|Antrenament
+00942C9D|1|%d
+00951942|1|Obiective serii
+00951942|1|Rămas
+00940039|1|Treci peste
+009348B3|1|Odihnă
+00951942|1|Odihnă
+00951942|1|Rămas
+009348B3|1|Încheiere
+00940039|1|Sfârșit
+009348B3|1|Alergare
+009348B3|1|Grăsimi arse
+009348B3|1|Avansat
+00951942|1|Introducere
+00951942|1|Plan de antrenament
+00946873|1|Mers
+00946873|1|Cursă de bază
+00940039|1|Începe
+009348B3|1|Recente
+0094CB92|1|Mers
+0093D95A|1|Obiectiv BPM
+00940039|1|%d~%dbpm
+0093D95A|1|Mers
+00942C9D|1|%d:%02d
+00951942|1|Temporizator
+00953FFF|1|BPM
+009348B3|1|Se pare că faci exerciții fizice
+00940039|1|Exterior
+00940039|1|Bandă de alergare
+00940039|1|Renunță (%ds)
+00940039|1|km
+00940039|1|Pauză
+00940039|1|Continuă
+0094844D|1|Distanța de antrenament este prea mică pentru a fi înregistrată. Încheiați?
+0094844D|1|Timpul de antrenament este prea scurt pentru a fi înregistrat. Încheiați?
+00940039|1|Continuă
+00940039|1|Sfârșit
+009348B3|1|Calibrare
+00942C9D|1|.
+00954EE4|1|km
+0094844D|1|Ecranul se blochează când începeți
+009348B3|1|Respirație
+00955CAD|1|Respirație
+009348B3|1|Timp
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+0095A2D5|1|%d
+0095C6D3|1|%d
+00955CAD|1|Relaxează-te
+00940039|1|Concentrează-te pe respirația ta
+00955CAD|1|Să începem
+00940039|1|Urmărește balonul
+00955CAD|1|Inspiră
+00955CAD|1|Expiră
+00955CAD|1|Foarte bine
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+00940039|1|Sesiune: %d min
+009348B3|1|Rezultate
+00940039|1|RC curent
+0095A2D5|1|89
+00954EE4|1|BPM
+00940039|1|Începe pulsul
+00940039|1|Sesiune
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+00954EE4|1|min
+009348B3|1|Setări
+009348B3|1|Obiectiv
+009348B3|1|Intervale
+009348B3|1|Alerte
+009348B3|1|Lungime piscină
+009348B3|1|Pauză automată
+00951942|1|Deschide
+0095EE7D|1|1.5 km
+009348B3|1|Deschide
+009348B3|1|Distanță
+009348B3|1|Timp
+009348B3|1|Calorii
+009348B3|1|Sărituri
+009348B3|1|Lungimi
+00951942|1|5 km
+009348B3|1|Intervalele se vor opri. Continuați?
+009348B3|1|Obiectivul antrenamentului va fi eliminat. Continuați?
+009348B3|1|Distanță
+009348B3|1|Timp
+009348B3|1|Calorii
+009348B3|1|Sărituri
+009348B3|1|Lungimi
+00954EE4|1|m
+00954EE4|1|kcal
+00954EE4|1| 
+00954EE4|1| 
+009348B3|1|Seturi
+009348B3|1|Odihnă
+00954EE4|1|s
+00954EE4|1| 
+009348B3|1|Distanță
+009348B3|1|Ritm
+009348B3|1|Viteză
+009348B3|1|Zona puls
+009348B3|1|Puls ridicat
+00940039|1|Dezactivează tot
+0095EE7D|1|Oprit
+0095EE7D|1|Intensiv
+009348B3|1|Stimulator
+00942C9D|1|5'00"
+0094F4A1|1|4'50"
+009348B3|1|%d km/h
+00954EE4|1|km/h
+009348B3|1|Oprit
+009348B3|1|Ușor
+009348B3|1|Intensiv
+009348B3|1|Aerobic
+009348B3|1|Anaerobic
+009348B3|1|VO₂ max
+0095EE7D|1|%u–%u BPM
+009348B3|1|Puls ridicat
+00954EE4|1|BPM
+009348B3|1|25 m
+009348B3|1|Personalizat
+009348B3|1|Personalizat
+00954EE4|1|m
+009348B3|1|Setați codul PIN
+0096080A|1|Introduceți PIN
+0096080A|1|Confirmă PIN
+0096080A|1|Incorect
+009348B3|1|Ştergeți toate datele?
+009348B3|1|Dezactivează PIN
+009348B3|1|Schimbă PIN
+009348B3|1|PIN schimbat
+009348B3|1|PIN dezactivat
+00938403|1|Banda se va bloca automat când o scoateți.
+009624EB|1|Accelerează
+009624EB|1|Continuă
+009624EB|1|Încetinește
+009652AB|1|%u'%02u''
+00955CAD|1|Puls ridicat
+00940039|1|Calorii
+00966B77|1|345
+00940039|1|Pași
+00940039|1|Mișcare
+00967B5B|1|323
+009348B3|1|Pași
+00954EE4|1| 
+009348B3|1|În picioare
+009348B3|1|Mișcare
+009348B3|1|Memento-uri
+0093D95A|1|Pași
+0093D95A|1|Calorii
+0096080A|1|În picioare
+0096080A|1|Mișcare
+009348B3|1|Somn
+00968DFE|1|10
+009624EB|1|h
+009624EB|1|m
+00940039|1|Obiectiv:
+0096B70C|1|24:33
+00940039|1|Fără date
+0093D95A|1|Somn
+00940039|1|1. Pentru a urmări somnul REM, activați Monitorizarea avansată.\n2. Strângeți cureaua la bandă.\n3. Citirile pulsului și SpO₂ depind de mișcări, calitatea somnului și multe altele.
+00955CAD|1|h
+00955CAD|1|m
+00940039|1|Fără date
+009348B3|1|Monitorizare avansată
+009348B3|1|Punctaj respirație
+009348B3|1|Punctaj respirație
+00938403|1|Urmărește somnul REM
+009348B3|1|Punctaj respirație
+00938403|1|Monitorizează-ți respirația nocturnă
+009348B3|1|Somn
+00951942|1|BPM mediu
+009348B3|1| 
+00951942|1|SpO₂ mediu
+009348B3|1|Pui de somn
+009348B3|1|Puls
+0096B70C|1|126
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+009348B3|1|Puls ridicat
+009348B3|1|Puls scăzut
+009348B3|1|BPM neregulat
+009348B3|1|Zona puls
+00951942|1|VO₂ max
+00951942|1|VO₂ max
+00951942|1|Anaerobic
+00951942|1|Intensiv
+00951942|1|Ușor
+00951942|1|Relaxed
+00951942|1|Relaxed
+009348B3|1|%02d:%02d
+00940039|1|Măsurat
+0096CE89|1|144-224
+0096BDB4|1|BPM
+0096CE89|1|12: 24-12: 25
+00940039|1|Încercați din nou
+00940039|1|Măsurare
+0093D95A|1|Puls
+00940039|1|Pulsul este de câte ori bate inima pe minut (BPM).\nDe obicei, pulsul în repaus variază între 40 și 100 BPM. Cu toate acestea, variază în funcție de vârstă, sex și alți factori.\nBanda dvs. acceptă un interval de 30-220 BPM.
+009348B3|1|Aflați mai multe
+00940039|1|Strângeți cureaua la bandă și încercați din nou
+009348B3|1|Sfaturi
+00940039|1|Purtați banda deasupra osului încheieturii mâinii.
+00940039|1|Păstrați banda stabil și sigur.
+00940039|1|Măsurătorile depind de temperatura scăzută, perfuzia pielii și multe altele.
+00946873|1|Această funcție nu este destinată scopurilor medicale.
+00940039|1|Monitorizare continuă este oprită.
+00940039|1|Activează
+009348B3|1|Monitorizare continuă
+009348B3|1|BPM neregulat
+009348B3|1|Pornit/\nOprit
+009348B3|1|Puls ridicat
+009348B3|1|Puls scăzut
+00938403|1|Pentru a seta o frecvență de monitorizare, dezactivați BPM neregulat.
+009348B3|1|1 min
+009348B3|1|10 min
+009348B3|1|Automat
+009348B3|1|Sfaturi
+00940039|1|Measure heart rate every 10 mins
+0093D95A|1|Automat
+00940039|1|Crește frecvența de monitorizare în timpul antrenamentelor
+009348B3|1|BPM neregulat
+00938403|1|Obține alerte de bătăi neregulate ale inimii
+009348B3|1|Acest lucru va afecta durata de viață a bateriei, continuați?
+009348B3|1|100 BPM
+00955CAD|1|Puls scăzut
+0093D95A|1|12: 30-12: 40
+00940039|1|Detalii
+00955CAD|1|BPM neregulat
+00955CAD|1|Măsurat
+00940039|1|Stai nemișcat
+00940039|1|Măsurat: %02d:%02d
+00940039|1|Încercați din nou
+00951942|1|Goal hit
+00951942|1|Goal hit
+00951942|1|Goal hit
+00951942|1|Goal hit
+00955CAD|1|Obiective atinse
+00951942|1|Bravo!
+00955CAD|1|Faceți puțină mișcare!
+00955CAD|1|În picioare
+00940039|1|Ridică-te și plimbă-te
+0094844D|1|Conectați-vă telefonul pentru a actualiza datele GPS.
+0094844D|1|Stocare este plin. Nu poți înregistra acest antrenament.
+009348B3|1|GPS
+00955CAD|1|Alergare în aer liber
+0094844D|1|Localizare. Mergeți într-o zonă deschisă și așteptați să începeți antrenamentul.
+00940039|1|Așteaptă
+00940039|1|Începe
+0094844D|1|Faceți exerciții într-o zonă deschisă
+00940039|1|Renunță
+009348B3|1|Cicluri
+0096BDB4|1|%u/%u/%u
+009348B3|1|Estimări
+00951942|1|Fertilă
+009348B3|1|05.23-06.23
+0096F047|1|Ziua ovulației
+0096FCD6|1|Perioadă
+009348B3|1|Aflați mai multe
+00940039|1|Jurnalul detaliilor ciclului în aplicație
+0093D95A|1|1. Culori
+00940039|1|Perioadă
+009348B3|1|Perioadă ziua %d
+00940039|1|Perioadă estimată
+009348B3|1|Perioadă ziua %d
+00940039|1|Fertilă
+00940039|1|Ziua %d a perioadei fertile
+00940039|1|Ziua ovulației
+009348B3|1|Ziua ovulației
+0093D95A|1|2. Sfat
+00940039|1|Cu cât vă conectați mai mult, cu atât veți obține predicții mai exacte.
+00955CAD|1|Înot piscină
+00955CAD|1|Înot în aer liber
+00955CAD|1|Navigație
+00955CAD|1|Paddleboarding
+00955CAD|1|Polo pe apă
+00955CAD|1|Sporturi acvatice
+00955CAD|1|Schi nautic
+00955CAD|1|Caiac
+00955CAD|1|Rafting
+00955CAD|1|Aparat de vâslit
+00955CAD|1|Barcă cu motor
+00955CAD|1|Înot cu labele
+00955CAD|1|Sărituri în apă
+00955CAD|1|Înot artistic
+00955CAD|1|Snorkeling
+00955CAD|1|Kitesurfing
+00955CAD|1|Mers
+00955CAD|1|Drumeție
+00955CAD|1|Ciclism în aer liber
+00955CAD|1|Drumeție montană
+00955CAD|1|Pistă de alergare
+00955CAD|1|Alpinism
+00955CAD|1|Skateboarding
+00955CAD|1|Patinaj pe role
+00955CAD|1|Parkour
+00955CAD|1|ATV
+00955CAD|1|Parapantism
+00955CAD|1|Stil liber
+00955CAD|1|Bandă de alergare
+00955CAD|1|Coardă de sărit
+00955CAD|1|HIIT
+00955CAD|1|Yoga
+00955CAD|1|Ciclism interior
+00955CAD|1|Eliptic
+00955CAD|1|Aparat de vâslit
+00955CAD|1|Urcător de scări
+00955CAD|1|Stepper
+00955CAD|1|Formare de bază
+00955CAD|1|Flexibilitate
+00955CAD|1|Pilates
+00955CAD|1|Gimnastică
+00955CAD|1|Întinderi
+00955CAD|1|Putere
+00955CAD|1|Pregătire încrucișată
+00955CAD|1|A urca pe scări
+00955CAD|1|Aerobic
+00955CAD|1|Antrenament fizic
+00955CAD|1|Minge la perete
+00955CAD|1|Gantere
+00955CAD|1|Halteră
+00955CAD|1|Ridicare greutăți
+00955CAD|1|Deadlift
+00955CAD|1|Burpee
+00955CAD|1|Abdomene
+00955CAD|1|Antrenament funcțional
+00955CAD|1|Partea superioară a corpului
+00955CAD|1|Partea inferioară a corpului
+00955CAD|1|Abs
+00955CAD|1|Înapoi
+00955CAD|1|Dansul pătrat
+00955CAD|1|Dans din buric
+00955CAD|1|Balet
+00955CAD|1|Dans de stradă
+00955CAD|1|Zumba
+00955CAD|1|Dans popular
+00955CAD|1|Dans de jazz
+00955CAD|1|Dans latin
+00955CAD|1|Box
+00955CAD|1|Wrestling
+00955CAD|1|Arte marțiale
+00955CAD|1|Tai chi
+00955CAD|1|Muay Thai
+00955CAD|1|Judo
+00955CAD|1|Taekwondo
+00955CAD|1|Karate
+00955CAD|1|Kickboxing
+00955CAD|1|Kendo
+00955CAD|1|Scrimă
+00955CAD|1|Tenis
+00955CAD|1|Baschet
+00955CAD|1|Fotbal
+00955CAD|1|Volei
+00955CAD|1|Baseball
+00955CAD|1|Softball
+00955CAD|1|Fotbal american
+00955CAD|1|Hochei
+00955CAD|1|Tenis de masă
+00955CAD|1|Badminton
+00955CAD|1|Cricket
+00955CAD|1|Handbal
+00955CAD|1|Bowling
+00955CAD|1|Squash
+00955CAD|1|Biliard
+00955CAD|1|Fluturaș
+00955CAD|1|Fotbal de plajă
+00955CAD|1|Volei pe plajă
+00955CAD|1|Volei cu piciorul
+00955CAD|1|Patinaj
+00955CAD|1|Curling
+00955CAD|1|Alte sporturi de iarnă
+00955CAD|1|Scuter de zăpadă
+00955CAD|1|Hochei pe gheață
+00955CAD|1|Bob
+00955CAD|1|Sanie
+00955CAD|1|Tir cu arcul
+00955CAD|1|Darts
+00955CAD|1|Echitație
+00955CAD|1|Lupta cu odgonul
+00955CAD|1|Hula hoop
+00955CAD|1|Zmeu
+00955CAD|1|Pescuit
+00955CAD|1|Frisbee
+00955CAD|1|Ecvestru
+00955CAD|1|Atletism
+00955CAD|1|Curse auto
+00938403|1|Primiți memento-uri pentru a începe sau încheia un antrenament de alergare, de mers, bandă de alergare, aparat de vâslit sau sărituri.
+00940039|1|Amână
+009348B3|1|Se sincronizează
+009348B3|1|Notificări
+00940039|1|Nicio notificare
+00940039|1|Răspunde
+00940039|1|Trimite
+009348B3|1|Trimis
+009348B3|1|Nu s-a putut trimite
+0094844D|1|Permiteți acestei aplicații să trimită mesaje SMS
+0094844D|1|Permiteți acestei aplicații să vă citească contactele
+009348B3|1|Se trimite
+0097090B|1|Alarmă
+00951942|1|Fără alarme
+00951942|1|Timp
+00951942|1|Repetă
+009348B3|1|Editează
+009348B3|1|Ora
+009348B3|1|Repetă
+00940039|1|Șterge
+00940039|1|OK
+00951942|1|AM
+00951942|1|PM
+00940039|1|Amână
+00940039|1|Oprește
+00940039|1|Nu se poate adăuga alarmă
+00951942|1|Adăugați maxim 10 alarme
+009348B3|1|Găsește telefon
+009348B3|1|Telefonul tău va suna
+009348B3|1|Deconectat
+009348B3|1|Nu pot găsi
+00940039|1|Caută
+00940039|1|Oprește
+00940039|1|Înapoi
+009348B3|1|Muzică
+009348B3|1|Permisiuni
+009348B3|1|Doar o secundă
+00938403|1|Asociați-vă banda cu aplicația
+00938403|1|Activați accesul la notificări pentru aplicație
+0094844D|1|Activați accesul la notificări pentru aplicație
+00940039|1|Nu sunt asociate
+009348B3|1|Nu se redă
+009348B3|1|Deconectat
+009348B3|1|Permisiuni
+009348B3|1|Aparat foto
+00951942|1|Deschide Aparatul foto pe telefonul dvs.
+009348B3|1|Nu sunt asociate
+0094844D|1|Deconectat
+00938403|1|Du-te la Dispozitiv > Aparat foto în aplicație
+00938403|1|Asociați-vă banda cu aplicația
+00951942|1|Activează
+00940039|1|Nu există evenimente astăzi
+009348B3|1|Detalii
+009348B3|1|Detalii
+0094844D|1|Activează Evenimente în aplicație
+0094844D|1|Amână pentru 10 min
+0094844D|1|Amână pentru 10 min
+0094844D|1|Amână pentru 10 min
+0094844D|1|Amână pentru 10 min
+0094844D|1|Amână pentru 10 min
+0094844D|1|Amână pentru 10 min
+0094844D|1|Amână pentru 10 min
+009348B3|1|Cronometru
+00971A03|1|%02d
+0094844D|1|Cronometrul nu poate să ruleze în fundal, iesiți?
+009348B3|1|Temporizator
+009652AB|1|%d
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|min
+0096BDB4|1|h
+0096BDB4|1|h
+0096BDB4|1|h
+0096BDB4|1|h
+0096BDB4|1|h
+0096BDB4|1|h
+0096BDB4|1|h
+0096BDB4|1|h
+00940039|1|Personalizat
+009348B3|1|Recente
+0094F4A1|1|%02d:%02d:%02d
+00938403|1|Personalizat
+009348B3|1|Meteo
+009348B3|1|Prognoză
+009724C9|1|25°
+009348B3|1|Calitatea aerului
+00938403|1|AQI
+00953FFF|1|Faceți puțină mișcare
+009348B3|1|Indici
+0096BDB4|1| 
+0095EE7D|1|UVI
+0095EE7D|1|Umiditate
+009348B3|1|Răsărit și apus
+009348B3|1|Locații
+00972D14|1|Somn ușor
+0094844D|1|DND este pornit. Ridicați pentru a activa este oprit.
+00940039|1|Renunță
+00940039|1|Timp
+0094F4A1|1|%02d:%02d
+00940039|1|Somn
+009624EB|1|%dh %dm
+0096CE89|1|%d℃/%d℃
+009348B3|1|SpO₂
+00975374|1|98
+00940039|1|Măsurare
+00940039|1|Fără date
+00978D3A|1|98%
+00951942|1|Purtați banda deasupra osului încheieturii mâinii.
+00951942|1|Strângeți cureaua la bandă și încercați din nou
+00951942|1|Rămâi nemișcat
+0095A2D5|1|98%
+00955CAD|1|SpO₂
+0093D95A|1|85%
+00940039|1|Detalii
+00940039|1|Renunță
+009348B3|1|Urmărire continuă
+009348B3|1|Alertă
+009348B3|1|Aflați mai multe
+009348B3|1|Urmărire continuă
+00951942|1|Oprit
+00951942|1|80%
+00938403|1|Măsurați SpO₂ când nu vă mișcați
+00940039|1|Purtați banda deasupra osului încheieturii mâinii.
+00940039|1|Păstrați banda stabil și sigur.
+00946873|1|Această funcție nu este destinată scopurilor medicale.
+00951942|1|SpO₂ reprezintă procentul de oxigen din sângele dumneavoastră.
+00951942|1|În mod normal, citirile nu scad sub 95% în timp ce ești activ sau 90% în timpul somnului. Luați măsurile necesare dacă oxigenul din sânge scade sub 90%.
+00951942|1|Banda dvs. acceptă o gamă de 75–100%.
+00951942|1|Există mai mulți factori care ar putea face măsurătorile inconsecvente sau nesigure. Acestea pot include perfuzia pielii, modificări permanente sau temporare ale pielii, mișcarea sau poziția în timpul somnului. Toate cele de mai sus ar putea duce la o alertă fals de scădere a oxigenului din sânge. Rețineți că acesta nu este un dispozitiv medical, iar datele pe care le generează nu pot fi utilizate pentru diagnostic și tratament.
+009348B3|1|Alerte
+009348B3|1|Antrenament
+009348B3|1|Categorii
+009348B3|1|Mai mult
+009348B3|1|Sporturi acvatice
+009348B3|1|Înot piscină
+009348B3|1|Înot în aer liber
+009348B3|1|Navigație
+009348B3|1|Paddleboarding
+009348B3|1|Polo pe apă
+009348B3|1|Schi nautic
+009348B3|1|Caiac
+009348B3|1|Rafting
+009348B3|1|Aparat de vâslit
+009348B3|1|Barcă cu motor
+009348B3|1|Înot cu labele
+009348B3|1|Sărituri în apă
+009348B3|1|Înot artistic
+009348B3|1|Snorkeling
+009348B3|1|Kitesurfing
+009348B3|1|Activități în aer liber
+009348B3|1|Alergare în aer liber
+009348B3|1|Mers
+009348B3|1|Drumeție
+009348B3|1|Ciclism în aer liber
+009348B3|1|Drumeție montană
+009348B3|1|Pistă de alergare
+009348B3|1|Alpinism
+009348B3|1|Skateboarding
+009348B3|1|Patinaj pe role
+009348B3|1|Parkour
+009348B3|1|ATV
+009348B3|1|Parapantism
+009348B3|1|Stil liber
+009348B3|1|Bandă de alergare
+009348B3|1|Coardă de sărit
+009348B3|1|HIIT
+009348B3|1|Yoga
+009348B3|1|Ciclism interior
+009348B3|1|Eliptic
+009348B3|1|Aparat de vâslit
+009348B3|1|Urcător de scări
+009348B3|1|Stepper
+009348B3|1|Formare de bază
+009348B3|1|Flexibilitate
+009348B3|1|Pilates
+009348B3|1|Gimnastică
+009348B3|1|Întinderi
+009348B3|1|Putere
+009348B3|1|Pregătire încrucișată
+009348B3|1|A urca pe scări
+009348B3|1|Aerobic
+009348B3|1|Antrenament fizic
+009348B3|1|Minge la perete
+009348B3|1|Gantere
+009348B3|1|Halteră
+009348B3|1|Ridicare greutăți
+009348B3|1|Deadlift
+009348B3|1|Burpee
+009348B3|1|Abdomene
+009348B3|1|Antrenament funcțional
+009348B3|1|Partea superioară a corpului
+009348B3|1|Partea inferioară a corpului
+009348B3|1|Abs
+009348B3|1|Înapoi
+009348B3|1|Dans
+009348B3|1|Dansul pătrat
+009348B3|1|Dans din buric
+009348B3|1|Balet
+009348B3|1|Dans de stradă
+009348B3|1|Zumba
+009348B3|1|Dans popular
+009348B3|1|Dans de jazz
+009348B3|1|Dans latin
+009348B3|1|Sporturi de luptă
+009348B3|1|Box
+009348B3|1|Wrestling
+009348B3|1|Arte marțiale
+009348B3|1|Tai chi
+009348B3|1|Muay Thai
+009348B3|1|Judo
+009348B3|1|Taekwondo
+009348B3|1|Karate
+009348B3|1|Kickboxing
+009348B3|1|Kendo
+009348B3|1|Scrimă
+009348B3|1|Sporturi cu minge
+009348B3|1|Tenis
+009348B3|1|Baschet
+009348B3|1|Fotbal
+009348B3|1|Volei
+009348B3|1|Baseball
+009348B3|1|Softball
+009348B3|1|Fotbal american
+009348B3|1|Hochei
+009348B3|1|Tenis de masă
+009348B3|1|Badminton
+009348B3|1|Cricket
+009348B3|1|Handbal
+009348B3|1|Bowling
+009348B3|1|Squash
+009348B3|1|Biliard
+009348B3|1|Fluturaș
+009348B3|1|Fotbal de plajă
+009348B3|1|Volei pe plajă
+009348B3|1|Volei cu piciorul
+009348B3|1|Sporturi de iarnă
+009348B3|1|Patinaj
+009348B3|1|Curling
+009348B3|1|Alte sporturi de iarnă
+009348B3|1|Scuter de zăpadă
+009348B3|1|Hochei pe gheață
+009348B3|1|Bob
+009348B3|1|Sanie
+009348B3|1|Sporturi recreative
+009348B3|1|Tir cu arcul
+009348B3|1|Darts
+009348B3|1|Echitație
+009348B3|1|Lupta cu odgonul
+009348B3|1|Hula hoop
+009348B3|1|Zmeu
+009348B3|1|Pescuit
+009348B3|1|Frisbee
+009348B3|1|Alte
+009348B3|1|Ecvestru
+009348B3|1|Atletism
+009348B3|1|Curse auto
+00951942|1|Deschide
+00942C9D|1|%02d:%02d:%02d
+00942C9D|1|%d.%d
+0097A9BA|1|km
+00942C9D|1|%d'%d"
+00946873|1|Ușor
+00946873|1|Intensiv
+00946873|1|Aerobic
+00946873|1|Anaerobic
+00946873|1|VO₂ max
+0094F4A1|1|%d
+0097A9BA|1|kcal
+0097A9BA|1|SPM
+0097A9BA|1|pas
+0097A9BA|1|pas
+0097A9BA|1|pași
+0097A9BA|1|pași
+0097A9BA|1|pas
+0097A9BA|1|pas
+0097A9BA|1|pași
+0097A9BA|1|pași
+0097A9BA|1|pași
+0097A9BA|1|pași
+0097A9BA|1|pas
+0097A9BA|1|pas
+0097A9BA|1|pași
+0097A9BA|1|pași
+0097A9BA|1|pași
+0097A9BA|1|pași
+0094F4A1|1|0
+00946873|1|/km
+0097A9BA|1|km/h
+0097A9BA|1|lungime
+0097A9BA|1|lungime
+0097A9BA|1|lungime
+0097A9BA|1|lungime
+0097A9BA|1|lungime
+0097A9BA|1|lungime
+0097A9BA|1|lungimi
+0097A9BA|1|lungimi
+0097A9BA|1|lungimi
+0097A9BA|1|lungimi
+0097A9BA|1|lungime
+0097A9BA|1|lungime
+0097A9BA|1|lungimi
+0097A9BA|1|lungimi
+0097A9BA|1|lungimi
+0097A9BA|1|lungimi
+0097A9BA|1|serie
+0097A9BA|1|serii
+0097A9BA|1|săritură
+0097A9BA|1|săritură
+0097A9BA|1|săritură
+0097A9BA|1|săritură
+0097A9BA|1|sărituri
+0097A9BA|1|sărituri
+0097A9BA|1|sărituri
+0097A9BA|1|sărituri
+0097A9BA|1|serie
+0097A9BA|1|serie
+0097A9BA|1|serii
+0097A9BA|1|serii
+0097A9BA|1|serii
+0097A9BA|1|serii
+0097A9BA|1|SPM
+00953FFF|1|/km
+00953FFF|1|km în urmă
+0097BA7C|1|%u'%02u''
+009348B3|1|Stres
+00954EE4|1|Moderat
+009348B3|1|Detalii
+00951942|1|Relaxat
+00951942|1|Ușor
+00951942|1|Moderat
+00951942|1|Sever
+009348B3|1|Ultimele 7 zile
+0096B70C|1|05.12
+00940039|1|Fără date
+00946873|1|Moderat
+009348B3|1|Monitorizare continuă
+009348B3|1|Memento de relaxare
+00940039|1|Pornit
+009348B3|1|Monitorizare continuă
+009348B3|1|Pornit/\nOprit
+00946873|1|Urmăriți-vă când sunteți sedentar
+00946873|1|Exerciții de respirație prompte când nivelul de stres rămâne peste 80 când sunteți treaz
+009348B3|1|Aflați mai multe
+00940039|1|Stresul este reacția corpului tău la provocări și solicitări.
+00940039|1|Banda ta măsoară nivelul de stres atunci când ești inactiv.\nNivele:\nRelaxat: 1–25\nUșor: 25–50\nModerat: 51–80\nSever: 81–100.\nAceastă funcție nu este destinată scopurilor medicale.
+00940039|1|Măsurătorile depind de temperatura scăzută, perfuzia pielii și multe altele.
+0093D95A|1|99.0
+00940039|1|Respirație
+0094844D|1|Puls
+0094844D|1|Alarmă
+0094844D|1|SpO₂
+0094844D|1|Setări
+0094844D|1|Meteo
+0094844D|1|Adaugă dispozitiv nou
+0094844D|1|Statistici
+009348B3|1|Ștergeți afișajul benzii?
+009348B3|1|Pentru a salva modificările, glisați spre dreapta pe afișajul benzii.
+009348B3|1|Rezumat
+009348B3|1|Puls
+009348B3|1|Ritm
+009348B3|1|Cadență
+00940039|1|Vezi detalii în aplicație
+009348B3|1|Viteză
+009348B3|1|Rată serie
+009348B3|1|Coardă de sărit
+009348B3|1|Frecvență
+009348B3|1|SWOLF
+009348B3|1|Drumeție
+00942C9D|1|2:23.1
+009348B3|1|Serii
+009348B3|1|Statistici
+009348B3|1|În picioare
+009348B3|1|Mișcare
+009348B3|1|Baterie
+009348B3|1|Dată
+009348B3|1|UV
+00940039|1|Se sincronizează
+009348B3|1|Nu s-a putut sincroniza
+009348B3|1|Eroare
+00938403|1|Îndepărtați afișajele benzii și încercați din nou
+009348B3|1|Salvați modificările?
+009348B3|1|O dată
+00951942|1|O dată
+009348B3|1|Lun
+009348B3|1|Mar
+009348B3|1|Mie
+009348B3|1|Joi
+009348B3|1|Vin
+009348B3|1|Sâm
+009348B3|1|Dum
+00951942|1| 
+00951942|1|L
+00951942|1|M
+00951942|1|M
+00951942|1|J
+00951942|1|V
+00951942|1|S
+00951942|1|D
+00951942|1|Zilnic
+0094844D|1|Somn
+0094844D|1|Cronometru
+0094844D|1|Respirație
+0094844D|1|Cicluri
+0094844D|1|Stres
+0094844D|1|Antrenament
+00938403|1|Scanați pentru a descărca
+0094844D|1|Asociați cu telefonul?
+009348B3|1|Reglementat
+00940039|1|În picioare
+009348B3|1|Amână
+009348B3|1|Alarma este oprită
+009348B3|1|Pierdută
+0094F4A1|1|%02lu:%02lu
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00940039|1| 
+00967B5B|1|8000
+00955CAD|1|pas
+00955CAD|1|pas
+00955CAD|1|pas
+00955CAD|1|pas
+00955CAD|1|pași
+00955CAD|1|pași
+00955CAD|1|pași
+00955CAD|1|pași
+00967B5B|1|500
+00955CAD|1|kcal
+00955CAD|1|kcal
+00955CAD|1|kcal
+00955CAD|1|kcal
+00955CAD|1|kcal
+00955CAD|1|kcal
+00955CAD|1|kcal
+00967B5B|1|30
+00955CAD|1|min
+00955CAD|1|min
+00955CAD|1|min
+00955CAD|1|min
+00955CAD|1|min
+00955CAD|1|min
+00955CAD|1|min
+00955CAD|1|min
+00967B5B|1|12
+00955CAD|1|serie
+00955CAD|1|serie
+00955CAD|1|serie
+00955CAD|1|serie
+00955CAD|1|serii
+00955CAD|1|serii
+00955CAD|1|serii
+00955CAD|1|serii
+00951942|1|"Pași" afișează un număr de pași zilnic.
+00951942|1|"Calorii" afișează numărul de calorii active arse prin deplasare și exerciții fizice.
+00951942|1|"Mișcare" afișează timpul petrecut în activități moderate și viguroase.
+00951942|1|"În picioare" arată orele în care te ridici și te miști.
+00946873|1|km/h
+009348B3|1|80%
+009348B3|1|85%
+009348B3|1|90%
+009348B3|1|Antrenament
+009348B3|1|Calorii
+009348B3|1|Pași
+009348B3|1|Puls
+009348B3|1|Stres
+009348B3|1|Alarmă
+009348B3|1|Meteo
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+00951942|1|%u km
+0095EE7D|1|%u km
+0095EE7D|1|%u m
+0095EE7D|1|%u m
+0095EE7D|1|%u m
+0095EE7D|1|%u m
+0095EE7D|1|%u m
+0095EE7D|1|%u m
+0095EE7D|1|%u m
+00951942|1|%u min
+00951942|1|%u min
+00951942|1|%u kcal
+0095EE7D|1|%u kcal
+0095EE7D|1|%u min
+00951942|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+00951942|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+0095EE7D|1|%u
+00954EE4|1| 
+009348B3|1|Serii
+009348B3|1|50 m
+0095EE7D|1|Ușor
+0095EE7D|1|VO₂ max
+0095EE7D|1|Aerobic
+0095EE7D|1|Anaerobic
+009348B3|1|%u km
+009348B3|1|%u km/h
+009348B3|1|%u BPM
+00951942|1|Efectuat
+0093A402|1|km
+009348B3|1|%
+00951942|1|%d,%d km
+0095EE7D|1|%d'%02d"
+009348B3|1|Focus
+009348B3|1|Rest
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00942C9D|1|%02d:%02d
+00945B53|1|%02d:%02d
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|%dm în urmă
+0096BDB4|1|Chiar acum
+0096BDB4|1|Chiar acum
+0096BDB4|1|%02dm în urmă
+0096BDB4|1|%02dm în urmă
+0096BDB4|1|%02dm în urmă
+0096BDB4|1|%02dm în urmă
+0096BDB4|1|Măsurat: %02d:%02d
+00940039|1|Odihnă: %02d
+00940039|1|Odihnă: --
+009348B3|1|30 min
+00940039|1| 
+0093D95A|1|Measure heart rate every 10 mins
+0093D95A|1| 
+00940039|1| 
+009348B3|1|40 BPM
+009348B3|1|45 BPM
+009348B3|1|50 BPM
+009348B3|1|110 BPM
+009348B3|1|120 BPM
+009348B3|1|130 BPM
+009348B3|1|140 BPM
+009348B3|1|150 BPM
+00972D14|1|Timpul a expirat
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d h
+00938403|1|%d min
+00938403|1|%d min
+00938403|1|%d min
+00938403|1|%d min
+00938403|1|%d min
+00938403|1|%d min
+00938403|1|%d min
+00938403|1|%d min
+00955CAD|1|Faceți puțină mișcare
+00940039|1|Fii activ!
+009348B3|1|Dezactivați memento-urile În picioare de astăzi?
+00951942|1|Oprit
+00951942|1|100 BPM
+00951942|1|110 BPM
+00951942|1|120 BPM
+00951942|1|130 BPM
+00951942|1|140 BPM
+00951942|1|150 BPM
+00951942|1|40 BPM
+00951942|1|45 BPM
+00951942|1|50 BPM
+00951942|1|Pornit
+00951942|1|Oprit
+00951942|1|1 min
+00951942|1|10 min
+00951942|1|30 min
+00951942|1|Automat
+0097BA7C|1|%d%%
+0094844D|1|Activitate
+0094844D|1|Mi AI
+0094844D|1|Carduri
+0094844D|1|Notificări
+0094844D|1|Evenimente
+0094844D|1|Muzică
+0094844D|1|Aparat foto
+0094844D|1|Temporizator
+0094844D|1|Lanternă
+0094844D|1|Găsește telefon
+0094844D|1|Ajutor
+0097A9BA|1|"Ridică pentru a activa" este pornit
+0097A9BA|1|"Ridică pentru a activa" este oprit
+0097A9BA|1|DND este pornit
+0097A9BA|1|DND este oprit
+009348B3|1|Rezumat
+00951942|1|Fără date
+00940039|1|Vezi detalii în aplicație
+0095A2D5|1|--
+00951942|1|%d
+00951942|1|%d
+00951942|1|%d
+00951942|1|%d
+00951942|1|%d
+00951942|1|%d
+00951942|1|%d
+00951942|1|%d–%d BPM
+0093D95A|1|%d-%d
+0093D95A|1|%02d:%02d-%02d:%02d
+0097D063|1|%d
+00942C9D|1|%02d:%02d:%02d
+00942C9D|1|:
+00942C9D|1|%02d:%02d.%02d
+0096CE89|1|%02d:%02d:%02d.%02d
+0097D865|1|%02d:%02d:%02d.%02d
+0097D865|1|%02d:%02d.%02d
+00938403|1|%02u-%02u %02u:%02u
+00942C9D|1|%02u:%02u:%02u
+0096CE89|1|%lu.%02lu
+00938403|1|km
+009348B3|1|Obiectiv
+0095EE7D|1|%u%%
+0095EE7D|1|Finalizat
+0096CE89|1|%lu
+0095EE7D|1|Obiectiv
+0095EE7D|1|Kcal active
+0096CE89|1|%lu'%02lu''
+0095EE7D|1|Ritm mediu
+0095EE7D|1|Pași
+0095EE7D|1|BPM mediu
+0095EE7D|1|SPM med
+0095A2D5|1|%u'%02u''
+0096B70C|1|%02u:%02u
+0095A2D5|1|%u
+00940039|1|Vezi detalii în aplicație
+00940039|1|Înapoi
+0095EE7D|1|Obiectiv
+0095EE7D|1|Finalizat
+0095EE7D|1|Obiectiv
+0095EE7D|1|Finalizat
+0095EE7D|1|Obiectiv
+0095EE7D|1|Finalizat
+0095EE7D|1|Obiectiv
+0095EE7D|1|Finalizat
+0095EE7D|1|Obiectiv
+0095EE7D|1|Finalizat
+0095EE7D|1|m
+0095EE7D|1|m
+0095EE7D|1|m
+0095EE7D|1|m
+0095EE7D|1|m
+0095EE7D|1|m
+0095EE7D|1|m
+0095EE7D|1|kcal
+0095EE7D|1|kcal
+0095EE7D|1|kcal
+0095EE7D|1|kcal
+0095EE7D|1|kcal
+0095EE7D|1|kcal
+0095EE7D|1|kcal
+0095EE7D|1|lungime
+0095EE7D|1|săritură
+0095EE7D|1|serie
+0095EE7D|1|lungime
+0095EE7D|1|lungime
+0095EE7D|1|lungime
+0095EE7D|1|lungimi
+0095EE7D|1|lungimi
+0095EE7D|1|lungimi
+0095EE7D|1|lungimi
+0095EE7D|1|săritură
+0095EE7D|1|săritură
+0095EE7D|1|săritură
+0095EE7D|1|sărituri
+0095EE7D|1|sărituri
+0095EE7D|1|sărituri
+0095EE7D|1|sărituri
+0095EE7D|1|serii
+0095EE7D|1|serii
+0095EE7D|1|serii
+0095EE7D|1|serii
+0095EE7D|1|serii
+0095EE7D|1|serii
+0095EE7D|1|serii
+0093D95A|1|1 min
+0096B70C|1|%u
+009348B3|1|Nu există date astăzi
+00951942|1|Astăzi
+00951942|1|Mâine
+00951942|1|Oprit
+00940039|1|Următorul
+00940039|1|Activați estimarea de Perioadă în aplicație
+0095EE7D|1|Chiar acum
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%dm în urmă
+0095EE7D|1|%d:%02d
+0095EE7D|1|Ieri, %d:%02d
+0095EE7D|1|%02d/%02d %d:%02d
+0093D95A|1|%d notificare
+0093D95A|1|%d notificare
+0093D95A|1|%d notificare
+0093D95A|1|%d notificări
+0093D95A|1|%d notificări
+0093D95A|1|%d notificări
+0093D95A|1|%d notificări
+00940039|1|Șterge
+0096B70C|1|00:00
+0096B70C|1|12:00
+0096B70C|1|24:00
+00951942|1|Toată ziua
+00940039|1|Urmărire continuă este oprită.
+00940039|1|Strângeți cureaua la bandă și încercați din nou
+0096B70C|1|%02u:%02u
+0096CE89|1|%02u:%02u-%02u:%02u
+009348B3|1|Alerte
+00951942|1|Banda dvs. vă anunță când detectează citiri sub nivelul setat. Puteți vizualiza mai multe date în aplicație. Dacă vă simțiți rău, solicitați sfatul medicului.
+00940039|1|Rămâi nemișcat
+00940039|1|50% efectuat
+00940039|1|Se calibrează
+00940039|1|Rămâneți nemișcat în timpul măsurării
+00940039|1|Strângeți cureaua la bandă și încercați din nou
+00940039|1|Strângeți cureaua la bandă și încercați din nou
+0097A9BA|1|m
+00940039|1|Conectați-vă la aplicație pentru a actualiza meteo
+00946873|1|Setați locații în aplicație
+00966B77|1|%d
+009348B3|1|Doar o secundă
+00951942|1|Bun
+00951942|1|Moderat
+00951942|1|Ușor poluat
+00951942|1|Nesănătos
+00951942|1|Periculos
+00951942|1|Primejdios
+0093D95A|1|Bun
+0093D95A|1|Moderat
+0093D95A|1|Ușor poluat
+0093D95A|1|Nesănătos
+0093D95A|1|Periculos
+0093D95A|1|Primejdios
+00938403|1|Vânt variabil
+00938403|1|Vârtej de vânt
+00938403|1|Vânt N
+00938403|1|Vânt NE
+00938403|1|Vânt E
+00938403|1|Vânt SE
+00938403|1|Vânt S
+00938403|1|Vânt SV
+00938403|1|Vânt V
+00938403|1|Vânt NV
+009348B3|1|Senin
+009348B3|1|Noros
+009348B3|1|Înnorat
+009348B3|1|Averse
+009348B3|1|Furtună cu trăsnete
+009348B3|1|Grindină
+009348B3|1|Lapoviță
+009348B3|1|Ploaie ușoară
+009348B3|1|Ploaie moderată
+009348B3|1|Ploaie torențială
+009348B3|1|Furtună
+009348B3|1|Ploaie torențială
+009348B3|1|Precipitații abundente
+009348B3|1|Averse de zăpadă
+009348B3|1|Ninsoare ușoară
+009348B3|1|Ninsoare moderată
+009348B3|1|Ninsoare puternică
+009348B3|1|Viscol
+009348B3|1|Ceață
+009348B3|1|Ploaie înghețată
+009348B3|1|Furtună de nisip
+009348B3|1|Ploaie ușoară până la moderată
+009348B3|1|Ploaie moderată până la ploaie torențială
+009348B3|1|Ploaie torențială până la furtună
+009348B3|1|Furtună până la ploaie torențială
+009348B3|1|Ploaie torențială până la furtună
+009348B3|1|Zăpadă ușoară până la moderată
+009348B3|1|Zăpadă moderată până la zăpadă mare
+009348B3|1|Ninsoare puternică până la viscol
+009348B3|1|Praf
+009348B3|1|Vânt
+009348B3|1|Furtună de nisip puternică
+009348B3|1|Ceață
+009348B3|1|Ceață groasă
+009348B3|1|Negură ușoară
+009348B3|1|Negură moderată
+009348B3|1|Negură puternică
+009348B3|1|Negură severă
+009348B3|1|Ceață
+009348B3|1|Ceață severă
+009348B3|1|Niciun raport
+009348B3|1|Ploaie
+009348B3|1|Zăpadă
+00938403|1|Astăzi
+00938403|1|Lun
+00938403|1|Mar
+00938403|1|Mie
+00938403|1|Joi
+00938403|1|Vin
+00938403|1|Sâm
+00938403|1|Dum
+00967B5B|1|%d%%
+00967B5B|1|%d
+00938403|1|UVI
+00938403|1|Umiditate
+00975374|1|%02d:%02d
+0097E69E|1|%02d:%02d
+00938403|1|Mod somn oprit la %02d:%02d
+009348B3|1|BPM neregulat necesită o frecvență de 1 min. Continuați?
+0095EE7D|1|Max BPM
+0095EE7D|1|Antrenament
+0095EE7D|1|Odihnă
+0095EE7D|1|Seturi
+0095EE7D|1|Serii
+0095EE7D|1|Sărituri
+0095EE7D|1|Viteză
+0095EE7D|1|Rată serie
+0095EE7D|1|Lungimi
+0095EE7D|1|Stil principal
+0095EE7D|1|Mediu SWOLF
+0095EE7D|1|SPM med
+0096CE89|1|%02lu:%02lu:%02lu
+009624EB|1|Bras
+009624EB|1|Mixt
+009624EB|1|Stil liber
+009624EB|1|Spate
+009624EB|1|Fluture
+0096CE89|1|%lu.%lu
+00951942|1|Max
+00951942|1|Max
+00971A03|1|%u
+009348B3|1|Seturi
+009348B3|1|On
+00940039|1|Ridicați pentru a activa se va dezactiva atunci când te culci sau când îți scoți banda.
+0097F698|1|℃
+0097F698|1|℉
+00954EE4|1|%d:%02d
+00975374|1|%u'%02u''
+009652AB|1|%u'%02u''
+00940039|1|Obiectiv: %u'%02u''
+00972D14|1|%u km/h
+00940039|1|Obiectiv: %u km/h
+009652AB|1|%u
+00940039|1|Obiectiv BPM: %d–%d
+0093D95A|1|%d
+00940039|1|Threshold: %d BPM
+009652AB|1|--
+0096CE89|1|%d℉/%d℉
+00940039|1|Am înțeles
+0094F4A1|1|%u
+0097090B|1|%%
+0094844D|1|Baterie sub %u%%. Încărcați acum.
+00951942|1|VO₂ max
+00951942|1|Anaerobic
+00951942|1|Intensiv
+00951942|1|Aerobic
+00951942|1|Ușor
+0096B70C|1|%02lu:%02lu:%02lu
+009348B3|1|%02lu:%02lu:%02lu
+00954EE4|1|BPM
+0097D865|1|%u
+009624EB|1|%d℃/%d℃
+009624EB|1|%d℉/%d℉
+00940039|1|%d℃/%d℃
+00940039|1|%d℉/%d℉
+009624EB|1|℃
+009624EB|1|℉
+009624EB|1|-
+00940039|1|-
+00940039|1|Ciclism
+00940039|1|Aparat de vâslit
+009348B3|1|Conectați-vă cu aplicația și încercați din nou
+009348B3|1|Începător
+009348B3|1|Rezistență
+009348B3|1|Interval
+009348B3|1|Alergare/mers de bază
+009348B3|1|Alergare/mers avansat
+009348B3|1|Cursă de bază
+009348B3|1|De bază
+009348B3|1|Avansat
+009348B3|1|MIIT
+009348B3|1|De bază
+009348B3|1|Avansat
+009348B3|1|De bază
+009348B3|1|Avansat
+00946873|1|Combină mersul pe jos și pasul alergător la intervale de timp.
+00946873|1|Combină mersul pe jos și pasul alergător la intervale de timp.
+00946873|1|Pas alergător de intensitate scăzută-medie.
+00946873|1|Pas alergător mai scurt pentru arderea grăsimilor și pierderea în greutate.
+00946873|1|Intensitate scăzută-medie, alergare prelungită pentru arderea grăsimilor.
+00946873|1|Antrenament pe intervale de intensitate medie-înaltă.
+00946873|1|Pas alergător de lungime medie pentru rezistență.
+00946873|1|Alergare mai lungă pentru rezistență.
+00946873|1|Antrenament la intervale mai scurte pentru sănătatea inimii și a plămânilor.
+00946873|1|Antrenament cu intervale mai lungi pentru sănătatea inimii și a plămânilor.
+009348B3|1|%02u/%02u
+009348B3|1|Acum
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|În %u min
+009348B3|1|Termen depășit
+00940039|1|Lun 
+00940039|1|Mar 
+00940039|1|Mie 
+00940039|1|Joi 
+00940039|1|Vin 
+00940039|1|Sâm 
+00940039|1|Dum 
+00940039|1|%u/%u 
+00940039|1|%02u:%02u 
+00940039|1|Astăzi 
+00940039|1|Mâine 
+00975374|1|02d%:02d%
+00953FFF|1|km înainte
+009652AB|1|--'--"
+00942C9D|1|--'--"
+00940039|1|%02u:%02u-
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u h
+009348B3|1|În %u zi
+009348B3|1|În %u zi
+009348B3|1|În %u zi
+009348B3|1|În %u zi
+009348B3|1|În %u zile
+009348B3|1|În %u zile
+009348B3|1|În %u zile
+009348B3|1|În %u zile
+00955CAD|1|Baterie descărcată
+00946873|1|Alergare
+00938403|1|%d min
+00938403|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+0094844D|1|Se pregătește actualizarea
+0094844D|1|Nu s-a putut actualiza.\nÎncercați din nou.
+0097D865|1|%
+00940039|1|Timp
+00946873|1|Relaxat
+00946873|1|Ușor
+00946873|1|Sever
+00940039|1|Monitorizare continuă este oprită.
+00940039|1|%02u:%02u AM–
+00940039|1|%02u:%02u PM–
+00940039|1|%02u:%02u AM
+00940039|1|%02u:%02u PM
+0094844D|1|Te sun mai târziu.
+0094844D|1|Nu pot vorbi acum. Ce faci?
+0094844D|1|Nu pot vorbi acum. Sună-mă mai tarziu.
+0097F729|1|--
+00942C9D|1|%u%%
+00951942|1|Obiectiv
+00942C9D|1|%u
+0094844D|1|km
+0094844D|1|kcal
+0094844D|1|lungime
+0094844D|1|lungime
+0094844D|1|lungime
+0094844D|1|lungimi
+0094844D|1|lungimi
+0094844D|1|lungimi
+0094844D|1|lungimi
+0094844D|1|serie
+0094844D|1|serie
+0094844D|1|serie
+0094844D|1|serii
+0094844D|1|serii
+0094844D|1|serii
+0094844D|1|serii
+0094844D|1|săritură
+0094844D|1|săritură
+0094844D|1|săritură
+0094844D|1|sărituri
+0094844D|1|sărituri
+0094844D|1|sărituri
+0094844D|1|sărituri
+0096F047|1|Record nou!
+00942C9D|1|%02u:%02u:%02u
+0097D865|1|%lu.%lu.%lu
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %lu.%lu km
+00951942|1|Obiectiv: %02u:%02u:%02u
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u kcal
+00951942|1|Obiectiv: %u lungime
+00951942|1|Obiectiv: %u lungime
+00951942|1|Obiectiv: %u lungime
+00951942|1|Obiectiv: %u lungime
+00951942|1|Obiectiv: %u lungimi
+00951942|1|Obiectiv: %u lungimi
+00951942|1|Obiectiv: %u lungimi
+00951942|1|Obiectiv: %u lungimi
+00951942|1|Obiectiv: %u serie
+00951942|1|Obiectiv: %u serie
+00951942|1|Obiectiv: %u serie
+00951942|1|Obiectiv: %u serii
+00951942|1|Obiectiv: %u serii
+00951942|1|Obiectiv: %u serii
+00951942|1|Obiectiv: %u serii
+00951942|1|Obiectiv: %u săritură
+00951942|1|Obiectiv: %u săritură
+00951942|1|Obiectiv: %u săritură
+00951942|1|Obiectiv: %u sărituri
+00951942|1|Obiectiv: %u sărituri
+00951942|1|Obiectiv: %u sărituri
+00951942|1|Obiectiv: %u sărituri
+00940039|1|Banda dvs. vă anunță când pulsul depășește un BPM setat. Pulsul crește sub stres.
+00940039|1|Banda dvs. vă anunță când pulsul scade sub un BPM setat. Pulsul încetinește în timpul somnului.\nDacă vă simțiți rău, solicitați sfatul medicului.
+0093D95A|1|Puls ridicat
+0093D95A|1|Puls scăzut
+009348B3|1|Aflați mai multe
+0093D95A|1|Pas alergător
+0093D95A|1|Alergare
+0093D95A|1|Sprint
+00942C9D|1|%d
+0094CB92|1|Pas alergător
+0094CB92|1|Alergare
+0094CB92|1|Sprint
+00946873|1|Alergare
+00946873|1|Sprint
+00942C9D|1|%02d
+009652AB|1|%02d
+009652AB|1|:
+00940039|1|Vezi detalii în aplicație
+009348B3|1|Ai făcut-o!
+00940039|1|Efectuat
+00940039|1|Continuă (%lus)
+009348B3|1|Antrenament
+00951942|1|Timp
+00951942|1|Puls
+0097BA7C|1|%lu.%02lu
+0097F76B|1|Automat
+0093A402|1|Automat
+009348B3|1|Setat cu succes
+00940039|1|Am înțeles
+009348B3|1|Supraîncălzire. Se dezactivează.
+0095EE7D|1|med
+0093D95A|1|Baterie descărcată
+00940039|1|AM
+00940039|1|PM
+0096CE89|1|%lu:%02lu
+0095EE7D|1|%u,%02u km
+0095EE7D|1|%u,%02u km
+0095EE7D|1|%u,%02u km
+00940039|1|DND se va activa atunci când te culci sau când îți scoți banda.
+00938403|1|Notifică când citirile SpO₂ sunt sub nivelul setat în timpul trezirii
+0096BDB4|1|%d:%02d AM
+0096BDB4|1|%d:%02d PM
+0096BDB4|1|Ieri, %d:%02d AM
+0096BDB4|1|Ieri, %d:%02d PM
+0096BDB4|1|%02d/%02d, %d:%02d AM
+0096BDB4|1|%02d/%02d, %d:%02d PM
+0094844D|1|Alergare
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u kcal
+00946873|1|Obiectiv: %u pas
+00946873|1|Obiectiv: %u pas
+00946873|1|Obiectiv: %u pas
+00946873|1|Obiectiv: %u pași
+00946873|1|Obiectiv: %u pași
+00946873|1|Obiectiv: %u pași
+00946873|1|Obiectiv: %u pași
+00946873|1|Obiectiv: %u serie
+00946873|1|Obiectiv: %u serie
+00946873|1|Obiectiv: %u serie
+00946873|1|Obiectiv: %u serii
+00946873|1|Obiectiv: %u serii
+00946873|1|Obiectiv: %u serii
+00946873|1|Obiectiv: %u serii
+00946873|1|Obiectiv: %u min
+00946873|1|Obiectiv: %u min
+00946873|1|Obiectiv: %u min
+00946873|1|Obiectiv: %u min
+00946873|1|Obiectiv: %u min
+00946873|1|Obiectiv: %u min
+00946873|1|Obiectiv: %u min
+0096080A|1|0123456789•
+0095EE7D|1|Astăzi
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada în %uz
+009348B3|1|Perioada fertilă în %uz
+009348B3|1|Perioada fertilă în %uz
+009348B3|1|Perioada fertilă în %uz
+009348B3|1|Perioada fertilă în %uz
+009348B3|1|Perioada fertilă în %uz
+009348B3|1|Perioada fertilă în %uz
+009348B3|1|Perioada fertilă în %uz
+00946873|1|Scanați pentru a vedea ajutor
+0095EE7D|1|Ieri
+0095EE7D|1|2z în urmă
+00940039|1|Strângeți cureaua de la bandă
+009348B3|1|Aflați mai multe
+009624EB|1|Necunoscut
+00955CAD|1|Alergare/mers de bază
+00955CAD|1|Alergare/mers avansat
+00955CAD|1|Cursă de bază
+00955CAD|1|De bază
+00955CAD|1|Avansat
+00955CAD|1|MIIT
+00955CAD|1|De bază
+00955CAD|1|Avansat
+00955CAD|1|De bază
+00955CAD|1|Avansat
+00955CAD|1|Sever
+00940039|1|Respirație
+00940039|1|Mers
+009348B3|1|Permiteți la bandă să deblocheze telefonul?
+009348B3|1|Permis
+009348B3|1|Nu s-a putut permite
+009348B3|1|Ajutor
+009348B3|1|Reglementat
+0093D95A|1|Model
+0093D95A|1|CMIIT ID
+00953FFF|1|Ian
+00953FFF|1|Feb
+00953FFF|1|Mar
+00953FFF|1|Apr
+00953FFF|1|Mai
+00953FFF|1|Iun
+00953FFF|1|Iul
+00953FFF|1|Aug
+00953FFF|1|Sep
+00953FFF|1|Oct
+00953FFF|1|Nov
+00953FFF|1|Dec
+00951942|1|Perioada în 1z
+00951942|1|Perioada în 2z
+00951942|1|Perioada în %uz
+00951942|1|Perioada în %uz
+00951942|1|Perioada în %uz
+00951942|1|Perioada în %uz
+00951942|1|Perioada în %uz
+00951942|1|Perioada în %uz
+00951942|1|Perioada în %uz
+00951942|1|Ovulația în 1z
+00951942|1|Ovulația în 2z
+00951942|1|Ovulația în %uz
+00951942|1|Ovulația în %uz
+00951942|1|Ovulația în %uz
+00951942|1|Ovulația în %uz
+00951942|1|Ovulația în %uz
+00951942|1|Ovulația în %uz
+00951942|1|Ovulația în %uz
+009348B3|1|Pornit/\nOprit
+009348B3|1|Pornit/\nOprit
+00955CAD|1|Apel pierdut
+00940039|1|Am înțeles
+00940039|1|Permiteți ca aplicația să ruleze în fundal
+00940039|1|Configurați Amazon Alexa în aplicație
+00940039|1|Conectați-vă la contul dvs. Amazon din aplicație
+00940039|1|Nu puteți reda video sau audio pe banda dvs.
+00940039|1|Se conectează…
+00940039|1|Ascultă…
+00940039|1|Gândește…
+00940039|1|Set a timer for 2 minutes
+00940039|1|What's the weather?
+00938403|1|%02d:%02d–%02d:%02d
+00938403|1|%02d:%02d-%02d:%02d
+00954EE4|1|Relaxat
+00954EE4|1|Ușor
+00954EE4|1|Sever
+00955CAD|1|Moderat
+009348B3|1|Zilnic
+009348B3|1|Nu se poate conecta
+009348B3|1|Eroare de rețea
+009348B3|1|Este necesară configurarea
+009348B3|1|Conectează-te
+0096BDB4|1|Ture
+00940039|1|Med
+00954EE4|1|SPM
+00954EE4|1|km/h
+00954EE4|1|SPM
+009348B3|1|Aflați mai multe
+00940039|1|Baterie descărcată. Lanterna este oprită.
+00940039|1|Închide
+0095A2D5|1|%.1f
+00971A03|1|%.1f
+0095A2D5|1|%u:%02u'%02u"
+00971A03|1|%u:%02u'%02u"
+0096CE89|1|%u:%02u'%02u"
+00946873|1|Se redă sunet
+0093D95A|1|Codurile PIN nu se potrivesc
+0093D95A|1|Introduceți PIN
+0093D95A|1|PIN nou
+00940039|1|Nu se poate conecta
+00940039|1|Eroare de rețea
+00940039|1|Este necesară configurarea
+00940039|1|Conectează-te
+00940039|1|Nu este disponibil
+0096080A|1|PIN nou
+0096080A|1|Confirmă PIN
+0096080A|1|   Codurile PIN nu se potrivesc  
+0096080A|1|Introduceți PIN
+0093A402|1|%d
+0097F76B|1|%d
+00951942|1|%dh %dm
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d h
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+00951942|1|%d min
+0094844D|1|%d'%02d"
+0095EE7D|1|%02u/%02u
+0095EE7D|1|%02u:%02u
+009624EB|1|--℃/--℃
+009624EB|1|--℉/--℉
+00940039|1|--℃/--℃
+00940039|1|--℉/--℉
+00951942|1|Obiectiv completat
+00951942|1|Obiectiv completat
+00951942|1|Obiectiv Mișcare atins
+00951942|1|Obiectiv În picioare atins
+00951942|1|Obiectiv Pași atins
+00951942|1|Obiectiv Calorii atins
+00951942|1|Obiectiv completat
+00951942|1|Obiectiv completat
+00951942|1|Toate obiectivele au fost atinse
+00951942|1|Felicitări
+00951942|1|Obiective atinse
+00951942|1|Obiective atinse
+00954EE4|1|km/h
+00954EE4|1|/km
+009348B3|1|AM
+009348B3|1|PM
+009348B3|1|Distanța de antrenament este prea mică pentru a fi înregistrată.
+0093D95A|1|(Fără titlu)
+00951942|1|Ați uitat PIN-ul?
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în %d sec
+0094844D|1|Încercați din nou în 5 min
+0094844D|1|Încercați din nou în 10 min
+0094844D|1|Resetați codul PIN în aplicație
+00951942|1|Am înțeles
+0096080A|1|Introduceți PIN-ul pentru a debloca
+00951942|1|%d notificare
+00951942|1|%d notificare
+00951942|1|%d notificare
+00951942|1|%d notificări
+00951942|1|%d notificări
+00951942|1|%d notificări
+00951942|1|%d notificări
+00981DDD|1|--:--
+009348B3|1|Alexa
+0094844D|1|Nu este disponibil
+00951942|1|Amazon Alexa nu este disponibilă în regiunea contului dvs.
+00951942|1|Verificați conexiunea la rețea
+009348B3|1|Puteți repeta?
+00951942|1|Începeți prin a spune
+00946873|1|Lun
+00946873|1|Mar
+00946873|1|Mie
+00946873|1|Joi
+00946873|1|Vin
+00946873|1|Sâm
+00946873|1|Dum
+0095EE7D|1|%u km/h
+009348B3|1|Se asociază
+0094844D|1|Nu s-a putut asocia
+0096080A|1|Introduceți PIN-ul pentru a debloca
+0096080A|1|Introduceți PIN-ul pentru a debloca
+0096BDB4|1|%d℃/%d℃
+0096BDB4|1|%d℉/%d℉
+00951942|1|%d
+0097BA7C|1|%02d:%02d.%02d
+0094844D|1|m
+00951942|1|Conectați-vă banda cu aplicația
+0096BDB4|1|-
+00940039|1|Vezi detalii în aplicație
+009348B3|1|Contact customer support to get your device repaired
+00938403|1|Monitorizează-ți pulsul non-stop
+0094844D|1|Setare PIN
+00938403|1|Primiți memento-uri pentru a începe sau încheia un antrenament de alergare, de mers sau de aparat de vâslit.
+009348B3|1|Se încarcă
+00953FFF|1|.
+00954EE4|1|.
+0096B70C|1|.
+00981DDD|1|.
+0095EE7D|1|.
+0096BDB4|1|.
+00981E58|1|.
+00981E7C|1|.
+00938403|1|.
+00946873|1|.
+00981EA7|1|.
+0097D063|1|.
+00951942|1|.
+00940039|1|.
+00971A03|1|.
+0097F698|1|.
+0097F729|1|.
+0097A9BA|1|.
+00981ECD|1|.
+009724C9|1|.
+0096080A|1|.
+0093D95A|1|.
+00981EF8|1|.
+00981F23|1|.
+0094844D|1|.
+009348B3|1|.
+0097D865|1|.
+0097090B|1|.
+00981F51|1|.
+00981F7C|1|.
+00945B53|1|.
+00981FA0|1|.
+0096F047|1|.
+009624EB|1|.
+0097E69E|1|.
+00966B77|1|.
+00981FD8|1|.
+00955CAD|1|.
+0097BA7C|1|.
+00967B5B|1|.
+00982A8E|1|.
+00972D14|1|.
+00982AC2|1|.
+009652AB|1|.
+0096FCD6|1|.
+0097F76B|1|.
+00978D3A|1|.
+0096CE89|1|.
+009841EE|1|.
+0093A402|1|.
+0095A2D5|1|.
+0094F4A1|1|.
+009348B3|1|h
+009348B3|1|m
+00940039|1|Nu arăta astăzi
+0094844D|1|Nu este disponibil
+00951942|1|Amazon Alexa nu este disponibilă în regiunea contului dvs.
+00940039|1|Remo seco
+00940039|1|Elíptico
+00940039|1|Saltar à corda
+00955CAD|1|Felicitări
+00951942|1| 
+00951942|1| 
+00951942|1|Obiectiv
+00951942|1|Rămas
+00951942|1|Obiectiv
+00951942|1|Rămas
+00951942|1|Obiectiv lungimi
+00951942|1|Rămas
+00951942|1|Obiectiv sărituri
+00951942|1|Rămas
+009348B3|1|Timp
+009348B3|1|Distanță
+009348B3|1|Lungimi
+009348B3|1|Serii
+009348B3|1|Sărituri
+00954EE4|1| 
+0095EE7D|1|%d:%02d
+0095EE7D|1|%d m
+0095EE7D|1|%dm %02ds
+009348B3|1|Aplicații
+0093D95A|1|Fitness
+0093D95A|1|De bază
+0093D95A|1|Meteo
+0093D95A|1|Instrumente
+009348B3|1|Cronometru
+009348B3|1|Temporizator
+009348B3|1|Aparat foto
+009348B3|1|Carduri
+0094844D|1|Durata de antrenament este prea mică pentru a fi înregistrată.
+00984226|1|Cronometru
+00984226|1|Temporizator
+0097F76B|1|%d℃
+0097F76B|1|%d℉
+0097F76B|1|-
+0097F76B|1|--℃
+0097F76B|1|--℉
+00940039|1|Doar o secundă
+009624EB|1|Respirație
+0097F76B|1|--
+009348B3|1|Automat
+009348B3|1|Personalizat
+0097F76B|1|%d%%
+00940039|1|Doar o secundă
+00940039|1|Nu se redă
+00940039|1|Deconectat
+00953FFF|1|Glisați în sus pentru codul de bare
+00953FFF|1|Glisați în jos pentru codul QR
+00984226|1|Aparat de vâslit
+00984226|1|Mers
+00984226|1|HIIT
+00984226|1|Ciclism în aer liber
+00984226|1|Ciclism interior
+00984226|1|Coardă de sărit
+00984226|1|Drumeție montană
+00984226|1|Drumeție
+00984226|1|Eliptic
+00984226|1|Alergare în aer liber
+00984226|1|Înot piscină
+00984226|1|Bandă de alergare
+00984226|1|Pistă de alergare
+00984226|1|Stil liber
+00982AC2|1|%lu
+00978D3A|1|%lu
+00940039|1|Fără date
+0097F76B|1|--
+00940039|1|m
+009348B3|1|SpO₂
+00951942|1|Ți-ai atins obiectivul ieri. Ține-o tot așa și astăzi!
+00951942|1|Ai atins 2 din 3 obiective ieri. O poți face!
+00951942|1|Nu ți-ai atins obiectivele ieri. Implică-te astăzi!
+00951942|1|Aproape v-ați atins obiectivele - astăzi este o nouă zi!
+00951942|1|Doar 1000 de pași până la obiectivul tău.
+00951942|1|Ești la doar 50 kcal distanță de obiectivul tău.
+00951942|1|Mai ai timp să atingi obiectivul de astăzi, continuă!
+00951942|1|Mai ridică-te de două ori pentru a-ți atinge obiectivul.
+00951942|1|Ridică-te încă o dată astăzi pentru a-ți atinge obiectivul.
+00951942|1|Ți-ai atins obiectivul ieri. Ține-o tot așa și astăzi!
+00951942|1|Ai atins 2 din 3 obiective ieri. O poți face!
+00951942|1|Nu ți-ai atins obiectivele ieri. Implică-te astăzi!
+00951942|1|Aproape v-ați atins obiectivele - astăzi este o nouă zi!
+00951942|1|Doar 1000 de pași până la obiectivul tău.
+00951942|1|Ești la doar 50 kcal distanță de obiectivul tău.
+00951942|1|Aproape că ți-ai atins obiectivul, termină în forță!
+00951942|1|Mai ridică-te de două ori pentru a-ți atinge obiectivul.
+00951942|1|Ridică-te încă o dată astăzi pentru a-ți atinge obiectivul.
+00981FD8|1|Obiectiv atins!
+0094844D|1|O poți face!
+0094844D|1|Statistici
+0095EE7D|1|Personalizat
+0094844D|1|Nu s-a putut asocia
+00938403|1|Încercați din nou
+00951942|1|Asociază
+0094844D|1|Confirmați pe telefon
+0094844D|1|Se asociază...
+0094844D|1|Asociat
+00938403|1|Scanați pentru a descărca aplicația
+00938403|1|Confirmați pe telefon
+0098605F|1|繁體中文
+0094844D|1|English
+0094844D|1|Deutsch
+00986966|1|한국어
+00986F33|1|עברית
+00987303|1|ไทย
+00987537|1|日本語
+00987B6A|1|العربية
+0094844D|1|Italiano
+0094844D|1|Français
+0094844D|1|Español
+0094844D|1|Polski
+0094844D|1|Українська
+0094844D|1|Čeština
+0094844D|1|Русский
+0094844D|1|Nederlands
+0094844D|1|Português PT
+0094844D|1|Türkçe
+0094844D|1|Română
+0094844D|1|Eλληνικά
+0094844D|1|Português BR
+0094844D|1|Indonesia
+0094844D|1|Tiếng Việt
+0094844D|1|Norsk bokmål
+0094844D|1|Suomi
+0094844D|1|Svenska
+0094844D|1|Dansk
+0095EE7D|1|Oprit
+0095EE7D|1|%d secundă
+0095EE7D|1|%d secundă
+0095EE7D|1|%d secundă
+0095EE7D|1|%d secunde
+0095EE7D|1|%d secunde
+0095EE7D|1|%d secunde
+0095EE7D|1|%d secunde
+00940039|1|%u/%u/%u 
+0093D95A|1|Xiaomi Smart Band 7 Pro
+00940039|1|OK
+0096080A|1|If the number of words is too long, please check it on the APP side
+009348B3|1|Snowboarding
+009348B3|1|Schi
+00955CAD|1|Snowboarding
+00955CAD|1|Schi
+00938403|1|Personalizat
+009348B3|1|Syncing
+0094844D|1|Preparing update
+0095EE7D|1|VO₂ max
+00938403|1|Mare

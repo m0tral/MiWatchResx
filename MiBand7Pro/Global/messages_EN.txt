@@ -1,0 +1,2071 @@
+00192E8E|1|Settings
+00192E8E|1|Band displays
+00192E8E|1|Display
+00192E8E|1|Vibration
+00196358|1|Default
+00196358|1|Strong
+00192E8E|1|Auto detect
+00196358|1|Off
+00196358|1|On
+00192E8E|1|DND
+00196358|1|Off
+00196358|1|Smart
+00196358|1|All day
+00192E8E|1|APP layout
+00196358|1|Icon mode
+00196358|1|List mode
+00192E8E|1|PIN
+00192E8E|1|System
+00192E8E|1|About band
+00192E8E|1|Brightness
+00192E8E|1|Always-on
+00192E8E|1|Auto lock
+00192E8E|1|Cover to sleep
+00192E8E|1|Raise to wake
+00196358|1|Auto
+00198458|1|Auto
+00192E8E|1|Close
+00192E8E|1|Smart
+00192E8E|1|Scheduled
+00192E8E|1|All day
+00192E8E|1|Learn more
+0019BD06|1|Always-on
+0019BD06|1|Smart
+0019E5FC|1|The time will be displayed even when the screen is locked.
+0019E5FC|1|Always-on will turn off when you go to sleep or take off your band.
+00192E8E|1|This will affect battery life, continue?
+00192E8E|1|Start
+00192E8E|1|End
+00192E8E|1|Status
+001A0E66|1|-%d
+001A3D1C|1|%d
+00192E8E|1|Sensitivity
+00196358|1|Smart
+00198458|1|High
+00198458|1|Default
+00192E8E|1|This will affect battery life, continue?
+001A4A3C|1|s
+001A4A3C|1|m
+00192E8E|1|Auto detect
+00192E8E|1|Workout detection
+0019E5FC|1|Got it
+0019E5FC|1|Got it
+00196358|1|To set a monitoring frequency, turn off Irregular BPM.
+001A3D1C|1|%d:%02d
+001A6611|1|This will affect battery life, continue?
+00192E8E|1|Off
+00192E8E|1|Smart
+0019E5FC|1|Always-on will turn off when you go to sleep or take off your band.
+00192E8E|1|Icon mode
+00192E8E|1|List mode
+00192E8E|1|System
+00192E8E|1|Reboot
+00192E8E|1|Turn off
+00192E8E|1|Reset
+00192E8E|1|Reboot now?
+00192E8E|1|Turn off now?
+001A6611|1|Erase all data?
+0019BD06|1|Name
+0019BD06|1|Model
+0019BD06|1|MAC address
+0019BD06|1|Version No.
+0019BD06|1|Serial No.
+0019BD06|1|Regulatory
+00192E8E|1|Vibration
+001AAE4A|1|Strong
+00198458|1|Default
+00198458|1|Strong
+001AD146|1|%d
+00196358|1|%d/%d
+00192E8E|1|Warm-up
+0019E5FC|1|Done
+001A0E66|1|%2d:%2d:%2d
+00192E8E|1|Training
+001A0E66|1|%d
+001AF5E7|1|Target strokes
+001AF5E7|1|Remaining
+0019E5FC|1|Skip
+00192E8E|1|Rest
+001AF5E7|1|Rest
+001AF5E7|1|Remaining
+00192E8E|1|Cool-down
+0019E5FC|1|End
+00192E8E|1|Running
+00192E8E|1|Fat burn
+00192E8E|1|Advanced
+001AF5E7|1|Introduction
+001AF5E7|1|Training plan
+001A4A3C|1|Walk
+001A4A3C|1|Basic jog
+0019E5FC|1|Start
+00192E8E|1|Recent
+001AAE4A|1|Walk
+0019BD06|1|Target BPM
+0019E5FC|1|%d~%dbpm
+0019BD06|1|Walk
+001A0E66|1|%d:%02d
+001AF5E7|1|Timer
+001B1B1C|1|BPM
+00192E8E|1|Looks like you're exercising
+0019E5FC|1|Outdoor
+0019E5FC|1|Treadmill
+0019E5FC|1|Dismiss (%ds)
+0019E5FC|1|km
+0019E5FC|1|Pause
+0019E5FC|1|Continue
+001A6611|1|Workout distance too short to record. End?
+001A6611|1|Workout time too short to record. End?
+0019E5FC|1|Continue
+0019E5FC|1|End
+00192E8E|1|Calibration
+001A0E66|1|.
+001B2990|1|km
+001A6611|1|The screen locks when you start
+00192E8E|1|Breathing
+001B36DC|1|Breathing
+00192E8E|1|Time
+001B2990|1|min
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B7682|1|%d
+001B9A80|1|%d
+001B36DC|1|Relax
+0019E5FC|1|Focus on your breathing
+001B36DC|1|Let's go
+0019E5FC|1|Follow the bubble
+001B36DC|1|Inhale
+001B36DC|1|Exhale
+001B36DC|1|Nice job
+0019E5FC|1|Session: %d min
+0019E5FC|1|Session: %d mins
+0019E5FC|1|Session: %d mins
+0019E5FC|1|Session: %d mins
+0019E5FC|1|Session: %d mins
+0019E5FC|1|Session: %d mins
+0019E5FC|1|Session: %d mins
+0019E5FC|1|Session: %d mins
+00192E8E|1|Results
+0019E5FC|1|Current HR
+001B7682|1|89
+001B2990|1|BPM
+0019E5FC|1|Starting HR
+0019E5FC|1|Session
+001B2990|1|min
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+001B2990|1|mins
+00192E8E|1|Settings
+00192E8E|1|Goal
+00192E8E|1|Intervals
+00192E8E|1|Alerts
+00192E8E|1|Pool length
+00192E8E|1|Auto pause
+001AF5E7|1|Open
+001BC22A|1|1.5 km
+00192E8E|1|Open
+00192E8E|1|Distance
+00192E8E|1|Time
+00192E8E|1|Calories
+00192E8E|1|Jumps
+00192E8E|1|Lengths
+001AF5E7|1|5 km
+00192E8E|1|Intervals will turn off. Continue?
+00192E8E|1|Workout goal will be removed. Continue?
+00192E8E|1|Distance
+00192E8E|1|Time
+00192E8E|1|Calories
+00192E8E|1|Jumps
+00192E8E|1|Lengths
+001B2990|1|m
+001B2990|1|kcal
+001B2990|1| 
+001B2990|1| 
+00192E8E|1|Sets
+00192E8E|1|Ruhezeit
+001B2990|1|s
+001B2990|1| 
+00192E8E|1|Distance
+00192E8E|1|Pace
+00192E8E|1|Speed
+00192E8E|1|HR zone
+00192E8E|1|High HR
+0019E5FC|1|Turn off all
+001BC22A|1|Off
+001BC22A|1|Intensive
+00192E8E|1|Virtual pacer
+001A0E66|1|5'00"
+001AD146|1|4'50"
+00192E8E|1|%d km/h
+001B2990|1|km/h
+00192E8E|1|Off
+00192E8E|1|Light
+00192E8E|1|Intensive
+00192E8E|1|Aerobic
+00192E8E|1|Anaerobic
+00192E8E|1|VO₂ max
+001BC22A|1|%u–%u BPM
+00192E8E|1|High HR
+001B2990|1|BPM
+00192E8E|1|25 m
+00192E8E|1|Custom
+00192E8E|1|Custom
+001B2990|1|m
+00192E8E|1|Set PIN
+001BDE6F|1|Enter PIN
+001BDE6F|1|Confirm PIN
+001BDE6F|1|Incorrect
+00192E8E|1|Erase all data?
+00192E8E|1|Turn off PIN
+00192E8E|1|Change PIN
+00192E8E|1|PIN changed
+00192E8E|1|PIN turned off
+00196358|1|Your band will automatically lock when you take it off.
+001BF9F6|1|Speed up
+001BF9F6|1|Keep going
+001BF9F6|1|Slow down
+001C2399|1|%u'%02u''
+001B36DC|1|High HR
+0019E5FC|1|Calories
+001C3C65|1|345
+0019E5FC|1|Steps
+0019E5FC|1|Moving
+001C4C49|1|323
+00192E8E|1|Steps
+001B2990|1| 
+00192E8E|1|Standing
+00192E8E|1|Moving
+00192E8E|1|Reminders
+0019BD06|1|Steps
+0019BD06|1|Calories
+001BDE6F|1|Standing
+001BDE6F|1|Moving
+00192E8E|1|Sleep
+001C5EEC|1|10
+001BF9F6|1|h
+001BF9F6|1|m
+0019E5FC|1|Goal:
+001C87FA|1|24:33
+0019E5FC|1|No data
+0019BD06|1|Sleep
+0019E5FC|1|1. To track REM sleep, turn on Advanced monitoring.\n2. Tighten band strap.\n3. Heart rate and SpO₂ readings depend on motions, sleep quality, and more.
+001B36DC|1|h
+001B36DC|1|m
+0019E5FC|1|No data
+00192E8E|1|Advanced monitoring
+00192E8E|1|Breathing score
+00192E8E|1|Breathing score
+00196358|1|Track REM sleep
+00192E8E|1|Breathing score
+00196358|1|Monitor night-time breathing
+00192E8E|1|Sleep
+001AF5E7|1|Avg BPM
+00192E8E|1| 
+001AF5E7|1|Avg SpO₂
+00192E8E|1|Nap
+00192E8E|1|Heart rate
+001C87FA|1|126
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+00192E8E|1|High HR
+00192E8E|1|Low HR
+00192E8E|1|Irregular BPM
+00192E8E|1|HR zone
+001AF5E7|1|VO₂ max
+001AF5E7|1|VO₂ max
+001AF5E7|1|Anaerobic
+001AF5E7|1|Intensive
+001AF5E7|1|Light
+001AF5E7|1|Relaxed
+001AF5E7|1|Relaxed
+00192E8E|1|%02d:%02d
+0019E5FC|1|Measuring
+001CA0EF|1|144-224
+001C8EA2|1|BPM
+001CA0EF|1|12: 24-12: 25
+0019E5FC|1|Try again
+0019E5FC|1|Measure
+0019BD06|1|Heart rate
+0019E5FC|1|Heart rate is the number of times the heart beats per minute (BPM).\nTypically, a resting heart rate ranges from 40 to 100 BPM. However, it varies with age, gender, and other factors.\nYour band supports a range of 30–220 BPM.
+00192E8E|1|Learn more
+0019E5FC|1|Tighten band strap and try again
+00192E8E|1|Tips
+0019E5FC|1|Wear your band above your wrist bone.
+0019E5FC|1|Keep your band snug and still.
+0019E5FC|1|Measurements depend on low temperature, skin perfusion, and more.
+001A4A3C|1|This feature isn't intended for medical purposes.
+0019E5FC|1|Continuous monitoring is off.
+0019E5FC|1|Turn on
+00192E8E|1|Continuous monitoring
+00192E8E|1|Irregular BPM
+00192E8E|1|On/Off
+00192E8E|1|High HR
+00192E8E|1|Low HR
+00196358|1|To set a monitoring frequency, turn off Irregular BPM.
+00192E8E|1|1 min
+00192E8E|1|10 mins
+00192E8E|1|Auto
+00192E8E|1|Tips
+0019E5FC|1|Measure heart rate every 10 mins
+0019BD06|1|Auto
+0019E5FC|1|Increase monitoring frequency during workouts
+00192E8E|1|Irregular BPM
+00196358|1|Get irregular heartbeat alerts
+00192E8E|1|This will affect battery life, continue?
+00192E8E|1|100 BPM
+001B36DC|1|Low HR
+0019BD06|1|12: 30-12: 40
+0019E5FC|1|Details
+001B36DC|1|Irregular BPM
+001B36DC|1|Measuring
+0019E5FC|1|Be still
+0019E5FC|1|Measured: %02d:%02d
+0019E5FC|1|Try again
+001AF5E7|1|Goal hit
+001AF5E7|1|Goal hit
+001AF5E7|1|Goal hit
+001AF5E7|1|Goal hit
+001B36DC|1|Goals hit
+001AF5E7|1|Bravo!
+001B36DC|1|Get moving!
+001B36DC|1|Stand up
+0019E5FC|1|Get up and walk around
+001A6611|1|Connect your phone to update GPS data.
+001A6611|1|Storage is full. Can't record this workout.
+00192E8E|1|GPS
+001B36DC|1|Outdoor running
+001A6611|1|Locating. Go to an open area and wait to start workout.
+0019E5FC|1|Wait
+0019E5FC|1|Start
+001A6611|1|Exercise in an open area
+0019E5FC|1|Dismiss
+00192E8E|1|Cycles
+001C8EA2|1|%u/%u/%u
+00192E8E|1|Predictions
+001AF5E7|1|Fertile
+00192E8E|1|05.23-06.23
+001CC2AD|1|Ovulation day
+001CD18D|1|Period
+00192E8E|1|Learn more
+0019E5FC|1|Log cycle details in the APP
+0019BD06|1|1. Colors
+0019E5FC|1|Period
+00192E8E|1|Period day %d
+0019E5FC|1|Estimated period
+00192E8E|1|Period day %d
+0019E5FC|1|Fertile
+0019E5FC|1|Fertile period day %d
+0019E5FC|1|Ovulation day
+00192E8E|1|Ovulation day
+0019BD06|1|2. Tip
+0019E5FC|1|The more you log, the more accurate predictions you get.
+001B36DC|1|Pool swimming
+001B36DC|1|Open water
+001B36DC|1|Sailing
+001B36DC|1|Paddleboarding
+001B36DC|1|Water polo
+001B36DC|1|Water sports
+001B36DC|1|Water skiing
+001B36DC|1|Kayaking
+001B36DC|1|Rafting
+001B36DC|1|Rowing
+001B36DC|1|Powerboating
+001B36DC|1|Finswimming
+001B36DC|1|Diving
+001B36DC|1|Artistic swimming
+001B36DC|1|Snorkeling
+001B36DC|1|Kitesurfing
+001B36DC|1|Walking
+001B36DC|1|Hiking
+001B36DC|1|Outdoor cycling
+001B36DC|1|Trekking
+001B36DC|1|Trail run
+001B36DC|1|Rock climbing
+001B36DC|1|Skateboarding
+001B36DC|1|Roller skating
+001B36DC|1|Parkour
+001B36DC|1|ATV
+001B36DC|1|Paragliding
+001B36DC|1|Freestyle
+001B36DC|1|Treadmill
+001B36DC|1|Jump rope
+001B36DC|1|HIIT
+001B36DC|1|Yoga
+001B36DC|1|Indoor cycling
+001B36DC|1|Elliptical
+001B36DC|1|Rower
+001B36DC|1|Stair climber
+001B36DC|1|Stepper
+001B36DC|1|Core training
+001B36DC|1|Flexibility
+001B36DC|1|Pilates
+001B36DC|1|Gymnastics
+001B36DC|1|Stretching
+001B36DC|1|Strength
+001B36DC|1|Cross training
+001B36DC|1|Stair climbing
+001B36DC|1|Aerobics
+001B36DC|1|Physical training
+001B36DC|1|Wall ball
+001B36DC|1|Dumbbell
+001B36DC|1|Barbell
+001B36DC|1|Weightlifting
+001B36DC|1|Deadlift
+001B36DC|1|Burpee
+001B36DC|1|Sit-ups
+001B36DC|1|Functional training
+001B36DC|1|Upper body
+001B36DC|1|Lower body
+001B36DC|1|Abs
+001B36DC|1|Back
+001B36DC|1|Square dancing
+001B36DC|1|Belly dance
+001B36DC|1|Ballet
+001B36DC|1|Street dance
+001B36DC|1|Zumba
+001B36DC|1|Folk dance
+001B36DC|1|Jazz dance
+001B36DC|1|Latin dance
+001B36DC|1|Boxing
+001B36DC|1|Wrestling
+001B36DC|1|Martial arts
+001B36DC|1|Tai chi
+001B36DC|1|Muay Thai
+001B36DC|1|Judo
+001B36DC|1|Taekwondo
+001B36DC|1|Karate
+001B36DC|1|Kickboxing
+001B36DC|1|Kendo
+001B36DC|1|Fencing
+001B36DC|1|Tennis
+001B36DC|1|Basketball
+001B36DC|1|Soccer
+001B36DC|1|Volleyball
+001B36DC|1|Baseball
+001B36DC|1|Softball
+001B36DC|1|American football
+001B36DC|1|Hockey
+001B36DC|1|Table tennis
+001B36DC|1|Badminton
+001B36DC|1|Cricket
+001B36DC|1|Handball
+001B36DC|1|Bowling
+001B36DC|1|Squash
+001B36DC|1|Billiards
+001B36DC|1|Shuttlecock
+001B36DC|1|Beach soccer
+001B36DC|1|Beach volleyball
+001B36DC|1|Sepak takraw
+001B36DC|1|Ice skating
+001B36DC|1|Curling
+001B36DC|1|Other winter sports
+001B36DC|1|Snowmobile
+001B36DC|1|Ice hockey
+001B36DC|1|Bobsleigh
+001B36DC|1|Sledding
+001B36DC|1|Archery
+001B36DC|1|Darts
+001B36DC|1|Horse riding
+001B36DC|1|Tug of war
+001B36DC|1|Hula hoop
+001B36DC|1|Kite flying
+001B36DC|1|Fishing
+001B36DC|1|Frisbee
+001B36DC|1|Equestrian
+001B36DC|1|Athletics
+001B36DC|1|Auto racing
+00196358|1|Get reminders to start and end runs, walks, as well as treadmill, rower, and jumping workouts.
+0019E5FC|1|Snooze
+00192E8E|1|Syncing
+00192E8E|1|Notifications
+0019E5FC|1|No notifications
+0019E5FC|1|Reply
+0019E5FC|1|Send
+00192E8E|1|Sent
+00192E8E|1|Couldn't send
+001A6611|1|Allow this APP to send SMS messages
+001A6611|1|Allow this APP to read your contacts
+00192E8E|1|Sending
+001CDA70|1|Alarm
+001AF5E7|1|No alarms
+001AF5E7|1|Time
+001AF5E7|1|Repeat
+00192E8E|1|Edit
+00192E8E|1|Time
+00192E8E|1|Repeat
+0019E5FC|1|Delete
+0019E5FC|1|OK
+001AF5E7|1|AM
+001AF5E7|1|PM
+0019E5FC|1|Snooze
+0019E5FC|1|Stop
+0019E5FC|1|Can't add alarm
+001AF5E7|1|Add a max of 10 alarms
+00192E8E|1|Find phone
+00192E8E|1|Your phone will ring
+00192E8E|1|Disconnected
+00192E8E|1|Can't find
+0019E5FC|1|Search
+0019E5FC|1|Stop
+0019E5FC|1|Back
+00192E8E|1|Music
+00192E8E|1|Permissions
+00192E8E|1|Just a sec
+00196358|1|Pair your band with the APP
+00196358|1|Turn on Notification access for the APP
+001A6611|1|Turn on Notification access for the APP
+0019E5FC|1|Not paired
+00192E8E|1|Not playing
+00192E8E|1|Disconnected
+00192E8E|1|Permissions
+00192E8E|1|Camera
+001AF5E7|1|Open Camera on your phone
+00192E8E|1|Not paired
+001A6611|1|Disconnected
+00196358|1|Go to Device > Camera in the APP
+00196358|1|Pair your band with the APP
+001AF5E7|1|Turn on
+0019E5FC|1|No events today
+00192E8E|1|Details
+00192E8E|1|Details
+001A6611|1|Turn on Events in the APP
+001A6611|1|Snooze for 10 mins
+001A6611|1|Snooze for 10 mins
+001A6611|1|Snooze for 10 mins
+001A6611|1|Snooze for 10 mins
+001A6611|1|Snooze for 10 mins
+001A6611|1|Snooze for 10 mins
+001A6611|1|Snooze for 10 mins
+00192E8E|1|Stopwatch
+001CEA78|1|%02d
+001A6611|1|Stopwatch can't run in background, exit?
+00192E8E|1|Timer
+001C2399|1|%d
+001C8EA2|1|min
+001C8EA2|1|mins
+001C8EA2|1|mins
+001C8EA2|1|mins
+001C8EA2|1|mins
+001C8EA2|1|mins
+001C8EA2|1|mins
+001C8EA2|1|mins
+001C8EA2|1|hr
+001C8EA2|1|hrs
+001C8EA2|1|hrs
+001C8EA2|1|hrs
+001C8EA2|1|hrs
+001C8EA2|1|hrs
+001C8EA2|1|hrs
+001C8EA2|1|hrs
+0019E5FC|1|Custom
+00192E8E|1|Recent
+001AD146|1|%02d:%02d:%02d
+00196358|1|Custom
+00192E8E|1|Weather
+00192E8E|1|Forecast
+001CF53E|1|25°
+00192E8E|1|Air quality
+00196358|1|AQI
+001B1B1C|1|Get moving
+00192E8E|1|Indices
+001C8EA2|1| 
+001BC22A|1|UVI
+001BC22A|1|Humidity
+00192E8E|1|Sunrise & sunset
+00192E8E|1|Locations
+001CFD89|1|Sleep well
+001A6611|1|DND is on. Raise to wake is off.
+0019E5FC|1|Dismiss
+0019E5FC|1|Time
+001AD146|1|%02d:%02d
+0019E5FC|1|Sleep
+001BF9F6|1|%dh %dm
+001CA0EF|1|%d℃/%d℃
+00192E8E|1|SpO₂
+001D1F35|1|98
+0019E5FC|1|Measure
+0019E5FC|1|No data
+001D58FB|1|98%
+001AF5E7|1|Wear your band above your wrist bone.
+001AF5E7|1|Tighten band strap and try again
+001AF5E7|1|Keep still
+001B7682|1|98%
+001B36DC|1|SpO₂
+0019BD06|1|85%
+0019E5FC|1|Details
+0019E5FC|1|Dismiss
+00192E8E|1|All-day tracking
+00192E8E|1|Alert
+00192E8E|1|Learn more
+00192E8E|1|All-day tracking
+001AF5E7|1|Off
+001AF5E7|1|80%
+00196358|1|Measure SpO₂ when you're not moving
+0019E5FC|1|Wear your band above your wrist bone.
+0019E5FC|1|Keep your band snug and still.
+001A4A3C|1|This feature isn't intended for medical purposes.
+001AF5E7|1|SpO₂ represents the percentage of oxygen in your blood.
+001AF5E7|1|Readings normally don't go below 95% while you're active or 90% during sleep. Take necessary measures if your blood oxygen goes below 90%.
+001AF5E7|1|Your band supports a range of 75–100%.
+001AF5E7|1|There are multiple factors that might make measurements inconsistent or unreliable. They might include skin perfusion, permanent or temporary changes to your skin, motion, or pose during sleep. All of the above might result in a falsely low blood oxygen alert. Remember that this is not a medical device, and the data it generates can't be used for diagnosis and treatment.
+00192E8E|1|Alerts
+00192E8E|1|Workout
+00192E8E|1|Categories
+00192E8E|1|More
+00192E8E|1|Water sports
+00192E8E|1|Pool swimming
+00192E8E|1|Open water
+00192E8E|1|Sailing
+00192E8E|1|Paddleboarding
+00192E8E|1|Water polo
+00192E8E|1|Water skiing
+00192E8E|1|Kayaking
+00192E8E|1|Rafting
+00192E8E|1|Rowing
+00192E8E|1|Powerboating
+00192E8E|1|Finswimming
+00192E8E|1|Diving
+00192E8E|1|Artistic swimming
+00192E8E|1|Snorkeling
+00192E8E|1|Kitesurfing
+00192E8E|1|Outdoor activities
+00192E8E|1|Outdoor running
+00192E8E|1|Walking
+00192E8E|1|Hiking
+00192E8E|1|Outdoor cycling
+00192E8E|1|Trekking
+00192E8E|1|Trail run
+00192E8E|1|Rock climbing
+00192E8E|1|Skateboarding
+00192E8E|1|Roller skating
+00192E8E|1|Parkour
+00192E8E|1|ATV
+00192E8E|1|Paragliding
+00192E8E|1|Freestyle
+00192E8E|1|Treadmill
+00192E8E|1|Jump rope
+00192E8E|1|HIIT
+00192E8E|1|Yoga
+00192E8E|1|Indoor cycling
+00192E8E|1|Elliptical
+00192E8E|1|Rower
+00192E8E|1|Stair climber
+00192E8E|1|Stepper
+00192E8E|1|Core training
+00192E8E|1|Flexibility
+00192E8E|1|Pilates
+00192E8E|1|Gymnastics
+00192E8E|1|Stretching
+00192E8E|1|Strength
+00192E8E|1|Cross training
+00192E8E|1|Stair climbing
+00192E8E|1|Aerobics
+00192E8E|1|Physical training
+00192E8E|1|Wall ball
+00192E8E|1|Dumbbell
+00192E8E|1|Barbell
+00192E8E|1|Weightlifting
+00192E8E|1|Deadlift
+00192E8E|1|Burpee
+00192E8E|1|Sit-ups
+00192E8E|1|Functional training
+00192E8E|1|Upper body
+00192E8E|1|Lower body
+00192E8E|1|Abs
+00192E8E|1|Back
+00192E8E|1|Dance
+00192E8E|1|Square dancing
+00192E8E|1|Belly dance
+00192E8E|1|Ballet
+00192E8E|1|Street dance
+00192E8E|1|Zumba
+00192E8E|1|Folk dance
+00192E8E|1|Jazz dance
+00192E8E|1|Latin dance
+00192E8E|1|Combat sports
+00192E8E|1|Boxing
+00192E8E|1|Wrestling
+00192E8E|1|Martial arts
+00192E8E|1|Tai chi
+00192E8E|1|Muay Thai
+00192E8E|1|Judo
+00192E8E|1|Taekwondo
+00192E8E|1|Karate
+00192E8E|1|Kickboxing
+00192E8E|1|Kendo
+00192E8E|1|Fencing
+00192E8E|1|Ball sports
+00192E8E|1|Tennis
+00192E8E|1|Basketball
+00192E8E|1|Soccer
+00192E8E|1|Volleyball
+00192E8E|1|Baseball
+00192E8E|1|Softball
+00192E8E|1|American football
+00192E8E|1|Hockey
+00192E8E|1|Table tennis
+00192E8E|1|Badminton
+00192E8E|1|Cricket
+00192E8E|1|Handball
+00192E8E|1|Bowling
+00192E8E|1|Squash
+00192E8E|1|Billiards
+00192E8E|1|Shuttlecock
+00192E8E|1|Beach soccer
+00192E8E|1|Beach volleyball
+00192E8E|1|Sepak takraw
+00192E8E|1|Winter sports
+00192E8E|1|Ice skating
+00192E8E|1|Curling
+00192E8E|1|Other winter sports
+00192E8E|1|Snowmobile
+00192E8E|1|Ice hockey
+00192E8E|1|Bobsleigh
+00192E8E|1|Sledding
+00192E8E|1|Recreational sports
+00192E8E|1|Archery
+00192E8E|1|Darts
+00192E8E|1|Horse riding
+00192E8E|1|Tug of war
+00192E8E|1|Hula hoop
+00192E8E|1|Kite flying
+00192E8E|1|Fishing
+00192E8E|1|Frisbee
+00192E8E|1|Other
+00192E8E|1|Equestrian
+00192E8E|1|Athletics
+00192E8E|1|Auto racing
+001AF5E7|1|Open
+001A0E66|1|%02d:%02d:%02d
+001A0E66|1|%d.%d
+001D757B|1|km
+001A0E66|1|%d'%d"
+001A4A3C|1|Light
+001A4A3C|1|Intensive
+001A4A3C|1|Aerobic
+001A4A3C|1|Anaerobic
+001A4A3C|1|VO₂ max
+001AD146|1|%d
+001D757B|1|kcal
+001D757B|1|SPM
+001D757B|1|step
+001D757B|1|step
+001D757B|1|steps
+001D757B|1|steps
+001D757B|1|step
+001D757B|1|step
+001D757B|1|steps
+001D757B|1|steps
+001D757B|1|steps
+001D757B|1|steps
+001D757B|1|step
+001D757B|1|step
+001D757B|1|steps
+001D757B|1|steps
+001D757B|1|steps
+001D757B|1|steps
+001AD146|1|0
+001A4A3C|1|/km
+001D757B|1|km/h
+001D757B|1|length
+001D757B|1|length
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|lengths
+001D757B|1|stroke
+001D757B|1|strokes
+001D757B|1|jump
+001D757B|1|jumps
+001D757B|1|jumps
+001D757B|1|jumps
+001D757B|1|jumps
+001D757B|1|jumps
+001D757B|1|jumps
+001D757B|1|jumps
+001D757B|1|strokes
+001D757B|1|strokes
+001D757B|1|strokes
+001D757B|1|strokes
+001D757B|1|strokes
+001D757B|1|strokes
+001D757B|1|SPM
+001B1B1C|1|/km
+001B1B1C|1|km behind
+001D8554|1|%u'%02u''
+00192E8E|1|Stress
+001B2990|1|Moderate
+00192E8E|1|Details
+001AF5E7|1|Relaxed
+001AF5E7|1|Mild
+001AF5E7|1|Moderate
+001AF5E7|1|Severe
+00192E8E|1|Last 7 days
+001C87FA|1|05.12
+0019E5FC|1|No data
+001A4A3C|1|Moderate
+00192E8E|1|All-day monitoring
+00192E8E|1|Relax reminder
+0019E5FC|1|On
+00192E8E|1|All-day monitoring
+00192E8E|1|On/Off
+001A4A3C|1|Keep track when you're sedentary
+001A4A3C|1|Prompt breathing exercise when stress level remains above 80 for 10 mins
+00192E8E|1|Learn more
+0019E5FC|1|Stress is your body's reaction to challenges and demands.
+0019E5FC|1|Your band measures your stress level when you're inactive.\nLevels:\nRelaxed: 1–25\nMild: 25–50\nModerate: 51–80\nSevere: 81–100.\nThis feature isn't intended for medical purposes.
+0019E5FC|1|Measurements depend on low temperature, skin perfusion, and more.
+0019BD06|1|99.0
+0019E5FC|1|Breathing
+001A6611|1|Heart rate
+001A6611|1|Alarm
+001A6611|1|SpO₂
+001A6611|1|Settings
+001A6611|1|Weather
+001A6611|1|Add device
+001A6611|1|Stats
+00192E8E|1|Delete band display?
+00192E8E|1|To save changes, swipe right on the band display.
+00192E8E|1|Summary
+00192E8E|1|Heart rate
+00192E8E|1|Pace
+00192E8E|1|Cadence
+0019E5FC|1|View details in the APP
+00192E8E|1|Speed
+00192E8E|1|Stroke rate
+00192E8E|1|Jump rope
+00192E8E|1|Frequency
+00192E8E|1|SWOLF
+00192E8E|1|Hiking
+001A0E66|1|2:23.1
+00192E8E|1|Strokes
+00192E8E|1|Stats
+00192E8E|1|Standing
+00192E8E|1|Moving
+00192E8E|1|Battery
+00192E8E|1|Date
+00192E8E|1|UV
+0019E5FC|1|Syncing
+00192E8E|1|Couldn't sync
+00192E8E|1|Error
+00196358|1|Remove band displays and try again
+00192E8E|1|Save changes?
+00192E8E|1|Once
+001AF5E7|1|Once
+00192E8E|1|Mon
+00192E8E|1|Tue
+00192E8E|1|Wed
+00192E8E|1|Thu
+00192E8E|1|Fri
+00192E8E|1|Sat
+00192E8E|1|Sun
+001AF5E7|1| 
+001AF5E7|1|M
+001AF5E7|1|T
+001AF5E7|1|W
+001AF5E7|1|T
+001AF5E7|1|F
+001AF5E7|1|S
+001AF5E7|1|S
+001AF5E7|1|Daily
+001A6611|1|Sleep
+001A6611|1|Stopwatch
+001A6611|1|Breathing
+001A6611|1|Cycles
+001A6611|1|Stress
+001A6611|1|Workout
+00196358|1|Scan to download
+001A6611|1|Pair with phone?
+00192E8E|1|Regulatory
+0019E5FC|1|Standing
+00192E8E|1|Snoozing
+00192E8E|1|Alarm is off
+00192E8E|1|Missed
+001AD146|1|%02lu:%02lu
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+0019E5FC|1| 
+001C4C49|1|8000
+001B36DC|1|step
+001B36DC|1|step
+001B36DC|1|step
+001B36DC|1|step
+001B36DC|1|steps
+001B36DC|1|steps
+001B36DC|1|steps
+001B36DC|1|steps
+001C4C49|1|500
+001B36DC|1|kcal
+001B36DC|1|kcal
+001B36DC|1|kcal
+001B36DC|1|kcal
+001B36DC|1|kcal
+001B36DC|1|kcal
+001B36DC|1|kcal
+001C4C49|1|30
+001B36DC|1|min
+001B36DC|1|min
+001B36DC|1|min
+001B36DC|1|min
+001B36DC|1|mins
+001B36DC|1|mins
+001B36DC|1|mins
+001B36DC|1|mins
+001C4C49|1|12
+001B36DC|1|stroke
+001B36DC|1|stroke
+001B36DC|1|stroke
+001B36DC|1|stroke
+001B36DC|1|strokes
+001B36DC|1|strokes
+001B36DC|1|strokes
+001B36DC|1|strokes
+001AF5E7|1|"Steps" shows a daily step count.
+001AF5E7|1|"Calories" shows the number of active calories burned through moving around and exercising.
+001AF5E7|1|"Moving" shows your time doing moderate and vigorous activity.
+001AF5E7|1|"Standing" shows hours in which you stand up and move around.
+001A4A3C|1|km/h
+00192E8E|1|80%
+00192E8E|1|85%
+00192E8E|1|90%
+00192E8E|1|Workout
+00192E8E|1|Calories
+00192E8E|1|Steps
+00192E8E|1|Heart rate
+00192E8E|1|Stress
+00192E8E|1|Alarm
+00192E8E|1|Weather
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001AF5E7|1|%u km
+001BC22A|1|%u km
+001BC22A|1|%u m
+001BC22A|1|%u m
+001BC22A|1|%u m
+001BC22A|1|%u m
+001BC22A|1|%u m
+001BC22A|1|%u m
+001BC22A|1|%u m
+001AF5E7|1|%u min
+001AF5E7|1|%u mins
+001AF5E7|1|%u kcal
+001BC22A|1|%u kcal
+001BC22A|1|%u min
+001AF5E7|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001AF5E7|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001BC22A|1|%u
+001B2990|1| 
+00192E8E|1|Strokes
+00192E8E|1|50 m
+001BC22A|1|Light
+001BC22A|1|VO₂ max
+001BC22A|1|Aerobic
+001BC22A|1|Anaerobic
+00192E8E|1|%u km
+00192E8E|1|%u km/h
+00192E8E|1|%u BPM
+001AF5E7|1|Done
+00198458|1|km
+00192E8E|1|%
+001AF5E7|1|%d.%d km
+001BC22A|1|%d'%02d"
+00192E8E|1|Focus
+00192E8E|1|Rest
+001AF5E7|1|%d min
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001A0E66|1|%02d:%02d
+001A3D1C|1|%02d:%02d
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|%dm ago
+001C8EA2|1|Just now
+001C8EA2|1|Just now
+001C8EA2|1|%02dm ago
+001C8EA2|1|%02dm ago
+001C8EA2|1|%02dm ago
+001C8EA2|1|%02dm ago
+001C8EA2|1|Measured: %02d:%02d
+0019E5FC|1|Rest: %02d
+0019E5FC|1|Rest: --
+00192E8E|1|30 mins
+0019E5FC|1|Measure heart rate every 1 min
+0019BD06|1|10 mins
+0019BD06|1|30 mins
+0019E5FC|1|Measure heart rate every 30 mins
+00192E8E|1|40 BPM
+00192E8E|1|45 BPM
+00192E8E|1|50 BPM
+00192E8E|1|110 BPM
+00192E8E|1|120 BPM
+00192E8E|1|130 BPM
+00192E8E|1|140 BPM
+00192E8E|1|150 BPM
+001CFD89|1|Time's up
+00196358|1|%d hr
+00196358|1|%d hrs
+00196358|1|%d hrs
+00196358|1|%d hrs
+00196358|1|%d hrs
+00196358|1|%d hrs
+00196358|1|%d hrs
+00196358|1|%d hrs
+00196358|1|%d min
+00196358|1|%d mins
+00196358|1|%d mins
+00196358|1|%d mins
+00196358|1|%d mins
+00196358|1|%d mins
+00196358|1|%d mins
+00196358|1|%d mins
+001B36DC|1|Get moving
+0019E5FC|1|Shake it out!
+00192E8E|1|Turn off today's stand-up reminders?
+001AF5E7|1|Off
+001AF5E7|1|100 BPM
+001AF5E7|1|110 BPM
+001AF5E7|1|120 BPM
+001AF5E7|1|130 BPM
+001AF5E7|1|140 BPM
+001AF5E7|1|150 BPM
+001AF5E7|1|40 BPM
+001AF5E7|1|45 BPM
+001AF5E7|1|50 BPM
+001AF5E7|1|On
+001AF5E7|1|Off
+001AF5E7|1|1 min
+001AF5E7|1|10 mins
+001AF5E7|1|30 mins
+001AF5E7|1|Auto
+001D8554|1|%d%%
+001A6611|1|Activity
+001A6611|1|Mi AI
+001A6611|1|Cards
+001A6611|1|Notifications
+001A6611|1|Events
+001A6611|1|Music
+001A6611|1|Camera
+001A6611|1|Timer
+001A6611|1|Flashlight
+001A6611|1|Find phone
+001A6611|1|Help
+001D757B|1|"Raise to wake" is on
+001D757B|1|"Raise to wake" is off
+001D757B|1|DND is on
+001D757B|1|DND is off
+00192E8E|1|Summary
+001AF5E7|1|No data
+0019E5FC|1|View details in the APP
+001B7682|1|--
+001AF5E7|1|%d
+001AF5E7|1|%d
+001AF5E7|1|%d
+001AF5E7|1|%d
+001AF5E7|1|%d
+001AF5E7|1|%d
+001AF5E7|1|%d
+001AF5E7|1|%d–%d BPM
+0019BD06|1|%d-%d
+0019BD06|1|%02d:%02d-%02d:%02d
+001D9B3B|1|%d
+001A0E66|1|%02d:%02d:%02d
+001A0E66|1|:
+001A0E66|1|%02d:%02d.%02d
+001CA0EF|1|%02d:%02d:%02d.%02d
+001DA33D|1|%02d:%02d:%02d.%02d
+001DA33D|1|%02d:%02d.%02d
+00196358|1|%02u-%02u %02u:%02u
+001A0E66|1|%02u:%02u:%02u
+001CA0EF|1|%lu.%02lu
+00196358|1|km
+00192E8E|1|Goal
+001BC22A|1|%u%%
+001BC22A|1|Completed
+001CA0EF|1|%lu
+001BC22A|1|Goal
+001BC22A|1|Active kcal
+001CA0EF|1|%lu'%02lu''
+001BC22A|1|Avg pace
+001BC22A|1|Steps
+001BC22A|1|Avg BPM
+001BC22A|1|Avg SPM
+001B7682|1|%u'%02u''
+001C87FA|1|%02u:%02u
+001B7682|1|%u
+0019E5FC|1|View details in the APP
+0019E5FC|1|Back
+001BC22A|1|Goal
+001BC22A|1|Completed
+001BC22A|1|Goal
+001BC22A|1|Completed
+001BC22A|1|Goal
+001BC22A|1|Completed
+001BC22A|1|Goal
+001BC22A|1|Completed
+001BC22A|1|Goal
+001BC22A|1|Completed
+001BC22A|1|m
+001BC22A|1|m
+001BC22A|1|m
+001BC22A|1|m
+001BC22A|1|m
+001BC22A|1|m
+001BC22A|1|m
+001BC22A|1|kcal
+001BC22A|1|kcal
+001BC22A|1|kcal
+001BC22A|1|kcal
+001BC22A|1|kcal
+001BC22A|1|kcal
+001BC22A|1|kcal
+001BC22A|1|length
+001BC22A|1|jump
+001BC22A|1|stroke
+001BC22A|1|lengths
+001BC22A|1|lengths
+001BC22A|1|lengths
+001BC22A|1|lengths
+001BC22A|1|lengths
+001BC22A|1|lengths
+001BC22A|1|lengths
+001BC22A|1|jumps
+001BC22A|1|jumps
+001BC22A|1|jumps
+001BC22A|1|jumps
+001BC22A|1|jumps
+001BC22A|1|jumps
+001BC22A|1|jumps
+001BC22A|1|strokes
+001BC22A|1|strokes
+001BC22A|1|strokes
+001BC22A|1|strokes
+001BC22A|1|strokes
+001BC22A|1|strokes
+001BC22A|1|strokes
+0019BD06|1|1 min
+001C87FA|1|%u
+00192E8E|1|No data today
+001AF5E7|1|Today
+001AF5E7|1|Tomorrow
+001AF5E7|1|Off
+0019E5FC|1|Next
+0019E5FC|1|Turn on Period prediction in the APP
+001BC22A|1|Just now
+001BC22A|1|%dm ago
+001BC22A|1|%dm ago
+001BC22A|1|%dm ago
+001BC22A|1|%dm ago
+001BC22A|1|%dm ago
+001BC22A|1|%dm ago
+001BC22A|1|%dm ago
+001BC22A|1|%d:%02d
+001BC22A|1|Yesterday, %d:%02d
+001BC22A|1|%02d/%02d %d:%02d
+0019BD06|1|%d notification
+0019BD06|1|%d notification
+0019BD06|1|%d notification
+0019BD06|1|%d notifications
+0019BD06|1|%d notifications
+0019BD06|1|%d notifications
+0019BD06|1|%d notifications
+0019E5FC|1|Clear
+001C87FA|1|00:00
+001C87FA|1|12:00
+001C87FA|1|24:00
+001AF5E7|1|All day
+0019E5FC|1|All-day tracking is off.
+0019E5FC|1|Tighten band strap and try again
+001C87FA|1|%02u:%02u
+001CA0EF|1|%02u:%02u-%02u:%02u
+00192E8E|1|Alerts
+001AF5E7|1|Your band notifies you when it detects readings below the set level. You can view more data in the APP. If you feel unwell, seek medical advice.
+0019E5FC|1|Keep still
+0019E5FC|1|50% done
+0019E5FC|1|Calibrating
+0019E5FC|1|Keep still during measuring
+0019E5FC|1|Tighten band strap and try again
+0019E5FC|1|Tighten band strap and try again
+001D757B|1|m
+0019E5FC|1|Connect to the APP to update weather
+001A4A3C|1|Set locations in the APP
+001C3C65|1|%d
+00192E8E|1|Just a sec
+001AF5E7|1|Good
+001AF5E7|1|Moderate
+001AF5E7|1|Light pollution
+001AF5E7|1|Unhealthy
+001AF5E7|1|Dangerous
+001AF5E7|1|Hazardous
+0019BD06|1|Good
+0019BD06|1|Moderate
+0019BD06|1|Light pollution
+0019BD06|1|Unhealthy
+0019BD06|1|Dangerous
+0019BD06|1|Hazardous
+00196358|1|Variable wind
+00196358|1|Whirlwind
+00196358|1|N wind
+00196358|1|NE wind
+00196358|1|E wind
+00196358|1|SE wind
+00196358|1|S wind
+00196358|1|SW wind
+00196358|1|W wind
+00196358|1|NW wind
+00192E8E|1|Clear
+00192E8E|1|Cloudy
+00192E8E|1|Overcast
+00192E8E|1|Showers
+00192E8E|1|Thunderstorm
+00192E8E|1|Hail
+00192E8E|1|Sleet
+00192E8E|1|Light rain
+00192E8E|1|Moderate rain
+00192E8E|1|Heavy rain
+00192E8E|1|Rainstorm
+00192E8E|1|Downpour
+00192E8E|1|Heavy rainstorm
+00192E8E|1|Snow showers
+00192E8E|1|Light snow
+00192E8E|1|Moderate snow
+00192E8E|1|Heavy snow
+00192E8E|1|Blizzard
+00192E8E|1|Mist
+00192E8E|1|Freezing rain
+00192E8E|1|Sandstorm
+00192E8E|1|Light to moderate rain
+00192E8E|1|Moderate to heavy rain
+00192E8E|1|Heavy rain to rainstorm
+00192E8E|1|Rainstorm to downpour
+00192E8E|1|Downpour to heavy rainstorm
+00192E8E|1|Light to moderate snow
+00192E8E|1|Moderate to heavy snow
+00192E8E|1|Heavy snow to blizzard
+00192E8E|1|Dust
+00192E8E|1|Windy
+00192E8E|1|Strong sandstorm
+00192E8E|1|Fog
+00192E8E|1|Thick fog
+00192E8E|1|Slight haze
+00192E8E|1|Moderate haze
+00192E8E|1|Strong haze
+00192E8E|1|Severe haze
+00192E8E|1|Fog
+00192E8E|1|Severe fog
+00192E8E|1|No report
+00192E8E|1|Rain
+00192E8E|1|Snow
+00196358|1|Today
+00196358|1|Mon
+00196358|1|Tue
+00196358|1|Wed
+00196358|1|Thu
+00196358|1|Fri
+00196358|1|Sat
+00196358|1|Sun
+001C4C49|1|%d%%
+001C4C49|1|%d
+00196358|1|UVI
+00196358|1|Humidity
+001D1F35|1|%02d:%02d
+001DB176|1|%02d:%02d
+00196358|1|Sleep mode off at %02d:%02d
+00192E8E|1|Irregular BPM requires a 1-min frequency. Continue?
+001BC22A|1|Max BPM
+001BC22A|1|Workout
+001BC22A|1|Ruhezeit
+001BC22A|1|Sets
+001BC22A|1|Strokes
+001BC22A|1|Jumps
+001BC22A|1|Speed
+001BC22A|1|Stroke rate
+001BC22A|1|Lengths
+001BC22A|1|Main style
+001BC22A|1|Avg SWOLF
+001BC22A|1|Avg SPM
+001CA0EF|1|%02lu:%02lu:%02lu
+001BF9F6|1|Breaststroke
+001BF9F6|1|Medley
+001BF9F6|1|Freestyle
+001BF9F6|1|Backstroke
+001BF9F6|1|Butterfly
+001CA0EF|1|%lu.%lu
+001AF5E7|1|Max
+001AF5E7|1|Max
+001CEA78|1|%u
+00192E8E|1|Sets
+00192E8E|1|On
+0019E5FC|1|Raise to wake will turn off when you go to sleep or take off your band.
+001DC170|1|℃
+001DC170|1|℉
+001B2990|1|%d:%02d
+001D1F35|1|%u'%02u''
+001C2399|1|%u'%02u''
+0019E5FC|1|Target: %u'%02u''
+001CFD89|1|%u km/h
+0019E5FC|1|Target: %u km/h
+001C2399|1|%u
+0019E5FC|1|Target BPM: %d–%d
+0019BD06|1|%d
+0019E5FC|1|Threshold: %d BPM
+001C2399|1|--
+001CA0EF|1|%d℉/%d℉
+0019E5FC|1|Got it
+001AD146|1|%u
+001CDA70|1|%%
+001A6611|1|Battery below %u%%. Charge now.
+001AF5E7|1|VO₂ max
+001AF5E7|1|Anaerobic
+001AF5E7|1|Intensive
+001AF5E7|1|Aerobic
+001AF5E7|1|Light
+001C87FA|1|%02lu:%02lu:%02lu
+00192E8E|1|%02lu:%02lu:%02lu
+001B2990|1|BPM
+001DA33D|1|%u
+001BF9F6|1|%d℃/%d℃
+001BF9F6|1|%d℉/%d℉
+0019E5FC|1|%d℃/%d℃
+0019E5FC|1|%d℉/%d℉
+001BF9F6|1|℃
+001BF9F6|1|℉
+001BF9F6|1|-
+0019E5FC|1|-
+0019E5FC|1|Cycle
+0019E5FC|1|Rower
+00192E8E|1|Connect with the APP and try again
+00192E8E|1|Beginner
+00192E8E|1|Endurance
+00192E8E|1|Interval
+00192E8E|1|Basic run/walk
+00192E8E|1|Advanced run/walk
+00192E8E|1|Basic jog
+00192E8E|1|Basic
+00192E8E|1|Advanced
+00192E8E|1|MIIT
+00192E8E|1|Basic
+00192E8E|1|Advanced
+00192E8E|1|Basic
+00192E8E|1|Advanced
+001A4A3C|1|Combines walking and jogging at intervals.
+001A4A3C|1|Combines walking and jogging at intervals.
+001A4A3C|1|Low-medium intensity jog.
+001A4A3C|1|Shorter jog for fat burn and weight loss.
+001A4A3C|1|Low-medium intensity, extended jog for fat burn.
+001A4A3C|1|Medium-high intensity interval training.
+001A4A3C|1|Medium-length jog for endurance.
+001A4A3C|1|Longer jog for endurance.
+001A4A3C|1|Shorter interval training for heart and lung health.
+001A4A3C|1|Longer interval training for heart and lung health.
+00192E8E|1|%02u/%02u
+00192E8E|1|Now
+00192E8E|1|In %u min
+00192E8E|1|In %u mins
+00192E8E|1|In %u mins
+00192E8E|1|In %u mins
+00192E8E|1|In %u mins
+00192E8E|1|In %u mins
+00192E8E|1|In %u mins
+00192E8E|1|In %u mins
+00192E8E|1|Overdue
+0019E5FC|1|Mon 
+0019E5FC|1|Tue 
+0019E5FC|1|Wed 
+0019E5FC|1|Thu 
+0019E5FC|1|Fri 
+0019E5FC|1|Sat 
+0019E5FC|1|Sun 
+0019E5FC|1|%u/%u 
+0019E5FC|1|%02u:%02u 
+0019E5FC|1|Today 
+0019E5FC|1|Tomorrow 
+001D1F35|1|02d%:02d%
+001B1B1C|1|km ahead
+001C2399|1|--'--"
+001A0E66|1|--'--"
+0019E5FC|1|%02u:%02u-
+00192E8E|1|In %u hr
+00192E8E|1|In %u hrs
+00192E8E|1|In %u hrs
+00192E8E|1|In %u hrs
+00192E8E|1|In %u hrs
+00192E8E|1|In %u hrs
+00192E8E|1|In %u hrs
+00192E8E|1|In %u hrs
+00192E8E|1|In %u day
+00192E8E|1|In %u days
+00192E8E|1|In %u days
+00192E8E|1|In %u days
+00192E8E|1|In %u days
+00192E8E|1|In %u days
+00192E8E|1|In %u days
+00192E8E|1|In %u days
+001B36DC|1|Low battery
+001A4A3C|1|Run
+00196358|1|%d min
+00196358|1|%d mins
+001AF5E7|1|%d min
+001AF5E7|1|%d mins
+001A6611|1|Preparing update
+001A6611|1|Couldn't update.\nTry again.
+001DA33D|1|%
+0019E5FC|1|Time
+001A4A3C|1|Relaxed
+001A4A3C|1|Mild
+001A4A3C|1|Severe
+0019E5FC|1|All-day monitoring is off.
+0019E5FC|1|%02u:%02u AM–
+0019E5FC|1|%02u:%02u PM–
+0019E5FC|1|%02u:%02u AM
+0019E5FC|1|%02u:%02u PM
+001A6611|1|I'll call you later.
+001A6611|1|Can't talk now. What's up?
+001A6611|1|Can't talk now. Call me later?
+001DC201|1|--
+001A0E66|1|%u%%
+001AF5E7|1|Goal
+001A0E66|1|%u
+001A6611|1|km
+001A6611|1|kcal
+001A6611|1|length
+001A6611|1|length
+001A6611|1|length
+001A6611|1|lengths
+001A6611|1|lengths
+001A6611|1|lengths
+001A6611|1|lengths
+001A6611|1|stroke
+001A6611|1|stroke
+001A6611|1|stroke
+001A6611|1|strokes
+001A6611|1|strokes
+001A6611|1|strokes
+001A6611|1|strokes
+001A6611|1|jump
+001A6611|1|jump
+001A6611|1|jump
+001A6611|1|jumps
+001A6611|1|jumps
+001A6611|1|jumps
+001A6611|1|jumps
+001CC2AD|1|New record!
+001A0E66|1|%02u:%02u:%02u
+001DA33D|1|%lu.%lu.%lu
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %lu.%lu km
+001AF5E7|1|Goal: %02u:%02u:%02u
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u kcal
+001AF5E7|1|Goal: %u length
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u lengths
+001AF5E7|1|Goal: %u stroke
+001AF5E7|1|Goal: %u stroke
+001AF5E7|1|Goal: %u stroke
+001AF5E7|1|Goal: %u strokes
+001AF5E7|1|Goal: %u strokes
+001AF5E7|1|Goal: %u strokes
+001AF5E7|1|Goal: %u strokes
+001AF5E7|1|Goal: %u jump
+001AF5E7|1|Goal: %u jump
+001AF5E7|1|Goal: %u jump
+001AF5E7|1|Goal: %u jumps
+001AF5E7|1|Goal: %u jumps
+001AF5E7|1|Goal: %u jumps
+001AF5E7|1|Goal: %u jumps
+0019E5FC|1|Your band notifies you when your heart rate goes above a set BPM. Your heart rate rises under stress.
+0019E5FC|1|Your band notifies you when your heart rate goes below a set BPM. Your heart rate slows down during sleep.\nIf you feel unwell, seek medical advice.
+0019BD06|1|High HR
+0019BD06|1|Low HR
+00192E8E|1|Learn more
+0019BD06|1|Jog
+0019BD06|1|Run
+0019BD06|1|Sprint
+001A0E66|1|%d
+001AAE4A|1|Jog
+001AAE4A|1|Run
+001AAE4A|1|Sprint
+001A4A3C|1|Run
+001A4A3C|1|Sprint
+001A0E66|1|%02d
+001C2399|1|%02d
+001C2399|1|:
+0019E5FC|1|View details in the app
+00192E8E|1|You did it!
+0019E5FC|1|Done
+0019E5FC|1|Continue (%lus)
+00192E8E|1|Workout
+001AF5E7|1|Time
+001AF5E7|1|Heart rate
+001D8554|1|%lu.%02lu
+001DC243|1|Auto
+00198458|1|Auto
+00192E8E|1|Set successfully
+0019E5FC|1|Got it
+00192E8E|1|Overheating. Turning off.
+001BC22A|1|avg
+0019BD06|1|Low battery
+0019E5FC|1|AM
+0019E5FC|1|PM
+001CA0EF|1|%lu:%02lu
+001BC22A|1|%u.%02u km
+001BC22A|1|%u.%02u km
+001BC22A|1|%u.%02u km
+0019E5FC|1|DND will turn on when you go to sleep or take off your band.
+00196358|1|Notify when SpO₂ readings are below the set level during awake time
+001C8EA2|1|%d:%02d AM
+001C8EA2|1|%d:%02d PM
+001C8EA2|1|Yesterday, %d:%02d AM
+001C8EA2|1|Yesterday, %d:%02d PM
+001C8EA2|1|%02d/%02d, %d:%02d AM
+001C8EA2|1|%02d/%02d, %d:%02d PM
+001A6611|1|Running
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u kcal
+001A4A3C|1|Goal: %u step
+001A4A3C|1|Goal: %u step
+001A4A3C|1|Goal: %u step
+001A4A3C|1|Goal: %u steps
+001A4A3C|1|Goal: %u steps
+001A4A3C|1|Goal: %u steps
+001A4A3C|1|Goal: %u steps
+001A4A3C|1|Goal: %u stroke
+001A4A3C|1|Goal: %u stroke
+001A4A3C|1|Goal: %u stroke
+001A4A3C|1|Goal: %u strokes
+001A4A3C|1|Goal: %u strokes
+001A4A3C|1|Goal: %u strokes
+001A4A3C|1|Goal: %u strokes
+001A4A3C|1|Goal: %u min
+001A4A3C|1|Goal: %u min
+001A4A3C|1|Goal: %u min
+001A4A3C|1|Goal: %u mins
+001A4A3C|1|Goal: %u mins
+001A4A3C|1|Goal: %u mins
+001A4A3C|1|Goal: %u mins
+001BDE6F|1|0123456789•
+001BC22A|1|Today
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Period in %ud
+00192E8E|1|Fertile period in %ud
+00192E8E|1|Fertile period in %ud
+00192E8E|1|Fertile period in %ud
+00192E8E|1|Fertile period in %ud
+00192E8E|1|Fertile period in %ud
+00192E8E|1|Fertile period in %ud
+00192E8E|1|Fertile period in %ud
+001A4A3C|1|Scan to view help
+001BC22A|1|Yesterday
+001BC22A|1|2d ago
+0019E5FC|1|Tighten band strap
+00192E8E|1|Learn more
+001BF9F6|1|Unknown
+001B36DC|1|Basic run/walk
+001B36DC|1|Advanced run/walk
+001B36DC|1|Basic jog
+001B36DC|1|Basic
+001B36DC|1|Advanced
+001B36DC|1|MIIT
+001B36DC|1|Basic
+001B36DC|1|Advanced
+001B36DC|1|Basic
+001B36DC|1|Advanced
+001B36DC|1|Severe
+0019E5FC|1|Breathing
+0019E5FC|1|Walking
+00192E8E|1|Allow your band to unlock the phone?
+00192E8E|1|Allowed
+00192E8E|1|Couldn't allow
+00192E8E|1|Help
+00192E8E|1|Regulatory
+0019BD06|1|Model
+0019BD06|1|CMIIT ID
+001B1B1C|1|Jan
+001B1B1C|1|Feb
+001B1B1C|1|Mar
+001B1B1C|1|Apr
+001B1B1C|1|May
+001B1B1C|1|Jun
+001B1B1C|1|Jul
+001B1B1C|1|Aug
+001B1B1C|1|Sep
+001B1B1C|1|Oct
+001B1B1C|1|Nov
+001B1B1C|1|Dec
+001AF5E7|1|Period in 1d
+001AF5E7|1|Period in 2d
+001AF5E7|1|Period in %ud
+001AF5E7|1|Period in %ud
+001AF5E7|1|Period in %ud
+001AF5E7|1|Period in %ud
+001AF5E7|1|Period in %ud
+001AF5E7|1|Period in %ud
+001AF5E7|1|Period in %ud
+001AF5E7|1|Ovulation in 1d
+001AF5E7|1|Ovulation in 2d
+001AF5E7|1|Ovulation in %ud
+001AF5E7|1|Ovulation in %ud
+001AF5E7|1|Ovulation in %ud
+001AF5E7|1|Ovulation in %ud
+001AF5E7|1|Ovulation in %ud
+001AF5E7|1|Ovulation in %ud
+001AF5E7|1|Ovulation in %ud
+00192E8E|1|On/Off
+00192E8E|1|On/Off
+001B36DC|1|Missed call
+0019E5FC|1|Got it
+0019E5FC|1|Allow the APP to run in the background
+0019E5FC|1|Set up Amazon Alexa in the APP
+0019E5FC|1|Sign in to your Amazon account in the APP
+0019E5FC|1|Can't play video or audio on your band
+0019E5FC|1|Connecting…
+0019E5FC|1|Listening…
+0019E5FC|1|Thinking…
+0019E5FC|1|Set a timer for 2 minutes
+0019E5FC|1|What's the weather?
+00196358|1|%02d:%02d-%02d:%02d
+00196358|1|%02d:%02d-%02d:%02d
+001B2990|1|Relaxed
+001B2990|1|Mild
+001B2990|1|Severe
+001B36DC|1|Moderate
+00192E8E|1|Daily
+00192E8E|1|Couldn't connect
+00192E8E|1|Network error
+00192E8E|1|Setup required
+00192E8E|1|Sign in
+001C8EA2|1|Strokes
+0019E5FC|1|Avg
+001B2990|1|SPM
+001B2990|1|km/h
+001B2990|1|JPM
+00192E8E|1|Learn more
+0019E5FC|1|Low battery. Flashlight is off.
+0019E5FC|1|Close
+001B7682|1|%.1f
+001CEA78|1|%.1f
+001B7682|1|%u:%02u'%02u"
+001CEA78|1|%u:%02u'%02u"
+001CA0EF|1|%u:%02u'%02u"
+001A4A3C|1|Playing sound
+0019BD06|1|PINs don't match
+0019BD06|1|Enter PIN
+0019BD06|1|New PIN
+0019E5FC|1|Couldn't connect
+0019E5FC|1|Network error
+0019E5FC|1|Setup required
+0019E5FC|1|Sign in
+0019E5FC|1|Not available
+001BDE6F|1|New PIN
+001BDE6F|1|Confirm PIN
+001BDE6F|1|PINs don't match
+001BDE6F|1|Enter PIN
+00198458|1|%d
+001DC243|1|%d
+001AF5E7|1|%dh %dm
+001AF5E7|1|%d hr
+001AF5E7|1|%d hrs
+001AF5E7|1|%d hrs
+001AF5E7|1|%d hrs
+001AF5E7|1|%d hrs
+001AF5E7|1|%d hrs
+001AF5E7|1|%d hrs
+001AF5E7|1|%d hrs
+001AF5E7|1|%d min
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001AF5E7|1|%d mins
+001A6611|1|%d'%02d"
+001BC22A|1|%02u/%02u
+001BC22A|1|%02u:%02u
+001BF9F6|1|--℃/--℃
+001BF9F6|1|--℉/--℉
+0019E5FC|1|--℃/--℃
+0019E5FC|1|--℉/--℉
+001AF5E7|1|Goal hit
+001AF5E7|1|Goal hit
+001AF5E7|1|Moving goal hit
+001AF5E7|1|Standing goal hit
+001AF5E7|1|Step goal hit
+001AF5E7|1|Calorie goal hit
+001AF5E7|1|Goal hit
+001AF5E7|1|Goal hit
+001AF5E7|1|All goals hit
+001AF5E7|1|Way to go
+001AF5E7|1|Goals achieved
+001AF5E7|1|Goals hit
+001B2990|1|km/h
+001B2990|1|/km
+00192E8E|1|AM
+00192E8E|1|PM
+00192E8E|1|Workout distance too short to record.
+0019BD06|1|(No title)
+001AF5E7|1|Forgot PIN?
+001A6611|1|Try again in %d sec
+001A6611|1|Try again in %d sec
+001A6611|1|Try again in %d sec
+001A6611|1|Try again in %d secs
+001A6611|1|Try again in %d secs
+001A6611|1|Try again in %d secs
+001A6611|1|Try again in %d secs
+001A6611|1|Try again in 5 mins
+001A6611|1|Try again in 10 mins
+001A6611|1|Reset PIN in the app
+001AF5E7|1|Got it
+001BDE6F|1|Enter PIN to unlock
+001AF5E7|1|%d notification
+001AF5E7|1|%d notification
+001AF5E7|1|%d notification
+001AF5E7|1|%d notifications
+001AF5E7|1|%d notifications
+001AF5E7|1|%d notifications
+001AF5E7|1|%d notifications
+001DE520|1|--:--
+00192E8E|1|Alexa
+001A6611|1|Not available
+001AF5E7|1|Amazon Alexa isn't available in your account's region
+001AF5E7|1|Check your network connection
+00192E8E|1|You were saying?
+001AF5E7|1|Start by saying
+001A4A3C|1|Mon
+001A4A3C|1|Tue
+001A4A3C|1|Wed
+001A4A3C|1|Thu
+001A4A3C|1|Fri
+001A4A3C|1|Sat
+001A4A3C|1|Sun
+001BC22A|1|%u km/h
+00192E8E|1|Pairing
+001A6611|1|Couldn't pair
+001BDE6F|1|Enter PIN to unlock
+001BDE6F|1|Enter PIN to unlock
+001C8EA2|1|%d℃/%d℃
+001C8EA2|1|%d℉/%d℉
+001AF5E7|1|%d
+001D8554|1|%02d:%02d.%02d
+001A6611|1|m
+001AF5E7|1|Connect your band with the app
+001C8EA2|1|-
+0019E5FC|1|View details in the app
+00192E8E|1|Contact customer support to get your device repaired
+00196358|1|Track your heart rate around the clock
+001A6611|1|PIN set
+00196358|1|Get reminders to start and end a run, walk, or rower workout.
+00192E8E|1|Loading
+001B1B1C|1|.
+001B2990|1|.
+001C87FA|1|.
+001DE520|1|.
+001BC22A|1|.
+001C8EA2|1|.
+001DE59B|1|.
+001DE5BF|1|.
+00196358|1|.
+001A4A3C|1|.
+001DE5EA|1|.
+001D9B3B|1|.
+001AF5E7|1|.
+0019E5FC|1|.
+001CEA78|1|.
+001DC170|1|.
+001DC201|1|.
+001D757B|1|.
+001DE610|1|.
+001CF53E|1|.
+001BDE6F|1|.
+0019BD06|1|.
+001DE63B|1|.
+001DE666|1|.
+001A6611|1|.
+00192E8E|1|.
+001DA33D|1|.
+001CDA70|1|.
+001DE694|1|.
+001DE6BF|1|.
+001A3D1C|1|.
+001DE6E3|1|.
+001CC2AD|1|.
+001BF9F6|1|.
+001DB176|1|.
+001C3C65|1|.
+001DE71B|1|.
+001B36DC|1|.
+001D8554|1|.
+001C4C49|1|.
+001DEFAD|1|.
+001CFD89|1|.
+001DEFE1|1|.
+001C2399|1|.
+001CD18D|1|.
+001DC243|1|.
+001D58FB|1|.
+001CA0EF|1|.
+001E070D|1|.
+00198458|1|.
+001B7682|1|.
+001AD146|1|.
+00192E8E|1|h
+00192E8E|1|m
+0019E5FC|1|Don't show today
+001A6611|1|Not available
+001AF5E7|1|Amazon Alexa isn't available in your account's region
+0019E5FC|1|Rower
+0019E5FC|1|Elliptical
+0019E5FC|1|Jump rope
+00192E8E|1|Well done
+001AF5E7|1| 
+001AF5E7|1| 
+001AF5E7|1|Target
+001AF5E7|1|Remaining
+001AF5E7|1|Target
+001AF5E7|1|Remaining
+001AF5E7|1|Target lengths
+001AF5E7|1|Remaining
+001AF5E7|1|Target jumps
+001AF5E7|1|Remaining
+00192E8E|1|Time
+00192E8E|1|Distance
+00192E8E|1|Lengths
+00192E8E|1|Strokes
+00192E8E|1|Jumps
+001B2990|1| 
+001BC22A|1|%d:%02d
+001BC22A|1|%d m
+001BC22A|1|%dm %02ds
+00192E8E|1|Apps
+0019BD06|1|Fitness
+0019BD06|1|Basic
+0019BD06|1|Weather
+0019BD06|1|Tools
+00192E8E|1|Stopwatch
+00192E8E|1|Timer
+00192E8E|1|Camera
+00192E8E|1|Cards
+001A6611|1|Workout time is too short to record.
+001E0745|1|Stopwatch
+001E0745|1|Timer
+001DC243|1|%d℃
+001DC243|1|%d℉
+001DC243|1|-
+001DC243|1|--℃
+001DC243|1|--℉
+0019E5FC|1|Just a sec
+001BF9F6|1|Breathing
+001DC243|1|--
+00192E8E|1|Auto
+00192E8E|1|Custom
+001DC243|1|%d%%
+0019E5FC|1|Just a sec
+0019E5FC|1|Not playing
+0019E5FC|1|Disconnected
+001B1B1C|1|Swipe up for barcode
+001B1B1C|1|Swipe down for QR code
+001E0745|1|Rower
+001E0745|1|Walking
+001E0745|1|HIIT
+001E0745|1|Outdoor cycling
+001E0745|1|Indoor cycling
+001E0745|1|Jump rope
+001E0745|1|Trekking
+001E0745|1|Hiking
+001E0745|1|Elliptical
+001E0745|1|Outdoor running
+001E0745|1|Pool swimming
+001E0745|1|Treadmill
+001E0745|1|Trail run
+001E0745|1|Freestyle
+001DEFE1|1|%lu
+001D58FB|1|%lu
+0019E5FC|1|No data
+001DC243|1|--
+0019E5FC|1|min
+00192E8E|1|SpO₂
+001AF5E7|1|You hit your target yesterday. Keep it up today!
+001AF5E7|1|You hit 2 out of 3 targets yesterday. You can do it!
+001AF5E7|1|You didn't hit your targets yesterday. Make today count!
+001AF5E7|1|Your targets are within reach - today's a new day!
+001AF5E7|1|You're only 1000 steps away from your target.
+001AF5E7|1|You're only 50 kcal away from your target.
+001AF5E7|1|There's still time to hit today's target, keep going!
+001AF5E7|1|Stand up twice more today to hit your target.
+001AF5E7|1|Stand up once more today to hit your target.
+001AF5E7|1|You hit your target yesterday. Keep it up today!
+001AF5E7|1|You hit 2 out of 3 targets yesterday. You can do it!
+001AF5E7|1|You didn't hit your targets yesterday. Make today count!
+001AF5E7|1|Your targets are within reach - today's a new day!
+001AF5E7|1|You're only 1000 steps away from your target.
+001AF5E7|1|You're only 50 kcal away from your target.
+001AF5E7|1|You've almost hit your target, finish strong!
+001AF5E7|1|Stand up twice more today to hit your target.
+001AF5E7|1|Stand up once more today to hit your target.
+001DE71B|1|Target hit!
+001A6611|1|You can do it!
+001A6611|1|Stats
+001BC22A|1|Custom
+001A6611|1|Couldn't pair
+00196358|1|Try again
+001AF5E7|1|Pair
+001A6611|1|Confirm on your phone
+001A6611|1|Pairing...
+001A6611|1|Paired
+00196358|1|Scan to download app
+00196358|1|Confirm on your phone
+001E22A1|1|繁體中文
+001A6611|1|English
+001A6611|1|Deutsch
+001E2BA8|1|한국어
+001E3175|1|עברית
+001E3545|1|ไทย
+001E3779|1|日本語
+001E3DAC|1|العربية
+001A6611|1|Italiano
+001A6611|1|Français
+001A6611|1|Español
+001A6611|1|Polski
+001A6611|1|Українська
+001A6611|1|Čeština
+001A6611|1|Русский
+001A6611|1|Nederlands
+001A6611|1|Português PT
+001A6611|1|Türkçe
+001A6611|1|Română
+001A6611|1|Eλληνικά
+001A6611|1|Português BR
+001A6611|1|Indonesia
+001A6611|1|Tiếng Việt
+001A6611|1|Norsk bokmål
+001A6611|1|Suomi
+001A6611|1|Svenska
+001A6611|1|Dansk
+001BC22A|1|Off
+001BC22A|1|%d second
+001BC22A|1|%d second
+001BC22A|1|%d second
+001BC22A|1|%d seconds
+001BC22A|1|%d seconds
+001BC22A|1|%d seconds
+001BC22A|1|%d seconds
+0019E5FC|1|%u/%u/%u 
+0019BD06|1|Xiaomi Smart Band 7 Pro
+0019E5FC|1|OK
+001BDE6F|1|If the number of words is too long, please check it on the APP side
+00192E8E|1|Snowboarding
+00192E8E|1|Skiing
+001B36DC|1|Snowboarding
+001B36DC|1|Skiing
+00196358|1|Custom
+00192E8E|1|Syncing
+001A6611|1|Preparing update
+001BC22A|1|VO₂ max
+00196358|1|High
