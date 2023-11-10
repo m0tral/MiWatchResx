@@ -1,0 +1,2297 @@
+[|1]: Wersja identyfikatora projektu: MIUI Watch\nOstatni tłumacz: Wygenerowany automatycznie\nZespół językowy: brak\nJęzyk: zh_CN\nWersja MIME: 1.0\nTyp zawartości: tekst/zwykły; charset=UTF-8 \nKodowanie przesyłania treści: 8-bitowe\n
+[%.*fcnt/min.sport|2]: %.*f raz/min |%.*f razy/min
+[%.*fgroup.sport|2]: %.*f grupa |%.*f grup
+[%.*fkcal.sport|2]: %.*fkcal | %.* fkcal
+[%.*fkm.sport|2]: %.*fkm | %.* fkm
+[%.*fkm_distance_calibration.sport|2]: Ten dystans do pokonania wynosi %.*f kilometrów . Czy wymagana jest ręczna kalibracja ? | Przebyty dystans tym razem wynosi %.*f kilometrów . Czy trzeba go ręcznie kalibrować ?
+[%.*fkm_per_hr.sport|2]: %.*fkm/h | %.*fkm/h
+[%.*fm.sport|2]: %.*fm | %.*fm
+[%.*fnumber.sport|2]: %.*f | %.*f
+[%.*ftime.sport|2]: %.*f raz |%.*f razy
+[%.*ftrip.sport|2]: %.*f długość |%.*f długości
+[%02d%02d_update_am_time.sleep|1]: Zaktualizowano: %02d:%02dAM
+[%02d%02d_update_pm_time.sleep|1]: Zaktualizowano: %02d:%02dPM
+[%02d%02d_update_time.sleep|1]: Zaktualizowano: %02d:%02d
+[%02d:%02dAMexit_sleep_mode.reminder|1]: Wyjście z trybu uśpienia o %02d:%02dAM
+[%02d:%02dPMexit_sleep_mode.reminder|1]: Wyjście z trybu uśpienia o %02d:%02dPM
+[%02d:%02d_update.health|1]: Zaktualizowano: %02d:%02d
+[%02d:%02d_update. Pressure|1]: Zaktualizowano: %02d:%02d
+[%02d:%02dexit_sleep_mode.reminder|1]: Wyjście z trybu uśpienia o %02d:%02d
+[%02dhour%02dmin.sport|1]: %02d:%02d
+[%1$s_ampm_%2$s_time_combine.common|1]: %1$s%2$s
+[%2d_target_hour.sleep|2]: Cel: %d godzina | Cel: %d godzin
+[%2d_target_hours.sleep|1]: Cel: %d godzin
+[%d%2d_12AMend.calendar|1]: Koniec: %1$d:%2$02dAM
+[%d%2d_12PMend.calendar|1]: Koniec: %1$d:%2$02dPM
+[%d%2d_24end.calendar|1]: Koniec: %1$d:%2$02d
+[%d%d%dyear_month_day.todo|1]: %1$d rok %2$d miesiąc %3$d dzień
+[%d%d_target_time.sleep|1]: Cel: %d godz. %d min.
+[%d%d_time_sec.sleep|1]: %d godz. %d min.
+[%d%dmin/hour.hr|1]: %d godz. %d min.
+[%d%dmonth_day.common|1]: %1$d/%2$d
+[%d%dmonth_day.todo|1]: %1$d/%2$d
+[%d%dmonth_day_slash.common|1]: %1$02d/%2$02d
+[%d%dravailable.settings|1]: Dostępny czas: około %d dni i %d godzin
+[%d%dyear_month.calendar|1]: %2$d/%1$d
+[%d:%d.worldclock|1]: %d:%d
+[%d_cnt/min_just.health|1]: %d razy / minutę ( tylko )
+[%d_hour_sec.sleep|2]: %d godzin |%d godzin
+[%d_message.notify|2]: Łącznie %d wiadomości | Łącznie %d wiadomości
+[%d_min_before.health|2]: %d minut temu |%d minut temu
+[%d_min_before.notify|2]: %d minut temu |%d minut temu
+[%d_min_sec.sleep|2]: %d minut |%d minut
+[%d_mins_before.pressure|2]: %d minut temu |%d minut temu
+[%d_unread_message.notify|2]: %d nowe wiadomości |%d nowe wiadomości
+[%dcalories_unit.act|2]: kcal | kcal
+[%dcnt/min.common|2]: %d raz/min.|%d razy/min.
+[%dcnt/min.sport|2]: %d raz/min.|%d razy/min.
+[%dday_later.wm|2]: %d天后|%d天后
+[%dfull_hour.common|2]: %d g|%d g
+[%dfull_hour.hr|1]: %d g
+[%dfull_hour.reminder|2]: %d g |%d g
+[%dfull_hour.sport|2]: %d g |%d g
+[%dfull_min.common|2]: %d min |%d min
+[%dfull_min.hr|1]: %d min
+[%dfull_min.reminder|2]: %d min|%d min
+[%dfull_min.settings|2]: %d min|%d min
+[%dfull_min_28.settings|2]: %d min|%d min
+[%dhour.common|2]: %d g|%d g
+[%dhour.worldclock|2]: %d g|%d g
+[%dintensity_unit.act|2]: min| min
+[%ditem.todo|2]: %d element|%d elementy
+[%ditem_in_category.sport|2]: %d element|%d elementy
+[%ditem_schedules.calendar|2]: Łącznie %d harmonogram| Łącznie %d harmonogramów
+[%dmin.common|2]: %d punkt|%d punktów
+[%dmin.vitality|2]: %d min.|%d  min.
+[%dmin_retry.common|2]: Spróbuj ponownie za %d minute| Spróbuj ponownie za %d minut
+[%dmin_training.breath|2]: %d minut treningu oddechowego|%d minut treningu oddechowego
+[%dmin_warmup.sport|2]: %d minut |%d minut
+[%dminute.sport|2]: %d minut |%d minut
+[%dpercent.common|1]: %d%%
+[%dsec.common|2]: %d sek |%d sek
+[%dsec.settings|2]: %d sek |%d sek
+[%dsec_28.settings|2]: %d sek |%d sek
+[%dsec_course_resume.sport|2]: Kontynuuj uprawianie sportu (%ds)| Kontynuuj uprawianie sportu (%ds)
+[%dsec_retry.common|2]: Spróbuj ponownie za %d sekund | Spróbuj ponownie za %d sekund
+[%dsec_warmup.sport|2]: %d sekund |%d sekund
+[%dstand_unit.act|2]: razy | razy
+[%dstep_unit.act|2]: krok | krok
+[%dtime/minute.health|2]: %d raz/ min.|%d razy/min.
+[%dtime_num.slep|2]: %d razy |%d razy
+[%dtime_warmup.sport|2]: %d razy |%d razy
+[%dupdate_mon.weather|2]: Zaktualizowano %d minut temu | Zaktualizowano %d minut temu
+[%s%stime_combine.common|1]: %1$s%2$s
+[%s%stime_combine.reminder|1]: %1$s%2$s
+[+%d:%ds.worldclock|1]: +%d:%d
+[3d_distance.sport|1]: Odległość 3D
+[AQI|1]: Jakość powietrza
+[Apr.common|1]: kwiecień
+[Apr_n.common|1]: 4
+[Aug.common|1]: sierpień
+[Aug_n.common|1]: 8
+[C102_cityname.worldclock|1]: Bagdad
+[C102_timezone.worldclock|1]: 180
+[C105_cityname.worldclock|1]: Bangkok
+[C105_timezone.worldclock|1]: 420
+[C106_cityname.worldclock|1]: Bejrut
+[C106_timezone.worldclock|1]: 120
+[C109_cityname.worldclock|1]: Dhaka
+[C109_timezone.worldclock|1]: 360
+[C110_cityname.worldclock|1]: Dubaj
+[C110_timezone.worldclock|1]: 240
+[C114_cityname.worldclock|1]: Hongkong
+[C114_timezone.worldclock|1]: 480
+[C115_cityname.worldclock|1]: Dżakarta
+[C115_timezone.worldclock|1]: 420
+[C116_cityname.worldclock|1]: Jerozolima
+[C116_timezone.worldclock|1]: 120
+[C117_cityname.worldclock|1]: Kabul
+[C117_timezone.worldclock|1]: 240
+[C118_cityname.worldclock|1]: Karaczi
+[C118_timezone.worldclock|1]: 300
+[C119_cityname.worldclock|1]: Katmandu
+[C119_timezone.worldclock|1]: 360
+[C120_cityname.worldclock|1]: Kuala Lumpur
+[C120_timezone.worldclock|1]: 480
+[C123_cityname.worldclock|1]: Manila
+[C123_timezone.worldclock|1]: 480
+[C124_cityname.worldclock|1]: Maskat
+[C124_timezone.worldclock|1]: 240
+[C125_cityname.worldclock|1]: Phnom Penh
+[C125_timezone.worldclock|1]: 420
+[C126_cityname.worldclock|1]: Pjongjang
+[C126_timezone.worldclock|1]: 540
+[C128_cityname.worldclock|1]: Rangun
+[C128_timezone.worldclock|1]: 360
+[C129_cityname.worldclock|1]: Riyad
+[C129_timezone.worldclock|1]: 180
+[C130_cityname.worldclock|1]: 
+[C130_timezone.worldclock|1]: 540
+[C132_cityname.worldclock|1]: Singapur
+[C132_timezone.worldclock|1]: 480
+[C134_cityname.worldclock|1]: Teheran
+[C134_timezone.worldclock|1]: 180
+[C136_cityname.worldclock|1]: Tokio
+[C136_timezone.worldclock|1]: 540
+[C143_cityname.worldclock|1]: Adelajda
+[C143_timezone.worldclock|1]: 540
+[C144_cityname.worldclock|1]: Brisbane
+[C144_timezone.worldclock|1]: 600
+[C146_cityname.worldclock|1]: Darwin
+[C146_timezone.worldclock|1]: 540
+[C149_cityname.worldclock|1]: Perth
+[C149_timezone.worldclock|1]: 480
+[C151_cityname.worldclock|1]: Sydney
+[C151_timezone.worldclock|1]: 600
+[C156_cityname.worldclock|1]: Amsterdam
+[C156_timezone.worldclock|1]: 60
+[C15_cityname.worldclock|1]: Harare
+[C15_timezone.worldclock|1]: 120
+[C161_cityname.worldclock|1]: Berlin
+[C161_timezone.worldclock|1]: 60
+[C163_cityname.worldclock|1]: Bruksela
+[C163_timezone.worldclock|1]: 60
+[C164_cityname.worldclock|1]: Bukareszt
+[C164_timezone.worldclock|1]: 120
+[C165_cityname.worldclock|1]: Budapeszt
+[C165_timezone.worldclock|1]: 60
+[C167_cityname.worldclock|1]: Kopenhaga
+[C167_timezone.worldclock|1]: 60
+[C168_cityname.worldclock|1]: Dublin
+[C168_timezone.worldclock|1]: 0
+[C170_cityname.worldclock|1]: Helsinki
+[C170_timezone.worldclock|1]: 120
+[C172_cityname.worldclock|1]: Stambuł
+[C172_timezone.worldclock|1]: 180
+[C173_cityname.worldclock|1]: Lizbona
+[C173_timezone.worldclock|1]: 0
+[C174_cityname.worldclock|1]: Londyn
+[C174_timezone.worldclock|1]: 0
+[C176_cityname.worldclock|1]: Madryt
+[C176_timezone.worldclock|1]: 60
+[C178_cityname.worldclock|1]: Mińsk
+[C178_timezone.worldclock|1]: 180
+[C180_cityname.worldclock|1]: Moskwa
+[C180_timezone.worldclock|1]: 180
+[C181_cityname.worldclock|1]: Oslo
+[C181_timezone.worldclock|1]: 60
+[C182_cityname.worldclock|1]: Paryż
+[C182_timezone.worldclock|1]: 60
+[C183_cityname.worldclock|1]: Praga
+[C183_timezone.worldclock|1]: 60
+[C185_cityname.worldclock|1]: Rzym
+[C185_timezone.worldclock|1]: 60
+[C191_cityname.worldclock|1]: Sztokholm
+[C191_timezone.worldclock|1]: 60
+[C192_cityname.worldclock|1]: Tallinn
+[C192_timezone.worldclock|1]: 120
+[C194_cityname.worldclock|1]: Wiedeń
+[C194_timezone.worldclock|1]: 60
+[C196_cityname.worldclock|1]: Wilno
+[C196_timezone.worldclock|1]: 120
+[C197_cityname.worldclock|1]: Warszawa
+[C197_timezone.worldclock|1]: 60
+[C202_cityname.worldclock|1]: Oakland
+[C202_timezone.worldclock|1]: 720
+[C205_cityname.worldclock|1]: Honolulu
+[C205_timezone.worldclock|1]: -600
+[C206_cityname.worldclock|1]: Wyspa Bożego Narodzenia
+[C206_timezone.worldclock|1]: 0
+[C21_cityname.worldclock|1]: Lagos
+[C21_timezone.worldclock|1]: 60
+[C224_cityname.worldclock|1]: San Francisco
+[C224_timezone.worldclock|1]: -480
+[C227_cityname.worldclock|1]: San Salvador
+[C227_timezone.worldclock|1]: -360
+[C230_cityname.worldclock|1]: Waszyngton
+[C230_timezone.worldclock|1]: -300
+[C242_cityname.worldclock|1]: Atlanta
+[C242_timezone.worldclock|1]: -300
+[C252_cityname.worldclock|1]: Pekin
+[C252_timezone.worldclock|1]: 480
+[C253_cityname.worldclock|1]: Bombaj
+[C253_timezone.worldclock|1]: 300
+[C261_cityname.worldclock|1]: Frankfurt
+[C261_timezone.worldclock|1]: 60
+[C262_cityname.worldclock|1]: Hanoi
+[C262_timezone.worldclock|1]: 420
+[C263_cityname.worldclock|1]: Ankara
+[C263_timezone.worldclock|1]: 180
+[C265_cityname.worldclock|1]: Brasilia
+[C265_timezone.worldclock|1]: -180
+[C266_cityname.worldclock|1]: Kapsztad
+[C266_timezone.worldclock|1]: 120
+[C267_cityname.worldclock|1]: Islamabad
+[C267_timezone.worldclock|1]: 300
+[C268_cityname.worldclock|1]: Rio de Janeiro
+[C268_timezone.worldclock|1]: -180
+[C278_cityname.worldclock|1]: San Diego
+[C278_timezone.worldclock|1]: -240
+[C284_cityname.worldclock|1]: Kijów
+[C284_timezone.worldclock|1]: 120
+[C285_cityname.worldclock|1]: Petersburg
+[C285_timezone.worldclock|1]: 180
+[C291_cityname.worldclock|1]: San Juan
+[C291_timezone.worldclock|1]: -240
+[C292_cityname.worldclock|1]: Tegucigalpa
+[C292_timezone.worldclock|1]: -360
+[C295_cityname.worldclock|1]: Hawaje
+[C295_timezone.worldclock|1]: -600
+[C296_cityname.worldclock|1]: Alaska
+[C296_timezone.worldclock|1]: -540
+[C297_cityname.worldclock|1]: Miasto Phoenix
+[C297_timezone.worldclock|1]: -420
+[C299_cityname.worldclock|1]: Kingston
+[C299_timezone.worldclock|1]: -300
+[C300_cityname.worldclock|1]: Praia
+[C300_timezone.worldclock|1]: -60
+[C301_cityname.worldclock|1]: Reykjavik
+[C301_timezone.worldclock|1]: 0
+[C302_cityname.worldclock|1]: Genewa
+[C302_timezone.worldclock|1]: 60
+[C303_cityname.worldclock|1]: Windhuk
+[C303_timezone.worldclock|1]: 120
+[C304_cityname.worldclock|1]: Sofia
+[C304_timezone.worldclock|1]: 120
+[C305_cityname.worldclock|1]: Ateny
+[C305_timezone.worldclock|1]: 120
+[C306_cityname.worldclock|1]: Kaliningrad
+[C306_timezone.worldclock|1]: 120
+[C307_cityname.worldclock|1]: Chartum
+[C307_timezone.worldclock|1]: 120
+[C308_cityname.worldclock|1]: Nairobi
+[C308_timezone.worldclock|1]: 180
+[C309_cityname.worldclock|1]: Aden
+[C309_timezone.worldclock|1]: 180
+[C310_cityname.worldclock|1]: Antananarywa
+[C310_timezone.worldclock|1]: 180
+[C311_cityname.worldclock|1]: Kuwejt
+[C311_timezone.worldclock|1]: 180
+[C312_cityname.worldclock|1]: Abu Zabi
+[C312_timezone.worldclock|1]: 240
+[C313_cityname.worldclock|1]: Samara
+[C313_timezone.worldclock|1]: 240
+[C314_cityname.worldclock|1]: Nowe Delhi
+[C314_timezone.worldclock|1]: 300
+[C315_cityname.worldclock|1]: Nowosybirsk
+[C315_timezone.worldclock|1]: 420
+[C316_cityname.worldclock|1]: Tajwan
+[C316_timezone.worldclock|1]: 480
+[C317_cityname.worldclock|1]: Irkuck
+[C317_timezone.worldclock|1]: 480
+[C318_cityname.worldclock|1]: Chita
+[C318_timezone.worldclock|1]: 540
+[C319_cityname.worldclock|1]: Władywostok
+[C319_timezone.worldclock|1]: 600
+[C321_cityname.worldclock|1]: Magadan
+[C321_timezone.worldclock|1]: 660
+[C322_cityname.worldclock|1]: Kamczatka
+[C322_timezone.worldclock|1]: 720
+[C323_cityname.worldclock|1]: Suva
+[C323_timezone.worldclock|1]: 720
+[C325_cityname.worldclock|1]: Wellington
+[C325_timezone.worldclock|1]: 720
+[C32_cityname.worldclock|1]: Asuncion
+[C32_timezone.worldclock|1]: -240
+[C36_cityname.worldclock|1]: Buenos Aires
+[C36_timezone.worldclock|1]: -180
+[C38_cityname.worldclock|1]: Caracas
+[C38_timezone.worldclock|1]: -240
+[C3_cityname.worldclock|1]: Addis Abeba
+[C3_timezone.worldclock|1]: 180
+[C40_cityname.worldclock|1]: Chicago
+[C40_timezone.worldclock|1]: -360
+[C47_cityname.worldclock|1]: Edmonton
+[C47_timezone.worldclock|1]: -420
+[C4_cityname.worldclock|1]: Algier
+[C4_timezone.worldclock|1]: 60
+[C52_cityname.worldclock|1]: Gwatemala
+[C52_timezone.worldclock|1]: -360
+[C55_cityname.worldclock|1]: Hawana
+[C55_timezone.worldclock|1]: -300
+[C65_cityname.worldclock|1]: La Paz
+[C65_timezone.worldclock|1]: -240
+[C66_cityname.worldclock|1]: Lima
+[C66_timezone.worldclock|1]: -300
+[C67_cityname.worldclock|1]: Los Angeles
+[C67_timezone.worldclock|1]: -480
+[C69_cityname.worldclock|1]: Managua
+[C69_timezone.worldclock|1]: -360
+[C72_cityname.worldclock|1]: Meksyk
+[C72_timezone.worldclock|1]: -360
+[C73_cityname.worldclock|1]: Monterey
+[C73_timezone.worldclock|1]: -360
+[C74_cityname.worldclock|1]: Montevideo
+[C74_timezone.worldclock|1]: -180
+[C76_cityname.worldclock|1]: Nassau
+[C76_timezone.worldclock|1]: -300
+[C77_cityname.worldclock|1]: Nowy Jork
+[C77_timezone.worldclock|1]: -300
+[C7_cityname.worldclock|1]: Kair
+[C7_timezone.worldclock|1]: 120
+[C8_cityname.worldclock|1]: Casablanca
+[C8_timezone.worldclock|1]: 0
+[C93_cityname.worldclock|1]: Toronto
+[C93_timezone.worldclock|1]: -300
+[C94_cityname.worldclock|1]: Vancouver
+[C94_timezone.worldclock|1]: -480
+[C95_cityname.worldclock|1]: Winnipeg
+[C95_timezone.worldclock|1]: -360
+[C98_cityname.worldclock|1]: Ałmaty
+[C98_timezone.worldclock|1]: 360
+[C99_cityname.worldclock|1]: Amman
+[C99_timezone.worldclock|1]: 120
+[Dec.common|1]: Grudzień
+[Dec_n.common|1]: 12
+[Feb.common|1]: Luty
+[Feb_n.common|1]: 2
+[Fri.calendar|1]: Pią
+[Fri.worldclock|1]: Pią
+[Fri_brief.calendar|1]: Pią
+[Fri_brief.common|1]: Pią
+[Jan.common|1]: Styczeń
+[Jan_n.common|1]: 1
+[July.common|1]: Lipiec
+[July_n.common|1]: 7
+[June.common|1]: Czerwiec
+[June_n.common|1]: Czerwiec
+[Mar.common|1]: Marzec
+[Mar_n.common|1]: 3
+[May.common|1]: Maj
+[May_n.common|1]: 5
+[Mon.calendar|1]: Pon
+[Mon.worldclock|1]: Pon
+[Mon_brief.calendar|1]: Pon
+[Mon_brief.common|1]: Pon
+[Nov.common|1]: Listopad
+[Nov_n.common|1]: 11
+[Oct.common|1]: Październik
+[Oct_n.common|1]: 10
+[Sat.calendar|1]: Sob
+[Sat.worldclock|1]: Sob
+[Sat_brief.calendar|1]: Sob
+[Sat_brief.common|1]: Sob
+[Sept.common|1]: Wrzesień
+[Sept_n.common|1]: 9
+[Sports.sport|1]: Sport
+[Sun.calendar|1]: Niedz
+[Sun.worldclock|1]: Niedz
+[Sun_brief.calendar|1]: Niedz
+[Sun_brief.common|1]: Niedz
+[Thu.calendar|1]: Czw
+[Thu.worldclock|1]: Czw
+[Thu_brief.calendar|1]: Czw
+[Thu_brief.common|1]: Czw
+[Tue.calendar|1]: Wt
+[Tue.worldclock|1]: Wt
+[Tue_brief.calendar|1]: Wt
+[Tue_brief.common|1]: Wt
+[UVI|1]: Intensywność UV
+[Wed.calendar|1]: Śr
+[Wed.worldclock|1]: Śr
+[Wed_brief.calendar|1]: Śr
+[Wed_brief.common|1]: Śr
+[ability_down.training|1]: W dół
+[ability_dsc.training|1]: zdolności sportowe
+[ability_keep.training|1]: Bez zmian
+[ability_up.training|1]: Poprawa
+[abort_rel.health|1]: Wydaj wersję
+[abort_whole.health|1]: Pełna wersja
+[about.common|1]: Informacje
+[about.settings|1]: Informacje
+[about.setupwizard|1]: Informacje
+[about_title.settings|1]: Informacje
+[accel_test.check_tool|1]: Wykrywanie przyspieszenia (3/14)
+[accomplish.sport|1]: Ukończono
+[action_preview.sport|1]: Podgląd akcji
+[activated.nfc|1]: Aktywowano
+[active.nfc|1]: Aktywacja ...
+[active_fail.nfc|1]: Nie udało się włączyć , spróbuj ponownie
+[activities.act|1]: Wykonaj pewne czynności
+[activity.sport|1]: Aktywność
+[activity.watchface|1]: Statystyki aktywności
+[activityIndex|1]: indeks aktywności
+[add_cities.weather|1]: Otwórz ustawienia pogody w aplikacji\n , aby dodać miasto
+[add_city.worldclock|1]: Dodaj miasto
+[add_driver.setupwizard|1]: Otwórz aplikację Xiaomi Sports Health i dodaj urządzenie :
+[add_fail.nfc|1]: Dodawanie nie powiodło się
+[add_full.nfc|1]: Osiągnięto limit karty
+[add_warning%d.home|2]: Nie można dodać nowych komponentów, co najwyżej %d stron widżetów | Nie można dodać nowych komponentów, co najwyżej %d stron widżetów
+[add_widget.home|1]: Nowy komponent
+[advanced_aerobic_endurance_running.sport|1]: Zaawansowane aerobowe biegi wytrzymałościowe
+[advanced_aerobic_endurance_running_dsc.sport|1]: Pojedynczy, długotrwały trening joggingowy poprawiający wytrzymałość aerobową i poprawiający zdolność biegania na długich dystansach.
+[advanced_fat_burning_run.sport|1]: Zaawansowany bieg spalający tłuszcz
+[advanced_fat_burning_run_dsc.sport|1]: Pojedynczy, długotrwały trening o niskiej intensywności, ciągły jogging, \ nciągła utrata tkanki tłuszczowej i utrata masy ciała.
+[advanced_interval_running.sport|1]: Zaawansowane bieganie interwałowe
+[advanced_interval_running_dsc.sport|1]: Odpowiedni dla biegaczy chcących poprawić wydolność krążeniowo-oddechową.Pobudza serce i płuca przy dużej intensywności i zwiększa maksymalny poziom poboru tlenu.
+[advanced_run_walk.sport|1]: Zaawansowana kombinacja biegu i chodu
+[advanced_run_walk_dsc.sport|1]: Odpowiedni dla początkujących biegaczy, \n naprzemiennie bieganie i szybki marsz \n oraz odpowiednie zwiększanie czasu trwania biegu , aby poprawić wydolność fizyczną.
+[aerobic.common|1]: aerobik
+[aerobic.sport|1]: aerobik
+[aerobic_interval.sport|1]: interwał aerobowy
+[aerobic_training_effect.sport|1]: Efekt treningu aerobowego
+[aerobic_zone.hr|1]: strefa beztlenowa :
+[aerobic_zone1.hr|1]: Maksymalne tętno x ( 81% - 90% ), odpowiednie do zwiększania intensywności lub szybkości treningu oraz tolerancji kwasu mlekowego podczas treningu i maksymalnego poboru tlenu.
+[aerobics.sport|1]: aerobik
+[again.find_phone|1]: Znajdź ponownie
+[again_select.bp|1]: Wybierz ponownie rozmiar
+[again_upgrade.setupwizard|1]: Rozpocznij ponownie aktualizację w aplikacji mobilnej \n
+[agree.wxpay|1]: Zgadzam się
+[ai_escort.sport|1]: Inteligentna eskorta
+[air_quality.weather|1]: Jakość powietrza
+[aivs.appname|1]: Kolega z klasy Xiaoai
+[alarm|1]: Budzik
+[alarm.appname|1]: budzik
+[alarm_deleted.alexa|1]: Alarm usunięty
+[alarm_title.alexa|1]: Ustawiono dla Ciebie następujące alarmy:
+[alert_tip.weather|1]: Powiadomienie o alertach
+[alexa.appname|1]: Alexa
+[alipayPaymentCode|1]: Kod płatności Alipay
+[allbreath%d.breath|2]: oddech %d razy | oddech %d razy
+[allday.calendar|1]: Cały dzień
+[allday_m36.calendar|1]: Cały dzień
+[always_bright_close.ctrl|1]: Pozostaw ekran włączony i zamknij go
+[always_bright_open.ctrl|1]: Pozostaw ekran włączony przez 5 minut
+[alwayson_info.settings|1]: Po włączeniu, tylko tym razem ekran będzie włączony przez %d minut \n . Pozostawienie włączonego ekranu na zbyt długi czas skraca żywotność baterii . Czy na pewno go użyjesz?
+[am.common|1]: rano
+[am_t.alarm|1]: AM
+[am_t.calendar|1]: AM
+[am_t.todo|1]: AM
+[anaerobic.common|1]: beztlenowy
+[anaerobic.sport|1]: beztlenowy
+[anaerobic_interval.sport|1]: interwał beztlenowy
+[anaerobic_zone.hr|1]: Strefa aerobowa :
+[anaerobic_zone1.hr|1]: Maksymalne tętno x ( 71% - 80% ), odpowiednie do treningu o średniej intensywności , pomagające poprawić efektywność treningu, poprawić funkcję krążeniowo-oddechową człowieka i poprawić sprawność fizyczną.
+[anim_cxkhz.sport|1]: Otwieranie i zamykanie na boki
+[anim_dtncdtls.sport|1]: Dynamiczne rozciąganie wewnętrznej strony ud
+[anim_fbls.sport|1]: Rozciąganie brzucha
+[anim_fsdthcls.sport|1]: Pochyl się i rozciągnij tylną część ud
+[anim_fsycdthcls.sport|1]: Pochyl się i rozciągnij tył prawego uda
+[anim_fsythcls.sport|1]: Pochyl się i rozciągnij tył prawej nogi
+[anim_fszcdthcls.sport|1]: Pochyl się i rozciągnij tył lewego uda
+[anim_fszthcls.sport|1]: Pochyl się i rozciągnij tył lewej nogi
+[anim_gbczt.sport|1]: Skręt w bok z wypadem
+[anim_gtt.sport|1]: Skok z haka
+[anim_gttp.sport|1]: bieganie z wysokimi nogami
+[anim_gzbbls.sport|1]: Rozciąganie pleców w klęku
+[anim_jtcgb.sport|1]: Naprzemienne wypady w bok
+[anim_jttxwz.sport|1]: Naprzemienne unoszenie kolana i odwodzenie
+[anim_kht.sport|1]: Podskoki
+[anim_kqycxbqcls.sport|1]: Rozciągnij przednią część prawego przedramienia do ściany
+[anim_kqycxtls.sport|1]: Wyciąganie prawej łydki do ściany
+[anim_kqyxthcls.sport|1]: Rozciągnij tył prawej łydki do ściany
+[anim_kqzcxbqcls.sport|1]: Rozciągnij przednią stronę lewego przedramienia do ściany
+[anim_kqzcxtls.sport|1]: Rozciąganie lewej łydki przy ścianie
+[anim_kqzxthcls.sport|1]: Rozciągnij tył lewej łydki do ściany
+[anim_pbzcjtts.sport|1]: Podparcie deski z naprzemiennym podnoszeniem rąk
+[anim_pbzcjttt.sport|1]: Podparcie deski z naprzemiennym unoszeniem nóg
+[anim_qbxhjgjhr.sport|1]: Zegnij ramiona do tyłu i owiń wokół stawów barkowych
+[anim_qbxqjgjhr.sport|1]: Zegnij ramiona, aby owinąć do przodu wokół stawu barkowego
+[anim_qhjcxt.sport|1]: mały skok w poprzek przed i po
+[anim_qssz.sport|1]: Rozciągnięcie całego ciała
+[anim_qxyxthcls.sport|1]: Zegnij kolano i rozciągnij tył prawej łydki
+[anim_qxzxthcls.sport|1]: Zegnij kolano i rozciągnij tył lewej łydki
+[anim_sbbls.sport|1]: Rozciąganie górnej części pleców
+[anim_tbdtls.sport|1]: Dynamiczne rozciąganie bioder
+[anim_tbgttjz.sport|1]: Podnieś się, podnieś nogi i przybij piątkę
+[anim_xbbls.sport|1]: Rozciąganie dolnej części pleców
+[anim_xgjrs.sport|1]: Rozgrzewka stawu kolanowego
+[anim_ybhcls.sport|1]: Rozciąganie tylnej części prawego ramienia
+[anim_ybls.sport|1]: Rozciągnięcie talii
+[anim_ycdtqcls.sport|1]: Rozciąganie prawego przedniego uda
+[anim_ychgjhr.sport|1]: Obramowanie prawej kostki
+[anim_ycqyjls.sport|1]: Rozciąganie prawego mięśnia biodrowo-lędźwiowego
+[anim_ycxbls.sport|1]: Rozciąganie prawej klatki piersiowej
+[anim_ydbbkp.sport|1]: Bieg z rękami wymachującymi w miejscu
+[anim_ydmp.sport|1]: bieganie w miejscu
+[anim_zastqq.sport|1]: Dzień dobry, pochyl się do przodu
+[anim_zbhcls.sport|1]: Rozciąganie tylnej części lewego ramienia
+[anim_zcdtqcls.sport|1]: Rozciąganie lewego przedniego uda
+[anim_zchgjhr.sport|1]: Obramowanie lewej kostki
+[anim_zcqyjls.sport|1]: Rozciąganie lewego mięśnia biodrowo-lędźwiowego
+[anim_zcxbls.sport|1]: Rozciąganie lewej klatki piersiowej
+[anim_zcxthcls.sport|1]: Wspomaganie rozciągania pleców łydek
+[anim_zwgasjbls.sport|1]: Samodzielne rozciąganie ramion
+[anim_zybtxt.sport|1]: Skacz w lewo i prawo obok siebie
+[anim_zzjtgt.sport|1]: Alternatywna postawa i haczykowe nogi
+[anim_zzycfbls.sport|1]: Rozciąganie brzucha w prawo w pozycji stojącej
+[anim_zzyctbls.sport|1]: Rozciąganie prawego biodra w pozycji stojącej
+[anim_zzzcfbls.sport|1]: Rozciąganie brzucha w lewej pozycji stojącej
+[anim_zzzctbls.sport|1]: Rozciąganie lewego biodra w pozycji stojącej
+[app_conn.aivs|1]: Połącz się przez Bluetooth \ nTelefon komórkowy
+[app_join.mihome|1]: Otwórz aplikację mobilną , aby podłączyć urządzenie
+[app_name.nfc|1]: Pakiet kart
+[app_operate.nfc|1]: Przejdź do aplikacji , aby wykonać operację
+[appname.act|1]: Wskaźnik witalności
+[appname.media|1]: Muzyka
+[appname.status|1]: Stan treningu
+[appname.vitality|1]: Wartość witalności
+[aqi.weather|1]: AQI
+[aquatic_sport.sport|1]: sporty wodne
+[archery.sport|1]: Łucznictwo
+[attention.breath|1]: Proszę się skupić
+[atv.sport|1]: Quad
+[auth_error_content.alexa|1]: Wygląda na to, że nie korzystałeś ze swojego konta przez jakiś czas. Zresetuj Alexę w aplikacji, aby móc z niej ponownie korzystać.
+[auth_error_title.alexa|1]: Zresetuj Alexę
+[auto.settings|1]: Automatyczna jasność
+[auto_pause.sport|1]: Automatyczna pauza
+[ave.pressure|1]: średnie ciśnienie
+[ave_heartrate.sleep|1]: Średnie tętno
+[ave_oxygen.sleep|1]: Średni poziom tlenu we krwi
+[average.sport|1]: średnia
+[average_stride_length_cm.sport|1]: średnia długość kroku ( cm )
+[avg_stroke.sport|1]: Średnia częstotliwość uderzeń ( razy / minutę )
+[avg_swolf.sport|1]: Średni SWOLF
+[avg_time.sleep|1]: średni czas trwania
+[back.common|1]: Powrót
+[back_training.sport|1]: Trening pleców
+[backstroke.sport|1]: Styl grzbietowy
+[badminton.sport|1]: Badminton
+[balance.nfc|1]: Saldo :
+[ball_sports.sport|1]: Sporty z piłką
+[ballet.sport|1]: Balet
+[barbell_training.sport|1]: Trening ze sztangą
+[base.watchface|1]: Podstawowy
+[baseball.sport|1]: baseball
+[basic_aerobic_endurance_running.sport|1]: Podstawowe aerobowe biegi wytrzymałościowe
+[basic_aerobic_endurance_running_dsc.sport|1]: Odpowiedni dla biegaczy, którzy chcą poprawić swoją wytrzymałość biegową, poprawić poziom wytrzymałości biegowej i poprawić swoją zdolność do ćwiczeń aerobowych .
+[basic_fat_burning_run.sport|1]: Podstawowy bieg spalający tłuszcz
+[basic_fat_burning_run_dsc.sport|1]: Odpowiedni dla biegaczy, którzy chcą spalić tłuszcz i schudnąć, zwiększyć zużycie energii \n oraz promować utratę tkanki tłuszczowej i wagi.
+[basic_interval_running.sport|1]: Podstawowe bieganie interwałowe
+[basic_interval_running_dsc.sport|1]: Odpowiedni dla biegaczy, którzy chcą poprawić swoją wydolność krążeniowo-oddechową, poprawić wydolność krążeniowo-oddechową i poprawić maksymalny poziom poboru tlenu.
+[basic_jogging.sport|1]: Podstawowe jogging
+[basic_jogging_dsc.sport|1]: Trening biegowy o umiarkowanej lub niskiej intensywności \n , odpowiedni dla początkujących biegaczy w celu stopniowej poprawy ich wydajności fizycznej.
+[basic_run_walk.sport|1]: Podstawowa kombinacja biegania i chodzenia
+[basic_run_walk_dsc.sport|1]: Odpowiedni dla początkujących biegaczy, \ na przemian jogging i szybki marsz, \n aby pomóc organizmowi dostosować się \n do aktywności aerobowych, takich jak bieganie .
+[basketball.sport|1]: Koszykówka
+[battery.appname|1]: Bateria
+[battery.settings|1]: Bateria
+[batteryLevel|1]: Poziom naładowania baterii
+[battery_cqr.setupwizard|1]: Bateria:
+[battery_title.settings|1]: Bateria
+[battle_rope.sport|1]: Lina bojowa
+[beach_football.sport|1]: Piłka nożna plażowa
+[beach_volleyball.sport|1]: Siatkówka plażowa
+[beat.hr|1]: Nieprawidłowe bicie serca
+[beatexp.hr|1]: Wyjaśnienie nieprawidłowego bicia serca
+[beatexp1.hr|1]: Wyświetlane są tylko trzy ostatnie rekordy. Więcej informacji znajdziesz w aplikacji . To urządzenie nie jest wyrobem medycznym, a wyniki służą wyłącznie celom informacyjnym.
+[beatexp2.hr|1]: Urządzenie w sposób ciągły monitoruje rytm tętna i ocenia stan zdrowia serca , gdy jest nieaktywne . W przypadku wystąpienia nieprawidłowych zapisów tętna proszę zwrócić uwagę na swój stan zdrowia. Jeżeli jednak źle się poczujesz, prosimy o terminową konsultację z placówką medyczną. .
+[before.breath|1]: tętno przed treningiem
+[bell.find_phone|1]: Telefon zadzwoni po wyszukaniu
+[belly_dance.sport|1]: taniec brzucha
+[best.sport|1]: Najlepiej
+[billiards.sport|1]: Bilard
+[bind.alipay|1]: Po powiązaniu możesz przesunąć kod płatności na bransoletce, aby zapłacić.
+[bind_failed.setupwizard|1]: Parowanie nie powiodło się
+[bind_success.setupwizard|1]: Parowanie powiodło się
+[bl_disconnected.sport|1]: Połączenie Bluetooth zostało rozłączone, \nNie można zsynchronizować danych sportowych aplikacji z urządzeniem. Sprawdź połączenie.
+[bl_lunar.calendar|1]: 白LU
+[ble_con.share|1]: Połącz Bluetooth i spróbuj ponownie
+[ble_dis.share|1]: Bluetooth nie jest podłączony
+[bloodPressure|1]: ciśnienie krwi
+[blue_break.mihome|1]: Bluetooth został rozłączony
+[blue_break.mute|1]: Bluetooth został rozłączony
+[blue_break.nfc|1]: Bluetooth został rozłączony
+[blue_know.mihome|1]: Rozumiem
+[blue_know.mute|1]: Rozumiem
+[blue_retry.mute|1]: Spróbuj ponownie po nawiązaniu połączenia
+[blue_retry.nfc|1]: Połącz się i spróbuj ponownie
+[bobby_jump.sport|1]: Bobby skacze
+[bocci.sport|1]: 
+[body_allow_high.temp|1]: Wykryto zbyt wysoką temperaturę ciała, co może mieć wpływ na dokładność danych, a nawet uniemożliwić wyświetlenie wartości.
+[body_allow_low.temp|1]: Wykryto zbyt niską temperaturę ciała, co może mieć wpływ na dokładność danych, a nawet uniemożliwić wyprowadzenie wartości.
+[body_not_allow_high.temp|1]: Wykryto, że temperatura ciała na powierzchni jest zbyt wysoka i nie można jej dokładnie zmierzyć. Spróbuj ponownie później.
+[body_not_allow_low.temp|1]: Wykryto zbyt niską temperaturę ciała i nie można jej dokładnie zmierzyć. Spróbuj ponownie później.
+[bound_id.wxpay|1]: Powiąż identyfikator WeChat
+[bowling.sport|1]: kręgle
+[boxing.sport|1]: boks
+[bp_ecg_recorder.health|1]: Nadgarstkowy rejestrator EKG i ciśnienia krwi
+[bp_exp1.bp|1]: Ciśnienie krwi oznacza boczne ciśnienie krwi w naczyniu krwionośnym na ścianę naczynia krwionośnego na jednostkę powierzchni. Jednostką miary są zwykle milimetry słupa rtęci ( mmHg ).
+[bp_exp2.bp|1]: Poniżej znajduje się klasyfikacja wartości wysokiego i niskiego ciśnienia. Normy pochodzą z „Chińskich wytycznych dotyczących zapobiegania i leczenia nadciśnienia tętniczego ( wydanie poprawione z 2018 r .)”:
+[bp_exp4.bp|1]: Opis jednostki ciśnienia krwi :
+[bp_exp5.bp|1]: mmHg ( milimetry słupa rtęci ) i kPa ( kilopaskale ) to jednostki miary ciśnienia krwi. mmHg (milimetry słupa rtęci) to jednostka akceptowana na całym świecie i można ją ręcznie przełączać w ustawieniach jednostek. \n 1 mmHg = 0,133 kPa
+[bp_explain.bp|1]: Wyjaśnienie ciśnienia krwi
+[breakdance.sport|1]: breakdance
+[breaststroke.sport|1]: styl klasyczny
+[breath.health|1]: oddech
+[breath_btn.pressure|1]: trening oddechowy
+[breath_sub_exp.sleep|1]: Po włączeniu jakość oddychania będzie automatycznie monitorowana podczas zasypiania w nocy ( sprawdź wynik jakości oddychania podczas snu w aplikacji )
+[breath_switch.sleep|1]: Monitorowanie jakości oddychania podczas snu
+[breath_time.breath|1]: czas oddychania
+[breath_title1.breath|1]: oddech
+[breath_train.common|1]: trening oddechowy
+[brides.sport|1]: Most
+[brightness.settings|1]: Jasność ekranu
+[brightness_auto.settings|1]: Automatyczna jasność
+[brightness_set.settings|1]: Niestandardowa jasność
+[brightness_set_28.settings|1]: Dostosuj jasność
+[brightness_title.settings|1]: Jasność ekranu
+[brisk_walk.sport|1]: Idź szybko
+[brpg.sport|1]: Gra planszowa
+[bt_disconn.check_tool|1]: Bluetooth został rozłączony, przed kontynuowaniem wykrywania połącz się z Bluetooth
+[bt_disconn.common|1]: Bluetooth został rozłączony
+[bt_disconn.find_phone|1]: Bluetooth został rozłączony
+[bt_disconn.phone|1]: Bluetooth został rozłączony
+[bt_disconn.remote_camera|1]: Bluetooth został rozłączony
+[bt_test.check_tool|1]: Wykrywanie Bluetooth (1/14)
+[btn_confirm.sport|1]: OK
+[buring_zone.hr|1]: Strefa spalania tłuszczu :
+[buring_zone1.hr|1]: Maksymalne tętno x ( 61% - 70% ), najwyższy współczynnik spalania tłuszczu w tym zakresie , odpowiedni do utraty wagi.
+[butterfly.sport|1]: Pływanie z motylami
+[calculate_the_lead/lag_distance_according_to_the_set_pace.sport|1]: Oblicz dystans przewagi / opóźnienia na podstawie ustawionego tempa .
+[calendar.appname|1]: Kalendarz
+[calllog.phone|1]: Rejestr połączeń
+[calorie|1]: kalorie
+[calorie.act|1]: kalorie
+[calorie.explain|1]: Dynamiczny wskaźnik kalorii odzwierciedla energię zużytą podczas aktywności fizycznej. Spożywanie określonej ilości energii podczas codziennych ćwiczeń, w połączeniu z kontrolą diety, może utrzymać równowagę energetyczną.
+[calorie_reach.act|1]: Cel kalorii osiągnięty
+[calorie_title.explain|1]: Kalorie
+[camera_know|1]: Rozumiem
+[cancel.alipay|1]: Anuluj
+[cancel.bp|1]: Anuluj pomiar
+[cancel.common|1]: Anuluj
+[cancel.wxpay|1]: Anuluj
+[cancel_mark.wm|1]: Anuluj zaznaczenie
+[canoeing.sport|1]: Spływy kajakowe
+[cardBag|1]: torba na karty
+[card_id.check_tool|1]: Identyfikator karty :
+[card_know.nfc|1]: Rozumiem
+[cd_%d_pay.nfc|2]: Proszę zapłacić w ciągu %ds | Proszę zapłacić w ciągu %ds
+[cf_lunar.calendar|1]: Równonoc wiosenna
+[change_item_time.sport|1]: Zmień czas elementu
+[change_terms_for_a_while.sport|1]: Zmień termin na jeden okres
+[change_the_term_for_two_hours.sport|1]: Zmień termin dwie godziny
+[charge_compare.reminder|1]: Ładowanie zakończone
+[charge_no.check_tool|1]: Proszę podłączyć ładowarkę
+[charge_test.check_tool|1]: Wykrywanie ładowania (12/14)
+[charge_yes.check_tool|1]: Ładowarka podłączona
+[chart_content.wm|1]: 2. Inteligentne dane prognostyczne są niedokładne?
+[chart_content_notes.wm|1]: Jeśli dane inteligentnej prognozy są niedokładne, sprawdź historyczne dane dotyczące miesiączki lub zmodyfikuj podstawowe ustawienia informacyjne dotyczące miesiączki w aplikacji .
+[chart_exp.wm|1]: 1. Objaśnienie wykresu
+[check_result.check_tool|1]: Wynik testu
+[chesee_and_card_games.sport|1]: Szachy i sporty karciane
+[chess.sport|1]: szachy
+[chronograph.appname|1]: Stoper
+[chu_day_lunar.calendar|1]: chu
+[circulation.sport|1]: cyrkulacja
+[clear_all.notify|1]: Usuń wszystko
+[clear_message.notify|1]: Wyczyść
+[climb_stairs.sport|1]: Wspinaj się po schodach
+[climbing.sport|1]: Wspinaczka górska
+[climbing_machine.sport|1]: Maszyna do wchodzenia po schodach
+[close.settings|1]: Zamknij
+[close.share|1]: Zamknij
+[close.sport|1]: Zamknij
+[close_28.settings|1]: Zamknij
+[close_ing.mute|1]: Otwarcie
+[close_reminder.sport|1]: Zamknij wszystkie przypomnienia
+[close_ring.mute|1]: Zamknij dzwonek
+[close_sedentary.act|1]: Czy na pewno chcesz zamknąć dzisiejsze stałe przypomnienie?
+[cnt.common|1]: razy
+[cnt/min.common|1]: razy / minutę
+[cnt/min.sport|1]: razy / minutę
+[collect_done.ecg|1]: Pomiar zakończony
+[color.wf|1]: kolor
+[common_sport.home|1]: Powszechne sporty
+[compass|1]: kompas
+[complete.reminder|1]: Pełna pozycja stojąca
+[complete_help.reminder|1]: Właściwa aktywność w pozycji stojącej jest dobra dla zdrowia
+[completed.todo|1]: Ukończono
+[completed32.todo|1]: Ukończono
+[confirm.common|1]: Potwierdź
+[confirm_phone.setupwizard|1]: Potwierdź parowanie na swoim telefonie \n
+[confirm_resquest.system|1]: Proszę potwierdzić żądanie parowania telefonu komórkowego
+[conn_retry.common|1]: Połącz się i spróbuj ponownie
+[conn_retry.find_phone|1]: Połącz się i spróbuj ponownie
+[conn_retry.phone|1]: Połącz się i spróbuj ponownie
+[conn_retry.remote_camera|1]: Połącz się i spróbuj ponownie
+[connect.ecg|1]: Połącz się z aplikacją Xiaomi Sports Health i wyświetl elektrokardiogram w „ Elektrokardiogramie ” . \nProszę pamiętać, że zegarek nie jest w stanie wykryć oznak zawału serca. W razie potrzeby należy natychmiast skontaktować się z profesjonalną placówką medyczną. \nJeśli źle się poczujesz, możesz dodać objawy do aplikacji , aby pomóc lekarzom w skuteczniejszej ocenie podczas interpretacji elektrokardiogramu.
+[connect_lost_content.alexa|1]: Połącz się z Mi Fitness i pozwól aplikacji działać w tle.
+[connect_lost_title.alexa|1]: Połącz się z aplikacją
+[connected.common|1]: 
+[connected.sport|1]: 
+[connection_failed.common|1]: Połączenie nie powiodło się
+[connection_failed.sport|1]: Połączenie nie powiodło się
+[connectknow.alarm|1]: Rozumiem
+[continue.common|1]: Kontynuuj
+[continue.temp|1]: Kontynuuj pomiar
+[core_training.sport|1]: Trening podstawowy
+[countdown|1]: odliczanie
+[course_introduce.sport|1]: Wprowadzenie do kursu
+[course_segment_activity_time.sport|1]: Czas aktywności
+[cricket.sport|1]: krykiet
+[cross_country.sport|1]: przełaj
+[cross_country_skiing.sport|1]: Narciarstwo biegowe
+[cross_fit.sport|1]: Trening przekrojowy
+[cs_lunar.calendar|1]: Koniec letnich upałów
+[curling.sport|1]: curling
+[current.breath|1]: Aktualne tętno
+[current.hr|1]: Aktualne tętno
+[custom.alarm|1]: niestandardowy
+[custom.common|1]: niestandardowe
+[custom.timer|1]: niestandardowy
+[customize.sport|1]: Dostosuj
+[cx_festival.calendar|1]: Sylwester
+[cy_festival.calendar|1]: Podwójna IX Festiwal
+[cycling_moto.sport|1]: BMX
+[dance.sport|1]: taniec
+[darts.sport|1]: Rzutki
+[data.wf|1]: komponent
+[data_explain.act|1]: Opis danych
+[data_overdue.weather|1]: Dane wygasły
+[data_record.watchface|1]: komponent
+[data_title.act|1]: Opis danych
+[date|1]: data
+[date_m%d%d%d%d.bp|1]: %1$d/%2$d %3$02d:%4$02d
+[date_y%d%d%d%d%d.bp|1]: %1$d/%2$d/%3$d %4$02d:%5$02d
+[day_after_tomorrow.wm|1]: Pojutrze
+[day_oxygen.settings|1]: Całodzienne monitorowanie poziomu tlenu we krwi
+[day_pressure.settings|1]: Całodzienne monitorowanie ciśnienia
+[deadlift.sport|1]: Martwy ciąg
+[deep.sleep|1]: głęboki sen
+[default_aod.settings|1]: Domyślny styl ekranu
+[default_aod.watchface|1]: Domyślny styl ekranu
+[del_all.common|1]: Usuń wszystko
+[del_tip.watchface|1]: Czy na pewno chcesz usunąć tę tarczę zegarka?
+[delay.calendar|1]: Później
+[delay.todo|1]: Później
+[delay_10m.common|1]: Przypomnienie po 10 minutach
+[delay_10m_agn.calendar|1]: Przypomnij ponownie po 10 minutach
+[delay_10m_agn.common|1]: Przypomnij ponownie po 10 minutach
+[delay_10m_agn.reminder|1]: Przypomnij ponownie po 10 minutach
+[delete.common|1]: Usuń
+[destretching.sport|1]: Destretching
+[detail.alipay|1]: Otwórz Alipay na swoim telefonie komórkowym i zapoznaj się z umową serwisową na stronie inteligentnego zegarka.
+[detail.calendar|1]: Szczegóły harmonogramu
+[detect_exercising.sport|1]: Wykryto, że ćwiczysz
+[detect_exp1.bp|1]: Wykrywanie poduszki powietrznej ...
+[detect_exp2.bp|1]: Przed pomiarem należy wykryć instalację poduszki powietrznej. 
+[detect_ok.bp|1]: Wykrywanie zakończone
+[device_name.common|1]: nazwa urządzenia
+[device_name.settings|1]: Nazwa urządzenia
+[device_type.common|1]: Model
+[device_type.settings|1]: Model
+[devices_conn.sport|1]: Urządzenia , które można podłączyć
+[dh_lunar.calendar|1]: Wielkie zimno
+[dia_e.bp|1]: ( rozkurczowe ciśnienie krwi )
+[dial.wf|1]: Skala
+[disconnect.common|1]: 
+[disconnect.sport|1]: 
+[disconnect_retry.common|1]: Bluetooth nie jest podłączony \ nPołącz Bluetooth i spróbuj ponownie
+[disp_reminder.settings|1]: Po włączeniu wyświetlania na ekranie spoczynkowym, najpierw zostanie użyty styl ekranu spoczynkowego tarczy zegarka. Jeśli nie ma wbudowanego stylu ,\nzostanie użyty domyślny styl ekranu spoczynkowego \n .
+[display.settings|1]: Wyświetlacz i jasność
+[display_on.sport|1]: Ekran jest zawsze włączony
+[display_title.settings|1]: Wyświetlacz i jasność
+[distance_calibration.sport|1]: Kalibracja dystansu
+[distance_group.sport|1]: Ta grupa (km)
+[distance_group_imp.sport|1]: Ta grupa (mile)
+[distance_remind.sport|1]: Przypomnienie o dystansie
+[distance_too_short.sport|1]: Dystans w tym ćwiczeniu jest \ nzbyt krótki i rekord nie zostanie zapisany \n .
+[distance_too_short_resume.sport|1]: Dystans tego ćwiczenia jest zbyt \ nkrótki i rekord nie zostanie zapisany \n Czy chcesz je zakończyć?
+[disturb.settings|1]: Tryb Nie przeszkadzać
+[disturb_disconn.settings|1]: Bluetooth został rozłączony
+[disturb_sync.settings|1]: Synchronizuj telefon komórkowy
+[disturb_sync_info.settings|1]: Po włączeniu stan Nie przeszkadzać telefonu i urządzenia zostanie ze sobą zsynchronizowany.
+[disturb_title.settings|1]: Tryb Nie przeszkadzać
+[dodgeball.sport|1]: zbijak
+[done.hour%02d:%02d:%02d|1]: minęło % 02d:%02d:%02d
+[done.min%02d:%02d|1]: Przeszło %02d:%02d
+[done.wxpay|1]: Gotowe
+[dont_shake1.oxygen|1]: Staraj się nie trząść
+[dont_shake2.oxygen|1]: Proszę, staraj się trzymać ręce nieruchomo
+[double_board_skiing.sport|1]: Narciarstwo
+[dragon_boat.sport|1]: Smocza łódź
+[draughts.sport|1]: Warcaby
+[driving.sport|1]: nurkowanie
+[ds_lunar.calendar|1]: Wielki upał
+[dsc_blood_oxygen.sport|1]: Nasycenie krwi tlenem
+[dsc_cadence.sport|1]: 
+[dsc_cadence_avg.sport|1]: Średnia kadencja ( kroki / minutę )
+[dsc_calorie.sport|1]: kilokalorie
+[dsc_change_time.sport|1]: Zmień czas trwania
+[dsc_distance_backward.sport|1]: Odległość wstecz ( km )
+[dsc_distance_backward_imp.sport|1]: Odległość wstecz ( mile )
+[dsc_distance_lead.sport|1]: Dystans na prowadzeniu ( km )
+[dsc_distance_lead_imp.sport|1]: Odległość wyprzedzenia ( mile )
+[dsc_elevation.sport|1]: Aktualna wysokość ( metry )
+[dsc_elevation_avg.sport|1]: Średnia wysokość ( metry )
+[dsc_elevation_gain.sport|1]: Łączna wysokość ( metry )
+[dsc_elevation_loss.sport|1]: Skumulowany spadek ( metry )
+[dsc_freq_avg.sport|1]: średnia częstotliwość ( sztuki / minutę )
+[dsc_front_pace.sport|1]: Tempo w przodzie
+[dsc_group.sport|1]: liczba grup
+[dsc_pace_avg.sport|1]: Średnie tempo
+[dsc_speed.sport|1]: Prędkość (km/h)
+[dsc_speed_avg.sport|1]: Średnia prędkość (km/h)
+[dsc_step_cnt.sport|1]: liczba kroków
+[dsc_trips.sport|1]: wycieczki
+[dumbbell_training.sport|1]: Trening z hantlami
+[duration_between.temp|1]: Noszenie go krócej niż 10 minut może mieć wpływ na dokładność danych. Zaleca się dokonanie pomiaru w późniejszym terminie.
+[duration_group.sport|1]: Czas trwania tej grupy
+[duration_less.temp|1]: Niemożliwy jest dokładny pomiar, jeśli nosi się go krócej niż 3 minuty. Zaleca się ponowny pomiar, jeśli nosi się go dłużej niż 10 minut .
+[dx_lunar.calendar|1]: Obfite opady śniegu
+[dy_festival.calendar|1]: Festiwal Smoczych Łodzi
+[dz_lunar.calendar|1]: Przesilenie zimowe
+[easy_pregnancy.wm|1]: Łatwy okres ciąży
+[easypregnancy_in%d.wm|2]: Dzień %d łatwego okresu ciąży | Dzień %d łatwego okresu ciąży
+[easypregnancy_out%d.wm|2]: %d dni po łatwym okresie ciąży |%d dni po łatwym okresie ciąży
+[edit.common|1]: Edytuj
+[edit_widgets.home|1]: Edytuj komponenty
+[editalarm.alarm|1]: Ustawienia
+[effect_level1.sport|1]: Ilość śledzenia
+[effect_level2.sport|1]: Przywróć
+[effect_level3.sport|1]: Utrzymaj
+[effect_level4.sport|1]: poprawa
+[effect_level5.sport|1]: Poprawa
+[effect_level6.sport|1]: Nadmierne
+[effect_of_anaerobic_training.sport|1]: Efekt treningu beztlenowego
+[effectiveStand|1]: Stój skutecznie
+[electronic_sports.sport|1]: Sporty elektroniczne
+[elevation_avg_imp.sport|1]: Średnia wysokość ( stopy )
+[elevation_gain_imp.sport|1]: Łączna wysokość ( stopy )
+[elevation_imp.sport|1]: Aktualna wysokość ( stopy )
+[elevation_loss_imp.sport|1]: Skumulowana strata ( w stopach )
+[eleven_month_lunar.calendar|1]: Miesiąc zimowy
+[elliptical_machine.sport|1]: Maszyna eliptyczna
+[empty_message.phone|1]: Włącz zezwolenie na odpowiadanie na SMS \n w aplikacji „ Przypomnienie o połączeniu \n ” .
+[empty_record.sport|1]: Nie ma jeszcze żadnych rekordów sportowych
+[empty_tips.phone|1]: Nie ma jeszcze żadnych zapisów połączeń
+[enable_again.wxpay|1]: Włącz ponownie
+[enable_again_tips.wxpay|1]: Aby zapewnić bezpieczeństwo, zeskanuj kod QR na WeChat, aby go ponownie włączyć.
+[enable_sleep_mode.reminder|1]: Aktualnie w trybie uśpienia tryb Nie przeszkadzać został dla Ciebie włączony i wyłączony poprzez podniesienie nadgarstka, aby zapalić ekran.
+[enabled.wxpay|1]: Włączone
+[enabling.wxpay|1]: Włącz, wykonaj operację na swoim telefonie komórkowym.
+[end.common|1]: Koniec
+[end.find_phone|1]: Znajdź koniec
+[end.settings|1]: Koniec
+[end.sport|1]: Koniec
+[end.timer|1]: Czas minął
+[end_time.settings|1]: Czas zakończenia
+[energy|1]: energia
+[energy.sport|1]: Zaopatrzenie w energię
+[energy_distance.sport|1]: według dystansu
+[energy_time.sport|1]: Według czasu trwania
+[enter_pwd.nfc|1]: Wprowadź hasło
+[ephemeris_expired.sport|1]: Aktualizacja danych o pozycji
+[ephemeris_expired_tips.sport|1]: Dane efemeryd wygasły i prędkość pozycjonowania może zostać spowolniona. Połączenie z telefonem komórkowym może automatycznie zaktualizować efemerydy \n .
+[equesttrian.sport|1]: Jeździectwo
+[err.aivs|1]: Sieć jest niedostępna, sprawdź stan sieci komórkowej
+[erst.nfc|1]: Nieprawidłowy stan
+[estimate.settings|1]: Szacowana żywotność baterii
+[estimate_content.settings|1]: Dostępny czas jest szacowany na podstawie danych laboratoryjnych i ma charakter wyłącznie informacyjny. Rzeczywisty czas zależy od typowych czynników, takich jak nawyki użytkowania.
+[every_day.alarm|1]: Codziennie
+[every_day.todo|1]: Każdego dnia
+[every_month.todo|1]: Co miesiąc
+[every_week.todo|1]: Co tydzień
+[every_year.todo|1]: Co roku
+[executive_fail.mihome|1]: Wykonanie scenariusza nie powiodło się
+[exhale.breath|1]: Wydech
+[exit.alipay|1]: Wiązanie nie zostało obecnie ukończone . Przy następnym wejściu musisz zeskanować kod QR, aby powiązać ponownie.
+[exit.wxpay|1]: Wyjdź
+[exit_btn.alexa|1]: Rozumiem
+[exit_cancel.wxpay|1]: Jeszcze nie wychodź
+[exit_confirm.alipay|1]: Kontynuuj wychodzenie
+[exit_sign.check_tool|1]: Przełącz do trybu użytkownika po 3 sekundach
+[exit_tip.wxpay|1]: Trwa otwieranie płatności WeChat, czy na pewno chcesz wyjść?
+[exp.hr|1]: Opis tętna
+[exp.oxygen|1]: Opis
+[exp.vitality|1]: Opis
+[exp1.temp|1]: Temperatura skóry odnosi się do temperatury skóry ciała badanego. Temperatura skóry w różnych częściach ciała człowieka jest różna i znacząco wpływa na nią środowisko, warunki fizjologiczne itp. \nTemperatura skóry mierzona przez to urządzenie to całkowita temperatura skóry ciała oszacowana na podstawie lokalnej temperatury powierzchni skóry, z którą kontaktuje się wbudowany czujnik zegarka. Zakres pomiaru wynosi 34–42 ℃ . \nProszę pamiętać, że ten produkt nie jest wyrobem medycznym. Wyniki pomiarów służą wyłącznie celom informacyjnym i nie służą celom medycznym.
+[exp1_n60.temp|1]: Temperatura skóry odnosi się do temperatury skóry ciała badanego. Temperatura skóry w różnych częściach ciała człowieka jest różna i znacząco wpływa na nią środowisko, warunki fizjologiczne itp. \nTemperatura skóry mierzona przez to urządzenie to całkowita temperatura skóry ciała oszacowana na podstawie lokalnej temperatury powierzchni skóry, z którą kontaktuje się wbudowany czujnik zegarka. Zakres pomiaru wynosi 34–42 ℃ . \nNależy pamiętać, że wyniki pomiarów tego produktu służą wyłącznie celom informacyjnym i nie służą celom medycznym.
+[exp2.temp|1]: Zegarek rejestruje temperaturę za pomocą czujnika wykrywającego temperaturę. Czynniki takie jak długość noszenia urządzenia i temperatura otoczenia wpływają na dokładność danych. Prosimy o przestrzeganie następujących środków ostrożności dotyczących prawidłowe użytkowanie w celu ograniczenia błędów: \n 1. Pamiętaj, aby nosić to urządzenie dłużej niż 10 minut . \n 2. Spróbuj dokonać pomiaru w temperaturze pokojowej ( około 25 °C ) . \n 3. Zegarek i nadgarstek powinny być suche. W przypadku zabrudzeń z potu lub wody należy je najpierw wytrzeć do sucha. \n 4. Używanie aplikacji o dużej mocy i ładowanie może spowodować nagrzanie korpusu zegarka. Przed dokonaniem pomiarów należy poczekać, aż korpus zegarka powróci do normalnej temperatury.
+[exp_desc1.vitality|1]: Wartość witalności może być wykorzystana do oceny pozytywnego wpływu czynności osobistych na zdrowie \n Gdy skumulowana wartość witalności w ciągu ostatnich 7 dni osiągnie 100 , oznacza to znaczną poprawę zdrowia.
+[exp_desc2.vitality|1]: Wartość witalności odnosi się do zaleceń dotyczących aktywności zawartych w „Wytycznych WHO dotyczących aktywności fizycznej i siedzącego trybu życia”: \nDorośli powinni angażować się w co najmniej 150–300 minut ćwiczeń aerobowych o umiarkowanej \n intensywności tygodniowo lub co najmniej 75–150 minut intensywnych ćwiczeń aerobowych lub taka sama ilość kombinacji ćwiczeń o umiarkowanej i dużej intensywności, aby uzyskać ogromne korzyści zdrowotne. \nJednocześnie lepsza jest niewielka aktywność fizyczna niż brak aktywności. Spędzanie pierwotnego czasu siedzącego trybu życia na aktywności fizycznej o dowolnej intensywności, w tym o niskiej intensywności, może przynieść korzyści zdrowotne.
+[exp_title.oxygen|1]: Opis nasycenia krwi tlenem
+[experien.setupwizard|1]: Doświadcz teraz
+[expired.todo|1]: 
+[explain_title.settings|1]: Wyjaśnienie
+[extreme.common|1]: ekstremalny
+[extreme_zone.hr|1]: Strefa ekstremalna :
+[extreme_zone1.hr|1]: Maksymalne tętno x ( 91% - 100% ), odpowiednie do treningu mocy wybuchowej. W tym czasie głównym źródłem energii jest metabolizm beztlenowy, kwas mlekowy szybko się gromadzi \n i łatwo go doznać kontuzji podczas ćwiczeń .
+[extremity.sport|1]: Ekstremalne
+[fail_exp1.bp|1]: Wykryto nieregularne bicie serca. Odpocznij 1-2 minuty przed ponownym pomiarem. Jeśli ten komunikat pojawi się kilka razy lub poczujesz się niekomfortowo, skontaktuj się z lekarzem na czas.
+[fail_exp1.ecg|1]: Proszę założyć zegarek i trzymać palce w kontakcie z dolnymi przyciskami.
+[fail_exp2.bp|1]: Proszę pozostać w pozycji siedzącej i unikać mówienia, poruszania ramionami i poruszania palcami.
+[fail_exp2.ecg|1]: Twój nadgarstek mocno się trzęsie . Połóż palce na dolnych przyciskach i staraj się je trzymać nieruchomo.
+[fail_exp3.bp|1]: Proszę sprawdzić szczelność poduszki powietrznej i szczelność zużycia, wyregulować kąt zużycia i ponownie zmierzyć.
+[fail_exp3.ecg|1]: Nieznana przyczyna
+[fail_exp4.bp|1]: Proszę sprawdzić szczelność, wyregulować opaskę i zmierzyć ponownie.
+[fail_exp4.ecg|1]: Proszę lekko dotknąć przycisku i nie naciskać mocno elektrody.
+[fail_exp5.bp|1]: Nieprawidłowe ciśnienie , spróbuj ponownie.
+[fail_exp5.ecg|1]: Jakość sygnału jest słaba. Sprawdź, czy dolny przycisk nie jest zabrudzony i trzymaj palce w stałym kontakcie z dolnym przyciskiem.
+[fail_exp6.bp|1]: Przekroczono limit czasu pomiaru, spróbuj ponownie.
+[fail_fit.health|1]: Pomiar nie powiódł się, proszę zapewnić wygodne dopasowanie bransoletki i nadgarstka
+[fail_stay_still.health|1]: Pomiar nie powiódł się, spróbuj utrzymać ramię nieruchomo
+[fail_timeout.health|1]: Przekroczono limit czasu pomiaru, spróbuj ponownie
+[fail_wear.health|1]: Pomiar nie powiódł się, proszę prawidłowo nosić bransoletkę
+[failed.alipay|1]: Powiązanie nie powiodło się
+[fancy_swimming.sport|1]: Pływanie synchroniczne
+[fast.sport|1]: najszybszy
+[fat_burning.sport|1]: spalanie tłuszczu
+[fat_burning_interval.sport|1]: Interwał spalania tłuszczu
+[fencing.sport|1]: szermierka
+[fight.sport|1]: walka
+[find_wear.reminder|1]: Wyszukiwanie sprzętu ...
+[finish.breath|1]: Skończono
+[finish.common|1]: Zakończono
+[finish_course_great.sport|1]: Gratulacje! Kurs biegowy ukończony
+[finish_tips.nfc|1]: Sprawdź status płatności w zapisie transakcji w aplikacji
+[first_edit_tips1.watchface|1]: Za chwilę rozpoczniesz edycję tarczy zegarka \nPo zakończeniu edycji kliknij Potwierdź \n , aby zastosować tarczę zegarka.
+[first_mile_speed.sport|1]: Prędkość poprzedniego kilometra
+[first_month_lunar.calendar|1]: pierwszy miesiąc
+[fishing.sport|1]: Wędkarstwo
+[flashlight.appname|1]: Latarka
+[flexibility_training.sport|1]: Trening elastyczności
+[fly_kite.sport|1]: Puść latawiec
+[focus_time.tomatotimer|1]: Czas skupienia
+[focus_time_out.tomatotimer|1]: Czas skupienia dobiegł końca
+[focus_total.tomatotimer|1]: Całkowite skupienie
+[focus_total_pause.tomatotimer|1]: Całkowite skupienie
+[focusing.tomatotimer|1]: Ustawianie ostrości
+[foosball.sport|1]: Stół do piłkarzyków
+[football.sport|1]: piłka nożna
+[foredailyhead.weather|1]: Przyszła pogoda
+[forget_pwd.common|1]: Zapomniałeś hasła?
+[forget_pwd_tips.common|1]: Jeśli zapomnisz hasła, otwórz aplikację i zresetuj hasło w ustawieniach „ Hasło urządzenia \nHasło ” .
+[free_sparring.sport|1]: Dowolna walka
+[free_stage.sport|1]: Etap bezpłatnej aktywności
+[free_training.sport|1]: Zajęcia bezpłatne
+[freestyle.sport|1]: freestyle
+[frequency.breath|1]: razy / minutę
+[frequency.sport|1]: częstotliwość
+[frisbee.sport|1]: Frisbee
+[fsn_info.check_tool|1]: Numer FSN :
+[full_hour.common|1]: godzina
+[full_hour.settings|1]: Godzina
+[full_hour.timer|1]: godzina
+[full_min.common|1]: minuty
+[full_min.settings|1]: minuty
+[full_min.timer|1]: minuty
+[functional_training.sport|1]: Trening funkcjonalny
+[fw_ver.common|1]: numer wersji
+[fw_ver.settings|1]: numer wersji
+[gas_leak.bp|1]: Błąd napełniania gazem 
+[gas_leak_exp.bp|1]: Proszę sprawdzić szczelność i szczelność poduszki powietrznej oraz prawidłowo ją założyć.
+[gateball.sport|1]: Bramka
+[gesture.settings|1]: Gesty skrótów
+[gesture_course.settings|1]: Samouczek dotyczący gestów
+[gesture_explain.settings|1]: Wyjaśnienie gestów
+[gesture_explain_title.settings|1]: Wyjaśnienie gestów
+[gesture_info.settings|1]: Dzięki niestandardowym gestom można wykonać określone operacje w określonych scenariuszach \n . Gesty są blokowane w trybie uśpienia .
+[gesture_info_lab1.settings|1]: 1. Każdy gest może ustawić tylko jedną funkcję
+[gesture_info_lab2.settings|1]: 2. Funkcje związane z połączeniami przychodzącymi / wiadomościami działają tylko na stronie przypomnienia o połączeniach przychodzących / wiadomościach
+[gesture_info_lab3.settings|1]: 3. Funkcja otwarcia aplikacji będzie działać tylko wtedy, gdy włączony jest ekran głównego wybierania.
+[gesture_info_lab4.settings|1]: 4. Tryb uśpienia / Nie przeszkadzać / Tryb oszczędzania energii / Strona zegarka AOD lub nie reaguje na gesty po wykryciu snu
+[gesture_info_lab5.settings|1]: 5. Proszę unikać wykonywania podobnych gestów w codziennych czynnościach , ponieważ może to powodować fałszywe wyzwalacze
+[gesture_open_info.settings|1]: Aby poprawić wrażenia, zaleca się włączenie podnoszenia nadgarstka w celu jednoczesnego podświetlenia ekranu. Po włączeniu żywotność baterii urządzenia zostanie poważnie zmniejszona. Czy jesteś na pewno włączyłeś podnoszenie nadgarstka w celu podświetlenia ekranu i skróty gestów?
+[gesture_operate.settings|1]: Obsługa gestami
+[gesture_select1.settings|1]: Wyświetl wiadomości
+[gesture_select1_28.settings|1]: Wyświetl wiadomości
+[gesture_select2.settings|1]: Ignoruj połączenia / wiadomości
+[gesture_select2_28.settings|1]: Ignoruj połączenia / wiadomości
+[gesture_select3.settings|1]: Odrzucaj połączenia
+[gesture_select3_28.settings|1]: Odrzucaj połączenia
+[gesture_select4.settings|1]: Otwórz płatność WeChat
+[gesture_select4_28.settings|1]: Otwórz płatność WeChat
+[gesture_select5.settings|1]: Otwórz płatność Alipay
+[gesture_select5_28.settings|1]: Otwórz płatność Alipay
+[gesture_select6.settings|1]: Otwórz asystenta głosowego
+[gesture_select6_28.settings|1]: Włącz asystenta głosowego
+[gesture_select7.settings|1]: Otwórz aplikację pogodową
+[gesture_select7_28.settings|1]: Otwórz aplikację pogodową
+[gesture_set.settings|1]: Ustawienia gestów
+[gesture_title.settings|1]: Gesty skrótów
+[get_fail.mihome|1]: Nie udało się uzyskać, spróbuj ponownie
+[get_information_tips.wxpay|1]: Gdy płatność WeChat jest włączona , bransoletka będzie przesyłać informacje o adresie Bluetooth i modelu urządzenia \n do WeChat .
+[getting_songs.media|1]: Pobieranie utworu \ ninformacji ...
+[getting_songs_w.media|1]: Pobieranie informacji o utworze ...
+[gnss_num.check_tool|1]: Liczba satelitów :
+[gnss_sign.check_tool|1]: Przetestuj w środowisku pozycjonowania satelitarnego na zewnątrz / wewnątrz
+[gnss_snr.check_tool|1]: Wartość SNR :
+[gnss_test.check_tool|1]: Wykrywanie pozycji (2/14)
+[go_to_the_app_side_to_check.sport|1]: Aby uzyskać więcej rekordów, zsynchronizuj dane i przejdź do aplikacji , aby wyświetlić
+[go_turnon.common|1]: Przejdź, aby włączyć
+[golf.sport|1]: piłeczka golfowa
+[good_keep.health|1]: Nieźle , tak trzymaj!
+[goto_bind.alipay|1]: Przejdź do wiązania
+[goto_distance_calibration.sport|1]: Przejdź do kalibracji
+[goto_end.bp|1]: Przejdź do końca
+[goto_miwear_app.sport|1]: Przejdź do aplikacji Xiaomi Sports Health , aby wyświetlić więcej danych
+[goto_set.settings|1]: Przejdź do ustawień
+[goto_watchface.settings|1]: Funkcja otwierania aplikacji działa tylko wtedy, gdy główna tarcza zegarka jest włączona. Teraz możesz spróbować wrócić do głównej tarczy zegarka za pomocą gestów.
+[group_callisthenic.sport|1]: Gimnastyka grupowa
+[group_number%d.sport|2]: Grupa %d | Grupa % d
+[group_number.sport|1]: Całkowita liczba grup
+[group_reset.sport|1]: Odpoczynek pomiędzy grupami
+[guidance_exp1.bp|1]: Stopy należy trzymać płasko, jak pokazano na rysunku, i unikać ich krzyżowania.
+[gy_lunar.calendar|1]: Guyu
+[gym.sport|1]: Fitness w pomieszczeniu
+[gymnastics.sport|1]: Gimnastyka
+[gyro_test.check_tool|1]: Test żyroskopu (4/14)
+[hand_info.settings|1]: Spróbuj szybko obrócić nadgarstek na zewnątrz o 90\n stopni, a następnie szybko obróć nadgarstek do wewnątrz i wróć, czekając na wynik rozpoznania, należy go rozpoznać pomyślnie 2 razy
+[handball.sport|1]: Piłka ręczna
+[handwrist_info1.settings|1]: Przedramię jest równoległe do klatki piersiowej
+[handwrist_info2.settings|1]: Dłoń w dół, ekran w górę
+[handwrist_info3.settings|1]: Szybko obróć o 90 stopni na zewnątrz
+[handwrist_info4.settings|1]: Szybko odwróć się do wewnątrz i wróć
+[has_done%d.breath|1]: Ukończono %d minut treningu oddechowego
+[have_beat.hr|1]: Występuje nieprawidłowe bicie serca
+[have_high.hr|1]: Mają wysokie tętno
+[have_low.hr|1]: Masz niskie tętno
+[heartRate|1]: Tętno
+[heart_health.settings|1]: Monitorowanie stanu serca
+[heartrate_high.sport|1]: Tętno za wysokie
+[heartset.vitality|1]: Skonfiguruj całodobowe monitorowanie tętna
+[heartset_desc.vitality|1]: Wartość witalności jest obliczana na podstawie uzyskanego tętna i stanu ćwiczeń. Zwiększenie częstotliwości monitorowania tętna może zwiększyć dokładność obliczania wartości witalności.
+[heel_and_toe.sport|1]: chodzenie wyścigowe
+[help.alipay|1]: Użyj Alipay, aby zeskanować kod QR i uzyskać pomoc
+[hgrmbox.hr|1]: Po włączeniu tętno będzie monitorowane w czasie rzeczywistym i rejestrowane będą dane o nieprawidłowym biciu serca , co poważnie wpłynie na żywotność baterii . Czy na pewno to włączyć?
+[high.hr|1]: Nadmierne tętno
+[high_interval_training.sport|1]: Trening interwałowy o wysokiej intensywności
+[high_warning.hr|1]: Przypomnienie o wysokim tętnie
+[high_warning1.hr|1]: Po włączeniu przypomni Ci, gdy tętno w stanie cichym będzie wyższe niż ustawiona wartość tętna.
+[highest.sport|1]: najwyższy
+[highexp.hr|1]: Opis nadmiernego tętna
+[highexp1.hr|1]: Urządzenie stale monitoruje tętno. Jeżeli w stanie cichym okaże się, że tętno jest stale wyższe od ustawionej wartości, zostanie to zarejestrowane jako nadmierne \n tętno . Może to być spowodowane nerwowością, podekscytowaniem , nadmiernym spożyciem kofeiny, przeziębieniem itp . W tym momencie nie musisz się zbytnio martwić, jeśli jednak objawy takie jak kołatanie serca, ucisk w klatce piersiowej , zawroty głowy itp. występują jednocześnie , prosimy o terminowe zasięgnięcie porady lekarza.Instytucja \nNiezwłocznie skonsultuj się z placówką medyczną.
+[highexp2.hr|1]: Ten produkt nie jest wyrobem medycznym. Jego zadaniem jest pomóc Ci zrozumieć zdrowie Twojego serca . Dostarczona dokumentacja ma wyłącznie charakter poglądowy i nie służy jako podstawa do diagnozy i leczenia .
+[highexp3.hr|1]: Urządzenie wyświetla tylko trzy najnowsze dane dotyczące wysokiego tętna. Przejdź do aplikacji , aby wyświetlić więcej informacji .
+[hightime.vitality|1]: Większa intensywność
+[hihi_ball.sport|1]: Piłka Pui alai
+[hiking_outdoor.sport|1]: Wędrówka
+[hint.alarm|1]: Nie ma jeszcze budzika
+[hint.ecg|1]: Połóż palec na dolnym przycisku i przytrzymaj go nieruchomo
+[hint1.bp|1]: Przed pomiarem należy odpocząć dłużej niż 5 minut
+[hint_text.tomatotimer|1]: Aby zapewnić efekt skupienia, podczas użytkowania automatycznie włącza się tryb Nie przeszkadzać.
+[hip_hop_dance.sport|1]: Taniec hip-hopowy
+[hl_lunar.calendar|1]: Zimna rosa
+[hockey.sport|1]: Hokej
+[hold.sport|1]: Proszę poczekać
+[hold_it.settings|1]: Gratulacje, udało ci się to opanować!
+[holiday.alarm|1]: Święta
+[holiday.common|1]: Święta
+[holiday.todo|1]: Wakacje
+[holidayprmt_main.alarm|1]: Połącz się z aplikacją , aby zaktualizować informacje o wakacjach
+[holidayprmt_main.common|1]: Połącz się z aplikacją , aby zaktualizować święta
+[holidayprmt_sub.alarm|1]: Przed połączeniem Aplikacji święta domyślnie przypadają na sobotę i niedzielę.
+[holidayprmt_sub.common|1]: Przed podłączeniem aplikacji święta domyślnie przypadają na sobotę i niedzielę
+[horse_riding.sport|1]: jazda konna
+[hour.common|1]: godzina
+[hour.sleep|2]: godzina | godzina
+[hour.sport|1]: godzina
+[hour_allday.sleep|2]: godzina | godzina
+[how_get.training|1]: Jak zdobyć?
+[hp.bp|1]: Wysokie ciśnienie
+[hr_current%s.sport|1]: Aktualne tętno ( %s )
+[hr_exp.hr|1]: Tętno to liczba uderzeń serca na minutę ( bpm ), która jest ważnym wskaźnikiem stanu układu krążenia . \nTętno dorosłych w stanie spoczynku (tętno spoczynkowe) wynosi zwykle 55–80 uderzeń na minutę i może różnić się u poszczególnych osób ze względu na wiek , płeć, poziom sprawności lub inne czynniki fizjologiczne. \nUwaga : zakres pomiarowy tego sprzętu wynosi 30-240 razy / min.
+[hr_recommend%s.sport|1]: Zalecane tętno ( %s )
+[hr_recommend.sport|1]: Zalecane tętno
+[hula_hoop.sport|1]: Hula-hop
+[humdes.weather|1]: wilgotność względna
+[humidity|1]: Wilgotność
+[hydration.sport|1]: Czas uzupełnić wodę
+[i_clear.weather|1]: bezchmurnie
+[i_fog.weather|1]: mgła
+[i_hail.weather|1]: Witaj
+[i_haze.weather|1]: Mgła
+[i_hrain.weather|1]: Ulewny deszcz
+[i_hsnow.weather|1]: Obfite opady śniegu
+[i_know.common|1]: Wiem
+[i_mrain.weather|1]: Umiarkowany deszcz
+[i_msnow.weather|1]: Umiarkowany śnieg
+[i_native.weather|1]: Pochmurny dzień
+[i_nclear.weather|1]: Wanqing
+[i_nfog.weather|1]: Mglista noc
+[i_nnative.weather|1]: Pochmurna noc
+[i_npcloudy.weather|1]: Pochmurna noc
+[i_pcloudy.weather|1]: Pochmurno
+[i_rainsnow.weather|1]: deszcz ze śniegiem
+[i_srain.weather|1]: słaby deszcz
+[i_ssnow.weather|1]: Xiaoxue
+[i_storm.weather|1]: Burza piaskowa
+[i_thunder.weather|1]: Burza z piorunami
+[idle_alerm.alexa|1]: Jaki dzisiaj jest dzień?
+[idle_alerm2.alexa|1]: Ustaw alarm
+[idle_try_to_say.alexa|1]: Spróbuj powiedzieć
+[idle_weather.alexa|1]: Jaka jest pogoda?
+[ignore.common|1]: ignoruj
+[ignore.health|1]: zignoruj
+[ignore.hr|1]: Zignoruj tym razem
+[ignore.oxygen|1]: Zignoruj ten czas
+[ignore.pressure|1]: Zignoruj tym razem
+[ill_btn.oxygen|1]: Opis
+[ill_btn.pressure|1]: Opis
+[ill_btn.sleep|1]: Opis
+[ill_title.pressure|1]: Opis ciśnienia
+[ill_title.sleep|1]: Instrukcje dotyczące snu
+[in_charing.temp|1]: Zaraz po naładowaniu wykryto, że temperatura korpusu zegarka jest zbyt wysoka. Zaleca się ponowne wykonanie testu po 15 minutach .
+[in_quiet_mode.system|1]: Tryb Nie przeszkadzać jest włączony
+[inacticated_content.alexa|1]: Skonfiguruj Amazon Alexa w Mi Fitness i zsynchronizuj się ze swoim urządzeniem.
+[inactivated_title.alexa|1]: Aktywuj Alexę
+[indexhead.weather|1]: Indeks pogody
+[indoor_football.sport|1]: Piłka nożna halowa
+[indoor_skating.sport|1]: Jazda na łyżwach w hali
+[info.tomatotimer|1]: Opis
+[inhale.breath|1]: Wdech
+[inout_wirst.settings|1]: Obróć nadgarstek na zewnątrz i do wewnątrz
+[input.settings|1]: Wprowadź informacje
+[input_key.system|1]: Proszę wprowadzić klucz
+[input_new_pwd.settings|1]: Wprowadź nowe hasło
+[input_pwd.settings|1]: Wprowadź aktualne hasło
+[input_pwd_num.settings|1]: Wprowadź hasło
+[inte_reach.act|1]: Osiągnięto cel o średniej lub wysokiej intensywności
+[intel_prediction.wm|1]: Inteligentne przewidywanie
+[intelligence.settings|1]: Inteligentnie włączone
+[intelligence_28.settings|1]: Inteligentnie włączone
+[intelligent.hr|1]: Inteligentny monitoring
+[intensity|1]: czas trwania aktywności
+[intensity.act|1]: Aktywność o intensywności od umiarkowanej do wysokiej
+[intensity.explain|1]: Gdy tętno osiągnie 65% maksymalnego tętna lub kadencja osiągnie 100 uderzeń /min podczas ćwiczeń , zostanie to zarejestrowane jako czas trwania aktywności o średniej do wysokiej intensywności. 30-60 minut ćwiczeń o umiarkowanej intensywności każdego dnia (co najmniej 150 minut tygodniowo ) lub 20-60 minut ćwiczeń o większej intensywności każdego dnia (co najmniej 75 minut tygodniowo ) może skutecznie poprawić Twoje zdrowie.
+[intensity_title.explain|1]: Aktywność o intensywności od umiarkowanej do wysokiej
+[intensity_unit.common|2]: minuty | minuty
+[intensive.common|1]: spalanie tłuszczu
+[inter_training_name.sport|1]: Trening interwałowy
+[interval_train_confirm.sport|1]: Wyznaczyłeś cel sportowy. Jeśli włączysz trening interwałowy, ustawienie celu zostanie zamknięte. Czy na pewno chcesz włączyć trening interwałowy?
+[interval_training.sport|1]: Trening interwałowy
+[interval_training_warmup.sport|1]: Rozgrzewka
+[introduce_reminder_distance.sport|1]: Podczas ćwiczeń wysyłaj przypomnienia w określonych odstępach czasu.
+[introduce_reminder_hrzone.sport|1]: Przypomnij, kiedy tętno znajduje się w strefie docelowej, jest blisko niej lub przekracza ją .
+[introduce_reminder_pace.sport|1]: Przypomnij, gdy tempo jest stale niższe lub wyższe od ustawionego tempa.
+[introduce_reminder_speed.sport|1]: Przypomnij, gdy prędkość jest stale niższa lub wyższa od ustawionej prędkości.
+[issue.nfc|1]: Urządzenie otwiera kartę ...
+[jazz.sport|1]: taniec jazzowy
+[jog.sport|1]: bieganie
+[judo.sport|1]: judo
+[jujitsu.sport|1]: 
+[jump.sport|1]: pomiń
+[just.common|1]: Właśnie teraz
+[just.health|1]: po prostu
+[just_now.pressure|1]: właśnie teraz
+[jz_lunar.calendar|1]: Jingzhe
+[karate.sport|1]: karate
+[kayak_rafting.sport|1]: Spływ kajakowy
+[keep.bp|1]: Proszę pozostać nieruchomym podczas pomiaru
+[keep.ecg|1]: Proszę, nie ruszaj się
+[keep.hr|1]: Proszę, nie ruszaj się
+[keep_on.sport|1]: Ruszaj się dalej
+[keep_waiting.sport|1]: Czekaj dalej
+[key_wrong.system|1]: Błąd klucza
+[kite_surfing.sport|1]: Kitesurfing
+[km/hr.sport|1]: kilometry / godzinę
+[km_h.sport|1]: kilometry / godz
+[km_per_hr.sport|1]: km / godz
+[know.act|1]: Rozumiem
+[know.common|1]: Rozumiem
+[know.find_phone|1]: Rozumiem
+[know.ota|1]: Rozumiem
+[know.phone|1]: Rozumiem
+[know.reminder|1]: Rozumiem
+[know.setupwizard|1]: Rozumiem
+[know.sport|1]: Rozumiem
+[know.vitality|1]: Rozumiem
+[know.wm|1]: Rozumiem
+[kpa.bp|1]: Kilopaskale
+[later.alarm|1]: Później
+[latin_dance.sport|1]: Taniec latynoamerykański
+[layout.settings|1]: Układ aplikacji
+[layout_grid.settings|1]: Układ wielu kolumn
+[layout_list.settings|1]: Układ listy
+[layout_title.settings|1]: Układ aplikacji
+[lb_festival.calendar|1]: Festiwal Łaba
+[lc_lunar.calendar|1]: Początek wiosny
+[lcd_sign.check_tool|1]: Sprawdź, czy w poniższym interfejsie występują ciemne plamy, nieprawidłowe kolory i inne nieprawidłowości, a następnie kliknij ekran, aby wyświetlić okno
+[lcd_test.check_tool|1]: Test ekranu (10/14)
+[ld_lunar.calendar|1]: Początek zimy
+[left.ecg|1]: Noś na lewej ręce
+[leisure_sports.sport|1]: Sporty rekreacyjne
+[let_start.breath|1]: Zaczynamy
+[level1.training|1]: Nowicjusz
+[level2.training|1]: Pierwsze kroki
+[level3.training|1]: Ogólne
+[level4.training|1]: Średni
+[level5.training|1]: Dobrze
+[level6.training|1]: Znakomicie
+[level7.training|1]: Znakomity
+[level_dsc.training|1]: poziom
+[light.common|1]: Rozgrzewka
+[light.sleep|1]: Lekki sen
+[light_scrren.settings|1]: Jasny ekran powiadomień
+[light_scrren_toast.settings|1]: Urządzenie automatycznie podświetla ekran w momencie otrzymania wiadomości.
+[light_test.check_tool|1]: Wykrywanie czujnika światła (7/14)
+[light_test_sign.check_tool|1]: Zasłoń ekran, aby kontynuować testowanie \n
+[light_value.check_tool|1]: Wartość czułości na światło :
+[limit_interval.sport|1]: Limit interwału
+[list_name.oxygen|1]: tlen we krwi
+[listening.alexa|1]: Słucham…
+[load.sport|1]: Ładowanie ...
+[load.training|1]: Obciążenie treningowe
+[load_explain.training|1]: Urządzenie obliczy odpowiedni wynik obciążenia treningowego na podstawie impulsu treningowego ( TRIMP ) każdego ćwiczenia , aby ocenić objętość ćwiczeń. Możesz dostosować harmonogram kolejnych ćwiczeń, korzystając z sugestii dotyczących interwałów punktacji.
+[load_explain_more.training|1]: ( Więcej wyjaśnień na temat obciążenia treningowego można znaleźć w pomocy aplikacji )
+[lock_over.settings|1]: Nie można odebrać powiadomienia o wiadomości ,\ nSprawdź status przełącznika lub rozwiązanie w aplikacji Xiaomi Sports Health – Powiadomienie o wiadomości .
+[lock_screen_notice.settings|1]: Powiadamiaj tylko wtedy, gdy telefon jest zablokowany
+[lock_screen_notice_toast.settings|1]: Podczas korzystania z telefonu komórkowego bransoletka nie będzie otrzymywać powiadomień o wiadomościach z telefonu komórkowego.
+[loding.mihome|1]: Ładowanie , proszę czekać.
+[login_wx.wxpay|1]: Zaloguj się do WeChat
+[login_wx_tips.wxpay|1]: Płatność WeChat została zaktualizowana do aplikacji WeChat . Zaloguj się ponownie na swoje konto WeChat, aby włączyć funkcję płatności.
+[long.sleep|1]: długi sen
+[long_endurance_info.settings|1]: Po włączeniu trybu oszczędzania energii zachowane zostaną tylko funkcje czasu, liczenia kroków i NFC . Naciśnij długo ekran lub naładuj, aby wyjść z tej funkcji. Czy na pewno to włączyć?
+[long_press_stop.sport|1]: Długie naciśnięcie powoduje zakończenie ćwiczenia
+[longpress.settings|1]: Długie naciśnięcie pokrętła
+[longpress_lab.settings|1]: Po włączeniu naciśnij długo, aby edytować, aby wejść do edycji pokrętła.
+[look_exp.bp|1]: Wyświetl instrukcje dotyczące pomiarów
+[low.hr|1]: Zbyt niskie tętno
+[low_balance.nfc|1]: Niskie saldo , proszę doładować
+[low_battery.bp|1]: Słaba bateria
+[low_battery_exp.bp|1]: Pomiar ciśnienia krwi jest obecnie niedostępny , naładuj powyżej 5% i spróbuj ponownie.
+[low_btn.oxygen|1]: Zbyt niski poziom tlenu we krwi
+[low_exp1.oxygen|1]: Gdy trzy razy z rzędu zostanie wykryte, że nasycenie krwi tlenem jest niższe niż ustawiona wartość przypomnienia, zostaniesz poproszony o zwrócenie uwagi na swój aktualny stan zdrowia i zapisanie tych danych.
+[low_exp2.oxygen|1]: Urządzenie wyświetla tylko trzy ostatnie segmenty danych o niskim poziomie tlenu we krwi. Przejdź do aplikacji , aby wyświetlić więcej informacji.
+[low_exp3.oxygen|1]: W przypadku wystąpienia duszności, bólu głowy, zmęczenia, obniżonej koncentracji itp. zaleca się skorzystanie z fachowej pomocy lekarskiej.
+[low_exp4.oxygen|1]: Należy pamiętać, że zakres pomiarowy tego urządzenia wynosi 75%-100% . Ten produkt nie jest wyrobem medycznym . Wyniki służą wyłącznie celom informacyjnym i nie służą jako podstawa do diagnozy i leczenia.
+[low_exp_title.oxygen|1]: Zbyt niski poziom tlenu we krwi
+[low_remind.oxygen|1]: niski poziom tlenu we krwi
+[low_title.oxygen|1]: Zbyt niski poziom tlenu we krwi
+[low_waring.oxygen|1]: Przypomnienie o niskim poziomie tlenu we krwi
+[low_waring1.oxygen|1]: Po włączeniu, w stanie nieuśpienia , na urządzeniu pojawi się przypomnienie, gdy w określonym czasie zostanie wykryte, że nasycenie krwi tlenem jest niższe od ustawionej wartości.
+[low_warning.hr|1]: Przypomnienie o niskim tętnie
+[low_warning1.hr|1]: Po włączeniu zostanie wygenerowane przypomnienie, gdy w stanie cichym wykryte zostanie, że tętno jest niższe niż ustawiona wartość tętna.
+[lowbattery_10.reminder|1]: Poziom naładowania baterii jest niższy niż 10%
+[lowbattery_20.reminder|1]: Poziom naładowania baterii jest niższy niż 20%
+[lowbattery_5.reminder|1]: Poziom naładowania baterii jest mniejszy niż 5%
+[lowbattery_5_btn_tip.reminder|1]: Przejdź do otwarcia
+[lowbattery_5_tip.reminder|1]: Czy chcesz włączyć tryb oszczędzania energii , aby wydłużyć żywotność baterii?
+[lowbattery_title.reminder|1]: Niski poziom baterii
+[lower_limb_training.sport|1]: Trening kończyn dolnych
+[lowexp.hr|1]: Opis zbyt niskiego tętna
+[lowexp1.hr|1]: Urządzenie stale monitoruje tętno. Jeżeli w stanie cichym okaże się, że tętno jest stale niższe od ustawionej wartości, zostanie to zarejestrowane jako zbyt niskie tętno . Jest to powszechne u normalnych ludzi, którzy śpią i wykonują dużo aktywności fizycznej . Jeżeli objawy takie jak kołatanie serca, ucisk w klatce piersiowej i zawroty głowy wystąpią jednocześnie , należy niezwłocznie zgłosić się do placówki medycznej .
+[lowexp2.hr|1]: Ten produkt nie jest wyrobem medycznym. Został zaprojektowany, aby pomóc Ci zrozumieć zdrowie Twojego serca . Dostarczona dokumentacja ma wyłącznie charakter poglądowy i nie służy jako podstawa do diagnozy i leczenia .
+[lowexp3.hr|1]: Urządzenie wyświetla tylko trzy najnowsze dane dotyczące niskiego tętna. Przejdź do aplikacji , aby wyświetlić więcej informacji .
+[lowtime.vitality|1]: niższa intensywność
+[lp.bp|1]: niskie napięcie
+[lq_lunar.calendar|1]: Początek jesieni
+[ltd_festival.calendar|1]: Smok podnosi głowę
+[lx_lunar.calendar|1]: Początek lata
+[mac.common|1]: Adres Bluetooth
+[mac.settings|1]: Adres Bluetooth
+[mac.system|1]: Adres Bluetooth
+[made_in_China.settings|1]: Wyprodukowano w Chinach
+[many_messages.notify|1]: ponad 99 nieprzeczytanych wiadomości
+[mark_end.wm|1]: Zaznacz koniec
+[mark_start.wm|1]: Zaznacz początek
+[martial_arts.sport|1]: Sztuki walki
+[max_add.worldclock|1]: Można dodać maksymalnie 20 miast
+[max_oxygen.training|1]: maksymalny pobór tlenu
+[max_record.bp|1]: Wyświetla do 60 ostatnich danych. Aby zobaczyć więcej, przejdź do aplikacji .
+[maximum_oxygen_uptake.sport|1]: maksymalny pobór tlenu
+[maxofalarm.alarm|1]: Można dodać maksymalnie dziesięć budzików
+[measure.health|1]: Instrukcje pomiarowe
+[measure1.health|1]: Załóż urządzenie jeden palec od kości nadgarstka
+[measure2.health|1]: Noś go ciasno i nie ruszaj się podczas pomiaru
+[measure3.health|1]: Charakterystyka skóry, włosy , niska temperatura i inne czynniki mogą mieć wpływ na wyniki pomiarów.
+[measure3_1.health|1]: Proszę skierować ekran do góry, nosić go ciasno i nie ruszać się.
+[measure4.health|1]: Wyniki służą wyłącznie celom informacyjnym i nie służą celom medycznym.
+[measure6.health|1]: Ten produkt nie jest wyrobem medycznym . Wyniki służą wyłącznie celom informacyjnym i nie stanowią podstawy do diagnozy i leczenia.
+[measure_e1.bp|1]: Zeskanuj kod QR, aby wyświetlić szczegółowe wskazówki
+[measure_e1.ecg|1]: 1. Załóż urządzenie w odległości jednego palca od kości nadgarstka i załóż je ciasno.
+[measure_e10.bp|1]: Wyniki pomiarów mają charakter wyłącznie informacyjny i nie stanowią podstawy do diagnozy medycznej.
+[measure_e2.bp|1]: Pomiar obwodu nadgarstka
+[measure_e2.ecg|1]: 2. Połóż ręce płasko na stole i stój nieruchomo, trzymaj palce na przyciskach przez 30 sekund i nie ściskaj ich mocno.
+[measure_e3.bp|1]: Przed pomiarem zaleca się zmierzenie obwodu nadgarstka linijką według ilustracji i noszenie zegarka zgodnie ze skalą wskazaną strzałką na linijce. 
+[measure_e3.ecg|1]: 3. Jeżeli skóra jest sucha pomiar może się nie udać.Przetrzyj palce niewielką ilością wody.
+[measure_e4.bp|1]: Wybór pasów i poduszek powietrznych 
+[measure_e5.bp|1]: Na podstawie wyników pomiaru obwodu nadgarstka wybierz odpowiedni pasek i poduszkę powietrzną i załóż je zgodnie z odpowiednią skalą.
+[measure_e6.bp|1]: Zmierz postawę 
+[measure_e7.bp|1]: Zaleca się noszenie zegarka na tym samym nadgarstku podczas każdego pomiaru. W trakcie pomiaru zaleca się postępować zgodnie ze wskazówkami w celu utrzymania prawidłowej postawy.
+[measure_e8.bp|1]: Notatki
+[measure_e9.bp|1]: Zaleca się, aby przed pomiarem odpocząć co najmniej 5 minut, a pomiędzy kolejnymi pomiarami zachować przynajmniej 1-2 minuty przerwy . \n\nNoś urządzenie z dala od kości nadgarstków i nie zakładaj go zbyt luźno ani zbyt ciasno. \n\nPodczas pomiaru zachowaj ciszę i pamiętaj, aby nosić zegarek na wysokości serca i nie uciskać klatki piersiowej. Unikaj mówienia, poruszania i zginania palców.
+[measure_fail.health|1]: Pomiar nie powiódł się
+[measure_hint.bp|1]: Trzymaj zegarek na wysokości serca i nie uciskaj klatki piersiowej.
+[measure_keep.health|1]: Podczas pomiaru proszę pozostać nieruchomym
+[measure_record.bp|1]: Zapis pomiaru
+[measure_result.health|1]: Wynik pomiaru
+[measuring.health|1]: Mierzenie
+[measuring.hr|1]: 
+[measuring.oxygen|1]: Pomiar
+[medical_num.health|1]: Numer certyfikatu rejestracji urządzenia medycznego
+[medium.pressure|1]: umiarkowane
+[medley.sport|1]: Mieszanka
+[menstru1%d%dmenstru2.wm|1]: Twój następny okres rozpocznie się %1$d miesiąca %2$d
+[menstruation.wm|1]: Okres menstruacyjny
+[menstruation_in%d.wm|2]: Dzień %d miesiączki | Dzień % d miesiączki
+[message.settings|1]: Powiadomienie o wiadomościach
+[metronome.sport|1]: metronom
+[mi_home.mihome|1]: Mój dom
+[micompany.settings|1]: Xiaomi Communication Technology Co., Ltd.
+[middletime.vitality|1]: Średnia intensywność
+[miit_fat_burning_run.sport|1]: Bieg spalający tłuszcz MIIT
+[miit_fat_burning_run_dsc.sport|1]: Średnio intensywny, przerywany trening biegowy spalający tłuszcz, naprzemienne cykle joggingu i biegu ze średnią prędkością, w celu poprawy efektywności spalania tłuszczu.
+[mild.pressure|1]: Łagodne
+[mild_zone.pressure|1]: Łagodna
+[min.common|1]: punkty
+[min.sport|1]: punkty
+[min.tomatotimer|1]: minuty
+[min_allday.sleep|2]: minuty | minuty
+[minute%d.breath|1]: %d minut
+[minute.breath|1]: minuta
+[minute.sleep|2]: minuta | minuta
+[misansw_demibold.100|1]: Nie dotyczy
+[misansw_demibold.120|1]: Nie dotyczy
+[misansw_demibold.18|1]: Nie dotyczy
+[misansw_demibold.20|1]: Nie dotyczy
+[misansw_demibold.24|1]: Nie dotyczy
+[misansw_demibold.26|1]: Nie dotyczy
+[misansw_demibold.30|1]: Nie dotyczy
+[misansw_demibold.32|1]: Nie dotyczy
+[misansw_demibold.34|1]: Nie dotyczy
+[misansw_demibold.36|1]: Nie dotyczy
+[misansw_demibold.40|1]: Nie dotyczy
+[misansw_demibold.44|1]: Nie dotyczy
+[misansw_demibold.48|1]: Nie dotyczy
+[misansw_demibold.54|1]: Nie dotyczy
+[misansw_demibold.56|1]: Nie dotyczy
+[misansw_demibold.60|1]: Nie dotyczy
+[misansw_demibold.64|1]: Nie dotyczy
+[misansw_demibold.68|1]: Nie dotyczy
+[misansw_demibold.70|1]: Nie dotyczy
+[misansw_demibold.72|1]: Nie dotyczy
+[misansw_demibold.80|1]: Nie dotyczy
+[misansw_demibold.84|1]: Nie dotyczy
+[misansw_demibold.86|1]: Nie dotyczy
+[misansw_demibold.90|1]: Nie dotyczy
+[misansw_medium.20|1]: Nie dotyczy
+[misansw_medium.24|1]: Nie dotyczy
+[misansw_medium.26|1]: Nie dotyczy
+[misansw_medium.28|1]: Nie dotyczy
+[misansw_medium.30|1]: Nie dotyczy
+[misansw_medium.32|1]: Nie dotyczy
+[misansw_medium.34|1]: Nie dotyczy
+[misansw_medium.36|1]: Nie dotyczy
+[misansw_medium.40|1]: Nie dotyczy
+[misansw_medium.44|1]: Nie dotyczy
+[misansw_medium.48|1]: Nie dotyczy
+[misansw_medium.60|1]: Nie dotyczy
+[misansw_medium.64|1]: Nie dotyczy
+[misansw_medium.70|1]: Nie dotyczy
+[misansw_regular.20|1]: Nie dotyczy
+[misansw_regular.24|1]: Nie dotyczy
+[misansw_regular.26|1]: Nie dotyczy
+[misansw_regular.28|1]: Nie dotyczy
+[misansw_regular.30|1]: Nie dotyczy
+[misansw_regular.32|1]: Nie dotyczy
+[misansw_regular.34|1]: Nie dotyczy
+[misansw_regular.36|1]: Nie dotyczy
+[misansw_regular.40|1]: Nie dotyczy
+[misansw_regular.48|1]: Nie dotyczy
+[missed.phone|1]: Nieodebrane połączenie
+[miui_nodata.todo|1]: Można utworzyć za pomocą głosu Xiaoai. Upewnij się, że Bluetooth jest podłączony i przełącznik synchronizacji zadań w aplikacji jest włączony \n .
+[miwatch8.common|1]: Xiaomi Band 8 Pro
+[mixed_aerobic.sport|1]: Aerobik mieszany
+[mmhg.bp|1]: milimetry słupa rtęci
+[mode_title.settings|1]: Tryb oszczędzania energii
+[moderate.pressure|1]: Umiarkowane
+[moderate_running.sport|1]: Umiarkowane bieganie
+[moderate_zone.pressure|1]: Umiarkowane
+[modern_dance.sport|1]: Taniec nowoczesny
+[mon_to_fri.todo|1]: od poniedziałku do piątku
+[monitor.hr|1]: Całodniowe monitorowanie tętna
+[monitor.oxygen|1]: Całodniowe monitorowanie poziomu tlenu we krwi \n
+[monitor.pressure|1]: Monitorowanie ciśnienia w ciągu dnia \n
+[monitor_box.oxygen|1]: Jeśli po włączeniu wykryje, że znajduje się w ciągłym stanie cichym \n , bransoletka automatycznie zmierzy nasycenie krwi tlenem, a żywotność baterii zostanie poważnie zmniejszona.
+[monitor_btn.sleep|1]: Bardzo precyzyjne monitorowanie snu
+[monitor_content.hr|1]: Automatycznie mierz \ na podstawie ustawionej częstotliwości i zapisuj tętno przez cały dzień
+[monitor_health.hr|1]: Monitorowanie zdrowia serca
+[monitor_ill.pressure|1]: Jeśli po włączeniu wykryje, że znajduje się w ciągłym stanie cichym \n , bransoletka automatycznie zmierzy wartość ciśnienia, a żywotność baterii zostanie poważnie zmniejszona.
+[monitor_ill.sleep|1]: Włączenie bardzo precyzyjnego monitorowania snu poważnie skróci żywotność baterii. Czy jest ono nadal włączone?
+[monitor_sub_exp.sleep|1]: Po włączeniu można śledzić rozkład snu w fazie szybkich ruchów gałek ocznych ( REM ).
+[montor_must.temp|1]: Instrukcje pomiarowe
+[more_add.worldclock|1]: Więcej miast \ nDodaj poprzez aplikację
+[more_cities.weather|1]: Więcej miast
+[more_sport.sport|1]: Więcej sportu
+[motion.settings|1]: Rozpoznawanie ruchu
+[motion_disturb.settings|1]: Rozpoznawanie ruchu nie jest dostępne w trybie Nie przeszkadzać
+[motion_info.settings|1]: Po włączeniu bransoletka wyśle przypomnienie, gdy wykryje, że ćwiczysz. \nObsługiwane sporty to: chodzenie , bieganie, jazda na rowerze, wiosłowanie na maszynie eliptycznej i skakanie.
+[motion_reminder.settings|1]: Włączenie funkcji rozpoznawania ruchu znacznie skraca żywotność baterii urządzenia.
+[motion_sensing_game.sport|1]: Gra wykorzystująca wykrywanie ruchu
+[motion_title.settings|1]: Rozpoznawanie ruchu
+[motor_sign.check_tool|1]: Określ liczbę wibracji :
+[motor_test.check_tool|1]: Wykrywanie wibracji (11/14)
+[motorboat.sport|1]: Motorówka
+[move_text.bp|1]: Podczas pomiaru ciało nie pozostaje nieruchome, a wyniki mogą być niedokładne.
+[move_title.bp|1]: Ciało nie jest nieruchome
+[muay_thai.sport|1]: Muay Thai
+[multi_connect.share|1]: Podłącz dwa urządzenia
+[musicController|1]: Sterowanie muzyką
+[mute.appname|1]: Wyciszenie telefonu komórkowego
+[mute_mode.mute|1]: Tryb wyciszenia
+[mute_title.mute|1]: Wycisz telefon komórkowy
+[mute_toast.mute|1]: Dzwonek jest włączony
+[my_family.mihome|1]: Moja rodzina
+[mz_lunar.calendar|1]: gatunek awn
+[name.alipay|1]: Alipay
+[name.ecg|1]: Elektrokardiogram
+[name.find_phone|1]: Znajdź telefon
+[name.timer|1]: Odliczanie
+[name.tomatotimer|1]: 
+[name.worldclock|1]: Zegar światowy
+[name_calorie.sport|1]: Kalorie
+[name_distance.sport|1]: dystans
+[name_duration.sport|1]: Czas trwania
+[name_hr_avg.sport|1]: Średnie tętno
+[name_hr_max.sport|1]: Maksymalne tętno
+[name_hr_zone.sport|1]: Strefa tętna
+[name_info.tomatotimer|1]: Timer Pomodoro
+[name_main.tomatotimer|1]: Timer Pomodoro
+[name_num_cycle.sport|1]: Liczba grup rowerowych
+[name_number.sport|1]: Numer
+[name_pace.sport|1]: tempo
+[name_speed.sport|1]: Szybkość
+[name_times.sport|1]: Liczba razy
+[name_title.tomatotimer|1]: 
+[name_title.worldclock|1]: Zegar światowy
+[name_trips.sport|1]: Liczba wycieczek
+[national_dance.sport|1]: Taniec narodowy
+[near_reader.nfc|1]: Przesuń kartę blisko automatu do przeciągania kart
+[network_error_content.alexa|1]: Sprawdź połączenie sieciowe i spróbuj ponownie później.
+[network_error_title.alexa|1]: Błąd sieci
+[new_record.sport|1]: Nowy rekord
+[newest.ota|1]: Urządzenie zostało zaktualizowane do najnowszej wersji
+[next_easypregnancy.wm|1]: Kolejny łatwy okres ciąży
+[next_group.sport|1]: Następna grupa
+[next_item.sport|1]: Zmień element
+[next_menstruation.wm|1]: Następna miesiączka
+[next_ovulation.wm|1]: Następny dzień owulacji
+[next_seg_name.sport%s|1]: Następny element : %s
+[nextday.settings|1]: Następny dzień %02d:%02d
+[nextstep.settings|1]: Następny krok
+[nfc1_test.check_tool|1]: Wykrywanie NFC (13/14)
+[nfc2_test.check_tool|1]: Wykrywanie NFC (14/14)
+[nfc_read.check_tool|1]: odczytaj pustą kartę blisko
+[nfc_sign.check_tool|1]: Przetestuj blisko czytnika kart
+[nfc_simulate.check_tool|1]: Test karty symulacyjnej
+[no_add.worldclock|1]: Nie dodano żadnego miasta
+[no_card.nfc|1]: Nie ma jeszcze karty, dodaj ją w aplikacji Xiaomi Sports Health
+[no_connectable_devices.sport|1]: Brak urządzenia, które można podłączyć
+[no_data.calendar|1]: Brak danych kalendarza
+[no_data.common|1]: Jeszcze brak danych
+[no_data.pressure|1]: Brak danych na dzisiaj
+[no_data.wm|1]: Jeszcze brak danych
+[no_device_conn.common|1]: Brak podłączonego urządzenia
+[no_enabled.wm|1]: Funkcja aplikacji nie jest włączona
+[no_message.notify|1]: Nie ma jeszcze wiadomości
+[no_permission.media|1]: Zezwolenie nie jest włączone
+[no_record.wm|1]: Włącz inteligentne przewidywanie w aplikacji
+[no_record_today.wm|1]: Dzisiaj nie było żadnego rekordu
+[no_remind.oxygen|1]: Nie przypominaj
+[no_reminder_today.common|1]: Dzisiaj nie ma już więcej przypomnień
+[no_setting.mihome|1]: Nie ma jeszcze ustawień
+[no_target.sport|1]: Brak celu
+[no_title.calendar|1]: Brak tytułu
+[no_try_again.settings|1]: Nie rozpoznano prawidłowego gestu, spróbuj ponownie!
+[noai_nodata.todo|1]: Można go dodać w funkcji zadań do wykonania w aplikacji . Upewnij się, że Bluetooth jest podłączony.
+[nodata.hr|1]: Brak danych na dzisiaj
+[nodata.oxygen|1]: Brak danych na dzisiaj
+[nodata.sleep|1]: Brak zapisu snu , załóż go do snu
+[nodata.todo|1]: Brak przypomnienia o zadaniach
+[nodata.weather|1]: Uzyskiwanie danych pogodowych
+[nodata.wm|1]: Ustaw \npodstawowe informacje o cyklu menstruacyjnym w aplikacji
+[noinit_tips.calendar|1]: Włącz synchronizację harmonogramu telefonu komórkowego w aplikacji
+[noise_reduction.share|1]: Redukcja szumów
+[nonedata.weather|1]: Brak danych o pogodzie
+[noplay.share|1]: Dźwięk nie jest odtwarzany
+[noreminder.vitality|1]: Dzisiaj nie ma już więcej przypomnień
+[nosync.wm|1]: Dane aplikacji nie są zsynchronizowane
+[not_disturb_close.ctrl|1]: Tryb Nie przeszkadzać jest wyłączony
+[not_disturb_open.ctrl|1]: Tryb Nie przeszkadzać jest włączony
+[not_disturb_open.settings|1]: Tryb Nie przeszkadzać jest włączony
+[not_enabled.wxpay|1]: Nie włączone
+[not_install.bp|1]: Poduszka powietrzna nie jest prawidłowo zainstalowana
+[not_install_exp.bp|1]: Poduszka powietrzna nie jest zainstalowana. Sprawdź ją na czas, aby uniknąć uszkodzenia sprzętu przez wodę.
+[not_measure.bp|1]: Jeszcze nie mierzę
+[not_play.media|1]: Telefon nie odtwarza muzyki
+[not_remind.sport|1]: Koniec z przypomnieniami
+[not_reminder.reminder|1]: Koniec z monitami
+[not_shake.health|1]: Staraj się nie trząść
+[not_support.aivs|1]: Zawartość tekstu przekracza górny limit. Xiaoai chwilowo nie obsługuje tej funkcji.
+[not_support_area_content.alexa|1]: Niestety, usługa Amazon Alexa nie jest obsługiwana w Twoim regionie.
+[not_support_area_title.alexa|1]: Nieobsługiwane
+[not_support_playback.alexa|1]: To urządzenie nie obsługuje odtwarzania audio i wideo
+[not_worn.hr|1]: Nie noszone
+[notice.notify|1]: Powiadomienie
+[notice_message.settings|1]: Powiadomienie o wiadomościach
+[notice_text1.tomatotimer|1]: Celem Pomodoro jest skupienie się na pracy i nauce w krótkim czasie \n oraz stymulowanie efektywności pracy i nauki.
+[notice_text2.tomatotimer|1]: Cykl Pomodoro zwykle trwa 25 minut. Po uruchomieniu musisz poświęcić się pracy lub nauce . Dopóki zegarek nie zacznie wibrować, by Ci przypomnieć, możesz się zatrzymać i odpocząć przez 5 minut .
+[notice_text3.tomatotimer|1]: Zaleca się zrobienie długiej przerwy trwającej od 15 do 20 minut po każdych 4 Pomodoro .
+[notify.notify|1]: Wiadomość
+[notopen_password.wxpay|1]: Jeszcze nie otwarte
+[now.bp|1]: Właśnie zaktualizowano
+[now.common|1]: teraz
+[now_measure.bp|1]: Zmierz teraz
+[now_measure.ecg|1]: Przejdź do pomiaru
+[null.settings|1]: Brak
+[null_28.settings|1]: Brak
+[number_group.sport|1]: Numer tej grupy
+[nums_rope_all_group.sport|1]: Całkowita liczba
+[nums_rope_group.sport|1]: Ilość tej grupy
+[nums_rowing_all_group.sport|1]: Całkowita liczba
+[nums_rowing_group.sport|1]: Ilość tej grupy
+[off.sleep|1]: wyłączone
+[offbody.health|1]: Proszę prawidłowo założyć bransoletkę \ nSpróbuj ponownie
+[ok.alipay|1]: Powiązanie powiodło się
+[ok.health|1]: OK
+[ok.pressure|1]: OK
+[ok.wxpay|1]: Rozumiem
+[on.sleep|1]: włączone
+[once.alarm|1]: tylko raz
+[once.todo|1]: Tylko raz
+[onemin.hr|1]: raz na minutę
+[open.alipay|1]: Zgadzam się
+[open_1hour.ctrl|1]: Nie przeszkadzać, otwarte przez 1 godzinę
+[open_1hour.settings|1]: Otwarte przez 1 godzinę
+[open_4hour.ctrl|1]: Nie przeszkadzać, otwarte przez 4 godziny
+[open_4hour.settings|1]: Otwarte 4 godziny
+[open_all_day.settings|1]: otwarte przez cały dzień
+[open_from_phone.notify|1]: Otwórz na telefonie komórkowym
+[open_mi.mihome|1]: Otwórz aplikację Mijia , aby ustawić polecenie wykonania sceny lub sprawdź, czy konto Xiaomi ma polecenie wykonania sceny
+[open_password.wxpay|1]: Przejdź do otwarcia
+[open_ring.mute|1]: Zamykam
+[open_ring_ing.mute|1]: Otwórz dzwonek
+[open_widget.wxpay|1]: Otwórz płatność WeChat
+[open_widget_btn.wxpay|1]: Otwórz
+[opening.alipay|1]: Wiązanie ...
+[openswitch.alarm|1]: włączone
+[optimization.settings|1]: Optymalizacja żywotności baterii
+[optimization_content.settings|1]: Tylko statystyki poważnie wpływają na funkcję żywotności baterii, wyświetlaną zgodnie z bieżącym stanem.
+[os_ver.common|1]: System bransoletek
+[other_nodata.todo|1]: Można go utworzyć za pomocą Xiaoai Voice lub dodać \n w ramach funkcji zadań do wykonania w aplikacji . Upewnij się, że Bluetooth jest podłączony \n .
+[other_sports.sport|1]: Inne sporty
+[others.share|1]: Inni
+[others_allow_or_no.temp|1]: Na wynik mogą mieć wpływ zmiany środowiska, zastosowania wymagające dużej mocy, luźne zużycie, woda na zegarku itp. Zaleca się dokonanie pomiaru później.
+[outdoor_skating.sport|1]: Jazda na łyżwach na świeżym powietrzu
+[outdoor_sports.sport|1]: Sporty na świeżym powietrzu
+[ovula1%d%dovula2.wm|1]: Oczekuje się, że następny dzień owulacji przypada na %1$d miesiąc %2$d dzień
+[ovulation_day.wm|1]: Dzień owulacji
+[oxygen|1]: nasycenie krwi tlenem
+[oxygen.common|1]: tlen we krwi
+[oxygen_explain1.training|1]: Maksymalny pobór tlenu (VO2max) odnosi się do zawartości tlenu, którą organizm ludzki może wchłonąć podczas ćwiczeń o maksymalnej intensywności. Jest to ważny wskaźnik odzwierciedlający wydolność organizmu podczas ćwiczeń aerobowych. Wysoki poziom maksymalnego poboru tlenu jest jednym z ważnych parametrów dla sportowców wytrzymałościowych, co stanowi podstawę wysokiej zdolności do ćwiczeń aerobowych.
+[oxygen_explain2.training|1]: Maksymalny pobór tlenu jest sprawą stosunkowo indywidualną \n . Różne płcie i grupy wiekowe będą miały różne standardy odniesienia. Urządzenie oceni Twoją zdolność do ćwiczeń na podstawie Twoich danych osobowych, danych dotyczących tętna i prędkości wygenerowanych podczas ćwiczeń i będzie się zmieniać w miarę zmiany zdolności wysiłkowych. Oczywiście każdy będzie miał swoją górną granicę maksymalnego poboru tlenu, która jest ustalana indywidualnie przez organizm.
+[pace_for_the_first_kilometer.sport|1]: tempo na pierwszym kilometrze
+[pace_remind.sport|1]: Przypomnienie o tempie
+[paddle_board.sport|1]: Deska wiosłowa
+[pair_desc.setupwizard|1]: Instrukcje parowania
+[pair_sign.setupwizard|1]: Aby podłączyć urządzenie, pobierz aplikację Xiaomi Sports Health na swój telefon komórkowy
+[pairing.phone|1]: Wysyłanie ...
+[pairing.setupwizard|1]: Parowanie ...
+[paraglider.sport|1]: Paralotnia
+[parallel_bars.sport|1]: Pręty równoległe
+[parkour.sport|1]: Parkour
+[partical_cal.sport|1]: rzeczywiste kalorie
+[partical_numbe.sport|1]: rzeczywista liczba
+[partical_times.sport|1]: aktualne czasy
+[past_widget.vitality|1]: akumulacja
+[pause.common|1]: Pauza
+[pause.sport|1]: pauza
+[pause.tomatotimer|1]: 
+[pause_hint.sport|1]: 
+[pay.nfc|1]: Płatność
+[pay_finish.nfc|1]: Płatność zakończona
+[pay_widget.wxpay|1]: Korzystaj z płatności WeChat, aby płacić sprzedawcom
+[pay_widget_btn.wxpay|1]: Wyświetl kod płatności
+[paycode.alipay|1]: kod płatności
+[per_minute.sport|1]: sztuk / minutę
+[period1%d%dperiod2.wm|1]: Twój następny okres płodny rozpocznie się w %1$d miesiącu %2$d
+[permission_tip.media|1]: Włącz pozwolenie na korzystanie z powiadomień o stanie zdrowia Xiaomi w ustawieniach systemu
+[phone.appname|1]: Telefon
+[phonebind.alipay|1]: Użyj Alipay , aby zeskanować kod QR w celu powiązania
+[photograph|1]: Fotografia zdalna
+[physical_training.sport|1]: Trening fizyczny
+[pick_sport.home|1]: Wybierz sport
+[pick_widget.home|1]: Wybierz komponent
+[pilates.sport|1]: Pilates
+[pingpong.sport|1]: Tenis stołowy
+[play_tip.media|1]: Sprawdź, czy telefon odtwarza muzykę, a aplikacja ma włączoną opcję powiadamiania .
+[please_act.act|1]: Wstań
+[plus%dhour.worldclock|2]: +%d godzina |+%d godzina
+[pm.common|1]: Popołudnie
+[pm_t.alarm|1]: PM
+[pm_t.calendar|1]: PM
+[pm_t.todo|1]: PM
+[pole_dance.sport|1]: Taniec na rurze
+[pool_length.sport|1]: Długość basenu
+[position.wf|1]: pozycja
+[posture_text.bp|1]: Pomiar nie jest zgodny ze standardową postawą, a wynik może być niedokładny.
+[posture_title.bp|1]: Nieprawidłowa postawa
+[power_saving.settings|1]: Wychodzenie z trybu oszczędzania energii
+[power_toast_mode.settings|1]: Po włączeniu zachowany zostanie jedynie czas, liczenie kroków i funkcje NFC . Naciśnij i przytrzymaj ekran lub naładuj, aby wyjść.
+[ppg_result.check_tool|1]: Wartość odbiornika PD :
+[ppg_test.check_tool|1]: Wykrywanie tętna i poziomu tlenu we krwi (5/14)
+[pratical_distance.sport|1]: rzeczywisty dystans
+[pratical_duration.sport|1]: rzeczywisty czas trwania
+[pratical_trips.sport|1]: rzeczywista liczba podróży
+[pre_menstruation_in%d.wm|2]: Przewiduj %d dzień miesiączki | Przewiduj %d dzień miesiączki
+[pre_menstruation_out%d.wm|2]: Przewidywanie miesiączki po %d dniu |%d Przewidywanie miesiączki dzień po dniu
+[predicta_menstruation.wm|1]: Przewiduj okres menstruacyjny
+[prefer.settings|1]: Preferencje
+[prefer_title.settings|1]: Preferencje
+[prepare_sleep.reminder|1]: Przygotuj się do snu
+[pressure|1]: ciśnienie
+[pressure_high.pressure|1]: Ciśnienie jest za wysokie
+[procedure.sport|1]: Skład toru
+[product_name.health|1]: nazwa produktu
+[production_num.health|1]: Numer licencji produkcyjnej
+[progress.vitality|1]: Postęp w spełnianiu standardów w ciągu ostatnich 7 dni
+[projection.sport|1]: Projekcja danych
+[projection_no_device.sport|1]: Sprawdź stan połączenia pomiędzy telefonem komórkowym a telewizorem
+[puck.sport|1]: hokej na lodzie
+[pulse.bp|1]: Puls
+[pwd.settings|1]: Hasło urządzenia
+[pwd_close.settings|1]: Zamknij hasło
+[pwd_closed.settings|1]: Hasło jest zamknięte
+[pwd_closed.system|1]: Hasło jest zamknięte
+[pwd_err.common|1]: Błędne hasło
+[pwd_modify.settings|1]: Zmień hasło
+[pwd_open.settings|1]: Otwórz hasło
+[pwd_set_again.settings|1]: Wprowadź ponownie
+[pwd_set_ok.settings|1]: Hasło ustawione pomyślnie
+[pwd_timeout.nfc|1]: Minęły ponad 24 godziny od ostatniego wpisania hasła . Dla bezpieczeństwa swojej karty wprowadź ponownie hasło bez użycia nadgarstka.
+[pwd_title.settings|1]: Hasło urządzenia
+[pwd_wrong.settings|1]: Hasło jest niespójne, proszę wprowadzić je ponownie.
+[qf_lunar.calendar|1]: Równonoc jesienna
+[qm_lunar.calendar|1]: Festiwal Qingming
+[quality_box.sleep|1]: Włączenie monitorowania jakości oddychania podczas snu poważnie skróci żywotność baterii. Czy jest ono nadal włączone?
+[quiet_mode_off.system|1]: Tryb Nie przeszkadzać jest wyłączony
+[qx_festival.calendar|1]: Chińskie Walentynki
+[racing_car.sport|1]: Wyścigi
+[raise_bright_close.ctrl|1]: Podnoszenie nadgarstka w celu rozjaśnienia ekranu zostało wyłączone
+[raise_bright_open.ctrl|1]: Włączono podnoszenie nadgarstka w celu rozjaśnienia ekranu
+[rb.hr|1]: Wykryto u Ciebie nieprawidłowe bicie serca w tym okresie. Proszę zwrócić uwagę na swoje zdrowie.
+[reach_1.act|1]: Osiągnięto wskaźnik żywotności
+[reach_2.act|1]: pełen energii
+[read_card.nfc|1]: Czytanie karty ...
+[read_card_oncharging.nfc|1]: Analogowe karty do drzwi nie są obsługiwane podczas ładowania .
+[ready.ota|1]: Aktualizacje urządzenia zostaną zainstalowane automatycznie później dzisiaj lub podczas ładowania
+[rebind.alipay|1]: Funkcja płatności bransoletki jest niedostępna po rozwiązaniu. Czy na pewno chcesz rozpiąć?
+[receiving.ota|1]: Odbieranie ...
+[receiving_fail.ota|1]: Przerwanie odbioru
+[receiving_success.ota|1]: Odbiór pomyślny
+[record.bp|1]: Zapis pomiaru
+[record_file.check_tool|1]: plik nagrania
+[record_start.check_tool|1]: Rozpocznij nagrywanie
+[record_test.check_tool|1]: Wykrywanie dźwięku (8/14)
+[recording.check_tool|1]: Nagrywanie
+[recovery_dsc1.training|1]: Zakończyłeś regenerację lub jesteś bliski całkowitej regeneracji i możesz odpowiednio zwiększyć intensywność treningu.
+[recovery_dsc2.training|1]: Twoje ciało wkrótce się zregeneruje i możesz trenować zgodnie ze swoim harmonogramem .
+[recovery_dsc3.training|1]: Odpowiednie zmniejszenie intensywności treningu może pomóc w uzyskaniu lepszych efektów treningowych.
+[recovery_dsc4.training|1]: Twój organizm potrzebuje dużo czasu na regenerację, dlatego zaleca się odpowiedni odpoczynek.
+[recovery_duration.sport|1]: czas trwania regeneracji ( w godzinach )
+[ref_check.share|1]: Sprawdź, czy urządzenie jest podłączone
+[ref_err.share|1]: Przesyłanie nie powiodło się
+[regulation.common|1]: Informacje prawne
+[regulation.settings|1]: Informacje prawne
+[regulation_title.settings|1]: Informacje prawne
+[relax.breath|1]: Zrelaksuj swoje ciało
+[relax.pressure|1]: Zrelaksuj się
+[relax.sport|1]: Zrelaksuj się
+[relax_remind.pressure|1]: Przypomnienie o relaksie
+[relax_remind_ill.pressure|1]: Po włączeniu na urządzeniu pojawi się przypomnienie, gdy wartość ciśnienia w określonym czasie w stanie innym niż uśpienia zostanie wykryta jako wyższa niż 80 .
+[relax_zone.pressure|1]: Zrelaksuj się
+[relaxed_time.sport|1]: Czas relaksu
+[rem.sleep|1]: REM
+[remain_distance_group.sport|1]: Pozostało (km)
+[remain_distance_group_imp.sport|1]: Pozostało (mile)
+[remain_duration_group.sport|1]: Pozostały czas trwania
+[remain_duration_segment.sport|1]: Pozostały czas
+[remain_number_group.sport|1]: Pozostała liczba
+[remain_times_group.sport|1]: Pozostałe czasy
+[remain_trips_group.sport|1]: Liczba pozostałych podróży
+[remind.alarm|1]: Inteligentne budzenie
+[remind_high.hr|1]: Tętno za wysokie
+[remind_low.hr|1]: Tętno za niskie
+[remind_menstruation.wm|1]: Przypomnienie o menstruacji
+[remind_ovulation.wm|1]: Przypomnienie o dniu owulacji
+[remind_period.wm|1]: Przypomnienie o okresie ciąży
+[reminder.bp|1]: Przypomnienie o pomiarze ciśnienia krwi
+[reminder.ecg|1]: Przypomnienie o pomiarze EKG
+[reminder.ota|1]: Przypomnienie o aktualizacji
+[reminder.sport|1]: Przypomnienie o sporcie
+[reminder_deleted.alexa|1]: Przypomnienie zostało usunięte
+[reminder_exp.bp|1]: Czas zmierzyć ciśnienie krwi .
+[reminder_exp.ecg|1]: Nadszedł czas pomiaru EKG .
+[reminder_interval.sport|1]: Interwał przypomnienia
+[reminder_sport.bp|1]: Czas zmierzyć ciśnienie krwi. Proszę zakończyć to ćwiczenie i odpocząć przynajmniej 5 minut przed pomiarem.
+[remindinformation.alarm|1]: Po włączeniu urządzenie znajdzie najlepszy moment na wybudzenie Cię z lekkiego snu w ciągu 10 minut przed godziną budzenia.
+[remote_camera.appname|1]: Zdalne fotografowanie
+[remove.common|1]: Usuń
+[remove_airbag.bp|1]: Osłona poduszki powietrznej nie jest prawidłowo zamontowana
+[remove_airbag_exp.bp|1]: Sprawdź i zainstaluj prawidłowo poduszkę powietrzną lub osłonę, aby uniknąć uszkodzenia urządzenia przez wodę.
+[remove_warning%d.home|2]: Nie można usunąć, proszę zachować co najmniej %d widżet strony | Nie można usunąć, proszę zachować co najmniej %d widżet strony
+[repeate.alarm|1]: powtórz
+[reply.common|1]: odpowiedz
+[report_cd_data.sport|1]: Dane sportowe
+[report_cd_freq.sport|1]: Częstotliwość
+[report_cd_hr.sport|1]: Tętno
+[report_cd_pace.sport|1]: Tempo
+[report_cd_seg_pace.sport|1]: tempo
+[report_cd_seg_stroke_rate.sport|1]: Częstotliwość uderzeń
+[report_cd_seg_swolf.sport|1]: SWOLF
+[report_cd_speed.sport|1]: Szybkość
+[report_cd_target.sport|1]: Cel sportowy
+[reset_btn.home|1]: Zmień układ
+[reset_option.system|1]: Wyłącz hasło
+[reset_passwd.system|1]: Zresetuj hasło
+[reset_settings.sport|1]: Zresetuj ustawienia sportowe
+[rest.hr|1]: Odpoczynek w ciągu ostatnich 30 dni
+[rest.tomatotimer|1]: odpoczynek
+[rest_day.calendar|1]: odpoczynek
+[rest_disp.settings|1]: Wyświetlanie ekranu
+[rest_disp_info.settings|1]: Włączenie wyświetlania ekranu spoczynkowego może skrócić żywotność baterii o ponad połowę, a podniesienie nadgarstka w celu włączenia ekranu spowoduje jego wyłączenie. Czy na pewno użyjesz \n ?
+[rest_disp_reminder1.settings|1]: Gdy bransoletka wyłączy ekran, na ekranie nadal będzie wyświetlana godzina i inne informacje.
+[rest_disp_reminder2.settings|1]: Noszenie bransoletki do snu lub wykrycie, że bransoletka została zdjęta, spowoduje automatyczne wyłączenie wyświetlania na ekranie.
+[rest_disp_title.settings|1]: Wyświetlanie ekranu
+[rest_text.bp|1]: Zmierz ciśnienie krwi po wysiłku , wyniki mogą być niedokładne.
+[rest_time.settings|1]: Czas odpoczynku ekranu
+[rest_time.tomatotimer|1]: czas odpoczynku
+[rest_time_out.tomatotimer|1]: Czas odpoczynku dobiegł końca
+[rest_time_title.settings|1]: Czas odpoczynku ekranu
+[rest_title.bp|1]: Nieodpowiedni odpoczynek
+[rest_total.tomatotimer|1]: Skumulowany odpoczynek
+[rest_total_pause.tomatotimer|1]: Całkowity odpoczynek
+[restart.bp|1]: 
+[restart.breath|1]: Uruchom ponownie
+[restart.health|1]: Uruchom ponownie
+[restart.hr|1]: 
+[restart.temp|1]: 
+[resting.tomatotimer|1]: Odpoczywa
+[resttime_info.settings|1]: Jeśli ekran będzie włączony zbyt długo, żywotność baterii ulegnie skróceniu \n . Czy na pewno go użyjesz?
+[result_title.pressure|1]: Wyniki pomiarów
+[result_upload.check_tool|1]: Prześlij
+[resume.common|1]: Kontynuuj
+[resume.sport|1]: Kontynuuj
+[retry.hr|1]: Spróbuj ponownie
+[retry.ota|1]: Spróbuj ponownie w aplikacji mobilnej
+[retry.setupwizard|1]: 
+[retry.sport|1]: 
+[retry_add.setupwizard|1]: Dodaj urządzenie ponownie
+[return.sport|1]: Powrót
+[rh1%02d:%02drh2%drh3.hr|2]: Wykryto, że począwszy od %1$02d:%2$02d Twoje tętno jest wyższe niż %3$d uderzeń / minutę w cichych warunkach . | Wykryto, że począwszy od %1$02d:%2$02d Twoje tętno jest wyższe niż %3$d uderzeń na minutę w cichych warunkach .
+[rhythm.breath|1]: Proszę oddychać zgodnie z rytmem
+[ride_indoor.sport|1]: Jazda na rowerze stacjonarnym
+[ride_outdoor.sport|1]: Jazda na świeżym powietrzu
+[riding_time.sport|1]: Czas jazdy
+[right.ecg|1]: Noś na prawej ręce
+[ring.mute|1]: Tryb dzwonka
+[ring_toast.mute|1]: Dzwonek został wyłączony
+[rl1%02d:%02drl2%drl3.hr|2]: Wykryto, że Twoje tętno jest niższe niż %3$d uderzeń / minutę w cichych warunkach, począwszy od %1$02d:%2$02d . | Wykryto, że począwszy od %1$02d:%2$02d Twoje tętno jest niższe niż %3$d uderzeń na minutę w cichych warunkach .
+[rl1%drl2%02d:%02drl3.settings|2]: Włączono tryb Nie przeszkadzać przez %d godzin i zakończy się o godzinie \n%02d:%02d . | Włączono tryb Nie przeszkadzać przez %d godzin i zakończy się o godzinie \n%02d:%02d .
+[rock_climbing.sport|1]: Wspinaczka skałkowa
+[roller_skating.sport|1]: Jazda na rolkach
+[rope_skipping.sport|1]: skakanka
+[rowing.sport|1]: wioślarstwo
+[rowing_machine.sport|1]: maszyna do wiosłowania
+[rugby.sport|1]: Rugby
+[run_fast.sport|1]: Biegaj szybko
+[run_indoor.sport|1]: Bieganie w pomieszczeniu
+[run_month_lunar.calendar|1]: skok
+[run_outdoor.sport|1]: Bieganie na świeżym powietrzu
+[running_time.sport|1]: czas biegu
+[sailboat.sport|1]: Żaglówka
+[sandbags_ball.sport|1]: Worki z piaskiem
+[satellite_positioning.sport|1]: Trwa pozycjonowanie satelitarne
+[satellite_signal_weakness.sport|1]: Sygnał satelitarny jest słaby, proszę udać się na otwarty teren.
+[saturation1.oxygen|1]: 1. Nasycenie krwi tlenem to procent pojemności utlenionej hemoglobiny \n ( Hbo2 ) we krwi w stosunku do całkowitej hemoglobiny wiążącej \n ( Hb ) Jest to ważny parametr fizjologiczny krążenia oddechowego człowieka .
+[saturation1.pressure|1]: Opis
+[saturation1.sleep|1]: Załóż bransoletkę do snu, a bransoletka automatycznie zapisze informacje o śnie \n . Bransoletka wyświetla tylko 3 najnowsze klipy dotyczące snu . Aby uzyskać więcej danych, przejdź do aplikacji , aby je wyświetlić.
+[saturation2.oxygen|1]: 2. Wartości referencyjne nasycenia krwi tlenem przez urządzenie są następujące :\ nCodzienne czynności : \ nOgólnie ≥95%\ nNocny sen: \ nOgólnie ≥90%\nNależy zwrócić uwagę na: < 90 %\ nUwaga : Zakres pomiarowy tego urządzenia wynosi 75%-100% .
+[saturation2.pressure|1]: Ciśnienie odnosi się w szczególności do ciśnienia psychicznego, z wyłączeniem ciśnienia fizycznego spowodowanego ćwiczeniami o wysokiej intensywności.
+[saturation2.sleep|1]: Zaleca się włączenie w ustawieniach opcji „ bardzo precyzyjne monitorowanie snu ” , co pomoże algorytmowi snu dokładniej ocenić stan Twojego snu i zidentyfikować fazę REM .
+[saturation3.oxygen|1]: 3. Stan noszenia , cechy skóry \n , środowisko i inne czynniki mogą mieć wpływ na dokładność testu \n , a nawet błąd pomiaru. Podczas snu urządzenie przechyla się ze względu na różne pozycje podczas snu, co może prowadzić do pozornie niskiego poziomu tlenu we krwi.
+[saturation3.pressure|1]: Urządzenie wykorzystuje dane dotyczące zmienności tętna w połączeniu z modelem ciśnienia w celu wykrycia dziennych wartości ciśnienia. Urządzenie wykryje ciśnienie tylko wtedy, gdy nie będzie nieruchome przez dłuższy czas. Jeśli nie będzie nieruchome lub w ruchu, urządzenie może nie mieć wartości ciśnienia. Rozkład poziomu ciśnienia jest następujący:
+[saturation3.sleep|1]: W przypadku długich okresów snu dłuższych lub równych 3 godzinom urządzenie wyświetli średnie tętno w segmencie w oparciu o dostępne dane . W przypadku sporadycznych drzemek krótszych niż 3 godziny \n tylko czas zasnąć i obudzić się . Sen krótszy niż 20 minut nie będzie rejestrowany.
+[saturation4.hr|1]: Ze względu na takie czynniki , jak stan noszenia , charakterystyka skóry , środowisko itp., może to mieć wpływ na dokładność pomiaru , a wyniki mogą nawet nie zostać wydrukowane.
+[saturation4.oxygen|1]: Instrukcje pomiarowe
+[saturation4.pressure|1]: Ze względu na takie czynniki, jak stan noszenia , charakterystyka skóry, środowisko itp., może to mieć wpływ na dokładność pomiaru, a wydruk wyniku może nawet nie być możliwy.
+[saturation4.sleep|1]: Jeśli jakość snu jest bardzo słaba i podczas snu wykonuje się zbyt wiele ruchów nadgarstkami , pomiar tętna podczas snu i pomiar tlenu we krwi mogą się nie powieść.
+[saturation5.oxygen|1]: 1. Załóż urządzenie w odległości jednego palca od kości nadgarstka
+[saturation5.pressure|1]: Instrukcje pomiarowe
+[saturation6.oxygen|1]: 2. Noś go szczelnie i nie ruszaj się podczas pomiaru
+[saturation6.pressure|1]: Noś urządzenie w odległości jednego palca od kości nadgarstka
+[saturation7.oxygen|1]: Ten produkt nie jest wyrobem medycznym . Wyniki służą wyłącznie celom informacyjnym i nie stanowią podstawy do diagnozy i leczenia.
+[saturation7.pressure|1]: Noś go mocno i pozostań nieruchomy podczas pomiaru
+[saturation8.pressure|1]: Ten produkt nie jest wyrobem medycznym . Wyniki służą wyłącznie celom informacyjnym i nie stanowią podstawy do diagnozy i leczenia.
+[saturation_mild.pressure|1]: Łagodne: 26 ~ 50
+[saturation_moderate.pressure|1]: Umiarkowane: 51 ~ 80
+[saturation_relax.pressure|1]: Relaks: 1 ~ 25
+[saturation_severe.pressure|1]: Dotkliwość: 81 ~ 100
+[saving.settings|1]: Tryb oszczędzania energii
+[saving_mode.settings|1]: Tryb oszczędzania energii
+[saving_state_label.settings|1]: Dobra żywotność baterii
+[saving_state_poor.settings|1]: Niski stan żywotności baterii
+[saving_state_secondary.settings|1]: Umiarkowany stan żywotności baterii
+[saving_toast.settings|1]: Włączenie poniższych funkcji poważnie wpłynie na żywotność baterii urządzenia.
+[schedule.calendar|1]: Harmonogram
+[screen_bright.settings|1]: Pozostaw ekran włączony
+[screen_bright_title.settings|1]: Pozostaw ekran włączony
+[screen_cover.settings|1]: Ekran osłonowy
+[screen_toast.settings|1]: Po wyłączeniu oczekuje się, że żywotność baterii wydłuży się o %d godzin .
+[screen_up.health|1]: Połóż nadgarstek płasko, ekranem skierowanym do góry
+[searching.common|1]: Wyszukiwanie ...
+[searching.sport|1]: Wyszukiwanie ...
+[sec.common|1]: sekundy
+[sec.sport|1]: sekundy
+[sec.timer|1]: sekundy
+[sec_unit.common|2]: s|s
+[see_more.weather|1]: Zobacz więcej
+[select_device.share|1]: Wybierz urządzenie
+[send_fail.phone|1]: Wysyłanie nie powiodło się
+[send_sucss.phone|1]: Wysłano pomyślnie
+[sepak_takraw.sport|1]: Sepak Takraw
+[set.bp|1]: ustawienie ciśnienia krwi
+[set.vitality|1]: Ustaw
+[set_time.tomatotimer|1]: Ustaw czas trwania
+[setting.common|1]: Ustawienia
+[setting.hr|1]: Ustawienie tętna
+[setting.settings|1]: ustawienia
+[setting_btn.oxygen|1]: Ustawienia
+[setting_btn.pressure|1]: Ustawienie
+[setting_btn.sleep|1]: Ustawienia
+[setting_title.oxygen|1]: Ustawienia
+[setting_title.pressure|1]: Ustawienie
+[setting_title.sleep|1]: Ustawienia
+[settings.appname|1]: Ustawienia
+[sevendays.vitality|1]: Skumulowana wartość witalności w ciągu ostatnich 7 dni
+[sevendays100.vitality|1]: Łącznie 100 w ciągu ostatnich 7 dni
+[sevendays100_text.vitality|1]: Świetnie! Jeśli będziesz się go trzymać przez dłuższy czas, możesz odnieść ogromne korzyści zdrowotne!
+[sevendays30.vitality|1]: Łącznie 30 w ciągu ostatnich 7 dni
+[sevendays30_text.vitality|1]: Kiedy się przeprowadzasz, robisz kolejny krok w kierunku zachowania zdrowia!
+[sevendays60.vitality|1]: Łącznie 60 w ciągu ostatnich 7 dni
+[sevendays60_text.vitality|1]: Trzymanie się takiej ilości aktywności może skutecznie kontrolować Twoją wagę!
+[sevendays_widget.vitality|1]: Zebrane w ciągu ostatnich 7 dni
+[severe.pressure|1]: poważne
+[severe_zone.pressure|1]: poważna
+[shake_info.settings|1]: Spróbuj dwukrotnie szybko potrząsnąć w kierunku poziomym i poczekaj na wynik rozpoznania. Należy dwukrotnie pomyślnie rozpoznać .
+[shake_info1.settings|1]: Przedramię jest równoległe do klatki piersiowej
+[shake_info2.settings|1]: Dłoń w dół, ekran w górę
+[shake_info3.settings|1]: Potrząśnij szybko dwa razy na zewnątrz w kierunku poziomym
+[shake_wirst.settings|1]: Szybko potrząśnij nadgarstkiem
+[share_see_device.common|1]: Sprawdź stan urządzenia w Centrum telefonów komórkowych
+[sharedevice.share|1]: Centrum Miaoxiang
+[short.sleep|1]: Sporadyczne drzemki
+[shuffle_ball.sport|1]: Shuffleboard
+[shutdown.reminder|1]: Temperatura bransoletki jest zbyt wysoka i zostanie automatycznie wyłączona.
+[shuttlecock.sport|1]: Wolant
+[shuttlecock_kicking.sport|1]: Kopnięcie lotką
+[single_bar.sport|1]: Poziomy pasek
+[sit_ups.sport|1]: Przysiady
+[size_error.bp|1]: Wybierz ponownie rozmiar
+[size_error_exp.bp|1]: Rozmiar zainstalowanej poduszki powietrznej jest niezgodny z ustawionym rozmiarem. Proszę wybrać nowy rozmiar.
+[sj_lunar.calendar|1]: Mróz
+[skate.sport|1]: deskorolka
+[skin_exp.temp|1]: Opis temperatury skóry
+[skin_not_allow_high.temp|1]: Wykryto, że temperatura skóry jest zbyt wysoka i nie można jej dokładnie zmierzyć. Spróbuj ponownie później.
+[skin_not_allow_low.temp|1]: Wykryta temperatura skóry jest zbyt niska i nie można jej dokładnie zmierzyć. Spróbuj ponownie później.
+[skin_temp.temp|1]: Temperatura skóry
+[sled.sport|1]: sanki
+[sleep|1]: czas trwania snu
+[sleep_breathe.settings|1]: Wykrywanie jakości oddychania podczas snu
+[sleep_precision.settings|1]: Bardzo precyzyjne monitorowanie snu
+[sleep_times.reminder|1]: czas snu
+[sleep_week.sleep|1]: Sen w ciągu ostatnich 7 dni
+[slow_down.sport|1]: Proszę zwolnić
+[sn.common|1]: numer seryjny
+[sn.settings|1]: Numer seryjny
+[sn.system|1]: Numer seryjny
+[snorkeling.sport|1]: Nurkowanie z rurką
+[snow_car.sport|1]: Samochód śnieżny
+[snow_sports.sport|1]: Sporty zimowe
+[snowboarding.sport|1]: Jazda na snowboardzie
+[snowmobile.sport|1]: Skuter śnieżny
+[social_dancing.sport|1]: Taniec towarzyski
+[softball.sport|1]: softball
+[software_version.check_tool|1]: Wersja oprogramowania :
+[soinning.sport|1]: Rower spinningowy
+[source_info.settings|1]: Trzymaj przedramiona równolegle do klatki piersiowej, dłonie w dół, a ekran w górę .
+[specifications.health|1]: Model specyfikacji
+[speed_avg_imp.sport|1]: Średnia prędkość (mph)
+[speed_imp.sport|1]: Prędkość (mph)
+[speed_remind.sport|1]: Przypomnienie o prędkości
+[speed_up.sport|1]: Proszę przyspieszyć
+[sport|1]: Sport
+[sport_expression.sport|1]: Wyniki sportowe
+[sport_fail.bp|1]: Nie można dokonać pomiaru ciśnienia krwi podczas ćwiczeń . Przerwij ćwiczenie i spróbuj ponownie.
+[sport_health.watchface|1]: Zdrowie w sporcie
+[sports.appname|1]: Sport
+[sports_course.appname|1]: Kurs biegowy
+[sports_record.appname|1]: Rekord sportowy
+[spring_festival.calendar|1]: Święto Wiosny
+[square_dance.sport|1]: Taniec kwadratowy
+[squash.sport|1]: Squash
+[stand|1]: stój
+[stand.act|1]: stój
+[stand.explain|1]: Długie siedzenie i niewielka ilość ruchu mogą prowadzić do wielu problemów zdrowotnych. Podczas codziennego noszenia zegarka zaleca się wstać i poruszyć się raz na godzinę. Częste utrzymywanie pozycji stojącej jest wygodnym sposobem na ograniczenie siedzącego trybu życia i zwiększenie zużycia energii.
+[stand.reminder|1]: Przypomnienie o stoisku
+[stand_reach.act|1]: Cel osiągnięty
+[stand_title.explain|1]: Stoisko
+[start.breath|1]: Start
+[start.common|1]: Start
+[start.find_phone|1]: Rozpocznij wyszukiwanie
+[start.health|1]: Rozpocznij pomiar
+[start.settings|1]: Start
+[start.sport|1]: Start
+[start_sport.sport|1]: Rozpocznij sport
+[start_stretch.sport|1]: Rozpocznij rozciąganie
+[start_time.settings|1]: Czas rozpoczęcia
+[start_warmup.sport|1]: Rozpocznij rozgrzewkę
+[starting.alexa|1]: Łączę z Amazon Alexa…
+[state.settings|1]: Doskonały stan żywotności baterii
+[state_screen.settings|1]: Wyświetlanie ekranu
+[status1.training|1]: Niewystarczające
+[status2.training|1]: Dobrze
+[status3.training|1]: Intensywność jest zbyt wysoka
+[status4.training|1]: Nadmierne ćwiczenia
+[status_dsc.training|1]: Stan ćwiczeń w ciągu ostatnich 7 dni
+[stay_still.health|1]: Proszę, nie ruszaj się
+[step|1]: liczba kroków
+[step.act|1]: liczba kroków
+[step.explain|1]: Chodzenie mniej niż 5000 kroków dziennie należy do siedzącego i mniej aktywnego trybu życia, natomiast chodzenie od 8 000 do 10 000 kroków dziennie należy do bardziej aktywnego stylu życia. Odpowiednia aktywność fizyczna może skutecznie kontrolować wagę i kształtować zdrowe nawyki żywieniowe.
+[step_minute.sport|1]: krok / minutę
+[step_reach.act|1]: Osiągnięto cel kroków
+[step_title.explain|1]: Liczba kroków
+[step_training.sport|1]: trening krokowy
+[stepper.sport|1]: Stepper
+[stick_skin.health|1]: Noś go ściśle przy skórze
+[stop.calendar|1]: Stop
+[stop.common|1]: Przestań
+[stop.find_phone|1]: Zatrzymaj wyszukiwanie
+[stop.reminder|1]: Stop
+[stop.sport|1]: Zakończ sport
+[stopwatch|1]: minutnik
+[storag_status.check_tool|1]: Status urzędujący :
+[storag_test.check_tool|1]: Wykrywanie pamięci (6/14)
+[storage_space.sport|1]: Za mało miejsca na dysku
+[storage_space_tips.sport|1]: Podłącz telefon i zsynchronizuj dane, \n , aby zwolnić miejsce. Jeśli będziesz kontynuować ćwiczenia, zapisy poprzednich ćwiczeń mogą zostać nadpisane.
+[strap_L.bp|1]: Pasek w rozmiarze L i poduszka powietrzna
+[strap_M.bp|1]: Pasek w rozmiarze M i poduszka powietrzna
+[strap_airbag.bp|1]: Pasek i poduszka powietrzna
+[strap_exp1.bp|1]: Wybierz odpowiedni pasek i poduszkę powietrzną zgodnie z wynikami linijki, zapoznaj się z opisem obwodu nadgarstka
+[street_dance.sport|1]: taniec uliczny
+[strength_training.sport|1]: Trening siłowy
+[stretch.sport|1]: Rozciągnij
+[stretch_after_jump.sport|1]: Rozciąganie po skakance
+[stretch_after_long_run.sport|1]: Rozciąganie po biegach na średnim i długim dystansie
+[stretch_after_run.sport|1]: Rozciąganie po biegu
+[stretch_course.sport|1]: Kurs rozciągający
+[stretch_cycling.sport|1]: Kompleksowe rozciąganie po jeździe na rowerze
+[stretch_end.sport|1]: Rozciąganie zakończone
+[stretch_total_body.sport|1]: Kompleksowe rozciąganie całego ciała
+[stride_frequency.sport|1]: częstotliwość kroków
+[strike.sport|1]: ćwiczenie uderzenia
+[style.wf|1]: styl
+[sublist.todo|1]: Lista rzeczy do zrobienia
+[summarize.sport|1]: Podsumowanie
+[sunRise|1]: wschód słońca
+[sunSet|1]: zachód słońca
+[suntimehead.weather|1]: Wschód i zachód słońca
+[sure.watchface|1]: Potwierdź
+[sure_to_close_all_reminder.sport|1]: Potwierdzić zamknięcie wszystkich przypomnień sportowych?
+[sure_to_reset_all_setting.sport|1]: Potwierdzić zresetowanie wszystkich ustawień sportowych?
+[surfing.sport|1]: Narty wodne
+[surfing_indoor.sport|1]: Surfing w pomieszczeniach
+[swim_indoor.sport|1]: Pływanie w basenie
+[swim_lock_prompt.sport|1]: Aby zapobiec przypadkowym dotknięciom, ekran \n zostanie automatycznie zablokowany podczas pływania \n . Aby odblokować , podświetl ekran, przesuń w górę i ponownie w dół.
+[swim_main_style.sport|1]: Główny styl pływania
+[swim_outdoor.sport|1]: Pływanie w wodach otwartych
+[swimming_time.sport|1]: czas pływania
+[swing.sport|1]: huśtawka
+[swipe_finish.nfc|1]: Przeciągnięcie karty zakończone
+[switch.share|1]: Automatyczne przełączanie w przypadku połączeń przychodzących
+[swordsmanship.sport|1]: Szermierka / Kendo
+[sys_e.bp|1]: ( skurczowe ciśnienie krwi )
+[sys_newphone.common|1]: Połącz się z nowym telefonem
+[sys_newphone_info.common|1]: Podłączenie do nowego telefonu spowoduje rozłączenie bieżącego połączenia. Jeśli nie zmienisz konta, powiązane dane osobowe nie zostaną utracone. Czy chcesz kontynuować?
+[sys_poweroff.common|1]: Zamknij
+[sys_poweroff.settings|1]: Zamknij
+[sys_poweroff_info.common|1]: Potwierdzić zamknięcie?
+[sys_poweroff_info.settings|1]: Potwierdzić zamknięcie?
+[sys_reboot.common|1]: Uruchom ponownie
+[sys_reboot.settings|1]: Uruchom ponownie
+[sys_reboot_info.common|1]: Potwierdzić ponowne uruchomienie?
+[sys_reboot_info.settings|1]: Potwierdzić ponowne uruchomienie?
+[sys_reset.common|1]: Reset do ustawień fabrycznych
+[sys_reset.settings|1]: Reset do ustawień fabrycznych
+[sys_reset_info.common|1]: Zapisy danych i ustawienia zostaną usunięte. Czy na pewno chcesz przywrócić ustawienia fabryczne?
+[sys_reset_info.settings|1]: Zapisy danych i ustawienia zostaną usunięte. Czy na pewno chcesz przywrócić ustawienia fabryczne?
+[system.settings|1]: Działanie systemu
+[system_option.setupwizard|1]: Działanie systemu
+[system_reboot.ota|1]: System uruchomi się ponownie
+[system_title.settings|1]: Działanie systemu
+[taekwondo.sport|1]: Taekwondo
+[taichi.sport|1]: Tai Chi
+[tail_tips.phone|1]: Wyświetla tylko ostatnie 30 rekordów wygenerowanych przez zegarek .
+[target_%d_kcal.act|2]: Docelowy %d kcal | Docelowy %d kcal
+[target_%d_minute.act|2]: Docelowy %d minut | Docelowy %d minut
+[target_%d_minute.sport|2]: Docelowy %.*f minut | Docelowy %.*f minut
+[target_%d_num.act|2]: Cel %d razy | Cel %d razy
+[target_%d_step.act|2]: Docelowy %d krok | Docelowy %d krok
+[target_accomplishment%d%%.sport|1]: Realizacja celu %d%%
+[target_accomplishment.sport|1]: Osiągnięcie celu
+[target_cal.sport|1]: Docelowy poziom kalorii
+[target_confirm.sport|1]: Skonfigurowałeś trening interwałowy. Włączenie ustawień celu spowoduje wyłączenie treningu interwałowego. Czy na pewno chcesz włączyć ustawienia celu?
+[target_distance.sport|1]: Odległość docelowa
+[target_duration.sport|1]: docelowy czas trwania
+[target_heartrate_zone.sport|1]: Docelowa strefa tętna
+[target_number.sport|1]: liczba docelowa
+[target_range%d-%d.sport|2]: Zakres docelowy %d-%d| Zakres docelowy %d-%d
+[target_times.sport|1]: Docelowe czasy
+[target_trips.sport|1]: Docelowa liczba podróży
+[technology_num.health|1]: Numer wymagania technicznego
+[temp_no_schedule.calendar|1]: Nie ma jeszcze harmonogramu
+[temperature.temp|1]: Temperatura
+[temperature_exp.temp|1]: Opis temperatury skóry
+[tenmin.hr|1]: co 10 minut
+[tennis.sport|1]: tenis
+[test_again.check_tool|1]: 
+[test_exit.check_tool|1]: Wyjdź
+[test_fail.check_tool|1]: Nie udało się
+[test_pass.check_tool|1]: Zaliczone
+[test_stop.check_tool|1]: Koniec
+[the_course_has_been_completed.sport|1]: Kurs został ukończony
+[thinking.alexa|1]: Myślenie…
+[thirty_btn.pressure|1]: Ciśnienie w ciągu ostatnich 30 dni
+[thirty_title.pressure|1]: Presja w ciągu ostatnich 30 dni
+[thirtymin.hr|1]: co 30 minut
+[this_train_time.breath|1]: Czas trwania tego szkolenia
+[time.alarm|1]: czas
+[time.wf|1]: czas
+[time/min.health|1]: razy / minutę
+[time_break.sport|1]: Przerwa
+[time_break_title.sport|1]: 
+[time_dsc.training|1]: czas regeneracji
+[time_hour.alarm|1]: godzina
+[time_min.alarm|1]: minuty
+[time_on.settings|1]: włączone w określonym czasie
+[time_on_28.settings|1]: włączone w określonym czasie
+[time_on_title.settings|1]: włączone
+[time_rest.sport|1]: czas odpoczynku tej grupy
+[time_rest_total.sport|1]: Czas odpoczynku
+[time_too_short.sport|1]: Czas trwania tego ćwiczenia jest zbyt \nskrótki i rekord nie zostanie zapisany \n .
+[time_too_short_resume.sport|1]: Czas trwania tego ćwiczenia jest zbyt \ nkrótki i rekord nie zostanie zapisany \n Czy chcesz je zakończyć?
+[time_total.sport|1]: Czas trwania sportu
+[time_unit.training|1]: godziny
+[timeout.hr|1]: Przekroczono limit czasu pomiaru
+[timer_deleted.alexa|1]: Timer został usunięty
+[times_group.sport|1]: czasy tej grupy
+[timesetting.alarm|1]: Ustawianie czasu
+[tip.bp|1]: Wskazówka
+[tip.weather|1]: Podłącz Bluetooth i włącz opcję Weather Push w aplikacji , aby uzyskać informacje o pogodzie w mieście.
+[tipapp.weather|1]: Włącz funkcję push pogody w aplikacji
+[tipbt.weather|1]: Bluetooth nie jest podłączony
+[tips.alipay|1]: Urządzenie zostało rozwiązane. Aby dokończyć rozwiązywanie, odłącz urządzenie w Alipay na swoim telefonie komórkowym.
+[tips.weather|1]: Podłącz Bluetooth, aby sprawdzić przełącznik pogody i uzyskać informacje o pogodzie dla miasta.
+[tips1.watchface|1]: Otwórz aplikację mobilną \ nDodaj nową tarczę zegarka
+[tips_open.remote_camera|1]: Najpierw otwórz aparat w telefonie
+[tips_password.wxpay|1]: Aby zapewnić bezpieczeństwo konta, włącz blokadę nadgarstka.
+[title.find_phone|1]: Znajdź telefon komórkowy
+[title.oxygen|1]: Nasycenie krwi tlenem
+[title.pressure|1]: Ciśnienie
+[title.sleep|1]: Śpij
+[title.timer|1]: Odliczanie
+[to_enable.wxpay|1]: Użyj kodu skanującego WeChat , aby włączyć
+[to_get1.training|1]: 1. Wprowadź dokładne dane osobowe w aplikacji .
+[to_get2.training|1]: 2. Załóż bransoletkę do biegania na świeżym powietrzu przez co najmniej 10 minut, a wartość tętna musi zostać wygenerowana i osiągnąć 75% tętna maksymalnego .
+[tob.alipay|1]: Zmień kod kreskowy
+[today.calendar|1]: Dzisiaj
+[today.common|1]: Dzisiaj
+[today.todo|1]: Dzisiaj
+[today.tomatotimer|1]: Dzisiaj
+[today_d.common|1]: Dzisiaj
+[today_no_remind.act|1]: Dzisiaj nie ma już więcej przypomnień
+[today_no_title.calendar|1]: Dzisiaj nie ma harmonogramu
+[today_rest.hr|1]: Odpocznij dzisiaj
+[today_t.calendar|1]: Dzisiaj
+[today_t.common|1]: Dzisiaj
+[todayget%d_widget.vitality|1]: Zdobądź %d już dziś
+[todayget.vitality|1]: Zdobądź już dziś
+[todayget80.vitality|1]: Zdobądź 80 dzisiaj
+[todayget80_text.vitality|1]: Limit jednego dnia został osiągnięty . Jeśli będziesz kontynuować ćwiczenia, nie zdobędziesz więcej punktów witalności. Zwróć uwagę na równowagę pomiędzy pracą i odpoczynkiem ~
+[todo.appname|1]: Do zrobienia
+[tomorrow.common|1]: Jutro
+[tomorrow.todo|1]: Jutro
+[tomorrow.wm|1]: jutro
+[tools.common|1]: Narzędzia
+[toq.alipay|1]: Zmień kod QR
+[total_nums.sport|1]: Całkowita liczba
+[total_rowing_times.sport|1]: Całkowity czas wiosłowania
+[total_stokes.sport|1]: Całkowita liczba uderzeń
+[tp_sign.check_tool|1]: Wykonaj \ noperacje połączenia na wszystkich blokach
+[tp_test.check_tool|1]: Wykrywanie linii TP (9/14)
+[track_and_field.sport|1]: Lekkoatletyka
+[train.breath|1]: trening oddechowy
+[train.sport|1]: trening
+[train_setting.sport|1]: Ustawienia treningu
+[training.sport|1]: Trening
+[training_interrupted.breath|1]: Twój trening oddechowy został przerwany
+[training_load.sport|1]: Obciążenie treningowe
+[training_result.breath|1]: Wyniki treningu
+[transport.share|1]: Przezroczysty
+[triathlon.sport|1]: Triathlon
+[trips_group.sport|1]: Liczba wycieczek w tej grupie
+[try_again_later.wxpay|1]: Spróbuj ponownie później
+[tug_of_war.sport|1]: Przeciąganie liny
+[turning_word.weather|1]: skręcanie
+[turnoff.alarm|1]: wyłącz
+[turnoff.common|1]: Zamknij
+[turnoff.reminder|1]: Zamknij
+[turnoff.todo|1]: Zamknij
+[turnon.common|1]: Otwarte
+[twelfth_month_lunar.calendar|1]: dwunasty miesiąc księżycowy
+[twenty_day_lunar.calendar|1]: dwadzieścia
+[unable_to_pay.wxpay|1]: Płatność jest chwilowo niedostępna
+[unbind.alipay|1]: Rozłącz
+[unbinding.wxpay|1]: 
+[unbinding_tips.wxpay|1]: Po odłączeniu urządzenia nie będziesz mógł używać WeChat Pay do płatności.
+[unbound.wxpay|1]: 
+[uncompleted.todo|1]: Nieukończone
+[uncompleted32.todo|1]: nieukończone
+[unit.bp|1]: ustawienie jednostki
+[unit_calorie.sport|1]: kilokalorie
+[unit_foot.sport|1]: stopy
+[unit_kilometer.sport|1]: Kilometr
+[unit_meter.sport|1]: metr
+[unit_mile.sport|1]: mila
+[unit_minute.sport|1]: minuta
+[unit_mph.sport|1]: mph
+[unit_num_cycle.sport|1]: Grupa
+[unit_number.sport|1]: jednostka
+[unit_rope_freq.sport|1]: Częstotliwość ( razy / minutę )
+[unit_rowing_freq.sport|1]: Częstotliwość ( razy / minutę )
+[unit_speed.sport|1]: km/h
+[unit_times.sport|1]: razy
+[unit_trips.sport|1]: wycieczki
+[unlock_confirm.system|1]: Czy żądanie autoryzacji odblokowania odbywa się za pośrednictwem telefonu komórkowego?
+[unlock_use.common|1]: Użyj bransoletki po jej odblokowaniu
+[unopenswitch.alarm|1]: Niewłączony
+[unread_message.notify|1]: Nowa wiadomość
+[unwanted.settings|1]: Optymalizacja nie jest wymagana
+[up_sign.setupwizard|1]: Przesuń w górę , aby zeskanować kod
+[update_back.setupwizard|1]: Wersja sprzed aktualizacji została przywrócona
+[update_fail.setupwizard|1]: Aktualizacja nie powiodła się
+[update_just.weather|1]: Właśnie zaktualizowano
+[update_succ.setupwizard|1]: Aktualizacja powiodła się
+[update_time.weather|1]: Aktualizacja
+[upgrading.ota|1]: Przygotowanie do aktualizacji \ nWeryfikacja
+[upload_fail.check_tool|1]: Przesyłanie nie powiodło się
+[upload_sign.check_tool|1]: Po zakończeniu przesyłania przejdź do aplikacji , aby wyświetlić podsumowanie
+[upload_success.check_tool|1]: Przesyłanie zakończone
+[upper_limb_training.sport|1]: Trening górnych partii ciała
+[upper_limit_reminder%dtimes/minute.sport|2]: Przypomnienie o górnym limicie %d razy / minutę | Przypomnienie o górnym limicie %d razy / minutę
+[use.alipay|1]: OK
+[user_mismatch.setupwizard|1]: Parowanie z telefonem komórkowym z innym kontem. Aby kontynuować parowanie, należy przywrócić ustawienia fabryczne, a dane osobowe zostaną usunięte. Czy kontynuować?
+[uvdes.weather|1]: Indeks UV
+[version_info.check_tool|1]: Sprawdzanie informacji o wersji
+[very_good.breath|1]: bardzo dobrze
+[vibrate_enhance.settings|1]: Ulepsz
+[vibrate_mode.settings|1]: Tryb wibracji
+[vibrate_mode_title.settings|1]: Tryb wibracji
+[vibrate_standard.settings|1]: Standardowe
+[visitor.bp|1]: Pomiar liczby odwiedzających
+[visitor_hint.bp|1]: Podczas pomiaru gości wyniki pomiarów nie będą rejestrowane. Chcesz wejść?
+[voice.bp|1]: Transmisja głosowa
+[voice_exp.bp|1]: Po włączeniu, podczas procesu pomiaru będą prowadzone wskazówki głosowe.
+[voice_mode.share|1]: Tryb głosowy
+[volleyball.sport|1]: Siatkówka
+[waist_training.sport|1]: Trening talii i brzucha
+[wait.reminder|1]: Później
+[waiting_location.sport|1]: Zaleca się poczekać na ustawienie pozycji przed rozpoczęciem ćwiczeń.
+[wake_num.sleep|1]: Liczba przebudzeń
+[wake_up.reminder|1]: Obudź się i rozpocznij piękny dzień
+[walk_indoor.sport|1]: Spacery w pomieszczeniach zamkniętych
+[walk_outdoor.sport|1]: Chodzenie
+[walking_maching.sport|1]: Maszyna do chodzenia
+[wall_ball.sport|1]: Piłka ścienna
+[warm_up.sport|1]: Rozgrzewka
+[warm_up_done.sport|1]: Kompletna rozgrzewka
+[warm_up_interval.sport|1]: Interwał rozgrzewki
+[warm_up_time.sport|1]: Czas rozgrzewki
+[warmup_before_jump.sport|1]: Rozgrzewka przed skakanką
+[warmup_before_long_run.sport|1]: Rozgrzewka przed biegiem na średnim i długim dystansie
+[warmup_before_run.sport|1]: Rozgrzewka przed biegiem
+[warmup_course.sport|1]: Kurs rozgrzewkowy
+[warmup_cycling.sport|1]: Kompleksowa rozgrzewka przed jazdą
+[warmup_end.sport|1]: Zakończono rozgrzewkę
+[warmup_switch.sport|1]: Przełącz
+[warmup_total_body.sport|1]: Kompleksowa rozgrzewka całego ciała
+[warmup_zone.hr|1]: Strefa rozgrzewki:
+[warmup_zone1.hr|1]: Maksymalne tętno x ( 51% - 60% ), odpowiednie do rozgrzewki przed ćwiczeniami i regeneracji po wysiłku.
+[warning.flashlight|1]: Poziom naładowania baterii jest niższy niż 5%
+[warning2.flashlight|1]: Aktualny poziom baterii jest mniejszy niż 5% i nie można włączyć latarki .
+[watchface.settings|1]: Wymiana tarczy zegarka
+[watchmode.settings|1]: Model bransoletki
+[water_polo.sport|1]: piłka wodna
+[water_sports.sport|1]: sporty wodne
+[wear.ecg|1]: Metoda noszenia
+[wear_exp1.bp|1]: Proszę nosić linijkę na szerokość dwóch palców od nadgarstka.
+[wear_exp2.bp|1]: Za pomocą linijki zmierz obwód nadgarstka zgodnie z ilustracją.
+[wear_exp3.bp|1]: Następnie noś zegarek zgodnie ze skalą wskazaną przez strzałkę na linijce, omijając kości nadgarstków. Więcej informacji można znaleźć w instrukcji pomiaru.
+[wear_guidance.bp|1]: Wskazówki dotyczące noszenia
+[wear_tight.health|1]: Noś go ściśle przy skórze
+[wearing_notice.settings|1]: Powiadamiaj tylko podczas noszenia
+[wearing_notice_toast.settings|1]: Powiadomienia o wiadomościach zostaną wyłączone, gdy wykryto, że bransoletka zsunęła się z nadgarstka.
+[wearloose.temp|1]: Luźne noszenie może mieć wpływ na dokładność danych lub nawet uniemożliwić uzyskanie wartości. Noś mocniej.
+[weather.common|1]: Pogoda
+[weatherCondition|1]: Pogoda
+[weather_title.alexa|1]: Znaleziono dla Ciebie:
+[web_swimming.sport|1]: Serfowanie w Internecie
+[wechat.common|1]: WeChat
+[wechatPayment|1]: Płatność WeChat
+[weekly.alarm|1]: cotygodniowy
+[weightlifting.sport|1]: Podnoszenie ciężarów
+[weiqi.sport|1]: Idź
+[widget_calorie.act|1]: Kalorie
+[widget_intensity.act|1]: Aktywność o intensywności od umiarkowanej do wysokiej
+[widget_stand.act|1]: stoisko
+[widget_step.act|1]: liczba kroków
+[windLevel|1]: Poziom wiatru
+[wind_east.weather|1]: Wiatr wschodni
+[wind_north.weather|1]: Wiatr północny
+[wind_northeast.weather|1]: Wiatr północno-wschodni
+[wind_northwest.weather|1]: wiatr północno-zachodni
+[wind_south.weather|1]: Wiatr południowy
+[wind_southeast.weather|1]: Wiatr południowo-wschodni
+[wind_southwest.weather|1]: Wiatr południowo-zachodni
+[wind_west.weather|1]: Wiatr zachodni
+[winter_sports.sport|1]: Sporty na lodzie i śniegu
+[winunit.weather|1]: poziom
+[wm_exp.wm|1]: Opis
+[womenhealth.wm|1]: Zdrowie kobiet
+[work_day.calendar|1]: zajęcia
+[workday.alarm|1]: dzień roboczy
+[workday.common|1]: Dzień roboczy
+[workday.todo|1]: Dzień roboczy
+[wrestling.sport|1]: zapasy
+[wrist.bp|1]: Opis obwodu nadgarstka
+[wrist_exp1.bp|1]: 1-8 wskazuje, że zakres obwodu nadgarstka wynosi 130-160mm.Ten zakres jest odpowiedni do noszenia pasów w rozmiarze M i poduszek powietrznych.
+[wrist_exp2.bp|1]: Zakres obwodu nadgarstka reprezentowany przez 9-15 to 161-200 mm . Ten zakres jest odpowiedni do noszenia pasów w rozmiarze L i poduszek powietrznych.
+[wrist_exp3.bp|1]: Jeśli skala obwodu nadgarstka przekracza 15 działek, może to mieć wpływ na dokładność pomiaru ciśnienia krwi bez wystarczającej weryfikacji.
+[wrist_screen.settings|1]: Podnieś nadgarstek, aby włączyć ekran
+[wristlift.settings|1]: Podnieś nadgarstek, aby podświetlić ekran
+[wristlift_info.settings|1]: Ekran spoczynkowy jest obecnie włączony , a podniesienie nadgarstka w celu włączenia ekranu skróci czas pracy baterii \n . Czy na pewno to włączyć?
+[wristlift_title.settings|1]: Podnieś nadgarstek, aby podświetlić ekran
+[wxpay.appname|1]: Płatność WeChat
+[xh_lunar.calendar|1]: Xiaohan
+[xiaomi.health|1]: Xiaomi Communication Technology Co., Ltd.
+[xiaomitv.share|1]: Telewizja
+[xm_lunar.calendar|1]: Człowiek Xiao
+[xn_festival.calendar|1]: 小年
+[xs_lunar.calendar|1]: Xiaoshu
+[xx_lunar.calendar|1]: Xiaoxue
+[xz_lunar.calendar|1]: Przesilenie letnie
+[yes_try_again.settings|1]: Bardzo dobrze, spróbuj ponownie \n !
+[yesterday.common|1]: wczoraj
+[yesterday.todo|1]: wczoraj
+[yoga.sport|1]: Joga
+[ys_lunar.calendar|1]: Deszcz
+[yx_festival.calendar|1]: Święto Latarni
+[zone.hr|1]: Strefa tętna
+[zone.pressure|1]: rozkład ciśnienia
+[zoneexp.hr|1]: Opis strefy tętna
+[zq_festival.calendar|1]: Święto Środka Jesieni
+[zumba.sport|1]: Zumba
+[zy_festival.calendar|1]: Festiwal Głodnych Duchów
