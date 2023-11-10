@@ -598,7 +598,7 @@
 [blue_retry.nfc|1]: Connect via Bluetooth and try again
 [bobby_jump.sport|1]: Burpee
 [bocci.sport|1]: Bocci
-[body_allow_high.temp |1]: It is detected that the surface temperature is too high, which may affect the accuracy of the data and even prevent the value from being output. 
+[body_allow_high.temp|1]: It is detected that the surface temperature is too high, which may affect the accuracy of the data and even prevent the value from being output. 
 [body_allow_low.temp|1]: The body temperature of the body is detected to be too low, which may affect the accuracy of the data and even prevent the value from being output. 
 [body_not_allow_high.temp|1]: The surface body temperature is detected to be too high and cannot be measured accurately. Please try again later. 
 [body_not_allow_low.temp|1]: The surface body temperature is detected to be too low and cannot be measured accurately. Please try again later. 
@@ -1036,7 +1036,7 @@
 [handwrist_info3.settings|1]: Quickly turn outward 90 degrees
 [handwrist_info4.settings|1]: Then quickly turn inward and return
 [has_done%d.breath|1]: Session: %d min
-[have_beat.hr |1]: Abnormal heart rate 
+[have_beat.hr|1]: Abnormal heart rate 
 [have_high.hr|1]: High HR
 [have_low.hr|1]: Low HR
 [heartRate|1]: Heart rate
@@ -1504,7 +1504,7 @@
 [not_disturb_open.settings|1]: DND is on
 [not_enabled.wxpay|1]: Not enabled
 [not_install.bp|1]: The airbag is not installed correctly 
-[not_install_exp.bp |1]: The air bag is not installed, please check in time to avoid water damage to the equipment. 
+[not_install_exp.bp|1]: The air bag is not installed, please check in time to avoid water damage to the equipment. 
 [not_measure.bp|1]: Not measuring yet 
 [not_play.media|1]: Not playing
 [not_remind.sport|1]: Dismiss
@@ -2007,7 +2007,7 @@
 [swordsmanship.sport|1]: Kendo
 [sys_e.bp|1]: (systolic blood pressure) 
 [sys_newphone.common|1]: Connect new phone 
-[sys_newphone_info.common |1]: Connecting to a new phone will disconnect the current connection, and personal data bound to the account will not be lost if you do not change the account. Do you want to continue? 
+[sys_newphone_info.common|1]: Connecting to a new phone will disconnect the current connection, and personal data bound to the account will not be lost if you do not change the account. Do you want to continue? 
 [sys_poweroff.common|1]: Power off
 [sys_poweroff.settings|1]: Power off
 [sys_poweroff_info.common|1]: Power off now?
@@ -2144,7 +2144,7 @@
 [turnoff.todo|1]: Turn off
 [turnon.common|1]: On
 [twelfth_month_lunar.calendar|1]: Twelfth lunar month 
-[twenty_day_lunar.calendar |1]: Twenty 
+[twenty_day_lunar.calendar|1]: Twenty 
 [unable_to_pay.wxpay|1]: Unable to pay
 [unbind.alipay|1]: Remove
 [unbinding.wxpay|1]: Unlink
