@@ -445,7 +445,7 @@
 [alarm_deleted.alexa|1]: Alarm deleted 
 [alarm_title.alexa|1]: The following alarms have been set for you: 
 [alert_tip.weather|1]: Alarm notification 
-[alexa.appname|1 ]: Alexa 
+[alexa.appname|1]: Alexa 
 [alipayPaymentCode|1]: Alipay
 [allbreath%d.breath|2]: %d breath|%d breaths
 [allday.calendar|1]: All day
@@ -871,7 +871,7 @@
 [energy.sport|1]: Hydration
 [energy_distance.sport|1]: Distance
 [energy_time.sport|1]: Time
-[enter_pwd.nfc|1 ]: Enter password 
+[enter_pwd.nfc|1]: Enter password 
 [ephemeris_expired.sport|1]: GPS data expired
 [ephemeris_expired_tips.sport|1]: Connect to your phone to speed up GPS positioning.
 [equesttrian.sport|1]: Equestrian
@@ -972,7 +972,7 @@
 [fw_ver.settings|1]: Version No.
 [gas_leak.bp|1]: Inflating error
 [gas_leak_exp.bp|1]: Please check the air bag air tightness and tightness, and wear it correctly.  
-[hand_info.settings|1 ]: Try to quickly turn your wrist outward 90\n degrees, then quickly turn your wrist inward and return, waiting for the recognition result. It needs to be recognized successfully 2 times.
+[hand_info.settings|1]: Try to quickly turn your wrist outward 90\n degrees, then quickly turn your wrist inward and return, waiting for the recognition result. It needs to be recognized successfully 2 times.
 [gateball.sport|1]: Gateball
 [gesture.settings|1]: Quick gestures
 [gesture_course.settings|1]: Gesture tutorial
@@ -1726,7 +1726,7 @@
 [remove_airbag_exp.bp|1]: Please check and install the airbag or cover correctly board to avoid water damage to the equipment. 
 [remove_warning%d.home|2]: Unable to remove, please keep at least %d page widgets|Unable to remove, please keep at least %d page widgets 
 [repeate.alarm|1]: Repeat 
-[reply.common|1 ]: Reply 
+[reply.common|1]: Reply 
 [report_cd_data.sport|1]: Summary
 [report_cd_freq.sport|1]: Frequency
 [report_cd_hr.sport|1]: Heart rate
@@ -1757,7 +1757,7 @@
 [rest_total.tomatotimer|1]: Rest time
 [rest_total_pause.tomatotimer|1]: Rest time
 [restart.health|1]: Restart 
-[restart.hr|1 ]: Try again
+[restart.hr|1]: Try again
 [restart.health|1]: Restart
 [restart.hr|1]: Try again
 [resting.tomatotimer|1]: Resting
